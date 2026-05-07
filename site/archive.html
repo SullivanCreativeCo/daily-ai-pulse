@@ -18,10 +18,24 @@
   </header>
   <main class="reading-column">
     <h1 class="archive-title">Archive</h1>
-    <p>(no archive yet — first harvest hasn't run)</p>
+    <input id="filter" type="search" placeholder="Filter by keyword..." class="filter-input" />
+    <ul class="archive-list" id="archive-list">
+      <li class="archive-item"><a href="archive/2026-05-07.html"><span class="archive-date">2026-05-07</span><span class="archive-headline">Synthesis hit an error today. Raw inputs saved to archive.json. Error: ANTHROPIC_API_KEY not set</span></a></li>
+    </ul>
   </main>
   <footer class="site-footer">
     <p>Harvested daily. Synthesized by Claude.</p>
   </footer>
+  <script>
+    const input = document.getElementById('filter');
+    const list = document.getElementById('archive-list');
+    input.addEventListener('input', () => {
+      const q = input.value.trim().toLowerCase();
+      for (const li of list.children) {
+        const hay = li.textContent.toLowerCase();
+        li.style.display = !q || hay.includes(q) ? '' : 'none';
+      }
+    });
+  </script>
 </body>
 </html>
