@@ -1,1 +1,56 @@
-[]
+[
+  {
+    "kind": "digest",
+    "date": "2026-05-07",
+    "headline": "Synthesis hit an error today. Raw inputs saved to archive.json. Error: ANTHROPIC_API_KEY not set",
+    "url": "archive/2026-05-07.html"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-05-07",
+    "source": "The Koerner Office",
+    "title": "He Makes $3.5K/Day With These Simple Ugly Websites",
+    "url": "https://www.youtube.com/watch?v=xUZYy3hCRUM",
+    "video_id": "xUZYy3hCRUM"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-05-07",
+    "source": "The Koerner Office",
+    "title": "He Spends 1 Hour a Week on This Business",
+    "url": "https://www.youtube.com/watch?v=cFr-bNBsPb8",
+    "video_id": "cFr-bNBsPb8"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-05-07",
+    "source": "The Koerner Office",
+    "title": "He Makes $4K/Day With This Weird Middleman Business",
+    "url": "https://www.youtube.com/watch?v=QgkkVpA3rR8",
+    "video_id": "QgkkVpA3rR8"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-05-07",
+    "source": "Startup Ideas Podcast",
+    "title": "Google's Design.md is a design team in a file",
+    "url": "https://www.youtube.com/watch?v=oLu32YpiIJw",
+    "video_id": "oLu32YpiIJw"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-05-07",
+    "source": "Startup Ideas Podcast",
+    "title": "AI Agents run my business and life",
+    "url": "https://www.youtube.com/watch?v=65IAqRUxg3c",
+    "video_id": "65IAqRUxg3c"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-05-07",
+    "source": "Startup Ideas Podcast",
+    "title": "Making $$ with AI Agents",
+    "url": "https://www.youtube.com/watch?v=nyO60uzTnP4",
+    "video_id": "nyO60uzTnP4"
+  }
+]
