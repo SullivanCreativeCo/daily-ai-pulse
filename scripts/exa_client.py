@@ -26,6 +26,7 @@ def search(
     category: str = "news",
     start_published_date: Optional[str] = None,
     num_results: int = 5,
+    include_domains: Optional[list] = None,
 ) -> list[dict]:
     """Run an Exa /search call. Returns clean dicts.
 
@@ -40,6 +41,8 @@ def search(
         kwargs["category"] = category
     if start_published_date:
         kwargs["start_published_date"] = start_published_date
+    if include_domains:
+        kwargs["include_domains"] = include_domains
 
     try:
         resp = client.search_and_contents(

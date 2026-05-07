@@ -34,21 +34,27 @@ PODCAST_SOURCES = [
      "url": "https://www.youtube.com/@thekoerneroffice"},
     {"name": "Startup Ideas Podcast",
      "url": "https://www.youtube.com/playlist?list=PLQHTakJAwGLMQxKVlKUVpC7aiYTZ2j2J9"},
+    {"name": "Corey Ganim",
+     "url": "https://www.youtube.com/@coreyganim"},
+    {"name": "AI Daily Brief",
+     "url": "https://www.youtube.com/@AIDailyBrief"},
+    {"name": "The Boring Marketer",
+     "url": "https://www.youtube.com/@theboringmarketer"},
+    {"name": "The Entrepreneur's Studio",
+     "url": "https://www.youtube.com/@theentrepreneursstudio2010"},
 ]
 
 NEWS_TOPICS = [
-    {"key": "launches",
-     "label": "AI launches & announcements",
-     "query": "new AI product launch OR new AI model announcement"},
-    {"key": "enterprise",
-     "label": "Enterprise AI moves",
-     "query": "Fortune 500 enterprise AI deployment OR enterprise AI contract"},
-    {"key": "harnesses",
-     "label": "New AI harnesses",
-     "query": "new AI agent framework OR agent harness OR eval suite OR agent infrastructure"},
-    {"key": "tools",
-     "label": "New AI tools",
-     "query": "new AI developer tool OR AI platform launch OR AI product shipping"},
+    {"key": "model_releases",
+     "label": "AI model releases",
+     "query": "new AI model release OR new LLM announcement OR foundation model launch"},
+    {"key": "product_releases",
+     "label": "AI product releases",
+     "query": "new AI product launch OR AI app release OR AI tool shipping today"},
+    {"key": "x_posts",
+     "label": "Popular X posts about AI",
+     "query": "popular trending tweets about AI agents and AI products",
+     "include_domains": ["x.com", "twitter.com"]},
 ]
 
 
@@ -119,6 +125,7 @@ def harvest_news(seen_urls: set[str]) -> dict[str, list[dict]]:
                 category="news",
                 start_published_date=yesterday,
                 num_results=5,
+                include_domains=topic.get("include_domains"),
             )
         except Exception as e:
             print(f"[harvest] news search failed for {topic['key']}: {e}")
