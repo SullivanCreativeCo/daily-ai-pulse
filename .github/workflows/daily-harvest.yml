@@ -1,0 +1,29 @@
+name: Daily AI Pulse Harvest
+on:
+  schedule:
+    - cron: '0 13 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  harvest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install -r requirements.txt
+      - run: python scripts/harvest.py
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          EXA_API_KEY: ${{ secrets.EXA_API_KEY }}
+      - name: Commit and push
+        run: |
+          git config user.name "daily-ai-pulse-bot"
+          git config user.email "actions@github.com"
+          git add site/
+          git diff --staged --quiet || git commit -m "Daily harvest $(date -u +%Y-%m-%d)"
+          git push
