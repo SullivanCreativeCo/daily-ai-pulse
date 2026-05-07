@@ -52,5 +52,59 @@
     "title": "Making $$ with AI Agents",
     "url": "https://www.youtube.com/watch?v=nyO60uzTnP4",
     "video_id": "nyO60uzTnP4"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-05-07",
+    "headline": "Synthesis hit an error today. Raw inputs saved to archive.json. Error: ANTHROPIC_API_KEY not set",
+    "url": "archive/2026-05-07.html"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-05-07",
+    "source": "The Koerner Office",
+    "title": "He Makes $20k/Month on the Weekends",
+    "url": "https://www.youtube.com/watch?v=2iqowbg2CT8",
+    "video_id": "2iqowbg2CT8"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-05-07",
+    "source": "The Koerner Office",
+    "title": "The Most Profitable Solo Business You've Never Heard Of",
+    "url": "https://www.youtube.com/watch?v=bAzg8BugEVY",
+    "video_id": "bAzg8BugEVY"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-05-07",
+    "source": "The Koerner Office",
+    "title": "The Most Overlooked Side Hustle You Can Start From Home",
+    "url": "https://www.youtube.com/watch?v=GHU8YdA4kxo",
+    "video_id": "GHU8YdA4kxo"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-05-07",
+    "source": "Startup Ideas Podcast",
+    "title": "Stop using Claude. Start using Codex?",
+    "url": "https://www.youtube.com/watch?v=LWx4FGam2aQ",
+    "video_id": "LWx4FGam2aQ"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-05-07",
+    "source": "Startup Ideas Podcast",
+    "title": "[Private video]",
+    "url": "https://www.youtube.com/watch?v=D6pMrU0W6V4",
+    "video_id": "D6pMrU0W6V4"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-05-07",
+    "source": "Startup Ideas Podcast",
+    "title": "Hermes Agent: The New OpenClaw?",
+    "url": "https://www.youtube.com/watch?v=Qn2c_U-cWQs",
+    "video_id": "Qn2c_U-cWQs"
   }
 ]
