@@ -20,13 +20,102 @@
   </header>
   <main class="reading-column">
     <p class="dateline">2026-05-07</p>
-    <p class="last-updated">Last updated 2026-05-07 23:24 UTC</p>
+    <p class="last-updated">Last updated 2026-05-07 23:29 UTC</p>
     <article class="digest">
 <h1 id="daily-ai-pulse-2026-05-07">Daily AI Pulse — 2026-05-07</h1>
 
 <h2 id="todays-headline">Today's headline</h2>
 
-<p>Synthesis hit an error today. Raw inputs saved to archive.json. Error: ANTHROPIC<em>API</em>KEY not set</p>
+<p>The infrastructure layer is eating AI governance — and every major platform just picked a side. Today's moves aren't about models getting smarter; they're about who controls the pipes between agents, memory, and production data.</p>
+
+<h2 id="ai-launches-news">AI launches &amp; news</h2>
+
+<ul>
+<li><strong>Gemini 3.1 Flash-Lite hits GA</strong> — Google Cloud Blog
+Google's fastest, cheapest Gemini 3 model is now production-ready. Designed for ultra-low latency and high-volume tasks, Flash-Lite is already being used for agentic orchestration and real-time code completion. Engineering teams needed instant responsiveness for complex environments — this is Google's answer to the "Claude for everything" default.
+<a rel="noopener" target="_blank" href="https://cloud.google.com/blog/products/ai-machine-learning/gemini-3-1-flash-lite-is-now-generally-available">Read more</a></li>
+</ul>
+
+<blockquote>
+  <p>"Developers are unlocking the instant responsiveness necessary for complex code completion, seamless UX design, and agentic developer tools."</p>
+</blockquote>
+
+<ul>
+<li><strong>Claude Managed Agents adds dreaming</strong> — Anthropic
+Claude agents can now review past sessions, extract patterns, and self-improve through a scheduled "dreaming" process. You control whether memory updates automatically or requires review. This is the first production system that lets agents learn from what they did wrong <em>across sessions</em> — not just within one conversation. Also shipped: outcomes, multiagent orchestration, and webhooks.
+<a rel="noopener" target="_blank" href="https://claude.com/blog/new-in-claude-managed-agents">Read more</a></li>
+</ul>
+
+<blockquote>
+  <p>"Dreaming surfaces patterns that a single agent can't see on its own, including recurring mistakes, workflows that agents converge on, and preferences shared across a team."</p>
+</blockquote>
+
+<ul>
+<li><strong>AWS MCP Server goes GA</strong> — AWS News Blog
+AWS solved the "how do you give an agent AWS access without handing it the keys to the kingdom" problem. The AWS MCP Server is a managed remote Model Context Protocol server that gives AI agents authenticated access to all AWS services through a fixed set of tools. Part of the Agent Toolkit for AWS. The infrastructure wars just got real.
+<a rel="noopener" target="_blank" href="https://aws.amazon.com/blogs/aws/the-aws-mcp-server-is-now-generally-available/">Read more</a></li>
+</ul>
+
+<h2 id="enterprise-ai-moves">Enterprise AI moves</h2>
+
+<ul>
+<li><p><strong>EPAM &amp; Anthropic partner for enterprise transformation</strong> — PR Newswire
+EPAM is building a 10,000-person Claude-certified army (1,300 certified today, 5,000 by Q3) including 250 specialized "Black Belts." Multi-year partnership to deliver safe, enterprise-grade AI using Claude models, Claude Code, and Claude Agent SDK. This is what enterprise distribution looks like when you skip the usual consulting playbook and train an entire services firm on one stack.
+<a rel="noopener" target="_blank" href="https://www.prnewswire.com/news-releases/epam--anthropic-team-up-to-build-the-future-of-enterprise-transformation-with-safe-applied-ai-302763463.html">Read more</a></p></li>
+<li><p><strong>ServiceNow ships AI Control Tower integrations</strong> — IT Tech Pulse
+ServiceNow expanded its AI Control Tower with 30 new enterprise integrations (AWS, Google Cloud, Azure, SAP, Oracle, Workday). Discovery now extends to non-human identities, OT, and IoT assets. Completed acquisition of Traceloop for continuous monitoring. This is the "we'll govern every AI thing you deploy, regardless of where it runs" play.
+<a rel="noopener" target="_blank" href="https://ittech-pulse.com/news/servicenow-expands-ai-control-tower-for-enterprise-ai-governance/">Read more</a></p></li>
+<li><p><strong>IBM Consulting ships Enterprise Advantage updates</strong> — IBM Newsroom
+New capabilities for IBM Enterprise Advantage, the asset-based consulting service that helps clients build their own hybrid-AI platforms. Pearson, Providence, and AWS joined IBM on stage at Think 2026 to show deployment across critical workflows. The pitch: "Organizations aren't just trying to scale AI, they're trying to scale it with control across multiple AI stacks and within their business context."
+<a rel="noopener" target="_blank" href="https://newsroom.ibm.com/2026-05-06-ibm-consulting-expands-ai-capabilities-to-accelerate-enterprise-transformation">Read more</a></p></li>
+</ul>
+
+<h2 id="new-harnesses-tools">New harnesses &amp; tools</h2>
+
+<ul>
+<li><p><strong>Yugabyte launches Meko</strong> — Business Wire
+Meko is an agent-native data infrastructure for multi-agent systems that need to compound learning over time. Replaces the brittle stack of relational databases, vector stores, document stores, caches, and object storage with a unified layer for memory, knowledge, conversation history, and observability. Solves the "how do agents share context and learn together" problem at the data layer.
+<em>Why this matters for thought leaders: Everyone's shipping agents. Almost nobody solved where agent memory lives when five agents need to share context across three weeks of execution.</em>
+<a rel="noopener" target="_blank" href="https://www.businesswire.com/news/home/20260507728812/en/Yugabyte-Launches-Meko-a-Data-Infrastructure-to-Solve-the-Multi-Agent-Memory-and-Knowledge-Problem">Read more</a></p></li>
+<li><p><strong>ServiceNow Build Agent integrates everywhere</strong> — Business Wire
+Build Agent now works inside Cursor, Windsurf, Claude Code, and GitHub Copilot with full ServiceNow context and governance. Developers can build from any IDE or coding agent, and free access to App Engine Management Center governs every app before deployment. The message: "Build wherever you want; we'll govern it by default."
+<em>Why this matters for thought leaders: The "build wherever, govern centrally" model just became table stakes. If your platform doesn't work inside the tools devs already use, you're already losing.</em>
+<a rel="noopener" target="_blank" href="https://www.businesswire.com/news/home/20260506008934/en/ServiceNow-Build-Agent-now-works-inside-every-major-AI-coding-tool-governed-by-default">Read more</a></p></li>
+<li><p><strong>OpenHands ships Agent Control Plane</strong> — Business Wire
+OpenHands launched a centralized operational layer for managing AI agent sprawl across enterprises. Provides orchestration, security, observability, and optimization for agent fleets. The gap: 60%+ of orgs experiment with agents, but almost none deploy them in production (McKinsey). OpenHands is betting the missing piece is infrastructure, not models.
+<em>Why this matters for thought leaders: The "single agent demo" era is over. The next era is "how do I run 100 agents across my org without everything breaking." This is the tooling for that.</em>
+<a rel="noopener" target="_blank" href="https://www.businesswire.com/news/home/20260506314667/en/OpenHands-Launches-an-Agent-Control-Plane-to-Manage-Software-Agents">Read more</a></p></li>
+</ul>
+
+<h2 id="podcast-watch-list">Podcast watch list</h2>
+
+<ul>
+<li><p><strong>The Easiest Way to Actually Make Money With AI</strong> — The Koerner Office
+Chris Koerner and Corey Ganim break down AI audits for small businesses: $1,000 assessments using a voice agent, Claude, and a clean report template. The real money is the upsell (speed-to-lead agents, process automation). Corey shares seven ways to get customers with no followers: local meetups, office hours, free assessments, even door knocking. The key quote: "You don't need to be an AI expert. You just need to be one step ahead of your average client."
+<a rel="noopener" target="_blank" href="https://www.youtube.com/watch?v=03DjE7j0Suw">Watch</a></p></li>
+<li><p><strong>Claude Design: Full Walkthrough. I'm blown away.</strong> — Startup Ideas Podcast
+Greg Isenberg runs a live, unscripted workflow with Claude Design: wireframes, visual designs, pitch deck, and a 30-second video ad. Verdict: best-in-class for wireframes and visuals, weak for video. The wireframe questionnaire asks product-manager-level questions (e.g., "how prominent should the family caregiver be in the app?"). The pitch deck alone represents thousands of dollars of equivalent designer work.
+<a rel="noopener" target="_blank" href="https://www.youtube.com/watch?v=vyLaimDeK_g">Watch</a></p></li>
+<li><p><strong>I tested Seedance 2.0. Wow.</strong> — Startup Ideas Podcast
+Greg and Sirio walk through Seedance V2, the first widely available video model with true multi-input generation (up to two images, two videos, one audio file). Use cases: virtual try-on, ad translation, AI influencers with lip sync, 3D product template replacement. Sirio's take: "Seedance rewards highly specific prompts. Treat it as a video editor, not just a generator."
+<a rel="noopener" target="_blank" href="https://www.youtube.com/watch?v=Uz1ZSxSYkB8">Watch</a></p></li>
+</ul>
+
+<h2 id="content-angles-for-you">Content angles for you</h2>
+
+<ol>
+<li><p><strong>Here's why the AI audit business is printing money (and why you're probably overthinking it).</strong> The real insight from Koerner's episode: you don't need to be an expert, you need to be one step ahead. Most businesses don't know what's possible. The $1K audit is the wedge; the $3-5K upsell is the business. Write about how "being slightly ahead" is the entire moat right now.</p></li>
+<li><p><strong>The infrastructure layer just became the battleground — and most builders don't see it yet.</strong> Today's launches (AWS MCP, ServiceNow integrations, OpenHands Control Plane) aren't about better models. They're about who controls the pipes between agents, memory, and production data. The next wave of enterprise value accrues to whoever standardizes the layer <em>between</em> the model and the business.</p></li>
+<li><p><strong>Claude's "dreaming" feature is the first real step toward agents that compound learning — here's what that unlocks.</strong> Agents reviewing past sessions to find patterns and self-improve is the infrastructure for compounding intelligence. Write about what businesses can do when agents get better over time without human input — and why this is the missing piece for multi-agent workflows.</p></li>
+</ol>
+
+<h2 id="people-to-engage-with">People to engage with</h2>
+
+<ul>
+<li><strong>Corey Ganim</strong> (@coreyganim) — ran AI audits from a friend's $1K lunch request into a repeatable service business, ships free templates, and just proved you don't need to be a Claude expert to sell AI consulting</li>
+<li><strong>Sirio Berati</strong> (@heysirio) — demoed Seedance V2 multi-input generation live, called out the "video editor, not generator" frame, and showed how to A/B test ad creative across languages with motion preserved</li>
+<li><strong>Greg Isenberg</strong> — live-tested Claude Design end-to-end and landed the verdict in real time: "best-in-class for wireframes and visuals, five out of ten for video"</li>
+</ul>
 
     </article>
   </main>

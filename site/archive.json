@@ -106,5 +106,187 @@
     "title": "Hermes Agent: The New OpenClaw?",
     "url": "https://www.youtube.com/watch?v=Qn2c_U-cWQs",
     "video_id": "Qn2c_U-cWQs"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-05-07",
+    "headline": "The infrastructure layer is eating AI governance \u2014 and every major platform just picked a side. Today's moves aren't about models getting smarter; they're about who controls the pipes between agents, memory, and production data.",
+    "url": "archive/2026-05-07.html"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-05-07",
+    "source": "The Koerner Office",
+    "title": "The Easiest Way to Actually Make Money With AI",
+    "url": "https://www.youtube.com/watch?v=03DjE7j0Suw",
+    "video_id": "03DjE7j0Suw"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-05-07",
+    "source": "The Koerner Office",
+    "title": "The Simplest Side Hustle You Can Start Under $100",
+    "url": "https://www.youtube.com/watch?v=Y4pvrjtb1cI",
+    "video_id": "Y4pvrjtb1cI"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-05-07",
+    "source": "The Koerner Office",
+    "title": "You Only Need a Laptop to Start This Business",
+    "url": "https://www.youtube.com/watch?v=aT2XgPDU6yY",
+    "video_id": "aT2XgPDU6yY"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-05-07",
+    "source": "Startup Ideas Podcast",
+    "title": "Claude Design: Full Walkthrough. I'm blown away.",
+    "url": "https://www.youtube.com/watch?v=vyLaimDeK_g",
+    "video_id": "vyLaimDeK_g"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-05-07",
+    "source": "Startup Ideas Podcast",
+    "title": "I tested Seedance 2.0. Wow.",
+    "url": "https://www.youtube.com/watch?v=Uz1ZSxSYkB8",
+    "video_id": "Uz1ZSxSYkB8"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-05-07",
+    "source": "Startup Ideas Podcast",
+    "title": "My Claude Code workflow no one knows about",
+    "url": "https://www.youtube.com/watch?v=YiitvyQGbkc",
+    "video_id": "YiitvyQGbkc"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-07",
+    "topic": "launches",
+    "title": "Gemini 3.1 Flash-Lite is now generally available | Google Cloud Blog",
+    "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-3-1-flash-lite-is-now-generally-available",
+    "snippet": "Gemini 3.1 Flash-Lite is now generally available | Google Cloud Blog\n[...]\n# Gemini 3.1 Flash-Lite is now generally available on Gemini Enterprise Agent Platform\n[...]\nToday, we\u2019re thrilled to announce that Gemini 3.1 Flash-Lite, our fastest and most cost-efficient Gemini 3 series model yet, is now generally available.\n[...]\nDesigned for ultra-low latency, high-volume tasks, and unmatched cost-eff"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-07",
+    "topic": "launches",
+    "title": "The AWS MCP Server is now generally available | AWS News Blog",
+    "url": "https://aws.amazon.com/blogs/aws/the-aws-mcp-server-is-now-generally-available/",
+    "snippet": "The AWS MCP Server is now generally available\n[...]\n# The AWS MCP Server is now generally available\n[...]\nI have been building with AI agents and MCP tools for a while now, and one question kept coming up: how do you give an agent real, authenticated access to AWS without handing it the keys to the kingdom? Today, there is an answer.\n[...]\nI\u2019m happy to announce the general availability of the AWS "
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-07",
+    "topic": "launches",
+    "title": "Yugabyte Launches Meko, a Data Infrastructure to Solve the Multi-Agent Memory and Knowledge Problem",
+    "url": "https://www.businesswire.com/news/home/20260507728812/en/Yugabyte-Launches-Meko-a-Data-Infrastructure-to-Solve-the-Multi-Agent-Memory-and-Knowledge-Problem",
+    "snippet": "Yugabyte Launches Meko, a Data Infrastructure to Solve the Multi-Agent Memory and Knowledge Problem\n[...]\n# Yugabyte Launches Meko, a Data Infrastructure to Solve the Multi-Agent Memory and Knowledge Problem\n[...]\nNew platform supports compounding memory, shared knowledge, and full decision traceability to enable continuous learning for agentic applications\n[...]\nSUNNYVALE, Calif.--(BUSINESS WIRE)"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-07",
+    "topic": "launches",
+    "title": "Workato Launches Otto, the Trusted AI Teammate that Gets Work Done",
+    "url": "https://www.businesswire.com/news/home/20260505979973/en/Workato-Launches-Otto-the-Trusted-AI-Teammate-that-Gets-Work-Done",
+    "snippet": "Workato Launches Otto, the Trusted AI Teammate that Gets Work Done\n[...]\n# Workato Launches Otto, the Trusted AI Teammate that Gets Work Done\n[...]\nOtto by Workato is the enterprise-ready autonomous AI agent built for employees and governed by IT\n[...]\nPALO ALTO, Calif.--(BUSINESS WIRE)--Workato, the leader in Enterprise Model Context Protocol (MCP) and orchestration, today announced Otto by Worka"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-07",
+    "topic": "launches",
+    "title": "Infrastructure for the agentic era: Everything we launched at SIGNAL 2026 | Twilio",
+    "url": "https://www.twilio.com/en-us/blog/products/signal-2026-product-announcements",
+    "snippet": "Infrastructure for the agentic era: Everything we launched at SIGNAL 2026 | Twilio\n[...]\n# Infrastructure for the agentic era: A new conversation layer for the Twilio Platform\n[...]\n## Infrastructure for the agentic era: A new conversation layer for the Twilio Platform\n[...]\nA new era of customer engagement is taking shape. AI agents are quickly becoming integral to the way businesses serve, suppo"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-07",
+    "topic": "enterprise",
+    "title": "EPAM & Anthropic Team Up to Build the Future of Enterprise Transformation with Safe, Applied AI",
+    "url": "https://www.prnewswire.com/news-releases/epam--anthropic-team-up-to-build-the-future-of-enterprise-transformation-with-safe-applied-ai-302763463.html",
+    "snippet": "Together, EPAM and Anthropic empower organizations to safely build and scale GenAI capabilities across their entire business by combining deep engineering expertise with responsible AI\n[...]\nNEWTOWN, Pa., May 6, 2026 /PRNewswire/ -- As enterprises face growing pressure to turn AI investments into real business value, EPAM Systems, Inc. (NYSE: EPAM) today announced a strategic, multi-year partnersh"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-07",
+    "topic": "enterprise",
+    "title": "ServiceNow Expands AI Control Tower for Enterprise AI Governance",
+    "url": "https://ittech-pulse.com/news/servicenow-expands-ai-control-tower-for-enterprise-ai-governance/",
+    "snippet": "ServiceNow Expands\n[...]\nControl Tower for Enterprise AI Governance\n[...]\nServiceNow\u2019s annual customer and partner event, Knowledge 2026, ServiceNow, the AI control tower for business reinvention, expanded its AI Control Tower offering with new capabilities that give enterprises control over every AI system, agent, and workflow, regardless of where it runs.\n[...]\nAI Control Tower, first introduced"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-07",
+    "topic": "enterprise",
+    "title": "IBM Consulting Expands AI Capabilities to Accelerate Enterprise Transformation",
+    "url": "https://newsroom.ibm.com/2026-05-06-ibm-consulting-expands-ai-capabilities-to-accelerate-enterprise-transformation",
+    "snippet": "IBM Consulting Expands AI Capabilities to Accelerate Enterprise Transformation\n[...]\n- New updates to IBM Enterprise Advantage fast-track enterprise AI transformation across hybrid and regulated environments\n\n- Pearson and Providence accelerate AI transformation with IBM\n\n- Expanded AWS and SAP collaborations boost multi agent interoperability and deployment flexibility\n[...]\nBOSTON, Mass., May 6,"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-07",
+    "topic": "enterprise",
+    "title": "Intellistake Marks Enterprise Milestone with IntelliScope AI Agent Platform Deployment on Sovereign Infrastructure for PowerBank \u2013 Weekly Voice",
+    "url": "https://weeklyvoice.com/intellistake-marks-enterprise-milestone-with-intelliscope-ai-agent-platform-deployment-on-sovereign-infrastructure-for-powerbank/",
+    "snippet": "Intellistake Marks Enterprise Milestone with IntelliScope AI Agent Platform Deployment on Sovereign Infrastructure for PowerBank \u2013 Weekly Voice\n[...]\n- Classifieds\n- Intellistake Technologies Corp. (CSE: ISTK) (OTCQB: ISTKF) (FSE: E41) marks an enterprise contract milestone with the deployment of IntelliScope, its enterprise AI agent platform for internal business intelligence, onto its new sovere"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-07",
+    "topic": "harnesses",
+    "title": "New in Claude Managed Agents: dreaming, outcomes, and multiagent orchestration | Claude",
+    "url": "https://claude.com/blog/new-in-claude-managed-agents",
+    "snippet": "New in Claude Managed Agents: dreaming, outcomes, and multiagent orchestration | Claude\n[...]\n# New in Claude Managed Agents: dreaming, outcomes, and multiagent orchestration\n[...]\nToday we're launching dreaming in Claude Managed Agents as a research preview. Dreaming extends memory by reviewing past sessions to find patterns and help agents self-improve. We're also making outcomes, multiagent orc"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-07",
+    "topic": "harnesses",
+    "title": "Prime Intellect Lab Goes Live As General Availability Platform For End-To-End Training Of Self-Improving AI Agents | Metaverse Post",
+    "url": "https://mpost.io/prime-intellect-lab-goes-live-as-general-availability-platform-for-end-to-end-training-of-self-improving-ai-agents/",
+    "snippet": "Prime Intellect moves Lab to general availability, offering an end-to-end platform for training self-improving AI agents with environments, reinforcement learning, evaluation, and deployment in a unified pipeline.\n[...]\nPrime Intellect, a compute and infrastructure platform, announced that its \u201cLab\u201d system has moved from beta to general availability.\n[...]\nThe platform is designed as a training en"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-07",
+    "topic": "harnesses",
+    "title": "Memori Labs Releases New Agent-Native Memory Infrastructure, Automatically Creating Structured Memory from Agent Trace",
+    "url": "https://www.prweb.com/releases/memori-labs-releases-new-agent-native-memory-infrastructure-automatically-creating-structured-memory-from-agent-trace-302765715.html",
+    "snippet": "Memori Labs Releases New Agent-Native Memory Infrastructure, Automatically Creating Structured Memory from Agent Trace Accessibility Statement Skip Navigation\n[...]\nMemori Labs today announced the launch of its new agent-native memory infrastructure, enabling agents to create structured, long-term memory directly from the agent trace \u2014 including execution paths, tool results, workflow steps, outco"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-07",
+    "topic": "tools",
+    "title": "ServiceNow Build Agent now works inside every major AI coding tool, governed by default",
+    "url": "https://www.businesswire.com/news/home/20260506008934/en/ServiceNow-Build-Agent-now-works-inside-every-major-AI-coding-tool-governed-by-default",
+    "snippet": "ServiceNow Build Agent now works inside every major AI coding tool, governed by default\n[...]\n# ServiceNow Build Agent now works inside every major AI coding tool, governed by default\n[...]\nBuild Agent in ServiceNow Studio lets any developer build production-ready apps and AI agents using natural language prompts\n[...]\nDevelopers can now build from any integrated developer environment or AI coding"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-07",
+    "topic": "tools",
+    "title": "OpenHands Launches an Agent Control Plane to Manage Software Agents",
+    "url": "https://www.businesswire.com/news/home/20260506314667/en/OpenHands-Launches-an-Agent-Control-Plane-to-Manage-Software-Agents",
+    "snippet": "OpenHands Launches an Agent Control Plane to Manage Software Agents\n[...]\n# OpenHands Launches an Agent Control Plane to Manage Software Agents\n[...]\nBOSTON--(BUSINESS WIRE)-- OpenHands, the open platform for cloud coding agents, today launched the OpenHands Agent Control Plane: a new operational layer for managing the sprawl of AI agents deployed across modern enterprises. Instead of treating age"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-07",
+    "topic": "tools",
+    "title": "The new, unified Rovo Studio - more to build, easier than ever - Inside Atlassian",
+    "url": "https://www.atlassian.com/blog/company-news/rovo-studio-team-26",
+    "snippet": "The new, unified Rovo Studio - more to build, easier than ever - Inside Atlassian\n[...]\n# The new, unified Rovo Studio \u2013 more to build, easier than ever\n[...]\nEvery team knows exactly where AI could help \u2014 the onboarding that takes three weeks of manual coordination, the customer feedback no one has time to categorize, the status reports assembled by hand every Friday. The ideas aren\u2019t the problem"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-07",
+    "topic": "tools",
+    "title": "Jitterbit Opens \u2018AI Black Box\u2019: New MCP Gateway with Deep",
+    "url": "https://www.globenewswire.com/news-release/2026/05/06/3288601/0/en/Jitterbit-Opens-AI-Black-Box-New-MCP-Gateway-with-Deep-Message-Inspection-Delivers-AI-Accountability.html",
+    "snippet": "Jitterbit Opens \u2018AI Black Box\u2019: New MCP Gateway with Deep\n[...]\n# Jitterbit Opens \u2018AI Black Box\u2019: New MCP Gateway with Deep Message Inspection Delivers \u2018AI Accountability\u2019\n[...]\n## Industry-first Deep Message Inspection brings AI accountability, transparency and control to the modern enterprise\n[...]\nALAMEDA, Calif., May 06, 2026 (GLOBE NEWSWIRE) -- Jitterbit, the leader in intelligent automation,"
   }
 ]
