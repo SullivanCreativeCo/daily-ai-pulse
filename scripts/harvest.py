@@ -175,34 +175,37 @@ def main() -> int:
     total_news = sum(len(v) for v in news_by_topic.values())
     print(f"[harvest] news: {total_news} items across {len(news_by_topic)} topics")
 
+    posts = {"linkedin": [], "threads": []}
+
     # If we got literally nothing, still publish a tombstone so the page reflects today
     if not yt_items and not total_news:
         print("[harvest] no fresh inputs today; writing minimal placeholder")
         digest_md = (
-            f"# Daily AI Pulse — {today}\n\n"
+            f"# Daily AI Pulse - {today}\n\n"
             f"## Today's headline\n"
             f"Quiet day in the harvest. No new podcast episodes or fresh news cleared the dedupe filter.\n\n"
             f"_Check back tomorrow._\n"
         )
     else:
-        # 3. Synthesize
+        # 3. Synthesize (returns digest markdown + posts dict)
         raw_inputs = {
             "podcasts": yt_items,
             "news": news_by_topic,
             "topic_labels": {t["key"]: t["label"] for t in NEWS_TOPICS},
         }
         try:
-            digest_md = synthesize.run(raw_inputs, today)
+            digest_md, posts = synthesize.run(raw_inputs, today)
         except Exception as e:
             print(f"[harvest] synthesis failed: {e}")
             digest_md = (
-                f"# Daily AI Pulse — {today}\n\n"
+                f"# Daily AI Pulse - {today}\n\n"
                 f"## Today's headline\n"
                 f"Synthesis hit an error today. Raw inputs saved to archive.json. Error: {e}\n"
             )
+            posts = {"linkedin": [], "threads": []}
 
-    # 4. Render
-    render.write_today_and_archive(digest_md, today, last_updated)
+    # 4. Render with posts injected
+    render.write_today_and_archive(digest_md, today, last_updated, posts=posts)
 
     # 5. Update archive
     headline = _extract_headline(digest_md)
@@ -211,6 +214,7 @@ def main() -> int:
         "date": today,
         "headline": headline,
         "url": f"archive/{today}.html",
+        "posts": posts,
     })
     for v in yt_items:
         archive.append({
