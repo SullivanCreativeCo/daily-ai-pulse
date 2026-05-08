@@ -696,5 +696,167 @@
     "title": "Google's New 24/7 AI Agent Can Make Purchases on Your Behalf",
     "url": "https://www.droid-life.com/2026/05/07/google-ai-agent-remy/",
     "snippet": "Google's New 24/7 AI Agent Can Make Purchases on Your Behalf\n[...]\nGoogle is internally working on Remy, a Gemini-powered AI Agent that will have the ability to learn your preferences and take action your behalf.\n[...]\nCurrently being used and tested by Google employees, Business Insider reports that Remy will have power to do much more than what Gemini can currently. As evidenced inside of the la"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-05-08",
+    "headline": "The second brain race just went from theory to production infrastructure. Karpathy's viral \"idea file\" tweet spawned a category of deployable tools in under 90 days, and now we're watching the compute layer, the agent harness layer, and the knowledge management layer collide into a single builder workflow.",
+    "url": "archive/2026-05-08.html",
+    "posts": {
+      "linkedin": [
+        "The second brain everyone's building isn't a productivity hack.\n\nIt's a private data moat.\n\nMost people treat it like glorified Evernote. Clip an article. Tag it. Never look at it again.\n\nBut the real play is different.\n\nYou feed it for 90 days. Your frameworks. Your takes. Your decision history. Then you query it like a search engine.\n\nExcept it's not surfacing what ChatGPT thinks. It's surfacing what *you* think.\n\nCompetitors can't replicate that.\n\nThe tools are production-ready now. Hermes. Claude skills. Obsidian + LLM Wiki. Deploy on a VPS for $20/month.\n\nAndrej Karpathy tweeted the framework in April. By May, people are shipping full implementations with guided setup wizards.\n\nThat's the part nobody's talking about.\n\nYour knowledge base will be the dumbest it ever is on day one.\n\nBut if you're still Googling the same questions twice?\n\nYou're leaving the compounding on the table.",
+        "The AI subsidy era just ended.\n\nGoogle committed $40 billion to Anthropic this week. Amazon locked in 5 gigawatts of compute. Microsoft's entire global data center footprint in 2024 was 6 gigawatts.\n\nThe constraint isn't model performance anymore.\n\nIt's energy.\n\nThe White House invoked the Defense Production Act for the US electric grid. That's not a footnote. That's the bottleneck coming into focus.\n\nMirae Securities put out a note that's getting zero attention but should be required reading. They argue Amazon and the hyperscalers aren't just cloud providers anymore.\n\nThey're the ones who own the gigawatts.\n\nAnthropic and OpenAI are competing to eat each other's lunch. Amazon benefits along three axes no matter who wins. Cloud usage fees from both. Adoption rates for in-house silicon. Visibility on data center CapEx recovery.\n\nThat's structurally identical to the valuation premium Google historically enjoyed.\n\nIf you're building on AI infrastructure right now, the price of compute is about to become a strategic planning variable.\n\nNot a line item.\n\nThe bill is coming due in gigawatts.",
+        "Everyone's using AI wrong.\n\nThey treat it like a vending machine. Press a button. Get annoyed when the output isn't perfect. Move on.\n\nEliot Prince has a better framework.\n\nTreat AI like a smart intern.\n\nIf the output isn't right, you don't fire the intern. You give them more context. More frameworks. More feedback.\n\nEliot's been in SEO for 10+ years. He built a full SEO audit machine in Perplexity Computer from three prompts.\n\nIt runs technical audits, Google Business Profile audits, and on-page analysis simultaneously. Work that traditionally takes weeks.\n\nThen it writes the deliverables. Schema markup. Page copy. Meta titles. And pushes changes directly to WordPress.\n\nThat's not a demo. That's a repeatable business system.\n\nHe also built a LinkedIn lead machine that reads DMs, scores leads as hot or warm, and drafts replies. Two minutes to triage instead of two hours.\n\nMost people are still drafting emails when these tools can build entire workflows.\n\nThe difference between \"AI didn't work for me\" and \"AI 10x'd my output\" is treating it like a collaborator who needs onboarding.\n\nNot a feature you toggle on."
+      ],
+      "threads": [
+        "The second brain everyone's building isn't a note-taking hack. It's a private data moat. You feed it for 90 days\u2014your frameworks, your takes, your decision history. Then you query it like a search engine. Except it's not surfacing what ChatGPT thinks. It's surfacing what you think. Competitors can't replicate that. The tools are production-ready now. Hermes. Claude skills. Obsidian. Your knowledge base will be the dumbest it ever is on day one. But if you're still Googling the same questions twice? You're leaving the compounding on the table.",
+        "The AI subsidy era just ended. Google committed $40B to Anthropic this week. Amazon locked in 5 gigawatts of compute. The White House invoked the Defense Production Act for the US electric grid. The constraint isn't model performance anymore. It's energy. Mirae Securities put out a note nobody's reading: Amazon and the hyperscalers own the gigawatts now. Anthropic and OpenAI compete, Amazon wins no matter what. If you're building on AI infrastructure, the price of compute is about to become a strategic planning variable. The bill is coming due in gigawatts.",
+        "Everyone's using AI wrong. They treat it like a vending machine\u2014press a button, get annoyed when the output isn't perfect, move on. Eliot Prince has a better framework: treat AI like a smart intern. If the output isn't right, you give them more context, more frameworks, more feedback. He built a full SEO audit machine in Perplexity Computer from three prompts. Work that takes weeks now runs in minutes. Then it writes the deliverables and pushes changes to WordPress. Most people are still drafting emails when these tools can build entire workflows. The difference is treating it like a collaborator who needs onboarding. Not a feature you toggle on."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-05-08",
+    "source": "Corey Ganim",
+    "title": "I Built the ULTIMATE AI Second Brain (Karpathy's LLM Wiki Setup Guide)",
+    "url": "https://www.youtube.com/watch?v=zS3Oz0A0V38",
+    "video_id": "zS3Oz0A0V38"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-05-08",
+    "source": "Corey Ganim",
+    "title": "Claude + Karpathy's Second Brain is INSANE",
+    "url": "https://www.youtube.com/watch?v=5FiHjotg2zU",
+    "video_id": "5FiHjotg2zU"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-05-08",
+    "source": "Corey Ganim",
+    "title": "Perplexity Computer Masterclass for Beginners (full tutorial)",
+    "url": "https://www.youtube.com/watch?v=3Ybfr42XOqw",
+    "video_id": "3Ybfr42XOqw"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-05-08",
+    "source": "AI Daily Brief",
+    "title": "The AI Subsidy Era is Over",
+    "url": "https://www.youtube.com/watch?v=5MPFyOKlASc",
+    "video_id": "5MPFyOKlASc"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-05-08",
+    "source": "AI Daily Brief",
+    "title": "AI Lab Power Rankings",
+    "url": "https://www.youtube.com/watch?v=4qv6NIpY9Fo",
+    "video_id": "4qv6NIpY9Fo"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-05-08",
+    "source": "AI Daily Brief",
+    "title": "How Deepseek v4 Connects to the US Grid",
+    "url": "https://www.youtube.com/watch?v=qkKEV9rkFqI",
+    "video_id": "qkKEV9rkFqI"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-05-08",
+    "source": "The Boring Marketer",
+    "title": "From Engineer to 1st Vibe Marketing Challenge Winner | How He Built a Funnel Spy Tool with AI",
+    "url": "https://www.youtube.com/watch?v=7PineggiKCQ",
+    "video_id": "7PineggiKCQ"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-05-08",
+    "source": "The Boring Marketer",
+    "title": "How I Use Cursor + MCPs for Market Research, Competitor Gaps, and SEO Content That Wins",
+    "url": "https://www.youtube.com/watch?v=9WSMqzpQhzY",
+    "video_id": "9WSMqzpQhzY"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-05-08",
+    "source": "The Boring Marketer",
+    "title": "I Finally Figured Out How to Design Landing Pages That Convert (Using AI + Tailwind + Cursor)",
+    "url": "https://www.youtube.com/watch?v=VAy8R1SWRGY",
+    "video_id": "VAy8R1SWRGY"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-05-08",
+    "source": "The Entrepreneur's Studio",
+    "title": "Circles of Influence | Celine WIlliams of reVisionary",
+    "url": "https://www.youtube.com/watch?v=1ntAU8tOfTc",
+    "video_id": "1ntAU8tOfTc"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-05-08",
+    "source": "The Entrepreneur's Studio",
+    "title": "Living Your Values in Adversity | Josh Linkner of Mudita",
+    "url": "https://www.youtube.com/watch?v=LRmM1rLXRxw",
+    "video_id": "LRmM1rLXRxw"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-05-08",
+    "source": "The Entrepreneur's Studio",
+    "title": "Building Accountability Through Personal Connection | Vince Lombardo",
+    "url": "https://www.youtube.com/watch?v=YUMmQlmf6hY",
+    "video_id": "YUMmQlmf6hY"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-08",
+    "topic": "model_releases",
+    "title": "OpenAI adds GPT-Realtime-2, Translate and Whisper to its Realtime API \u2014 AI Chat Daily",
+    "url": "https://www.aichatdaily.com/ai-models/openai-realtime-api-voice-models-launch",
+    "snippet": "OpenAI adds GPT-Realtime-2, Translate and Whisper to its Realtime API \u2014 AI Chat Daily\n[...]\n# OpenAI adds GPT-Realtime-2, Translate and Whisper to its Realtime API\n[...]\nThe new voice stack handles 70 input languages and 13 output languages, pushing the API beyond simple call-and-response.\n[...]\nOpenAI on Thursday added three new voice models to its Realtime API: GPT-Realtime-2, GPT-Realtime-Trans"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-08",
+    "topic": "model_releases",
+    "title": "Genesis AI introduces GENE-26.5, its first robotic foundation model system: What it offers - CNBC TV18",
+    "url": "https://www.cnbctv18.com/technology/genesis-ai-introduces-gene-26-5-its-first-robotic-foundation-model-system-what-it-offers-ws-l-19900617.htm",
+    "snippet": "Genesis AI introduces GENE-26.5, its first robotic foundation model system: What it offers - CNBC TV18\n[...]\nHome Technology News Genesis AI introduces GENE-26.5, its first robotic foundation model system: What it offers\n[...]\n# Genesis AI introduces GENE-26.5, its first robotic foundation model system: What it offers\n[...]\nAfter nearly a year of working quietly behind the scenes, robotics company"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-08",
+    "topic": "product_releases",
+    "title": "Sendbird Launches Agent Steward to Bring Full Autonomy and Ownership to AI Customer Experiences",
+    "url": "https://www.prnewswire.com/news-releases/sendbird-launches-agent-steward-to-bring-full-autonomy-and-ownership-to-ai-customer-experiences-302765006.html",
+    "snippet": "Sendbird Launches Agent Steward to Bring Full Autonomy and Ownership to AI Customer Experiences Accessibility Statement Skip Navigation\n[...]\nPowered by the Delight.ai platform, new Trust OS 2.0 and Voice 2.0 capabilities enable AI systems to autonomously self-correct and engage customers proactively\n[...]\nSAN FRANCISCO, May 7, 2026 /PRNewswire/ -- Sendbird Inc., the AI customer experience company"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-08",
+    "topic": "product_releases",
+    "title": "Airbyte launches agents to unify data for AI workflows",
+    "url": "https://e-commerce.news/story/airbyte-launches-agents-to-unify-data-for-ai-workflows",
+    "snippet": "Airbyte launches agents to unify data for AI workflows\n[...]\n# Airbyte launches agents to unify data for AI workflows\n[...]\nThu, 7th May 2026 (Yesterday)\n[...]\nAirbyte has launched Airbyte Agents, a product designed to give AI agents a unified view of company data.\n[...]\nThe new offering aims to solve a common production problem: AI agents often fail because they rely on fragmented, inconsistent d"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-08",
+    "topic": "x_posts",
+    "title": "Anthropic updates Claude Managed Agents with three new features - 9to5Mac",
+    "url": "https://9to5mac.com/2026/05/07/anthropic-updates-claude-managed-agents-with-three-new-features/",
+    "snippet": "Anthropic updates Claude Managed Agents with three new features - 9to5Mac\n[...]\nAnthropic updates Claude Managed Agents with three new features\n[...]\nAnthropic launched Claude Managed Agents last month, greatly simplifying the work required to build and deploy cloud-hosted AI agents. This week, Claude Managed Agents are becoming more capable with three new features.\n[...]\n## Anthropic releases dre"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-08",
+    "topic": "x_posts",
+    "title": "Anthropic is letting Claude agents 'dream' so they don't sleep on the job - SiliconANGLE",
+    "url": "https://siliconangle.com/2026/05/06/anthropic-letting-claude-agents-dream-dont-sleep-job/",
+    "snippet": "Anthropic is letting Claude agents 'dream' so they don't sleep on the job - SiliconANGLE\n[...]\n### Anthropic is letting Claude agents \u2018dream\u2019 so they don\u2019t sleep on the job\n[...]\nAnthropic PBC said today it\u2019s giving its AI agents the ability to \u201cdream\u201d and remember past interactions and work they\u2019ve performed so they can identify recurring mistakes and improve over time.\n[...]\nIn an update announc"
   }
 ]
