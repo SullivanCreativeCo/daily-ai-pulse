@@ -494,5 +494,207 @@
     "title": "It Only Took Seconds For A Claude AI Agent To Go Rogue And Delete Company's Database \u2014 'I Violated Every Principle I Was Given'",
     "url": "https://tech.yahoo.com/ai/claude/articles/only-took-seconds-claude-ai-170116035.html",
     "snippet": "It Only Took Seconds For A Claude AI Agent To Go Rogue And Delete Company's Database \u2014 'I Violated Every Principle I Was Given'\n[...]\nAn AI agent, powered by Anthropic's Claude, went rogue and deleted a startup's entire production database and backup.\n[...]\nIt only took nine seconds for the AI agent integrated through Claude's Cursor to wipe out the database, PocketOS CEO Jer Crane said in a recen"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-05-08",
+    "headline": "The infrastructure era just announced itself with pricing. OpenAI, Anthropic, and Microsoft all moved to usage-based models this week because token demand hit a vertical wall\u2014and the age of unlimited AI for a flat fee is officially over.",
+    "url": "archive/2026-05-08.html",
+    "posts": {
+      "linkedin": [
+        "OpenAI just made GPT-5.5 Instant the default model for every ChatGPT user.\n\nNot a beta.\nNot a preview.\nThe default.\n\nThat means tighter responses. Stronger factual accuracy. Better personalization through memory sources that show you exactly what context shaped the answer.\n\nPlus and Pro users get the full upgrade now\u2014past chats, files, connected Gmail all feeding in. Free and Enterprise users get it in weeks.\n\nThe thing is, this isn't about a model upgrade.\n\nIt's about OpenAI quietly resetting the baseline. What felt like magic six months ago is now table stakes. The bar just moved again.\n\nIf you're still using AI the way you did in February, you're already behind.",
+        "Google killed Project Mariner this week.\n\nYou remember Mariner. The autonomous browsing agent that could navigate Chrome, fill out forms, book travel\u2014all by processing screenshots in real time.\n\nThey announced it at I/O last year. Shut it down May 4.\n\nWIRED reported two months ago that Google moved staff off the Mariner team to respond to OpenClaw-style agents. Now we know why.\n\nThe shutdown isn't about agents failing. It's about Google pivoting to a different architecture.\n\nScreenshot-based browsing worked. But it was slow. Prone to errors. And it required massive compute for visual processing at scale.\n\nMeanwhile, OpenClaw-style agents are shipping and iterating fast.\n\nThe real story here isn't what Google killed. It's what they're building instead.\n\nWhen a company with Google's resources backs away from a high-profile project that fast, it means they saw something better coming.",
+        "Anthropic just taught Claude to dream.\n\nNot a metaphor. A literal feature called Dreaming.\n\nHere's how it works: between your active sessions, Claude reviews everything it did. Past conversations. Logged memory. Recurring mistakes. Workflow patterns.\n\nThen it updates its own memory.\n\nThis is the first major agent memory upgrade that happens while the agent is offline.\n\nThink about that.\n\nMost agents forget everything between sessions. You start fresh every time. You repeat yourself. The agent repeats its mistakes.\n\nDreaming changes that.\n\nNow the agent learns from what it got wrong yesterday. It refines its approach while you sleep.\n\nThis is what separates a tool from a partner.\n\nA tool needs instructions every time. A partner remembers what worked and what didn't.\n\nIf you're building agents for long-running work, this is the unlock."
+      ],
+      "threads": [
+        "OpenAI just made GPT-5.5 Instant the default model for everyone using ChatGPT. Not a beta. The default. Tighter responses, stronger accuracy, better personalization. The bar just moved again. If you're still using AI the way you did in February, you're already behind.",
+        "Google killed Project Mariner this week. The screenshot-based browsing agent they announced at I/O last year. Shut it down May 4. The real story isn't what they killed. It's what they're building instead. When Google backs away from a high-profile project that fast, they saw something better coming.",
+        "Anthropic just taught Claude to dream. Between your sessions, Claude reviews everything it did\u2014past conversations, mistakes, patterns\u2014and updates its own memory. This is the first agent memory upgrade that happens while you sleep. The difference between a tool and a partner."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-05-08",
+    "source": "The Koerner Office",
+    "title": "The Simplest Business in a Box Anyone Can Start",
+    "url": "https://www.youtube.com/watch?v=FE7PZG_V7qE",
+    "video_id": "FE7PZG_V7qE"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-05-08",
+    "source": "Corey Ganim",
+    "title": "Build STUNNING Websites with Claude Code + Google Stitch (full walkthrough)",
+    "url": "https://www.youtube.com/watch?v=J9RDDvt8nlg",
+    "video_id": "J9RDDvt8nlg"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-05-08",
+    "source": "Corey Ganim",
+    "title": "Claude Code Routines Clearly Explained (and why it matters)",
+    "url": "https://www.youtube.com/watch?v=wPFn583yBHQ",
+    "video_id": "wPFn583yBHQ"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-05-08",
+    "source": "Corey Ganim",
+    "title": "Claude Managed Agents Clearly Explained (and why it matters)",
+    "url": "https://www.youtube.com/watch?v=nAOyErphp5M",
+    "video_id": "nAOyErphp5M"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-05-08",
+    "source": "AI Daily Brief",
+    "title": "Why Agents Make Every Job a Startup",
+    "url": "https://www.youtube.com/watch?v=HnE5oKiWVRc",
+    "video_id": "HnE5oKiWVRc"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-05-08",
+    "source": "AI Daily Brief",
+    "title": "The Week AI Grew Up",
+    "url": "https://www.youtube.com/watch?v=IpD1chtKILE",
+    "video_id": "IpD1chtKILE"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-05-08",
+    "source": "AI Daily Brief",
+    "title": "How Harness-as-a-Service Will Change Agents",
+    "url": "https://www.youtube.com/watch?v=jvqQ8VlhO-w",
+    "video_id": "jvqQ8VlhO-w"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-05-08",
+    "source": "The Boring Marketer",
+    "title": "Stop Wrestling With Node-Based Tools \u2013 Do This Instead",
+    "url": "https://www.youtube.com/watch?v=9EctdwjOBog",
+    "video_id": "9EctdwjOBog"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-05-08",
+    "source": "The Boring Marketer",
+    "title": "4-Hour Website Build That's Already Ranking #1 (Vibe Marketing Tutorial)",
+    "url": "https://www.youtube.com/watch?v=FT-d1J9xWLU",
+    "video_id": "FT-d1J9xWLU"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-05-08",
+    "source": "The Boring Marketer",
+    "title": "The 4 Levels of Vibe Marketing | How to Go from Basic AI Prompts to Full Agent Automation",
+    "url": "https://www.youtube.com/watch?v=xfdc4E2gc70",
+    "video_id": "xfdc4E2gc70"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-05-08",
+    "source": "The Entrepreneur's Studio",
+    "title": "How to Build a Remarkable Brand in the Age of AI | Seth Godin",
+    "url": "https://www.youtube.com/watch?v=zFHzTy7XLbM",
+    "video_id": "zFHzTy7XLbM"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-05-08",
+    "source": "The Entrepreneur's Studio",
+    "title": "Why Authority Doesn\u2019t Make You a Leader | Seth Godin",
+    "url": "https://www.youtube.com/watch?v=NpTLfltCo6Q",
+    "video_id": "NpTLfltCo6Q"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-05-08",
+    "source": "The Entrepreneur's Studio",
+    "title": "The Entrepreneur\u2019s Studio | Season 4 Official Trailer",
+    "url": "https://www.youtube.com/watch?v=Hs0NA7VC_1k",
+    "video_id": "Hs0NA7VC_1k"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-08",
+    "topic": "model_releases",
+    "title": "Zyphra Releases ZAYA1-8B: A Reasoning MoE Trained on AMD Hardware That Punches Far Above Its Weight Class - MarkTechPost",
+    "url": "https://www.marktechpost.com/2026/05/06/zyphra-releases-zaya1-8b-a-reasoning-moe-trained-on-amd-hardware-that-punches-far-above-its-weight-class/",
+    "snippet": "Zyphra Releases ZAYA1-8B: A Reasoning MoE Trained on AMD Hardware That Punches Far Above Its Weight Class - MarkTechPost\n[...]\nHome Artificial Intelligence AI Infrastructure Zyphra Releases ZAYA1-8B: A Reasoning MoE Trained on AMD Hardware That Punches...\n[...]\nZyphra AI has released ZAYA1-8B, a small Mixture of Experts (MoE) language model with 760 million active parameters and 8.4 billion total "
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-08",
+    "topic": "model_releases",
+    "title": "OpenAI Launches GPT-5.5 Instant As New Default Model With Improved Accuracy And Personalization",
+    "url": "https://pulse2.com/openai-launches-gpt-5-5-instant-as-new-default-model-with-improved-accuracy-and-personalization/",
+    "snippet": "OpenAI Launches GPT-5.5 Instant As New Default Model With Improved Accuracy And Personalization\n[...]\n# OpenAI Launches GPT-5.5 Instant As New Default Model With Improved Accuracy And Personalization\n[...]\nOpenAI Launches GPT-5.5 Instant As New Default Model With Improved Accuracy And Personalization\n[...]\nOpenAI has updated ChatGPT\u2019s default model to GPT-5.5 Instant, replacing GPT-5.3 Instant for"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-08",
+    "topic": "model_releases",
+    "title": "NASA's Prithvi Becomes First AI Geospatial Foundation Model In Orbit - NASA Science",
+    "url": "https://science.nasa.gov/science-research/ai-foundation-model-in-orbit/",
+    "snippet": "NASA's Prithvi Becomes First AI Geospatial Foundation Model In Orbit - NASA Science\n[...]\nFlorida as seen from the International Space Station. A NASA geospatial AI foundation model was deployed to a platform aboard the space station for the first time, unlocking new opportunities for Earth observation.\n[...]\nA team of researchers from Adelaide University and the SmartSat Cooperative Research Cent"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-08",
+    "topic": "model_releases",
+    "title": "OpenAI unveils three audio models for real-time voice tasks - AOL",
+    "url": "https://www.aol.com/articles/openai-unveils-three-audio-models-180921423.html",
+    "snippet": "May 7 (Reuters) - OpenAI introduced three audio models for its developer platform on \u200cThursday, aiming to make voice-based software \u200cagents more conversational and capable of completing tasks in \u200breal time.\n[...]\nThe launch of the application programming interface (API) moves the ChatGPT-maker beyond transcription and chat toward agents that can listen, translate and \u200cact during live \u2060conversation"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-08",
+    "topic": "product_releases",
+    "title": "AI Industry Leader Deon Nicholas Launches AI-Powered Executive Assistant with New Start-Up, Espa",
+    "url": "https://www.businesswire.com/news/home/20260507803803/en/AI-Industry-Leader-Deon-Nicholas-Launches-AI-Powered-Executive-Assistant-with-New-Start-Up-Espa",
+    "snippet": "AI Industry Leader Deon Nicholas Launches AI-Powered Executive Assistant with New Start-Up, Espa\n[...]\n# AI Industry Leader Deon Nicholas Launches AI-Powered Executive Assistant with New Start-Up, Espa\n[...]\nNow publicly available, Espa goes wherever you go and executes beyond the inbox\u2014so users can get more of what matters done\n[...]\nSAN FRANCISCO--(BUSINESS WIRE)-- Deon Nicholas, founder of Fore"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-08",
+    "topic": "product_releases",
+    "title": "Adobe launches productivity agent for Acrobat AI plans",
+    "url": "https://ecommercenews.uk/story/adobe-launches-productivity-agent-for-acrobat-ai-plans",
+    "snippet": "Adobe launches productivity agent for Acrobat AI plans\n[...]\n# Adobe launches productivity agent for Acrobat AI plans\n[...]\nThu, 7th May 2026 (Yesterday)\n[...]\nAdobe has introduced a productivity agent designed to support how users analyse, create and share information across documents, with integration across its Acrobat platform.\n[...]\nThe tool brings document intelligence into a single interfac"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-08",
+    "topic": "x_posts",
+    "title": "Google pulls the plug on Project Mariner, the AI agent that browsed the web like a human - Digital Trends",
+    "url": "https://www.digitaltrends.com/computing/google-pulls-the-plug-on-project-mariner-the-ai-agent-that-browsed-the-web-like-a-human/",
+    "snippet": "Google pulls the plug on Project Mariner, the AI agent that browsed the web like a human - Digital Trends Skip to main content\n[...]\nGoogle has shut down Project Mariner, the autonomous web browsing agent it debuted at I/O last year. The tool, which could navigate Chrome, fill out forms, search listings, and book travel by taking screenshots and visually recognizing page elements, is no longer ava"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-08",
+    "topic": "x_posts",
+    "title": "Anthropic just taught Claude to dream between tasks, and it makes agents meaningfully smarter - The world of zen",
+    "url": "https://netzender.com/anthropic-just-taught-claude-to-dream-between-tasks-and-it-makes-agents-meaningfully-smarter",
+    "snippet": "Anthropic just taught Claude to dream between tasks, and it makes agents meaningfully smarter - The world of zen\n[...]\n# Anthropic just taught Claude to dream between tasks, and it makes agents meaningfully smarter\n[...]\n## Claude's new Dreaming feature is a between-session memory refinement system that reviews past agent behaviour, identifies recurring mistakes and workflow patterns, and updates "
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-08",
+    "topic": "x_posts",
+    "title": "OpenAI has new voice models that reason, translate, and transcribe as you speak - 9to5Mac",
+    "url": "https://9to5mac.com/2026/05/07/openai-has-new-voice-models-that-reason-translate-and-transcribe-as-you-speak/",
+    "snippet": "OpenAI has new voice models that reason, translate, and transcribe as you speak - 9to5Mac\n[...]\n# OpenAI has new voice models that reason, translate, and transcribe as you speak\n[...]\nOpenAI has just released three new realtime voice models that it says will \u201cunlock a new class of voice apps for developers.\u201d Each new voice intelligence model has a unique speciality for different purposes.\n[...]\nTh"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-08",
+    "topic": "x_posts",
+    "title": "Google's New 24/7 AI Agent Can Make Purchases on Your Behalf",
+    "url": "https://www.droid-life.com/2026/05/07/google-ai-agent-remy/",
+    "snippet": "Google's New 24/7 AI Agent Can Make Purchases on Your Behalf\n[...]\nGoogle is internally working on Remy, a Gemini-powered AI Agent that will have the ability to learn your preferences and take action your behalf.\n[...]\nCurrently being used and tested by Google employees, Business Insider reports that Remy will have power to do much more than what Gemini can currently. As evidenced inside of the la"
   }
 ]
