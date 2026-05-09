@@ -858,5 +858,111 @@
     "title": "Anthropic is letting Claude agents 'dream' so they don't sleep on the job - SiliconANGLE",
     "url": "https://siliconangle.com/2026/05/06/anthropic-letting-claude-agents-dream-dont-sleep-job/",
     "snippet": "Anthropic is letting Claude agents 'dream' so they don't sleep on the job - SiliconANGLE\n[...]\n### Anthropic is letting Claude agents \u2018dream\u2019 so they don\u2019t sleep on the job\n[...]\nAnthropic PBC said today it\u2019s giving its AI agents the ability to \u201cdream\u201d and remember past interactions and work they\u2019ve performed so they can identify recurring mistakes and improve over time.\n[...]\nIn an update announc"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-05-09",
+    "headline": "The agent layer just got concrete. OpenAI shipped three new voice models that make real-time AI assistants cheaper and faster to build, while Anthropic added dreaming and multi-agent orchestration to Claude. The story isn't model power anymore \u2014 it's infrastructure to actually deploy the things at scale.",
+    "url": "archive/2026-05-09.html",
+    "posts": {
+      "linkedin": [
+        "OpenAI just collapsed the agent voice stack.\n\nGPT-Realtime-2 launched yesterday.\n\nOne API call now does what used to take four vendors and custom turn-taking logic.\n\nVoice in. Voice out. GPT-5-class reasoning in between. 70+ languages. Streaming transcription built in.\n\nThe companies that spent six months stitching Whisper + ElevenLabs + GPT-4 together just watched their competitive moat evaporate.\n\nBut here's the thing Sam Altman said that matters more than the launch itself:\n\n\"People are really starting to use voice to interact with AI, especially when they have a lot of context to dump.\"\n\nThat's not a feature observation. That's a bandwidth observation.\n\nTyping caps you at maybe 40 words per minute if you're fast.\n\nTalking gets you to 150.\n\nThe constraint on agent usefulness isn't the model. It's how fast you can feed it context.\n\nVoice isn't about convenience. It's about getting more signal into the system before the system acts.\n\nSo the question isn't whether your agents can talk.\n\nThe question is: are you still typing your context in like it's 2023?",
+        "Anthropic didn't ship a better model this week.\n\nThey shipped dreaming.\n\nClaude Managed Agents can now generate hypothetical scenarios and test them before acting.\n\nThey also shipped multi-agent orchestration. Outcomes. Webhooks.\n\nNone of that is model capability. All of it is harness capability.\n\nThe model already had the reasoning overhang. What it didn't have was the plumbing to use it in production.\n\nThat's where we are now.\n\nThe raw intelligence ceiling is so high that the bottleneck moved. It's not \"can the model do this?\" anymore. It's \"can we trust it to do this unattended?\"\n\nDreaming is the answer to that.\n\nLet the agent run scenarios. See what breaks. Correct before committing.\n\nMeanwhile FIS is deploying Claude agents to automate anti-money laundering investigations. BMO and Amalgamated Bank are piloting it. The system cuts AML review time from hours to minutes.\n\nBroader release planned for second half of this year.\n\nThis is the enterprise pattern that's landing: AI vendor plus domain infrastructure partner. Customer data never leaves the partner's system. The agent lives inside the controlled environment.\n\nNo data leakage. Full audit trail. Regulatory compliance baked in.\n\nThe agents aren't coming. They're here. The question is whether your infrastructure is ready.",
+        "GPT-5.5 Instant just became the new ChatGPT default.\n\nHallucinations down 52.5 percent.\n\nOutput 30 percent shorter with the same information density.\n\nThe model now backtracks to find errors in your logic instead of just saying \"I don't see a solution.\"\n\nSmart Routing automatically switches to GPT-5.5 Thinking for complex queries. You don't choose. The system chooses.\n\nMicrosoft rolled it into 365 Copilot the same day.\n\nCoordinated deployment across enterprise surfaces.\n\nSo here's what just changed.\n\nThe trust gap on AI output just narrowed by half.\n\nEvery enterprise deal sitting in legal review because someone's worried about accuracy? The math on that deal just shifted.\n\nEvery content team still fact-checking every AI draft? The labor calculation just moved.\n\nEvery founder who decided agents weren't reliable enough for their use case six months ago? That decision is now stale.\n\nThe question isn't whether GPT-5.5 is better than GPT-5.\n\nThe question is: what decision did you make in February that you need to revisit in May?"
+      ],
+      "threads": [
+        "OpenAI shipped three new voice models yesterday and Sam Altman said the quiet part out loud.\n\n\"People are really starting to use voice to interact with AI, especially when they have a lot of context to dump.\"\n\nThat's the whole game.\n\nTyping caps you at 40 words per minute. Talking gets you to 150.\n\nThe constraint isn't the model. It's how fast you can feed it context.\n\nVoice isn't about convenience. It's about bandwidth.",
+        "Anthropic added dreaming to Claude this week.\n\nNot a better model. A better harness.\n\nClaude agents can now generate hypothetical scenarios and test them before acting.\n\nThe model already had the intelligence. What it didn't have was the plumbing to use it unattended.\n\nDreaming is the answer. Run scenarios. See what breaks. Correct before committing.\n\nMeanwhile FIS is deploying Claude agents to cut anti-money laundering reviews from hours to minutes.\n\nThe agents aren't coming. They're here.",
+        "GPT-5.5 Instant just became the new ChatGPT default.\n\nHallucinations down 52.5 percent. Output 30 percent shorter.\n\nThe model now backtracks to find errors in your logic instead of just giving up.\n\nMicrosoft rolled it into 365 Copilot the same day.\n\nEvery enterprise deal sitting in legal review because someone's worried about accuracy? The math on that deal just shifted.\n\nWhat decision did you make in February that you need to revisit in May?"
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-05-09",
+    "source": "Startup Ideas Podcast",
+    "title": "Laziest way to build AI agents",
+    "url": "https://www.youtube.com/watch?v=cw54pz5GrMo",
+    "video_id": "cw54pz5GrMo"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-05-09",
+    "source": "AI Daily Brief",
+    "title": "The Week the AI Story Shifted",
+    "url": "https://www.youtube.com/watch?v=ef4WR5vUJro",
+    "video_id": "ef4WR5vUJro"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-09",
+    "topic": "model_releases",
+    "title": "OpenAI unveils three audio models for real-time voice tasks - The Hindu",
+    "url": "https://www.thehindu.com/sci-tech/technology/openai-unveils-three-audio-models-for-real-time-voice-tasks/article70953726.ece",
+    "snippet": "OpenAI unveils three audio models for real-time voice tasks - The Hindu\n[...]\n# OpenAI unveils three audio models for real-time voice tasks\n[...]\n## The new models are GPT-Realtime-2, GPT-Realtime-Translate and GPT-Realtime-Whisper\n[...]\nOpenAI introduced three audio models for its \u200bdeveloper platform on Thursday, aiming \u200cto make voice-based software agents \u200bmore conversational and \u2060capable of com"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-09",
+    "topic": "model_releases",
+    "title": "GPT-5.5 Instant comes to Microsoft 365 Copilot | Microsoft Signal Blog | Microsoft",
+    "url": "https://news.microsoft.com/signal/articles/gpt-5-5-instant-comes-to-microsoft-365-copilot/",
+    "snippet": "GPT-5.5 Instant comes to Microsoft 365 Copilot | Microsoft Signal Blog | Microsoft Skip to main content"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-09",
+    "topic": "model_releases",
+    "title": "OpenAI Launches GPT-5.5 Instant: Halving Hallucinations in ChatGPT",
+    "url": "https://www.voiceofemirates.com/en/science-and-tech/2026/05/08/openai-releases-gpt-5-5-instant-as-the-new-default-model-for-chatgpt/",
+    "snippet": "OpenAI Launches GPT-5.5 Instant: Halving Hallucinations in ChatGPT\n[...]\nLaunch of the new GPT-5.5 Instant model (Photo / Agencies)\n[...]\nSan Francisco \u2013 OpenAI announced on Wednesday a major upgrade to its flagship product, ChatGPT, introducing the GPT-5.5 Instant model as the new default for all users. This upgrade aims to tackle long-standing issues of \u201challucination\u201d and verbosity. Official da"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-09",
+    "topic": "product_releases",
+    "title": "Anthropic adds dreaming & multiagent tools for Claude",
+    "url": "https://ecommercenews.asia/story/anthropic-adds-dreaming-multiagent-tools-for-claude",
+    "snippet": "Anthropic adds dreaming & multiagent tools for Claude\n[...]\n# Anthropic adds dreaming & multiagent tools for Claude\n[...]\nFri, 8th May 2026 (Today)\n[...]\nAnthropic has introduced dreaming, outcomes, multiagent orchestration and webhooks for Claude Managed Agents, expanding the tools available to developers using its agent platform.\n[...]\nDreaming is being released as a research preview, while outc"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-09",
+    "topic": "product_releases",
+    "title": "Perplexity Personal Computer AI app for Mac | Cult of Mac",
+    "url": "https://www.cultofmac.com/news/perplexity-personal-computer-ai-app-for-mac",
+    "snippet": "Perplexity Personal Computer AI app for Mac | Cult of Mac\n[...]\nA new Perplexity app brings the Personal Computer AI agent to more Mac users. Photo: Perplexity\n[...]\nPerplexity\u2019s new Mac app brings its Personal Computer AI agent to a much wider audience, expanding access beyond the group of high-level subscribers who first gained entry to the service in April, the company said Thursday.\n[...]\nThe "
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-09",
+    "topic": "x_posts",
+    "title": "The Tech Download: Meta, Google enter AI agent race as \u2018agentic wars\u2019 heat up",
+    "url": "https://www.cnbc.com/2026/05/08/ai-agent-meta-google-agentic-wars-tech-download.html",
+    "snippet": "The Tech Download: Meta, Google enter AI agent race as \u2018agentic wars\u2019 heat up\n[...]\n- Agentic AI tool OpenClaw went viral earlier this year, with a number of Big Tech companies ramping up efforts to build similar products.\n- In the past week, reports indicate that both Meta and Google are working on AI agents.\n- While the commercial opportunity is there, analysts told CNBC challenges remain around"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-09",
+    "topic": "x_posts",
+    "title": "FIS Partners With Anthropic To Launch Agentic AI Platform For Banking, Starting With Financial Crimes",
+    "url": "https://pulse2.com/fis-partners-with-anthropic-to-launch-agentic-ai-platform-for-banking-starting-with-financial-crimes/",
+    "snippet": "FIS Partners With Anthropic To Launch Agentic AI Platform For Banking, Starting With Financial Crimes\n[...]\n# FIS Partners With Anthropic To Launch Agentic AI Platform For Banking, Starting With Financial Crimes\n[...]\nPartners With Anthropic To Launch\n[...]\nic AI Platform For Banking, Starting With Financial\n[...]\nFIS announced a partnership with Anthropic to bring agentic artificial intelligence "
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-09",
+    "topic": "x_posts",
+    "title": "OwlTing launches wallet for AI agents to handle payments",
+    "url": "https://ecommercenews.asia/story/owlting-launches-wallet-for-ai-agents-to-handle-payments",
+    "snippet": "OwlTing launches wallet for AI agents to handle payments\n[...]\n# OwlTing launches wallet for AI agents to handle payments\n[...]\nOwlTing Group has launched OwlPay Agent Wallet for AI agents, designed to handle transactions on users' behalf.\n[...]\nThe wallet lets AI agents send, receive and manage stablecoins under user authorisation. It can carry out tasks such as paying for an online purchase or s"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-09",
+    "topic": "x_posts",
+    "title": "OpenAI launches GPT-Realtime-2 and two new voice API models",
+    "url": "https://thenextweb.com/news/openai-gpt-realtime-2-voice-models",
+    "snippet": "OpenAI launches GPT-Realtime-2 and two new voice API models\n[...]\nGPT-Realtime-2 brings GPT-5-class reasoning to live voice. A separate translation model covers 70+ input languages. A streaming Whisper variant handles transcription. The pricing is aggressive enough to make the comparison unavoidable.\n[...]\nOpenAI released three new voice models in its API, broadening the range of surfaces where de"
   }
 ]
