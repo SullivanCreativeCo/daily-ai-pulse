@@ -964,5 +964,87 @@
     "title": "OpenAI launches GPT-Realtime-2 and two new voice API models",
     "url": "https://thenextweb.com/news/openai-gpt-realtime-2-voice-models",
     "snippet": "OpenAI launches GPT-Realtime-2 and two new voice API models\n[...]\nGPT-Realtime-2 brings GPT-5-class reasoning to live voice. A separate translation model covers 70+ input languages. A streaming Whisper variant handles transcription. The pricing is aggressive enough to make the comparison unavoidable.\n[...]\nOpenAI released three new voice models in its API, broadening the range of surfaces where de"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-05-09",
+    "headline": "OpenAI ships three voice models in one day while Anthropic teaches Claude to dream about its mistakes. The race isn't about smarter models anymore\u2014it's about models that work in real time and fix themselves without human hand-holding.",
+    "url": "archive/2026-05-09.html",
+    "posts": {
+      "linkedin": [
+        "OpenAI just shipped three voice models in one day.\n\nGPT-Realtime-2. Real-time translation. Streaming transcription.\n\nNot three separate products. One API release.\n\nThe thing nobody's talking about: these aren't call-and-response models. They're continuous dialogue models. You can describe a task, change your mind mid-sentence, and the agent keeps up.\n\nThat's not a feature. That's a different product category.\n\nBecause the old way was: you ask, it answers, you ask again. The new way is: you talk, it listens, it acts, the conversation never stops.\n\nThe moment this becomes real is when you stop thinking about \"prompts\" and start thinking about \"conversations.\"\n\nAnd the companies building for prompts are about to get left behind by the companies building for dialogue.\n\nWhat's the first workflow you'd hand to a voice agent that never stops listening?",
+        "Anthropic just taught Claude to dream.\n\nNot in the poetic sense. In the \"learn from your own mistakes while nobody's watching\" sense.\n\nHarvey saw task completion rates go up 6x after turning on dreaming. Wisedocs cut document review time in half. Netflix is running hundreds of builds in parallel.\n\nThe unlock isn't the model. The unlock is that the model can fix itself.\n\nBecause the problem with agents has always been trust. You can't put them in production if you have to check every output. And you can't scale if every mistake requires a human to step in and course-correct.\n\nDreaming solves that. The agent runs. It screws up. It notices. It adjusts. Next time, it doesn't screw up the same way.\n\nThat's not an agent. That's a system that compounds.\n\nAnd the gap between \"tool that needs supervision\" and \"system that improves on its own\" is the gap between a nice demo and a real business.\n\nWhat workflow are you not automating because you don't trust the agent to get it right every time?",
+        "AWS just gave AI agents the ability to spend money.\n\nNot hypothetically. Not in a demo. In production.\n\nAn agent can now connect to a paid service, see a 402 status code, read the payment instructions, complete the transaction, and get access. No human approval. No budget meeting.\n\nThe use cases are obvious. A financial analysis agent buys access to stock data. A coding agent subscribes to a dev tool. A research agent purchases a dataset.\n\nBut here's the thing nobody's saying out loud: if your service can't be purchased by an agent, you won't be in the consideration set by 2027.\n\nBecause the humans are already exhausted. They're not evaluating 47 SaaS tools to find the right one. They're telling an agent what they need and letting it figure out the rest.\n\nAnd if your pricing page isn't agent-readable, if your signup flow requires a demo call, if your purchase process involves a human, you're out.\n\nThe question isn't \"are agents going to buy from us?\" The question is \"are we set up for them to buy from us?\"\n\nIs your pricing page agent-readable?"
+      ],
+      "threads": [
+        "OpenAI shipped three voice models yesterday. Not three products. One API release. The thing that matters: these aren't call-and-response models. They're continuous dialogue. You talk, change your mind mid-sentence, the agent keeps up. That's not a feature upgrade. That's a different category. The companies building for prompts are about to get smoked by the companies building for conversation.",
+        "Anthropic taught Claude to dream. Not poetic dreaming. \"Learn from your own mistakes while nobody's watching\" dreaming. Harvey saw 6x task completion after turning it on. The unlock: the agent can fix itself. No human in the loop. That's the gap between a demo and a business. Agents that compound vs agents that need supervision. What workflow are you not automating because you don't trust it yet?",
+        "AWS just let AI agents spend money. No human approval. No budget meeting. Agent sees a 402 status code, reads payment instructions, completes transaction, gets access. The quiet part: if your service can't be purchased by an agent, you won't be in the consideration set by 2027. Humans are exhausted. They're not evaluating 47 tools. They're telling an agent what they need. Is your pricing page agent-readable?"
+      ]
+    }
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-09",
+    "topic": "model_releases",
+    "title": "OpenAI Launches GPT-5.5-Cyber to Compete With Anthropic\u2019s Powerful Mythos AI | Artificial Intelligence News - News9live",
+    "url": "https://www.news9live.com/technology/artificial-intelligence/openai-launches-gpt-5-5-cyber-to-compete-with-anthropics-powerful-mythos-ai-2969613",
+    "snippet": "OpenAI Launches GPT-5.5-Cyber to Compete With Anthropic\u2019s Powerful Mythos AI | Artificial Intelligence News - News9live\n[...]\n# OpenAI launches GPT-5.5-cyber to compete with Anthropic\u2019s powerful Mythos AI\n[...]\n## OpenAI has launched GPT-5.5-Cyber, a new advanced AI model designed to help cybersecurity professionals detect vulnerabilities, analyze malware, and secure critical infrastructure. The r"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-09",
+    "topic": "model_releases",
+    "title": "OrcaRouter Launches the Open LLM API Router -- Zero Markup, MIT-Licensed, 100+ Models",
+    "url": "https://www.prnewswire.com/news-releases/orcarouter-launches-the-open-llm-api-router--zero-markup-mit-licensed-100-models-302766356.html",
+    "snippet": "OrcaRouter Launches the Open LLM API Router -- Zero Markup, MIT-Licensed, 100+ Models Accessibility Statement Skip Navigation\n[...]\nSAN FRANCISCO, May 8, 2026 /PRNewswire/ -- Today, Continuum AI released OrcaRouter and OrcaRouter Lite \u2014 a unified inference layer that routes across 200+ frontier and open-source language models, with zero markup on BYOK traffic.\n[...]\nWhat ships today:\n[...]\n- OrcaR"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-09",
+    "topic": "product_releases",
+    "title": "GPT Realtime Voice: OpenAI launches GPT-realtime voice suite for developers | - The Times of India",
+    "url": "https://timesofindia.indiatimes.com/technology/tech-news/openai-launches-gpt-realtime-voice-suite-for-developers/articleshow/130946298.cms",
+    "snippet": "GPT Realtime Voice: OpenAI launches GPT-realtime voice suite for developers | - The Times of India\n[...]\nTech News\n- OpenAI launches GPT-realtime voice suite for developers\n[...]\n# OpenAI launches GPT-realtime voice suite for developers\n[...]\nChatGPT-maker OpenAI has now introduced a suite of new voice intelligence models in its API which is designed to make AI-powered voice interactions more natu"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-09",
+    "topic": "product_releases",
+    "title": "OpenAI launches advanced real-time voice AI models - TechBriefly",
+    "url": "https://techbriefly.com/2026/05/08/openai-launches-advanced-real-time-voice-ai-models/",
+    "snippet": "OpenAI launches advanced real-time voice AI models - TechBriefly\n[...]\n# OpenAI launches advanced real-time voice AI models\n[...]\nOpenAI introduces new voice intelligence features in its API, including GPT\u2011Realtime\u20112, enabling real-time translation, transcription, and conversation.\n[...]\nOpenAI announced new voice intelligence features for its API designed to assist developers in creating interact"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-09",
+    "topic": "x_posts",
+    "title": "OpenAI Brings Codex to Google Chrome - Thurrott.com",
+    "url": "https://www.thurrott.com/a-i/openai-a-i/335842/openai-brings-codex-to-google-chrome",
+    "snippet": "OpenAI Brings Codex to Google Chrome - Thurrott.com\n[...]\nOne year after it launched the Codex in preview, OpenAI\u2019s coding agent is available pretty much everywhere. And that now includes the browser, thanks to the release of a Codex extension for Google Chrome.\n[...]\n\u201cCodex can now take on more of your browser dev work,\u201d OpenAI announced on Twitter/X. \u201cWith the new Chrome plugin in the Codex app,"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-09",
+    "topic": "x_posts",
+    "title": "AWS adds agentic payment features to Amazon Bedrock AgentCore - SiliconANGLE",
+    "url": "https://siliconangle.com/2026/05/07/aws-adds-agentic-payment-features-amazon-bedrock-agentcore/",
+    "snippet": "AWS adds agentic payment features to Amazon Bedrock AgentCore - SiliconANGLE\n[...]\n### AWS adds agentic payment features to Amazon Bedrock AgentCore\n[...]\nAmazon Web Services Inc. today debuted a set of features that artificial intelligence agents can use to make purchases.\n[...]\nThe capabilities are available in preview through the cloud giant\u2019s Amazon Bedrock AgentCore service. It\u2019s a suite of t"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-09",
+    "topic": "x_posts",
+    "title": "Anthropic introduces \"dreaming,\" a system that lets AI agents learn from their own mistakes | VentureBeat",
+    "url": "https://venturebeat.com/technology/anthropic-introduces-dreaming-a-system-that-lets-ai-agents-learn-from-their-own-mistakes",
+    "snippet": "Anthropic introduces \"dreaming,\" a system that lets AI agents learn from their own mistakes | VentureBeat\n[...]\nAnthropic on Tuesday unveiled a suite of updates to its Claude Managed Agents platform at its second annual Code with Claude developer conference in San Francisco, introducing a new capability called \" dreaming\" that lets AI agents learn from their own past sessions and improve over time"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-09",
+    "topic": "x_posts",
+    "title": "Using Claude? Thank Elon Musk - Business Insider",
+    "url": "https://www.businessinsider.com/claude-elon-musk-anthropic-ai-compute-2026-5",
+    "snippet": "Using Claude? Thank Elon Musk - Business Insider\n[...]\n- What is Claude's ethical appeal?\n- What challenges do AI startups face?\n\n- How does AI demand impact compute supply?\n[...]\nAnthropic's developer conference\n[...]\nwith, so\n[...]\nThe big news: Anthropic is renting AI compute from a giant data center run by SpaceX. So if you use Claude because you think it's the most ethical AI chatbot, you now"
   }
 ]
