@@ -1046,5 +1046,119 @@
     "title": "Using Claude? Thank Elon Musk - Business Insider",
     "url": "https://www.businessinsider.com/claude-elon-musk-anthropic-ai-compute-2026-5",
     "snippet": "Using Claude? Thank Elon Musk - Business Insider\n[...]\n- What is Claude's ethical appeal?\n- What challenges do AI startups face?\n\n- How does AI demand impact compute supply?\n[...]\nAnthropic's developer conference\n[...]\nwith, so\n[...]\nThe big news: Anthropic is renting AI compute from a giant data center run by SpaceX. So if you use Claude because you think it's the most ethical AI chatbot, you now"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-05-10",
+    "headline": "**The cheap intelligence race just got real.** Baidu's ERNIE 5.1 shipped at 6% of the pre-training cost of comparable models while topping China's search capability rankings, and OpenAI cut GPT-5.5's hallucination rate in half. The new game isn't who has the biggest model\u2014it's who can ship reliable intelligence at a price that lets you actually use it.",
+    "url": "archive/2026-05-10.html",
+    "posts": {
+      "linkedin": [
+        "Baidu just trained a flagship model for 6% of the cost everyone else is paying.\n\nERNIE 5.1 hit China's #1 search ranking. Compressed parameters to one-third. Cut training cost to 6% of comparable models.\n\nThis is the DeepSeek playbook going mainstream.\n\nThe game used to be: who can afford the biggest training run?\n\nThe new game: who can ship intelligence cheap enough that people actually use it?\n\nOpenAI cut hallucinations in half with GPT-5.5. Anthropic can't provision servers fast enough to meet demand. Google replaced your inbox with a to-do list.\n\nEvery move this week pointed at the same thing.\n\nReliable intelligence at a price that makes sense is the new moat.\n\nRaw capability was the table stakes race. We're past that now.\n\nSo here's the question:\n\nIf intelligence gets 16x cheaper, what breaks first? What business model stops working when the cost of being smart drops to almost nothing?",
+        "Voice agents can now think while they talk.\n\nOpenAI's Realtime API update this week lets voice models reason during conversation, call tools, recover from errors, and handle long sessions without breaking.\n\nThis isn't a demo feature anymore.\n\nCustomer support. Sales calls. Call centers. Healthcare triage. Live events.\n\nThe shift from \"AI answers questions\" to \"AI operates workflows\" just reached phone calls.\n\nMost people are still thinking about ChatGPT as a research assistant.\n\nThe companies shipping right now are thinking about it as the thing that handles your first hundred customer calls every morning.\n\nThat's not the same product.\n\nThe Realtime API used to feel like a neat voice trick. Now it feels like infrastructure.\n\nSo if voice agents can think and act in real time, what's the first workflow in your world that changes?\n\nWhat conversation are you still having manually that doesn't need to be manual anymore?",
+        "Google just killed the inbox.\n\nGmail's new AI Inbox doesn't show you emails. It shows you what needs doing.\n\nSuggested to-dos. Topic summaries. Actionable items pulled from your messages.\n\nThe shift is from message-first to task-first.\n\nYou don't scroll through what arrived. You see what matters.\n\nThis is the pattern everywhere right now.\n\nPerplexity launched Personal Computer for Mac. It doesn't show you files. It shows you what it can do with them.\n\nOpenAI's Codex Chrome extension doesn't take over your screen. It runs in the background handling the work you'd normally context-switch for.\n\nThe old model: AI helps you process information.\n\nThe new model: AI processes information so you can focus on decisions.\n\nInboxes are turning into to-do lists. Dashboards are turning into action queues. Assistants are turning into operators.\n\nSo here's the real question:\n\nWhat are you still reviewing manually that could just show up as a decision instead?"
+      ],
+      "threads": [
+        "Baidu trained a flagship model for 6% of what everyone else is paying.\n\nERNIE 5.1 topped China's search rankings. One-third the parameters. 6% the training cost.\n\nThis is the new game. Intelligence got cheap enough to actually use.\n\nRaw capability was the race. Reliable intelligence at a price that works is the moat now.\n\nSo if intelligence gets 16x cheaper, what breaks first in your world?",
+        "Voice agents can think while they talk now.\n\nOpenAI's Realtime API lets voice models reason during conversation, call tools, recover from errors.\n\nCustomer support. Sales. Call centers. This isn't a demo anymore.\n\nThe shift from answering questions to operating workflows just reached phone calls.\n\nWhat conversation in your business doesn't need to be manual anymore?",
+        "Google killed the inbox.\n\nGmail's AI Inbox doesn't show emails. It shows what needs doing. To-dos, summaries, actions.\n\nMessage-first is over. Task-first is here.\n\nInboxes are turning into decision queues everywhere. Assistants are turning into operators.\n\nWhat are you still reviewing manually that could just show up as a decision?"
+      ]
+    }
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-10",
+    "topic": "model_releases",
+    "title": "ERNIE 5.1 Officially Released! Topping Multiple Leaderboards \u2014 A Model That Writes Better and Understands You More | ERNIE Blog",
+    "url": "https://ernie.baidu.com/blog/posts/ernie-5.1-0508-release/",
+    "snippet": "ERNIE 5.1 Officially Released! Topping Multiple Leaderboards \u2014 A Model That Writes Better and Understands You More | ERNIE Blog\n[...]\nToday, we officially release ERNIE 5.1. While inheriting the pre-training foundation of ERNIE 5.0, it compresses total parameters to approximately one-third and active parameters to approximately one-half, achieving leading foundational performance at its model scal"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-10",
+    "topic": "model_releases",
+    "title": "Baidu releases Ernie 5.1 with pre-training cost at only 6% of industry peers - CnTechPost",
+    "url": "https://cntechpost.com/2026/05/09/baidu-releases-ernie-5-1-pre-training-cost-at-only-6-industry-peers/",
+    "snippet": "Baidu releases Ernie 5.1 with pre-training cost at only 6% of industry peers - CnTechPost\n[...]\n# Baidu releases Ernie 5.1 with pre-training cost at only 6% of industry peers\n[...]\n- Baidu has launched the Ernie 5.1 model, achieving a leapfrog optimization in parameter size and computing overhead.\n- The model's search capabilities have topped domestic rankings, while its agent and reasoning perfor"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-10",
+    "topic": "model_releases",
+    "title": "DeepSeek rolls out image recognition feature ahead of V4.1 update - CnTechPost",
+    "url": "https://cntechpost.com/2026/05/09/deepseek-roll-out-image-recognition-feature-ahead-v4-1-update/",
+    "snippet": "DeepSeek rolls out image recognition feature ahead of V4.1 update - CnTechPost\n[...]\n# DeepSeek rolls out image recognition feature ahead of V4.1 update\n[...]\n- DeepSeek rolled out its image recognition mode to all users, officially entering the era of image-text interaction.\n- Its highly efficient visual framework significantly reduces computing power consumption, paving the way for the release o"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-10",
+    "topic": "model_releases",
+    "title": "GPT-5.5 Instant Cuts Hallucinations by Half to Redefine AI Reliability",
+    "url": "https://www.ai.cm/article/gpt-55-instant-cuts-hallucinations-by-half-to-redefine-ai-reliability/",
+    "snippet": "GPT-5.5 Instant Cuts Hallucinations by Half to Redefine AI Reliability\n[...]\nOpenAI's release of GPT-5.5 Instant marks a technical pivot toward precision, significantly reducing factual errors and optimizing computational efficiency for professional applications.\n[...]\nIn the rapidly evolving landscape of large language models (LLMs), the industry has reached a critical juncture where raw paramete"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-10",
+    "topic": "model_releases",
+    "title": "\u6587\u5fc3 5.1 \u6b63\u5f0f\u53d1\u5e03\uff01\u591a\u699c\u767b\u9876\uff0c\u6a21\u578b\"\u5199\u5f97\u597d\u66f4\u61c2\u4f60\" | ERNIE Blog",
+    "url": "https://ernie.baidu.com/blog/zh/posts/ernie-5.1-0508-release/",
+    "snippet": "\u6587\u5fc3 5.1 \u6b63\u5f0f\u53d1\u5e03\uff01\u591a\u699c\u767b\u9876\uff0c\u6a21\u578b\"\u5199\u5f97\u597d\u66f4\u61c2\u4f60\" | ERNIE Blog\n[...]\n\u4eca\u5929\uff0c\u6587\u5fc3 5.1 \u6b63\u5f0f\u4e0a\u7ebf\u3002\u5145\u5206\u7ee7\u627f\u6587\u5fc3 5.0 \u77e5\u8bc6\uff0c\u663e\u8457\u964d\u4f4e\u9884\u8bad\u7ec3\u6210\u672c\uff0c\u5c06\u603b\u53c2\u6570\u538b\u7f29\u81f3\u7ea6 1/3\u3001\u6fc0\u6d3b\u53c2\u6570\u538b\u7f29\u81f3\u7ea6 1/2\uff0c\u4ec5\u4f7f\u7528\u4e1a\u754c\u540c\u89c4\u6a21\u6a21\u578b\u7ea6 6% \u7684\u9884\u8bad\u7ec3\u6210\u672c\uff0c\u5b9e\u73b0\u540c\u7ea7\u522b\u6a21\u578b\u57fa\u7840\u6548\u679c\u9886\u5148\u3002\n[...]\n\u4f5c\u4e3a\u5f53\u524d\u56fd\u4ea7\u5927\u6a21\u578b\u7684\u6548\u4ef7\u6bd4\u6807\u6746\u4e4b\u4e00\uff0c\u6587\u5fc3 5.1 \u5728\u4fdd\u6301\u65d7\u8230\u667a\u529b\u7684\u540c\u65f6\uff0c\u5b8c\u6210\u4e86\u53c2\u6570\u6548\u7387\u4e0e\u8bad\u7ec3\u6210\u672c\u7684\u8de8\u8d8a\u5f0f\u4f18\u5316\u3002\u6027\u80fd\u5df2\u901a\u8fc7\u56fd\u9645\u6743\u5a01\u699c\u5355\u9a8c\u8bc1\uff1a5 \u6708 9 \u65e5\uff0c\u6587\u5fc3 5.1 \u4ee5 1223 \u5206\u65a9\u83b7 Arena \u641c\u7d22\u699c\u5168\u7403\u7b2c\u56db\u3001\u56fd\u5185\u7b2c\u4e00\u3002\n[...]\n\u767b\u5f55\u5b98\u7f51 https://yiyan.baidu.com\u5373\u53ef\u4e0e\u6700\u65b0\u7684\u6587\u5fc3 5.1 \u6a21\u578b\u5bf9\u8bdd\uff0c\u63a2\u7d22\u667a\u80fd\u5168\u65b0\u4f53\u9a8c\u3002\u661f\u6cb3\u793e\u533a\u4e5f\u540c\u6b65\u4e0a\u7ebf\u6587\u5fc3 5.1 Playground \u4f53\u9a8c\u5165\u53e3\u6a21\u578b\u5e93-\u98de\u6868 AI Studio \u661f\u6cb3\u793e\u533a\u3002\n[...]\n\u8fdb\u884c\u9884\u8bad\u7ec3\uff0c\n[."
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-10",
+    "topic": "product_releases",
+    "title": "OpenAI Launches Codex Chrome Extension for Background Web Development Tasks | Technobezz",
+    "url": "https://www.technobezz.com/news/openai-launches-codex-chrome-extension-for-background-web-development-tasks",
+    "snippet": "OpenAI Launches Codex Chrome Extension for Background Web Development Tasks | Technobezz\n[...]\nMost common developer workflows happen in a browser. OpenAI built its Computer Use feature for the desktop Codex app, then checked the data and found that reality.\n[...]\nSo it shipped a Chrome extension instead.\n[...]\nCodex for Chrome, launched May 7 on macOS and Windows, gives the AI agent its own tab g"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-10",
+    "topic": "product_releases",
+    "title": "Perplexity Launches Personal Computer AI Agent for All Mac Users to Rival Local AI Assistants",
+    "url": "https://theaiinsider.tech/2026/05/09/perplexity-launches-personal-computer-ai-agent-for-all-mac-users-to-rival-local-ai-assistants/",
+    "snippet": "Perplexity Launches Personal Computer AI Agent for All Mac Users to Rival Local AI Assistants\n[...]\n# Perplexity Launches Personal Computer AI Agent for All Mac Users to Rival Local AI Assistants\n[...]\n- May 9, 2026\n- 7 min read\n[...]\nPerplexity has opened its Personal Computer feature to all Mac users through a new desktop app, bringing local AI agent capabilities beyond its previous Max subscrib"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-10",
+    "topic": "product_releases",
+    "title": "Google brings AI Inbox to Gmail\u2019s bottom bar: Here's what it means for users - The Times of India",
+    "url": "https://timesofindia.indiatimes.com/technology/tech-news/google-brings-ai-inbox-to-gmails-bottom-bar-heres-what-it-means-for-users/articleshow/130973063.cms",
+    "snippet": "Google brings AI Inbox to Gmail\u2019s bottom bar: Here's what it means for users - The Times of India\n[...]\nGoogle brings AI Inbox to Gmail\u2019s bottom bar: Here's what it means for users\n[...]\n# Google brings AI Inbox to Gmail\u2019s bottom bar: Here's what it means for users\n[...]\nGoogle has now introduced a new AI Inbox in Gmail\u2019s bottom navigation bar on both Android and iOS operating systems. As reported"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-10",
+    "topic": "x_posts",
+    "title": "Aaron Levie Says AI Agents Will Make Work More Accessible While Giving Experts A 'Huge Edge' - Airbnb (NA - Benzinga",
+    "url": "https://www.benzinga.com/markets/tech/26/05/52436727/aaron-levie-says-ai-agents-will-make-work-more-accessible-while-giving-experts-a-huge-edge",
+    "snippet": "Aaron Levie Says AI Agents Will Make Work More Accessible While Giving Experts A 'Huge Edge' - Airbnb (NA - Benzinga\n[...]\n## Aaron Levie Says AI Agents Will Make Work More Accessible While Giving Experts A 'Huge Edge'\n[...]\n## AI Agents Boost Access, But Experts Stay Ahead\n[...]\nIn a post on X, Levie said AI agents will \"make it far easier for people to get into previously extremely complicated f"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-10",
+    "topic": "x_posts",
+    "title": "Dario Amodei Says Anthropic's Explosive Growth 'Too Hard To Handle' As Startup Sees 80-Fold Surge In Q1",
+    "url": "https://finance.yahoo.com/sectors/technology/articles/dario-amodei-says-anthropics-explosive-173018068.html",
+    "snippet": "Artificial intelligence startup Anthropic reported explosive growth in the first quarter of 2026, with CEO Dario Amodei saying the company achieved an \"80-fold\" annual increase in revenue and usage, far beyond \"10-fold\" expectations.\n[...]\nThis highlights the blistering pace of adoption for its Claude AI products as demand strains the company's computing infrastructure, leaving the company struggl"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-10",
+    "topic": "x_posts",
+    "title": "Anthropic, FIS Developing Financial Crimes Agent | Crowdfund Insider",
+    "url": "https://www.crowdfundinsider.com/2026/05/278076-anthropic-fis-developing-financial-crimes-agent/",
+    "snippet": "Anthropic, FIS Developing Financial Crimes Agent | Crowdfund Insider\n[...]\nFIS is working with Anthropic to bring agentic AI to banking, beginning with the Financial Crimes AI Agent.\n[...]\nThe agent will compress anti-money-laundering investigations from hours to minutes, automatically assembling evidence across a bank\u2019s core systems, evaluating activity against known typologies, and surfacing the"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-10",
+    "topic": "x_posts",
+    "title": "OpenAI Realtime API: GPT-Realtime-2 Pushes Voice Agents Into Real Workflows",
+    "url": "https://www.syntaxdispatch.com/blog/openai-realtime-api",
+    "snippet": "OpenAI Realtime API: GPT-Realtime-2 Pushes Voice Agents Into Real Workflows\n[...]\n# OpenAI Realtime API: GPT-Realtime-2 Pushes Voice Agents Into Real Workflows\n[...]\nOpenAI introduced GPT-Realtime-2, GPT-Realtime-Translate, and GPT-Realtime-Whisper for the Realtime API. Here is what changed for voice agents, live translation, transcription, and production AI workflows.\n[...]\nOpenAI has moved the R"
   }
 ]
