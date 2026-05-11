@@ -1160,5 +1160,159 @@
     "title": "OpenAI Realtime API: GPT-Realtime-2 Pushes Voice Agents Into Real Workflows",
     "url": "https://www.syntaxdispatch.com/blog/openai-realtime-api",
     "snippet": "OpenAI Realtime API: GPT-Realtime-2 Pushes Voice Agents Into Real Workflows\n[...]\n# OpenAI Realtime API: GPT-Realtime-2 Pushes Voice Agents Into Real Workflows\n[...]\nOpenAI introduced GPT-Realtime-2, GPT-Realtime-Translate, and GPT-Realtime-Whisper for the Realtime API. Here is what changed for voice agents, live translation, transcription, and production AI workflows.\n[...]\nOpenAI has moved the R"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-05-11",
+    "headline": "The model wars just compressed. Baidu's ERNIE 5.1 hit #4 globally on search using one-third the parameters and 6% of the training compute that frontier labs burn, while OpenAI quietly rolled GPT-5.5 Instant as the new ChatGPT default with half the hallucinations. The efficiency race is now the frontier race.",
+    "url": "archive/2026-05-11.html",
+    "posts": {
+      "linkedin": [
+        "Baidu just hit #4 globally on search.\n\nUsing one third the parameters.\n\nAnd 6% of the training compute.\n\nERNIE 5.1 is the most efficient frontier model anyone's shipped yet. Not the biggest. Not the most hyped. The leanest.\n\nWhile everyone else was stacking GPUs, Baidu asked a different question.\n\nWhat if we compressed the model instead of scaling it?\n\nResult: #4 on LMArena Search Arena. #14 on text. Highest any Chinese lab has ever climbed.\n\nThe math just changed.\n\nBecause if you can hit frontier performance with 6% of the compute, the barrier to entry for smaller labs just dropped off a cliff.\n\nThe efficiency race is now the frontier race.\n\nWhat happens when every team realizes they don't need OpenAI's budget to build something that competes?",
+        "OpenAI just made GPT-5.5 Instant the new ChatGPT default.\n\nHallucinations dropped 52.5% in technical domains.\n\n37.3% fewer wrong answers on complex conversations.\n\nAnd the model now remembers your past chats, uploaded files, and Gmail content to give you personalized answers.\n\nThis isn't a new model.\n\nIt's a new floor.\n\nBecause every time OpenAI ships an update like this, the bar for what \"good enough\" means moves up.\n\nFebruary's ChatGPT felt like magic.\n\nMay's ChatGPT feels like Tuesday.\n\nThe question isn't \"am I using the best model?\"\n\nThe question is \"what changed in the last 90 days and why didn't I notice?\"\n\nBecause the tools are moving faster than the posts about the tools.\n\nAnd the people paying attention are already three steps in by the time the LinkedIn carousels start.",
+        "Chris Koerner made $120K selling a Google Drive link.\n\nNo community. No moderators. Just a link.\n\nHe got banned from Facebook.\n\nLost $35K a month in profit overnight.\n\nDidn't own the audience. Didn't have their emails.\n\nSo he rebuilt.\n\nShort form video. Email capture. Landing pages. Instagram automations. AI voice agents.\n\nThen he packaged everything he learned into a Google Drive folder and sold it for $97.\n\n$120K in 30 days.\n\nThe lesson isn't \"sell a Google Drive link.\"\n\nThe lesson is \"own the list.\"\n\nBecause platforms can disappear.\n\nYour email list can't.\n\nWhat are you already doing for yourself that someone else would find useful?"
+      ],
+      "threads": [
+        "Baidu just hit #4 globally on search using one third the parameters and 6% of the training compute. ERNIE 5.1 is the leanest frontier model anyone's shipped. While everyone else stacked GPUs, Baidu compressed the model. The efficiency race is now the frontier race. What happens when every lab realizes they don't need OpenAI's budget to compete?",
+        "OpenAI made GPT-5.5 Instant the new ChatGPT default. Hallucinations dropped 52.5% in technical domains. The model now remembers your past chats, files, and Gmail to personalize answers. February's ChatGPT felt like magic. May's ChatGPT feels like Tuesday. The bar moved. Not because someone announced it. Because everyone's quietly using better tools.",
+        "Chris Koerner got banned from Facebook. Lost $35K a month. Didn't own the audience. So he rebuilt with email capture, landing pages, and Instagram automations. Then he sold a Google Drive link for $97. Made $120K in 30 days. The lesson: platforms can disappear. Your email list can't. Own the list."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-05-11",
+    "source": "The Koerner Office",
+    "title": "How I Made $120K Selling a Google Drive Link",
+    "url": "https://www.youtube.com/watch?v=tVbN7XSPnM0",
+    "video_id": "tVbN7XSPnM0"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-05-11",
+    "source": "AI Daily Brief",
+    "title": "The New Jobs AI Will Create",
+    "url": "https://www.youtube.com/watch?v=WhAAKxPlMhw",
+    "video_id": "WhAAKxPlMhw"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-11",
+    "topic": "model_releases",
+    "title": "Baidu's ERNIE 5.1 Just Released",
+    "url": "https://felloai.com/baidu-ernie-5-1/",
+    "snippet": "Baidu's ERNIE 5.1 Just Released\n[...]\n# Baidu\u2019s ERNIE 5.1 Just Released\n[...]\nOn May 8, 2026, Baidu released ERNIE 5.1, a new flagship model that is already shaking the leaderboards. ERNIE 5.1 hit #4 globally on the LMArena Search Arena with a score of 1223, becoming the only Chinese model in the global top 10 for search performance. It also reached global rank 14 on the LMArena text leaderboard, "
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-11",
+    "topic": "model_releases",
+    "title": "OpenAI launches GPT-5.5 Instant as the new default ChatGPT model - TechAmerica.ai",
+    "url": "https://techamerica.ai/openai-launches-gpt-55-instant-as-the-new-default-chatgpt-model",
+    "snippet": "OpenAI launches GPT-5.5 Instant as the new default ChatGPT model - TechAmerica.ai\n[...]\n# OpenAI launches GPT-5.5 Instant as the new default ChatGPT model\n[...]\n## OpenAI has introduced GPT-5.5 Instant as the new default model for ChatGPT, with a focus on faster responses, improved accuracy, and a smoother user experience.\n[...]\nOn Tuesday, OpenAI introduced a new foundation model called GPT-5.5 I"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-11",
+    "topic": "model_releases",
+    "title": "OpenAI launches GPT-5.5 Instant: fewer hallucinations, smarter personalization - Money.it International",
+    "url": "https://en.money.it/OpenAI-launches-GPT-5-5-Instant-fewer-hallucinations-smarter-personalization",
+    "snippet": "OpenAI launches GPT-5.5 Instant: fewer hallucinations, smarter personalization - Money.it International\n[...]\n# OpenAI launches GPT-5.5 Instant: fewer hallucinations, smarter personalization\n[...]\nGPT-5.5 Instant is rolling out globally as OpenAI\u2019s new default model, with sharper logical reasoning, deeper memory of past conversations, and a 52.5% drop in factual errors compared to its predecessor."
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-11",
+    "topic": "model_releases",
+    "title": "Alibaba pushes enterprise AI forward with launch of Qwen3.6-Plus",
+    "url": "https://thechronicle.com.ph/alibaba-pushes-enterprise-ai-forward-with-launch-of-qwen3-6-plus/",
+    "snippet": "Alibaba pushes enterprise AI forward with launch of Qwen3.6-Plus\n[...]\nAlibaba has unveiled Qwen3.6-Plus, the latest evolution of its flagship large language model series, marking a major leap in agentic AI capabilities designed for enterprise deployment and next-generation AI applications.\n[...]\nBuilt to address the growing demand for autonomous\n[...]\n6-Plus moves\n[...]\nThe new model will power s"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-11",
+    "topic": "model_releases",
+    "title": "HiDream Launches O1-Image: An Open-Source AI Model That Reasons Before It Draws - NE Dispatch",
+    "url": "https://nedispatch.in/2026/05/hidream-launches-o1-image-an-open-source-ai-model-that-reasons-before-it-draws",
+    "snippet": "HiDream Launches O1-Image: An Open-Source AI Model That Reasons Before It Draws - NE Dispatch\n[...]\n# HiDream Launches O1-Image: An Open-Source AI Model That Reasons Before It Draws\n[...]\nThe 8B-parameter model eliminates the need for external image encoders and debuts at #8 on the Artificial Analysis Text to Image Arena, promising a leaner, reasoning-first approach to high-resolution image genera"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-11",
+    "topic": "product_releases",
+    "title": "Google launches AI-powered Google Finance across Europe | MarketScreener",
+    "url": "https://www.marketscreener.com/news/google-launches-ai-powered-google-finance-across-europe-ce7f5bd8dc8ef32c",
+    "snippet": "Google launches AI-powered Google Finance across Europe | MarketScreener\n[...]\n# Google launches AI-powered Google Finance across Europe\n[...]\nPublished on 05/11/2026 at 02:29 am EDT\n[...]\n| 06:11am | Alphabet files for five-part yen denominated notes - filing | RE |\n| --- | --- | --- |\n| 06:02am | AI labs should pass safety review to get US government contracts, group says | RE |\n| 03:22am | UK's"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-11",
+    "topic": "product_releases",
+    "title": "Atlassian widens AI push with Teamwork Graph & Rovo",
+    "url": "https://cmotech.news/story/atlassian-widens-ai-push-with-teamwork-graph-rovo",
+    "snippet": "Atlassian widens AI push with Teamwork Graph & Rovo\n[...]\n# Atlassian widens AI push with Teamwork Graph & Rovo\n[...]\nMon, 11th May 2026 (Today)\n[...]\nAtlassian has unveiled a set of artificial intelligence updates centred on its Teamwork Graph and Rovo products, aimed at giving AI agents broader organisational context.\n[...]\nThe announcement includes wider access to the Teamwork Graph, which Atla"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-11",
+    "topic": "product_releases",
+    "title": "Printify Launches ChatGPT App To Power Personalized Gifting Through AI | FinancialContent",
+    "url": "https://www.financialcontent.com/article/marketersmedia-2026-5-10-printify-launches-chatgpt-app-to-power-personalized-gifting-through-ai",
+    "snippet": "Printify Launches ChatGPT App To Power Personalized Gifting Through AI | FinancialContent\n[...]\n# Printify Launches ChatGPT App To Power Personalized Gifting Through AI\n[...]\nPublished at May 10th 2026, 11:19 AM EDT via Press Release Distribution Service\n[...]\nPrintify brings idea-to-doorstep gifting into ChatGPT with seamless design, production, and delivery\n[...]\n-- Printify today announced the "
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-11",
+    "topic": "product_releases",
+    "title": "Samsung Expands AI Capabilities of Bespoke AI Refrigerator Family Hub With Major Updates \u2013 Samsung Global Newsroom",
+    "url": "https://news.samsung.com/global/samsung-expands-ai-capabilities-of-bespoke-ai-refrigerator-family-hub-with-major-updates",
+    "snippet": "Samsung Expands AI Capabilities of Bespoke AI Refrigerator Family Hub With Major Updates \u2013 Samsung Global Newsroom\n[...]\n# Samsung Expands AI Capabilities of Bespoke AI Refrigerator Family Hub With Major Updates\n[...]\nKorea on May 11, 2026\n[...]\nSelect refrigerator models with 32\u201d Family Hub in the U.S. will receive updates for AI Vision with enhanced food recognition, smarter Bixby voice control,"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-11",
+    "topic": "product_releases",
+    "title": "Netskope launches AgentSkope AI agents for security teams",
+    "url": "https://securitybrief.news/story/netskope-launches-agentskope-ai-agents-for-security-teams",
+    "snippet": "Netskope launches AgentSkope AI agents for security teams\n[...]\n# Netskope launches AgentSkope AI agents for security teams\n[...]\nSun, 10th May 2026 (Yesterday)\n[...]\nNetskope has launched AgentSkope, a library of AI agents for security and network operations, starting with six agents.\n[...]\nThe product is designed to help security and networking teams automate routine work such as alert triage, t"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-11",
+    "topic": "x_posts",
+    "title": "Anthropic says \u2018evil\u2019 portrayals of AI were responsible for Claude\u2019s blackmail attempts | TechCrunch",
+    "url": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
+    "snippet": "Anthropic says \u2018evil\u2019 portrayals of AI were responsible for Claude\u2019s blackmail attempts | TechCrunch\n[...]\n# Anthropic says \u2018evil\u2019 portrayals of AI were responsible for Claude\u2019s blackmail attempts\n[...]\nFictional portrayals of artificial intelligence can have a real effect on AI models, according to Anthropic.\n[...]\nLast year, the company said that during pre-release tests involving a fictional co"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-11",
+    "topic": "x_posts",
+    "title": "Amazon lets AI bots pay in USDC via Coinbase x402 \u2013 Chain Grid News",
+    "url": "https://chaingridnews.com/2026/05/10/amazon-lets-ai-bots-pay-in-usdc-via-coinbase-x402/",
+    "snippet": "Amazon lets AI bots pay in USDC via Coinbase x402 \u2013 Chain Grid News\n[...]\n# Amazon lets AI bots pay in USDC via Coinbase x402\n[...]\nCoinbase x402 is now native to Amazon Bedrock AgentCore, letting AI agents pay for services in USDC without human input\n[...]\n- AWS launched Amazon Bedrock AgentCore Payments on May 7, with Coinbase x402 and wallet infrastructure embedded to give AI agents autonomous "
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-11",
+    "topic": "x_posts",
+    "title": "Sam Altman expresses shock at GPT-5.5\u2019s capabilities, says he is optimistic about the future \u2013 Firstpost",
+    "url": "https://www.firstpost.com/tech/sam-altman-expresses-shock-at-gpt-5-5s-capabilities-says-he-is-optimistic-about-the-future-14009673.html",
+    "snippet": "Sam Altman expresses shock at GPT-5.5\u2019s capabilities, says he is optimistic about the future \u2013 Firstpost\n[...]\n# Sam Altman expresses shock at GPT-5.5\u2019s capabilities, says he is optimistic about the future\n[...]\n## Sam Altman\u2019s recent posts suggest that future AI systems will move beyond chatbots to become autonomous tools capable of independently handling complex real-world tasks across coding\n[."
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-11",
+    "topic": "x_posts",
+    "title": "Alibaba integrates Qwen AI with Taobao for end-to-end agentic shopping",
+    "url": "https://thenextweb.com/news/alibaba-integrates-qwen-ai-with-taobao-for-end-to-end-agentic-shopping",
+    "snippet": "Alibaba integrates Qwen AI with Taobao for end-to-end agentic shopping\n[...]\nThe Qwen app gets access to Taobao and Tmall\u2019s catalogue of more than 4 billion items, plus Alipay-native checkout, in what is the largest agentic-commerce launch yet from a Chinese platform.\n[...]\nAlibaba is integrating its Qwen AI app with Taobao and Tmall, the company\u2019s two largest consumer marketplaces, in what amount"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-11",
+    "topic": "x_posts",
+    "title": "Shocking that we make such thing: Sam Altman on GPT 5.5",
+    "url": "https://www.digit.in/news/general/shocking-that-we-would-make-such-a-thing-sam-altman-stunned-by-gpt-5-5-capabilities.html",
+    "snippet": "Shocking that we make such thing: Sam Altman on GPT 5.5\n[...]\n# Shocking that we make such thing: Sam Altman on GPT 5.5\n[...]\n## Sam Altman says future AI tools may handle tasks on their own instead of only answering questions.\n\n## He also praised GPT 5.5, calling it one of OpenAI\u2019s most capable AI models yet.\n\n## While many users see AI as a time-saving tool, some are still unsure about depending"
   }
 ]
