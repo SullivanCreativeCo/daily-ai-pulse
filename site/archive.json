@@ -1314,5 +1314,71 @@
     "title": "Shocking that we make such thing: Sam Altman on GPT 5.5",
     "url": "https://www.digit.in/news/general/shocking-that-we-would-make-such-a-thing-sam-altman-stunned-by-gpt-5-5-capabilities.html",
     "snippet": "Shocking that we make such thing: Sam Altman on GPT 5.5\n[...]\n# Shocking that we make such thing: Sam Altman on GPT 5.5\n[...]\n## Sam Altman says future AI tools may handle tasks on their own instead of only answering questions.\n\n## He also praised GPT 5.5, calling it one of OpenAI\u2019s most capable AI models yet.\n\n## While many users see AI as a time-saving tool, some are still unsure about depending"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-05-11",
+    "headline": "OpenAI just split real-time voice into three separate models, and the move isn't about features \u2014 it's about pricing granularity. When you unbundle reasoning from transcription, you're telling enterprises \"we know you don't need GPT-5-class inference on every voicemail callback,\" and suddenly the math changes on what's worth automating.",
+    "url": "archive/2026-05-11.html",
+    "posts": {
+      "linkedin": [
+        "OpenAI just unbundled real-time voice into three separate models.\n\nGPT-Realtime-2 for reasoning. GPT-Realtime-Translate for live multilingual calls. GPT-Realtime-Whisper for transcription only.\n\nThe move isn't about features. It's about pricing granularity.\n\nMost live voice workflows don't need GPT-5-class reasoning on every utterance. They need fast transcription with occasional escalation to the expensive model when stakes justify it.\n\nUnbundling lets you run cheaper inference where it's enough and route complex questions to heavy reasoning only when the math works.\n\nMicrosoft and xAI already have real-time voice agents in market. So the question isn't \"can OpenAI do live voice?\"\n\nIt's \"does splitting three products reduce orchestration tax enough to beat a competitor's single API?\"\n\nThe answer probably depends on how messy your workflow already is.",
+        "OpenAI's new Codex Chrome extension lets the agent operate inside your signed-in browser session.\n\nGmail. Salesforce. LinkedIn. Internal dashboards. The stuff APIs don't cover.\n\nThe reason this matters: most enterprise workflow lives in authenticated web apps. Structured integrations miss the live account state. The forms. The admin panels. The internal tools that never got an API in the first place.\n\nCodex uses tab groups, host prompts, and approval gates instead of unrestricted browser control. So you're not just handing it the keys. You're handing it supervised access with a checklist.\n\nThe risk surface is obvious. You're giving an agent your logged-in session. Regional rollout limits and admin policy will decide adoption speed faster than the feature itself.\n\nBut the automation prize is bigger than most integration catalogs can reach.\n\nSo the question isn't \"is this safe?\" The question is \"what are you already doing manually in a browser that you'd pay to automate if someone built the guardrails right?\"",
+        "Alation just launched AI Governance and the timing is sharp.\n\nThe product creates a single system of record for every AI model, agent, and tool in the enterprise. Live compliance posture for boards and regulators on demand.\n\nThe problem it solves: most CDOs spend weeks manually assembling evidence when asked about AI compliance. Approval workflows live in email threads and SharePoint pages. Model documentation goes stale the day it's filed.\n\nThere is no system of record for AI approvals. And regulators are no longer willing to wait for one.\n\nAlation registers every AI asset into one inventory. Maps approvals, lineage, and policy adherence. Then generates board-ready reports without the scramble.\n\nThe strategic bet: enterprises are deploying AI faster than they can govern it. The ones who solve governance infrastructure first get to move faster while everyone else is stuck in manual audit hell.\n\nSo here's the question: if a regulator asked you today to show your AI approvals, how long would it take you to produce the answer?"
+      ],
+      "threads": [
+        "OpenAI just split real-time voice into three models and the move isn't about features. It's about pricing granularity. Most workflows don't need GPT-5-class reasoning on every call. Unbundling lets you run cheap transcription where it's enough and route the expensive model only when stakes justify it. The question isn't can OpenAI do live voice. It's does splitting three products beat a competitor's single API. Probably depends on how messy your workflow already is.",
+        "OpenAI's Codex Chrome extension lets the agent use your signed-in browser. Gmail. Salesforce. Internal dashboards. The stuff APIs don't cover. Most enterprise workflow lives in authenticated web apps and structured integrations miss the live state. Codex uses approval gates instead of unrestricted control. The risk is obvious. The automation prize is bigger. So the question is what are you already doing manually in a browser that you'd pay to automate if the guardrails were right.",
+        "Meta's building Hatch, an AI agent that lives inside Instagram to answer questions and recommend content without leaving the app. A separate tool will analyze browsing and chat history for personalized product recommendations. Meta's bet: AI agents will replace traditional search and discovery on social platforms. If that's true, creators need to rethink strategy. Algorithmic dynamics shift from what gets engagement to what the AI decides to surface when someone asks."
+      ]
+    }
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-11",
+    "topic": "model_releases",
+    "title": "OpenAI Brings GPT-5-Class Reasoning to Live Voice",
+    "url": "https://winbuzzer.com/2026/05/10/openai-brings-gpt-5-class-reasoning-to-real-time-v-xcxwbn/",
+    "snippet": "OpenAI Brings GPT-5-Class Reasoning to Live Voice\n[...]\n# OpenAI Brings GPT-5-Class Reasoning to Live Voice\n[...]\nOpenAI launched GPT-Realtime-2, GPT-Realtime-Translate and GPT-Realtime-Whisper for developers, splitting live voice reasoning, translation and transcription.\n[...]\n- Voice Launch: OpenAI has introduced three real-time voice models for developers.\n- Model Split: The lineup separates re"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-11",
+    "topic": "product_releases",
+    "title": "As Enterprise AI Outpaces Governance, Alation Closes the Gap with New AI Governance Offering",
+    "url": "https://finance.yahoo.com/sectors/technology/articles/enterprise-ai-outpaces-governance-alation-090000178.html",
+    "snippet": "# As Enterprise AI Outpaces Governance, Alation Closes the Gap with New AI Governance Offering\n[...]\nNew solution strengthens enterprise AI insights with a single system of record for every AI model, agent, and tool \u2014 with live, board-ready compliance posture on demand\n[...]\nLONDON, May 11, 2026(GLOBE NEWSWIRE)-- Alation Inc., the knowledge engine powering enterprises to achieve business outcomes,"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-11",
+    "topic": "product_releases",
+    "title": "AnySearch Launches as Search Infrastructure Built for AI Agents",
+    "url": "https://www.prnewswire.com/news-releases/anysearch-launches-as-search-infrastructure-built-for-ai-agents-302768044.html",
+    "snippet": "AnySearch Launches as Search Infrastructure Built for AI Agents Accessibility Statement Skip Navigation\n[...]\nHONG KONG, May 11, 2026 /PRNewswire/ -- As AI agents rapidly evolve from experimental tools into productivity systems, AnySearch, a next-generation AI search product purpose-built for AI agents and enterprise AI systems, has officially launched, offering AI agents unified access to high-qu"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-11",
+    "topic": "product_releases",
+    "title": "OpenAI Adds Codex Chrome Extension for Signed-In Web Tasks",
+    "url": "https://winbuzzer.com/2026/05/11/openai-adds-codex-chrome-extension-for-signed-in-web-tasks-xcxwbn/",
+    "snippet": "OpenAI Adds Codex Chrome Extension for Signed-In Web Tasks\n[...]\n# OpenAI Adds Codex Chrome Extension for Signed-In Web Tasks\n[...]\nOpenAI has added a Codex Chrome extension for signed-in web tasks, giving the agent access to Gmail, Salesforce and internal tools with approval gates.\n[...]\nMay 11, 2026 11:20 am CEST\n[...]\n- Chrome Access: OpenAI will let Codex use signed-in Chrome sessions for Gmai"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-11",
+    "topic": "product_releases",
+    "title": "Atlassian widens AI push with Teamwork Graph & Rovo",
+    "url": "https://ecommercenews.com.au/story/atlassian-widens-ai-push-with-teamwork-graph-rovo",
+    "snippet": "Atlassian widens AI push with Teamwork Graph & Rovo\n[...]\n# Atlassian widens AI push with Teamwork Graph & Rovo\n[...]\nMon, 11th May 2026 (Today)\n[...]\nAtlassian has unveiled a set of artificial intelligence updates centred on its Teamwork Graph and Rovo products, aimed at giving AI agents broader organisational context.\n[...]\nThe announcement includes wider access to the Teamwork Graph, which Atla"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-11",
+    "topic": "x_posts",
+    "title": "Meta Builds Hatch AI Agent for Instagram",
+    "url": "https://otorgist.com/meta-hatch-ai-agent-instagram/",
+    "snippet": "Meta Builds Hatch AI Agent for Instagram\n[...]\nMeta is building a new AI agent called Hatch that will live directly inside Instagram, marking a major step in the company\u2019s plan to integrate generative AI across its platforms.\n[...]\nAccording to internal documents, Hatch is designed to act as a smart assistant within the app. It will be able to answer user questions, recommend content, and even per"
   }
 ]
