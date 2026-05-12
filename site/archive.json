@@ -1526,5 +1526,47 @@
     "title": "'Daybreak': OpenAI's Answer to Anthropic's Project Glasswing Has Arrived",
     "url": "https://gizmodo.com/daybreak-openais-answer-to-anthropics-project-glasswing-has-arrived-2000757349",
     "snippet": "'Daybreak': OpenAI's Answer to Anthropic's Project Glasswing Has Arrived\n[...]\n# \u2018Daybreak\u2019: OpenAI\u2019s Answer to Anthropic\u2019s Project Glasswing Has Arrived\n[...]\nOn Monday, OpenAI announced something called \u201cDaybreak,\u201d a project that CEO Sam Altman says is meant to \u201caccelerate cyber defense and continuously secure software.\u201c\n[...]\nOpenAI is launching Daybreak, our effort to accelerate cyber defense "
+  },
+  {
+    "kind": "digest",
+    "date": "2026-05-12",
+    "headline": "The format wars are over and HTML won. The debate isn't about markdown versus HTML anymore\u2014it's about building outputs that AI agents can actually use. When you start thinking in handoffs instead of final deliverables, everything changes.",
+    "url": "archive/2026-05-12.html",
+    "posts": {
+      "linkedin": [
+        "Everyone's arguing markdown versus HTML.\n\nThat's not the debate.\n\nThe debate is: are you building outputs for people or handoffs for agents?\n\nBecause the second you start thinking in handoffs, everything changes.\n\nYour output isn't the final thing anymore. It's the setup for the next thing. The scaffold. The structure that makes the next agent's job easier.\n\nHTML wins that fight because it's richer. More interactive. More structured. Markdown is clean, but it's flat.\n\nAnd flat doesn't work when the thing reading your output needs to make decisions.\n\nSo the real question isn't which format you like.\n\nIt's: what are you building for?",
+        "Elastic just shipped something that matters.\n\nTwo new embedding models. Text, images, video, audio. Same vector space.\n\nThe part that matters: they share the exact same embedding space as their v5-text model.\n\nWhich means you don't rebuild your index. You swap the model. You start indexing images and video into the same vectors you're already using.\n\nThat's not a feature. That's a mental model shift.\n\nBecause multimodal search used to mean separate pipelines. Separate systems. Separate everything.\n\nNow it's just search.\n\nThe pattern here is bigger than one tool. It's convergence. The stuff that used to be hard and separate is collapsing into one thing.\n\nAnd when pipelines collapse, someone's business model breaks.\n\nSo the question is: are you building on the thing that's converging or the thing that's about to get absorbed?",
+        "Anthropic's raising near a trillion.\n\nCerebras is upsizing their IPO.\n\nTSMC is warning about capacity constraints.\n\nNobody's talking about what that actually means.\n\nIt means compute scarcity is coming. Not in five years. Soon.\n\nThe companies locking in fab capacity right now are making decade-defining bets. The ones waiting are going to be stuck fighting over scraps.\n\nAnd this isn't just about chips. It's about who gets to build the next layer.\n\nBecause when compute is scarce, access becomes the moat. And the companies with access get to set the terms for everyone else.\n\nSo the move isn't just watching who raises money.\n\nIt's watching who's securing capacity while everyone else is still talking about models."
+      ],
+      "threads": [
+        "Everyone's debating markdown versus HTML like it's a format war.\n\nIt's not.\n\nThe real shift is this: are you building outputs or handoffs?\n\nBecause the second you start thinking in handoffs, your output isn't the final thing. It's the setup for the next agent.\n\nAnd flat formats don't work when the thing reading your work needs to make decisions.\n\nHTML wins because it's richer. More structured. More interactive.\n\nThe question isn't which format you prefer. It's what you're building for.",
+        "Elastic just dropped two embedding models that handle text, images, video, and audio in the same vector space.\n\nThe kicker: same space as their existing text model. So you don't rebuild. You just swap.\n\nThat's not a feature. That's convergence.\n\nMultimodal search used to mean separate pipelines. Separate systems. Now it's just search.\n\nAnd when pipelines collapse into one thing, someone's business model breaks.\n\nSo ask yourself: are you building on the thing that's converging or the thing that's about to get absorbed?",
+        "Anthropic raising near a trillion. Cerebras upsizing their IPO. TSMC warning about capacity constraints.\n\nNobody's connecting the dots.\n\nCompute scarcity is coming. The companies locking in fab capacity right now are making decade-defining bets.\n\nWhen compute is scarce, access becomes the moat. And the companies with access set the terms for everyone else.\n\nSo the move isn't just watching who raises money. It's watching who's securing capacity while everyone else talks about models."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-05-12",
+    "source": "AI Daily Brief",
+    "title": "The Best Way to Talk to Your Agents",
+    "url": "https://www.youtube.com/watch?v=NNxGQw1uQHc",
+    "video_id": "NNxGQw1uQHc"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-12",
+    "topic": "model_releases",
+    "title": "Elastic Introduces Jina v5 Omni Family: Two Models to Power Text, Image, Video, and Audio Search",
+    "url": "https://www.businesswire.com/news/home/20260511351933/en/Elastic-Introduces-Jina-v5-Omni-Family-Two-Models-to-Power-Text-Image-Video-and-Audio-Search",
+    "snippet": "Elastic Introduces Jina v5 Omni Family: Two Models to Power Text, Image, Video, and Audio Search\n[...]\n# Elastic Introduces Jina v5 Omni Family: Two Models to Power Text, Image, Video, and Audio Search\n[...]\nNew addition to the Jina v5 model family delivers flexible, cost-efficient AI search across media types without rebuilding existing systems\n[...]\nSAN FRANCISCO--(BUSINESS WIRE)--Elastic (NYSE:"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-12",
+    "topic": "product_releases",
+    "title": "Screendragon Launches AI Hub, Enabling Marketing Teams and Agencies to Build and Run AI Agents Inside Real Workflows",
+    "url": "https://www.prnewswire.com/news-releases/screendragon-launches-ai-hub-enabling-marketing-teams-and-agencies-to-build-and-run-ai-agents-inside-real-workflows-302767350.html",
+    "snippet": "Screendragon Launches AI Hub, Enabling Marketing Teams and Agencies to Build and Run AI Agents Inside Real Workflows Accessibility Statement Skip Navigation\n[...]\nCORK, Ireland, May 11, 2026 /PRNewswire/ -- Screendragon today announced the launch of AI Hub, a new capability within its Agentic Marketing Orchestration platform that enables enterprise marketing teams and agencies to build, deploy and"
   }
 ]
