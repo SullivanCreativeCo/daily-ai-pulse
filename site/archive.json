@@ -1380,5 +1380,151 @@
     "title": "Meta Builds Hatch AI Agent for Instagram",
     "url": "https://otorgist.com/meta-hatch-ai-agent-instagram/",
     "snippet": "Meta Builds Hatch AI Agent for Instagram\n[...]\nMeta is building a new AI agent called Hatch that will live directly inside Instagram, marking a major step in the company\u2019s plan to integrate generative AI across its platforms.\n[...]\nAccording to internal documents, Hatch is designed to act as a smart assistant within the app. It will be able to answer user questions, recommend content, and even per"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-05-12",
+    "headline": "Greg Isenberg just handed you the exact playbook for building a $1,500/day AI business this month. Not theory\u2014three working products he built live, a five-step framework anyone can steal, and proof that boring beats billion-dollar when you want to ship now.",
+    "url": "archive/2026-05-12.html",
+    "posts": {
+      "linkedin": [
+        "Greg Isenberg just built three working businesses in 30 minutes.\n\nA dead domain flipper. A restaurant liquidation broker. A hiring-signal cold outreach machine.\n\nHe didn't write code. He talked to an AI agent in Slack and told it what to do.\n\nThe tool is Genspark Claw. Costs $25 a month. Runs Claude Sonnet 4.6 in the cloud. When a bug shipped HTML entities into the drafts, he just said \"strip the HTML entities\" and it fixed itself.\n\nHere's the framework he's using:\n\nFind a messy public feed. Identify a mispriced asset. Look for a trigger event. Name an obvious buyer with money. Pick a liquidity point.\n\nThat's it.\n\nHe's not chasing billion-dollar ideas. He's building boring, cash-flowing businesses that make $200 to $1,500 a day.\n\nThe episode is 30 minutes and it's the best \"ship something this month\" content anyone's released in Q2.\n\nThe question isn't \"can AI do this?\" anymore. The question is \"what messy feed are you ignoring that someone else is about to monetize?\"",
+        "Anthropic added dreaming to Claude agents on May 6.\n\nHarvey's legal AI team turned it on. Didn't change their prompts. Didn't swap models.\n\nTask completion rates jumped 6x.\n\nDreaming is a scheduled background process. The agent reviews past sessions. Extracts patterns. Restructures memory to keep signal quality high. It surfaces insights the agent missed the first time.\n\nNo human retraining. No manual tuning.\n\nThis is the unlock everyone's been waiting for. Agents that improve over time without you babysitting them.\n\nAnthropic also shipped outcomes grading and multiagent orchestration in the same release. But dreaming is the one that changes the math.\n\nBecause here's what just became possible:\n\nYou build an agent. You let it run for 90 days. It learns from its own mistakes while you're asleep. By month four, it's better at your process than you are at explaining your process.\n\nThat's not a demo. That's production infrastructure.\n\nWould someone pay for that? I think someone would pay for that.",
+        "Mac minis are seeing record demand right now.\n\nNot because of a hardware refresh. Because small-business operators are buying them to run personal AI agents 24/7.\n\nBloomberg put a guy named Eric Cadwell on the cover of Businessweek's AI Issue. He runs an Etsy shop. Built an agent he calls Etchie using OpenClaw. It writes code, drafts marketing copy, answers customer emails, triages inventory.\n\nHe runs it on a Mac mini in his closet.\n\nThis is the new shape of consumer AI hardware. Not a phone. Not a wearable. A $600 desktop with API access to Claude and ChatGPT running 24/7 in your house.\n\nOpenClaw has 247,000 GitHub stars. It's open source. You plug in your own API keys. You feed it your own data. It becomes your second brain with better recall.\n\nThe people building this way aren't waiting for the next ChatGPT feature. They're treating AI like infrastructure and shipping faster than the rest of us are writing wish lists.\n\nSo the question isn't \"should I try this?\" The question is \"what am I already doing that an always-on agent could handle while I'm asleep?\""
+      ],
+      "threads": [
+        "Greg Isenberg built three working businesses in 30 minutes using an AI agent in Slack. A domain flipper. A liquidation broker. A cold outreach machine. He didn't write code. He just talked to it. When it broke, he told it what was wrong and it fixed itself. The framework: messy feed, mispriced asset, trigger event, obvious buyer, liquidity point. That's the whole model. Would someone pay for that? I think someone would pay for that.",
+        "Anthropic added dreaming to Claude agents. Harvey's legal team turned it on and task completion rates jumped 6x. Dreaming means the agent reviews its own past sessions, extracts patterns, restructures memory, and improves without human retraining. You build it once. Let it run for 90 days. By month four it's better at your process than you are at explaining it. That's not a demo. That's production infrastructure.",
+        "Mac minis are seeing record demand because small-business operators are buying them to run personal AI agents 24/7. Bloomberg put a guy on the cover of Businessweek for running his Etsy shop with an agent he built using OpenClaw. It runs on a Mac mini in his closet. This is the new shape of consumer AI hardware. Not a phone. A $600 desktop with API access running in your house while you sleep."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-05-12",
+    "source": "Startup Ideas Podcast",
+    "title": "Screensharing How to Start an AI Agent Business Today",
+    "url": "https://www.youtube.com/watch?v=Ix43w_IssR8",
+    "video_id": "Ix43w_IssR8"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-05-12",
+    "source": "The Entrepreneur's Studio",
+    "title": "Why Truth and Self Reliance Shape Great Leaders | Greg Williams",
+    "url": "https://www.youtube.com/watch?v=mxCW3TzSGU4",
+    "video_id": "mxCW3TzSGU4"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-12",
+    "topic": "model_releases",
+    "title": "Baidu's Ernie 5.1 cuts 94 percent of pre-training costs while competing with top models",
+    "url": "https://the-decoder.com/baidus-ernie-5-1-cuts-94-percent-of-pre-training-costs-while-competing-with-top-models/",
+    "snippet": "Baidu's Ernie 5.1 cuts 9\n[...]\npercent of pre-training costs while competing with top models\n[...]\n# Baidu's Ernie 5.1 cuts 94 percent of pre-training costs while competing with top models\n[...]\n- Baidu has launched Ernie 5.1, a language model distilled from its larger predecessor Ernie 5.0, making it more resource-efficient while currently topping Chinese AI benchmarks.\n- The model uses a four-st"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-12",
+    "topic": "model_releases",
+    "title": "Sakana AI and NVIDIA Introduce TwELL with CUDA Kernels for 20.5% Inference and 21.9% Training Speedup in LLMs - MarkTechPost",
+    "url": "https://www.marktechpost.com/2026/05/11/sakana-ai-and-nvidia-introduce-twell-with-cuda-kernels-for-20-5-inference-and-21-9-training-speedup-in-llms/",
+    "snippet": "Sakana AI and NVIDIA Introduce TwELL with CUDA Kernels for 20.5% Inference and 21.9% Training Speedup in LLMs - MarkTechPost\n[...]\nHome Artificial Intelligence AI Infrastructure Sakana AI and NVIDIA Introduce TwELL with CUDA Kernels for 20.5% Inference...\n[...]\nScaling large language models (LLMs) is expensive. Every token processed during inference and every gradient computed during training flow"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-12",
+    "topic": "model_releases",
+    "title": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT - AI Expert Magazine - premier publication dedicated to AI",
+    "url": "https://www.aiexpertmagazine.com/openai-gpt-5-5-instant-chatgpt/",
+    "snippet": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT - AI Expert Magazine - premier publication dedicated to AI\n[...]\nHome TRENDSPOTTING OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT\n[...]\n- OpenAI released GPT-5.5 Instant on May 5, 2026, as the free default model for all ChatGPT users, replacing GPT-5.3 Instant just 12 days after the full GPT-5.5 launch.\n[...]\n- The"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-12",
+    "topic": "model_releases",
+    "title": "Baidu Launches Ernie 5.1, Claims Top AI Performance at Just 6% Training Cost - The Technology Express",
+    "url": "https://thetechnologyexpress.com/baidu-launches-ernie-5-1-claims-top-ai-performance-at-just-6-training-cost/",
+    "snippet": "Baidu Launches Ernie 5.1, Claims Top AI Performance at Just 6% Training Cost - The Technology Express\n[...]\nA new AI foundation model has launched with a strong focus on efficiency rather than brute-force scaling. The latest release reportedly delivers near-frontier performance while using only a small fraction of the training cost typically associated with similarly capable models. As a result, t"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-12",
+    "topic": "model_releases",
+    "title": "OpenAI Releases Three New Realtime Voice Models for the API With GPT-5-Class Reasoning - gHacks Tech News",
+    "url": "https://www.ghacks.net/2026/05/11/openai-releases-three-new-realtime-voice-models-for-the-api-with-gpt-5-class-reasoning/",
+    "snippet": "OpenAI Releases Three New Realtime Voice Models for the API With GPT-5-Class Reasoning - gHacks Tech News\n[...]\nOpenAI has introduced three new real-time audio models to its API: GPT-Realtime-2, GPT-Realtime-Translate, and GPT-Realtime-Whisper. These models are now accessible in the Realtime API and Playground, allowing developers to incorporate them into existing applications via Codex.\n[...]\n## "
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-12",
+    "topic": "product_releases",
+    "title": "Exterro Launches Industry's First Autonomous AI Engine to Eliminate Up to 95% of manual Subpoena Work and Reclaim 7,500 Enterprise Hours",
+    "url": "https://www.prnewswire.com/apac/news-releases/exterro-launches-industrys-first-autonomous-ai-engine-to-eliminate-up-to-95-of-manual-subpoena-work-and-reclaim-7-500-enterprise-hours-302769032.html",
+    "snippet": "Exterro Launches Industry's First Autonomous AI Engine to Eliminate Up to 95% of manual Subpoena Work and Reclaim 7,500 Enterprise Hours Accessibility Statement Skip Navigation\n[...]\nExterro Subpoena Manager unlocks $500,000+ in potential annual savings; puts legal and IT teams on a definitive path toward a fully autonomous enterprise architecture\n[...]\nPORTLAND, Ore., May 12, 2026 /PRNewswire/ --"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-12",
+    "topic": "product_releases",
+    "title": "Nokia launches agentic AI for home and broadband networks",
+    "url": "https://www.globenewswire.com/news-release/2026/05/12/3292500/0/en/Nokia-launches-agentic-AI-for-home-and-broadband-networks.html",
+    "snippet": "Nokia launches agentic AI for home and broadband networks\n[...]\n# Nokia launches agentic AI for home and broadband networks\n[...]\nMay 12, 2026 03:00 ET | Source: Nokia Oyj Follow Nokia Oyj\n[...]\nPress ReleaseNokia launches agentic AI for home and broadband networks\n[...]\n- Nokia agentic AI boosts end-user experience, increases operational efficiency and accelerates deployment for home and broadban"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-12",
+    "topic": "product_releases",
+    "title": "eDiscovery AI Officially Releases CaseBot\u2122",
+    "url": "https://www.prnewswire.com/news-releases/ediscovery-ai-officially-releases-casebot-302767291.html",
+    "snippet": "eDiscovery AI Officially Releases CaseBot\u2122 Accessibility Statement Skip Navigation\n[...]\nCaseBot brings conversational AI to legal teams, empowering them to ask unlimited questions of case data, trace every answer back to source documents, and move from information to action with unprecedented speed.\n[...]\nMINNEAPOLIS, May 11, 2026 /PRNewswire/ -- eDiscovery AI, a HaystackID company, today announc"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-12",
+    "topic": "product_releases",
+    "title": "New Emerson Industrial AI Platform Delivers Enterprise-Scale AI",
+    "url": "https://www.prnewswire.com/news-releases/new-emerson-industrial-ai-platform-delivers-enterprise-scale-ai-302767334.html",
+    "snippet": "Industrial AI Platform\n[...]\nHOUSTON, May 11, 2026 /PRNewswire/ -- Global automation leader Emerson (NYSE: EMR) today introduced the AspenTech AVA\u2122 AI platform, specifically designed for industrial companies to accelerate AI adoption across the enterprise for measurable business impact. Offering agentic, domain-aware AI capabilities, AVA delivers the agility, efficiency and autonomy companies need"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-12",
+    "topic": "x_posts",
+    "title": "Anthropic Lets Claude Agents Dream to Learn From Their Own Mistakes | AIntelligenceHub",
+    "url": "https://aintelligencehub.com/articles/claude-dreaming-may-2026",
+    "snippet": "Anthropic Lets Claude Agents Dream to Learn From Their Own Mistakes | AIntelligenceHub\n[...]\n# Anthropic Lets Claude Agents Dream to Learn From Their Own Mistakes\n[...]\nAnthropic introduced dreaming to Claude Managed Agents on May 6, alongside outcomes grading and multiagent orchestration. Legal AI company Harvey saw task completion rates jump roughly 6x in early tests.\n[...]\nHarvey's engineers di"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-12",
+    "topic": "x_posts",
+    "title": "Claude AI agents are driving record Mac mini demand",
+    "url": "https://thenextweb.com/news/claude-mac-mini-openclaw-ai-agents-shortage",
+    "snippet": "Claude AI agents are driving record Mac mini demand\n[...]\nIt writes code, drafts marketing copy, answers customer emails, and triages its Etsy inventory. He calls the agent Etchie. Bloomberg\u2019s Austin Carr put Cadwell on the front of Businessweek\u2019s AI Issue on Sunday.\n[...]\nThis is the new shape of consumer AI hardware: not a phone, not a wearable, but Apple\u2019s least-glamorous desktop, repurposed as"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-12",
+    "topic": "x_posts",
+    "title": "Introducing workspace agents in ChatGPT",
+    "url": "https://openai.com/ga-IE/index/introducing-workspace-agents-in-chatgpt/",
+    "snippet": "Workspace agents, an evolution of GPTs, have been introduced in ChatGPT, enabling workspace agents to take on many tasks people already do at work, such as preparing reports, writing code, and responding to messages. They run in the cloud and can continue working even when you're away from work. They are designed to be shared within an organization and improve their work over time. Workspace agent"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-12",
+    "topic": "x_posts",
+    "title": "OpenAI forms $14 billion company to help other businesses set up AI systems. | The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/928028/openai-forms-14-billion-company-to-helps-other-businesses-set-up-ai-systems",
+    "snippet": "OpenAI forms $14 billion company to help other businesses set up AI systems. | The Verge\n[...]\nOpenAI forms $14 billion company to help other businesses set up AI systems.\n[...]\nOpenAI is expanding its enterprise arm with the launch of the OpenAI Deployment Company, which will work with businesses to build, test, and deploy AI systems tailored to their needs. The new company received $4 billion in"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-12",
+    "topic": "x_posts",
+    "title": "'Daybreak': OpenAI's Answer to Anthropic's Project Glasswing Has Arrived",
+    "url": "https://gizmodo.com/daybreak-openais-answer-to-anthropics-project-glasswing-has-arrived-2000757349",
+    "snippet": "'Daybreak': OpenAI's Answer to Anthropic's Project Glasswing Has Arrived\n[...]\n# \u2018Daybreak\u2019: OpenAI\u2019s Answer to Anthropic\u2019s Project Glasswing Has Arrived\n[...]\nOn Monday, OpenAI announced something called \u201cDaybreak,\u201d a project that CEO Sam Altman says is meant to \u201caccelerate cyber defense and continuously secure software.\u201c\n[...]\nOpenAI is launching Daybreak, our effort to accelerate cyber defense "
   }
 ]
