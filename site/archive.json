@@ -1568,5 +1568,159 @@
     "title": "Screendragon Launches AI Hub, Enabling Marketing Teams and Agencies to Build and Run AI Agents Inside Real Workflows",
     "url": "https://www.prnewswire.com/news-releases/screendragon-launches-ai-hub-enabling-marketing-teams-and-agencies-to-build-and-run-ai-agents-inside-real-workflows-302767350.html",
     "snippet": "Screendragon Launches AI Hub, Enabling Marketing Teams and Agencies to Build and Run AI Agents Inside Real Workflows Accessibility Statement Skip Navigation\n[...]\nCORK, Ireland, May 11, 2026 /PRNewswire/ -- Screendragon today announced the launch of AI Hub, a new capability within its Agentic Marketing Orchestration platform that enables enterprise marketing teams and agencies to build, deploy and"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-05-13",
+    "headline": "The product war just became an OS war. Google killed ChromeOS and replaced it with Android laptops where Gemini lives at the kernel level, turning your cursor into an agent. Microsoft shipped real-time transcription and embeddings that run entirely offline. The \"AI feature\" era is over. The \"AI is the interface\" era started yesterday.",
+    "url": "archive/2026-05-13.html",
+    "posts": {
+      "linkedin": [
+        "Google just killed ChromeOS.\n\nNot updated it. Killed it.\n\nThe replacement is called Googlebook. It's an Android laptop with Gemini embedded at the OS level.\n\nThe most telling feature? Magic Pointer.\n\nYour cursor is now an AI agent.\n\nNo sidebar. No assistant window. The AI is the interface.\n\nMicrosoft did the same thing yesterday. Shipped a local inference runtime with live transcription and embeddings that work offline. No cloud. No latency. No tokens.\n\nThe \"AI feature\" era lasted about 18 months.\n\nThe \"AI is the interface\" era started yesterday.\n\nSo the question isn't \"should I add AI to my product?\"\n\nThe question is \"does my product even need a UI anymore?\"",
+        "Ryan Doser made $3,000 in 30 days selling Claude skills.\n\nHe's not technical. He doesn't write code.\n\nHe makes voice notes.\n\nThen he pastes them into Claude and says \"use the skill creator skill at the end.\"\n\nThat's it. That's the whole business model.\n\nHe took what he already knew about marketing and SEO. Turned it into packaged Claude skills. Sold them as digital products.\n\nThe Claude skill marketplace just opened.\n\nThe App Store is crowded. 1.8 million apps fighting for oxygen.\n\nClaude skills? Maybe a few hundred right now.\n\nIf you have knowledge in any domain (gardening, nonprofit work, trading cards, literally anything), you can sell it as a skill.\n\nYou don't need to be technical. You need to know something worth repeating.\n\nWhat do you already know that someone else would pay to automate?",
+        "SAP's stock fell 41% in six months.\n\nSo they opened their biggest conference of the year with a question: \"Will SAP be a software company in the future?\"\n\nTheir AI assistant Joule answered: \"SAP is becoming a business AI company.\"\n\nThen they unveiled the Autonomous Enterprise. 200+ AI agents. 50+ domain-specific assistants across finance, supply chain, procurement, HR, customer experience.\n\nAnd they partnered with Anthropic to make Claude the primary reasoning engine across the entire platform.\n\nThis is the real enterprise AI move.\n\nSAP doesn't care who has the best model. They care who controls the business process logic.\n\nThey're betting that owning the workflow matters more than owning the weights.\n\nMicrosoft made the same bet with Copilot. Salesforce made it with Einstein. Now SAP.\n\nThe companies winning enterprise AI aren't the ones with the smartest model. They're the ones who already live inside the systems where decisions get made."
+      ],
+      "threads": [
+        "Google killed ChromeOS and replaced it with Android laptops where your cursor is an AI agent. Microsoft shipped real-time transcription that runs entirely offline. The \"AI feature\" era lasted 18 months. The \"AI is the interface\" era started yesterday. The question isn't \"should I add AI?\" anymore. The question is \"does my product even need a UI?\"",
+        "Ryan Doser made $3,000 in 30 days selling Claude skills. He's not technical. He makes voice notes about what he knows, pastes them into Claude, and says \"use the skill creator skill.\" That's the business model. The Claude skill marketplace just opened. The App Store has 1.8 million apps. Claude skills? Maybe a few hundred. If you know something worth repeating, you can sell it as a skill. What do you already know that someone else would pay to automate?",
+        "SAP's stock fell 41% in six months. So they opened their biggest conference with a question: \"Will SAP be a software company in the future?\" Their AI answered: \"SAP is becoming a business AI company.\" Then they unveiled 200+ AI agents and partnered with Anthropic to make Claude the primary reasoning engine. The real enterprise AI move isn't owning the best model. It's owning the business process logic. The companies winning enterprise AI already live inside the systems where decisions get made."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-05-13",
+    "source": "The Koerner Office",
+    "title": "Forget Apps. Sell These Tiny AI Tools Instead",
+    "url": "https://www.youtube.com/watch?v=quYKZushRPo",
+    "video_id": "quYKZushRPo"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-05-13",
+    "source": "Startup Ideas Podcast",
+    "title": "The $1M+ Solo AI Agent Business (Full Course)",
+    "url": "https://www.youtube.com/watch?v=BI-MNjm1tTQ",
+    "video_id": "BI-MNjm1tTQ"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-05-13",
+    "source": "Corey Ganim",
+    "title": "I Built an AI Voice Agent With Claude + Voiceflow (Zero Code)",
+    "url": "https://www.youtube.com/watch?v=owkictxNF4Y",
+    "video_id": "owkictxNF4Y"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-13",
+    "topic": "model_releases",
+    "title": "Foundry Local 1.1: Live Transcription, Embeddings, and Responses API | Microsoft Foundry Blog",
+    "url": "https://devblogs.microsoft.com/foundry/foundry-local-v1-1/",
+    "snippet": "Foundry Local 1.1: Live Transcription, Embeddings, and Responses API | Microsoft Foundry Blog\n[...]\nToday we\u2019re announcing the 1.1.0 release of Foundry Local \u2014 Microsoft\u2019s cross-platform local AI solution that lets developers bring AI directly into their applications with no cloud dependency, no network latency, and no per-token costs.\n[...]\nThis release adds the following:\n[...]\n- Live audio tran"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-13",
+    "topic": "model_releases",
+    "title": "Thinking Machines Lab Ships First Model With 200ms Real-Time Interaction \u2013 Unite.AI",
+    "url": "https://www.unite.ai/thinking-machines-lab-ships-first-model-with-200ms-real-time-interaction/",
+    "snippet": "Thinking Machines Lab Ships First Model With 200ms Real-Time Interaction \u2013 Unite.AI\n[...]\nThinking Machines Lab, the AI startup founded by former OpenAI CTO Mira Murati, released a research preview of its first in-house model on May 11, 2026, ending more than a year of silence on what the lab would actually build. The company calls the system an \u201cinteraction model\u201d \u2014 a multimodal architecture trai"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-13",
+    "topic": "model_releases",
+    "title": "Meet AntAngelMed: A 103B-Parameter Open-Source Medical Language Model Built on a 1/32 Activation-Ratio MoE Architecture - MarkTechPost",
+    "url": "https://www.marktechpost.com/2026/05/12/meet-antangelmed-a-103b-parameter-open-source-medical-language-model-built-on-a-1-32-activation-ratio-moe-architecture/",
+    "snippet": "Meet AntAngelMed: A 103B-Parameter Open-Source Medical Language Model Built on a 1/32 Activation-Ratio MoE Architecture - MarkTechPost\n[...]\nA team researchers from China have released AntAngelMed, a large open-source medical language model that the team describes as the largest and most capable of its kind currently available.\n[...]\nAntAngelMed is a medical-domain language model with 103 billion "
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-13",
+    "topic": "model_releases",
+    "title": "FIXER\u3001\u6771\u4eac\u79d1\u5b66\u5927\u5b66\u3068\u306e\u5171\u540c\u7814\u7a76\u3067\u3001\u65e5\u672c\u8a9e\u306b\u6700\u9069\u5316\u3055\u308c\u305fLLM\u300cGPT-OSS Swallow\u300d\u306e\u793e\u4f1a\u5b9f\u88c5\u3092\u52a0\u901f \uff5e\u300cSovereign GaiXer\u300d\u306b\u6700\u65b0\u92ed\u30e2\u30c7\u30eb\u3092\u642d\u8f09\u3057\u3001\u9ad8\u30bb\u30ad\u30e5\u30ea\u30c6\u30a3\u9818\u57df\u3067\u306eAI\u6d3b\u7528\u3092\u3055\u3089\u306b\u63a8\u9032\uff5e - \u682a\u5f0f\u4f1a\u793eFIXER",
+    "url": "https://fixer.co.jp/news/2026/05/2026_0512_001_gpt_oss_swallow/",
+    "snippet": "FIXER\u3001\u6771\u4eac\u79d1\u5b66\u5927\u5b66\u3068\u306e\u5171\u540c\u7814\u7a76\u3067\u3001\u65e5\u672c\u8a9e\u306b\u6700\u9069\u5316\u3055\u308c\u305fLLM\u300cGPT-OSS Swallow\u300d\u306e\u793e\u4f1a\u5b9f\u88c5\u3092\u52a0\u901f \uff5e\u300cSovereign GaiXer\u300d\u306b\u6700\u65b0\u92ed\u30e2\u30c7\u30eb\u3092\u642d\u8f09\u3057\u3001\u9ad8\u30bb\u30ad\u30e5\u30ea\u30c6\u30a3\u9818\u57df\u3067\u306eAI\u6d3b\u7528\u3092\u3055\u3089\u306b\u63a8\u9032\uff5e - \u682a\u5f0f\u4f1a\u793eFIXER\n[...]\nHome\u00bb News\u00bb 1Press release\u00bb FIXER\u3001\u6771\u4eac\u79d1\u5b66\u5927\u5b66\u3068\u306e\u5171\u540c\u7814\u7a76\u3067\u3001\u65e5\u672c\u8a9e\u306b\u6700\u9069\u5316\u3055\u308c\u305fLLM\u300cGPT-OSS Swallow\u300d\u306e\u793e\u4f1a\u5b9f\u88c5\u3092\u52a0\u901f \uff5e\u300cSovereign GaiXer\u300d\u306b\u6700\u65b0\u92ed\u30e2\u30c7\u30eb\u3092\u642d\u8f09\u3057\u3001\u9ad8\u30bb\u30ad\u30e5\u30ea\u30c6\u30a3\u9818\u57df\u3067\u306eAI\u6d3b\u7528\u3092\u3055\u3089\u306b\u63a8\u9032\uff5e\n[...]\n# FIXER\u3001\u6771\u4eac\u79d1\u5b66\u5927\u5b66\u3068\u306e\u5171\u540c\u7814\u7a76\u3067\u3001\u65e5\u672c\u8a9e\u306b\u6700\u9069\u5316\u3055\u308c\u305fLLM\u300cGPT-OSS Swallow\u300d\u306e\u793e\u4f1a\u5b9f\u88c5\u3092\u52a0\u901f\uff5e\u300cSovereign GaiXer\u300d\u306b\u6700\u65b0\u92ed\u30e2\u30c7\u30eb\u3092\u642d\u8f09\u3057\u3001\u9ad8\u30bb\u30ad\u30e5\u30ea\u30c6\u30a3\u9818\u57df\u3067\u306eAI\u6d3b\u7528\u3092\u3055\u3089\u306b\u63a8\u9032\uff5e\n[...]\n\u682a\u5f0f"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-13",
+    "topic": "model_releases",
+    "title": "SAP and Anthropic: Claude on SAP Business AI Platform | SAP Sapphire | SAP News Center",
+    "url": "https://news.sap.com/2026/05/sap-anthropic-to-bring-claude-sap-business-ai-platform/",
+    "snippet": "SAP and Anthropic: Claude on SAP Business AI Platform | SAP Sapphire | SAP News Center\n[...]\n# SAP and Anthropic Plan to Bring Claude to SAP Business AI Platform\n[...]\nSAP and Anthropic today announced plans to expand their collaboration to deliver advanced AI solutions to enterprise customers, making Claude, Anthropic\u2019s AI model, a primary reasoning and agentic capability embedded across SAP\u2019s AI"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-13",
+    "topic": "product_releases",
+    "title": "Mixpanel Introduces Mixpanel AI, Delivering Always-On Product Intelligence",
+    "url": "https://www.businesswire.com/news/home/20260512168124/en/Mixpanel-Introduces-Mixpanel-AI-Delivering-Always-On-Product-Intelligence",
+    "snippet": "Mixpanel Introduces Mixpanel AI, Delivering Always-On Product Intelligence\n[...]\nMay 12, 2026 9:00 AM Eastern Daylight Time\n[...]\n# Mixpanel Introduces Mixpanel AI, Delivering Always-On Product Intelligence\n[...]\nNew AI agents, a business-aware Context Engine, and native integrations with Claude, Slack, and more help product teams instrument faster, diagnose issues in real time, and act with confi"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-13",
+    "topic": "product_releases",
+    "title": "ZeroPath Launches Zero, the First AI Built to Run an Entire Application Security Program",
+    "url": "https://www.businesswire.com/news/home/20260512091423/en/ZeroPath-Launches-Zero-the-First-AI-Built-to-Run-an-Entire-Application-Security-Program",
+    "snippet": "ZeroPath Launches Zero, the First AI Built to Run an Entire Application Security Program\n[...]\nMay 12, 2026 8:02 AM Eastern Daylight Time\n[...]\n# ZeroPath Launches Zero, the First AI Built to Run an Entire Application Security Program\n[...]\nThe persistent AI agent works inside Slack, builds custom workflows in plain English, and gets smarter over time as it learns an organization's security enviro"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-13",
+    "topic": "product_releases",
+    "title": "Norm Ai Launches Compliance Agent for Microsoft 365 Copilot",
+    "url": "https://www.prnewswire.com/news-releases/norm-ai-launches-compliance-agent-for-microsoft-365-copilot-302769123.html",
+    "snippet": "Norm Ai Launches Compliance Agent for Microsoft 365 Copilot Accessibility Statement Skip Navigation\n[...]\nNEW YORK, May 12, 2026 /PRNewswire/ -- Norm Ai is helping bring AI into the flow of everyday enterprise work with the launch of its compliance agent for Microsoft 365 Copilot. As adoption expands, firms have an opportunity to integrate AI more directly into how employees create, analyze, and a"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-13",
+    "topic": "product_releases",
+    "title": "Narrath\u00e8que Launches a Multiplatform AI Chatbot That Turns",
+    "url": "https://www.globenewswire.com/news-release/2026/05/12/3293264/0/en/Narrath%C3%A8que-Launches-a-Multiplatform-AI-Chatbot-That-Turns-Website-Content-into-a-Personalized-AI-Agent-Available-24-7-in-Under-Five-Minutes.html",
+    "snippet": "Narrath\u00e8que Launches a Multiplatform AI Chatbot That Turns\n[...]\n# Narrath\u00e8que Launches a Multiplatform AI Chatbot That Turns Website Content into a Personalized AI Agent Available 24/7 in Under Five Minutes\n[...]\n## The platform enables businesses to deploy a conversational chatbot for sales, customer support, onboarding, or service follow-up in under three minutes \u2014 no coding required, starting "
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-13",
+    "topic": "product_releases",
+    "title": "Axiomstudio.ai Launches VibeFlow to Bring AI Coding Speed to Enterprise-Grade Compliance",
+    "url": "https://www.prnewswire.com/news-releases/axiomstudioai-launches-vibeflow-to-bring-ai-coding-speed-to-enterprise-grade-compliance-302769469.html",
+    "snippet": "Axiomstudio.ai Launches VibeFlow to Bring AI Coding Speed to Enterprise-Grade Compliance Accessibility Statement Skip Navigation\n[...]\nagent teams that\n[...]\n, build, test, and\n[...]\ncode up to 6\n[...]\n\u00d7 faster, with shared context graph and decision traces.\n[...]\nSAN FRANCISCO, May 12, 2026 /PRNewswire/ -- Axiomstudio.ai today announced the general availability of VibeFlow, an AI SDLC platform th"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-13",
+    "topic": "x_posts",
+    "title": "OpenAI launches Daybreak to take on Anthropic\u2019s Mythos in cyber defence",
+    "url": "https://thenextweb.com/news/openai-daybreak-anthropic-mythos-cyber-defence",
+    "snippet": "OpenAI launches Daybreak to take on Anthropic\u2019s Mythos in cyber defence\n[...]\nThe new platform pairs GPT-5.5 variants with Codex Security and a roster of enterprise security partners, all aimed at defenders.\n[...]\nOpenAI has unveiled Daybreak, a cybersecurity initiative aimed at finding software vulnerabilities, generating patches, and validating fixes inside enterprise codebases. The launch posit"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-13",
+    "topic": "x_posts",
+    "title": "Exaforce, which uses AI agents to detect and thwart cyberattacks, raised a $125M Series B at a $725M valuation, bringing its total funding to $200M",
+    "url": "https://www.techmeme.com/260512/p27",
+    "snippet": "# Techmeme: Exaforce, which uses AI agents to detect and thwart cyberattacks, raised a $125M Series B at a $725M valuation, bringing its total funding to $200M (Marina Temkin/TechCrunch)"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-13",
+    "topic": "x_posts",
+    "title": "SAP unveils Autonomous Enterprise with 200+ AI agents and Anthropic partnership at Sapphire 2026",
+    "url": "https://thenextweb.com/news/sap-autonomous-enterprise-ai-agents-sapphire",
+    "snippet": "SAP unveils Autonomous Enterprise with 200+ AI agents and Anthropic partnership at Sapphire 2026\n[...]\nSAP unveiled the Autonomous Enterprise at Sapphire 2026, embedding 200+ AI agents into its core business applications and partnering with Anthropic to make Claude its primary reasoning engine, betting that owning business process logic matters more than owning the AI model as its stock falls 41 p"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-13",
+    "topic": "x_posts",
+    "title": "Google unveils Googlebook: Android-powered AI laptops replace Chromebooks with Gemini at the OS level",
+    "url": "https://thenextweb.com/news/google-killed-the-chromebook-its-replacement-turns-your-cursor-into-an-ai-agent",
+    "snippet": "Google unveils Googlebook: Android-powered AI laptops replace Chromebooks with Gemini at the OS level\n[...]\nGoogle killed ChromeOS and unveiled Googlebook, a premium Android laptop with Gemini embedded at the OS level, turning the cursor into an AI agent and unifying its 3.6 billion-device ecosystem onto a desktop for the first time.\n[...]\nGoogle killed the Chromebook. It took 15 years, but the co"
   }
 ]
