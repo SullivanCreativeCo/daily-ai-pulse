@@ -1722,5 +1722,39 @@
     "title": "Google unveils Googlebook: Android-powered AI laptops replace Chromebooks with Gemini at the OS level",
     "url": "https://thenextweb.com/news/google-killed-the-chromebook-its-replacement-turns-your-cursor-into-an-ai-agent",
     "snippet": "Google unveils Googlebook: Android-powered AI laptops replace Chromebooks with Gemini at the OS level\n[...]\nGoogle killed ChromeOS and unveiled Googlebook, a premium Android laptop with Gemini embedded at the OS level, turning the cursor into an AI agent and unifying its 3.6 billion-device ecosystem onto a desktop for the first time.\n[...]\nGoogle killed the Chromebook. It took 15 years, but the co"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-05-13",
+    "headline": "Enterprise engineering just got agents that actually understand physics. Rescale shipped simulation-native AI that automates the grunt work engineers hate\u2014input validation, troubleshooting, hardware selection\u2014while keeping humans in the loop where it matters.",
+    "url": "archive/2026-05-13.html",
+    "posts": {
+      "linkedin": [
+        "Rescale just shipped agents that understand physics.\n\nNot ChatGPT with a plugin. Simulation-native AI that validates inputs, troubleshoots errors, picks hardware, runs reports.\n\nThe kicker? Engineers stay in the loop. The agent does the tedious stuff. The human makes the call.\n\nThat's the pattern that's working in regulated industries right now.\n\nFull automation scares compliance teams. Partial automation that removes grunt work? That gets budget approved.\n\nAerospace. Automotive. Defense. Semiconductor. They're not asking \"can AI do this?\" anymore. They're asking \"which parts can AI handle while I stay in control?\"\n\nRescale answered that question with an agent library. Prebuilt workflows. Deploy, test, adjust.\n\nIf you're building for enterprise, that's the wedge. Not \"replace the expert.\" \"Free the expert from the stuff that wastes their time.\"\n\nWhat grunt work in your industry could an agent handle while the human keeps veto power?",
+        "Five years ago every SaaS had an API marketplace.\n\nNow every enterprise platform needs an agent library.\n\nRescale's new release makes this obvious. They didn't just add AI features. They shipped a library of simulation agents that engineering teams can deploy, customize, and control.\n\nInput validation agent. Troubleshooting agent. Hardware selection agent. Report generation agent.\n\nEach one automates a specific workflow engineers hate doing manually. Each one keeps the human in the decision seat.\n\nThe shift isn't subtle. When your integration layer is autonomous actors instead of REST endpoints, the whole platform architecture changes.\n\nAPIs were about data moving between systems. Agents are about tasks getting done across systems.\n\nThe companies figuring this out first are in unsexy industries. Physics simulation. Industrial design. Regulatory compliance.\n\nNo viral demos. Just ROI that makes CFOs pay attention.\n\nIf you're building enterprise tools right now, the question isn't \"should we add AI?\" It's \"what does our agent library look like in 18 months?\"",
+        "Nobody's writing about the physics simulation + AI story.\n\nAnd that's exactly why you should.\n\nRescale just launched agents for aerospace, automotive, energy, semiconductor R&D teams. The use case? Running simulations faster. Validating inputs automatically. Picking compute resources without a PhD.\n\nNo sexy consumer narrative. No viral TikTok moment. Just engineers saving 40 hours a week on stuff they used to do manually.\n\nThat's the enterprise AI story most creators are ignoring. Regulated industries. Complex workflows. Massive budgets. Teams that will pay six figures for a tool that removes friction from their process.\n\nThe content opportunity is wide open. Most LinkedIn posts about enterprise AI are theoretical. \"Here's what could happen.\"\n\nMeanwhile actual engineering teams are deploying agents right now. They have problems. They have budget. They're looking for people who understand what they're trying to solve.\n\nIf you can explain how agentic workflows change R&D timelines in language a VP of Engineering understands, you just found your niche.\n\nWhat's the unsexy vertical in your space that nobody's covering but everyone's paying for?"
+      ],
+      "threads": [
+        "Rescale shipped agents that understand physics.\n\nNot ChatGPT for engineers. Actual simulation-native AI that runs workflows autonomously while the human stays in control.\n\nInput validation. Troubleshooting. Hardware selection. The tedious stuff that wastes 40 hours a week.\n\nThe pattern that's working in regulated industries right now isn't full automation. It's partial automation that removes grunt work.\n\nCompliance teams approve that. CFOs fund that.\n\nIf you're building for enterprise, that's the wedge. Not \"replace the expert.\" \"Free the expert from the noise.\"",
+        "Five years ago every SaaS had an API marketplace.\n\nNow every enterprise platform needs an agent library.\n\nRescale just made this obvious. They shipped a library of simulation agents. Deploy them. Customize them. Keep control.\n\nThe integration layer isn't REST endpoints anymore. It's autonomous actors that handle tasks across systems.\n\nNo viral demos. Just ROI that makes CFOs pay attention.\n\nAPIs moved data. Agents get work done. That's the difference.",
+        "Nobody's covering the physics simulation + AI story.\n\nAnd that's exactly why you should.\n\nRescale launched agents for aerospace and automotive R&D teams. The use case? Running simulations faster. Removing friction from complex workflows.\n\nNo sexy consumer play. Just engineering teams saving 40 hours a week.\n\nThat's the enterprise AI opportunity most creators are ignoring. Regulated industries. Big budgets. Teams looking for people who actually understand what they're solving.\n\nThe unsexy verticals are wide open."
+      ]
+    }
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-13",
+    "topic": "model_releases",
+    "title": "Ant Group Unveils F2LLM-v2: A Multilingual, Full-Scale Embedding Model - xix.ai",
+    "url": "https://xix.ai/ainews/ant-group-unveils-f2llmv2-a-multilingual-fullscale-embedding-model.html",
+    "snippet": "Ant Group Unveils F2LLM-v2: A Multilingual, Full-Scale Embedding Model - xix.ai\n[...]\nAnt Group Unveils F2LLM-v2: A Multilingual, Full-Scale Embedding Model"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-13",
+    "topic": "product_releases",
+    "title": "Rescale Introduces Agentic Digital Engineering to Accelerate AI-First Product Development",
+    "url": "https://www.prnewswire.com/news-releases/rescale-introduces-agentic-digital-engineering-to-accelerate-ai-first-product-development-302769317.html",
+    "snippet": "Rescale Introduces Agentic Digital Engineering to Accelerate AI-First Product Development Accessibility Statement Skip\n[...]\nNew agentic digital engineering capabilities, alongside advances in AI physics and compute economics, give R&D teams a unified path to AI-first product development\n[...]\nSAN FRANCISCO, May 12, 2026 /PRNewswire/ -- Rescale, the digital engineering platform built for the AI er"
   }
 ]
