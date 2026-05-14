@@ -1756,5 +1756,135 @@
     "title": "Rescale Introduces Agentic Digital Engineering to Accelerate AI-First Product Development",
     "url": "https://www.prnewswire.com/news-releases/rescale-introduces-agentic-digital-engineering-to-accelerate-ai-first-product-development-302769317.html",
     "snippet": "Rescale Introduces Agentic Digital Engineering to Accelerate AI-First Product Development Accessibility Statement Skip\n[...]\nNew agentic digital engineering capabilities, alongside advances in AI physics and compute economics, give R&D teams a unified path to AI-first product development\n[...]\nSAN FRANCISCO, May 12, 2026 /PRNewswire/ -- Rescale, the digital engineering platform built for the AI er"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-05-14",
+    "headline": "The frontier labs went silent in May while the architecture conversation got loud. MiniMax open-sourced a 456B-parameter model with 4-million-token context using a non-Transformer design called Lightning Attention, and Thinking Machines shipped interaction models that process audio-visual streams in 200ms micro-turns instead of flattened turn-based sequences. When the capability race pauses, the infrastructure conversation fills the void.",
+    "url": "archive/2026-05-14.html",
+    "posts": {
+      "linkedin": [
+        "The frontier labs went quiet in May.\n\nNo new GPT drop. No Opus update. No Chinese lab trying to one-up the leaderboard.\n\nBut the architecture conversation got loud.\n\nMiniMax open-sourced a 456B-parameter model that doesn't use Transformers. They call it Lightning Attention. 4 million tokens of context. 20x longer than the leading models.\n\nThinking Machines\u2014Mira Murati's post-OpenAI lab\u2014shipped interaction models that don't do turn-based chat. They process continuous audio-visual streams in 200ms micro-turns. You talk, the model listens and responds at the same time. It translates while you're still speaking. It notices when someone new walks into frame.\n\nThis isn't a feature bolted onto GPT. It's a different training paradigm.\n\nWhen the capability race pauses, the infrastructure conversation fills the void.\n\nFor two years, the playbook was \"just scale the Transformer.\" More parameters, more data, more compute. Now we're seeing the first credible alternatives at frontier scale.\n\nThe question isn't \"who has the biggest model\" anymore.\n\nIt's \"what can you do with a model that processes the world differently?\"",
+        "OpenAI launched a $4 billion consulting company yesterday.\n\nAnthropic launched a consulting joint venture with Blackstone, H&F, and Goldman Sachs last week.\n\nAnthropic also shipped Claude for Small Business\u2014a packaged version with 15 prebuilt workflows for QuickBooks, PayPal, HubSpot, and other tools small businesses actually use.\n\nThe frontier labs are done pretending the model sells itself.\n\nEnterprise adoption is a services business now. The model is table stakes. The deployment layer is the moat.\n\nOpenAI's DeployCo raised $4B at a $10B pre-money valuation. Word is the investing partners bought in to skip the line\u2014get first access to forward-deployed engineers for their portfolio companies.\n\nAnthropic's small business package is explicit about it: \"We're targeting firms that use QuickBooks and Canva because they're lagging on AI adoption and they need workflows, not benchmarks.\"\n\nThis is the Palantir view taking over.\n\nThe money isn't in shipping the smartest model. It's in being unavoidable inside institutions.\n\nIf you're running an AI agency or consulting practice, the question isn't \"am I competing with OpenAI now?\"\n\nIt's \"how do I serve the longtail they'll never reach?\"",
+        "Freshworks just released a no-code builder for AI agents.\n\nAnthropic shipped 15 prebuilt workflows for small businesses.\n\nGoogle is reframing Android as an \"intelligence system\" instead of an operating system.\n\nThe bottleneck isn't coding anymore.\n\nIt's describing the workflow clearly enough for the system to understand it.\n\nEvery week, someone ships a new no-code agent builder. Freshworks calls theirs Freddy AI Agent Studio. You can spin up custom agents, deploy them into Slack or Teams, connect them to your HRIS, and run workflows like onboarding or asset requests without writing a line of code.\n\nThe new Zapier is \"I can describe what needs to happen, and the builder figures out how to make it happen.\"\n\nThis changes who can build AI solutions.\n\nYou don't need a developer anymore. You need someone who understands the workflow well enough to explain it.\n\nIf you're advising teams on AI adoption, the question isn't \"do we have engineers who can code this?\"\n\nIt's \"do we have someone who can map the process clearly enough for the no-code builder to execute it?\"\n\nThat's a different skill. And it's suddenly the most valuable one in the room."
+      ],
+      "threads": [
+        "The frontier labs went quiet in May. No new GPT drop. No Opus update. But the architecture conversation got loud. MiniMax open-sourced a 456B-parameter model that doesn't use Transformers. Thinking Machines shipped interaction models that process audio-visual streams in real time instead of turn-based chat. When the capability race pauses, the infrastructure conversation fills the void. The question isn't \"who has the biggest model\" anymore. It's \"what can you do with a model that processes the world differently?\"",
+        "OpenAI launched a $4B consulting company. Anthropic launched a consulting joint venture and a small business workflow package. The frontier labs are done pretending the model sells itself. Enterprise adoption is a services business now. The model is table stakes. The deployment layer is the moat. If you're running an AI agency, the question isn't \"am I competing with OpenAI now?\" It's \"how do I serve the longtail they'll never reach?\"",
+        "The bottleneck isn't coding anymore. It's describing the workflow clearly enough for the system to understand it. Freshworks released a no-code builder for AI agents. Anthropic shipped 15 prebuilt workflows. Google is reframing Android as an \"intelligence system.\" The new skill isn't writing code. It's mapping the process clearly enough for the no-code builder to execute it. That's suddenly the most valuable skill in the room."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-05-14",
+    "source": "AI Daily Brief",
+    "title": "Towards AI That Can Actually Interact",
+    "url": "https://www.youtube.com/watch?v=-UTIXsziBJI",
+    "video_id": "-UTIXsziBJI"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-14",
+    "topic": "model_releases",
+    "title": "MiniMax-01 is Now Open-Source: Scaling Lightning Attention for the AI Agent Era - MiniMax News | MiniMax",
+    "url": "https://www.minimax.io/news/minimax-01-series-2",
+    "snippet": "MiniMax-01 is Now Open-Source: Scaling Lightning Attention for the AI Agent Era - MiniMax News | MiniMax\n[...]\n# MiniMax-01 is Now Open-Source: Scaling Lightning Attention for the AI Agent Era\n[...]\nToday, MiniMax has released and open-sourced the all-new MiniMax-01 series of models, which includes two models: the foundational language model MiniMax-Text-01 and the visual multi-modal model MiniMax"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-14",
+    "topic": "model_releases",
+    "title": "New AI Models May 2026: The Frontier Took a Breath, Architecture Took the Stage | WhatLLM.org",
+    "url": "https://whatllm.org/blog/new-ai-models-may-2026",
+    "snippet": "New AI Models May 2026: The Frontier Took a Breath, Architecture Took the Stage | WhatLLM.org\n[...]\n# New AI Models May 2026: The Frontier Took a Breath, Architecture Took the Stage\n[...]\nApril was the loudest month in years. GPT-5.5 broke 60 on the Intelligence Index. Opus 4.7 landed. DeepSeek V4, Kimi K2.6, and MiMo V2.5 Pro all crossed 50. Then May opened, and the top of the leaderboard went st"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-14",
+    "topic": "model_releases",
+    "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
+    "url": "https://openai.com/sl-SI/index/gpt-5-5-with-trusted-access-for-cyber/",
+    "snippet": "The company has released GPT\u20105.5\u2010Cyber, our most intuitive and intuitive model to date, GPT-5.3.5 and Trusted Access for Cyber, a framework designed to ensure enhanced cyber capabilities are being placed in the right hands of cyber defenders. The new model is designed to make the cyber capabilities of GPT.5 more useful for verified defenders working on defensive tasks, while restricting requests t"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-14",
+    "topic": "model_releases",
+    "title": "AI News Roundup: April 29 \u2013 May 13, 2026 - Prompt Injection",
+    "url": "https://www.promptinjection.net/p/ai-llm-news-roundup-april-29-may-13-2026",
+    "snippet": "Anthropic launches Claude for Small BusinessAnthropic introduced Claude for Small Business, a packaged version of Claude with connectors and ready-made workflows aimed at firms that use tools such as QuickBooks, PayPal, HubSpot, Canva, Google Workspace, and Microsoft 365. The product includes 15 prebuilt agentic workflows for tasks such as payroll planning, invoice chasing, campaign creation, and "
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-14",
+    "topic": "product_releases",
+    "title": "Introducing Claude for Small Business",
+    "url": "https://www.anthropic.com/news/claude-for-small-business",
+    "snippet": "We're launching Claude for Small Business, a package of connectors and ready-to-run workflows that enable small business owners to use AI more effectively in their everyday tasks. The product is a toggle install that puts Claude inside tools small businesses depend on, such as Intuit Quickbooks, PayPal, HubSpot, Canva, Docusign, Google Workspace, and Microsoft 365. It includes 15 ready-for-run age"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-14",
+    "topic": "product_releases",
+    "title": "Personal Intelligence is rolling out in the Gemini app in Australia",
+    "url": "https://blog.google/intl/en-au/products/explore-get-answers/personal-intelligence-australia/",
+    "snippet": "Personal Intelligence is rolling out in the Gemini app in Australia\n[...]\n# Personal Intelligence is rolling out in the Gemini app in Australia\n[...]\nMay 13, 2026\n[...]\nEarlier this year, we introduced Personal Intelligence in the U.S. to show how Gemini can make life easier by learning what matters most to you. Today, we\u2019re rolling out this personalised experience in Australia.\n[...]\nPersonal Int"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-14",
+    "topic": "product_releases",
+    "title": "Anthropic launches Claude for Small Business with new automation workflows - SiliconANGLE",
+    "url": "https://siliconangle.com/2026/05/13/anthropic-launches-claude-small-business-new-automation-workflows/",
+    "snippet": "Anthropic launches Claude for Small Business with new automation workflows - SiliconANGLE\n[...]\n### Anthropic launches Claude for Small Business with new automation workflows\n[...]\nAnthropic PBC today launched an offering called Claude for Small Business that is designed to expand the adoption of its chatbot among entrepreneurs.\n[...]\nThe feature bundle is the fifth market-specific version of Clau"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-14",
+    "topic": "product_releases",
+    "title": "Freshworks unveils Freddy AI Agent Studio and MCP Gateway for Freshservice - SiliconANGLE",
+    "url": "https://siliconangle.com/2026/05/14/freshworks-unveils-freddy-ai-agent-studio-mcp-gateway-freshservice/",
+    "snippet": "Freshworks unveils Freddy AI Agent Studio and MCP Gateway for Freshservice - SiliconANGLE\n[...]\n### Freshworks unveils Freddy AI Agent Studio and MCP Gateway for Freshservice\n[...]\nFreshworks Inc. today unveiled an expanded set of agentic capabilities in its Freshservice information technology service management platform led by a new no-code Freddy AI Agent Studio that lets enterprises build, cust"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-14",
+    "topic": "product_releases",
+    "title": "Poppy debuts a proactive AI assistant to help organize your digital life | TechCrunch",
+    "url": "https://techcrunch.com/2026/05/13/poppy-debuts-a-proactive-ai-assistant-to-help-organize-your-digital-life/",
+    "snippet": "Poppy debuts a proactive AI assistant to help organize your digital life | TechCrunch\n[...]\n# Poppy debuts a proactive AI assistant to help organize your digital life\n[...]\n6:27 AM PDT \u00b7 May 13, 2026\n[...]\nSmartphones can be distracting with their dizzying array of apps and constant stream of notifications. A new app called Poppy aims to organize the chaos by combining your calendar, email, messag"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-14",
+    "topic": "x_posts",
+    "title": "Anthropic launches Claude for Small Business, featuring a host of automated services like bookkeeping functions, business insights, and tools for ad campaigns",
+    "url": "https://www.techmeme.com/260513/p39",
+    "snippet": "- Google teases Gemini-native Googlebook range, with new laptops coming later in the year Paulo Vargas / Digital Trends: Google will let some Chromebooks transition into a Googlebook experience soon Isaiah Richard / Tech Times: Google Debuts the Googlebook Laptop Which Puts Gemini on Everything Paulo Montenegro / Ubergizmo: Google Unveils Googlebook: A New Evolution In Laptop Computing Hassam Nasi"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-14",
+    "topic": "x_posts",
+    "title": "Anthropic unveils Claude Agent SDK credits for paid plans, which users can allocate for programmatic use of third-party agents like OpenClaw, starting June 15",
+    "url": "https://www.techmeme.com/260513/p51",
+    "snippet": "# Techmeme: Anthropic unveils Claude Agent SDK credits for paid plans, which users can allocate for programmatic use of third-party agents like OpenClaw, starting June 15 (Carl Franzen/VentureBeat)"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-14",
+    "topic": "x_posts",
+    "title": "Mark Zuckerberg announces \u2018completely private\u2019 encrypted Meta AI chat | The Verge",
+    "url": "https://www.theverge.com/tech/929791/meta-ai-incognito-chats",
+    "snippet": "Mark Zuckerberg announces \u2018completely private\u2019 encrypted Meta AI chat | The Verge\n[...]\n# Mark Zuckerberg announces \u2018completely private\u2019 encrypted Meta AI chat\n[...]\n\ufeffIncognito Chat AI messages disappear after users leave their chat session, which Meta says makes it different from other bots.\n[...]\n\ufeffIncognito Chat AI messages disappear after users leave their chat session, which Meta says makes it"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-14",
+    "topic": "x_posts",
+    "title": "Google prepares Gemini Spark AI Agent ahead of I/O launch",
+    "url": "https://www.testingcatalog.com/google-prepares-gemini-spark-ai-agent-ahead-of-i-o-launch/",
+    "snippet": "Google prepares Gemini Spark AI Agent ahead of I/O launch\n[...]\nGoogle appears to be preparing a renamed iteration of its agentic Gemini upgrade, with a fresh pop-up for \"Gemini Spark BETA\" now sitting inside the Gemini web version ahead of next week's Google I/O. The welcome screen frames Spark as an everyday AI agent ready around the clock to handle inbox triage, online tasks, and other multi-st"
   }
 ]
