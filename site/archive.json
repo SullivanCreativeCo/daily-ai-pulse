@@ -1886,5 +1886,143 @@
     "title": "Google prepares Gemini Spark AI Agent ahead of I/O launch",
     "url": "https://www.testingcatalog.com/google-prepares-gemini-spark-ai-agent-ahead-of-i-o-launch/",
     "snippet": "Google prepares Gemini Spark AI Agent ahead of I/O launch\n[...]\nGoogle appears to be preparing a renamed iteration of its agentic Gemini upgrade, with a fresh pop-up for \"Gemini Spark BETA\" now sitting inside the Gemini web version ahead of next week's Google I/O. The welcome screen frames Spark as an everyday AI agent ready around the clock to handle inbox triage, online tasks, and other multi-st"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-05-15",
+    "headline": "Google is flooding the zone before I/O while everyone else just shipped mobile coding agents. The real story: AI companies are finally admitting that the assistant era is over and the agent era needs you on your phone, not just your desk.",
+    "url": "archive/2026-05-15.html",
+    "posts": {
+      "linkedin": [
+        "Everyone's shipping mobile coding agents this week.\n\nOpenAI puts Codex in ChatGPT mobile. xAI launches Grok Build. Google's leaking three different systems at once.\n\nThe headline isn't the features.\n\nIt's that every major lab just admitted the same thing. Agents can't wait until you're back at your desk. They need to reach you wherever you are.\n\nBecause the shift isn't assistant AI anymore. It's not \"help me write this code.\"\n\nIt's \"keep working on this while I'm gone and ping me when you need a decision.\"\n\nThat only works if the agent can actually reach you.\n\nSo now your phone becomes the approval layer. The place where long-running work checks in. The thing that keeps projects from stalling for eight hours because you stepped away.\n\nMost people will see this as a convenience feature.\n\nThe people paying attention see it as the unlock for agent workflows that actually run overnight.",
+        "Google just dropped an entire agentic suite before their main event.\n\nGemini Intelligence. New memory system. Multi-step processes. Rolling out across Android, Samsung, watches, glasses.\n\nThey announced it a week before I/O.\n\nThat's the tell.\n\nWhen you're clearing the decks before the keynote, what you're really saying is \"we have so much we can't fit it in one event.\"\n\nAnd the leaks back that up. Gemini 3.2 Flash hits 92% of GPT-5.5's performance at 1/15 the cost. Query latencies under 200ms. That's not a minor update. That's a repositioning.\n\nMeanwhile they're testing COSMO. A 1.13GB mobile app that probably runs Gemini Nano locally. Screen context. Mouse gestures instead of hotkeys. \"Add these two ingredients to my shopping list\" without naming them.\n\nThe pattern is consistent.\n\nAI learning how you work instead of you learning its commands.\n\nSo what's the actual I/O announcement if all this is pre-game?\n\nThat's the question.",
+        "SAM.gov lists every government contract.\n\nUSAspending.gov shows what they paid historically.\n\nYou bid the job. Find someone to do the work. Keep the spread.\n\nNatalie Rosario made $11K profit on a catering contract in two weeks doing exactly this. Zero employees. She just connected the buyer and the seller and captured the markup.\n\nThe government is required to spend money with small businesses. That's not a maybe. It's policy.\n\nAll the pricing data is public. All the contract opportunities are listed. Claude and ChatGPT can help you understand the proposals.\n\nThe hard part isn't finding contracts.\n\nIt's not quitting after the first no.\n\nBecause most people see government contracting and think \"that's not for me.\" Or they bid once, don't win, and stop.\n\nBut the ones who keep going? They're finding $10K-$24K/month in recurring revenue. Not from doing the work. From knowing where to look and who to connect.\n\nWould someone pay you to figure out government contracts for them? I think someone would pay you to figure out government contracts for them."
+      ],
+      "threads": [
+        "Everyone's dunking on companies that create token leaderboards. \"Session Immortal.\" \"Token Legend.\" Sounds ridiculous.\n\nBut here's the thing nobody's saying.\n\nThe shift from \"AI helps me work\" to \"I set up agents that work\" is massive. And most companies have no idea how to make that jump.\n\nSo yeah, some people are gonna waste tokens. Some are gonna game the system. But the companies willing to let employees experiment\u2014even at the cost of burning tokens on dead ends\u2014are the ones who'll actually figure out what agent workflows look like.\n\nMost innovation looks like waste until it doesn't.",
+        "OpenAI ships Codex to mobile. xAI ships Grok Build. Google leaks three different agent systems.\n\nAll in 48 hours.\n\nThe story isn't the features. It's that every major lab just admitted agents need to reach you on your phone, not wait until you're back at your desk.\n\nBecause assistant AI was \"help me write this code.\" Agent AI is \"keep working while I'm gone and ping me when you need a decision.\"\n\nThat only works if it can actually reach you.\n\nYour phone just became the approval layer.",
+        "Google's talking to SpaceX about orbital data centers. Anthropic already did a deal. Robinhood founder raising $2B for Space Cowboy Corp. Nvidia hiring orbital architects.\n\nLaunching computers into space is now the practical solution.\n\nNot because it's cheaper. Because land permitting is so broken that orbit is faster.\n\nThat's not a tech story. That's a regulatory failure story."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-05-15",
+    "source": "The Koerner Office",
+    "title": "How Anyone Can Make $10K+/Month From the Government",
+    "url": "https://www.youtube.com/watch?v=xrU6tVo-qME",
+    "video_id": "xrU6tVo-qME"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-05-15",
+    "source": "AI Daily Brief",
+    "title": "In Defense of Tokenmaxxing",
+    "url": "https://www.youtube.com/watch?v=izRIZ1bMq4A",
+    "video_id": "izRIZ1bMq4A"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-15",
+    "topic": "model_releases",
+    "title": "Google DeepMind Releases Gemma 4, Its \u2018Most Capable\u2019 Open-Source AI Models \u2013 SMBtech",
+    "url": "https://smbtech.au/news/google-deepmind-releases-gemma-4-its-most-capable-open-source-ai-models/",
+    "snippet": "Google DeepMind has released Gemma 4, a new family of open-source AI models, designed for advanced reasoning and agentic workflows. The release spans four model sizes, including a 26B Mixture of Experts (MoE) variant and a 31B Dense model, built on the same research and technology underpinning Google\u2019s proprietary Gemini 3 models. The company claims these models outperform competitors up to 20 tim"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-15",
+    "topic": "model_releases",
+    "title": "Google to Launch Gemini 3.2 Flash at I/O 2026 | Phemex News",
+    "url": "https://phemex.com/news/article/google-to-unveil-gemini-32-flash-at-io-2026-rivals-gpt55-81370",
+    "snippet": "Google to Launch Gemini 3.2 Flash at I/O 2026 | Phemex News\n[...]\nGoogle is set to introduce its latest AI model, Gemini 3.2 Flash, at the I/O 2026 conference on May 20. The new model is designed to compete with OpenAI's GPT-5.5, achieving approximately 92% of its performance in coding and reasoning tasks. Notably, Gemini 3.2 Flash significantly reduces inference costs to one-fifteenth to one-twen"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-15",
+    "topic": "model_releases",
+    "title": "A Zhipu AI lan\u00e7a o GLM-5-Turbo, um modelo de base pr\u00e1tico otimizado para a intelig\u00eancia da Lobster - xix.ai",
+    "url": "https://xix.ai/pt/ainews/zhipu-ai-launches-glm5turbo-a-practical-foundation-model-optimized-for-lobster-intelligence.html",
+    "snippet": "A Zhipu AI lan\u00e7a o GLM-5-Turbo, um modelo de base pr\u00e1tico otimizado para a intelig\u00eancia da Lobster - xix.ai\n[...]\nA Zhipu AI lan\u00e7a o GLM-5-Turbo, um modelo de base pr\u00e1tico otimizado para a intelig\u00eancia da Lobster\n[...]\nPara criar um modelo que esteja verdadeiramente \u201cpronto para o trabalho\u201d, a equipe de desenvolvimento reconstruiu seus dados de treinamento com base em fluxos de trabalho de agentes"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-15",
+    "topic": "model_releases",
+    "title": "JD.com, AI \ubc1c\uc804 \uac00\uc18d\ud654\ub97c \uc704\ud55c \u2018JoyAI-LLM-Flash\u2019 \ubaa8\ub378 \uacf5\uac1c - xix.ai",
+    "url": "https://xix.ai/ko/ainews/jdcom-unveils-joyaillmflash-model-to-drive-ai-progress.html",
+    "snippet": "JD.com, AI \ubc1c\uc804 \uac00\uc18d\ud654\ub97c \uc704\ud55c \u2018JoyAI-LLM-Flash\u2019 \ubaa8\ub378 \uacf5\uac1c - xix.ai\n[...]\nJD.com, AI \ubc1c\uc804 \uac00\uc18d\ud654\ub97c \uc704\ud55c \u2018JoyAI-LLM-Flash\u2019 \ubaa8\ub378 \uacf5\uac1c"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-15",
+    "topic": "product_releases",
+    "title": "OpenAI Brings Its Codex Coding App To Mobile",
+    "url": "https://www.engadget.com/2173235/openai-brings-its-codex-coding-app-to-mobile/",
+    "snippet": "OpenAI Brings Its Codex Coding App To Mobile\n[...]\n# OpenAI brings its Codex coding app to mobile\n[...]\nSince debuting last spring, OpenAI's Codex coding app has seen standalone Mac and Windows releases, so it was only a matter of time before OpenAI gave people a way to access their Codex projects on mobile. Now it's doing just that. Starting today, all ChatGPT users, including those using the cha"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-15",
+    "topic": "product_releases",
+    "title": "OpenAI brings Codex coding tool to ChatGPT mobile app - The Hindu",
+    "url": "https://www.thehindu.com/sci-tech/technology/openai-brings-codex-coding-tool-to-chatgpt-mobile-app/article70981405.ece",
+    "snippet": "OpenAI brings Codex coding tool to ChatGPT mobile app - The Hindu\n[...]\n# OpenAI brings Codex coding tool to ChatGPT mobile app\n[...]\n## Coding \u200ctools have become an important way \u200cfor AI companies to reach \u200cbusiness \u2060customers\n[...]\nPublished - May 15, 2026 11:37 am IST\n[...]\nOpenAI said on Thursday its coding tool \u200bCodex was being added to \u200cthe ChatGPT mobile app, \u200bexpanding access to the \u2060produ"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-15",
+    "topic": "product_releases",
+    "title": "OpenAI brings Codex to mobile devices, adds more customization features - SiliconANGLE",
+    "url": "https://siliconangle.com/2026/05/14/openai-brings-codex-mobile-devices-adds-customization-features/",
+    "snippet": "OpenAI brings Codex to mobile devices, adds more customization features - SiliconANGLE\n[...]\n### OpenAI brings Codex to mobile devices, adds more customization features\n[...]\nOpenAI Group PBC today made its Codex programming assistant available on mobile devices.\n[...]\nThe service is accessible through ChatGPT\u2019s iOS and Android clients. It\u2019s rolling out about eight months after Anthropic PBC made "
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-15",
+    "topic": "product_releases",
+    "title": "OpenAI is bringing in the mighty Codex tool to the ChatGPT app on your phone - Digital Trends",
+    "url": "https://www.digitaltrends.com/computing/openai-is-bringing-in-the-mighty-codex-tool-to-the-chatgpt-app-on-your-phone/",
+    "snippet": "OpenAI is bringing in the mighty Codex tool to the ChatGPT app on your phone - Digital Trends Skip to main content\n[...]\nIf you have ever wanted Codex to work through your bugs and pull requests while you grab coffee or commute, OpenAI just made that possible. Codex, the company\u2019s AI-powered coding agent, is now available in the ChatGPT mobile app on iOS and Android.\n[...]\nThe feature is currently"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-15",
+    "topic": "product_releases",
+    "title": "xAI Introduces Its Coding Agent Called Grok Build",
+    "url": "https://www.engadget.com/2173482/xai-coding-agent-grok-build/",
+    "snippet": "xAI Introduces Its Coding Agent Called Grok Build\n[...]\n# xAI introduces its coding agent called Grok Build\n[...]\nBy Mariella Moon May 15, 2026\n[...]\nxAI has launched a coding agent of its own to serve as competitor to its rivals' products, such as Anthropic's Claude Code. It's called Grok Build, and it's still in its early beta version that's initially only available to SuperGrok Heavy subscriber"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-15",
+    "topic": "x_posts",
+    "title": "\u2018Gemini Spark\u2019 is Google\u2019s upcoming AI agent in the Gemini app",
+    "url": "https://9to5google.com/2026/05/14/gemini-spark-insight/",
+    "snippet": "\u2018Gemini Spark\u2019 is Google\u2019s upcoming AI agent in the Gemini app\n[...]\n# \u2018Gemini Spark\u2019 is Google\u2019s upcoming AI agent in the Gemini app\n[...]\nIn the ramp up to I/O 2026, Google has been working on adding a more advanced agent capability to the Gemini app. It now looks like it will be branded as \u201cGemini Spark.\u201d\n[...]\nGoogle app beta version 17.23 today introduces the \u201cGemini Spark\u201d name after previou"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-15",
+    "topic": "x_posts",
+    "title": "Google's leaked COSMO app is the first AI I might actually trust with my files",
+    "url": "https://www.androidpolice.com/google-cosmo-local-ai/",
+    "snippet": "Google's leaked COSMO app is the first AI I might actually trust with my files\n[...]\nI\u2019m officially burnt out on chatbots. Typing prompts into a text box feels like learning a programming language to do the work my phone should already understand.\n[...]\nThat\u2019s why Google\u2019s leaked COSMO app is the first mobile AI idea in a while that has my attention.\n[...]\nThe leak points to an assistant built aro"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-15",
+    "topic": "x_posts",
+    "title": "OpenAI brings Codex to ChatGPT for iPhone, iPad, and Android with these features - 9to5Mac",
+    "url": "https://9to5mac.com/2026/05/14/openai-brings-codex-control-to-chatgpt-for-iphone-and-android/",
+    "snippet": "OpenAI brings Codex to ChatGPT for iPhone, iPad, and Android with these features - 9to5Mac\n[...]\n# OpenAI brings Codex to ChatGPT for iPhone, iPad, and Android with these features\n[...]\nOpenAI has released a new way to interact with its Codex app from your smartphone. An update to ChatGPT\u2019s mobile app brings remote access to Codex for Mac to the iPhone, iPad, and Android.\n[...]\nWhile Codex is a st"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-15",
+    "topic": "x_posts",
+    "title": "Elon Musk\u2019s xAI Launches Grok Build Coding Agent To Take On Anthropic\u2019s Claude",
+    "url": "https://swarajyamag.com/tech/elon-musks-xai-launches-grok-build-coding-agent-to-take-on-anthropics-claude",
+    "snippet": "Elon Musk\u2019s xAI Launches Grok Build Coding Agent To Take On Anthropic\u2019s Claude\n\n# Elon Musk\u2019s xAI Launches Grok Build Coding Agent To Take On Anthropic\u2019s Claude\n[...]\nElon Musk's artificial intelligence venture xAI has launched its first coding agent, Grok Build, as the firm attempts to close the gap with rival Anthropic in the competitive software development market.\n[...]\nThe tool, currently in "
   }
 ]
