@@ -2024,5 +2024,95 @@
     "title": "Elon Musk\u2019s xAI Launches Grok Build Coding Agent To Take On Anthropic\u2019s Claude",
     "url": "https://swarajyamag.com/tech/elon-musks-xai-launches-grok-build-coding-agent-to-take-on-anthropics-claude",
     "snippet": "Elon Musk\u2019s xAI Launches Grok Build Coding Agent To Take On Anthropic\u2019s Claude\n\n# Elon Musk\u2019s xAI Launches Grok Build Coding Agent To Take On Anthropic\u2019s Claude\n[...]\nElon Musk's artificial intelligence venture xAI has launched its first coding agent, Grok Build, as the firm attempts to close the gap with rival Anthropic in the competitive software development market.\n[...]\nThe tool, currently in "
+  },
+  {
+    "kind": "digest",
+    "date": "2026-05-16",
+    "headline": "**OpenAI just handed ChatGPT your bank password.** The company launched personal finance tools in preview for Pro subscribers, letting you connect accounts through Plaid and ask questions about spending, budgeting, and future planning. The move turns ChatGPT into your CFO\u2014or at least your accountant's replacement.",
+    "url": "archive/2026-05-16.html",
+    "posts": {
+      "linkedin": [
+        "OpenAI just handed ChatGPT your bank password.\n\nYesterday they shipped personal finance tools for Pro subscribers.\n\nConnect your accounts through Plaid. Ask questions about spending. Get budget breakdowns. Run future scenarios.\n\nThe feature works with 12,000+ institutions. Chase, Schwab, Robinhood, Amex.\n\nThis isn't a side feature. It's OpenAI betting that the best way to own your financial decisions is to own the interface where you ask about them.\n\nThe acquisition of Hiro's team makes sense now. They brought financial AI expertise in-house. Now ChatGPT is your CFO.\n\nThe real question isn't whether the tool works.\n\nIt's whether you trust it enough to connect your accounts.\n\nBecause once it knows where your money goes, it knows more about you than most humans do.\n\nWould you connect your bank account to ChatGPT?",
+        "Nick Puru generated 4 million Instagram views in 30 days.\n\n6,000 newsletter signups in 45 days.\n\nHis entire system runs inside Claude Code.\n\nHe walked through the setup yesterday on Corey Ganim's pod. Three skills. A CLAUDE.md brain file. An ICP file built around a persona named Patrick. A foundations file with two years of content lessons.\n\nThe part that hit me: he generates three hook variations for every script and A/B tests them using Instagram trial reels before committing.\n\nHe's not just automating content. He's automating the testing loop.\n\nHe also shared the humanizer skill from Bader on GitHub that strips dashes and other AI tells from drafts.\n\nThe big line: \"The era of clever prompting is over. Context is now the moat.\"\n\nHe treats Claude Code like a new employee. Not a magic button. He feeds it SOPs, ICP, brand voice, past analytics. Then he expands into specialized skills as he finds gaps.\n\nIf you're still trying to out-prompt the model, you're solving the wrong problem.\n\nWhat's the last thing you fed your AI that wasn't a prompt?",
+        "Intercom just launched an AI agent whose only job is managing another AI agent.\n\nThey rebranded as Fin. Then they shipped Fin Operator.\n\nFin Operator monitors Fin, their customer-facing AI agent. It diagnoses failures. Tunes configurations. Tests fixes. Watches for drift.\n\nBrian Donohue, their VP of Product, said AI customer agents \"require constant tuning\" and \"each failure requires diagnosis, root-cause analysis, a configuration fix, testing, and monitoring.\"\n\nFin crossed $100M ARR. Growing 3.5x year-over-year.\n\nThis is the meta-layer. The agent that watches the agent.\n\nMost companies are still figuring out how to ship one agent. Fin is shipping the ops stack for the agent you already shipped.\n\nThe question isn't whether your agent works. It's who's watching it when it breaks.\n\nBecause it will break. And when it does, you need something monitoring it that isn't you.\n\nAre you building the agent or the thing that manages the agent?"
+      ],
+      "threads": [
+        "OpenAI just shipped personal finance tools for ChatGPT Pro.\n\nConnect your bank accounts. Ask spending questions. Get budget breakdowns.\n\nThe feature works with 12,000+ institutions through Plaid. Chase, Schwab, Amex, Robinhood.\n\nThis isn't a side feature. It's OpenAI betting that the best way to own your financial decisions is to own the interface.\n\nThe real question: do you trust it enough to connect your accounts?\n\nBecause once it knows where your money goes, it knows you better than most people do.",
+        "Nick Puru generated 4M Instagram views in 30 days using Claude Code.\n\nHis system: three skills, a CLAUDE.md brain file, an ICP persona named Patrick, and a foundations file with two years of content lessons.\n\nThe move: he generates three hook variations for every script and A/B tests them using Instagram trial reels before posting.\n\nHe's not automating content. He's automating the testing loop.\n\nHis line: \"The era of clever prompting is over. Context is now the moat.\"\n\nIf you're still trying to out-prompt the model, you're solving the wrong problem.",
+        "Intercom launched an AI agent whose only job is managing another AI agent.\n\nFin Operator monitors Fin, their customer-facing agent. It diagnoses failures, tunes configs, tests fixes.\n\nFin crossed $100M ARR. Growing 3.5x.\n\nMost companies are figuring out how to ship one agent. Fin is shipping the ops stack for the agent you already have.\n\nThe question isn't whether your agent works. It's who's watching it when it breaks."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-05-16",
+    "source": "Corey Ganim",
+    "title": "I BLEW UP Instagram With AI Content (4M Views in 30 Days)",
+    "url": "https://www.youtube.com/watch?v=s4GS2HiGX1I",
+    "video_id": "s4GS2HiGX1I"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-16",
+    "topic": "model_releases",
+    "title": "OpenClaw now works better with OpenAI models and Codex. | The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/931078/openclaw-now-works-better-with-openai-models-and-codex",
+    "snippet": "OpenClaw now works better with OpenAI models and Codex. | The Verge\n[...]\nOpenClaw now works better with OpenAI models and Codex.\n[...]\nAs part of a new release, \u201cyour ChatGPT subscription can now power an OpenClaw agent that feels much closer to the model it is built on,\u201d OpenAI\u2019s Nik Pash says in a blog post.\n[...]\nThe OpenClaw team has also been working \u201creally hard on performance, reliability,"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-16",
+    "topic": "model_releases",
+    "title": "Supertone Releases Supertonic v3: On-Device Text-to-Speech Model with 31-Language Support, Fewer Reading Failures, and Expression Tags - MarkTechPost",
+    "url": "https://www.marktechpost.com/2026/05/15/supertone-releases-supertonic-v3-on-device-text-to-speech-model-with-31-language-support-fewer-reading-failures-and-expression-tags/",
+    "snippet": "Supertone Releases Supertonic v3: On-Device Text-to-Speech Model with 31-Language Support, Fewer Reading Failures, and Expression Tags - MarkTechPost\n[...]\nHome Editors Pick Agentic AI Supertone Releases Supertonic v3: On-Device Text-to-Speech Model with 31-Language Support, Fewer Reading...\n[...]\nSupertone released Supertonic 3, the third generation of its on-device, ONNX-based text-to-speech sys"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-16",
+    "topic": "product_releases",
+    "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts | TechCrunch",
+    "url": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
+    "snippet": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts | TechCrunch\n[...]\n# OpenAI launches ChatGPT for personal finance, will let you connect bank accounts\n[...]\n9:00 AM PDT \u00b7 May 15, 2026\n[...]\nOn Friday, OpenAI launched a new set of personal finance tools in preview for ChatGPT Pro subscribers in the U.S., letting them connect their accounts and ask questions ranging f"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-16",
+    "topic": "product_releases",
+    "title": "Chinese AI startup Moonshot launches Kimi WebBridge to automate complex web tasks - CnTechPost",
+    "url": "https://cntechpost.com/2026/05/15/chinese-ai-startup-moonshot-launches-kimi-webbridge-automate-complex-web-tasks/",
+    "snippet": "Chinese AI startup Moonshot launches Kimi WebBridge to automate complex web tasks - CnTechPost\n[...]\n# Chinese AI startup Moonshot launches Kimi WebBridge to automate complex web tasks\n[...]\nCara Yu\u2022 May 15, 2026 at 10:04 AM UTC\n[...]\n- The tool allows AI agents to automatically execute complex web tasks using user credentials.\n- The launch follows the company's recent $2 billion funding round and"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-16",
+    "topic": "x_posts",
+    "title": "Grok Down: Users Report Login Issues With Elon Musk's AI Chatbot",
+    "url": "https://www.ndtvprofit.com/technology/grok-down-users-report-login-issues-with-elon-musks-ai-chatbot-11497920",
+    "snippet": "Grok Down: Users Report Login Issues With Elon Musk's AI Chatbot\n[...]\n# Grok Down: Users Report Login Issues With Elon Musk's AI Chatbot\n[...]\n## Several users also shared screenshots on social media showing the chatbot failing to respond to queries.\n[...]\n- Elon Musk-owned Grok AI chatbot faced access and response issues on Friday\n- Users reported failed prompts, blank replies, and login problem"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-16",
+    "topic": "x_posts",
+    "title": "Google reportedly working on Gemini Spark, an always-on AI assistant: Here is what it may do",
+    "url": "https://www.digit.in/news/general/google-reportedly-working-on-gemini-spark-an-always-on-ai-assistant-here-is-what-it-may-do.html",
+    "snippet": "Google reportedly working on Gemini Spark, an always-on AI assistant: Here is what it may do\n[...]\n# Google reportedly working on Gemini Spark, an always-on AI assistant: Here is what it may do\n[...]\n## Ahead of the event, a new leak has revealed details about a possible new AI agent called Gemini Spark.\n[...]\n## Gemini Spark is said to be an always-on AI assistant that can complete tasks for user"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-16",
+    "topic": "x_posts",
+    "title": "AI Agents Hit SMB Threshold as Meta Embeds Autonomous Support in WhatsApp | The Meridiem",
+    "url": "https://www.themeridiem.com/ai/2026/5/15/ai-agents-hit-smb-threshold-as-meta-embeds-autonomous-support-in-whatsapp",
+    "snippet": "AI Agents Hit SMB Threshold as Meta Embeds Autonomous Support in WhatsApp | The Meridiem"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-16",
+    "topic": "x_posts",
+    "title": "Intercom, now called Fin, launches an AI agent whose only job is managing another AI agent",
+    "url": "https://venturebeat.com/technology/intercom-now-called-fin-launches-an-ai-agent-whose-only-job-is-managing-another-ai-agent",
+    "snippet": "Intercom, formerly known as Intercom, has launched Fin Operator, an AI agent whose sole job is to manage another AI agent. The new system is designed for the back-office teams that monitor, improve Fin, the company's customer-facing AI agent, rather than replacing human support agents. The launch comes as Fin, which recently crossed $100 million in annual recurring revenue and is growing at 3.5x. "
   }
 ]
