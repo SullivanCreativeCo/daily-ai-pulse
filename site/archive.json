@@ -2148,5 +2148,143 @@
     "title": "OpenAI reportedly mulls taking Apple to court over ChatGPT's Siri integration - SiliconANGLE",
     "url": "https://siliconangle.com/2026/05/14/openai-reportedly-mulls-taking-apple-court-chatgpts-siri-integration/",
     "snippet": "OpenAI reportedly mulls taking Apple to court over ChatGPT's Siri integration - SiliconANGLE\n[...]\n### OpenAI reportedly mulls taking Apple to court over ChatGPT\u2019s Siri integration\n[...]\nOpenAI Group PBC has reportedly become so upset with Apple Inc. over its poor handling of the ChatGPT-Siri integration that it\u2019s now exploring legal action against the company.\n[...]\nA report by Bloomberg today sa"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-05-17",
+    "headline": "The personal finance AI integration just became real. OpenAI's ChatGPT now connects to your bank accounts, credit cards, and investment platforms through Plaid, letting GPT-5.5 analyze your actual spending, suggest optimizations, and run financial scenarios\u2014all inside the same interface where you've been asking it to write emails.",
+    "url": "archive/2026-05-17.html",
+    "posts": {
+      "linkedin": [
+        "ChatGPT can see your bank account now.\n\nNot a beta. Not a demo. Real accounts. Real spending. Real investment balances.\n\nOpenAI launched personal finance integration for Pro users this week. Connect through Plaid. Ask it if you can afford a house in five years. Ask it which subscriptions you forgot about.\n\nIt runs on GPT-5.5 Thinking by default.\n\nHere's the thing nobody's saying out loud.\n\nMost people won't use it.\n\nNot because it doesn't work. Because they don't trust it with their money yet.\n\nThe gap between what AI can do and what people will let it do is the real signal. Not the feature. The trust lag.\n\nThat gap closes slower than you think. And it closes faster in some categories than others.\n\nFinance is one of the slow ones.\n\nSo the question isn't \"is this useful?\" It obviously is. The question is \"how long until normal people connect their Chase account to ChatGPT without a second thought?\"\n\nThat's the adoption curve that matters.",
+        "NVIDIA just made minute-long video generation work on a single GPU.\n\nSANA-WM. 2.6B parameters. 60-second clips at 720p in 34 seconds on an RTX 5090.\n\nOpen-source. Apache 2.0 license. Available now on GitHub.\n\nEvery other competitive platform requires multi-GPU inference or sacrifices resolution to stay under compute budgets. NVIDIA trained this in 18.5 days on 64 H100s using just 212,975 public video clips.\n\nThe breakthrough is memory. Hybrid Gated DeltaNet + softmax attention keeps the recurrent state constant no matter how long the video runs. That's the unlock.\n\nSo here's what that means.\n\nVideo generation just stopped being a cloud product.\n\nYou don't need to upload raw footage to someone else's server. You don't need to wait in a render queue. You don't need to pay per minute.\n\nYou run it locally. On hardware you already own.\n\nThat changes the math for creators, businesses, and anyone who doesn't want their content sitting on a third-party platform before it's published.\n\nThe move from cloud-only to local-capable is always the moment when early adopters become normal users.\n\nWe just hit that moment for long-form video generation.",
+        "Greg Brockman is consolidating OpenAI's products into a single platform.\n\nChatGPT. Codex. The API. One core product team. One unified experience.\n\nHe sent a staff memo this week. \"We're consolidating our product efforts to execute with maximum focus toward the agentic future, to win across both consumer and enterprise.\"\n\nThat's not strategy speak. That's a forcing function.\n\nSam Altman called code red at the end of last year. OpenAI halted side projects. Sora. OpenAI for Science. Anything that wasn't core.\n\nNow Brockman is merging everything that is core.\n\nSo what does \"maximum focus toward the agentic future\" actually mean?\n\nIt means OpenAI isn't building a portfolio of AI tools anymore. They're building one platform where agents live, work, and get deployed.\n\nConsumer agents. Enterprise agents. Developer agents. All running on the same rails.\n\nThe question for everyone else is simple.\n\nAre you building tools that plug into that platform? Or are you building tools that compete with it?\n\nBecause the companies that win in the next 24 months are the ones that picked the right answer to that question six months ago."
+      ],
+      "threads": [
+        "ChatGPT can see your bank account now. Real accounts. Real spending. Real balances. Connect through Plaid. Ask it if you can afford a house in five years. Most people won't use it. Not because it doesn't work. Because they don't trust it with their money yet. The gap between what AI can do and what people will let it do is the real signal. That gap closes slower than you think. And finance is one of the slow categories.",
+        "NVIDIA just made minute-long video generation work on a single GPU. 60-second clips at 720p in 34 seconds on an RTX 5090. Open-source. Available now. Every other platform requires multi-GPU clusters or sacrifices resolution. NVIDIA trained this in 18.5 days using just 212,975 public video clips. Video generation just stopped being a cloud product. You run it locally. On hardware you already own. That's the moment early adopters become normal users.",
+        "Colin Stroud knew nothing about credit card points a few months before he started his business. He spent a weekend with Claude AI and some blogs. Now he charges $875 per consulting call. Made $231K his first full year. Gets clients organically from LinkedIn. Zero outbound sales. The model is simple. Learn a niche using AI. Build a repeatable service. Post your process. That's it. That's the whole playbook."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-05-17",
+    "source": "The Koerner Office",
+    "title": "The Credit Card Side Hustle No One Talks About",
+    "url": "https://www.youtube.com/watch?v=rvOnhGzx__Q",
+    "video_id": "rvOnhGzx__Q"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-17",
+    "topic": "model_releases",
+    "title": "Alibaba\u2019s Cloud Division Launches Open-Source AI Model Qwen-3.5 - BitRss - Crypto World News",
+    "url": "https://bitrss.com/alibaba-s-cloud-division-launches-open-source-ai-model-qwen-3-5-184268",
+    "snippet": "Alibaba\u2019s Cloud Division Launches Open-Source AI Model Qwen-3.5 - BitRss - Crypto World News\n[...]\n# Alibaba\u2019s Cloud Division Launches Open-Source AI Model Qwen-3.5\n[...]\nThe cloud division of Chinese tech giant Alibaba has unveiled a new open-source AI model, Qwen-3.5, as reported by SCMP.\n[...]\nTwo versions of the LLM are now available in the Qwen app. The release coincides with the Lunar New Ye"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-17",
+    "topic": "model_releases",
+    "title": "OpenAI unveils mobile version of Codex coding assistant.",
+    "url": "https://sharjah24.ae/en/Articles/2026/05/17/OpenAI-unveils-mobile-version-of-Codex-coding-assistant",
+    "snippet": "OpenAI unveils mobile version of Codex coding assistant.\n[...]\n- OpenAI unveils mobile version of Codex coding assistant.\n[...]\n# OpenAI unveils mobile version of Codex coding assistant.\n[...]\n##### Sharjah24- WAM: OpenAI has unveiled plans to introduce a mobile version of its coding assistant Codex, almost a year after incorporating the tool into the ChatGPT platform, enabling users to track and "
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-17",
+    "topic": "model_releases",
+    "title": "NVIDIA Introduces SANA-WM: A 2.6B-Parameter Open-Source World Model That Generates Minute-Scale 720p Video on a Single GPU",
+    "url": "https://www.marktechpost.com/2026/05/16/nvidia-introduces-sana-wm-a-2-6b-parameter-open-source-world-model-that-generates-minute-scale-720p-video-on-a-single-gpu/",
+    "snippet": "# NVIDIA Introduces SANA-WM: A 2.6B-Parameter Open-Source World Model That Generates Minute-Scale 720p Video on a Single GPU - MarkTechPost\n[...]\nPublished: 2026-05-16T07:5\n[...]\nNVIDIA has introduced SANA-WM: a 2.6B-parameter Diffusion Transformer (DiT) open-source world model that can generate minute-long, high-resolution video without requiring large clusters for training and inference. The cha"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-17",
+    "topic": "model_releases",
+    "title": "ChatGPT Personal Finance Feature: OpenAI Launches Account Integration Preview Powered by GPT-5.5 | \ud83d\udcf2 LatestLY",
+    "url": "https://www.latestly.com/technology/chatgpt-personal-finance-feature-openai-launches-account-integration-preview-powered-by-gpt-5-5-7432378.html",
+    "snippet": "ChatGPT Personal Finance Feature: OpenAI Launches Account Integration Preview Powered by GPT-5.5 | \ud83d\udcf2 LatestLY\n[...]\n## OpenAI has launched a personal finance preview for ChatGPT Pro users in the US, allowing secure account syncing via Plaid. Powered by GPT-5.5, the tool provides a comprehensive financial dashboard for budget tracking and scenario planning. It offers robust privacy controls, though"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-17",
+    "topic": "model_releases",
+    "title": "Zhipu AI stellt GLM-5V-Turbo vor und stattet KI-Agenten mit fortschrittlicher Bildverarbeitung aus - xix.ai",
+    "url": "https://xix.ai/de/ainews/zhipu-ai-unveils-glm5vturbo-empowering-ai-agents-with-advanced-vision.html",
+    "snippet": "Zhipu AI stellt GLM-5V-Turbo vor und stattet KI-Agenten mit fortschrittlicher Bildverarbeitung aus - xix.ai\n[...]\nZhipu AI stellt GLM-5V-Turbo vor und stattet KI-Agenten mit fortschrittlicher Bildverarbeitung aus\n[...]\nAls natives multimodales Basis-Modell f\u00fcr die Programmierung erreicht GLM-5V-Turbo eine tiefe Verschmelzung von visuellem Verst\u00e4ndnis und Programmierf\u00e4higkeiten:\n[...]\nLeistungsspru"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-17",
+    "topic": "product_releases",
+    "title": "ChatGPT can now look at your bank account, here's what it can do",
+    "url": "https://timesofindia.indiatimes.com/technology/tech-news/chatgpt-can-now-look-at-your-bank-account-heres-what-it-can-do/articleshow/131131865.cms",
+    "snippet": "ChatGPT can now look at your bank account, here's what it can do\n[...]\n- ChatGPT can now look at your bank account, here's what it can do\n[...]\n# ChatGPT can now look at your bank account, here's what it can do\n[...]\nOpenAI has rolled out a new personal finance feature inside ChatGPT. In short, you can now connect your bank accounts, credit cards and investment accounts directly to ChatGPT, and it"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-17",
+    "topic": "product_releases",
+    "title": "Freshworks Launches AI Agent Studio to Automate IT, HR, and Finance - techcoffeehouse.com",
+    "url": "https://techcoffeehouse.com/2026/05/16/freshworks-launches-ai-agent-studio-to-automate-it-hr-and-finance/",
+    "snippet": "Freshworks Launches AI Agent Studio to Automate IT, HR, and Finance - techcoffeehouse.com\n[...]\n## Freshworks Launches AI Agent Studio to Automate IT, HR, and Finance\n[...]\nFreshworks has unveiled Freddy AI Agent Studio within its Freshservice platform, enabling organisations to build, customise, and deploy AI agents across IT, HR, and business workflows in weeks rather than quarters. The announce"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-17",
+    "topic": "product_releases",
+    "title": "Vercel Labs Introduces Zero, a Systems Programming Language Designed So AI Agents Can Read, Repair, and Ship Native Programs - MarkTechPost",
+    "url": "https://www.marktechpost.com/2026/05/17/vercel-labs-introduces-zero-a-systems-programming-language-designed-so-ai-agents-can-read-repair-and-ship-native-programs/",
+    "snippet": "Vercel Labs Introduces Zero, a Systems Programming Language Designed So AI Agents Can Read, Repair, and Ship Native Programs - MarkTechPost\n[...]\nHome Editors Pick Agentic AI Vercel Labs Introduces Zero, a Systems Programming Language Designed So AI Agents...\n[...]\nMost programming languages were designed for humans who read error messages, interpret warnings, and manually trace through stack outp"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-17",
+    "topic": "product_releases",
+    "title": "Intercom, now called Fin, launches an AI agent whose only job is managing another AI agent | AIWireDaily",
+    "url": "https://aiwiredaily.net/article/2026-05-16-intercom-now-called-fin-launches-an-ai-a",
+    "snippet": "Intercom, now called Fin, launches an AI agent whose only job is managing another AI agent | AIWireDaily\n[...]\n# Intercom, now called Fin, launches an AI agent whose only job is managing another AI agent\n[...]\nIntercom, rebranded as Fin, launched Fin Operator on Thursday, an AI agent designed to manage another AI agent. This move represents the first major attempt by a customer service platform to"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-17",
+    "topic": "x_posts",
+    "title": "Adobe\u2019s AI Agent And PDF Spaces Reframe Document Workflows And Investor Focus",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/adobe-ai-agent-pdf-spaces-161349452.html",
+    "snippet": "Adobe\u2019s AI Agent And PDF Spaces Reframe Document Workflows And Investor Focus\n[...]\n# Adobe\u2019s AI Agent And PDF Spaces Reframe Document Workflows And Investor Focus\n[...]\nAdobe launched a next generation productivity agent integrated into Acrobat, aimed at reshaping how users work with PDFs using AI.\n[...]\nThe company also introduced PDF Spaces, a new way to organize, share, and interact with docum"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-17",
+    "topic": "x_posts",
+    "title": "Salesforce Pushes Agentic AI Into Core Workflows With New Deployments",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/salesforce-pushes-agentic-ai-core-011946721.html",
+    "snippet": "Salesforce Pushes Agentic AI Into Core Workflows With New Deployments\n[...]\n# Salesforce Pushes Agentic AI Into Core Workflows With New Deployments\n[...]\nSalesforce (NYSE:CRM) is rolling out new agentic AI deployments across core enterprise workflows.\n[...]\nThe company has launched Agentforce Contact Center with Ribbon Communications and AI-driven communications integrations at scale.\n[...]\nSalesf"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-17",
+    "topic": "x_posts",
+    "title": "OpenAI co-founder Greg Brockman takes charge of product strategy | TechCrunch",
+    "url": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
+    "snippet": "OpenAI co-founder Greg Brockman takes charge of product strategy | TechCrunch\n[...]\n# OpenAI co-founder Greg Brockman takes charge of product strategy\n[...]\nOpenAI co-founder and president Greg Brockman is officially taking the reins of the company\u2019s product strategy, according to Wired.\n[...]\nThis seems to solidify an already-existing change, with Brockman overseeing OpenAI\u2019s products on an inter"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-17",
+    "topic": "x_posts",
+    "title": "Nous Research integrates Grok subscriptions into Hermes Agent, ditching API key friction",
+    "url": "https://cryptobriefing.com/nous-research-grok-hermes-agent-integration/",
+    "snippet": "Nous Research integrates Grok subscriptions into Hermes Agent, ditching API key friction\n[...]\n# Nous Research integrates Grok subscriptions into Hermes Agent, ditching API key friction\n[...]\nSuperGrok subscribers can now authenticate via browser OAuth to power autonomous agent tasks through Hermes, no separate API key required.\n[...]\nNous Research just made it significantly easier to plug xAI\u2019s G"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-17",
+    "topic": "x_posts",
+    "title": "Microsoft Copilot Studio Gets New Drag-and-Drop AI Workflow Designer - WinCentral",
+    "url": "https://thewincentral.com/microsoft-copilot-studio-workflow-designer/",
+    "snippet": "Microsoft Copilot Studio Gets New Drag-and-Drop AI Workflow Designer - WinCentral\n[...]\nMicrosoft Copilot Studio is getting a major upgrade that could significantly simplify AI automation and agent creation for businesses.\n[...]\nMicrosoft has officially introduced a new drag-and-drop workflow designer for Copilot Studio in preview, allowing users to build complex automations and agentic AI workflo"
   }
 ]
