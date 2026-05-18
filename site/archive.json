@@ -2286,5 +2286,119 @@
     "title": "Microsoft Copilot Studio Gets New Drag-and-Drop AI Workflow Designer - WinCentral",
     "url": "https://thewincentral.com/microsoft-copilot-studio-workflow-designer/",
     "snippet": "Microsoft Copilot Studio Gets New Drag-and-Drop AI Workflow Designer - WinCentral\n[...]\nMicrosoft Copilot Studio is getting a major upgrade that could significantly simplify AI automation and agent creation for businesses.\n[...]\nMicrosoft has officially introduced a new drag-and-drop workflow designer for Copilot Studio in preview, allowing users to build complex automations and agentic AI workflo"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-05-18",
+    "headline": "The AI cost war just went vertical. Google dropped a model that's 95% cheaper than GPT-5.5, NVIDIA validated 4-bit pretraining at 10 trillion tokens, and a startup claims they trained a competitive reasoning model for $1,000. The economics of intelligence changed this weekend.",
+    "url": "archive/2026-05-18.html",
+    "posts": {
+      "linkedin": [
+        "Google just dropped a model that costs 95% less than GPT-5.5.\n\nSame week, a startup claims they trained a reasoning model for $1,000.\n\nSame week, NVIDIA validated 4-bit pretraining at 10 trillion tokens.\n\nThe cost of intelligence didn't trend down. It collapsed.\n\nSix months ago, you needed millions to pretrain something competitive. Now you need a credit card and a weekend.\n\nThat's not an incremental shift. That's the moment single-person companies can deploy reasoning at scale.\n\nThe question isn't \"who has the best model?\" anymore.\n\nThe question is \"who knows what to build with cheap intelligence?\"",
+        "Redis just shipped a memory layer for AI agents.\n\nBecause the thing nobody talks about is that agents forget.\n\nYou ask it to look up a customer record. Then check a shipping database. Then pull a PDF.\n\nBy step three, it's hallucinating or stalling because it lost context.\n\nThat's the problem Redis Context Engine solves. Three tools. Context Retriever. Agent Memory. Data Integration.\n\nThe third one went live today.\n\nEvery agent platform launching this quarter is solving the same problem. Agents are fast until they need to remember something.\n\nMemory isn't a nice-to-have. It's the layer that makes agents production-ready.\n\nIf you're building anything that touches agents, this is infrastructure you're gonna need.",
+        "OpenAI just entered personal finance.\n\nChatGPT Pro users can now connect accounts from 12,000 banks. Portfolio tracking. Spending patterns. Subscriptions. Payments.\n\nBuilt on GPT-5.5 reasoning. Powered by Plaid. Tax analysis coming when Intuit support ships.\n\nThis is the vertical integration move everyone said was coming.\n\nFoundation model companies aren't staying horizontal. They're picking categories and owning the stack.\n\nStripe did this with payments. Made the infrastructure invisible so builders could focus on product.\n\nOpenAI is doing it with personal finance. The API is table stakes. The product is the wedge.\n\nWhat happens when the best reasoning models also control the vertical?\n\nThat's the question every fintech builder is asking today."
+      ],
+      "threads": [
+        "Google dropped a model that's 95% cheaper than GPT-5.5.\n\nA startup trained a reasoning model for $1,000.\n\nNVIDIA validated 4-bit pretraining at 10 trillion tokens.\n\nThe cost of intelligence just collapsed. Not trending down. Collapsed.\n\nSix months ago you needed millions. Now you need a weekend and a credit card.\n\nSingle-person companies can deploy reasoning at scale.\n\nSo the question isn't who has the best model. The question is who knows what to build with cheap intelligence.",
+        "Redis shipped a memory layer for AI agents because agents forget.\n\nYou ask it to check a customer record, a shipping database, a PDF. By step three it's hallucinating.\n\nThat's what Redis Context Engine fixes. Context Retriever. Agent Memory. Data Integration.\n\nMemory isn't a nice-to-have. It's the layer that makes agents actually work in production.\n\nEvery agent platform launching this quarter is solving the same problem.\n\nIf you're building anything with agents, this is infrastructure you're gonna need.",
+        "OpenAI just entered personal finance.\n\nConnect 12,000 banks. Track portfolios, spending, subscriptions. Built on GPT-5.5. Tax analysis coming.\n\nThis is the Stripe move. Own the infrastructure, make it invisible, then own the vertical.\n\nFoundation model companies aren't staying horizontal. They're picking categories and building the whole stack.\n\nWhat happens when the best reasoning models also control the product layer?\n\nThat's the question every fintech builder is asking right now."
+      ]
+    }
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-18",
+    "topic": "model_releases",
+    "title": "Sapient Intelligence launches HRM-Text, challenging the LLM monopoly with a brain-inspired foundation model trained on up to 1000x fewer tokens",
+    "url": "https://www.prnewswire.com/news-releases/sapient-intelligence-launches-hrm-text-challenging-the-llm-monopoly-with-a-brain-inspired-foundation-model-trained-on-up-to-1000x-fewer-tokens-302774638.html",
+    "snippet": "# Sapient Intelligence launches HRM-Text, challenging the LLM monopoly with a brain-inspired foundation model trained on up to 1000x fewer tokens\n[...]\nSapient Intelligence, an AGI research company, has launched HRM-Text, a 1-billion-parameter reasoning language model designed to deliver competitive reasoning and general performance without the infrastructure and demands of Transformer-based LLMs."
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-18",
+    "topic": "model_releases",
+    "title": "GitLab introduces integration with Anthropic\u2019s Claude AI models - techpartner.news",
+    "url": "https://www.techpartner.news/news/gitlab-introduces-integration-with-anthropics-claude-ai-models-625958",
+    "snippet": "GitLab introduces integration with Anthropic\u2019s Claude AI models - techpartner.news\n[...]\n# GitLab introduces integration with Anthropic\u2019s Claude AI models\n[...]\nDevSecOps orchestration platform GitLab has announced a deepened integration with Anthropic\u2019s latest Claude AI models, giving GitLab customers access to the latest Claude capabilities, built into the same governance, compliance, and audit "
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-18",
+    "topic": "model_releases",
+    "title": "NVIDIA Introduces a 4-Bit Pretraining Methodology Using NVFP4, Validated on a 12B Hybrid Mamba-Transformer at 10T Token Horizon - MarkTechPost",
+    "url": "https://www.marktechpost.com/2026/05/18/nvidia-introduces-a-4-bit-pretraining-methodology-using-nvfp4-validated-on-a-12b-hybrid-mamba-transformer-at-10t-token-horizon/",
+    "snippet": "NVIDIA Introduces a 4-Bit Pretraining Methodology Using NVFP4, Validated on a 12B Hybrid Mamba-Transformer at 10T Token Horizon - MarkTechPost\n[...]\nHome Tech News AI Paper Summary NVIDIA Introduces a 4-Bit Pretraining Methodology Using NVFP4, Validated on a 12B...\n[...]\nPretraining frontier-scale LLMs in FP8 is now standard practice, but moving to 4-bit floating point has remained an open researc"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-18",
+    "topic": "model_releases",
+    "title": "Google Cloud Surfaces Gemini 3.2 Flash Lite Model with Inference Costs 95% Lower Than GPT-5.5 | Gate News",
+    "url": "https://www.gate.com/news/detail/google-cloud-surfaces-gemini-32-flash-lite-model-with-inference-costs-95-21159623",
+    "snippet": "Google Cloud Surfaces Gemini 3.2 Flash Lite Model with Inference Costs 95% Lower Than GPT-5.5 | Gate News\n\nGoogle Cloud Surfaces Gemini 3.2 Flash Lite Model with Inference Costs 95% Lower Than GPT-5.5\n[...]\n# Google Cloud Surfaces Gemini 3.2 Flash Lite Model with Inference Costs 95% Lower Than GPT-5.5\n[...]\nAccording to Beating.AI monitoring, a new model option named gemini-3.2-flash-lite-live-pre"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-18",
+    "topic": "model_releases",
+    "title": "Anthropic Targets Financial Services with New Claude AI Agent Templates and Integrations - Fintech Schweiz Digital Finance News - FintechNewsCH",
+    "url": "https://fintechnews.ch/aifintech/anthropic-targets-financial-services-with-new-claude-ai-agent-templates-and-integrations/83641/",
+    "snippet": "Anthropic Targets Financial Services with New Claude AI Agent Templates and Integrations - Fintech Schweiz Digital Finance News - FintechNewsCH\n[...]\nAnthropic, the company behind the range of large language models (LLMs) named Claude, has released ten ready-to-run agent templates for the financial services industry, the company said earlier this month.\n[...]\nThese templates aim to allow firms to "
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-18",
+    "topic": "product_releases",
+    "title": "Redis debuts the much-needed memory layer for enterprise AI agents - SiliconANGLE",
+    "url": "https://siliconangle.com/2026/05/18/redis-debuts-much-needed-memory-layer-enterprise-ai-agents/",
+    "snippet": "Redis debuts the much-needed memory layer for enterprise AI agents - SiliconANGLE\n[...]\n### Redis debuts the much-needed memory layer for enterprise AI agents\n[...]\nArtificial intelligence agents have a memory problem and now Redis Inc., the database management startup, is trying to fix that with its new, real-time Context Engine.\n[...]\nAs the company explains, it\u2019s all about helping enterprise AI"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-18",
+    "topic": "product_releases",
+    "title": "Zignal Labs Launches Zignal AI to Deliver Structured Intelligence for Mission Systems, Partners, and Agent-Driven Workflows",
+    "url": "https://www.globenewswire.com/news-release/2026/05/18/3296553/0/en/Zignal-Labs-Launches-Zignal-AI-to-Deliver-Structured-Intelligence-for-Mission-Systems-Partners-and-Agent-Driven-Workflows.html",
+    "snippet": "Zignal Labs has launched Zignal AI, a new platform architecture designed to deliver structured intelligence derived from publicly available information directly into mission systems, operational workflows, and agent-driven environments. The company has over 15 years of experience with high volume, multimodal publicly available data. ZIGNal AI transforms fragmented public data into mission-ready ou"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-18",
+    "topic": "product_releases",
+    "title": "PolyAI opens its Agentic Dialog Platform, making the tech behind complex conversations for hundreds of enterprises available to every builder",
+    "url": "https://www.prnewswire.com/news-releases/polyai-opens-its-agentic-dialog-platform-making-the-tech-behind-complex-conversations-for-hundreds-of-enterprises-available-to-every-builder-302774666.html",
+    "snippet": "PolyAI has opened its Agentic Dialog Platform to all builders, free for the first two months. The platform powers complex customer conversations for hundreds of enterprises across 75 languages and 25 countries. For the first time, anyone can build a production-ready dialog agent in under ten minutes and deploy it on the same platform, models, and infrastructure as the platform powering complex dia"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-18",
+    "topic": "product_releases",
+    "title": "Augury Shaping the Future of Production with the Industrial AI Workforce",
+    "url": "https://finance.yahoo.com/sectors/technology/articles/augury-shaping-future-production-industrial-070000035.html",
+    "snippet": "Leveraging Google Cloud and AVEVA, Augury's role-based agents are being tailored to the daily workflows of reliability, maintenance, and operations teams.\n[...]\nMILAN, May 18, 2026 /PRNewswire/ -- Augury, a leader in industrial AI solutions for manufacturing today, shared its progress in developing the Industrial AI Workforce. Built on top of Augury's proven Machine Health solution, new, role-base"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-18",
+    "topic": "product_releases",
+    "title": "OpenAI Launches AI Personal Finance Tools and Consolidates Products Under Co-Founder Greg\u00a0Brockman",
+    "url": "https://theaiinsider.tech/2026/05/18/openai-launches-ai-personal-finance-tools-and-consolidates-products-under-co-founder-greg-brockman/",
+    "snippet": "OpenAI Launches AI Personal Finance Tools and Consolidates Products Under Co-Founder Greg Brockman\n[...]\n# OpenAI Launches AI Personal Finance Tools and Consolidates Products Under Co-Founder Greg Brockman\n[...]\n7 min read\n[...]\nOpenAI has introduced personal finance tools for ChatGPT Pro subscribers in the US, allowing users to connect accounts from more than 12,000 financial institutions \u2014 inclu"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-18",
+    "topic": "x_posts",
+    "title": "World launches AgentKit with Coinbase integration to enable human-verified AI agents - BitRss - Crypto World News",
+    "url": "https://bitrss.com/world-launches-agentkit-with-coinbase-integration-to-enable-human-verified-ai-agents-193777",
+    "snippet": "World launches AgentKit with Coinbase integration to enable human-verified AI agents - BitRss - Crypto World News\n\n# World launches AgentKit with Coinbase integration to enable human-verified AI agents\n[...]\nThe new toolkit from Sam Altman's startup lets AI agents prove they are backed by a unique human while interacting with websites, APIs and other online services."
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-18",
+    "topic": "x_posts",
+    "title": "Zurich expands agentic AI rollout with Cytora partnership",
+    "url": "https://fintech.global/2026/05/18/zurich-expands-agentic-ai-rollout-with-cytora-partnership/",
+    "snippet": "Zurich expands agentic AI rollout with Cytora partnership\n[...]\nZurich Insurance has deployed Cytora\u2019s AI-powered risk digitisation platform across five countries in just 90 days, cutting manual underwriting triage time by 80% as part of a wider global rollout.\n[...]\nThe insurer now plans to expand the platform into more than 20 markets over the next 16 months as it scales AI-driven underwriting o"
   }
 ]
