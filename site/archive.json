@@ -2400,5 +2400,135 @@
     "title": "Zurich expands agentic AI rollout with Cytora partnership",
     "url": "https://fintech.global/2026/05/18/zurich-expands-agentic-ai-rollout-with-cytora-partnership/",
     "snippet": "Zurich expands agentic AI rollout with Cytora partnership\n[...]\nZurich Insurance has deployed Cytora\u2019s AI-powered risk digitisation platform across five countries in just 90 days, cutting manual underwriting triage time by 80% as part of a wider global rollout.\n[...]\nThe insurer now plans to expand the platform into more than 20 markets over the next 16 months as it scales AI-driven underwriting o"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-05-19",
+    "headline": "The agent wars just shifted from demos to distribution. Cursor's Composer 2.5, GitHub's Spaces API going GA, and Viktor's $75M raise all say the same thing: the companies shipping executable tools today are the ones defining the infrastructure tomorrow.",
+    "url": "archive/2026-05-19.html",
+    "posts": {
+      "linkedin": [
+        "Cursor dropped Composer 2.5 yesterday.\n\nSame pretrain base as 2.0. Scaled significantly on RL and continual pretraining. More intelligent. Better at sustained work. More reliable at following complex instructions.\n\nThey doubled usage limits for a week.\n\nElon said it's partially trained on Colossus 2. Sasha Rush from the Cursor team confirmed they're exploring text feedback and OPSD. Clem from Hugging Face called out the bigger play: \"ultimately all serious companies in AI will want to train models themselves.\"\n\nThe move is simple.\n\nIf you want to own the layer, you train your own weights.\n\nCursor's doing it. Google just open-sourced Gemma 4 with four model sizes. GitHub shipped Spaces API to GA and made GPT-5.3-Codex the new base model.\n\nThe companies shipping executable tools today are the ones defining the infrastructure tomorrow.\n\nSo the question isn't \"should I care about model training?\"\n\nThe question is \"what layer am I building on and who owns it?\"",
+        "Zenlytic just shipped Zo\u00eb Self-Learning.\n\nIt's an AI data analyst that onboards itself.\n\nConnects to your data warehouse. Identifies the relevant tables. Builds the semantic layer in the background. Produces trusted answers with citations. No data engineering work required.\n\nThey claim data to decisions in 59 minutes or less.\n\nFor context: most enterprise AI analytics requires 6-month data model buildouts, complex YAML configurations, and tribal knowledge buried in legacy dashboards. Zo\u00eb eliminates that setup tax.\n\nInference Room shipped something similar this week called Tack. It's an agent-native storage layer. No API keys to provision. Went straight to GA with no waitlist. They're promising at least one new AI Agent product every month.\n\nThe pattern is the same.\n\nThe agent that onboards itself is the wedge that kills the 6-month enterprise sales cycle.\n\nIf it works, the bottleneck moves from \"convince procurement\" to \"convince your CFO you don't need a data team.\"\n\nWould someone pay to skip six months of setup? I think someone would pay to skip six months of setup.",
+        "Salesforce is spending $300 million on Anthropic tokens in 2026.\n\nMarc Benioff said it on the All-In podcast. Most of it's for AI-powered software development and coding.\n\nHe framed AI coding tools as productivity multipliers, not replacements. Called them \"awesome\" for reducing dev costs while increasing output.\n\nThe math checks out when you're betting the business on it.\n\nMeanwhile, Cursor just doubled usage limits for Composer 2.5. GitHub shipped Spaces API to GA. Google open-sourced Gemma 4. Inference Room is shipping at least one AI Agent product every month.\n\nThe pattern: everyone's either training their own models or committing massive token budgets to someone else's.\n\nThe AI subsidy era is over.\n\nFree tiers were table stakes in 2024. In 2026, the biggest CRM in the world is allocating $300M to inference costs.\n\nSo if you're building on someone else's API and you haven't modeled what your token spend looks like in 12 months, you're flying blind.\n\nWhat's your token budget look like in 12 months?"
+      ],
+      "threads": [
+        "Cursor dropped Composer 2.5 yesterday. Same pretrain base. Scaled significantly on RL. Doubled usage limits for a week. Elon said it's partially trained on Colossus 2. The companies shipping executable tools today are the ones defining the infrastructure tomorrow. So the question isn't \"should I care about model training?\" The question is \"what layer am I building on and who owns it?\"",
+        "Zenlytic just shipped an AI data analyst that onboards itself. Connects to your data warehouse. Builds the semantic layer in the background. Produces trusted answers with citations. No data engineering work. They claim 59 minutes from data to decisions. The agent that onboards itself is the wedge that kills the 6-month enterprise sales cycle. Would someone pay to skip six months of setup? I think someone would pay to skip six months of setup.",
+        "Salesforce is spending $300 million on Anthropic tokens in 2026. Marc Benioff said it on All-In. Most of it's for coding and software development. Meanwhile, Cursor doubled usage limits. GitHub shipped Spaces API to GA. Google open-sourced Gemma 4. The AI subsidy era is over. If you're building on someone else's API and you haven't modeled what your token spend looks like in 12 months, you're flying blind."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-05-19",
+    "source": "Startup Ideas Podcast",
+    "title": "9 biggest startup ideas right now (AI, B2C, mobile etc)",
+    "url": "https://www.youtube.com/watch?v=IFLY6L3YPGo",
+    "video_id": "IFLY6L3YPGo"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-05-19",
+    "source": "AI Daily Brief",
+    "title": "What Google Needs to Do at I/O This Week",
+    "url": "https://www.youtube.com/watch?v=8uCkUyRFUqY",
+    "video_id": "8uCkUyRFUqY"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-05-19",
+    "source": "The Entrepreneur's Studio",
+    "title": "The Craft of Connection: How Logan House Coffee Built a Customer-First Business | Andre Janusz",
+    "url": "https://www.youtube.com/watch?v=nFCEX40MDsg",
+    "video_id": "nFCEX40MDsg"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-19",
+    "topic": "model_releases",
+    "title": "Cursor AI releases Composer 2.5 as its most powerful model to date, improving intelligence and long-running task performance on the same pretrain base as prior versions. \u00b7 Digg",
+    "url": "https://digg.com/ai/8eee35ea-eb73-4291-b803-e7ed89df3fba",
+    "snippet": "# Cursor AI releases Composer 2.5 as its most powerful model to date, improving intelligence and long-running task performance on the same pretrain base as prior versions. \u00b7 Digg\n[...]\nCursor AI has released its most powerful model, Composer 2.5, which improves intelligence and long-running task performance on the same pretrain base as previous versions. The model is now being used at a higher lev"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-19",
+    "topic": "model_releases",
+    "title": "Google Gemma 4 Released as Open Source, Rivaling Top Models with 31B Parameters - xix.ai",
+    "url": "https://xix.ai/ainews/google-gemma-4-released-as-open-source-rivaling-top-models-with-31b-parameters.html",
+    "snippet": "Google Gemma 4 Released as Open Source, Rivaling Top Models with 31B Parameters - xix.ai\n[...]\nGoogle Gemma 4 Released as Open Source, Rivaling Top Models with 31B Parameters\n[...]\n### Complete Lineup: Four\n[...]\nGemma4 launches with four distinct models to cover all scenarios:\n[...]\n31B Dense (Flagship): Features 31 billion fully activated parameters and supports an ultra-long 256K context. It ra"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-19",
+    "topic": "model_releases",
+    "title": "Copilot Spaces API now generally available - GitHub Changelog",
+    "url": "https://github.blog/changelog/2026-05-18-copilot-spaces-api-now-generally-available/",
+    "snippet": "Copilot Spaces API now generally available - GitHub Changelog\n[...]\n## Copilot Spaces API is now generally available\n[...]\nThe GitHub Copilot Spaces API is now generally available. You can programmatically create, read, update, and delete Spaces directly from your own applications, reducing manual overhead for teams managing context at scale.\n[...]\n### May.18 Release\n[...]\nCopilot cloud agent: Fas"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-19",
+    "topic": "model_releases",
+    "title": "Meituan Unveils LongCat-Next AI Model with Unified Vision and Speech Architecture - xix.ai",
+    "url": "https://xix.ai/ainews/meituan-unveils-longcatnext-ai-model-with-unified-vision-and-speech-architecture.html",
+    "snippet": "Meituan Unveils LongCat-Next AI Model with Unified Vision and Speech Architecture - xix.ai\n[...]\nMeituan Unveils LongCat-Next AI Model with Unified Vision and Speech Architecture"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-19",
+    "topic": "product_releases",
+    "title": "Inference Room ships Tack, pledges at least one AI Agent product every month",
+    "url": "https://www.prnewswire.com/news-releases/inference-room-ships-tack-pledges-at-least-one-ai-agent-product-every-month-302775013.html",
+    "snippet": "Inference Room ships Tack, pledges at least one AI Agent product every month\n[...]\nTack, an Agent-native storage and memory layer, is Inference Room's first product\n[...]\nLONDON and SINGAPORE, May 18, 2026 /PRNewswire/ -- Inference Room launched last week as a launchpad for AI Agents and AI Agent infrastructure. Its first resident, Tack, shipped the same day: a storage and memory layer built for s"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-19",
+    "topic": "product_releases",
+    "title": "Zenlytic Launches Zo\u00eb Self-Learning: The AI Data Analyst That Onboards Itself",
+    "url": "https://www.prweb.com/releases/zenlytic-launches-zoe-self-learning-the-ai-data-analyst-that-onboards-itself-302773223.html",
+    "snippet": "Zenlytic Launches Zo\u00eb Self-Learning: The AI Data Analyst That Onboards Itself Accessibility Statement Skip Navigation\n[...]\nNEW YORK, May 18, 2026 /PRNewswire-PRWeb/ -- Zenlytic, the AI data analyst trusted by some of the world's largest Enterprise companies, today announced the launch of Zo\u00eb Self-Learning, a new capability that lets its AI analytics agent onboard itself onto a company's data in m"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-19",
+    "topic": "product_releases",
+    "title": "YouGov AI Agent: Conversational data exploration across every YouGov dataset",
+    "url": "https://yougov.com/articles/54795-yougov-ai-agent-conversational-data-exploration-across-every-yougov-dataset",
+    "snippet": "YouGov AI Agent: Conversational data exploration across every YouGov dataset\n[...]\n- YouGov AI Agent has expanded across the entire Crunch platform, allowing users to explore all YouGov datasets through simple, natural language conversations instead of traditional data analysis methods\n- The tool provides instant, validated answers from multiple YouGov data sources including Surveys, Custom Resear"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-19",
+    "topic": "product_releases",
+    "title": "SAS expands SAS Viya with governed AI assistants and agentic AI capabilities",
+    "url": "https://www.zawya.com/en/press-release/companies-news/sas-expands-sas-viya-with-governed-ai-assistants-and-agentic-ai-capabilities-vtv1gxfk",
+    "snippet": "SAS expands SAS Viya with governed AI assistants and agentic AI capabilities\n[...]\nDubai, UAE \u2013 SAS, a global leader in data and AI, today announced expansions to SAS\u00ae Viya\u00ae that advance the platform\u2019s agentic AI features, introducing new AI assistants, agent infrastructure and acceleration tools. Together, these updates build on SAS Viya\u2019s existing AI foundation, helping organizations move from i"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-19",
+    "topic": "x_posts",
+    "title": "Elon Musk Calls Grok Agent Mode 'Major Ability Unlock' After 4+ Minute Video Demo on May 19 | Gate News",
+    "url": "https://www.gate.com/news/detail/elon-musk-calls-grok-agent-mode-major-ability-unlock-after-4-minute-video-21195685",
+    "snippet": "Elon Musk Calls Grok Agent Mode 'Major Ability Unlock' After 4+ Minute Video Demo on May 19 | Gate News\n\nElon Musk Calls Grok Agent Mode 'Major Ability Unlock' After 4+ Minute Video Demo on May 19\n[...]\n# Elon Musk Calls Grok Agent Mode 'Major Ability Unlock' After 4+ Minute Video Demo on May 19\n[...]\nAccording to BlockBeats, on May 19, Elon Musk commented on a user's post calling Grok Agent mode "
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-19",
+    "topic": "x_posts",
+    "title": "Salesforce to spend $300 million on Anthropic tokens in 2026: CEO Marc Benioff - The Economic Times",
+    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/salesforce-to-spend-300-million-on-anthropic-tokens-in-2026-ceo-marc-benioff/articleshow/131171528.cms",
+    "snippet": "Salesforce CEO Marc Benioff revealed the company anticipates spending nearly $300 million on Anthropic tokens by 2026, primarily for AI-powered software development and coding assistance. Benioff emphasised that AI tools enhance engineer productivity and efficiency, rather than replacing them, as Salesforce continues to invest heavily in AI across its operations.\n[...]\nSalesforce CEO Marc Benioff "
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-19",
+    "topic": "x_posts",
+    "title": "Viktor, which is developing an AI agent that operates like a virtual coworker embedded inside Slack or Microsoft Teams, raised a $75M Series A led by Accel",
+    "url": "https://www.techmeme.com/260519/p20",
+    "snippet": "# Techmeme: Viktor, which is developing an AI agent that operates like a virtual coworker embedded inside Slack or Microsoft Teams, raised a $75M Series A led by Accel (Beatrice Nolan/Fortune)"
   }
 ]
