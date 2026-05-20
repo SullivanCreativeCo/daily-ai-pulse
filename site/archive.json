@@ -2530,5 +2530,143 @@
     "title": "Viktor, which is developing an AI agent that operates like a virtual coworker embedded inside Slack or Microsoft Teams, raised a $75M Series A led by Accel",
     "url": "https://www.techmeme.com/260519/p20",
     "snippet": "# Techmeme: Viktor, which is developing an AI agent that operates like a virtual coworker embedded inside Slack or Microsoft Teams, raised a $75M Series A led by Accel (Beatrice Nolan/Fortune)"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-05-20",
+    "headline": "Google just turned Gemini from a chatbot into a 24/7 personal agent that sends emails and manages your life while you sleep. Gemini Spark runs on 3.5 Flash, executes background tasks through Antigravity, and ships to US AI Ultra subscribers next week\u2014the clearest signal yet that the AI product war moved from \"answer questions\" to \"do my job.\"",
+    "url": "archive/2026-05-20.html",
+    "posts": {
+      "linkedin": [
+        "Google just shipped an AI agent that works while you sleep.\n\nGemini Spark runs 24/7 in the background. Sends emails. Books meetings. Manages tasks across Gmail, Docs, and Calendar.\n\nIt asks permission before doing anything high-stakes. You control when it's on. But when it's on, it's on all the time.\n\nUS AI Ultra subscribers get it next week.\n\nThis isn't a chatbot feature. It's a category shift.\n\nThe question used to be \"can AI help me draft an email?\"\n\nNow it's \"should AI send the email while I'm asleep?\"\n\nI don't know if that's the future you want. But I know it's the future Google's building.\n\nSo what does that change about the work you're doing right now?",
+        "Chris Koerner just profiled a guy who went from making pasta to running a $3,500/month software business.\n\nNo code. No technical background. Just wrapped existing scrapers in clean UIs and sold them to one niche.\n\nThat's the whole model.\n\nKoerner calls it API arbitrage. Pick a bundled platform like Apify or Clay. Pull out one feature. Build a dead-simple interface around it. Charge a markup.\n\nHe listed 12 ideas you could build this week:\n\nGoogle Maps scraper for dentists. Amazon review scraper for DTC sellers. Upwork talent finder. Niche Zillow.\n\nThe tools are cheap. The barrier to entry collapsed. The window won't stay open forever.\n\nSomeone's gonna ship these. Might as well be you.\n\nWhat niche are you already close enough to that you'd know what they need scraped?",
+        "Google Search just added a layer between users and your content.\n\nThey launched information agents at I/O yesterday. Persistent AI that runs 24/7, monitors topics, synthesizes updates from multiple sources, and surfaces insights before anyone clicks a link.\n\nIt's Google Alerts, except instead of email notifications you get agent-written analysis.\n\nSo if your content strategy is \"rank #1 and wait for traffic,\" you're optimizing for a world that ended yesterday.\n\nThe new question isn't \"how do I rank?\"\n\nIt's \"how do I make content agents want to cite me?\"\n\nI don't have the full answer yet. But I know the answer isn't \"write the same SEO blog posts and hope.\"\n\nWhat changes when the thing reading your content isn't a human with a search intent but an agent building a brief for someone who never searched at all?"
+      ],
+      "threads": [
+        "Google just gave 900 million people an AI agent that works while they sleep. Gemini Spark sends emails, books meetings, manages your calendar. You control when it's on. But when it's on, it's always on. US AI Ultra subscribers get it next week. The shift isn't \"AI helps me write.\" The shift is \"AI does it for me.\" What does that change about the work you're doing today?",
+        "A guy went from making pasta in his family's restaurant to running a $3,500/month software business. No code. No technical background. He just wrapped existing scrapers in clean UIs and sold them to one niche. Chris Koerner calls it API arbitrage. The tools are cheap. The barrier collapsed. Someone's gonna ship these ideas this week. Might as well be you.",
+        "Google Search just changed the game. They launched information agents that run 24/7, monitor topics, and synthesize content before anyone clicks. It's not about ranking #1 anymore. It's about making agents want to cite you. If your content strategy is \"write SEO blog posts and wait,\" you're solving last year's problem. The new question: What changes when the reader is an agent, not a human?"
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-05-20",
+    "source": "The Koerner Office",
+    "title": "Forget Big Apps. These Tiny Tools Are Making Millions",
+    "url": "https://www.youtube.com/watch?v=50iWtrj9Mkw",
+    "video_id": "50iWtrj9Mkw"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-05-20",
+    "source": "AI Daily Brief",
+    "title": "9 Codex Tips from the Codex Team",
+    "url": "https://www.youtube.com/watch?v=dB-Kbylgrdk",
+    "video_id": "dB-Kbylgrdk"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-20",
+    "topic": "model_releases",
+    "title": "Gemini 3.5: frontier intelligence with action",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+    "snippet": "# Gemini 3.5: frontier intelligence with action\n[...]\nGemini 3.5: frontier intelligence with action\n[...]\n# Gemini 3.5: frontier intelligence with action\n[...]\nToday, we\u2019re introducing Gemini 3.5, our latest family of models combining frontier intelligence with action. This represents a major leap forward in building more capable, intelligent agents. We\u2019re kicking off the series by releasing 3.5 F"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-20",
+    "topic": "model_releases",
+    "title": "Google unveils AI model Gemini 3.5 and AI agent Gemini Spark",
+    "url": "https://www.cnbc.com/2026/05/19/google-ai-ultra-gemini-spark-omni.html",
+    "snippet": "Google unveils AI model Gemini 3.5 and AI agent Gemini Spark\n[...]\n- Google is showcasing Gemini 3.5 Flash, a lighter-weight addition to its suite that offers cutting-edge capabilities.\n- The company announced a new world model called Omni.\n- Google is racing to keep up with OpenAI and Anthropic while also rolling out more services to its expansive user base.\n[...]\nGoogle is rolling out its latest"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-20",
+    "topic": "model_releases",
+    "title": "H2O.ai launches tabH2O foundation model for tabular data",
+    "url": "https://thenextweb.com/news/h2o-ai-launches-tabh2o-a-foundation-model-that-makes-predictions-from-tabular-data-without-any-training",
+    "snippet": "H2O.ai launches tabH2O foundation model for tabular data\n[...]\nH2O.ai has launched tabH2O, a foundation model for tabular data announced at Dell Technologies World 2026. The model uses in-context learning to deliver predictions from structured datasets via a single API call, eliminating traditional model training, feature engineering, and persistent data storage. It is pre-integrated into the Dell"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-20",
+    "topic": "model_releases",
+    "title": "NVIDIA AI Releases Nemotron-Labs-Diffusion: A Tri-Mode Language Model with 6\u00d7 Tokens Per Forward Over Qwen3-8B - MarkTechPost",
+    "url": "https://www.marktechpost.com/2026/05/20/nvidia-ai-releases-nemotron-labs-diffusion-a-tri-mode-language-model-with-6x-tokens-per-forward-over-qwen3-8b/",
+    "snippet": "NVIDIA AI Releases Nemotron-Labs-Diffusion: A Tri-Mode Language Model with 6\u00d7 Tokens Per Forward Over Qwen3-8B - MarkTechPost\n[...]\nHome Editors Pick Agentic AI NVIDIA AI Releases Nemotron-Labs-Diffusion: A Tri-Mode Language Model with 6\u00d7 Tokens Per...\n[...]\nNVIDIA researchers have released Nemotron-Labs-Diffusion, a language model family that unifies three decoding modes in one architecture. The "
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-20",
+    "topic": "model_releases",
+    "title": "Everything Google announced at I/O 2026: Biggest upgrade to Search in 25 years, new Gemini 3.5 Flash and Gemini Omni AI model, redesigned Gemini app, and more",
+    "url": "https://timesofindia.indiatimes.com/technology/tech-news/everything-google-announced-at-i/o-2026-biggest-upgrade-to-search-in-25-years-new-gemini-3-5-flash-and-gemini-omni-ai-model-redesigned-gemini-app-and-more/articleshow/131217138.cms",
+    "snippet": "Everything Google announced at I/O 2026: Biggest upgrade to Search in 25 years, new Gemini 3.5 Flash and Gemini Omni AI model, redesigned Gemini app, and more\n[...]\n- Everything Google announced at I/O 2026: Biggest upgrade to Search in 25 years, new Gemini 3.5 Flash and Gemini Omni AI model, redesigned Gemini app, and more\n[...]\n# Everything Google announced at I/O 2026: Biggest upgrade to Search"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-20",
+    "topic": "product_releases",
+    "title": "Google's Redesigned Gemini Comes With A New Interface And AI Models",
+    "url": "https://www.engadget.com/2176568/google-redesigned-gemini-comes-with-a-new-interface-and-ai-models/",
+    "snippet": "Google's Redesigned Gemini Comes With A New Interface And AI Models\n[...]\n# Google's redesigned Gemini comes with a new interface and AI models\n[...]\nThe company is rolling out the redesigned chatbot on Android and iOS today.\n[...]\nGoogle has announced several updates for the Gemini app at its I/O annual developer conference, including a design language called \"Neural Expressive\" that gives it a r"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-20",
+    "topic": "product_releases",
+    "title": "Google launches Antigravity 2.0 with an updated desktop app and CLI tool at IO 2026",
+    "url": "https://tech.yahoo.com/ai/gemini/articles/google-launches-antigravity-2-0-174500529.html",
+    "snippet": "Google launches Antigravity 2.0 with an updated desktop app and CLI tool at IO 2026\n[...]\nAt Google IO 2026, the company unveiled a new version of its agentic coding app, Google Antigravity 2.0, with an updated desktop app, a CLI tool, and an SDK for custom workflows. The company launched its Antigravity tool last year as a response to agentic coding software such as Cursor.\n[...]\nThe company said"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-20",
+    "topic": "product_releases",
+    "title": "Google announces slew of AI advances, including a personal AI assistant coming soon - ABC News",
+    "url": "https://abcnews.com/Technology/wireStory/google-announces-slew-ai-advances-including-personal-ai-133124366",
+    "snippet": "Google announces slew of AI advances, including a personal AI assistant coming soon - ABC News\n[...]\n# Google announces slew of AI advances, including a personal AI assistant coming soon\n[...]\nGoogle is introducing a range of new AI tools, including an AI assistant called Gemini Spark, which proactively performs tasks for users\n[...]\nGoogle will soon unleash a wealth of new artificial intelligence"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-20",
+    "topic": "product_releases",
+    "title": "Google's Gemini Spark agent launches in major app overhaul",
+    "url": "https://www.resultsense.com/news/2026-05-20-gemini-spark-app-evolution/",
+    "snippet": "Google's Gemini Spark agent launches in major app overhaul\n[...]\n# Google launches Gemini Spark 24/7 agent in major Gemini app overhaul\n[...]\n- The Gemini app, now used by more than 900 million people each month, is being redesigned with a new \u201cNeural Expressive\u201d interface, Gemini 3.5 Flash, a video model called Gemini Omni and two new agents.\n- Gemini Spark \u2014 a 24/7 cloud-based agent built on Gem"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-20",
+    "topic": "x_posts",
+    "title": "Google just gave Workspace a 24/7 AI agent that sends emails and books meetings while you sleep - Digital Trends",
+    "url": "https://www.digitaltrends.com/computing/google-just-gave-workspace-a-24-7-ai-agent-that-sends-emails-and-books-meetings-while-you-sleep/",
+    "snippet": "Google just gave Workspace a 24/7 AI agent that sends emails and books meetings while you sleep - Digital Trends Skip to main content\n[...]\nAt the I/O 2026, Google announced several AI-powered updates for its Workspace apps. The main highlight of the announcement is Gemini Spark, a 24/7 personal AI agent that doesn\u2019t just answer questions but takes actions on your behalf.\n[...]\nIt can send emails,"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-20",
+    "topic": "x_posts",
+    "title": "The Gemini app becomes more agentic, delivering proactive, 24/7 help",
+    "url": "https://blog.google/innovation-and-ai/products/gemini-app/next-evolution-gemini-app/",
+    "snippet": "The Gemini app becomes more agentic, delivering proactive, 24/7 help\n[...]\n# The Gemini app becomes more agentic, delivering proactive, 24/7 help\n[...]\nGemini is becoming a more helpful AI assistant, with an intuitive new UI, proactive daily briefs and Gemini Spark, an agent to help you get things done around the clock.\n[...]\nIt\u2019s been a banner year for the Gemini app. Last year at Google I/O, Gem"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-20",
+    "topic": "x_posts",
+    "title": "How to use Google\u2019s new AI agents to go beyond your standard searches | TechCrunch",
+    "url": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/",
+    "snippet": "How to use Google\u2019s new AI agents to go beyond your standard searches | TechCrunch\n[...]\n# How to use Google\u2019s new AI agents to go beyond your standard searches\n[...]\nAt the Google I/O 2026 keynote, the tech giant revealed new agentic capabilities in Search, where users can create, customize, and manage multiple AI agents to stay updated on topics of interest. The announcement is part of Google\u2019s "
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-20",
+    "topic": "x_posts",
+    "title": "Google unveils 'internet\u2019s next stage': Gemini AI agents that do everything for you",
+    "url": "https://www.ynetnews.com/tech-and-digital/article/syuwzlj1ze",
+    "snippet": "Google unveils 'internet\u2019s next stage': Gemini AI agents that do everything for you\n[...]\n# Google unveils 'internet\u2019s next stage': Gemini AI agents that do everything for you\n[...]\n## At Google I/O 2026, company unveils AI Search Box, Gemini Omni, Samsung-powered smart glasses and a unified shopping cart meant to track deals, compare products and buy for users\n[...]\nGoogle is continuing its all-o"
   }
 ]
