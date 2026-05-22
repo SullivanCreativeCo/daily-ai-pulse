@@ -2928,5 +2928,55 @@
     "title": "Viral Alert | Bengaluru Techie Builds \u2018I Got Fired\u2019 Button, Sparks Massive Online Buzz | Asianet Newsable",
     "url": "https://newsable.asianetnews.com/karnataka-news/viral-alert-bengaluru-techie-builds-i-got-fired-button-sparks-massive-online-buzz-articleshow-gnew87x",
     "snippet": "## A Bengaluru software programmer has gone viral for creating a satirical AI-powered \"I GOT FIRED\" button. Presented as dark workplace humor amidst rising AI layoff fears, the button hypothetically leaks company code, deletes databases, and notifies his lawyer with one click, sparking a mix of amusement and concern online.\n[...]\nA software programmer from Bengaluru has gained notoriety online aft"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-05-22",
+    "headline": "Small models doing real agentic work is no longer a research promise. Between Microsoft's MagenticLite and Alibaba's Qwen3.7 dropping in the same week, the \"you need a frontier model for that\" defense is running out of room. The cost and compute arguments against deploying AI agents inside real businesses are getting harder to hold.",
+    "url": "archive/2026-05-22.html",
+    "posts": {
+      "linkedin": [
+        "The \"you need a big model for that\" excuse just got a lot harder to make.\n\nMicrosoft shipped MagenticLite this week. An agent framework built specifically for small language models.\n\nTheir Fara1.5 model is 9 billion parameters. It handles browser tasks, file navigation, form filling. And it nearly doubles the web navigation performance of the model before it.\n\nThat's not a proof of concept. That's a working agentic stack that runs at a fraction of frontier compute costs.\n\nHere's why this matters in practice: a lot of businesses have been sitting on AI agent ideas because the API costs felt like a variable they couldn't control. If capable agents can run on small models, that math changes.\n\nThe question becomes less \"can we afford to run this\" and more \"what do we want to hand off first.\"\n\nWhat's the most repetitive task in your workflow right now that a small model could probably handle?",
+        "A million-token context window changes what \"one model\" actually means.\n\nQwen3.7 dropped at Alibaba's Cloud Summit this week. Reasoning built in. 1M tokens of context. Single model.\n\nFor reference: a million tokens is roughly 750,000 words. Your entire company's documentation. Your whole codebase. A year of email threads. In one shot.\n\nWhat changes? You stop architecting workarounds for memory limits. The retrieval layer gets a lot simpler when the model can just hold the whole thing.\n\nThe interesting tell: two preview versions showed up quietly on an AI leaderboard before any official announcement. The community found it before the press release did.\n\nThat's the current pace. Models are shipping before the marketing catches up.\n\nThe question worth sitting with: if context stopped being the constraint, what would you actually try?",
+        "Meta built an app that makes your Facebook groups searchable by a chatbot.\n\nIt's called Forum. iOS. You browse groups, post to them, ask questions, and a chatbot pulls answers from group content.\n\nOn the surface: another Meta product trying to make Facebook feel relevant again.\n\nUnder the surface: this is what happens when AI gets an interface into community-generated knowledge. The post someone made in a niche group three years ago becomes a retrievable answer. The forum thread nobody remembers writing is now an AI source.\n\nCommunities have been creating knowledge for years with no real way to surface it. That's the problem this mechanic solves, if they can pull it off.\n\nWorth noticing: every comment you've left in a Facebook group is now a potential answer source for someone else's question. That content didn't go anywhere. It just got a new job.\n\nWhat communities are you part of that are sitting on more useful knowledge than people realize?"
+      ],
+      "threads": [
+        "Microsoft shipped an agent framework this week that runs on a 9B parameter model. Browser tasks, file navigation, form filling. On real hardware, not just in a cloud demo.\n\nNearly double the web navigation performance of its predecessor.\n\nIf capable agents can run on small models, the cost objection to deploying AI agents starts falling apart. The math just changed.",
+        "Qwen3.7 landed this week with a 1M token context window and reasoning baked in. Single model.\n\nThat's enough context to hold your entire business documentation in one shot.\n\nTwo preview versions showed up on a leaderboard before Alibaba even announced it. The community found it first.\n\nThat's the pace right now. If you blink, you miss a model drop.",
+        "Meta launched Forum. An app where you ask a chatbot questions sourced from your Facebook groups.\n\nThe communities you've been part of for years just became a searchable knowledge base.\n\nEvery comment you left thinking it was just a comment is now a potential answer source for someone else. That content didn't disappear. It just got a new job."
+      ]
+    }
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-22",
+    "topic": "model_releases",
+    "title": "Qwen introduces Qwen3.7: A reasoning agent model with a 1M token context window - AI-trends.today",
+    "url": "https://ai-trends.today/qwen-introduces-qwen3-7-max-a-reasoning-agent-model-with-a-1m-token-context-window/",
+    "snippet": "Qwen introduces Qwen3.7: A reasoning agent model with a 1M token context window - AI-trends.today\n[...]\n- Qwen introduces Qwen3.7: A reasoning agent model with a 1M token context window\n- How CopilotKit Is Redefining the Agentic AI Stack in 2026\n- Can OpenAI\u2019s \u2018Master of Disaster\u2019 Fix AI\u2019s Reputation Crisis?\n- Google Search is Changing, AI Is Being Blasted by Graduating Students, Meta in Crisis\n- "
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-22",
+    "topic": "product_releases",
+    "title": "Meta\u2019s new app, Forum, is focused on Facebook groups. | The Verge",
+    "url": "https://www.theverge.com/tech/935868/meta-facebook-app-forum-groups",
+    "snippet": "Meta\u2019s new app, Forum, is focused on Facebook groups. | The Verge\n[...]\nMeta\u2019s new app, Forum, is focused on Facebook groups.\n[...]\nThe app, available on iOS, lets you browse groups that you\u2019re a part of, make posts to groups, and ask questions to a chatbot to get information sourced from groups. Saw this one thanks to Matt Navarra.\n[...]\nScreenshots from the App Store listing for Forum. Image: Me"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-22",
+    "topic": "product_releases",
+    "title": "Kore.ai Launches Artemis, the New Generation of the Kore.ai Agent Platform for Building, Governing, and Optimizing Enterprise AI | Morningstar",
+    "url": "https://www.morningstar.com/news/business-wire/20260521284219/koreai-launches-artemis-the-new-generation-of-the-koreai-agent-platform-for-building-governing-and-optimizing-enterprise-ai",
+    "snippet": "Kore.ai Launches Artemis, the New Generation of the Kore.ai Agent Platform for Building, Governing, and Optimizing Enterprise AI | Morningstar\n[...]\nKore.ai Launches Artemis, the New Generation of the Kore.ai Agent Platform for Building, Governing, and Optimizing Enterprise AI\n[...]\nKore.ai, the global leader in agentic platforms and applications, today launched the new-generation Kore.ai Agent Pl"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-22",
+    "topic": "x_posts",
+    "title": "Microsoft AI Frontiers releases MagenticLite agent framework for small language models with Fara1.5 9B model nearly doubling web navigation performance \u00b7 Digg",
+    "url": "https://digg.com/ai/i6pkafxj",
+    "snippet": "Microsoft AI Frontiers releases MagenticLite agent framework for small language models with Fara1.5 9B model nearly doubling web navigation performance \u00b7 Digg\n[...]\n# Microsoft AI Frontiers releases MagenticLite agent framework for small language models with Fara1.5 9B model nearly doubling web navigation performance\n[...]\nFramework adds MagenticBrain 14B orchestrator and supports GUI plus file ta"
   }
 ]
