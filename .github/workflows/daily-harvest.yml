@@ -1,7 +1,8 @@
 name: Daily AI Pulse Harvest
+# Daily run moved to local Mac via launchd (co.sullivancreative.daily-ai-pulse)
+# so synthesis bills against the Claude Code subscription instead of API credits.
+# Kept as workflow_dispatch only for emergency manual runs (still uses ANTHROPIC_API_KEY secret).
 on:
-  schedule:
-    - cron: '0 13 * * *'
   workflow_dispatch:
 
 permissions:
