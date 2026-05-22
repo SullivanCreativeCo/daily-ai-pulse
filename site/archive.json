@@ -2806,5 +2806,127 @@
     "title": "If Google can\u2019t\u00a0make AI agents useful, maybe no one can | The Verge",
     "url": "https://www.theverge.com/ai-artificial-intelligence/934478/if-google-cant-make-ai-agents-useful-maybe-no-one-can",
     "snippet": "If Google can\u2019t make AI agents useful, maybe no one can | The Verge\n[...]\n# If Google can\u2019t make AI agents useful, maybe no one can\n[...]\nGoogle has been working on agentic AI for years. Building on the viral success of OpenClaw could finally tip the scales.\n[...]\n# If Google can\u2019t make AI agents useful, maybe no one can\n[...]\nGoogle has been working on agentic AI for years. Building on the viral "
+  },
+  {
+    "kind": "digest",
+    "date": "2026-05-22",
+    "headline": "Synthesis hit an error today. Raw inputs saved to archive.json. Error: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CbHsAav4NFduLf5f2NhYN'}",
+    "url": "archive/2026-05-22.html",
+    "posts": {
+      "linkedin": [],
+      "threads": []
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-05-22",
+    "source": "The Koerner Office",
+    "title": "The Laziest AI Side Hustle Just Got Even Easier",
+    "url": "https://www.youtube.com/watch?v=utOHNPN0IlQ",
+    "video_id": "utOHNPN0IlQ"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-05-22",
+    "source": "AI Daily Brief",
+    "title": "Anthropic Just Reset AI Expectations",
+    "url": "https://www.youtube.com/watch?v=9N3jEavj5Ps",
+    "video_id": "9N3jEavj5Ps"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-22",
+    "topic": "model_releases",
+    "title": "Alibaba's proprietary Qwen3.7-Max can run for 35 hours autonomously and supports external harnesses like Anthropic's Claude Code | VentureBeat",
+    "url": "https://venturebeat.com/technology/alibabas-proprietary-qwen3-7-max-can-run-for-35-hours-autonomously-and-supports-external-harnesses-like-anthropics-claude-code",
+    "snippet": "Alibaba's proprietary Qwen3.7-Max can run for 35 hours autonomously and supports external harnesses like Anthropic's Claude Code | VentureBeat\n[...]\nThus, it's perhaps unsurprising to see Chinese e-commerce giant Alibaba's famed Qwen Team of AI researchers release a model capable of performing autonomous agentic AI work over multiple days: that model has arrived in the form of Qwen3.7-Max which th"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-22",
+    "topic": "model_releases",
+    "title": "Cohere Releases Command A+: A 218B Sparse MoE Model for Agentic Workflows That Runs on as Few as Two H100 GPUs - MarkTechPost",
+    "url": "https://www.marktechpost.com/2026/05/21/cohere-releases-command-a-a-218b-sparse-moe-model-for-agentic-workflows-that-runs-on-as-few-as-two-h100-gpus/",
+    "snippet": "# Cohere Releases Command A+: A 218B Sparse MoE Model for Agentic Workflows That Runs on as Few as Two H100 GPUs - MarkTechPost\n[...]\nCohere Releases Command A+: A 218B Sparse MoE Model for Agentic Workflows That Runs on as Few as Two H100 GPUs - MarkTechPost\n[...]\nHome Editors Pick Agentic AI Cohere Releases Command A+: A 218B Sparse MoE Model for Agentic Workflows...\n[...]\nCohere just released C"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-22",
+    "topic": "model_releases",
+    "title": "Google Pushes Gemini Beyond Chatbots With 3.5 Flash and Spark - buzzbytech.com",
+    "url": "https://buzzbytech.com/google-pushes-gemini-beyond-chatbots-with-3-5-flash-and-spark/",
+    "snippet": "Google Pushes Gemini Beyond Chatbots With 3.5 Flash and Spark - buzzbytech.com\n[...]\nAI is not just getting smarter and faster, it is also getting far more autonomous. With the new Gemini 3.5 Flash, Google has introduced a high-speed execution engine for real-world tasks. It works as an active problem solver with the ability to think quickly and act efficiently.\n[...]\nAccording to Google, Gemini 3"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-22",
+    "topic": "model_releases",
+    "title": "Cohere Releases Command A+: An Open-Source Enterprise AI Model Built for Sovereign Critical Infrastructure",
+    "url": "https://cioinfluence.com/security/cohere-releases-command-a-an-open-source-enterprise-ai-model-built-for-sovereign-critical-infrastructure/",
+    "snippet": "Cohere Releases Command A+: An Open-Source Enterprise AI Model Built for Sovereign Critical Infrastructure\n[...]\n- Cohere Releases Command A+: An Open-Source Enterprise AI Model Built for Sovereign Critical Infrastructure\n[...]\n#### Delivers advanced reasoning with a minimal compute footprint, multimodal, multilingual across 48 languages, and ensures full data sovereignty for governments and regul"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-22",
+    "topic": "product_releases",
+    "title": "Create, Control, and Personalize Your Listening Across Every Moment \u2014 Spotify",
+    "url": "https://newsroom.spotify.com/2026-05-21/studio-by-spotify-labs-launch/",
+    "snippet": "Spotify has always been about helping you find something you want to listen to. And over the years, we\u2019ve learned your taste and the moments that matter to you. Now, we\u2019re taking another step to help you create, control, and personalize your experience in new ways.\n[...]\nIntroducing Studio by Spotify Labs, a standalone desktop app designed to create audio shaped around you.\n[...]\nStudio by Spotify"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-22",
+    "topic": "product_releases",
+    "title": "Runway News | Introducing Aleph 2.0 and Edit Studio",
+    "url": "https://runwayml.com/news/introducing-aleph-2-and-edit-studio",
+    "snippet": "Runway News | Introducing Aleph 2.0 and Edit Studio\n[...]\nIntroducing Aleph 2.0 \u2014 our upgraded video editing model. Get 50% off Pro when you use code RUNWAY50. Terms.\n[...]\nIntroducing Aleph 2.0 and Edit Studio\n[...]\nMay 21, 2026\n[...]\nAleph 2.0 is an upgrade to Runway's flagship video editing model, launching alongside Edit Studio\u2014a new product experience designed to close the gap between the vid"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-22",
+    "topic": "product_releases",
+    "title": "Meta Forum App for iPhone Explained: AI Search for Facebook Groups",
+    "url": "https://apple.gadgethacks.com/news/meta-forum-app-for-iphone-explained-ai-search-for-facebook-groups/",
+    "snippet": "Meta's Forum app appeared on the App Store today without a press release, an announcement, or much warning. The free iPhone app pulls Facebook Groups out of the main Facebook experience and rebuilds the interface around community discussion and AI-assisted search. Meta confirmed it is in public testing when outlets reached out, News9live reported.\n[...]\napp for iPhone is currently iOS-only. Digita"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-22",
+    "topic": "product_releases",
+    "title": "Bugcrowd launches Reinforcement Learning environments to help AI models learn real-world security skills",
+    "url": "https://www.prnewswire.com/news-releases/bugcrowd-launches-reinforcement-learning-environments-to-help-ai-models-learn-real-world-security-skills-302778829.html",
+    "snippet": "Bugcrowd launches Reinforcement Learning environments to help AI models learn real-world security skills Accessibility Statement Skip Navigation\n[...]\nFrontier AI teams can start training on real security environments in weeks, not years\n[...]\nSAN FRANCISCO, May 21, 2026 /PRNewswire/ -- Bugcrowd, the leader in preemptive cybersecurity, today announced the launch of Reinforcement Learning (RL) Envi"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-22",
+    "topic": "x_posts",
+    "title": "Sam Altman wants to 'increase efforts on developing personal AGI' amid corporate goals - Technology News | The Financial Express",
+    "url": "https://www.financialexpress.com/life/technology-sam-altman-wants-to-increase-efforts-on-developing-personal-agi-amid-corporate-goals-4247124/lite/",
+    "snippet": "Sam Altman wants to 'increase efforts on developing personal AGI' amid corporate goals - Technology News | The Financial Express\n[...]\n# Sam Altman wants to \u2018increase efforts on developing personal AGI\u2019 amid corporate goals\n[...]\n## Altman says that personal AGI should be accelerating everyone in achieving their goals, and that OpenAI now needs to increase its efforts to make it happen.\n[...]\nAltm"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-22",
+    "topic": "x_posts",
+    "title": "Bernie Sanders Warns of Job Losses as Meta Cuts 8,000 and Shifts 7,000+ to AI Roles - CRBC News",
+    "url": "https://www.crbcnews.com/articles/6a0e4033854590c90e47f265",
+    "snippet": "Bernie Sanders\n[...]\nMeta Cuts 8,\n[...]\nand Shifts\n[...]\n00+ to AI Roles\n[...]\nSen. Bernie Sanders criticized Meta after CEO Mark Zuckerberg announced the company cut 8,000 jobs and will shift more than 7,000 employees into AI-focused roles. Sanders tweeted that Meta is \"firing thousands of workers to replace them with AI\" and urged affected employees to share their stories with his Senate HELP Co"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-22",
+    "topic": "x_posts",
+    "title": "Google unveils Managed Agents API for simplified AI deployment at I/O 2026",
+    "url": "https://cryptobriefing.com/google-managed-agents-api-io-2026/",
+    "snippet": "Google unveils Managed Agents API for simplified AI deployment at I/O 2026\n[...]\n# Google unveils Managed Agents API for simplified AI deployment at I/O 2026\n[...]\nThe new API lets developers deploy autonomous AI agents with a single call, trading granular control for radical simplicity.\n[...]\nGoogle just made building autonomous AI agents significantly easier. At its I/O 2026 developer conference"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-22",
+    "topic": "x_posts",
+    "title": "Viral Alert | Bengaluru Techie Builds \u2018I Got Fired\u2019 Button, Sparks Massive Online Buzz | Asianet Newsable",
+    "url": "https://newsable.asianetnews.com/karnataka-news/viral-alert-bengaluru-techie-builds-i-got-fired-button-sparks-massive-online-buzz-articleshow-gnew87x",
+    "snippet": "## A Bengaluru software programmer has gone viral for creating a satirical AI-powered \"I GOT FIRED\" button. Presented as dark workplace humor amidst rising AI layoff fears, the button hypothetically leaks company code, deletes databases, and notifies his lawyer with one click, sparking a mix of amusement and concern online.\n[...]\nA software programmer from Bengaluru has gained notoriety online aft"
   }
 ]
