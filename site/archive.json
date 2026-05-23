@@ -2978,5 +2978,135 @@
     "title": "Microsoft AI Frontiers releases MagenticLite agent framework for small language models with Fara1.5 9B model nearly doubling web navigation performance \u00b7 Digg",
     "url": "https://digg.com/ai/i6pkafxj",
     "snippet": "Microsoft AI Frontiers releases MagenticLite agent framework for small language models with Fara1.5 9B model nearly doubling web navigation performance \u00b7 Digg\n[...]\n# Microsoft AI Frontiers releases MagenticLite agent framework for small language models with Fara1.5 9B model nearly doubling web navigation performance\n[...]\nFramework adds MagenticBrain 14B orchestrator and supports GUI plus file ta"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-05-23",
+    "headline": "Polsia raised $30M at a $250M valuation with one founder, zero employees, and ~$10M ARR while Google simultaneously shipped managed agents that reduce agentic product building to a single API call. These two stories belong together: Polsia is the proof of concept, Google just shipped the factory.",
+    "url": "archive/2026-05-23.html",
+    "posts": {
+      "linkedin": [
+        "One founder. Zero employees. $30 million raised. $250 million valuation.\n\nPolsia ran its own fundraise through AI. Founder Ben Cera said he showed up for signatures. That's it. That's the whole story.\n\nI know the first reaction is \"that's extreme, that's an outlier.\"\n\nMaybe. But six months ago we were all calling one founder doing $1M ARR with AI help extreme. Now someone did ten times that with zero employees and the market priced it at $250 million.\n\nThe business ran itself while he slept. The AI handled investor outreach. He showed up to sign.\n\n\"What are you already doing for yourself that someone else would find useful?\" That's always been the right question. The friction to answer it is almost gone now.\n\nThe model exists. Someone built it and proved it works.\n\nWhat problem are you sitting on?",
+        "Google just removed a wall.\n\nManaged agents in the Gemini API. One API call. You write skills in markdown. The orchestration runs itself.\n\nNo framework debates. No debugging the handoff between agents. No infrastructure rabbit holes before you get to the actual thing you wanted to build.\n\nLogan Kilpatrick demoed it at Google I/O by building an AI radio show that called seven different models. He didn't write a single line of orchestration code. Just markdown.\n\nThe barrier between \"I want an agent that does X\" and \"here is an agent that reliably does X\" just got a lot thinner.\n\nSame harness that powers 900 million Gemini app users. Now accessible to any developer with an API key.\n\nYour ideas aren't bad ideas. They're just not finished ideas. The tools to finish them keep getting cheaper and less technical.\n\nWhat would you build if the hard part was already handled?",
+        "Jeremy Howard posted something worth actually reading this week.\n\nHe called out Gemini Flash 3.5 for being fast and impressive but trained to chase benchmark scores instead of follow instructions. It goes off and does things \"for\" you that you didn't ask for.\n\nHis words: \"The Claude models have consistently been better at this, and the market rewards that.\"\n\nThat's the model quality conversation most people skip over.\n\nBenchmark numbers are easy to publish. Actual helpfulness in a real workflow is hard to measure. And right now, some of the highest-scoring models are also the most frustrating to actually work with.\n\nIf you're evaluating AI tools for your business, the score that matters isn't on any leaderboard. It's: does this model do what I asked, or does it do what it decided I meant?\n\nThose are genuinely different things. One removes work. The other creates it."
+      ],
+      "threads": [
+        "DeepSeek v4 dropped this week. Largest open-source model ever. 1.6 trillion parameters. MIT license.\n\nAlmost nobody cared.\n\nFifteen months ago R1 broke the internet. Same team, bigger model, barely a ripple this time.\n\nThe bar for \"remarkable\" moved fast. That's not a knock on DeepSeek. It's just a reminder that what shocks the room in January is table stakes by May.",
+        "One founder. Zero employees. $30M raised at a $250M valuation. The AI ran the fundraise. He showed up for signatures.\n\nWe're all just figuring this out as we go. Some people are just running more experiments while they figure it out.\n\nPolsia's sitting at $10M annual run rate. That's not a concept. That's a blueprint.",
+        "Google AI Studio now builds native Android apps. Free. No code required.\n\nLogan Kilpatrick said the goal is to go \"from prompt to profitable company without ever seeing any code.\"\n\nA year ago that was a pitch deck line. This week it shipped.\n\nIf you've had an app idea sitting in a notes app somewhere, it's worth an afternoon."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-05-23",
+    "source": "Startup Ideas Podcast",
+    "title": "Google Gemini 3.5, Omni, and Managed Agents (Full Breakdown)",
+    "url": "https://www.youtube.com/watch?v=e5GMR2XdSjc",
+    "video_id": "e5GMR2XdSjc"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-23",
+    "topic": "model_releases",
+    "title": "Cohere releases its most powerful AI model as open source | BetaKit",
+    "url": "https://betakit.com/cohere-releases-its-most-powerful-ai-model-as-open-source/",
+    "snippet": "Cohere releases its most powerful AI model as open source | BetaKit\n[...]\nCanadian AI firm Cohere has unveiled a new AI model that\u2019s available to developers to use or modify as needed, for free.\n[...]\nThe news: On Wednesday, the enterprise-focused AI startup released its latest large language model: Command A+. The mixture-of-experts model, which splits up processing between sub-models or \u201cexperts"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-23",
+    "topic": "model_releases",
+    "title": "DeepSeek v4: the most expected open-source model ever released, and the quietest landing",
+    "url": "https://lambda.ai/blog/deepseek-v4-the-most-expected-open-source-model",
+    "snippet": "DeepSeek v4: the most expected open-source model ever released, and the quietest landing\n[...]\n# DeepSeek v4: the most expected open-source model ever released, and the quietest landing\n[...]\nAfter 15 months of incremental updates, leaks, and rumored leaks, DeepSeek released version 4. It arrived without the fanfare R1 and R1-preview commanded in early 2025.\n[...]\nThat quiet reception is the most "
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-23",
+    "topic": "model_releases",
+    "title": "Cohere Releases Command A+ as Open Source | Let's Data Science",
+    "url": "https://letsdatascience.com/news/cohere-releases-command-a-as-open-source-59ba98c7",
+    "snippet": "# Cohere Releases Command A+ as Open Source | Let's Data Science\n[...]\nCohere Releases Command A+ as Open Source | Let's Data Science\n[...]\nCohere Releases Command A+ as Open Source | Let's Data Science\n[...]\n# Cohere Releases Command A+ as Open Source\n[...]\nCohere released Command A+, an open-source, sparse mixture-of-experts language model, and published the model weights under the **Apache-2.0*"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-23",
+    "topic": "model_releases",
+    "title": "Tencent's L2P makes pixel-space image generation practical again - Startup Fortune",
+    "url": "https://startupfortune.com/tencents-l2p-makes-pixel-space-image-generation-practical-again/",
+    "snippet": "# Tencent's L2P makes pixel-space image generation practical again\n[...]\nAi/ Business| Tencent Youtu Lab and Nanjing University researchers are drawing fresh attention with L2P, a method that transfers latent diffusion models like Alibaba's Z-Image into pixel-space generation. The approach removes the VAE bottleneck while trying to keep training costs low, raising practical questions for AI builde"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-23",
+    "topic": "product_releases",
+    "title": "Kore.ai unveils AI-native platform for enterprise multiagent systems - Help Net Security",
+    "url": "https://www.helpnetsecurity.com/2026/05/22/kore-ai-unveils-ai-native-platform-for-enterprise-multiagent-systems/",
+    "snippet": "Kore.ai unveils AI-native platform for enterprise multiagent systems - Help Net Security\n[...]\n# Kore.ai unveils AI-native platform for enterprise multiagent systems\n[...]\nKore.ai has launched the new-generation Kore.ai Agent Platform Artemis edition, the AI-programmable, AI-native foundation that builds, governs, and optimizes the agents, systems, and workflows running across the enterprise. The "
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-23",
+    "topic": "product_releases",
+    "title": "Kore.ai launches Artemis AI platform on Microsoft Azure",
+    "url": "https://cmotech.news/story/kore-ai-launches-artemis-ai-platform-on-microsoft-azure",
+    "snippet": "Kore.ai launches Artemis AI platform on Microsoft Azure\n[...]\n# Kore.ai launches Artemis AI platform on Microsoft Azure\n[...]\nFri, 22nd May 2026 (Yesterday)\n[...]\nKore.ai has launched the Artemis edition of its Agent Platform, debuting initially on Microsoft Azure.\n[...]\nThe release targets enterprises building and managing AI agents, systems and workflows across large organisations. Kore.ai says "
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-23",
+    "topic": "product_releases",
+    "title": "X launches Creator Connect, an AI-powered matchmaking service for brands and creators",
+    "url": "https://cryptobriefing.com/x-creator-connect-xai-brand-matchmaking/",
+    "snippet": "X launches Creator Connect, an AI-powered matchmaking service for brands and creators\n[...]\n# X launches Creator Connect, an AI-powered matchmaking service for brands and creators\n[...]\nBuilt on xAI technology, the new managed service handles everything from creator discovery to content distribution as part of X's 'Year of the Creator' push.\n[...]\nMay. 22, 2026\n[...]\nX just rolled out Creator Conn"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-23",
+    "topic": "product_releases",
+    "title": "Pattern launches Pi AI engine for eCommerce brands",
+    "url": "https://e-commerce.news/story/pattern-launches-pi-ai-engine-for-ecommerce-brands",
+    "snippet": "Pattern launches Pi AI engine for eCommerce brands\n[...]\n# Pattern launches Pi AI engine for eCommerce brands\n[...]\nFri, 22nd May 2026 (Today)\n[...]\nPattern has launched Pattern Intelligence, or Pi, a new system designed to automate eCommerce tasks for its brand partners.\n[...]\nPattern describes Pi as an AI-driven execution engine that monitors featured offers, advertising, content, pricing and in"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-23",
+    "topic": "x_posts",
+    "title": "\u2018Humans using...\u2019: Musk's fresh dig at Anthropic\u2019s Mythos model in viral post - BusinessToday",
+    "url": "https://www.businesstoday.in/technology/news/story/humans-using-musks-fresh-dig-at-anthropics-mythos-model-in-viral-post-532882-2026-05-22",
+    "snippet": "\u2018Humans using...\u2019: Musk's fresh dig at Anthropic\u2019s Mythos model in viral post - BusinessToday\n[...]\n\u2018Humans using...\u2019: Musk's fresh dig at Anthropic\u2019s Mythos model in viral post\n[...]\n## The post quickly triggered reactions across social media, with many users interpreting it as Musk\u2019s latest jab at rival AI companies and the increasingly intense race to build powerful frontier models.\n[...]\nMusk\u2019"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-23",
+    "topic": "x_posts",
+    "title": "Jeremy Howard says Gemini Flash 3.5 maximizes benchmark performance over following instructions, causing unrelated actions, while Nataniel Ruiz notes its independent task completion \u00b7 Digg",
+    "url": "https://digg.com/ai/um3f6hkm",
+    "snippet": "Jeremy Howard says Gemini Flash 3.5 maximizes benchmark performance over following instructions, causing unrelated actions, while Nataniel Ruiz notes its independent task completion \u00b7 Digg\n[...]\n# Jeremy Howard says Gemini Flash 3.5 maximizes benchmark performance over following instructions, causing unrelated actions, while Nataniel Ruiz notes its independent task completion\n[...]\nExchange highli"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-23",
+    "topic": "x_posts",
+    "title": "Bengaluru techie builds \u2018I GOT FIRED\u2019 button: \u2018One click exposes company codebase\u2019",
+    "url": "https://deccanfounders.com/2026/22/news/ai-layoff-satire-fired-button-viral/",
+    "snippet": "Bengaluru techie builds \u2018I GOT FIRED\u2019 button: \u2018One click exposes company codebase\u2019\n[...]\nA Bengaluru software engineer has gone viral on X after posting a satirical \u201cI GOT FIRED\u201d button that he said could trigger chaos inside a company\u2019s systems with one click.\n[...]\nThe post was shared by Pankaj Tanwar, who described the device as a joke tied to growing anxiety over AI-driven layoffs in the tech "
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-23",
+    "topic": "x_posts",
+    "title": "Cartesia releases Sonic-3.5 text-to-speech model that takes first place on Artificial Analysis\u2019s Speech Arena leaderboard in both global and open-weights rankings \u00b7 Digg",
+    "url": "https://digg.com/ai/fv3cdktm",
+    "snippet": "# Cartesia releases Sonic-3.5 text-to-speech model that takes first place on Artificial Analysis\u2019s Speech Arena leaderboard in both global and open-weights rankings\n[...]\nIt follows the Sonic-1 launch from less than two years earlier.\n[...]\nWe dropped our latest TTS model - Sonic 3.5 today and it's #1 on @ArtificialAnlys's leaderboard Try it out and let us know what you think @cartesia @_albertgu "
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-23",
+    "topic": "x_posts",
+    "title": "Polsia, which operates businesses autonomously through AI, raised $30 million at a $250 million valuation while running with zero employees besides founder Ben Cera \u00b7 Digg",
+    "url": "https://digg.com/ai/n3ohbzzx",
+    "snippet": "Polsia, which operates businesses autonomously through AI, raised $30 million at a $250 million valuation while running with zero employees besides founder Ben Cera \u00b7 Digg\n[...]\n# Polsia, which operates businesses autonomously through AI, raised $30 million at a $250 million valuation while running with zero employees besides founder Ben Cera\n[...]\nPlatform nears $10 million annual run rate with o"
   }
 ]
