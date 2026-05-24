@@ -3108,5 +3108,135 @@
     "title": "Polsia, which operates businesses autonomously through AI, raised $30 million at a $250 million valuation while running with zero employees besides founder Ben Cera \u00b7 Digg",
     "url": "https://digg.com/ai/n3ohbzzx",
     "snippet": "Polsia, which operates businesses autonomously through AI, raised $30 million at a $250 million valuation while running with zero employees besides founder Ben Cera \u00b7 Digg\n[...]\n# Polsia, which operates businesses autonomously through AI, raised $30 million at a $250 million valuation while running with zero employees besides founder Ben Cera\n[...]\nPlatform nears $10 million annual run rate with o"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-05-24",
+    "headline": "Orchestration platforms are consolidating the AI market faster than model innovation. Salesforce embedded agents into every search bar. Kore.ai deployed governance before agents go live. Anthropic solved the firewall problem. The winners aren't building better models. They're building platforms that turn agents into operational systems.",
+    "url": "archive/2026-05-24.html",
+    "posts": {
+      "linkedin": [
+        "The move is simple.\n\nYour customers don't care about your model. They care about saving time.\n\nMarc Benioff put an AI agent in Salesforce search bar. That's not a feature drop. That's a moat. A user reported that questions taking 45 minutes of jumping between apps are now instant.\n\nThe interesting part? Salesforce didn't build a better LLM.\n\nThey just put the LLM where people already work.\n\nThat's the entire game now.\n\nModel quality has flattened. Gemini, Claude, GPT, Qwen all work. The difference between them is margins, not capability.\n\nThe winner is whoever embedded agents deepest into the workflows their customers can't live without.\n\nKore.ai is deploying agents in days with governance baked in. UiPath is connecting AI coding to their existing RPA customers. Anthropic solved the firewall problem so enterprises can actually run agents against internal systems.\n\nNone of these are model companies anymore.\n\nThey're workflow companies.\n\nIf you're building an AI product, stop asking \"how do I build a better model?\" Start asking \"where do my customers already spend time, and how do I live there?\"\n\nThat's where the defensibility is.",
+        "The companies winning with AI right now aren't the ones training models.\n\nRealmo launched an agent for commercial real estate. You type \"Show me undervalued industrial near logistics hubs in the Midwest\" and it gives you results.\n\nThey didn't build their own LLM.\n\nThey just know CRE better than anyone else.\n\nThat's the whole move.\n\nIn every vertical market, this is playing out the same way.\n\nLawyers aren't building their own AI. They're taking Claude or GPT and feeding it legal knowledge nobody else has.\n\nDoctors aren't building models. They're building on top of existing models with domain data.\n\nThe bottleneck isn't model capability anymore. Models are commodities. The bottleneck is domain expertise.\n\nHere's the question for you: what do you know that nobody else does?\n\nNot hypothetically. Actually.\n\nWhat would your customers pay for if you could give them instant answers using that knowledge?\n\nBecause that's the play now.\n\nYou don't need venture capital to train models. You need to know your market and be willing to act like it.",
+        "For 18 months, enterprise CISOs have been saying no to AI agents.\n\nNot because they don't want them.\n\nBut because data leakage is a $670K problem per breach (per IBM's report). Agents need access to internal systems. Internal systems should never touch the internet. There's no solution.\n\nAnthropic just solved it.\n\nSelf-hosted sandboxes. MCP tunnels. Claude agents can now run against internal systems without data leaving your firewall.\n\nThat's not a feature update.\n\nThat's a blocker removal.\n\nThe conversation inside enterprises shifts from \"Can we use agents?\" (no, firewall blocks it) to \"How fast can we deploy?\"\n\nThat's a different timeline.\n\nAnd different stakes.\n\nIf you're selling to enterprises, watch what happens over the next 90 days. Projects that got stuck in security review for months suddenly have a path forward.\n\nThat unlocks a lot of budgets that were sitting on tables waiting.\n\nThis is a procurement moment."
+      ],
+      "threads": [
+        "Most people ask \"what's the best AI model?\"\n\nWrong question.\n\nSalesforce asked \"where do my customers already work?\" and embedded an agent in the search bar.\n\nQuestions that took 45 minutes just disappeared.\n\nThe model doesn't matter if you're not living in the workflow.",
+        "You don't need to be OpenAI to win in AI.\n\nYou need to know your market deeper than anyone else.\n\nRealmo picked commercial real estate. Built an agent. Customers get instant answers to questions that used to take hours.\n\nThey're not model builders.\n\nThey're domain experts who figured out how to read their own brain better.\n\nWhat's your domain?",
+        "For a year and a half, CISOs said no to AI agents.\n\nData leak risk was too high.\n\nAnthropic shipped self-hosted sandboxes and tunnels.\n\nProblem solved.\n\nNow the blocker disappears.\n\nWatch how fast enterprise adoption changes when the reason to say no gets removed.\n\nThat's how markets move."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-05-24",
+    "source": "The Koerner Office",
+    "title": "The Side Hustle Anyone Can Do on Weekends",
+    "url": "https://www.youtube.com/watch?v=KjTHJ740fCY",
+    "video_id": "KjTHJ740fCY"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-05-24",
+    "source": "AI Daily Brief",
+    "title": "AI\u2019s New Acceleration Phase",
+    "url": "https://www.youtube.com/watch?v=q9t1XCnHcM0",
+    "video_id": "q9t1XCnHcM0"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-24",
+    "topic": "model_releases",
+    "title": "Google Launches Gemini Omni to Fill Gap Left by OpenAI's Sora, Expands AI Creation Tools",
+    "url": "https://www.ibtimes.sg/google-launches-gemini-omni-fill-gap-left-by-openais-sora-expands-ai-creation-tools-86829",
+    "snippet": "Google Launches Gemini Omni to Fill Gap Left by OpenAI's Sora, Expands AI Creation Tools\n[...]\n# Google Launches Gemini Omni to Fill Gap Left by OpenAI's Sora, Expands AI Creation Tools\n[...]\n## Google unveiled Gemini Omni, a create-anything AI model that generates and edits clips from mixed inputs, as demand grows after Sora's shutdown.\n[...]\nGoogle launched Gemini Omni, a multimodal AI model for"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-24",
+    "topic": "model_releases",
+    "title": "Alibaba's latest AI model ran autonomously for 35 hours to optimize code for its own custom chip",
+    "url": "https://the-decoder.com/alibabas-latest-ai-model-ran-autonomously-for-35-hours-to-optimize-code-for-its-own-custom-chip/",
+    "snippet": "- Alibaba's Qwen team has released Qwen3.7-Max, a new AI model built specifically for autonomous tasks, available exclusively through an API rather than a user-facing interface.\n[...]\n- The model is designed to handle complex software projects and work independently over extended periods. In practical benchmarks, it optimized code fully autonomously and outpaced many competing models in speed.\n[.."
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-24",
+    "topic": "model_releases",
+    "title": "Apertus: a fully open, transparent, multilingual language model - Switzerland",
+    "url": "https://www.europesays.com/ch/70932/",
+    "snippet": "In July, EPFL, ETH Zurich, and CSCS announced their joint initiative to build a large language model (LLM). Now, this model is available and serves as a building block for developers and organisations for future applications such as chatbots, translation systems, or educational tools.\n[...]\nThe model is named Apertus \u2013 Latin for \u201copen\u201d \u2013 highlighting its distinctive feature: the entire development"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-24",
+    "topic": "model_releases",
+    "title": "NVIDIA AI Releases Gated DeltaNet-2: A Linear Attention Layer That Decouples Erase and Write in the Delta Rule - MarkTechPost",
+    "url": "https://www.marktechpost.com/2026/05/24/nvidia-ai-releases-gated-deltanet-2-a-linear-attention-layer-that-decouples-erase-and-write-in-the-delta-rule/",
+    "snippet": "# NVIDIA AI Releases Gated DeltaNet-2: A Linear Attention Layer That Decouples Erase and Write in the Delta Rule - MarkTechPost\n[...]\nNVIDIA AI Releases Gated DeltaNet-2: A Linear Attention Layer That Decouples Erase and Write in the Delta Rule - MarkTechPost\n[...]\nHome Artificial Intelligence AI Infrastructure NVIDIA AI Releases Gated DeltaNet-2:\n[...]\nNVIDIA has released Gated DeltaNet-2, a line"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-24",
+    "topic": "model_releases",
+    "title": "New Gemini Omni from Google: Edit Videos AI With Just a Chat - Memeburn",
+    "url": "https://memeburn.com/new-gemini-omni-from-google-i-o-2026/",
+    "snippet": "New Gemini Omni from Google: Edit Videos AI With Just a Chat - Memeburn\n[...]\n# New Gemini Omni from Google: Edit Videos AI With Just a Chat\n[...]\nGemini Omni video editing is Google's biggest creative AI move yet \u2014 and it launched just yesterday at I/O 2026. The first model, Omni Flash, lets you reshape a video clip by simply describing the change you want. Here's what you can already do with it,"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-24",
+    "topic": "product_releases",
+    "title": "FinancialContent - Realmo Launches Rey, an AI Assistant for Natural Language Search Across 1M+ Active U.S. Commercial Property Listings",
+    "url": "https://markets.financialcontent.com/stocks/article/abnewswire-2026-5-24-realmo-launches-rey-an-ai-assistant-for-natural-language-search-across-1m-active-us-commercial-property-listings",
+    "snippet": "FinancialContent - Realmo Launches Rey, an AI Assistant for Natural Language Search Across 1M+ Active U.S. Commercial Property Listings\n[...]\n# Realmo Launches Rey, an AI Assistant for Natural Language Search Across 1M+ Active U.S. Commercial Property Listings\n[...]\nBoston, Massachusetts - May 23, 2026 - Realmo, an AI-powered navigator for the U.S. commercial real estate (CRE) market, today announ"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-24",
+    "topic": "product_releases",
+    "title": "Kore.ai Launches Artemis, the Next-Gen Kore.ai Agent Platform",
+    "url": "https://electronicsera.in/kore-ai-launches-artemis-the-new-generation-of-the-kore-ai-agent-platform-for-building-governing-and-optimizing-enterprise-ai-pr/",
+    "snippet": "Kore.ai Launches Artemis, the Next-Gen Kore.ai Agent Platform\n[...]\n# Kore.ai Launches Artemis, the New Generation of the Kore.ai Agent Platform for Building, Governing, and Optimizing Enterprise AI-PR\n[...]\nIndia \u2014 Kore.ai, the global leader in agentic platforms and applications, today launched the new-generation Kore.ai Agent Platform Artemis edition, the AI-programmable, AI-native foundation th"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-24",
+    "topic": "x_posts",
+    "title": "Musk Announces on X: SpaceXAI Is Hiring Engineers and Physicists, Even Without AI Experience",
+    "url": "https://pasqualepillitteri.it/en/news/3195/spacexai-musk-hiring-engineers-physicists-no-ai-experience",
+    "snippet": "Musk Announces on X: SpaceXAI Is Hiring Engineers and Physicists, Even Without AI Experience\n[...]\n# Musk Announces on X: SpaceXAI Is Hiring Engineers and Physicists, Even Without AI Experience\n[...]\n##### On May 21, 2026, Elon Musk posted a tweet, now over 46 million views, that SpaceXAI is hiring world-class engineers and physicists even without prior AI experience. Applications go to ai_eng@spa"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-24",
+    "topic": "x_posts",
+    "title": "Google Gemma 4 Hits #2 on Product Hunt",
+    "url": "https://www.ordoh.com/google-gemma-4-product-hunt-open-source-ai/",
+    "snippet": "Google Gemma 4 Hits #2 on Product Hunt\n[...]\n###### Google Gemma 4 Hits #2 on Product Hunt: Open-Source AI Moment\n[...]\n###### Cursor 3 Is the AI Coding Tool Developers Are Switching To\n[...]\n# Google Gemma 4 Hits #2 on Product Hunt: Open-Source AI Moment\n[...]\nGoogle Gemma 4 debuted on Product Hunt and immediately climbed to the #2 spot, collecting over 1,200 upvotes in 24 hours. For an open-sour"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-24",
+    "topic": "x_posts",
+    "title": "Salesforce Agentforce Coworker Kills the 1.8-Hour Search Tax | THE D[AI]LY BRIEF",
+    "url": "https://www.beri.net/article/2026-05-23-salesforce-agentforce-coworker-kills-1-8-hour-search-tax",
+    "snippet": "Salesforce Agentforce Coworker Kills the 1.8-Hour Search Tax | THE D[AI]LY BRIEF\n[...]\n# Salesforce Agentforce Coworker Kills the 1.8-Hour Search Tax\n[...]\nMarc Benioff embedded an AI teammate across Salesforce, Slack, Teams, and ChatGPT. Here is the ROI math and decision matrix CIOs need before Q1 FY27.\n[...]\nEnterprise AISalesforceAI AgentsAgentforceCRMProductivity\n[...]\n# Salesforce Agentforce "
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-24",
+    "topic": "x_posts",
+    "title": "Why UiPath (PATH) Is Up 6.4% After Launching Its New Coding Agents Orchestration Platform - Simply Wall St News",
+    "url": "https://simplywall.st/stocks/us/software/nyse-path/uipath/news/why-uipath-path-is-up-64-after-launching-its-new-coding-agen",
+    "snippet": "- In May 2026, UiPath announced the launch of UiPath for Coding Agents, an open, enterprise-grade orchestration layer for AI coding agents, and also reported the recent passing of board member S. \u201cSoma\u201d Somasegar, a key contributor to its Nominating and Corporate Governance Committee.\n[...]\n- The new platform-wide integration aims to connect popular coding agents like Claude Code and OpenAI Codex "
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-24",
+    "topic": "x_posts",
+    "title": "Anthropic MCP Tunnels Kill the $670K Shadow AI Tax | THE D[AI]LY BRIEF",
+    "url": "https://www.beri.net/article/2026-05-23-anthropic-mcp-tunnels-self-hosted-sandboxes-670k-shadow-ai-tax",
+    "snippet": "Anthropic just shipped self-hosted sandboxes and MCP tunnels for Claude agents. Here is the decision matrix CIOs need before the next $4.44M AI breach.\n[...]\nAnthropic just shipped self-hosted sandboxes and MCP tunnels for Claude agents. Here is the decision matrix CIOs need before the next $4.44M AI breach.\n[...]\nOn May 19, Anthropic quietly shipped the feature that most enterprise AI projects ha"
   }
 ]
