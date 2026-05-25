@@ -3238,5 +3238,119 @@
     "title": "Anthropic MCP Tunnels Kill the $670K Shadow AI Tax | THE D[AI]LY BRIEF",
     "url": "https://www.beri.net/article/2026-05-23-anthropic-mcp-tunnels-self-hosted-sandboxes-670k-shadow-ai-tax",
     "snippet": "Anthropic just shipped self-hosted sandboxes and MCP tunnels for Claude agents. Here is the decision matrix CIOs need before the next $4.44M AI breach.\n[...]\nAnthropic just shipped self-hosted sandboxes and MCP tunnels for Claude agents. Here is the decision matrix CIOs need before the next $4.44M AI breach.\n[...]\nOn May 19, Anthropic quietly shipped the feature that most enterprise AI projects ha"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-05-25",
+    "headline": "Google's Gemini Spark is the clearest signal yet that ambient AI has arrived: an agent that runs in the cloud 24/7, manages your inbox and calendar, and takes action without being asked. The catch is baked into the product itself. Spark's own documentation warns it may make purchases or share information without explicit prompting, and Google already holds the data that makes it work.",
+    "url": "archive/2026-05-25.html",
+    "posts": {
+      "linkedin": [
+        "Someone ran two VPs of their company for $257 last month.\n\nJason Lemkin at SaaStr published the receipts this week. Two AI agents. One handling marketing. One handling customer success. $257 combined per month.\n\nThe marketing agent refreshes ticket sales, compares year-over-year numbers, drafts newsletters, and logs every GAAP financial snapshot. The CS agent manages 100+ sponsors and runs a chatbot the whole team relies on.\n\nLast week the CS agent sent 83 personalized emails at 12:20am. Fully customized per sponsor. While the human team was asleep.\n\nThe next morning they got fewer inbound questions, not more.\n\nThe part that sticks: Lemkin said if someone shipped a better AI CMO tomorrow, they'd switch in 60 seconds. Not loyalty to a tool. Clarity about what the tool is for.\n\nThe ROI conversation used to be theoretical. It isn't anymore.\n\nWhat functions in your business are still running on manual that an agent could handle at midnight?",
+        "Google's new AI agent runs 24/7, even when your phone is off.\n\nGemini Spark launched at Google I/O this week. Lives in the cloud. Connects to Gmail, Docs, Calendar, Canva, Instacart. Doesn't wait for a prompt. Just runs.\n\nThe part nobody's saying loud enough: Google already has your data. Your emails. Your calendar history. Years of documents. Spark plugs into all of it natively.\n\nChatGPT and Claude can do agentic work too, but you have to build the connections. With Google, you said yes to that a long time ago.\n\nThe trade-off is real. Spark's own documentation warns it may make purchases or share information without explicit prompting.\n\nSo the question isn't whether this is useful. It clearly is. The question is what you're comfortable handing over to get there.\n\nMost people will say yes without reading that part. Worth knowing what you're actually agreeing to.",
+        "The founder of Zoho just called AI the biggest investment bubble in history.\n\nHe's probably right. Build anyway.\n\nSridhar Vembu posted something worth reading this week. \"AI is clearly an investment bubble. This one is the biggest bubble yet.\"\n\nHe also said the tech is real. Both things are true.\n\nThe dot-com bubble wiped out companies. It also built the internet. The broadband infrastructure, the server farms, the payment rails. All of it got funded by people chasing hype. The companies that rode the wave and died funded the pipes that profitable companies built on later.\n\nSo the question for someone building right now isn't whether there's a bubble. It's whether you're building on the pipes or on the hype.\n\nA voice model that understands tone and emotion? Pipes. A viral AI wrapper with no retention? Hype.\n\nThe bubble doesn't change what you're building. It just tells you whether you should care.\n\nWhat are you building on?"
+      ],
+      "threads": [
+        "Two AI agents ran VP-level functions at SaaStr last month. Combined cost: $257.\n\nOne of them sent 83 personalized sponsor emails at 12:20am while the team slept. Fully customized per account. Next morning they got fewer inbound questions, not more.\n\nThat's not a case study. That's just how Tuesday works now.\n\nThe question isn't whether your business needs agents. It's which part of your week already has \"agent\" written all over it.",
+        "Artisan AI ran a billboard in Times Square this week. Three words: \"Stop Hiring Humans.\"\n\nThey walked it back. Said they meant specific soul-crushing jobs, not all employment.\n\nBut that's kind of the whole conversation collapsed into three words, isn't it.\n\nNobody wants to say the quiet part. These companies just said it on a 40-foot sign. The real question is whether \"soul-crushing job\" and \"your job\" stay in separate categories.",
+        "Google's new AI agent runs all day, even when your phone is off. It has access to your inbox, calendar, documents, and can make purchases on your behalf.\n\nYour years of emails are already inside it. That's kind of the whole product.\n\nSpark's own documentation says it may take actions without explicitly asking you first.\n\nMost people will say yes without reading that line. Worth knowing what you're signing up for."
+      ]
+    }
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-25",
+    "topic": "model_releases",
+    "title": "StepFun Releases StepAudio 2.5 Realtime: An End-to-End Voice Model with Roleplay-Specific RLHF and Paralinguistic Comprehension - MarkTechPost",
+    "url": "https://www.marktechpost.com/2026/05/24/stepfun-releases-stepaudio-2-5-realtime-an-end-to-end-voice-model-with-roleplay-specific-rlhf-and-paralinguistic-comprehension/",
+    "snippet": "# StepFun Releases StepAudio 2.5 Realtime: An End-to-End Voice Model with Roleplay-Specific RLHF and Paralinguistic Comprehension - MarkTechPost\n[...]\nStepFun Releases StepAudio 2.5 Realtime: An End-to-End Voice Model with Roleplay-Specific RLHF and Paralinguistic Comprehension - MarkTechPost\n[...]\nHome Technology Artificial Intelligence StepFun Releases StepAudio 2.5 Realtime: An End-to-End Voice"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-25",
+    "topic": "model_releases",
+    "title": "OpenAI Releases Tool for Developers to Build Custom AI Safety Rules",
+    "url": "https://enmnews.com/2026/05/24/openai-releases-tool-developers-build-custom-ai-safety-rules",
+    "snippet": "OpenAI Releases Tool for Developers to Build Custom AI Safety Rules\n[...]\nOpenAI has unveiled gpt-oss-safeguard, a set of open-weight reasoning models designed to help developers craft and refine their own safety policies for artificial intelligence systems.\n[...]\nThe new tools give developers the ability to classify content and apply custom safeguards tailored to their specific needs. Rather than"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-25",
+    "topic": "model_releases",
+    "title": "New Google's Gemini Spark: The AI \u200b\u200bAgent Could Assist You 24/7",
+    "url": "https://memeburn.com/new-googles-gemini-spark-the-ai-agent-could-assist-you-24-7/",
+    "snippet": "New Google's Gemini Spark: The AI \u200b\u200bAgent Could Assist You 24/7\n[...]\n# New Google's Gemini Spark: The AI \u200b\u200bAgent Could Assist You 24/7\n[...]\nThe Gemini Spark AI agent, launched at Google I/O 2026, doesn't wait for you to open your laptop. It runs 24/7 in the cloud \u2014 handling tasks across Gmail, Docs, and third-party apps like Canva and Instacart. Here's what it can actually do, who gets it first,"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-25",
+    "topic": "model_releases",
+    "title": "GPT-5.6 Leaks Hint at June Launch With Major AI Upgrades - WinCentral",
+    "url": "https://thewincentral.com/gpt-5-6-leaks-suggest-openais-next-big-ai-upgrade-could-arrive-in-june/",
+    "snippet": "GPT-5.6 Leaks Hint at June Launch With Major AI Upgrades - WinCentral\n[...]\nHome Latest News AI News GPT-5.6 Leaks Suggest OpenAI\u2019s Next Big AI Upgrade Could Arrive in June\n[...]\nOpenAI may already be preparing its next major AI release only weeks after launching GPT-5.5. New leaks, backend testing references, and developer discoveries are fueling speculation that GPT-5.6 is now deep in internal t"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-25",
+    "topic": "product_releases",
+    "title": "Kore.ai Launches Artemis to Revolutionize Enterprise AI Agents",
+    "url": "https://cxotoday.com/media-coverage/kore-ai-launches-artemis-to-revolutionize-enterprise-ai-agents/",
+    "snippet": "Kore.ai Launches Artemis to Revolutionize Enterprise AI Agents\n[...]\nHome Media Coverage Kore.ai Launches Artemis to Revolutionize Enterprise AI Agents\n[...]\n### Agent Blueprint Language\u2122 (ABL) compounds returns and compresses agent delivery from months to days.\n[...]\nKore.ai today launched the new-generation Kore.ai Agent Platform Artemis edition, the AI-programma"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-25",
+    "topic": "product_releases",
+    "title": "Google AI Studio Lets Anyone Build Android Apps With AI - Memeburn",
+    "url": "https://memeburn.com/google-ai-studio-lets-anyone-build-android-apps-with-ai/",
+    "snippet": "Google AI Studio Lets Anyone Build Android Apps With AI - Memeburn\n[...]\n# Google AI Studio Lets Anyone Build Android Apps With AI\n[...]\nGoogle is pushing deeper into AI-assisted development with major new updates to Google AI Studio. The platform can now generate native Android apps from simple prompts, complete with browser previews, phone deployment, and Google Play testing workflows.\n[...]\n- G"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-25",
+    "topic": "product_releases",
+    "title": "Aithor Launches Humanizer API for AI-Assisted Content Teams and Businesses - TechBullion",
+    "url": "https://techbullion.com/aithor-launches-humanizer-api-for-ai-assisted-content-teams-and-businesses/",
+    "snippet": "# Aithor Launches Humanizer API for AI-Assisted Content Teams and Businesses - TechBullion\n[...]\nAithor Launches Humanizer API for AI-Assisted Content Teams and Businesses - TechBullion\n[...]\n### New API is designed to help SEO teams, content marketers, publishers, and businesses integrate text humanization into large-scale AI-assisted writing workflows\n[...]\nTALLINN, Estonia \u2014 May 20, 2026 \u2014 Aith"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-25",
+    "topic": "x_posts",
+    "title": "'AI is the biggest investment bubble yet': Zoho's Sridhar Vembu on spending boom  - BusinessToday",
+    "url": "https://www.businesstoday.in/technology/story/ai-is-the-biggest-investment-bubble-yet-zohos-sridhar-vembu-on-spending-boom-533040-2026-05-24",
+    "snippet": "'AI is the biggest investment bubble yet': Zoho's Sridhar Vembu on spending boom - BusinessToday\n[...]\n'AI is the biggest investment bubble yet': Zoho's Sridhar Vembu on spending boom\n[...]\n## Sridhar Vembu was responding to a post by a social media account called Bull Theory, which argued that the current AI boom may be overstating real demand for cloud computing services\n[...]\nZoho founder and C"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-25",
+    "topic": "x_posts",
+    "title": "\u2018Stop Hiring Humans\u2019 billboard campaign sparks job loss fears",
+    "url": "https://www.thenews.com.pk/latest/1403650-stop-hiring-humans-billboard-campaign-sparks-job-loss-fears",
+    "snippet": "Artisan AI's provocative billboard campaign urging companies to \"stop hiring humans\" lit up Times Square and San Francisco this week, igniting fierce backlash on social media.\n[...]\nReddit users were saying the signs should be pulled down, and a few people were sort of openly cheering the vandalism, like, as the AI threat to the job market became impossible to ignore.\n[...]\nMeanwhile, traders pred"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-25",
+    "topic": "x_posts",
+    "title": "Claude Users Claim Mythos Surfaced On Claude Code Despite Anthropic Denial | Times Now",
+    "url": "https://www.timesnownews.com/technology-science/claude-users-claim-mythos-surfaced-on-claude-code-despite-anthropic-denial-article-154387893",
+    "snippet": "Claude Users Claim Mythos Surfaced On Claude Code Despite Anthropic Denial | Times Now\n[...]\n# Claude Users Claim Mythos Surfaced On Claude Code Despite Anthropic Denial\n[...]\n## Anthropic's AI model Claude Mythos, focused on cybersecurity, inadvertently appeared briefly in its developer tools, raising speculation about a potential public release.\n[...]\nAnthropic\u2019s mysterious cybersecurity-focused"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-25",
+    "topic": "x_posts",
+    "title": "The Agents Episode #005 is Out! Our 2 AI VPs Cost $257/Month, a Website Willed Itself Into Becoming an Agent, and QB Sent 83 Personalized Emails at 12:20am | SaaStr",
+    "url": "https://www.saastr.com/the-agents-episode-005-is-out-our-2-ai-vps-cost-257-month-a-website-willed-itself-into-becoming-an-agent-and-qb-sent-83-personalized-emails-at-1220am/",
+    "snippet": "# The Agents Episode #005 is Out! Our 2 AI VPs Cost $257/Month, a Website Willed Itself Into Becoming an Agent, and QB Sent 83 Personalized Emails at 12:20am | SaaStr\n[...]\nThe Agents Episode #005 is Out! Our 2 AI VPs Cost $257/Month, a Website Willed Itself Into Becoming an Agent, and QB Sent 83 Personalized Emails at 12:20am | SaaStr\n[...]\n# The Agents Episode #005 is Out! Our 2 AI VPs Cost $257"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-25",
+    "topic": "x_posts",
+    "title": "A Chinese AI Startup Claims It Can Translate Your Pet's Speech With 95 Percent Accuracy | WLT Report",
+    "url": "https://wltreport.com/2026/05/23/a-chinese-ai-startup-claims-it-can-translate-your-pets-speech-with-95-percent-accuracy/",
+    "snippet": "A Chinese AI Startup Claims It Can Translate Your Pet's Speech With 95 Percent Accuracy | WLT Report\n[...]\nA Chinese AI startup says it has cracked the code on what your dog is trying to tell you, and the internet is having a field day with it.\n[...]\nThe company behind PettiChat claims its wearable device can translate pet vocalizations and behavior into human language with up to 95 percent accura"
   }
 ]
