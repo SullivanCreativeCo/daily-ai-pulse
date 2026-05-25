@@ -28,6 +28,9 @@ ROOT = Path(__file__).parent.parent
 SITE = ROOT / "site"
 ARCHIVE_JSON = SITE / "archive.json"
 
+# Sidecar JSON consumed by the KeegsOS Command Center dashboard.
+KEEGSOS_PULSE_JSON = Path.home() / "Desktop/KeegsOS/workspace/command-center/pulse-today.json"
+
 
 PODCAST_SOURCES = [
     {"name": "The Koerner Office",
@@ -206,6 +209,29 @@ def main() -> int:
 
     # 4. Render with posts injected
     render.write_today_and_archive(digest_md, today, last_updated, posts=posts)
+
+    # 4b. Sidecar JSON for the KeegsOS Command Center dashboard.
+    # Best-effort: never crash the pulse if the vault path is missing.
+    try:
+        KEEGSOS_PULSE_JSON.parent.mkdir(parents=True, exist_ok=True)
+        pulse_sidecar = {
+            "date": today,
+            "generated_at": last_updated,
+            "headline": _extract_headline(digest_md),
+            "digest_markdown": digest_md,
+            "linkedin_posts": list((posts or {}).get("linkedin") or []),
+            "counts": {
+                "news": sum(len(v) for v in news_by_topic.values()),
+                "podcasts": len(yt_items),
+            },
+        }
+        KEEGSOS_PULSE_JSON.write_text(
+            json.dumps(pulse_sidecar, indent=2, ensure_ascii=False),
+            encoding="utf-8",
+        )
+        print(f"[harvest] wrote KeegsOS sidecar: {KEEGSOS_PULSE_JSON}")
+    except Exception as e:
+        print(f"[harvest] sidecar write skipped: {e}")
 
     # 5. Update archive
     headline = _extract_headline(digest_md)
