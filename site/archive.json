@@ -3352,5 +3352,143 @@
     "title": "A Chinese AI Startup Claims It Can Translate Your Pet's Speech With 95 Percent Accuracy | WLT Report",
     "url": "https://wltreport.com/2026/05/23/a-chinese-ai-startup-claims-it-can-translate-your-pets-speech-with-95-percent-accuracy/",
     "snippet": "A Chinese AI Startup Claims It Can Translate Your Pet's Speech With 95 Percent Accuracy | WLT Report\n[...]\nA Chinese AI startup says it has cracked the code on what your dog is trying to tell you, and the internet is having a field day with it.\n[...]\nThe company behind PettiChat claims its wearable device can translate pet vocalizations and behavior into human language with up to 95 percent accura"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-05-26",
+    "headline": "Agents aren't becoming fully autonomous. They're becoming coordination layers. The real shift is the \"human sandwich\"\u2014humans framing problems and judging output, AI executing in the middle\u2014and the entire infrastructure stack is reorganizing around that loop rather than trying to eliminate it.",
+    "url": "archive/2026-05-26.html",
+    "posts": {
+      "linkedin": [
+        "Agents aren't replacing you.\n\nThey're making you more important.\n\nDan Shipper from Every calls it the human sandwich. You frame the problem. AI collapses it into drafts, code, analysis. You come back, judge if it's good, extend the work. You do it again.\n\nThat loop is where all the leverage lives right now.\n\nFor months everyone talked about agents like they'd work 24/7 while you sleep. Turns out the teams shipping the best work are the ones still in the loop. Constantly steering. Constantly deciding.\n\nThe move isn't full autonomy. It's coordination.",
+        "Growth is a default.\n\nStaying small is a strategy.\n\nAndre Janusz runs Logan House Coffee Roasters. He had every chance to scale. New locations. New wholesale accounts. Market expansion. Instead he asks one question on every decision: Will this bring me closer to my customers, or create distance?\n\nHe calls it friction.\n\nMost founders see friction as a problem to solve. Andre sees it as a signal. If a new location puts something between you and the people you built for, you say no. That's a choice not many can afford to make.\n\nBut the ones who do? They build something people actually remember.",
+        "The model releases this week weren't about raw power.\n\nThey were about coordination.\n\nGrok V9. Qwen 3.7. Gemma 4. You could read the parameter counts and benchmarks. But the real story is different.\n\nReasonix saves $50 per session by caching shared context better. DevRev released shared memory so teams don't start from scratch every session. Google shipped Agent Executor so agents can actually coordinate at scale. CyOps has AI critiquing AI's code.\n\nThe math changed. Bigger parameters matter less than smarter loops between humans, AI, and other AIs.\n\nCoordination is the new frontier."
+      ],
+      "threads": [
+        "Listen. For months everyone talked about agents like they'd just take over. Run your Mac 24/7. Build your whole business while you sleep. Reality check: the ones doing the best work are the ones still in the loop. You set direction. AI goes build. You come back. You see what it made. You steer. That rhythm is what works.",
+        "There's a whole coffee roaster out there that said no to scaling up. The banker's plan was solid on paper. More boats, more revenue, millions maybe. Fisherman's question was simple. \"And then what?\" Turns out the thing he was chasing was already his life. That landed different.",
+        "New models dropped this week. But the real move isn't on parameter count. It's on how tight the feedback loop is. Faster inference. Cheaper context caching. Agents that actually talk to agents. Winner isn't the biggest model. It's the one that fits inside your actual workflow without dragging you down."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-05-26",
+    "source": "AI Daily Brief",
+    "title": "Why Agents Still Need Humans",
+    "url": "https://www.youtube.com/watch?v=GWPpLdpTo90",
+    "video_id": "GWPpLdpTo90"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-05-26",
+    "source": "The Entrepreneur's Studio",
+    "title": "Remember The Fisherman | Andre' Janusz",
+    "url": "https://www.youtube.com/watch?v=CjGbIdY5vcE",
+    "video_id": "CjGbIdY5vcE"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-26",
+    "topic": "model_releases",
+    "title": "Elon Musk's xAI Releases Grok V9-Medium in 2-3 Weeks: What the 1.5 Trillion Parameter Model Means for Coding | FrontierNews.ai",
+    "url": "https://www.frontiernews.ai/news/article/elon-musks-xai-releases-grok-v9-medium-in-2-3-week-b0e47083",
+    "snippet": "Elon Musk's xAI Releases Grok V9-Medium in 2-3 Weeks: What the 1.5 Trillion Parameter Model Means for Coding | FrontierNews.ai\n[...]\n# Elon Musk's xAI Releases Grok V9-Medium in 2-3 Weeks: What the 1.5 Trillion Parameter Model Means for Coding\n[...]\nxAI's next flagship AI model is nearly ready for public release. Elon Musk confirmed that Grok V9-Medium, a 1.5 trillion parameter foundation model, h"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-26",
+    "topic": "model_releases",
+    "title": "Gemma\u202f4 Multi\u2011Token Prediction Cuts Inference Latency by Up to Three\u2011Fold | LavX News | LavX News",
+    "url": "https://news.lavx.hu/article/gemma-4-multi-token-prediction-cuts-inference-latency-by-up-to-three-fold",
+    "snippet": "Gemma 4 Multi\u2011Token Prediction Cuts Inference Latency by Up to Three\u2011Fold | LavX News | LavX News\n[...]\n# Gemma 4 Multi\u2011Token Prediction Cuts Inference Latency by Up to Three\u2011Fold\n[...]\nGoogle\u2019s Gemma 4 now ships with a lightweight multi\u2011token prediction drafter that lets the model verify several tokens in parallel, delivering roughly 3\u00d7 faster generation on consumer hardware without compromising "
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-26",
+    "topic": "model_releases",
+    "title": "Google launches Gemini 3.5 Flash Low variant | Let's Data Science",
+    "url": "https://letsdatascience.com/news/google-launches-gemini-35-flash-low-variant-80f91ee0",
+    "snippet": "Google launches Gemini 3.5 Flash Low variant | Let's Data Science\n[...]\nGoogle launches Gemini 3.5 Flash Low variant | Let's Data Science\n[...]\n# Google launches Gemini 3.5 Flash Low variant\n[...]\n7 sources|May 25, 2026\n[...]\n![Google launches Gemini 3.5 Flash Low variant\n[...]\nAndroid Authority reports that Google introduced a new low-effort variant, Gemini 3.5 Flash (Low), to reduce token consum"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-26",
+    "topic": "model_releases",
+    "title": "Qwen 3.7-Max Launched: Alibaba\u2019s New Model Claims Global Dominance - ForanTech",
+    "url": "https://forantech.com/qwen-3-7-max-launched-alibabas-new-model-claims-global-dominance/",
+    "snippet": "Qwen 3.7-Max Launched: Alibaba\u2019s New Model Claims Global Dominance - ForanTech\n[...]\nThe global artificial intelligence race just encountered a major tectonic shift. For the past several quarters, the absolute peak of LLM intelligence benchmarks was considered an exclusive playground for Silicon Valley giants like OpenAI, Google, and Anthropic. However, the landscape has officially been broken wid"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-26",
+    "topic": "model_releases",
+    "title": "Alibaba Unveils Full-Stack AI Upgrades to Power Global Agentic Era - TheReporterAsia/eng",
+    "url": "https://thereporter.asia/eng/2026/05/alibaba-unveils-full-stack-ai/",
+    "snippet": "### Alibaba has officially announced a comprehensive, top-to-bottom upgrade of its full AI stack, signaling a massive leap forward into the era of autonomous digital agents. Unveiled at the landmark Alibaba Cloud Summit, the global technology giant introduced sweeping enhancements across its entire infrastructure ecosystem\u2014spanning advanced cloud infrastructure, model services, cutting-edge semico"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-26",
+    "topic": "product_releases",
+    "title": "Reasonix Launches as a DeepSeek-Native Terminal Coding Agent",
+    "url": "https://winbuzzer.com/2026/05/25/reasonix-launches-deepseek-native-terminal-coding-agent-xcxwbn/",
+    "snippet": "Reasonix Launches as a DeepSeek-Native Terminal Coding Agent\n[...]\n# Reasonix Launches as a DeepSeek-Native Terminal Coding Agent\n[...]\nReasonix launches as a DeepSeek-native terminal coding agent with MCP support, plan mode, and a cache-first design aimed at lowering long-session API costs.\n[...]\nMay 25, 2026 2:54 pm CEST\n[...]\n- Launch Focus: Reasonix has launched as a DeepSeek-native terminal c"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-26",
+    "topic": "product_releases",
+    "title": "Cysic Launches CyOps, AI Platform for Autonomous Coding and Code Verification | Currency News |  Financial and Business News | Markets Insider",
+    "url": "https://markets.businessinsider.com/news/currencies/cysic-launches-cyops-ai-platform-for-autonomous-coding-and-code-verification-1036192230",
+    "snippet": "Cysic Launches CyOps, AI Platform for Autonomous Coding and Code Verification | Currency News | Financial and Business News | Markets Insider\n[...]\n# Cysic Launches CyOps, AI Platform for Autonomous Coding and Code Verification\n[...]\nCysic today announced the upcoming mid-May 2026 launch of CyOps, a browser-based autonomous software development platform designed to automate both code generation an"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-26",
+    "topic": "product_releases",
+    "title": "3D Precision Control Meets Cinematic AI: Reallusion Unveils AI Studio in Creative Alliance with ByteDance's Seedance 2.0",
+    "url": "https://www.prnewswire.com/news-releases/3d-precision-control-meets-cinematic-ai-reallusion-unveils-ai-studio-in-creative-alliance-with-bytedances-seedance-2-0--302781097.html",
+    "snippet": "3D Precision Control Meets Cinematic AI: Reallusion Unveils AI Studio in Creative Alliance with ByteDance's Seedance 2.0 Accessibility Statement Skip Navigation\n[...]\nSAN JOSE, Calif., May 25, 2026 /PRNewswire/ -- Reallusion, the global leader in 3D animation software, today announced the launch of AI Studio, a groundbreaking creative ecosystem designed to transform artists' hard-earned 3D skills "
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-26",
+    "topic": "product_releases",
+    "title": "Google adds open source Agent Executor to support AI agents in production \u2013 Computerworld",
+    "url": "https://www.computerworld.com/article/4176809/google-adds-open-source-agent-executor-to-support-ai-agents-in-production-3.html",
+    "snippet": "Google adds open source Agent Executor to support AI agents in production \u2013 Computerworld\n[...]\n# Google adds open source Agent Executor to support AI agents in production\n[...]\nMay 25, 20265 mins\n[...]\n## The new runtime could help enterprises address operational challenges tied to scaling AI agents in production, although broader governance concerns persist, analysts say.\n[...]\nGoogle has introd"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-26",
+    "topic": "product_releases",
+    "title": "DevRev adds shared memory to enterprise Computer AI",
+    "url": "https://cmotech.in/story/devrev-adds-shared-memory-to-enterprise-computer-ai",
+    "snippet": "DevRev adds shared memory to enterprise Computer AI\n[...]\n# DevRev adds shared memory to enterprise Computer AI\n[...]\nMon, 25th May 2026 (Yesterday)\n[...]\nDevRev has released a new version of its Computer AI product for enterprise teams, adding shared memory, multiplayer collaboration, a desktop app, and tools for building AI agents.\n[...]\nThe latest version of Computer is built around what DevRev"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-26",
+    "topic": "x_posts",
+    "title": "xAI Says Grok V9-Medium Is Almost Here. Should Claude and ChatGPT Be Worried?",
+    "url": "https://www.techloy.com/xai-says-grok-v9-medium-is-almost-here-should-claude-and-chatgpt-be-worried/",
+    "snippet": "xAI Says Grok V9-Medium Is Almost Here. Should Claude and ChatGPT Be Worried?\n[...]\nElon Musk posted on X early Monday morning (5:48 AM UTC), May 25, that xAI has finished training Grok foundation model V9-Medium. According to him, this model will come with 1.5 trillion parameters, which is three times bigger than the current version running Grok today.\n[...]\nThe public release timeline is between"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-26",
+    "topic": "x_posts",
+    "title": "Elon Musk Teases Grok V9 Launch Amid Data Concerns",
+    "url": "https://www.capitalbay.news/grok-v9-training-end-cursor-use-raise-concerns/",
+    "snippet": "Elon Musk Teases Grok V9 Launch Amid Data Concerns\n[...]\nElon Musk announced on X today, May 25, 2026, that Grok\u2019s next-generation foundation model, V9-Medium (1.5 trillion parameters), has finished training and is about to enter the final stages before its big public release. With this announcement, Musk also stated that the evaluation metrics look strong, additional Cursor-sourced data was added"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-26",
+    "topic": "x_posts",
+    "title": "Elon Musk's AI-fuelled fever dream gets even hotter as he promises his AI game studio is going to release a 'great' game before the end of 2026 | Arcader News",
+    "url": "https://arcader.org/news/elon-musks-ai-fuelled-fever-dream-gets-even-hotter-as-he-promises-his-ai-game-studio-is-going-to-release-a-great-game-before-the-end-of-2026/",
+    "snippet": "Elon Musk's AI-fuelled fever dream gets even hotter as he promises his AI game studio is going to release a 'great' game before the end of 2026 | Arcader News\n[...]\n# Elon Musk\u2019s AI-fuelled fever dream gets even hotter as he promises his AI game studio is going to release a \u2018great\u2019 game before the end of 2026\n[...]\nRemember when Elon Musk, the world\u2019s wealthiest man and owner of Tesla, SpaceX, and"
   }
 ]
