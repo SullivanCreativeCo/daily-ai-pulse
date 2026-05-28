@@ -3644,5 +3644,151 @@
     "title": "Gemini Coding Agent Deleted 28K Lines of Code, Then Wrote...",
     "url": "https://opentools.ai/news/gemini-coding-agent-deleted-code-fake-report",
     "snippet": "Gemini Coding Agent Deleted 28K Lines of Code, Then W\n[...]\n# Gemini Coding Agent Deleted 28K Lines of Code, Then Wrote Itself a Fake Recovery Report\n[...]\nA developer\u2019s viral Reddit post documents how Google\u2019s Gemini 3.5 coding agent, running with a third\u2011party rule pack, changed 340 files, deleted 28,745 lines of production code, and caused a 33\u2011minute outage \u2014 then fabricated consultation logs "
+  },
+  {
+    "kind": "digest",
+    "date": "2026-05-28",
+    "headline": "Agents stopped being chatbots. Robinhood gave them wallets. Byron automated tax workflows. Grok Build shipped a CRM in 4 hours. The bottleneck is no longer intelligence\u2014it's wiring agents into real systems without breaking them.",
+    "url": "archive/2026-05-28.html",
+    "posts": {
+      "linkedin": [
+        "The software doesn't matter anymore. Chris Koerner just dropped the playbook: find a boring vertical. Build trust with an audience in that vertical. Put an agent on top of someone else's software. One guy is making $100k a month selling notary software he didn't build. Not because notary software is innovative. Because he found the right niche, found the audience that already trusts him, and automated their workflow. The moat isn't the product. It's the niche plus the agent layer on top of existing infrastructure. If you have a following in any vertical at all\u2014your industry, your region, your customer type\u2014you're sitting on a distribution channel for agentic SaaS. That's the move now. Not build from scratch. Wrap existing platforms with agents and own a vertical.",
+        "Agents can see your data but they can't touch it. That's the bottleneck right now. Cogent launched Zero Day Response this week. Byron launched tax automation. Aurora Mobile upgraded to execution mode. All three are solving the same problem: how do you let an agent deep into your systems without giving it the master keys? How do you auto-remediate a vulnerability without breaking something else? How do you automate tax prep without creating audit liability? Models are smart enough. Infrastructure is the constraint now. Whoever cracks secure, auditable agent execution at scale owns the next layer of the stack. This is where the next trillion dollars lives.",
+        "Pope Leo XIV just published his first encyclical on AI. Not anti-AI. But pro-human. The central line: 'The human person is an end, not a means. The economic order must remain subordinate to human dignity.' That's not theology. That's a prediction about regulation. Governments read encyclicals. Labor organizations read encyclicals. By the time this lands as policy, the business models built around cutting labor will face gravity. The smart move: build products where humans stay in the loop. Not because it's right. Because it's going to be required. What would your product look like if you had to keep humans in the decision-making chain?"
+      ],
+      "threads": [
+        "Custom CRM in 4 hours. Used to be 6 months and six figures. Grok Build just killed the entire dev consulting industry in real time. Not because the code is perfect. Because it exists at all. The move now: stop building. Start wrapping existing tools with agents and owning your vertical.",
+        "Robinhood gave AI agents a wallet. And a credit card. The guardrail is genius though\u2014isolated account, pre-loaded balance. Let the agent execute without handing over your whole portfolio. This is the technical pattern for everything coming next. How to let machines do real work without giving them the keys.",
+        "Notary software making $100k a month. Nobody's excited about it. Everyone's chasing AGI. The profitable people are chasing 'how do I own loan signing in my region?' Boring wins while everyone's looking at shiny."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-05-28",
+    "source": "The Koerner Office",
+    "title": "The Easiest Online Business to Start in 2026",
+    "url": "https://www.youtube.com/watch?v=vB08-7RzgOs",
+    "video_id": "vB08-7RzgOs"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-05-28",
+    "source": "AI Daily Brief",
+    "title": "What the Pope Actually Said About AI",
+    "url": "https://www.youtube.com/watch?v=JWS8bYZrtnQ",
+    "video_id": "JWS8bYZrtnQ"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-28",
+    "topic": "model_releases",
+    "title": "Google's Gemini 3.5 Flash beats the frontier models - Prime Reports",
+    "url": "https://primereports.org/googles-gemini-3-5-flash-beats-the-frontier-models/",
+    "snippet": "Google's Gemini 3.5 Flash beats the frontier models - Prime Reports\n\nLIVE NEWS\n\n- Amazon Japan Is Now Transporting Packages On Shinkansen Bullet Trains\n- Iran War Live Updates: U.S. and Iran Trade Strikes, Further Threatening Negotiations\n- Perplexity AI Open-Sources Unigram Tokenizer That Achieves 5x Lower p50 Latency Than Hugging Face tokenizers Crate\n- Pennsylvania\u2019s Governor Has a Plan to Make"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-28",
+    "topic": "model_releases",
+    "title": "Alibaba's Qwen3.7-Max Achieves 35-Hour Autonomous Run, Integrates With Claude Code - Newsgab",
+    "url": "https://newsgab.com/alibabas-qwen3-7-max-achieves-35-hour-autonomous-run-integrates-with-claude-code/",
+    "snippet": "Alibaba's Qwen3.7-Max Achieves 35-Hour Autonomous Run, Integrates With Claude Code - Newsgab\n\n## In Short:\n\nAlibaba's Qwen3.7-Max model can autonomously execute tasks for 35 hours, outperforming many competitors. However, its proprietary API-only access may limit its adoption among enterprises prioritising data privacy.\n\nThe AI industry has officially entered what can only be characterised as the "
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-28",
+    "topic": "model_releases",
+    "title": "Biohub releases a world model of protein biology",
+    "url": "https://biohub.org/news/world-model-of-protein-biology/",
+    "snippet": "Biohub releases a world model of protein biology\n\n\u2190 Back to News\n\nMay 27, 2026\n\n# Biohub releases a world model of protein biology\n\nBiohub\u2019s open models map the protein universe and design functional binders with therapeutic-level affinity in the lab.\n\nREDWOOD CITY, Calif., May 27, 2026 \u2013 Biohub today announced the release of a world model of protein biology: a scientific engine for prediction, de"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-28",
+    "topic": "model_releases",
+    "title": "Stability Audio 3 is released by Stability AI: A family of fast latent diffusion models for audio generation and editing - AI-trends.today",
+    "url": "https://ai-trends.today/stability-ai-releases-stable-audio-3-a-family-of-fast-latent-diffusion-models-for-audio-generation-and-editing/",
+    "snippet": "Stability Audio 3 is released by Stability AI: A family of fast latent diffusion models for audio generation and editing - AI-trends.today\n\nClose Menu\n\nTrending\n\n- Amazon thinks that the future of data centers depends on a technical problem it just solved\n- Perplexity AI Open-Sources Unigram Tokenizer That Achieves 5x Decrease p50 Latency Than Hugging Face tokenizers Crate\n- YouTube lets you reque"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-28",
+    "topic": "product_releases",
+    "title": "Robinhood Launches \"Agentic Trading\" Infrastructure to Let AI Bots Manage Portfolios - FinanceFeeds",
+    "url": "https://financefeeds.com/robinhood-launches-agentic-trading-infrastructure-to-let-ai-bots-manage-portfolios/",
+    "snippet": "# Robinhood Launches \"Agentic Trading\" Infrastructure to Let AI Bots Manage Portfolios - FinanceFeeds\n\nPublished: 2026-05-28T09:48:04+03:00\nSource: financefeeds.com (financefeeds.com)\nLanguage: en\n\n## Story\n\nSkip to content\n\n- Digital Assets\n\n# Robinhood Launches \u201cAgentic Trading\u201d Infrastructure to Let AI Bots Manage Portfolios\n\n- By Karthik Subramanian \n- May 28, 2026 \n- Share\n\nRobinhood, unveile"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-28",
+    "topic": "product_releases",
+    "title": "SoLo Funds Launches 'SoLo IQ,': The AI-Powered Financial Coach Built on $1B+ Transactions",
+    "url": "https://www.prnewswire.com/news-releases/solo-funds-launches-solo-iq-the-ai-powered-financial-coach-built-on-1b-transactions-302782501.html",
+    "snippet": "SoLo Funds Launches 'SoLo IQ,': The AI-Powered Financial Coach Built on $1B+ Transactions Accessibility Statement Skip Navigation\n\nThe Only Personalized Financial LLM On the Market Delivers Smart Money Tools and Insights Straight to Consumers\n\nLOS ANGELES, May 27, 2026 /PRNewswire/ -- SoLo Funds, the US's largest community finance platform, is announcing today 'SoLo IQ,' the only AI-powered person"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-28",
+    "topic": "product_releases",
+    "title": "Cogent Security launches autonomous vulnerability response tools as AI-assisted exploits outpace scanners - SiliconANGLE",
+    "url": "https://siliconangle.com/2026/05/27/cogent-security-launches-autonomous-vulnerability-response-tools-ai-assisted-exploits-outpace-scanners/",
+    "snippet": "Cogent Security launches autonomous vulnerability response tools as AI-assisted exploits outpace scanners - SiliconANGLE\n\n\u00ad\n\nprev\n\nnext\n\nSHARE\n\nUPDATED 09:00 EDT / MAY 27 2026\n\nSECURITY\n\n### Cogent Security launches autonomous vulnerability response tools as AI-assisted exploits outpace scanners\n\nSHARE\n\nCogent Security Inc., a startup that employs agentic artificial intelligence for vulnerability "
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-28",
+    "topic": "product_releases",
+    "title": "Byron launches with AI for business tax workflows | Accounting Today",
+    "url": "https://www.accountingtoday.com/news/byron-launches-with-ai-for-business-tax-workflows",
+    "snippet": "Byron launches with AI for business tax workflows | Accounting Today\n\n# Byron launches with AI for business tax workflows\n\nPublished May 27, 2026, 10:06 a.m. EDT\n\n|\n\nUpdated May 27, 2026, 10:13 a.m. EDT\n\n3 Min Read\n\nByron, a new agent-based AI-based tax platform focused on automating the business tax workflow, just announced its public launch after about half a year in early access. The launch com"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-28",
+    "topic": "product_releases",
+    "title": "AWS launches Agentic Shopping Assistant to help retailers build AI tools - SiliconANGLE",
+    "url": "https://siliconangle.com/2026/05/27/aws-launches-aws-agentic-shopping-assistant-help-retailers-build-ai-tools/",
+    "snippet": "AWS launches Agentic Shopping Assistant to help retailers build AI tools - SiliconANGLE\n\nSHARE\n\nUPDATED 17:03 EDT / MAY 27 2026\n\nAI\n\n### AWS launches Agentic Shopping Assistant to help retailers build AI tools\n\nSHARE\n\nAmazon Web Services Inc. today introduced a new offering designed to help retailers integrate artificial intelligence features into their online stores.\n\nAWS Agentic Shopping Assista"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-28",
+    "topic": "x_posts",
+    "title": "Robinhood launches beta support for AI agentic trading and payments",
+    "url": "https://cryptobriefing.com/robinhood-ai-agentic-trading-beta-2/",
+    "snippet": "Robinhood launches beta support for AI agentic trading and payments\n\nSEARCH\n\nSearching...\n\n# Robinhood launches beta support for AI agentic trading and payments\n\nThe stock trading app now lets users hand their AI agents a dedicated wallet and a virtual credit card, with crypto and options support coming next.\n\nShare\n\nthis.removeAttribute('data-copied'), 2000);\" aria-label=\"Copy link\">\n\nAdd us on G"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-28",
+    "topic": "x_posts",
+    "title": "Grok Build creates customized CRM in under 4 hours, signaling AI's push into enterprise software",
+    "url": "https://cryptobriefing.com/grok-build-crm-four-hours/",
+    "snippet": "Grok Build creates customized CRM in under 4 hours, signaling AI's push into enterprise software\n\nSEARCH\n\nSearching...\n\n# Grok Build creates customized CRM in under 4 hours, signaling AI\u2019s push into enterprise software\n\nxAI's terminal-based coding agent enters beta with ambitious claims about rapid application development, though verified demonstrations remain scarce.\n\nShare\n\nthis.removeAttribute("
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-28",
+    "topic": "x_posts",
+    "title": "Grok Build: Custom CRM in 4 Hours vs. 6-Month Build | THE D[AI]LY BRIEF",
+    "url": "https://www.beri.net/article/grok-build-crm-4-hours",
+    "snippet": "Grok Build: Custom CRM in 4 Hours vs. 6-Month Build | THE D[AI]LY BRIEF\n\n# Grok Build: Custom CRM in 4 Hours vs. 6-Month Build\n\nxAI's Grok Build prototypes enterprise CRM with Salesforce integration in under 4 hours. Custom software development just collapsed from months to minutes.\n\nBy Rajesh Beri\u00b7May 27, 2026\u00b79 min read\n\nShare:\n\n# THE DAILY BRIEF\n\nAI DevelopmentEnterprise SoftwareCRMxAIAutomatio"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-28",
+    "topic": "x_posts",
+    "title": "Aurora Mobile's GPTBots.ai Upgrades AI Agents from Chat to Execution | Markets Insider",
+    "url": "https://markets.businessinsider.com/news/stocks/aurora-mobile-s-gptbots-ai-upgrades-ai-agents-from-chat-to-execution-1036197651",
+    "snippet": "Aurora Mobile's GPTBots.ai Upgrades AI Agents from Chat to Execution | Markets Insider\n\n# Aurora Mobile's GPTBots.ai Upgrades AI Agents from Chat to Execution\n\nMay. 27, 2026, 07:00 AM\n\nHONG KONG, May 27, 2026 (GLOBE NEWSWIRE) -- Aurora Mobile Limited (NASDAQ: JG) (\"Aurora Mobile\" or the \"Company\"), a leading provider of customer engagement and marketing technology services, today announced that it"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-28",
+    "topic": "x_posts",
+    "title": "Claude Code and OpenClaw turned AI agents into tech's new force - Startup Fortune",
+    "url": "https://startupfortune.com/claude-code-and-openclaw-turned-ai-agents-into-techs-new-force/",
+    "snippet": "Claude Code and OpenClaw turned AI agents into tech's new force - Startup Fortune\n\nSearch\n\nSF May 28, 2026 \u00b7 11:27 AM\n\nSubscribe\u2709\n\nMost Read\n\nPrintr's $2 million sale shows how\u2026 Palantir's SaaS is dead claim is\u2026 Shein's Everlane deal shows brand equity\u2026 Judy Shelton's gold bond proposal is\u2026 Printr's $2 million sale shows how\u2026 Palantir's SaaS is dead claim is\u2026 Shein's Everlane deal shows brand equi"
   }
 ]
