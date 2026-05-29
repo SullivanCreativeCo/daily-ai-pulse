@@ -3790,5 +3790,135 @@
     "title": "Claude Code and OpenClaw turned AI agents into tech's new force - Startup Fortune",
     "url": "https://startupfortune.com/claude-code-and-openclaw-turned-ai-agents-into-techs-new-force/",
     "snippet": "Claude Code and OpenClaw turned AI agents into tech's new force - Startup Fortune\n\nSearch\n\nSF May 28, 2026 \u00b7 11:27 AM\n\nSubscribe\u2709\n\nMost Read\n\nPrintr's $2 million sale shows how\u2026 Palantir's SaaS is dead claim is\u2026 Shein's Everlane deal shows brand equity\u2026 Judy Shelton's gold bond proposal is\u2026 Printr's $2 million sale shows how\u2026 Palantir's SaaS is dead claim is\u2026 Shein's Everlane deal shows brand equi"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-05-29",
+    "headline": "Anthropic shipped Claude Opus 4.8 with the ability to spawn hundreds of parallel subagents on a single task, and Robinhood opened Agentic Accounts so Claude can now trade stocks autonomously. Agents stopped being advisors today and started being actors.",
+    "url": "archive/2026-05-29.html",
+    "posts": {
+      "linkedin": [
+        "Claude just executed a stock trade.\n\nNot suggested one. Not analyzed one. Executed one.\n\nRobinhood launched something called Agentic Accounts this week. You link an AI agent to a dedicated investment account. The agent builds your portfolio, rebalances it, places trades. While you're asleep or in a meeting or whatever.\n\nClaude and Cursor are the first supported agents.\n\nThis is the part people keep glossing over. We spent two years debating whether AI could understand finance. Nobody stopped to ask when it would just start doing finance.\n\nThe line between AI as a tool and AI as an actor just moved. And it moved quietly.\n\nEvery product team building agents right now is going to face a version of this question. At what point does the agent get to act without a confirmation click?\n\nWhat does your agent need access to before you'd trust it there?",
+        "You can now tell Claude how hard to think.\n\nThat's not a metaphor. Anthropic dropped effort controls with Opus 4.8 this week. You pick low effort for quick tasks, high effort for the stuff that needs real reasoning. On higher settings the model thinks more frequently and more deeply. On lower settings it responds faster and burns through your rate limits more slowly.\n\nThat's a new variable most people haven't considered.\n\nWe've been obsessing over which model is smartest. The better question is: what is your task actually demanding? A quick email reply doesn't need the same compute as a codebase audit across 400,000 lines. Now you can match the effort to the job.\n\nThis also matters for cost. If you're running high-stakes API calls at full horsepower on tasks that didn't need it, you've been overspending.\n\nSame model. Different settings. Very different outcomes.\n\nWhat's the hardest task you're currently throwing at a model that could probably run on medium?",
+        "This guy at ClickUp has 37 AI agents.\n\nScheduling agent. Analytics agent. Meeting transcript agent. One that talks to him like they're on the USS Enterprise. One with the personality of FBI negotiator Chris Voss for vendor calls.\n\nI'm not saying you need 37. But the reason most people have zero isn't because agents are hard to build. It's because they're waiting to understand the whole system before they start.\n\nThe whole system is not the point.\n\nStart with one task. The one you do every week that you could probably write down in two sentences. That's your job description. That's your first agent.\n\nIf it's repeatable, it's a skill. And if it's a skill, an agent can learn it.\n\nThe ClickUp guy didn't wake up one day with 37. He started with a scheduling agent because he kept planning his day the same way.\n\nWhat do you keep doing the same way?"
+      ],
+      "threads": [
+        "Claude Code can now spin up hundreds of subagents in a single session. You give it a big task, it writes a plan, forks into parallel workers, cross-checks the outputs, then reports back.\n\nThis week it did a full codebase migration across hundreds of thousands of lines of code. Start to merge.\n\nThat's not a chatbot anymore. That's a team.",
+        "The people who built Oculus just launched AI voice agents with personalities, memory, and real-time search. The app pulled a million users before it was even public. Four agents. Each one has a name, a voice, a way of talking.\n\nThey're designed to feel like actual conversations, not chatbots reading from a script.\n\nThe robot voice era is ending and I don't think people realize how fast.",
+        "Chris Koerner made a 9-minute video showing how to set up an AI agent that scans the internet for trending ideas 24/7 while your laptop is closed. No code. Runs on a server for about $10 a month.\n\nThe people paying attention to this stuff are already three steps in before the LinkedIn posts start.\n\nWhat are you already doing for yourself that an agent could just do instead?"
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-05-29",
+    "source": "The Koerner Office",
+    "title": "AI Agents Are Finally Easy to Set Up",
+    "url": "https://www.youtube.com/watch?v=XQJWYvbAaOg",
+    "video_id": "XQJWYvbAaOg"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-29",
+    "topic": "model_releases",
+    "title": "Introducing Claude Opus 4.8 \\ Anthropic",
+    "url": "https://www.anthropic.com/news/claude-opus-4-8",
+    "snippet": "# Introducing Claude Opus 4.8 \\ Anthropic\n[...]\n# Introducing Claude Opus 4.8\n[...]\n8,\n[...]\n026\n[...]\nWe\u2019re upgrading Claude Opus to a new version: Claude Opus 4.8. It builds on Opus 4.7 with improvements across benchmarks, and is a more effective collaborator. It\u2019s available today for the same price.\n[...]\nOpus 4.8 launches alongside several new features. Users on claude.ai now have control over"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-29",
+    "topic": "model_releases",
+    "title": "X Square Robot Open-Sources Wall-OSS-0.5, Bringing Pretrained VLA Performance Closer to Post-Training Levels",
+    "url": "https://www.prnewswire.com/news-releases/x-square-robot-open-sources-wall-oss-0-5--bringing-pretrained-vla-performance-closer-to-post-training-levels-302784293.html",
+    "snippet": "X Square Robot Open-Sources Wall-OSS-0.5, Bringing Pretrained VLA Performance Closer to Post-Training Levels Accessibility Statement Skip Navigation\n[...]\nSHENZHEN, China, May 28, 2026 /PRNewswire/ -- X Square Robot today announced the open-source release of Wall-OSS-0.5, a Vision-Language-Action (VLA) model designed for real-world robotic manipulation. The release aims to answer a key question in"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-29",
+    "topic": "model_releases",
+    "title": "Mistral launches Industrial Engineering AI with Airbus, BMW and EDF as headline customers",
+    "url": "https://thenextweb.com/news/mistral-physical-ai-airbus-bmw-industrial-launch",
+    "snippet": "Mistral launches Industrial Engineering AI with Airbus, BMW and EDF as headline customers\n[...]\nAt its first annual conference in Paris, Mistral formally rolled out the physics-aware AI stack it built around the Emmi acquisition, with Airbus, BMW and EDF as launch customers.\n[...]\nMistral AI used its first annual conference in Paris on Thursday to formally launch \u201cMistral for Industrial Engineerin"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-29",
+    "topic": "model_releases",
+    "title": "BernamaBiz - TII Unveils Arabic AI Model Setting Performance Benchmark",
+    "url": "https://www.bernama.com/lite/news.php?id=2509476",
+    "snippet": "BernamaBiz - TII Unveils Arabic AI Model Setting Performance Benchmark\n\n| LATEST NEWS | At 6 pm, the ringgit rose to 3.9625/9670 against the US dollar from Thursday's close of 3.9770/9805 | Responsible reporting is important, ensuring accurate facts are conveyed without affecting social harmony - PM Anwar | National Journalists\u2019 Day honours the role of media practitioners as the voice of the peopl"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-29",
+    "topic": "model_releases",
+    "title": "Ardoq Launches AI-First Enterprise Architecture Platform",
+    "url": "https://www.ardoq.com/news/ai-first-enterprise-architecture-platform",
+    "snippet": "Ardoq Launches AI-First Enterprise Architecture Platform\n[...]\n### Ardoq Launches the New Ardoq Experience to Bring Enterprise Architecture Closer...\n[...]\n# Ardoq Launches AI-First Enterprise Architecture Platform\n[...]\nCustom Agents, Omnipresent AI Assistant, and AI Import Builder Automate an Estimated 40% of Routine EA Work; Tenneco Already Achieving 292% ROI on Ardoq AI\n[...]\nOSLO, NORWAY \u2014 28"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-29",
+    "topic": "product_releases",
+    "title": "Google Unveils AI Threat Defense Platform to Fight AI-Powered Cyberattacks - SecurityWeek",
+    "url": "https://www.securityweek.com/google-unveils-ai-threat-defense-platform-to-fight-ai-powered-cyberattacks/",
+    "snippet": "Google Unveils AI Threat Defense Platform to Fight AI-Powered Cyberattacks - SecurityWeek\n[...]\nGoogle Cloud this week announced an always-on autonomous platform designed to protect enterprises from the rising wave of AI-powered cyberattacks.\n[...]\nThe new Google AI Threat Defense cybersecurity solution leverages AI to identify machine-powered threats faster and stop them before they can do harm.\n"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-29",
+    "topic": "product_releases",
+    "title": "Oculus Founders' AI Startup Sesame Debuts IoS App With Human-Like Voice Agents",
+    "url": "https://www.ibtimes.sg/oculus-founders-ai-startup-sesame-debuts-ios-app-human-like-voice-agents-87110",
+    "snippet": "# Oculus Founders' AI Startup Sesame Debuts IoS App With Human-Like Voice Agents\n[...]\nOculus Founders' AI Startup Sesame Debuts IoS App With Human-Like Voice Agents\n[...]\n# Oculus Founders' AI Startup Sesame Debuts IoS App With Human-Like Voice Agents\n[...]\n## The new iOS app introduces four AI voice agents designed for natural conversations, real-time search and deeper user interaction.\n[...]\nAI"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-29",
+    "topic": "product_releases",
+    "title": "Causaly Introduces Scientific Workflows to Turn Expert Scientific Methods into Repeatable, AI-Executed Processes in Life Sciences",
+    "url": "https://www.prnewswire.com/news-releases/causaly-introduces-scientific-workflows-to-turn-expert-scientific-methods-into-repeatable-ai-executed-processes-in-life-sciences-302784017.html",
+    "snippet": "Causaly Introduces Scientific Workflows to Turn Expert Scientific Methods into Repeatable, AI-Executed Processes in Life Sciences Accessibility Statement Skip Navigation\n[...]\nLONDON, May 28, 2026 /PRNewswire/ -- Causaly today announced Scientific Workflows, a new solution in its agentic AI platform that turns expert scientific processes into end-to-end AI workflows run autonomously by multi-agent"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-29",
+    "topic": "x_posts",
+    "title": "Moving away from monolithic prompts to a squad of AI agents makes ...",
+    "url": "https://www.facebook.com/googlecloud/posts/moving-away-from-monolithic-prompts-to-a-squad-of-ai-agents-makes-your-system-ea/1317945263816131/",
+    "snippet": "Moving away from monolithic prompts to a squad of AI agents makes your system easier to evaluate, debug, and scale in production. Watch this week's livestream for the full breakdown \u2192 https://goo.gle/4uFLwrj | Google Cloud | Facebook"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-29",
+    "topic": "x_posts",
+    "title": "\ud83d\ude3a Claude Opus 4.8 got safer today",
+    "url": "https://www.theneurondaily.com/p/claude-opus-4-8-got-safer-today",
+    "snippet": "\ud83d\ude3c Anthropic released Claude Opus 4.8 with effort controls.\n[...]\n\ud83c\udf93 Claude Code workflows turn one prompt into agent teams.\n[...]\nAnthropic\u2019s answer is Claude Opus 4.8, its newest flagship model for coding, agents, and long work sessions. The headline is this: better judgment, more control, and fewer \u201cI totally fixed it\u201d moments when the model did not, in fact, totally fix it.\n[...]\nThe praise camp"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-29",
+    "topic": "x_posts",
+    "title": "I built 37 AI agents to help at work. I made one act like a Star Trek ...",
+    "url": "https://www.aol.com/articles/built-37-ai-agents-help-091701000.html",
+    "snippet": "I built 37 AI agents to help at work. I made one act like a Star Trek character, and another like an FBI negotiator. - AOL\n[...]\nAndy Cabasso oversees 37 AI agents.\n[...]\nHe manages 37 AI agents that handle tasks like scheduling, analytics, and meeting follow-ups.\n[...]\nCabasso personalizes agents with fictional personalities to enhance engagement and task execution.\n[...]\nThis as-told-to essay is"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-29",
+    "topic": "x_posts",
+    "title": "Elon Musk clarifies SpaceX agreed to limited colossus AI lease with Anthropic",
+    "url": "https://www.thenews.com.pk/latest/1403985-elon-musk-clarifies-spacex-agreed-to-limited-colossus-ai-lease-with-anthropic",
+    "snippet": "Elon Musk clarifies SpaceX agreed to limited colossus AI lease with Anthropic\n[...]\n# Elon Musk clarifies SpaceX agreed to limited colossus AI lease with Anthropic\n[...]\nElon Musk confirms SpaceX will provide Anthropic temporary access to its advanced Colossus AI system under a limited six-month lease agreement\n[...]\nElon Musk clarifies SpaceX agreed to limited colossus AI lease with Anthropic\n[.."
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-29",
+    "topic": "x_posts",
+    "title": "Robinhood AI trading: Agentic Accounts explained | tbreak",
+    "url": "https://tbreak.com/robinhood-ai-trading-agentic-accounts/",
+    "snippet": "Robinhood AI\n[...]\nRobinhood has launched Agentic Accounts, a feature that allows AI agents like Claude or Cursor to trade stocks autonomously on behalf of users. As reported by Wall Street Journal, the feature is among the first AI agent integrations into a US retail brokerage.\n[...]\n- Robinhood's new Agentic Accounts allow AI agents like Claude and Cursor to trade stocks autonomously.\n- AI agent"
   }
 ]
