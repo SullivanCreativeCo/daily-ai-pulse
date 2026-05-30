@@ -3920,5 +3920,135 @@
     "title": "Robinhood AI trading: Agentic Accounts explained | tbreak",
     "url": "https://tbreak.com/robinhood-ai-trading-agentic-accounts/",
     "snippet": "Robinhood AI\n[...]\nRobinhood has launched Agentic Accounts, a feature that allows AI agents like Claude or Cursor to trade stocks autonomously on behalf of users. As reported by Wall Street Journal, the feature is among the first AI agent integrations into a US retail brokerage.\n[...]\n- Robinhood's new Agentic Accounts allow AI agents like Claude and Cursor to trade stocks autonomously.\n- AI agent"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-05-30",
+    "headline": "Anthropic shipped Opus 4.8 with genuine agentic infrastructure built in, and the world's largest law firm committed half a billion dollars to avoid being disintermediated by the same tools they're currently licensing. Same story told two ways: the organizations taking AI seriously aren't treating it as a feature anymore. They're treating it as the competitive moat.",
+    "url": "archive/2026-05-30.html",
+    "posts": {
+      "linkedin": [
+        "The world's biggest law firm just said something every service business needs to hear.\n\nKirkland & Ellis is spending $500 million on internal AI.\n\nNot to buy Harvey or some off-the-shelf tool. To build their own.\n\nTheir chairman's reasoning is worth sitting with.\n\n\"We don't get hired for the floor.\"\n\nThat's it. That's the whole thing.\n\nAI raised the baseline for knowledge work. Made average way better. Which means if your value is \"I know how to do the thing,\" you're competing with a system that never sleeps and gets cheaper every quarter.\n\nBut if your value is \"I know which thing to do and why\" (judgment, taste, context, relationships), the baseline rising actually helps you. It clears the field.\n\nMost service businesses I talk to are still building on floor-level skills. They're worried about being replaced. Meanwhile the smart ones are asking a completely different question.\n\nWhat's the ceiling version of what I do? And how do I get there faster?\n\nWhat do you actually get hired for that nobody else can replicate?",
+        "AI that tells you it's done when it isn't. That's been a quiet tax on every agentic workflow.\n\nAnthropic named it directly with Opus 4.8.\n\nThe model is reportedly 4x less likely to let its own code flaws slip through unremarked. They're calling it improved honesty.\n\nThe practical translation: the model checks what it made before handing it to you.\n\nNot a small thing.\n\nAn agent that self-verifies is closer to a junior developer with good instincts than a very fast autocomplete. The way you delegate to those two things is completely different.\n\nAnthropic also gave Claude Code the ability to orchestrate hundreds of parallel subagents on a single task. Real proof: a 750,000-line codebase migrated in 11 days at a 99.8% test pass rate.\n\nThe shift happening right now isn't just AI getting better at tasks. It's AI getting better at knowing when it got something wrong.\n\nThat's a different kind of infrastructure than what most teams are still mentally modeling.\n\nIf your current AI workflow doesn't have a verification step, who's doing that checking?",
+        "Three separate companies gave AI access to your calendar, your money, and your voice this week. Same week.\n\nGoogle Spark manages schedules and runs browser tasks on your behalf.\n\nChatGPT connected to bank accounts through Plaid.\n\nSesame launched an iOS app with agents that remember everything you tell them across every conversation.\n\nNone of these are just features. They're data access agreements with your own life.\n\nAnd most people are processing them like product updates instead of what they actually are.\n\nThis is the moment where agents start having enough context to be genuinely useful. Not \"help me write an email\" useful. More like: here's everything about how I actually live and work, now help me run it.\n\nThe question I keep coming back to is what you want in that context window.\n\nWhatever you feed consistently (spending habits, calendar patterns, how you communicate) shapes how the system thinks about you. Which shapes what it recommends.\n\nYou're not just using a tool. You're training a model on yourself.\n\nWhat would you want an agent to know about you by the end of the year?"
+      ],
+      "threads": [
+        "The thing nobody's talking about with Opus 4.8 is the honesty update.\n\nBenchmarks moved a little. Fine. The part that matters for real workflows is that the model is 4x less likely to tell you it's done when it isn't.\n\nThat's the difference between an agent you can trust to run solo and one you have to babysit the whole time.\n\nReal improvement. Watching how it holds up in actual use.",
+        "\"We don't get hired for the floor.\"\n\nThat's Kirkland & Ellis, the world's biggest law firm. They just committed $500 million to build their own internal AI platform.\n\nAI raised the baseline for knowledge work. If your value lives at the baseline, that's a tough spot right now. If it lives above it, the competition just got thinner.\n\nApplies to basically everyone doing knowledge work. Not just lawyers.",
+        "Google Spark, Sesame, ChatGPT with bank access. All in the same week.\n\nThese aren't chatbots with more features. They're the beginning of agents that actually know how you live.\n\nThe people being intentional about what they put in front of those systems are going to get something genuinely different out of them. Not better answers. Better judgment about them specifically.\n\nWorth thinking about what you want that to look like."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-05-30",
+    "source": "AI Daily Brief",
+    "title": "First Impressions of the New Opus 4.8",
+    "url": "https://www.youtube.com/watch?v=zf8BfgJghd8",
+    "video_id": "zf8BfgJghd8"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-05-30",
+    "source": "AI Daily Brief",
+    "title": "The Annual AI Slowdown Panic Is Here",
+    "url": "https://www.youtube.com/watch?v=Af18iulLsSs",
+    "video_id": "Af18iulLsSs"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-30",
+    "topic": "model_releases",
+    "title": "Anthropic releases Claude Opus 4.8",
+    "url": "https://www.artificialintelligence-news.com/news/anthropic-releases-claude-opus-4-8-news/",
+    "snippet": "Anthropic releases Claude Opus 4.8\n\n# Anthropic releases Claude Opus 4.8\n\nMay 29, 2026\n\nShare this story:\n\nTags:\n\n## agentic codinganthropicclaudeparallel workflowssub-agentstoken burn\n\nCategories:\n\n## AI Market Trends\n\nAnthropic has released Claude Opus 4.8, an upgrade to Claude Opus 4.7 that the company says brings improved results for coding, agent work, reasoning, and knowledge work. The platf"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-30",
+    "topic": "model_releases",
+    "title": "Anthropic launches Claude Opus 4.8, prepares Mythos-class models for all customers - Help Net Security",
+    "url": "https://www.helpnetsecurity.com/2026/05/29/anthropic-claude-opus-4-8/",
+    "snippet": "Anthropic launches Claude Opus 4.8, prepares Mythos-class models for all customers - Help Net Security\n\nHelp Net Security newsletters: Daily and weekly news, cybersecurity jobs, open source projects, breaking news \u2013 subscribe here!\n\nPlease turn on your JavaScript for this page to function normally.\n\n# Anthropic launches Claude Opus 4.8, prepares Mythos-class models for all customers\n\nAnthropic has"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-30",
+    "topic": "model_releases",
+    "title": "Stepfun releases Step\u202f3.7\u202fFlash: a 196\u202fB sparse\u2011MoE model tuned for agent pipelines | LavX News | LavX News",
+    "url": "https://news.lavx.hu/article/stepfun-releases-step-3-7-flash-a-196-b-sparse-moe-model-tuned-for-agent-pipelines",
+    "snippet": "Stepfun releases Step 3.7 Flash: a 196 B sparse\u2011MoE model tuned for agent pipelines | LavX News | LavX News\n\n#LLMs\n\n# Stepfun releases Step 3.7 Flash: a 196 B sparse\u2011MoE model tuned for agent pipelines\n\nMay 29, 2026 at 08:11 AM\u2022\n\nAI & ML Reporter\n\n\u20224 min read\n\nShare this article\n\nSave\n\nStepfun has open\u2011sourced Step 3.7 Flash, a 196\u2011billion\u2011parameter mixture\u2011of\u2011experts language model that claims 40"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-30",
+    "topic": "model_releases",
+    "title": "Elon Musk praises Anthropic's new AI model Opus 4.8 as company claims improved self-honesty and reasoning - The Times of India",
+    "url": "https://timesofindia.indiatimes.com/technology/tech-news/elon-musk-praises-anthropics-new-ai-model-opus-4-8-as-company-claims-improved-self-honesty-and-reasoning/articleshow/131381490.cms",
+    "snippet": "Elon Musk praises Anthropic's new AI model Opus 4.8 as company claims improved self-honesty and reasoning - The Times of India\n\nEdition\n\nIN\n\nEnglish\n\nSign In\n\n- Videos\n- News\n- Technology News\n- Tech News\n- Elon Musk praises Anthropic's new AI model Opus 4.8 as company claims improved self-honesty and reasoning\n\nTrending\n\n# Elon Musk praises Anthropic's new AI model Opus 4.8 as company claims impr"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-30",
+    "topic": "model_releases",
+    "title": "Anthropic introduces Opus 4.8 with dynamic workflow for Claude Code",
+    "url": "https://cryptobriefing.com/anthropic-opus-4-8-dynamic-workflow-claude-code/",
+    "snippet": "Anthropic introduces Opus 4.8 with dynamic workflow for Claude Code\n\nSEARCH\n\nSearching...\n\n# Anthropic introduces Opus 4.8 with dynamic workflow for Claude Code\n\nThe latest model upgrade lets Claude orchestrate hundreds of parallel subagents, migrating a 750,000-line codebase in 11 days with a 99.8% test pass rate.\n\nShare\n\nthis.removeAttribute('data-copied'), 2000);\" aria-label=\"Copy link\">\n\nAdd u"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-30",
+    "topic": "product_releases",
+    "title": "Copilot Health:\u00a0Now in\u00a0Preview | Microsoft Copilot Blog",
+    "url": "https://www.microsoft.com/en-us/microsoft-copilot/blog/2026/05/29/copilot-health-now-in-preview/",
+    "snippet": "Copilot Health: Now in Preview | Microsoft Copilot Blog\n\nYour sleep data says one thing. Your blood work says another. It\u2019s not that your health information is missing\u2014it\u2019s that nothing has brought it together in a way that makes sense. We\u2019re building Copilot Health to change that. Back in March, we announced Copilot Health.\n\nYour sleep data says one thing. Your blood work says another. It\u2019s not t"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-30",
+    "topic": "product_releases",
+    "title": "Gemini Spark rolls out to Google AI Ultra in the US: How it works",
+    "url": "https://9to5google.com/2026/05/29/gemini-spark-ultra-us/",
+    "snippet": "Gemini Spark rolls out to Google AI Ultra in the US: How it works\n\n# Gemini Spark rolls out to Google AI Ultra in the US: How it works\n\nAs previewed last week, Gemini Spark is now available in the US for Google AI Ultra subscribers.\n\n---\n\n- Related: New Gemini Live voices rolling out, Android widget gets Neural Expressive icons\n\n---\n\nGemini Spark is Google\u2019s 24/7 personal agent to automate tasks. "
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-30",
+    "topic": "product_releases",
+    "title": "Sesame launches iOS app with conversational agents designed to think out loud | keepingupwith.ai",
+    "url": "https://keepingupwith.ai/articles/sesame-launches-ios-app-with-conversational-agents-designed-to-think-out-loud/",
+    "snippet": "Sesame launches iOS app with conversational agents designed to think out loud | keepingupwith.ai\n\nSesame, the conversational AI startup founded by former Oculus leaders, launched its iOS app on May 28 with four distinct agents designed to prioritize natural dialogue over response latency. The app is available in 39 countries at no cost and represents the company\u2019s first major step toward agentic c"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-30",
+    "topic": "product_releases",
+    "title": "ChatGPT Can Now Manage Your Wallet and Bank Accounts: OpenAI Introduces Personal Finance Tools | LavX News | LavX News",
+    "url": "https://news.lavx.hu/article/chatgpt-can-now-manage-your-wallet-and-bank-accounts-openai-introduces-personal-finance-tools",
+    "snippet": "ChatGPT Can Now Manage Your Wallet and Bank Accounts: OpenAI Introduces Personal Finance Tools | LavX News | LavX News\n\n#AI\n\n# ChatGPT Can Now Manage Your Wallet and Bank Accounts: OpenAI Introduces Personal Finance Tools\n\nMay 30, 2026 at 01:52 AM\u2022\n\nLaptops Reporter\n\n\u20223 min read\n\nShare this article\n\nSave\n\nOpenAI has launched new personal finance tools for ChatGPT that allow users to connect their "
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-30",
+    "topic": "x_posts",
+    "title": "StepFun releases Step 3.7 Flash, an open-weight 198B MoE model that runs at 400 tokens per second \u00b7 Digg",
+    "url": "https://digg.com/ai/j53kc4c2",
+    "snippet": "StepFun releases Step 3.7 Flash, an open-weight 198B MoE model that runs at 400 tokens per second \u00b7 Digg\n\n1d ago\n\n# StepFun releases Step 3.7 Flash, an open-weight 198B MoE model that runs at 400 tokens per second\n\nThe Apache 2.0 model uses 11 billion active parameters\n\n\u2014\u20140\u2014\u2014\n\nOriginal post\n\n\u26a1\ufe0f Step 3.7 Flash is here: The new frontier is agent efficiency. #1 ClawEval-1.1 (67.1), #1 SimpleVQA Searc"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-30",
+    "topic": "x_posts",
+    "title": "Hands-On With Gemini Spark: I Gave It Access to My Life and It Friend-Zoned My Boyfriend \u2013 DNYUZ",
+    "url": "https://dnyuz.com/2026/05/29/hands-on-with-gemini-spark-i-gave-it-access-to-my-life-and-it-friend-zoned-my-boyfriend/",
+    "snippet": "Hands-On With Gemini Spark: I Gave It Access to My Life and It Friend-Zoned My Boyfriend \u2013 DNYUZ\n\nNo Result\n\nView All Result\n\nNo Result\n\nView All Result\n\n# Hands-On With Gemini Spark: I Gave It Access to My Life and It Friend-Zoned My Boyfriend\n\nAt its recent I/O developer conference, Google introduced Gemini Spark as an always-on agent that connects to your personal data, completes online tasks, "
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-30",
+    "topic": "x_posts",
+    "title": "Anthropic rolls out Claude Opus 4.8 with near-Mythos level alignment and 3x cheaper fast mode",
+    "url": "https://aibreakfast.beehiiv.com/p/anthropic-rolls-out-claude-opus-4-8-with-near-mythos-level-alignment-and-3x-cheaper-fast-mode",
+    "snippet": "Anthropic rolls out Claude Opus 4.8 with near-Mythos level alignment and 3x cheaper fast mode\n\n- Home\n- Posts\n- Anthropic rolls out Claude Opus 4.8 with near-Mythos level alignment and 3x cheaper fast mode\n\n# Anthropic rolls out Claude Opus 4.8 with near-Mythos level alignment and 3x cheaper fast mode\n\nMay 29, 2026\n\nIn partnership with\n\nGood morning. It\u2019s Friday, May 29th.\n\nThe vibe this week is b"
   }
 ]
