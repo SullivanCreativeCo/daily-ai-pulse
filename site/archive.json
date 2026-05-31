@@ -4050,5 +4050,151 @@
     "title": "Anthropic rolls out Claude Opus 4.8 with near-Mythos level alignment and 3x cheaper fast mode",
     "url": "https://aibreakfast.beehiiv.com/p/anthropic-rolls-out-claude-opus-4-8-with-near-mythos-level-alignment-and-3x-cheaper-fast-mode",
     "snippet": "Anthropic rolls out Claude Opus 4.8 with near-Mythos level alignment and 3x cheaper fast mode\n\n- Home\n- Posts\n- Anthropic rolls out Claude Opus 4.8 with near-Mythos level alignment and 3x cheaper fast mode\n\n# Anthropic rolls out Claude Opus 4.8 with near-Mythos level alignment and 3x cheaper fast mode\n\nMay 29, 2026\n\nIn partnership with\n\nGood morning. It\u2019s Friday, May 29th.\n\nThe vibe this week is b"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-05-31",
+    "headline": "Agentic AI cleared two major credibility hurdles simultaneously: Salesforce published hard enterprise numbers (231-day project finished in 13, 79% more pull requests), and a solo builder running an agent named Zach Morris hit $8K/month in recurring revenue in 30 days. The \"agents are theoretical\" argument got a lot harder to make today.",
+    "url": "archive/2026-05-31.html",
+    "posts": {
+      "linkedin": [
+        "A 231-day project got done in 13.\n\nThat's Salesforce's number from moving their entire engineering org to Claude Code agents. No token limits. Every developer.\n\n79% more pull requests. Fewer bugs. One API migration scoped at over seven months, finished before month one was over.\n\nThe developers didn't disappear. They became orchestrators. Instead of writing every line, they direct teams of specialized agents and step in when something needs actual judgment.\n\nThat's the job now. Not less important. Just different.\n\nI keep hearing people debate whether AI will replace developers. That's the wrong frame. The real question is what happens to developers who figure out how to direct agents well versus the ones who don't.\n\nThe Salesforce numbers suggest the gap between those two groups is already pretty significant.\n\nWhat does 'orchestrator' actually look like at your company right now?",
+        "An AI agent found 350 local businesses in Utah that didn't have websites.\n\nThen it built all 350 of them. Token cost per site: a handful of cents.\n\nThen it designed and sent physical postcards with QR codes. \"We built you a free website. Scan to see it.\"\n\n341 delivered. 68 people scanned. 9 converted into paying clients.\n\nResult: $8,000 a month in recurring revenue. In 30 days. From scratch.\n\nThis is from the latest Koerner Office episode with Brandon Doyle. And the part that keeps sticking with me is the offline piece. The postcard is what closed it. An agent that can do the online work at scale, combined with a physical card that lands in someone's hands.\n\nA website design business isn't a new idea. Using an agent to find leads, build the product, and run direct mail before most people are even trying it, that's the new idea.\n\nWhat are you already doing for yourself that someone else would find useful?",
+        "Google launched a 24/7 AI agent that works while your laptop is closed.\n\nGemini Spark runs on cloud servers, connects to your Google Workspace, and keeps working even when your devices are off. Book a flight. Build an outreach list from your inbox. Organize expenses. All without you watching.\n\nSundar Pichai's joke at Google I/O: \"Yes, you can close your laptop.\"\n\nThat line is aimed directly at people who've tried OpenClaw or similar tools and found the always-on hardware setup annoying. Spark is positioned as agentic AI you don't need to nerd out to use.\n\nPrice right now is $100/month. US only. Google AI Ultra subscribers.\n\nThat's not cheap. But for a business owner who'd otherwise spend hours doing the task manually, it's not a crazy number either.\n\nThe interesting thing isn't the feature list. It's that Google is making background agents a normal-person product, not a power-user hobby.\n\nThe question isn't whether you'll have an AI working in the background eventually. It's what you'll have it do when it gets there."
+      ],
+      "threads": [
+        "Salesforce moved their whole engineering team to Claude Code agents. No token limits. Everyone.\n\nOne project scoped at 231 days finished in 13. 79% more pull requests. Fewer errors.\n\nDevelopers didn't get replaced. They became orchestrators. Stop writing every line. Start directing which agents do what.\n\nThat's the shift. Not replacement. Reorganization.\n\nAnd the gap between people who can orchestrate well and people who can't is getting hard to miss.",
+        "A Netflix engineer got a $287 Claude bill on a home project.\n\nGot annoyed enough to build a fix. Found that up to 90% of tokens in most agent prompts are just noise. Built a tool to strip them before they hit the model. Open sourced it.\n\nIt's called Project Headroom. Five months in, it's saved users $700K combined.\n\nMost of us are paying for a lot of noise and don't know it yet.",
+        "Jason Lemkin has been running 20+ AI agents at SaaStr for nine months.\n\nHis most unexpected finding: customers treat agents better than they treat humans.\n\nLess yelling. More patience. The agent doesn't get rattled, so the conversation never escalates.\n\nNobody writes about this benefit. He did. And it's probably the strongest practical case for customer-facing agents I've read in a while."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-05-31",
+    "source": "The Koerner Office",
+    "title": "I Told an AI Agent to Make Me Money. It Did.",
+    "url": "https://www.youtube.com/watch?v=1PwTrINNzOA",
+    "video_id": "1PwTrINNzOA"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-31",
+    "topic": "model_releases",
+    "title": "Alibaba Unveils Qwen3.7-Max Flagship Model to Pioneer the Era of Autonomous AI Agents and Enterprise Workflow Automation",
+    "url": "https://marketersindex.com/alibaba-unveils-qwen3-7-max-flagship-model-to-pioneer-the-era-of-autonomous-ai-agents-and-enterprise-workflow-automation/",
+    "snippet": "Alibaba Unveils Qwen3.7-Max Flagship Model to Pioneer the Era of Autonomous AI Agents and Enterprise Workflow Automation\n\n# Alibaba Unveils Qwen3.7-Max Flagship Model to Pioneer the Era of Autonomous AI Agents and Enterprise Workflow Automation\n\nThe Qwen team at Alibaba Group has officially launched Qwen3.7-Max, a flagship large language model (LLM) engineered specifically to serve as the foundati"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-31",
+    "topic": "model_releases",
+    "title": "Sri Lanka\u2019s AI Industry Reaches Major Milestone With Release of Chat2Find LLM - FINANCIAL CHRONICLE",
+    "url": "https://srilankachronicle.com/sri-lankas-ai-industry-reaches-major-milestone-with-release-of-chat2find-llm/",
+    "snippet": "Sri Lanka\u2019s AI Industry Reaches Major Milestone With Release of Chat2Find LLM - FINANCIAL CHRONICLE\n\nColombo, Sri Lanka \u2013 Sri Lanka\u2019s artificial intelligence sector has reached a historic milestone with the public release of Chat2Find-Instruct-v1, the country\u2019s first fully developed trilingual large language model (LLM) available as an open-source, open-weight AI model.\n\nThe release marks a signif"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-31",
+    "topic": "model_releases",
+    "title": "New protein-folding AI vastly expands on Alphafold's efforts | Scientific American",
+    "url": "https://www.scientificamerican.com/article/new-protein-folding-ai-vastly-expands-on-alphafolds-efforts/",
+    "snippet": "New protein-folding AI vastly expands on Alphafold's efforts | Scientific American\n\nMay 30, 2026\n\n3 min read\n\nAdd Us On GoogleAdd SciAm\n\n# New protein-folding AI predicts the structures of 1 billion proteins\n\nThe new open-source atlas, generated by an AI tool called ESMFold2, vastly increases the known protein universe\n\nBy Ewen Callaway, Miryam Naddaf& Nature magazine\n\nThe AI tool designed binders"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-31",
+    "topic": "model_releases",
+    "title": "Google rolls out Gemini Spark background agent | Let's Data Science",
+    "url": "https://letsdatascience.com/news/google-rolls-out-gemini-spark-background-agent-0604678b",
+    "snippet": "Google rolls out Gemini Spark background agent | Let's Data Science\n\nFeedback\n\nGoogle rolls out Gemini Spark background agent | Let's Data Science\nSkip to content\n\nLDS Logo\nLDS\nLet's Data ScienceLEARN \u2022 BUILD \u2022 STAY AHEAD\n\n\nSign in\n\nFeedback\nProducts & Toolsgooglegemini sparkagentic aiworkspace integration\n# Google rolls out Gemini Spark background agent\nblog.google\nforbes.com\ntechcrunch.com\n7 sou"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-31",
+    "topic": "model_releases",
+    "title": "Claude Opus 4.8 orchestrates hundreds of parallel subagents, hits 84% on browser-agent benchmark | UncensoredHub",
+    "url": "https://uncensoredhub.ai/news/2026-05-29-claude-opus-4-8-orchestrates-hundreds-of-parallel-subagents-hits-84-on-browser-a",
+    "snippet": "Loading\u2026\n\nClaude Opus 4.8 orchestrates hundreds of parallel subagents, hits 84% on browser-agent benchmark | UncensoredHub\n\nUncensoredHubUncensoredHub.ai\nNews\nNewsroom\nGoogle's AI search leaves brands blind to how they're describedIndustry \u00b7 15h agoMero-Artemis-31B-v0.3.1-heretic: uncensored 31B multimodal merge on Gemma4Releases \u00b7 16h agoYouTube moves AI labels to top of Shorts, auto-detects synt"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-31",
+    "topic": "product_releases",
+    "title": "Google's Agentic AI Tool Gemini Spark Is Now Available",
+    "url": "https://uk.pcmag.com/ai/165246/googles-agentic-ai-tool-gemini-spark-is-now-available",
+    "snippet": "Google's Agentic AI Tool Gemini Spark Is Now Available\n\nPCMag editors select and review products independently. If you buy through affiliate links, we may earn commissions, which help support our testing.\n\n# Google's Agentic AI Tool Gemini Spark Is Now Available\n\nUpdated May 30, 2026\n\n## Gemini Spark is currently only available to Google AI Ultra subscribers in the US, meaning you\u2019ll need to spend"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-31",
+    "topic": "product_releases",
+    "title": "Koji: World\u2019s first AI tutor that teaches kids how to think, not memorize",
+    "url": "https://www.thenews.com.pk/latest/1404161-koji-worlds-first-ai-tutor-that-teaches-kids-how-to-think-not-memorize",
+    "snippet": "Koji: World\u2019s first AI tutor that teaches kids how to think, not memorize\n\n# Koji: World\u2019s first AI tutor that teaches kids how to think, not memorize\n\nBrilliant founder Sue Khim has recently unveiled the world's first AI graphical tutor designed for thinking skills\n\nBy Aqsa Qaddus Tahir\n\nPublished May 30, 2026\n\nKoji: World\u2019s first AI tutor that teaches kids how to think, not memorize\n\nIn today\u2019s "
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-31",
+    "topic": "product_releases",
+    "title": "Genesis AI Releases Nyx, Quadrants, and Genesis World 1.0 Physics Platform for Scalable Robotics Foundation Model Evaluation - MarkTechPost",
+    "url": "https://www.marktechpost.com/2026/05/30/genesis-ai-releases-nyx-quadrants-and-genesis-world-1-0-physics-platform-for-scalable-robotics-foundation-model-evaluation/",
+    "snippet": "Genesis AI Releases Nyx, Quadrants, and Genesis World 1.0 Physics Platform for Scalable Robotics Foundation Model Evaluation - MarkTechPost\n\nSearch\n\nPremium Content\n\nRead our exclusive articles\n\nFacebook\n\nInstagram\n\nX\n\nSearch\n\nHome Artificial Intelligence AI Infrastructure Genesis AI Releases Nyx, Quadrants, and Genesis World 1.0 Physics Platform for...\n\nGenesis AI released Genesis World 1.0. The "
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-31",
+    "topic": "product_releases",
+    "title": "Netflix wiz creates app to slash AI bills, then open sources it",
+    "url": "https://www.theregister.com/ai-ml/2026/05/31/netflix-wiz-creates-app-to-slash-ai-bills-then-open-sources-it/5248702",
+    "snippet": "Netflix wiz creates app to slash AI bills, then open sources it\n\nAI + ML\n\nProject Headroom could save you big money, too\n\nAs the COOs from both Uber and Microsoft recently learned, encouraging company engineers to use AI aggressively can lead to hefty usage bills, perhaps even offsetting all the gains from laying off employees.\n\nThe AI bills at Netflix may not be so eye-popping thanks to company s"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-31",
+    "topic": "product_releases",
+    "title": "GUIDE Brings AI-Native Workflow Automation to AWS with Cross-Application Agent Support - buzzbytech.com",
+    "url": "https://buzzbytech.com/guide-brings-ai-native-workflow-automation-to-aws-with-cross-application-agent-support/",
+    "snippet": "GUIDE Brings AI-Native Workflow Automation to AWS with Cross-Application Agent Support - buzzbytech.com\n\nClose Menu\n\nTrending\n\n- Weekly deals: Xiaomi 17T duo go on sale with price cuts, plus discounts on Galaxy S26 Ultra, iPhone Air and more\n- How Turkey Hacked the Hair Transplant Industry\n- After Nvidia\u2019s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M\n- Logitech Signature Comf"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-31",
+    "topic": "x_posts",
+    "title": "I put Google's 24/7 AI assistant Gemini Spark to work, and it's actually pretty useful | TechCrunch",
+    "url": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
+    "snippet": "I put Google's 24/7 AI assistant Gemini Spark to work, and it's actually pretty useful | TechCrunch\n\n\u2013:\u2013:\u2013:\u2013\n\nThe first StrictlyVC of 2026 hits SF on April 30. Tickets are going fast. Register now.\n\nGet Disrupt Early Bird savings of up to $410 by May 29, 11:59 p.m. PT. Register now.\n\nImage Credits: Bloomberg / Contributor/ Getty Images\n\n# I put Google\u2019s 24/7 AI assistant Gemini Spark to work, and "
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-31",
+    "topic": "x_posts",
+    "title": "Gemini Spark is now rolling out and it hopes you will trust an AI more than apps - Digital Trends",
+    "url": "https://www.digitaltrends.com/cool-tech/gemini-spark-is-now-rolling-out-and-it-hopes-you-will-trust-an-ai-more-than-apps/",
+    "snippet": "Gemini Spark is now rolling out and it hopes you will trust an AI more than apps - Digital Trends Skip to main content\n\nDigital Trends\n\nFor years, AI assistants have mostly lived in chat windows. You ask a question, they answer it, and the interaction ends there. Google appears ready to push that idea much further with Gemini Spark, a new AI agent that is now rolling out to all Google AI Ultra sub"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-31",
+    "topic": "x_posts",
+    "title": "Pope Leo praised for AI intervention: \u2018Silicon Valley is having a meltdown' | indy100",
+    "url": "https://www.indy100.com/politics/pope-leo-xiv-artificial-intelligence",
+    "snippet": "Pope Leo praised for AI intervention: \u2018Silicon Valley is having a meltdown' | indy100\n\nIndy100 logo Newsletter sign up Register/Sign in\n\nMore\n\nSearch\n\n# Pope Leo praised for AI intervention: \u2018Silicon Valley is having a meltdown'\n\n7h\n\nPope Leo vs AI: Pontiff sounds alarm over the 'culture of power' driving the tech race\n\nEuronews Europe / VideoElephant\n\nPope Leo XIV, who has already made headlines "
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-31",
+    "topic": "x_posts",
+    "title": "Salesforce claims AI agents cut a 231-day migration to 13 days with fewer incidents",
+    "url": "https://the-decoder.com/salesforce-claims-ai-agents-cut-a-231-day-migration-to-13-days-with-fewer-incidents/",
+    "snippet": "Salesforce claims AI agents cut a 231-day migration to 13 days with fewer incidents\n\n# Salesforce claims AI agents cut a 231-day migration to 13 days with fewer incidents\n\nMay 30, 2026\n\nGPT-Image-2 prompted by THE DECODER\n\n## Key Points\n\n- Salesforce has shifted its entire software development process to AI agents powered by Anthropic's Claude Code, operating without token limits, marking a fundam"
+  },
+  {
+    "kind": "news",
+    "date": "2026-05-31",
+    "topic": "x_posts",
+    "title": "One Unexpected Benefit of Our AI VP Customer Success: Customers Yell a Lot Less. Everything Is Just \u2026 More Calm. | SaaStr",
+    "url": "https://www.saastr.com/one-unexpected-benefit-of-our-ai-vp-customer-success-customers-yell-a-lot-less-everything-is-just-more-calm/",
+    "snippet": "One Unexpected Benefit of Our AI VP Customer Success: Customers Yell a Lot Less. Everything Is Just \u2026 More Calm. | SaaStr\n\n# One Unexpected Benefit of Our AI VP Customer Success: Customers Yell a Lot Less. Everything Is Just \u2026 More Calm.\n\n#### Agents Really > Humans in Many Cases. If the AI Agent is Really Well Trained and Designed.\n\nThere\u2019s a part of running AI agents in production that nobody wr"
   }
 ]
