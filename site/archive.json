@@ -4344,5 +4344,87 @@
     "title": "Katie Miller shares ChatGPT said \u2018Charlie Kirk wasn\u2019t assassinated\u2019, Elon Musk responds - The Times of India",
     "url": "https://timesofindia.indiatimes.com/technology/tech-news/katie-miller-shares-chatgpt-said-charlie-kirk-wasnt-assassinated-elon-musk-responds/articleshow/131420723.cms",
     "snippet": "Katie Miller shares ChatGPT said \u2018Charlie Kirk wasn\u2019t assassinated\u2019, Elon Musk responds - The Times of India\n\nEdition\n\nIN\n\nEnglish\n\nSign In\n\n- Videos\n- News\n- Technology News\n- Tech News\n- Katie Miller shares ChatGPT said \u2018Charlie Kirk wasn\u2019t assassinated\u2019, Elon Musk responds\n\nTrending\n\n# Katie Miller shares ChatGPT said \u2018Charlie Kirk wasn\u2019t assassinated\u2019, Elon Musk responds\n\nComments\n\nShare\n\nAA\n\n"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-06-01",
+    "headline": "NVIDIA dropped four major open-source AI releases in a single day at GTC Taipei: Cosmos 3, Nemotron 3, Alpamayo 2 Super, and the Agent Toolkit. The through-line across all of it is open. NVIDIA is betting that owning the open-weight infrastructure layer for physical AI and enterprise agents is worth more than any closed-model moat.",
+    "url": "archive/2026-06-01.html",
+    "posts": {
+      "linkedin": [
+        "NVIDIA just dropped four major releases in a single day. The thing nobody's talking about is what they all have in common.\n\nCosmos 3, Nemotron 3, Alpamayo 2 Super, Agent Toolkit. All open. All today.\n\nThat's not a coincidence. That's a strategy.\n\nThe play: give enterprises the open-weight stack before closed API providers can lock them in. Nemotron 3 Ultra is 500 billion parameters but only activates 50 billion per token. It runs like a 50B model, thinks like a 500B one. Palantir, CrowdStrike, and Perplexity are already integrating.\n\nMeanwhile, Cosmos 3 is teaching AI to understand physical space. Robots. Autonomous vehicles. Warehouses. It reasons about the real world, not just text.\n\nThe shift from \"AI that writes\" to \"AI that acts in physical environments\" is moving faster than most people's roadmaps account for.\n\nNot just robotics teams. If AI can reason about physical space, the next generation of automation doesn't stop at digital workflows.\n\nWhat does that actually change for how you're building right now?",
+        "Coinbase just gave AI agents permission to move your money. For real.\n\nBase MCP connects ChatGPT and Claude directly to your crypto wallet. You type a plain-language instruction. The model proposes the trade. You approve. Done.\n\nRight now, you still have to say yes. Nothing executes without your manual approval.\n\nBut that single approval step is the only thing between \"AI that recommends financial moves\" and \"AI that makes financial moves.\" And as trust builds, that step gets compressed.\n\nAI agents are picking up real-world authority faster than most people are building frameworks for when to trust them. Crypto is just the first domain with a clean technical path to execution.\n\nThink about the categories that follow. Vendor contracts. Ad spend. Hiring. Procurement.\n\nThe question isn't whether AI agents will have spending authority in your business. It's whether your guardrails get built before or after the first expensive mistake.",
+        "A Chinese lab just shipped an open-weights model that beats Gemini on coding benchmarks. And it's not a one-off.\n\nMiniMax M3 scores 59% on SWE-Bench Pro. Behind Claude Opus 4.7 (64.3%) but ahead of Gemini 3.1 Pro (54.2%). For an open-weights model you can download.\n\nThe combination that matters: frontier coding, million-token context, native multimodal. All in one open model. Until M3, that bundle was only available from closed-source providers.\n\nChinese labs have been doing this for two years straight. DeepSeek, Qwen, now MiniMax. Each release closes a capability gap that took US closed labs months and hundreds of millions to build.\n\nIf you're building entirely on one closed API, the market is giving you a signal. The diversification window is open and it's wider than it's been.\n\nThe question isn't which model wins the benchmark race. It's how fast the tier below \"frontier\" gets good enough for 90% of what you're actually building."
+      ],
+      "threads": [
+        "NVIDIA dropped four massive releases today at GTC Taipei. Cosmos 3 for robots and self-driving cars. Nemotron 3 at 500 billion parameters, open source. Alpamayo 2 for autonomous driving. An Agent Toolkit for enterprises. Every single one of them open. That's the through-line. They're building the open stack for physical AI before closed providers can lock enterprises in. The \"AI that acts in the real world\" era isn't a roadmap item anymore. It shipped today.",
+        "Claude can now trade crypto for you. Not just recommend it. Actually execute it. Coinbase's Base MCP connects directly to your wallet and lets AI agents propose real transactions. You still have to approve. But every category of real-world AI authority starts exactly like this. Small. Manual. Then completely normal. The permission boundary is the only thing worth watching.",
+        "Open-weights models are now beating Gemini on coding benchmarks. MiniMax M3 is open source, handles a million-token context window, and does multimodal natively. A year ago that combination was only possible from closed-source labs. Now it's a download. Chinese labs have closed this gap in back-to-back years. The difference between \"frontier\" and \"free and open\" keeps shrinking."
+      ]
+    }
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-01",
+    "topic": "model_releases",
+    "title": "Develop Physical AI Reasoning, World, and Action Models with NVIDIA Cosmos 3 | NVIDIA Technical Blog",
+    "url": "https://developer.nvidia.com/blog/develop-physical-ai-reasoning-world-and-action-models-with-nvidia-cosmos-3/",
+    "snippet": "Develop Physical AI Reasoning, World, and Action Models with NVIDIA Cosmos 3 | NVIDIA Technical Blog\n\nRelated Resources\n\nSimulation / Modeling / Design\n\n# Develop Physical AI Reasoning, World, and Action Models with NVIDIA Cosmos 3\n\nPhysical AI systems must understand the real world before they can act within it. Robots, autonomous vehicles, and smart spaces need to understand what\u2019s happening in "
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-01",
+    "topic": "model_releases",
+    "title": "MiniMax Releases MiniMax M3, Is Competitive With Frontier Models On Many Benchmarks",
+    "url": "https://officechai.com/ai/minimax-releases-minimax-m3-is-competitive-with-frontier-models-on-many-benchmarks/",
+    "snippet": "MiniMax Releases MiniMax M3, Is Competitive With Frontier Models On Many Benchmarks\n\nChinese open-weights models keep nibbling away at the leads of their US closed-source counterparts.\n\nThe latest entrant is MiniMax M3, a new flagship model from Shanghai-based AI lab MiniMax that the company claims is the first open-weights model to simultaneously deliver frontier-level coding, million-token conte"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-01",
+    "topic": "model_releases",
+    "title": "NVIDIA Nemotron 3 Launches 500B-Param Open Ultra Model | AI Weekly",
+    "url": "https://aiweekly.co/alerts/nvidia-nemotron-3-launches-500b-param-open-ultra-model",
+    "snippet": "NVIDIA Nemotron 3 Launches 500B-Param Open Ultra Model | AI Weekly\n\n## Key insights\n\n- NVIDIA Nemotron 3 Ultra packs ~500B total parameters but activates only 50B per token through a mixture-of-experts architecture.\n- Nano is available immediately on Hugging Face and AWS Bedrock; Super and Ultra models are scheduled for the first half of 2026.\n- Nemotron 3 Nano achieves 4x higher throughput than i"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-01",
+    "topic": "model_releases",
+    "title": "NVIDIA Launches Alpamayo 2 Super Open Reasoning Model for Robotaxis",
+    "url": "https://finance.yahoo.com/sectors/technology/articles/nvidia-launches-alpamayo-2-super-044600719.html",
+    "snippet": "NVIDIA Launches Alpamayo 2 Super Open Reasoning Model for Robotaxis\n\nOops, something went wrong\n\nThis is a paid press release. Contact the press release distributor directly with any inquiries.\n\n# NVIDIA Launches Alpamayo 2 Super Open Reasoning Model for Robotaxis\n\nNVIDIA\n\nNVIDIA Alpamayo 2 Super\n\nNVIDIA\u2019s most powerful open reasoning model to date, NVIDIA Alpamayo 2 Super is an open 32-billion-pa"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-01",
+    "topic": "product_releases",
+    "title": "Cypris Launches Agentic Monitoring, the First R&D Intelligence Product That Acts on Users' Behalf While They're Off Platform",
+    "url": "https://www.prnewswire.com/news-releases/cypris-launches-agentic-monitoring-the-first-rd-intelligence-product-that-acts-on-users-behalf-while-theyre-off-platform-302787214.html",
+    "snippet": "Cypris Launches Agentic Monitoring, the First R&D Intelligence Product That Acts on Users' Behalf While They're Off Platform Accessibility Statement Skip Navigation\n\nNew capability continuously monitors patents, scientific papers, chemical compounds, regulatory filings, M&A activity, and product launches, delivering proactive R&D intelligence directly to customer inboxes.\n\nNEW YORK, June 1, 2026 /"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-01",
+    "topic": "product_releases",
+    "title": "Nvidia RTX Spark comes to Windows PCs with Arm CPU, RTX GPU, and unified memory - Ars Technica",
+    "url": "https://arstechnica.com/gadgets/2026/06/nvidia-gets-into-the-arm-pc-business-with-new-high-end-rtx-spark-processor/",
+    "snippet": "Nvidia RTX Spark comes to Windows PCs with Arm CPU, RTX GPU, and unified memory - Ars Technica\n\nText settings\n\nStory text\n\nSize Small Standard Large Width * Standard Wide Links Standard Orange\n\n* Subscribers only Learn more\n\nMinimize to nav\n\nThese days, Nvidia primarily sells AI data center products, and its traditional consumer devices feel like more of a side project. But the company occasionall"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-01",
+    "topic": "x_posts",
+    "title": "Enterprise software companies partner to use Nvidia Agent Toolkit - GamesBeat",
+    "url": "https://gamesbeat.com/enterprise-software-companies-partner-to-use-nvidia-agent-toolkit/",
+    "snippet": "Enterprise software companies partner to use Nvidia Agent Toolkit - GamesBeat\n\nEnterprise software firms are building AI agents. Source: Nvidia\n\nBecome a member of GB MAX to gain exclusive access to the industry and to the most influential global B2B leadership community in the business of gaming, entertainment, and tech. Join now and also get a VIP ticket to GamesBeat Next (Nov 2-3, SF).\n\nNvidia "
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-01",
+    "topic": "x_posts",
+    "title": "Coinbase's Base MCP Lets AI Agents Trade Crypto For You - Memeburn",
+    "url": "https://memeburn.com/coinbases-base-blockchain-now-lets-chatgpt-and-claude-execute-real-crypto-trades/",
+    "snippet": "Coinbase's Base MCP Lets AI Agents Trade Crypto For You - Memeburn\n\n# Coinbase's Base Blockchain Now Lets ChatGPT and Claude Execute Real Crypto Trades\n\nBase MCP \u2014 launched May 26, 2026 \u2014 connects AI agents like ChatGPT and Claude directly to crypto wallets on Coinbase's Base network. Users can swap tokens, send funds, and interact with six DeFi protocols through plain-language chat. Here's what y"
   }
 ]
