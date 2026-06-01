@@ -20,15 +20,189 @@
   </header>
   <main class="reading-column">
     <p class="dateline">2026-06-01</p>
-    <p class="last-updated">Last updated 2026-06-01 12:25 UTC</p>
+    <p class="last-updated">Last updated 2026-06-01 19:24 UTC</p>
     <article class="digest">
-<h1 id="daily-ai-pulse-2026-06-01">Daily AI Pulse - 2026-06-01</h1>
+<h1 id="daily-ai-pulse-2026-06-01">Daily AI Pulse — 2026-06-01</h1>
 
 <h2 id="todays-headline">Today's headline</h2>
 
-<p>Quiet day in the harvest. No new podcast episodes or fresh news cleared the dedupe filter.</p>
+<p>Anthropic went from $3B to $47B in annualized revenue in roughly a year, and the math that got them there is now landing on your invoice: the AI seat-pricing era is over and usage-based token billing is replacing every platform that built on subsidized flat rates. May 2026 is the month the AI subsidy officially ended.</p>
 
-<p><em>Check back tomorrow.</em></p>
+<section class="todays-posts">
+<h2 class="todays-posts-title">Today&rsquo;s posts</h2>
+<p class="todays-posts-sub">Three for LinkedIn, three for Threads / IG. One click to copy.</p>
+<h3 class="post-group-label">LINKEDIN DRAFTS</h3>
+<div class="post-card" data-post><div class="post-card-head"><span class="post-num">LI . NO. 01</span><button type="button" class="post-copy" aria-label="Copy post">COPY</button></div><pre class="post-body">One builder racked up $5,000 in API costs in six weeks.
+
+That's more than two years of Claude Max subscriptions. From one project.
+
+The AI seat model is dying. Fast.
+
+For the past couple years, flat-rate subscriptions covered what it actually cost to run these models. GitHub Copilot said it plainly last month: a quick chat and a multi-hour autonomous coding session cost the same. They've been absorbing the difference. That's over.
+
+Anthropic went from $3B to $47B in annualized revenue in roughly a year. That math only works because people are burning tokens at a scale nobody planned for.
+
+So here's the shift that matters: we're moving from "how much AI can I afford per month" to "how much does this specific workflow actually cost."
+
+That's a different question. Most teams budgeted for AI like it was a software subscription. Agents changed the math.</pre></div>
+<div class="post-card" data-post><div class="post-card-head"><span class="post-num">LI . NO. 02</span><button type="button" class="post-copy" aria-label="Copy post">COPY</button></div><pre class="post-body">Anthropic published a 31.5% hijack rate for their browser agent.
+
+Every other major lab gave us almost nothing comparable.
+
+On the surface, 31.5% sounds bad. It isn't.
+
+This spring, all four frontier labs put out prompt injection disclosures. Anthropic dropped 244 pages across four agentic surfaces. OpenAI covered one surface. Google moved the topic into a separate safety framework. Meta shipped nothing.
+
+The 31.5% is the only real, comparable number anyone published.
+
+And that changes what it means.
+
+If I'm buying an enterprise AI tool and one vendor says "here's our actual red-team failure rate" and three others say "we take safety seriously," I know which one I trust with production data.
+
+Showing your work in a space where everyone's racing to ship is genuinely differentiated. Not just honest. It gives buyers something real to evaluate.</pre></div>
+<div class="post-card" data-post><div class="post-card-head"><span class="post-num">LI . NO. 03</span><button type="button" class="post-copy" aria-label="Copy post">COPY</button></div><pre class="post-body">Robinhood now lets an AI agent buy stocks for you while your phone is off.
+
+Google's Gemini Spark browses the web, checks your calendar, makes reservations. All in the background. Device off. No input needed.
+
+Both shipped in the last week.
+
+The question most people are asking is whether AI can do this. It clearly can.
+
+The question that's actually interesting: do you trust it enough to hand it the keys?
+
+Robinhood built in a kill switch and isolated accounts. Google requires approval before anything significant. Neither one is asking you to go all in.
+
+They're offering a small, reversible experiment.
+
+And that's how most agent adoption is going to happen. Not a big rollout. Not a policy decision. A kill switch and a spending cap and someone deciding "let's try it."
+
+So: what's the smallest experiment you could run this week?</pre></div>
+<h3 class="post-group-label">THREADS / IG CAPTIONS</h3>
+<div class="post-card" data-post><div class="post-card-head"><span class="post-num">TH . NO. 01</span><button type="button" class="post-copy" aria-label="Copy post">COPY</button></div><pre class="post-body">One project. Six weeks. $5,000 in API costs.
+
+That's more than two years of Claude Max. From one agentic build.
+
+The flat-rate subsidy era is ending. Usage-based billing is here. And the question isn't "is AI worth it" anymore.
+
+It's whether this specific workflow is worth it at actual cost. That's a harder question. Worth asking before you build.</pre></div>
+<div class="post-card" data-post><div class="post-card-head"><span class="post-num">TH . NO. 02</span><button type="button" class="post-copy" aria-label="Copy post">COPY</button></div><pre class="post-body">Gemini Spark is rolling out now. It browses, books, texts, and handles errands for you. Works while your device is off.
+
+The thing that gets me is the framing. Google isn't just asking "is this useful." They're asking "do you trust us enough."
+
+That's the actual product question. Every agent launch from here out is gonna be a trust pitch first and a feature pitch second.</pre></div>
+<div class="post-card" data-post><div class="post-card-head"><span class="post-num">TH . NO. 03</span><button type="button" class="post-copy" aria-label="Copy post">COPY</button></div><pre class="post-body">NVIDIA just shipped Cosmos 3. A foundation model for robots.
+
+Not AI bolted onto robotics. A world model: it understands physics, generates simulations, and predicts how things should move, all in one system.
+
+The door problem is the classic example. A three-year-old handles a door without thinking. A robot has to solve push vs. pull, handle type, grip, torque, the whole arc. That's months of data collection and training per action.
+
+Cosmos 3 is the training shortcut that changes that math.</pre></div>
+</section>
+<script>
+document.addEventListener('click', (e) => {
+  const btn = e.target.closest('.post-copy');
+  if (!btn) return;
+  const card = btn.closest('[data-post]');
+  if (!card) return;
+  const body = card.querySelector('.post-body');
+  if (!body) return;
+  navigator.clipboard.writeText(body.innerText).then(() => {
+    const orig = btn.textContent;
+    btn.textContent = 'COPIED';
+    btn.classList.add('copied');
+    setTimeout(() => { btn.textContent = orig; btn.classList.remove('copied'); }, 1500);
+  }).catch(() => {});
+});
+</script>
+<h2 id="ai-launches-news">AI launches &amp; news</h2>
+
+<ul>
+<li><p><strong>Claude Opus 4.8 ships with "model welfare" framing</strong> — Let's Data Science / ThursdAI
+Anthropic released Opus 4.8 today, reporting reliability improvements and better self-diagnosis metrics with benchmark wins across several evals. The notable framing: Anthropic is now formally using "model welfare" language in a public release. Whether that's positioning, genuine philosophy, or both is a real question worth watching as Anthropic continues to differentiate on safety narrative while sustaining commercial velocity most observers thought impossible a year ago.
+<a rel="noopener" target="_blank" href="https://letsdatascience.com/news/anthropic-releases-claude-opus-48-with-model-welfare-focus-ee8e400d">https://letsdatascience.com/news/anthropic-releases-claude-opus-48-with-model-welfare-focus-ee8e400d</a></p></li>
+<li><p><strong>NVIDIA Cosmos 3: Physical AI gets a foundation model</strong> — NVIDIA / Baseten
+Launched at GTC Taipei, Cosmos 3 is the first fully open omnimodel for physical AI: vision, world simulation, and action generation together in a single mixture-of-transformers architecture. Robotics teams building training pipelines just got a serious shortcut. The Cosmos Coalition (Runway, Skild AI, Black Forest Labs, Agile Robots, and others) makes this a platform play, not just a model release. Most of its impact will be invisible to anyone outside a robotics lab.
+<a rel="noopener" target="_blank" href="https://norfolkdailynews.com/online_features/press_releases/nvidia-launches-cosmos-3-the-open-frontier-foundation-model-for-physical-ai/article_4346ff96-ead5-5bdb-94cd-87467397881e.html">https://norfolkdailynews.com/online_features/press_releases/nvidia-launches-cosmos-3-the-open-frontier-foundation-model-for-physical-ai/article_4346ff96-ead5-5bdb-94cd-87467397881e.html</a></p></li>
+</ul>
+
+<blockquote>
+  <p>"NVIDIA's Cosmos 3 might be the most important AI model of the year. Almost nobody will see its output."</p>
+</blockquote>
+
+<ul>
+<li><strong>Anthropic Mythos meets geopolitics. OpenAI moves in.</strong> — CNBC / Crypto Briefing
+Anthropic's top cybersecurity model Mythos (launched April under Project Glasswing) just got EU access after months of diplomatic back-and-forth that required US administration sign-off. Simultaneously, OpenAI extended GPT-5.5 Cyber to nine UK banks that Anthropic locked out of Mythos access. In UK AISI red-team evals, Mythos Preview completed a simulated attack 3 out of 10 times vs GPT-5.5 Cyber's 2 out of 10. The frontier model race is now formally entangled with export controls and foreign policy.
+<a rel="noopener" target="_blank" href="https://www.cnbc.com/2026/06/01/anthropic-eu-ai-mythos-access-advanced-model.html">https://www.cnbc.com/2026/06/01/anthropic-eu-ai-mythos-access-advanced-model.html</a></li>
+</ul>
+
+<h2 id="enterprise-ai-moves">Enterprise AI moves</h2>
+
+<ul>
+<li><strong>The token subsidy era ends. Usage-based billing arrives for everyone.</strong> — AI Daily Brief
+The May macro: OpenAI and Anthropic revenue is no longer constrained by seat conversion rates. It scales with token consumption, and agentic usage is exploding. GitHub Copilot was the canary, saying plainly that "a quick chat question and a multi-hour autonomous coding session can cost the user the same amount" and that absorbing the difference was no longer sustainable. One builder racked up $5,000 in API costs from a single six-week project, more than two years of Claude Max seats. Amazon scrapped its AI leaderboard. Both OpenAI (a majority-owned deployment company) and Anthropic (a partnership with Blackstone and Goldman-backed Fractional) launched enterprise consulting arms in the same week. The structural compute shortage is the anchor story for Q3.
+<a rel="noopener" target="_blank" href="https://www.youtube.com/watch?v=ex6abzvzaIo">https://www.youtube.com/watch?v=ex6abzvzaIo</a></li>
+</ul>
+
+<blockquote>
+  <p>"Today, a quick chat question and a multi-hour autonomous coding session can cost the user the same amount."</p>
+</blockquote>
+
+<ul>
+<li><strong>Anthropic's browser agent was hijacked 31.5% of the time. That's the most honest number in enterprise AI.</strong> — VentureBeat
+VentureBeat analyzed prompt injection disclosures from all four frontier labs this spring. Anthropic published 244 pages across four agentic surfaces with a 31.5% pre-safeguard hijack rate. OpenAI covered one surface. Google moved the topic into a separate safety framework. Meta shipped nothing. The 31.5% looks alarming at face value. In context, it is the only real, comparable number any lab published.
+<a rel="noopener" target="_blank" href="https://venturebeat.com/security/anthropic-browser-agent-hijacked-31-percent-before-safeguards-engaged">https://venturebeat.com/security/anthropic-browser-agent-hijacked-31-percent-before-safeguards-engaged</a></li>
+</ul>
+
+<blockquote>
+  <p>"That figure looks like a liability. In this comparison, it is the opposite. It's the one solid piece of ground."</p>
+</blockquote>
+
+<ul>
+<li><strong>Robinhood Agentic Trading: AI buys stocks and makes purchases for you</strong> — Memeburn
+Launched May 27. Robinhood now offers isolated agentic trading accounts and an agentic credit card with spending caps and a kill switch. The AI can execute trades and make purchases autonomously. Robinhood openly warns the agents can and do make mistakes. Regulatory and liability implications are barely being discussed publicly. This is the consumer market leading where enterprise is still deliberating.
+<a rel="noopener" target="_blank" href="https://memeburn.com/robinhood-now-lets-ai-agents-trade-stocks-and-shop-for-you-in-2026/">https://memeburn.com/robinhood-now-lets-ai-agents-trade-stocks-and-shop-for-you-in-2026/</a></li>
+</ul>
+
+<h2 id="new-harnesses-tools">New harnesses &amp; tools</h2>
+
+<ul>
+<li><p><strong>ZoomMate</strong> — Zoom Communications
+Generally available today. ZoomMate is an agentic work surface connecting live meeting context to execution in Salesforce, Jira, Slack, and ServiceNow without requiring users to leave the context of a conversation. Built on Zoom's "system of action" architecture from March. The actual unlock: keeping conversational context alive through to task completion, closing the gap between "we talked about it in the meeting" and "it got done."
+<em>Why this matters for thought leaders: The angle is the context gap, not the automation. Every knowledge worker loses something in the handoff between meeting and follow-up. If ZoomMate closes that loop reliably, it changes how teams document and assign decisions in the first place. That's a workflow post worth writing.</em>
+<a rel="noopener" target="_blank" href="https://www.marketscreener.com/news/zoom-launches-zoommate-the-first-ai-teammate-built-to-turn-conversations-into-completed-work-ce7f5dd9d88af327">https://www.marketscreener.com/news/zoom-launches-zoommate-the-first-ai-teammate-built-to-turn-conversations-into-completed-work-ce7f5dd9d88af327</a></p></li>
+<li><p><strong>Gemini Spark</strong> — Google
+Rolling out now to all Google AI Ultra subscribers in the US. Operates autonomously across a user's entire digital ecosystem: browsing, calendar, messaging, reservations, running in the background even with the device off. Seeks approval before significant actions like purchases.
+<em>Why this matters for thought leaders: The trust question is the product story here. Google isn't just launching a feature. They're asking users to extend agency to an AI in their daily life. That behavioral shift is the thing your audience is working through right now and nobody's framing it that clearly yet.</em>
+<a rel="noopener" target="_blank" href="https://thelongbeachnews.com/gemini-spark-is-now-rolling-out-and-it-hopes-you-will-trust-an-ai-more-than-apps">https://thelongbeachnews.com/gemini-spark-is-now-rolling-out-and-it-hopes-you-will-trust-an-ai-more-than-apps</a></p></li>
+<li><p><strong>Enzo Health: First agentic EHR for home health</strong> — Enzo Health
+Enzo Health launched an AI-native electronic health record that replaces legacy EHR architecture entirely rather than bolting AI onto aging systems. End-to-end agentic: referral to reimbursement in one platform, serving agencies supporting over 500,000 patients annually.
+<em>Why this matters for thought leaders: One of the cleanest real-world examples of agents replacing an entire business process stack rather than automating a single step. Home health is a massive sector drowning in manual handoffs. The model translates to nearly any industry still running on fragmented legacy systems. The "replace the stack, don't add a feature" argument is worth making explicitly.</em>
+<a rel="noopener" target="_blank" href="https://www.prnewswire.com/news-releases/enzo-health-launches-first-agentic-ehr-for-home-health-connecting-referral-to-reimbursement-in-one-system-302786174.html">https://www.prnewswire.com/news-releases/enzo-health-launches-first-agentic-ehr-for-home-health-connecting-referral-to-reimbursement-in-one-system-302786174.html</a></p></li>
+</ul>
+
+<h2 id="podcast-watch-list">Podcast watch list</h2>
+
+<ul>
+<li><strong>"The AI Token Shortage Begins"</strong> — AI Daily Brief
+The best May retrospective available right now. Covers the seat-to-token economic shift in depth, the OpenAI deployment company launch, Anthropic's Fractional partnership, GitHub Copilot's pricing pivot, and the structural compute shortage driving all of it. If you're advising any enterprise on AI spend heading into Q3, this episode is the briefing. The personal $5,000 API bill anecdote alone is worth the 24 minutes.
+<a rel="noopener" target="_blank" href="https://www.youtube.com/watch?v=ex6abzvzaIo">https://www.youtube.com/watch?v=ex6abzvzaIo</a></li>
+</ul>
+
+<h2 id="content-angles-for-you">Content angles for you</h2>
+
+<ol>
+<li><strong>Token sticker shock for small teams</strong>: Most SMB owners still think of AI as a $20/month subscription. The move to usage-based billing is invisible until the invoice arrives. The post is concrete: here's what changed in May, here's how to audit your workflows before you build something that charges by the token.</li>
+<li><strong>Transparency as a competitive moat</strong>: Anthropic published a 31.5% failure rate and came out looking more trustworthy than three labs that published nothing. That's a counterintuitive business lesson that lands way beyond AI: showing your work in a space full of black boxes is real differentiation. Your audience needs this framing.</li>
+<li><strong>The trust question is the actual product</strong>: Gemini Spark and Robinhood Agentic Trading both ship with kill switches and approval gates. Neither asks for full trust. They're offering a small, reversible experiment. That framing for introducing agents at work is the post: not "should you automate this" but "what's the smallest test you can run this week."</li>
+</ol>
+
+<h2 id="people-to-engage-with">People to engage with</h2>
+
+<ul>
+<li><strong>Carter Rees</strong> (VP of AI, Reputation) — called out the absence of any industry standard for measuring prompt injection in the VentureBeat piece. The clearest public voice right now on why the Anthropic 31.5% number matters more than it looks.</li>
+</ul>
+
+<hr />
 
     </article>
   </main>
