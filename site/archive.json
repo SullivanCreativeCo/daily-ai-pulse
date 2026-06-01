@@ -4206,5 +4206,143 @@
       "linkedin": [],
       "threads": []
     }
+  },
+  {
+    "kind": "digest",
+    "date": "2026-06-01",
+    "headline": "Anthropic went from $3B to $47B in annualized revenue in roughly a year, and the math that got them there is now landing on your invoice: the AI seat-pricing era is over and usage-based token billing is replacing every platform that built on subsidized flat rates. May 2026 is the month the AI subsidy officially ended.",
+    "url": "archive/2026-06-01.html",
+    "posts": {
+      "linkedin": [
+        "One builder racked up $5,000 in API costs in six weeks.\n\nThat's more than two years of Claude Max subscriptions. From one project.\n\nThe AI seat model is dying. Fast.\n\nFor the past couple years, flat-rate subscriptions covered what it actually cost to run these models. GitHub Copilot said it plainly last month: a quick chat and a multi-hour autonomous coding session cost the same. They've been absorbing the difference. That's over.\n\nAnthropic went from $3B to $47B in annualized revenue in roughly a year. That math only works because people are burning tokens at a scale nobody planned for.\n\nSo here's the shift that matters: we're moving from \"how much AI can I afford per month\" to \"how much does this specific workflow actually cost.\"\n\nThat's a different question. Most teams budgeted for AI like it was a software subscription. Agents changed the math.",
+        "Anthropic published a 31.5% hijack rate for their browser agent.\n\nEvery other major lab gave us almost nothing comparable.\n\nOn the surface, 31.5% sounds bad. It isn't.\n\nThis spring, all four frontier labs put out prompt injection disclosures. Anthropic dropped 244 pages across four agentic surfaces. OpenAI covered one surface. Google moved the topic into a separate safety framework. Meta shipped nothing.\n\nThe 31.5% is the only real, comparable number anyone published.\n\nAnd that changes what it means.\n\nIf I'm buying an enterprise AI tool and one vendor says \"here's our actual red-team failure rate\" and three others say \"we take safety seriously,\" I know which one I trust with production data.\n\nShowing your work in a space where everyone's racing to ship is genuinely differentiated. Not just honest. It gives buyers something real to evaluate.",
+        "Robinhood now lets an AI agent buy stocks for you while your phone is off.\n\nGoogle's Gemini Spark browses the web, checks your calendar, makes reservations. All in the background. Device off. No input needed.\n\nBoth shipped in the last week.\n\nThe question most people are asking is whether AI can do this. It clearly can.\n\nThe question that's actually interesting: do you trust it enough to hand it the keys?\n\nRobinhood built in a kill switch and isolated accounts. Google requires approval before anything significant. Neither one is asking you to go all in.\n\nThey're offering a small, reversible experiment.\n\nAnd that's how most agent adoption is going to happen. Not a big rollout. Not a policy decision. A kill switch and a spending cap and someone deciding \"let's try it.\"\n\nSo: what's the smallest experiment you could run this week?"
+      ],
+      "threads": [
+        "One project. Six weeks. $5,000 in API costs.\n\nThat's more than two years of Claude Max. From one agentic build.\n\nThe flat-rate subsidy era is ending. Usage-based billing is here. And the question isn't \"is AI worth it\" anymore.\n\nIt's whether this specific workflow is worth it at actual cost. That's a harder question. Worth asking before you build.",
+        "Gemini Spark is rolling out now. It browses, books, texts, and handles errands for you. Works while your device is off.\n\nThe thing that gets me is the framing. Google isn't just asking \"is this useful.\" They're asking \"do you trust us enough.\"\n\nThat's the actual product question. Every agent launch from here out is gonna be a trust pitch first and a feature pitch second.",
+        "NVIDIA just shipped Cosmos 3. A foundation model for robots.\n\nNot AI bolted onto robotics. A world model: it understands physics, generates simulations, and predicts how things should move, all in one system.\n\nThe door problem is the classic example. A three-year-old handles a door without thinking. A robot has to solve push vs. pull, handle type, grip, torque, the whole arc. That's months of data collection and training per action.\n\nCosmos 3 is the training shortcut that changes that math."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-06-01",
+    "source": "AI Daily Brief",
+    "title": "The AI Token Shortage Begins",
+    "url": "https://www.youtube.com/watch?v=ex6abzvzaIo",
+    "video_id": "ex6abzvzaIo"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-01",
+    "topic": "model_releases",
+    "title": "Anthropic Releases Claude Opus 4.8 With Model Welfare Focus | Let's Data Science",
+    "url": "https://letsdatascience.com/news/anthropic-releases-claude-opus-48-with-model-welfare-focus-ee8e400d",
+    "snippet": "Anthropic Releases Claude Opus 4.8 With Model Welfare Focus | Let's Data Science\n\nFeedback\n\nAnthropic Releases Claude Opus 4.8 With Model Welfare Focus | Let's Data Science\nSkip to content\n\nLDS Logo\nLDS\nLet's Data ScienceLEARN \u2022 BUILD \u2022 STAY AHEAD\n\n\nSign in\n\nFeedback\nModels & Researchanthropicclaude opusmodel welfarebenchmarks\n# Anthropic Releases Claude Opus 4.8 With Model Welfare Focus\nplatform."
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-01",
+    "topic": "model_releases",
+    "title": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI | Press Releases | norfolkdailynews.com",
+    "url": "https://norfolkdailynews.com/online_features/press_releases/nvidia-launches-cosmos-3-the-open-frontier-foundation-model-for-physical-ai/article_4346ff96-ead5-5bdb-94cd-87467397881e.html",
+    "snippet": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI | Press Releases | norfolkdailynews.com\n\nYou have permission to edit this article.\n\n---\n\n---\n\n#### What do you think?\n\n## GOP needs to focus on its messaging to have successful midterms\n\nNews Summary: NVIDIA Cosmos 3 is a new leaderboard-topping open physical AI foundation model, built on a breakthrough\"/>\n\nNews Summary:\n"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-01",
+    "topic": "model_releases",
+    "title": "Anthropic to offer EU access to its advanced Mythos model",
+    "url": "https://www.cnbc.com/2026/06/01/anthropic-eu-ai-mythos-access-advanced-model.html",
+    "snippet": "# Anthropic to offer EU access to its advanced Mythos model\n\nAuthor: Sawdah Bhaimiya\nPublished: 2026-06-01T11:27:06-04:00\nSource: CNBC (cnbc.com)\nLanguage: en\n\n## Story\n\nAnthropic to offer EU access to its advanced Mythos model\n\nKey Points\n\n- Anthropic is extending access to its most advanced model Mythos to the EU after weeks of talks.\n- The Commission sought to gain access to the model due to cy"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-01",
+    "topic": "model_releases",
+    "title": "OpenAI offers UK banks access to GPT-5.5 Cyber after Anthropic blocks Mythos access",
+    "url": "https://cryptobriefing.com/openai-gpt-5-5-cyber-uk-banks/",
+    "snippet": "OpenAI offers UK banks access to GPT-5.5 Cyber after Anthropic blocks Mythos access\n\nSEARCH\n\nSearching...\n\n# OpenAI offers UK banks access to GPT-5.5 Cyber after Anthropic blocks Mythos access\n\nNine UK banks can now test OpenAI's reduced-guardrail cybersecurity model, filling a gap left by Anthropic's restricted Claude Mythos Preview.\n\nShare\n\nthis.removeAttribute('data-copied'), 2000);\" aria-label"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-01",
+    "topic": "product_releases",
+    "title": "This AI weather startup is out-forecasting government agencies | TechCrunch",
+    "url": "https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/",
+    "snippet": "# This AI weather startup is out-forecasting government agencies | TechCrunch\n\nAuthor: Tim Fernholz\nPublished: 2026-06-01T16:00:00+00:00\nSource: TechCrunch (techcrunch.com)\nLanguage: en\n\n## Story\n\nThis AI weather startup is out-forecasting government agencies | TechCrunch\n\n\u2013:\u2013:\u2013:\u2013\n\nThe first StrictlyVC of 2026 hits SF on April 30. Tickets are going fast. Register now.\n\nGet Disrupt Early Bird savin"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-01",
+    "topic": "product_releases",
+    "title": "Enzo Health Launches First Agentic EHR for Home Health, Connecting Referral to Reimbursement in One System",
+    "url": "https://www.prnewswire.com/news-releases/enzo-health-launches-first-agentic-ehr-for-home-health-connecting-referral-to-reimbursement-in-one-system-302786174.html",
+    "snippet": "Enzo Health Launches First Agentic EHR for Home Health, Connecting Referral to Reimbursement in One System Accessibility Statement Skip Navigation\n\nAI-Native Platform Replaces Fragmented Legacy EHR Systems with Single, End-to-End Agentic System Connecting the Entire Patient Episode from Referral to Reimbursement\n\nLEHI, Utah, June 1, 2026 /PRNewswire/ -- Enzo Health, the AI native platform built fo"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-01",
+    "topic": "product_releases",
+    "title": "Itential Brings Governed AI Agents to Enterprise Infrastructure with FlowAI General Availability",
+    "url": "https://www.prnewswire.com/news-releases/itential-brings-governed-ai-agents-to-enterprise-infrastructure-with-flowai-general-availability-302786111.html",
+    "snippet": "Itential Brings Governed AI Agents to Enterprise Infrastructure with FlowAI General Availability Accessibility Statement Skip Navigation\n\nFlowAI gives infrastructure teams the ability to build and run AI agents at enterprise scale \u2013 with the governance, security, and operational controls native to the Itential Platform.\n\nLAS VEGAS and ATLANTA, June 1, 2026 /PRNewswire/ -- Itential, the agentic ope"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-01",
+    "topic": "product_releases",
+    "title": "Zoom launches ZoomMate: the first AI teammate built to turn conversations into completed work | MarketScreener",
+    "url": "https://www.marketscreener.com/news/zoom-launches-zoommate-the-first-ai-teammate-built-to-turn-conversations-into-completed-work-ce7f5dd9d88af327",
+    "snippet": "Zoom launches ZoomMate: the first AI teammate built to turn conversations into completed work | MarketScreener\n\nAdd to a list PDF Report\n\n## Zoom Communications, Inc.\n\n## Equities\n\n## ZM\n\n## US98980L1017\n\n## Software\n\nReal-time Estimate Cboe BZX\n\n| 03:10:19 2026-06-01 pm EDT | 5-day change | 1st Jan Change |\n| --- | --- | --- |\n| 111.68 USD | +9.94% | +11.05% | +28.81% |\n\n| May. 26 | UBS Adjusts Z"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-01",
+    "topic": "product_releases",
+    "title": "HouseMe.ai launches free AI listing reports for Toronto buyers",
+    "url": "https://www.housingwire.com/articles/free-ai-valuation-gta/",
+    "snippet": "HouseMe.ai launches free AI listing reports for Toronto buyers\n\n30-yr Fixed Rate 30-yr Fixed 6.69%\u25bc 0.07%\n\nWelcome,\n\n+\n\nSubscribe\n\nSign In\n\n## Article Summary\n\nHouseMe.ai launched Monday with a free consumer platform that generates an intelligence report for any active Greater Toronto Area listing. The report includes a 0\u201310 valuation score, cost to close estimates, and offer guidance using PropTx"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-01",
+    "topic": "x_posts",
+    "title": "Google Gemini Spark: AI agent that acts without apps now rolling out",
+    "url": "https://thelongbeachnews.com/gemini-spark-is-now-rolling-out-and-it-hopes-you-will-trust-an-ai-more-than-apps",
+    "snippet": "Google Gemini Spark: AI agent that acts without apps now rolling out\n\n\u00d7\n\nHome/ Daily News Analysis/ Gemini Spark is now rolling out and it hopes you will trust an AI more than apps\n\n# Gemini Spark is now rolling out and it hopes you will trust an AI more than apps\n\nMay 31, 2026 Twila Rosenbaum 58 views\n\nFor years, artificial intelligence assistants have largely been confined to chat windows. You a"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-01",
+    "topic": "x_posts",
+    "title": "Robinhood Agentic Trading: AI Now Buys Stocks for You 2026 - Memeburn",
+    "url": "https://memeburn.com/robinhood-now-lets-ai-agents-trade-stocks-and-shop-for-you-in-2026/",
+    "snippet": "Robinhood Agentic Trading: AI Now Buys Stocks for You 2026 - Memeburn\n\n# Robinhood Now Lets AI Agents Trade Stocks and Shop for You in 2026\n\nRobinhood agentic trading launched May 27, 2026 \u2014 letting AI agents buy stocks and make credit card purchases on your behalf, with isolated accounts, real-time trade feeds, and a one-tap kill switch. Here's what the setup actually looks like, what safety cont"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-01",
+    "topic": "x_posts",
+    "title": "Anthropic\u2019s browser agent got hijacked 31.5% of the time before safeguards engaged | VentureBeat",
+    "url": "https://venturebeat.com/security/anthropic-browser-agent-hijacked-31-percent-before-safeguards-engaged",
+    "snippet": "Anthropic\u2019s browser agent got hijacked 31.5% of the time before safeguards engaged | VentureBeat\n\n8:50 am, PT, June 1, 2026\n\nVentureBeat created with Imagen\n\nAcross the frontier labs, the highest prompt injection figures published this spring are Anthropic\u2019s. Point a red-teamer at its newest model in a browser, and the attacker hijacked it 31.5% of the time before safeguards engaged. OpenAI, Googl"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-01",
+    "topic": "x_posts",
+    "title": "Nvidia Cosmos 3: Robots finally take over",
+    "url": "https://www.baseten.co/blog/nvidia-cosmos-3-robots-finally-take-over/",
+    "snippet": "Nvidia Cosmos 3: Robots finally take over\n\nIntroducing Baseten Loops: A Training SDK for Frontier RL. Learn more here\n\n# Nvidia Cosmos 3: Robots finally take over\n\nNVIDIA's Cosmos 3 Might Be the Most Important AI Model of the Year. Almost Nobody Will See Its Output.\n\n### Authors\n\n### Last updated\n\nMay 29, 2026\n\n### Share\n\nTL;DR\n\nNVIDIA Cosmos 3 is a foundation model built for things that move in t"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-01",
+    "topic": "x_posts",
+    "title": "Katie Miller shares ChatGPT said \u2018Charlie Kirk wasn\u2019t assassinated\u2019, Elon Musk responds - The Times of India",
+    "url": "https://timesofindia.indiatimes.com/technology/tech-news/katie-miller-shares-chatgpt-said-charlie-kirk-wasnt-assassinated-elon-musk-responds/articleshow/131420723.cms",
+    "snippet": "Katie Miller shares ChatGPT said \u2018Charlie Kirk wasn\u2019t assassinated\u2019, Elon Musk responds - The Times of India\n\nEdition\n\nIN\n\nEnglish\n\nSign In\n\n- Videos\n- News\n- Technology News\n- Tech News\n- Katie Miller shares ChatGPT said \u2018Charlie Kirk wasn\u2019t assassinated\u2019, Elon Musk responds\n\nTrending\n\n# Katie Miller shares ChatGPT said \u2018Charlie Kirk wasn\u2019t assassinated\u2019, Elon Musk responds\n\nComments\n\nShare\n\nAA\n\n"
   }
 ]
