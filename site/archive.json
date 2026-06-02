@@ -4572,5 +4572,103 @@
     "title": "Agentic Infrastructure Goes Into Production: FlowAI Live at Cisco Live 2026",
     "url": "https://www.linkedin.com/pulse/agentic-infrastructure-goes-production-flowai-live-cisco-2026-b0hxe",
     "snippet": "Agentic Infrastructure Goes Into Production: FlowAI Live at Cisco Live 2026\n\nAgree & Join LinkedIn\n\nBy clicking Continue to join or sign in, you agree to LinkedIn\u2019s User Agreement, Privacy Policy, and Cookie Policy.\n\nBy: Kristen H. Rachels, CMO\n\n---\n\nThere's a version of every product launch where the team writes a blog post and moves on. This isn't one of those launches.\n\nThis week, the most impo"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-06-02",
+    "headline": "Anthropic confidentially filed a draft S-1 with the SEC today, entering a three-way IPO race with OpenAI and SpaceX. The company that built its brand on responsible AI is about to face public market scrutiny, and public markets don't grade on mission statements.",
+    "url": "archive/2026-06-02.html",
+    "posts": {
+      "linkedin": [
+        "Nvidia gave away a 550 billion parameter AI model this week.\n\nNot because they couldn't sell it. Because the model was never the product.\n\nThe free model comes bundled with a free Agent Toolkit. The toolkit is tuned to run fastest on Nvidia hardware. The hardware is where the money is.\n\nRazor and blades. Except the razor is one of the most capable open models on the planet.\n\nIt's already working. Cadence, CrowdStrike, Palantir, Siemens, Foxconn. All signed on.\n\nHere's what I keep thinking about as a builder: this pattern shows up everywhere now. Free model. Paid runtime. Free API tier. Paid at scale. Free agent. Paid when it actually does something.\n\nThe question worth asking about every free AI tool in your stack: what's the thing they're actually trying to sell?\n\nBecause the model is almost never the product anymore.",
+        "Anthropic filed its IPO paperwork today.\n\nThe company that built its whole identity around responsible AI is about to answer to public markets.\n\nPublic markets don't care about mission statements. They care about growth, margin, and ARR.\n\nAnd that's not a cynical take. It's just math. When you take investor money, you're buying time to prove the thing works. When you go public, the proof has to show up in a spreadsheet.\n\nI don't think Dario Amodei is going to wake up in January and start cutting safety teams. But I do think every internal decision at Anthropic just got a little more visible, a little more measurable.\n\nThe IPO race with OpenAI and SpaceX is real now. Whoever files first gets to set the market narrative.\n\nThat's not just a finance story. It's a culture story. And the culture of the lab that builds your tools matters more than most people think.",
+        "Every meeting your team has today will produce decisions that nobody follows up on.\n\nThat's not a criticism. That's just how meetings work. You talk, you decide, you go back to your desk, and the thing that was decided gets buried under 47 Slack messages and two other fires.\n\nZoomMate launched today with a pretty bold bet: what if the tool where decisions get made was also the tool that executes them?\n\nIt connects meeting context to Salesforce, Jira, Slack, ServiceNow. Creates deliverables. Pushes follow-through without you switching apps.\n\nZoom's CPO called it a system of action. I think that framing is doing a lot of heavy lifting. But the underlying problem is real.\n\nThe gap between deciding something and actually getting it done is where most business value disappears.\n\nIf you're building internal tools or advising clients on workflows, this is the gap worth closing. It's not glamorous. It doesn't make a good demo. But it removes a weight that every team feels."
+      ],
+      "threads": [
+        "xAI just opened Grok Build to developers via API. No SuperGrok subscription required.\n\n$1 per million input tokens, 100+ tokens per second, built for multi-step agentic coding workflows.\n\nThe agentic coding space is officially crowded. Which means the real question isn't which model is smarter. It's which one fits the workflow you're already running.\n\nWorth spinning up a test if you're building anything that writes or debugs code at scale.",
+        "MiniMax M3 dropped with impressive specs. 1M token context, native multimodal, agentic coding. All in one model.\n\nBut the buried part: benchmarks are self-reported on their own infrastructure. Weights haven't been released yet. And China's National Intelligence Law means every prompt you send through their API can be accessed by the Chinese government.\n\nCool specs. Real compliance question. Read the fine print before you route client data through it.",
+        "The Verge reviewed Google's new 24/7 AI agent. The headline was \"as good as Google's demo.\"\n\nThat's a weird compliment.\n\nImpressive in testing, not clearly worth the cost and privacy tradeoffs yet. Which is kind of the pattern for autonomous agents right now. They work until something unexpected happens and then you realize you needed a human in the loop.\n\nThe tools will get there. Just be honest about where they actually are."
+      ]
+    }
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-02",
+    "topic": "model_releases",
+    "title": "Nvidia Nemotron 3 Ultra Tops US Open Models but Trails China",
+    "url": "https://www.implicator.ai/nvidias-nemotron-3-ultra-leads-us-open-models-but-trails-chinas-kimi-k2-6/",
+    "snippet": "Nvidia Nemotron 3 Ultra Tops US Open Models but Trails China\n\nTuesday, June 2, 2026 \u00b7 San Francisco\n\nNvidia unveiled Nemotron 3 Ultra at its GTC Taipei keynote on Monday and released a benchmark, run with the evaluation firm Artificial Analysis, that places the model first among open-weight systems built in the United States and behind the Chinese-led frontier. The 550-billion-parameter model scor"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-02",
+    "topic": "model_releases",
+    "title": "OpenAI models and Codex on Amazon Bedrock are now generally available | Artificial Intelligence",
+    "url": "https://aws.amazon.com/blogs/machine-learning/openai-models-and-codex-on-amazon-bedrock-are-now-generally-available/",
+    "snippet": "OpenAI models and Codex on Amazon Bedrock are now generally available | Artificial Intelligence Skip to Main Content\n\n## Artificial Intelligence\n\n# OpenAI models and Codex on Amazon Bedrock are now generally available\n\nGPT-5.5, GPT-5.4, and Codex are now generally available on Amazon Bedrock. Deploy them in production applications and agents today, on Bedrock\u2019s high performance inference engine.\n\n"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-02",
+    "topic": "model_releases",
+    "title": "How Cosmos 3 Helps Physical AI Think Before It Acts | NVIDIA Blog",
+    "url": "https://blogs.nvidia.com/blog/cosmos-3-physical-ai-open-world-foundation-model/",
+    "snippet": "How Cosmos 3 Helps Physical AI Think Before It Acts | NVIDIA Blog\n\n# How Cosmos 3 Helps Physical AI Think Before It Acts\n\nThe new, open NVIDIA world foundation model brings vision reasoning, multimodal generation and action prediction together to help robots, autonomous vehicles and vision AI agents think before acting in the real world.\n\nMay 31, 2026 by\n\nShare\n\nThe real world is always in motion."
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-02",
+    "topic": "model_releases",
+    "title": "MiniMax Releases MiniMax M3 with MSA Architecture Supporting 1M-Token Context, Native Multimodality, and Agentic Coding - MarkTechPost",
+    "url": "https://www.marktechpost.com/2026/06/01/minimax-releases-minimax-m3-with-msa-architecture-supporting-1m-token-context-native-multimodality-and-agentic-coding/",
+    "snippet": "MiniMax Releases MiniMax M3 with MSA Architecture Supporting 1M-Token Context, Native Multimodality, and Agentic Coding - MarkTechPost\n\nSearch\n\nPremium Content\n\nRead our exclusive articles\n\nFacebook\n\nInstagram\n\nX\n\nSearch\n\nHome Editors Pick Agentic AI MiniMax Releases MiniMax M3 with MSA Architecture Supporting 1M-Token Context, Native Multimodality,...\n\nMiniMax officially released MiniMax M3 on Ju"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-02",
+    "topic": "model_releases",
+    "title": "MiniMax M3 Open-Weight Coding Model: Frontier Claims, Unverified Benchmarks",
+    "url": "https://www.techtimes.com/articles/317532/20260601/minimax-m3-open-weight-coding-model-frontier-claims-unverified-benchmarks.htm",
+    "snippet": "MiniMax M3 Open-Weight Coding Model: Frontier Claims, Unverified Benchmarks\n\na mobile phone's screen showing the logo of Chinese AI MiniMax in Beijing on January 21, 2026. WANG Zhao/Getty Images\n\nShanghai-based MiniMax launched its M3 foundation model on Monday, June 1, 2026, positioning it as the first open-weight system to combine frontier coding-agent performance, a one-million-token context wi"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-02",
+    "topic": "product_releases",
+    "title": "Zoom launches ZoomMate: the first AI teammate built to turn conversations into completed work | Zoom\t\t\t -\t\t\tZoom",
+    "url": "https://news.zoom.com/zoom-launches-zoommate/",
+    "snippet": "Zoom launches ZoomMate: the first AI teammate built to turn conversations into completed work | Zoom - Zoom Zoom launches ZoomMate: the first AI teammate built to turn conversations into completed work | Zoom\n\n# Zoom launches ZoomMate: the first AI teammate built to turn conversations into completed work\n\nPublished June 1, 2026\n\nLink copied!\n\n- Generally available today, ZoomMate combines agentic "
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-02",
+    "topic": "product_releases",
+    "title": "Siemens powers the next phase of industrial AI with Intelligence Center X",
+    "url": "https://www.prnewswire.com/news-releases/siemens-powers-the-next-phase-of-industrial-ai-with-intelligence-center-x-302787786.html",
+    "snippet": "Siemens powers the next phase of industrial AI with Intelligence Center X Accessibility Statement Skip Navigation\n\n- Embeds AI agents alongside people to scale industrial AI into a hybrid workforce at production level, enabling organizations to move beyond pilots and operate with speed, control and consistency\n- Connects industrial data, workflows and AI agents in one governed system, unifying ent"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-02",
+    "topic": "x_posts",
+    "title": "Anthropic confidentially files draft Form S-1 with the SEC for a proposed IPO \u00b7 Digg",
+    "url": "https://digg.com/ai/jrbu9qb0",
+    "snippet": "/AI6h ago\n\n# Anthropic confidentially files draft Form S-1 with the SEC for a proposed IPO\n\nThis accelerates an IPO race with SpaceX and OpenAI.\n\n--0--\n\nOriginal posts\n\nQuote posts\n\nComments\n\nOriginal post\n\nAndrew Curran@AndrewCurran_#517in AI\n\nThe race to IPO first between Anthropic, SpaceX, and OpenAI is coming down to the wire.\n\n9:09 AM \u00b7 Jun 1, 2026 \u00b7 161.5K Views\n\nSentiment\n\nSentiment unavail"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-02",
+    "topic": "x_posts",
+    "title": "Gemini\u2019s new AI agent is about as good as Google\u2019s demo | The Verge",
+    "url": "https://www.theverge.com/tech/941138/google-gemini-spark-ai-agent-hands-on",
+    "snippet": "Gemini\u2019s new AI agent is about as good as Google\u2019s demo | The Verge\n\nThe homepageThe Verge logo.\n\nThe homepageThe Verge logo.\n\nTech\n\nAI\n\nReport\n\n# Gemini\u2019s new AI agent is about as good as Google\u2019s demo\n\nGemini Spark is impressive, but it\u2019s not worth the cost just yet.\n\nGemini Spark is impressive, but it\u2019s not worth the cost just yet.\n\nby Jay Peters\n\nJun 1, 2026, 8:00 PM UTC\n\nPhoto by Allison John"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-02",
+    "topic": "x_posts",
+    "title": "xAI Opens Grok Build 0.1 to Developers via API - DevOps.com",
+    "url": "https://devops.com/xai-opens-grok-build-0-1-to-developers-via-api/",
+    "snippet": "xAI Opens Grok Build 0.1 to Developers via API - DevOps.com\n\nThe agentic coding space is getting more crowded. xAI has made Grok Build 0.1, its fastest coding model, available via the xAI API in public beta. That means developers can now build directly on top of the same model that powers xAI\u2019s Grok Build CLI \u2014 without needing a SuperGrok or X Premium+ subscription.\n\nThis is a meaningful step. Unt"
   }
 ]
