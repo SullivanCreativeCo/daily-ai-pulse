@@ -4670,5 +4670,151 @@
     "title": "xAI Opens Grok Build 0.1 to Developers via API - DevOps.com",
     "url": "https://devops.com/xai-opens-grok-build-0-1-to-developers-via-api/",
     "snippet": "xAI Opens Grok Build 0.1 to Developers via API - DevOps.com\n\nThe agentic coding space is getting more crowded. xAI has made Grok Build 0.1, its fastest coding model, available via the xAI API in public beta. That means developers can now build directly on top of the same model that powers xAI\u2019s Grok Build CLI \u2014 without needing a SuperGrok or X Premium+ subscription.\n\nThis is a meaningful step. Unt"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-06-03",
+    "headline": "Microsoft showed up to Build 2026 as a real AI lab, not OpenAI's distribution channel. Seven new models trained from scratch, an always-on enterprise agent built on open-source infrastructure, and a clear thesis: build the hill-climbing machine, not just the next model. The Mustafa Suleyman era at Microsoft just went from premise to product.",
+    "url": "archive/2026-06-03.html",
+    "posts": {
+      "linkedin": [
+        "The SEO playbook you've spent years on is about to need a partner.\n\nNot a replacement. A partner.\n\nGreg Isenberg put out a tight 14-minute episode this week that reframed how I think about the next decade online. The premise: AI agents are becoming the customer. They find products, evaluate options, transact, and recommend to other agents.\n\nThey don't read your hero copy. They don't click your CTA. They call your API, check your docs, and look for an OAuth endpoint.\n\nIf an agent can't figure out what you do, you're invisible to it.\n\nThat's not a future problem. AgentMail is already building inboxes for AI agents. Stripe has an agent wallet. Codex has 5 million weekly users building and deploying tools every week.\n\nThe question worth asking right now: is my website agent-readable?\n\nStructured docs. A /agents entry point. MCP tools. Not complicated. But it requires knowing the question exists.\n\nMost people don't know the question exists yet. That's the window.",
+        "Microsoft named a new product category at Build 2026 yesterday and I think that matters more than the product itself.\n\nThey're calling it \"Autopilots.\"\n\nNot agents you prompt. Not chatbots you supervise. Things that just run.\n\nMicrosoft Scout connects to your Teams messages, Outlook, calendar, OneDrive, and does the coordination work you keep putting off. Scheduling across time zones. Flagging stalled decisions. Blocking calendar time before a deadline sneaks up on a Tuesday. Without being asked.\n\nIt's built on OpenClaw, the open-source agent framework that hit 180,000 GitHub stars in three months after launching in January. Microsoft saw what the community proved and wrapped it in enterprise security. Open-source proves the concept, platform adds compliance and distribution. That's the playbook now.\n\nHere's what's interesting for anyone running a team or a business: an Autopilot isn't a feature you learn to use. It's a system you give permission to.\n\nThat's a different kind of decision. What does your organization need to think through before something acts on your behalf without being asked?",
+        "The math on Corey Ganim's AI consulting offer is embarrassingly simple.\n\nTwo 45-minute calls a month. A walkie-talkie app for async questions. A shared Notion doc where everything lives.\n\nThat's the whole product. $1,500 a month. $1,000 effective hourly rate.\n\nHe doesn't do the work for clients. He does it with them. They share the screen. They build Claude skills together. They fix the process before they automate it.\n\nThe infrastructure took two hours to set up once. Two Claude skills auto-fill the call notes and draft the follow-up email after every session. Post-call admin: 30 seconds.\n\nStarted at $1,200/month. Raised to $1,500. Now $2,000. His logic for raising every time: when you're closing 100% of your sales calls, you're priced too low.\n\nCap: six clients.\n\n\"What are you already doing for yourself that someone else would find useful?\" That question has a dollar sign on it. Corey found his answer. The model's there if you want to run it."
+      ],
+      "threads": [
+        "The internet just got a new kind of customer.\n\nNot a new user. A new customer. AI agents are starting to find products, evaluate options, pay for services, and recommend tools to other agents. AgentMail is building inboxes for agents. Stripe launched an agent wallet.\n\nYour website was built for human eyes. Agents read docs and look for API endpoints.\n\nIf they can't figure out what you do, you're invisible to them. Most businesses don't know that question exists yet. That's still the window.",
+        "Microsoft launched a product category yesterday called \"Autopilots.\"\n\nNot agents you prompt. Things that just run.\n\nMicrosoft Scout connects to your email, calendar, Teams, and does coordination work in the background without being asked. David Pierce at The Verge called Google's version of this \"incredible and creepy\" in the same headline.\n\nThat framing is honest. The technology clearly works. The question is what you're actually handing over when you give something permission to act on your behalf.",
+        "Corey Ganim raised his AI consulting rate from $1,200 to $2,000 a month, three times in a row.\n\nEach time, everyone said yes.\n\nHis rule: when you're closing 100% of your calls, you're priced too low.\n\nTwo 45-minute calls a month. A Notion hub. A walkie-talkie app. That's the whole offer. Effective rate around $1,000 an hour.\n\nThe done-with-you model works because clients can see everything they're getting. That list in Notion is what drives renewals."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-06-03",
+    "source": "The Koerner Office",
+    "title": "What I'd Tell Anyone Starting With No Money | Q&A",
+    "url": "https://www.youtube.com/watch?v=X1rLQs487tA",
+    "video_id": "X1rLQs487tA"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-06-03",
+    "source": "Startup Ideas Podcast",
+    "title": "The Next $100B Market: Selling to AI Agents",
+    "url": "https://www.youtube.com/watch?v=MlptIfpoLlw",
+    "video_id": "MlptIfpoLlw"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-06-03",
+    "source": "Corey Ganim",
+    "title": "I'm getting rich fixing boomer businesses with AI (here's how)",
+    "url": "https://www.youtube.com/watch?v=Kdkzzjl2YcY",
+    "video_id": "Kdkzzjl2YcY"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-03",
+    "topic": "model_releases",
+    "title": "Building a hill-climbing machine:\u00a0Launching seven new MAI models | Microsoft AI",
+    "url": "https://microsoft.ai/news/building-a-hillclimbing-machine-launching-seven-new-mai-models/",
+    "snippet": "Building a hill-climbing machine: Launching seven new MAI models | Microsoft AI\n\nAnnouncements\n\n# Building a hill-climbing machine: Launching seven new MAI models\n\nMustafa Suleyman\n\nJune 2, 2026\n\nAnnouncements\n\nMustafa Suleyman\n\nToday we are announcing a family of seven new models developed in-house at Microsoft AI. Beyond these models, we\u2019re building a superintelligence lab \u2013 a system and an appr"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-03",
+    "topic": "model_releases",
+    "title": "Introducing\u00a0MAI-Thinking-1 | Microsoft AI",
+    "url": "https://microsoft.ai/news/introducing-mai-thinking-1/",
+    "snippet": "Introducing MAI-Thinking-1 | Microsoft AI\n\nModels\n\n# Introducing MAI-Thinking-1\n\nSuperintelligence team\n\nJune 2, 2026\n\nModels\n\nSuperintelligence team\n\nToday we are introducing MAI-Thinking-1, Microsoft AI\u2019s reasoning model. It is a medium-sized model that stands among the strongest models in its weight class. It matches leading models on key software engineering benchmarks, demonstrates advanced m"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-03",
+    "topic": "model_releases",
+    "title": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI",
+    "url": "https://aithority.com/machine-learning/nvidia-launches-cosmos-3-the-open-frontier-foundation-model-for-physical-ai/",
+    "snippet": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI\n\n[bsfp-cryptocurrency style=\u201dwidget-18\u2033 align=\u201dmarquee\u201d columns=\u201d6\u2033 coins=\u201dselected\u201d coins-count=\u201d6\u2033 coins-selected=\u201dBTC,ETH,XRP,LTC,EOS,ADA,XLM,NEO,LTC,EOS,XEM,DASH,USDT,BNB,QTUM,XVG,ONT,ZEC,STEEM\u201d currency=\u201dUSD\u201d title=\u201dCryptocurrency Widget\u201d show_title=\u201d0\u2033 icon=\u201d\u201d scheme=\u201dlight\u201d bs-show-desktop=\u201d1\u2033 bs-show-tablet=\u201d1\u2033 bs"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-03",
+    "topic": "model_releases",
+    "title": "Introducing MAI-Code-1-Flash\u00a0 | Microsoft AI",
+    "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
+    "snippet": "Introducing MAI-Code-1-Flash | Microsoft AI\n\nModels\n\n# Introducing MAI-Code-1-Flash\n\nSuperintelligence team\n\nJune 2, 2026\n\nModels\n\nSuperintelligence team\n\nToday we\u2019re introducing MAI-Code-1-Flash, a new Microsoft coding model built for fast, efficient assistance in everyday developer workflows. It is built end-to-end by Microsoft using clean and appropriately licensed data. The model is rolling ou"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-03",
+    "topic": "product_releases",
+    "title": "Introducing Microsoft Scout: Your always-on personal agent | Microsoft 365 Blog",
+    "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/02/introducing-microsoft-scout-your-always-on-personal-agent/",
+    "snippet": "Introducing Microsoft Scout: Your always-on personal agent | Microsoft 365 Blog\n\n- June 2\n- 3 min read\n\n# Introducing Microsoft Scout: Your always-on personal agent\n\nBy\n\n, Corporate Vice President of Microsoft Scout\n\nListen to this post\n\n0:00\n\n0:00 / 0:00\n\n1x\n\nPowered by Microsoft Copilot\n\n---\n\n## Tags\n\n## Audience\n\n## Content types\n\n## Products\n\n- Microsoft 365\n- Microsoft 365 Copilot\n\nWork is mo"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-03",
+    "topic": "product_releases",
+    "title": "Workday launches tools to build AI agents securely",
+    "url": "https://securitybrief.news/story/workday-launches-tools-to-build-ai-agents-securely",
+    "snippet": "Workday launches tools to build AI agents securely\n\nSecurityBrief US - Technology news for CISOs & cybersecurity decision-makers\n\nUnited States Powered By\n\n# Workday launches tools to build AI agents securely\n\nTue, 2nd Jun 2026 (Yesterday)\n\nWorkday has introduced new tools in Workday Build for developers creating AI agents and applications on its platform, targeting HR, finance, and IT.\n\nThe launc"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-03",
+    "topic": "product_releases",
+    "title": "OpenAI Codex can now create interactive websites and apps, gets other new features",
+    "url": "https://www.digit.in/news/general/openai-codex-can-now-create-interactive-websites-and-apps-gets-other-new-features.html",
+    "snippet": "OpenAI Codex can now create interactive websites and apps, gets other new features\n\n# OpenAI Codex can now create interactive websites and apps, gets other new features\n\nAdd DIGIT as a preferred source\n\nHIGHLIGHTS\n\n## OpenAI has announced several new updates for Codex.\n\n## One of the key additions is a new set of plug-ins designed for specific professions.\n\n## OpenAI has also introduced a new feat"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-03",
+    "topic": "product_releases",
+    "title": "Critical Start expands MDR capabilities with multi-agent AI system - Help Net Security",
+    "url": "https://www.helpnetsecurity.com/2026/06/03/critical-start-soc-ai/",
+    "snippet": "Critical Start expands MDR capabilities with multi-agent AI system - Help Net Security\n\nHelp Net Security newsletters: Daily and weekly news, cybersecurity jobs, open source projects, breaking news \u2013 subscribe here!\n\nPlease turn on your JavaScript for this page to function normally.\n\n# Critical Start expands MDR capabilities with multi-agent AI system\n\nCritical Start has released SOC AI, a product"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-03",
+    "topic": "x_posts",
+    "title": "Microsoft launches Scout, an OpenClaw-inspired personal assistant | TechCrunch",
+    "url": "https://techcrunch.com/2026/06/02/microsoft-launches-scout-an-openclaw-inspired-personal-assistant/",
+    "snippet": "Microsoft launches Scout, an OpenClaw-inspired personal assistant | TechCrunch\n\nImage Credits:Deb Cohn-Orbach/UCG/Universal Images Group / Getty Images\n\n# Microsoft launches Scout, an OpenClaw-inspired personal assistant\n\n11:02 AM PDT \u00b7 June 2, 2026\n\nIn the first weeks of 2026, OpenClaw spread through the AI world like a sonic boom, introducing many of the industry\u2019s most ambitious technologists t"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-03",
+    "topic": "x_posts",
+    "title": "Microsoft AI announces MAI-Thinking-1 and MAI-Code-1-Flash, claiming they outperform Claude on coding and reasoning benchmarks \u00b7 Digg",
+    "url": "https://digg.com/ai/sofea503",
+    "snippet": "Microsoft AI announces MAI-Thinking-1 and MAI-Code-1-Flash, claiming they outperform Claude on coding and reasoning benchmarks \u00b7 Digg\n\n/AI11h ago\n\n# Microsoft AI announces MAI-Thinking-1 and MAI-Code-1-Flash, claiming they outperform Claude on coding and reasoning benchmarks\n\nMAI-Code-1-Flash will integrate exclusively inside GitHub Copilot.\n\n--0--\n\nOriginal posts\n\nQuote posts\n\nComments\n\nReposts\n\n"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-03",
+    "topic": "x_posts",
+    "title": "Testing Google\u2019s Gemini Spark AI agent: it\u2019s incredible, and creepy | The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/941388/gemini-spark-ai-agent-trip-planning",
+    "snippet": "# Testing Google\u2019s Gemini Spark AI agent: it\u2019s incredible, and creepy | The Verge\n\nAuthor: David Pierce\nPublished: 2026-06-02T12:38:08+00:00\nSource: The Verge (theverge.com)\nLanguage: en\n\n## Story\n\nTesting Google\u2019s Gemini Spark AI agent: it\u2019s incredible, and creepy | The Verge\n\nThe homepageThe Verge logo.\n\nThe homepageThe Verge logo.\n\nAI\n\nTech\n\nGoogle\n\n# Gemini Spark is the most impressive and ter"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-03",
+    "topic": "x_posts",
+    "title": "Teknium, Nous Research co-founder, demonstrates real-time token streaming on Telegram using the Hermes Agent bot \u00b7 Digg",
+    "url": "https://digg.com/ai/o3tgjqmz",
+    "snippet": "/AI15h ago\n\n# Teknium, Nous Research co-founder, demonstrates real-time token streaming on Telegram using the Hermes Agent bot\n\nThe bot runs Claude Opus 4.8 via OpenRouter\n\n--0--\n\nOriginal posts\n\nQuote posts\n\nComments\n\nOriginal post\n\nTeknium \ud83e\udebd@Teknium#259in AI\n\nStreaming tokens is now buttery smooth on @telegram with Hermes Agent.\n\n1:42 AM \u00b7 Jun 2, 2026 \u00b7 187.5K Views\n\nSentiment\n\nSentiment buildin"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-03",
+    "topic": "x_posts",
+    "title": "Microsoft Turns OpenClaw Into an Enterprise AI Agent With Scout \u2013 Decrypt \u2013 MAXBIT",
+    "url": "https://maxbit.cc/microsoft-turns-openclaw-into-an-enterprise-ai-agent-with-scout-decrypt/",
+    "snippet": "Microsoft Turns OpenClaw Into an Enterprise AI Agent With Scout \u2013 Decrypt \u2013 MAXBIT\n\nBOOMBOX COMMUNITY\n\n## Microsoft Turns OpenClaw Into an Enterprise AI Agent With Scout...\n\n#### In brief\n\n- Microsoft launched Scout at Build 2026 today\u2014its first \u201cAutopilot\u201d agent.\n- Scout runs on OpenClaw, the open-source agent framework that hit 180,000 GitHub stars three months after its January 2026 launch\n- Mi"
   }
 ]
