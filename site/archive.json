@@ -4816,5 +4816,159 @@
     "title": "Microsoft Turns OpenClaw Into an Enterprise AI Agent With Scout \u2013 Decrypt \u2013 MAXBIT",
     "url": "https://maxbit.cc/microsoft-turns-openclaw-into-an-enterprise-ai-agent-with-scout-decrypt/",
     "snippet": "Microsoft Turns OpenClaw Into an Enterprise AI Agent With Scout \u2013 Decrypt \u2013 MAXBIT\n\nBOOMBOX COMMUNITY\n\n## Microsoft Turns OpenClaw Into an Enterprise AI Agent With Scout...\n\n#### In brief\n\n- Microsoft launched Scout at Build 2026 today\u2014its first \u201cAutopilot\u201d agent.\n- Scout runs on OpenClaw, the open-source agent framework that hit 180,000 GitHub stars three months after its January 2026 launch\n- Mi"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-06-04",
+    "headline": "Anthropic filed confidential IPO paperwork at a reported $965B valuation and $47B revenue run rate, and within the same news cycle Bernie Sanders introduced the AI Sovereign Wealth Fund Act calling for the government to take a 50% stake in the foundation labs. The question of who owns AI is no longer a think-piece. It has an SEC filing and a Senate bill attached to it.",
+    "url": "archive/2026-06-04.html",
+    "posts": {
+      "linkedin": [
+        "78% of customers hire the first company that gives them a quote.\n\nNot the best company. Not the cheapest one.\n\nThe first one to respond.\n\nChris Koerner walked through this in his latest episode and I had to back it up twice.\n\nBecause this isn't really an AI insight. It's a sales truth that's always been true. AI just made the fix cheap to build.\n\nHe spent about an hour on camera. Built an instant quote generator for garage door companies using Lovable. No code. Set up an AI voice agent in GoHighLevel so the business never misses an after-hours call. Scraped leads from Google Maps. Sent cold texts. Got a real business owner interested. Live.\n\nThe whole model: find where a business bleeds money before they even know the customer exists. Build the fix. Sell the fix on a monthly retainer.\n\nThat's not really a side hustle. That's a small business with recurring revenue.\n\nWhat friction point have you been watching businesses bleed through that you haven't built the fix for yet?",
+        "Anthropic filed IPO paperwork this week at a $965 billion valuation.\n\nSame week Bernie Sanders introduced the AI Sovereign Wealth Fund Act.\n\nHe wants the federal government to take a 50% stake in the foundation labs, pay dividends to US citizens, and eventually fund healthcare, education, and housing from AI profits.\n\nThese two things happening in the same news cycle isn't an accident. They're the same conversation from opposite ends.\n\nHere's the part most people are sleeping on: OpenAI's own April white paper called for a public wealth fund that gives every citizen a stake in AI-driven economic growth.\n\nThe labs know this debate is coming. They just want to be the ones writing the frame before Congress does it for them.\n\nThe question of who owns the upside from AI isn't going to stay in think-pieces and Senate proposals. It's going to end up on a ballot, in a courtroom, or in a merger agreement.\n\nIf you're building in AI right now, this is the policy environment you're going to be building inside.\n\nWorth understanding what each side actually wants.",
+        "The AI that used to require a data center now fits on a laptop.\n\nGoogle dropped Gemma 4 12B today. Runs on 16GB of VRAM. Handles text, vision, and audio natively in one model. No separate encoders stitched together.\n\nThat's not just a size win. It's an architecture win.\n\nFor two years the local AI story was mostly for enthusiasts. The useful stuff lived in the cloud because the hardware wasn't there.\n\nNow Nvidia is shipping a chip this fall called RTX Spark positioned as direct competition to Apple's M-series. One petaflop of AI compute in a Windows laptop. Apple has been the only serious choice for local inference. That's about to be contested.\n\nWhat this opens up for builders: privacy-first products, offline-first products, on-device products where latency is zero and data never leaves the device.\n\nA lot of use cases that weren't viable 18 months ago are about to make obvious sense.\n\nWhat would you build if the AI never had to phone home?"
+      ],
+      "threads": [
+        "Elon Musk posted a 40-second AI-generated Troy trailer today using Grok Imagine 1.5.\n\n18.4 million views. Battle scenes, ships, burning cities, emotional narration. Hollywood trailer pacing.\n\nMade with a model that dropped yesterday.\n\nA year ago we were impressed when AI drew hands correctly. Now it's epic war films.\n\nThe bar for 'clearly AI' is moving faster than most people are tracking.",
+        "Hermes just got a real desktop app.\n\nBefore today you needed a terminal to run it. Which means most people never tried it.\n\nWhat makes it worth trying: Hermes saves how it solved a new problem as a reusable skill. So it gets better the more you use it, without you explaining things twice.\n\nThat's a different kind of useful than most AI tools.\n\nGo download it.",
+        "Microsoft said something worth flagging at Build today.\n\nTheir Frontier Tuning method lets you train a smaller model on your own workflows using reinforcement learning. The result matches GPT-5.4 at one-tenth the cost.\n\nNot a benchmark flex. That's a pricing shift.\n\nThe expensive general-purpose model stays expensive. But a smaller model trained on how your team works might get you 90% of the way there for a fraction of that.\n\nChanges the math for small teams."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-06-04",
+    "source": "The Koerner Office",
+    "title": "The Simplest AI Side Hustle for Beginners",
+    "url": "https://www.youtube.com/watch?v=DKqQe0MqDTs",
+    "video_id": "DKqQe0MqDTs"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-06-04",
+    "source": "AI Daily Brief",
+    "title": "With AI IPOs On the Way, Should the Public Own AI Companies",
+    "url": "https://www.youtube.com/watch?v=L2ZJ5HITV48",
+    "video_id": "L2ZJ5HITV48"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-06-04",
+    "source": "AI Daily Brief",
+    "title": "The Next Wave of Enterprise AI",
+    "url": "https://www.youtube.com/watch?v=yTPGY13ym5s",
+    "video_id": "yTPGY13ym5s"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-04",
+    "topic": "model_releases",
+    "title": "Introducing Gemma 4 12B",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
+    "snippet": "# Introducing Gemma 4 12B\n\nPublished: 2026-06-03T16:00:00+00:00\nSource: blog.google (blog.google)\nLanguage: en\n\n## Story\n\nIntroducing Gemma 4 12B\n\n# Introducing Gemma 4 12B: a unified, encoder-free multimodal model\n\nJun 03, 2026\n\nShare\n\nCopy link\n\nGemma 4 12B is designed to bring high-performance multimodal intelligence directly to your laptop, combining mobile-first efficiency with advanced reaso"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-04",
+    "topic": "model_releases",
+    "title": "Nvidia Nemotron 3 Ultra: 500B MoE Agent Model at Computex 2026 | Abhishek Gautam",
+    "url": "https://www.abhs.in/blog/nvidia-nemotron-3-ultra-500b-moe-agent-toolkit-computex-2026",
+    "snippet": "Nvidia Nemotron 3 Ultra: 500B MoE Agent Model at Computex 2026 | Abhishek Gautam\n\n# Nvidia Nemotron 3 Ultra: 500B MoE Agent Model at Computex 2026\n\nAbhishek Gautam June 4, 202610 min read\n\nQuick summary\n\nAt Computex June 3, 2026 Nvidia launched Nemotron 3 Ultra, a 500B-parameter MoE model for agents, plus Agent Toolkit. Vera Rubin in full production; open models continue.\n\nRead next\n\n- Claude Opus"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-04",
+    "topic": "model_releases",
+    "title": "NVIDIA Releases Cosmos 3: A Two-Tower Mixture-of-Transformers Foundation Model Unifying Physical Reasoning, World Generation, and Action Generation - mGrowTech",
+    "url": "https://mgrowtech.com/nvidia-releases-cosmos-3-a-two-tower-mixture-of-transformers-foundation-model-unifying-physical-reasoning-world-generation-and-action-generation/",
+    "snippet": "NVIDIA Releases Cosmos 3: A Two-Tower Mixture-of-Transformers Foundation Model Unifying Physical Reasoning, World Generation, and Action Generation - mGrowTech\n\nThursday, June 4, 2026\n\nNo Result\n\nView All Result\n\n- Al, Analytics and Automation\n- Ad Management\n\n- Social Media Management\n- Google Marketing\n\n- Brand Management\n- Marketing Attribution and Consulting\n\n- Al, Analytics and Automation\n- A"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-04",
+    "topic": "model_releases",
+    "title": "Gemma 4 12B: The Developer Guide\n            \n            \n            - Google Developers Blog",
+    "url": "https://developers.googleblog.com/gemma-4-12b-the-developer-guide/",
+    "snippet": "# Gemma 4 12B: The Developer Guide\n            \n            \n            - Google Developers Blog\n\nPublished: 2026-06-03T16:01:39+00:00\nSource: developers.googleblog.com (developers.googleblog.com)\nLanguage: en\n\n## Story\n\nGemma 4 12B: The Developer Guide - Google Developers Blog\n\n# Gemma 4 12B: The Developer Guide\n\nJUNE 3, 2026\n\nAndr\u00e9 Susano Pinto Research Engineer\n\nAndreas Steiner Research Engine"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-04",
+    "topic": "model_releases",
+    "title": "Build 2026: Microsoft tops Google in image generation while playing catch-up on reasoning",
+    "url": "https://the-decoder.com/build-2026-microsoft-tops-google-in-image-generation-while-playing-catch-up-on-reasoning/",
+    "snippet": "Build 2026: Microsoft tops Google in image generation while playing catch-up on reasoning\n\n# Build 2026: Microsoft tops Google in image generation while playing catch-up on reasoning\n\nJun 3, 2026\n\nMicrosoft\n\n## Key Points\n\n- Microsoft unveiled seven homegrown AI models at Build 2026, including its first reasoning model, MAI-Thinking-1. In benchmarks, it lands roughly on par with Deepseek V3.2.\n- A"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-04",
+    "topic": "product_releases",
+    "title": "Meta's AI agent for WhatsApp Business is now available globally | TechCrunch",
+    "url": "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/",
+    "snippet": "Meta's AI agent for WhatsApp Business is now available globally | TechCrunch\n\nImage Credits:Matthias Balk/picture alliance / Getty Images\n\n# Meta\u2019s AI agent for WhatsApp Business is now available globally\n\n6:40 AM PDT \u00b7 June 3, 2026\n\nFor years, WhatsApp has been a communication layer for businesses of all sizes around the world. Meta is now infusing AI into that layer in a bid to turn WhatsApp int"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-04",
+    "topic": "product_releases",
+    "title": "Introducing GPT-Rosalind for life sciences research | OpenAI",
+    "url": "https://openai.com/sr-RS/index/introducing-gpt-rosalind/",
+    "snippet": "# Introducing GPT-Rosalind for life sciences research | OpenAI\n\nPublished: 2026-06-04T06:13:17+00:00\nSource: openai.com (openai.com)\nLanguage: en\n\n## Story\n\nIntroducing GPT-Rosalind for life sciences research | OpenAI\n\n16. \u0430\u043f\u0440\u0438\u043b 2026.\n\n# Introducing GPT\u2011Rosalind for life sciences research\n\nA new purpose-built model to accelerate scientific research and drug discovery.\n\nRequest access Learn more\n\n\u041f"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-04",
+    "topic": "product_releases",
+    "title": "Asana launches AI-powered products to help organizations manage human and agent work - SiliconANGLE",
+    "url": "https://siliconangle.com/2026/06/04/asana-launches-ai-powered-products-help-organizations-manage-human-agent-work/",
+    "snippet": "Asana launches AI-powered products to help organizations manage human and agent work - SiliconANGLE\n\nSHARE\n\nUPDATED 04:30 EDT / JUNE 04 2026\n\nAI\n\n### Asana launches AI-powered products to help organizations manage human and agent work\n\nSHARE\n\nAsana Inc. announced today during the company\u2019s Work Innovation Summit in London the launch of a new product suite that helps organizations manage work by hu"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-04",
+    "topic": "product_releases",
+    "title": "Hermes Ends AI Agent Terminal Era With Release of Official Desktop App - Decrypt",
+    "url": "https://decrypt.co/369952/hermes-ai-agent-official-app-terminal?amp=1",
+    "snippet": "Hermes Ends AI Agent Terminal Era With Release of Official Desktop App - Decrypt\n\n# Hermes Ends AI Agent Terminal Era With Release of Official Desktop App\n\n## Until now, the only way to run Hermes was through a terminal\u2014or one of several unofficial GUIs the community had cobbled together.\n\nBy Jose Antonio Lanz\n\n3 min read\n\nJun 3, 2026\n\nNous Research shipped Hermes Desktop yesterday as a public pre"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-04",
+    "topic": "product_releases",
+    "title": "MWM AI Partners with Google Cloud to Launch New Mobile Agents for App Creators and Entrepreneurs",
+    "url": "https://www.prnewswire.com/news-releases/mwm-ai-partners-with-google-cloud-to-launch-new-mobile-agents-for-app-creators-and-entrepreneurs-302790646.html",
+    "snippet": "MWM AI Partners with Google Cloud to Launch New Mobile Agents for App Creators and Entrepreneurs Accessibility Statement Skip Navigation\n\nMWM, the mobile technology company with over one billion downloads, partners with Google Cloud to launch the \"AI Mobile Squad\" with Gemini Enterprise.\n\nThe Squad includes a team of Designer, Product Manager, and Developer agents that turns a prompt into a produc"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-04",
+    "topic": "x_posts",
+    "title": "xAI releases Grok Imagine 1.5 Preview on its API and starts rolling it out to standard chatbot subscribers \u00b7 Digg",
+    "url": "https://digg.com/ai/ln18uawa",
+    "snippet": "/AI15h ago\n\n# xAI releases Grok Imagine 1.5 Preview on its API and starts rolling it out to standard chatbot subscribers\n\nElon Musk showcased the update with an AI-generated Trojan War trailer.\n\n--0--\n\nOriginal posts\n\nQuote posts\n\nComments\n\nReposts\n\nOriginal post Zhiting Hu#949\n\nGrok @Imagine 1.5 Preview is here\n\nTry it today in the API: http://x.ai/api/imagine\n\n10:29 AM \u00b7 Jun 3, 2026 \u00b7 18.4M View"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-04",
+    "topic": "x_posts",
+    "title": "\u2018Want full movie?\u2019: Elon Musk posts AI-generated Iliad trailer created with Grok Imagine 1.5 - Storyboard18",
+    "url": "https://www.storyboard18.com/trending/want-full-movie-elon-musk-posts-ai-generated-iliad-trailer-created-with-grok-imagine-1-5-100123.htm",
+    "snippet": "\u2018Want full movie?\u2019: Elon Musk posts AI-generated Iliad trailer created with Grok Imagine 1.5 - Storyboard18\n\n# \u2018Want full movie?\u2019: Elon Musk posts AI-generated Iliad trailer created with Grok Imagine 1.5\n\n## The 40-second video, created using Grok Imagine 1.5, crossed 18.4 million views, with Elon Musk also exploring the possibility of turning the AI-generated concept into a full-length film.\n\nBy "
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-04",
+    "topic": "x_posts",
+    "title": "Town launches its contextual AI assistant TownAI out of beta alongside a $55 million Series A led by a16z \u00b7 Digg",
+    "url": "https://digg.com/ai/8180m4ih",
+    "snippet": "Town launches its contextual AI assistant TownAI out of beta alongside a $55 million Series A led by a16z \u00b7 Digg\n\n/AI17h ago\n\n# Town launches its contextual AI assistant TownAI out of beta alongside a $55 million Series A led by a16z\n\nThe assistant requires explicit user approval before executing tasks\n\n--0--\n\nOriginal posts\n\nQuote posts\n\nComments\n\nReposts\n\nOriginal post Robert Scoble#321\n\nJean-De"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-04",
+    "topic": "x_posts",
+    "title": "Wato Builds a Shared Workspace for Team AI Agents | Tech Twitter",
+    "url": "https://www.techtwitter.com/tweet/8f4c27d0-75a4-4a72-8f1a-48352228a5fe",
+    "snippet": "Next Tweet\n\nPress Space to continue\n\nWato Builds a Shared Workspace for Team AI Agents | Tech Twitter\n\nFinding signal on Twitter is more difficult than it used to be. We curate the best tweets on topics like AI, startups, and product development every weekday so you can focus on what matters.\nTech Twitter\nSearch\u2318K\nNext Tweet\nPress Space to continue\nWato Builds a Shared Workspace for Team AI Agents"
   }
 ]
