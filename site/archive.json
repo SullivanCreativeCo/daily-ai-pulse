@@ -4970,5 +4970,119 @@
     "title": "Wato Builds a Shared Workspace for Team AI Agents | Tech Twitter",
     "url": "https://www.techtwitter.com/tweet/8f4c27d0-75a4-4a72-8f1a-48352228a5fe",
     "snippet": "Next Tweet\n\nPress Space to continue\n\nWato Builds a Shared Workspace for Team AI Agents | Tech Twitter\n\nFinding signal on Twitter is more difficult than it used to be. We curate the best tweets on topics like AI, startups, and product development every weekday so you can focus on what matters.\nTech Twitter\nSearch\u2318K\nNext Tweet\nPress Space to continue\nWato Builds a Shared Workspace for Team AI Agents"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-06-05",
+    "headline": "Microsoft launched MAI-Thinking-1 today, a reasoning model built entirely from scratch with no OpenAI involvement, alongside a six-model family covering code, transcription, voice, and image generation. The benchmark claims matter less than the architecture fact: Microsoft now has its own AI stack and no longer needs to route through OpenAI.",
+    "url": "archive/2026-06-05.html",
+    "posts": {
+      "linkedin": [
+        "Microsoft just built a reasoning model from scratch.\n\nNo OpenAI input. No third-party handoff. Their own lab, their own data, their own weights.\n\nMAI-Thinking-1 dropped as part of a seven-model family. Reasoning, code, transcription, image generation, voice. The whole stack.\n\nThey're claiming it beats Claude Sonnet 4.6 on human evals. Take that with a grain of salt since Microsoft ran the eval. But the architecture detail matters more than the benchmark: built from scratch, trained on clean data, no dependencies on outside models.\n\nThat's the press release. Here's what it actually means.\n\nEvery company that went all-in on Azure plus OpenAI just got reminded that the vendor landscape doesn't hold still. Microsoft is hedging its own partnership. That tells you something about how they see the next three years.\n\nThe question isn't \"should I switch models?\" The question is: what does your AI stack look like if your current provider changes the deal?\n\nThat's worth thinking through now.",
+        "Multimodal AI on your laptop. No internet. No cloud bill. Just your machine doing the work.\n\nGoogle dropped Gemma 4 12B this week. Runs text, images, audio, and video analysis locally on 16GB of RAM. They also launched AI Edge Gallery for Mac so you don't need Ollama or LM Studio to get started.\n\nThe \"AI is too expensive for small business\" objection has been losing ground for months. But a model that costs nothing, runs offline, keeps your data on your device, and handles multiple modalities at once starts removing almost every barrier left.\n\nThe use cases aren't hypothetical. Offline intake forms. Local transcription. Image analysis without sending client photos to a server. Document processing that never touches the cloud.\n\nGemma 4 12B is the first local release that feels genuinely accessible, not just technically impressive. The hardware requirement is a regular laptop.\n\nIf cost and privacy were the last two objections, what does the conversation look like now?",
+        "He built an AI product in a weekend. Six weeks later he had $180,000.\n\nThe product wasn't the hard part.\n\nFinding customers was.\n\nJon Cheney went back on The Koerner Office this week and broke down exactly how he did it. Not the vibe coding part. The customer acquisition part.\n\nA local news pitch that turned into hundreds of thousands in potential deals. A press release on PR Newswire. Posting publicly every single day.\n\nThe line that stuck: \"No one is afraid of failure. We're afraid of what people will think if we fail.\"\n\nHe's right. The product is almost never the blocker. The thing that stalls people is visibility. Actually putting the thing in the world where someone might see it and say no.\n\nBuilding in public isn't just a content strategy. It's a customer acquisition strategy. The stories you tell while you're building are what make the right people find you before you even launch.\n\nWhat are you building right now that nobody knows about?"
+      ],
+      "threads": [
+        "Greg Isenberg built a full working internal tool today. Six prompts. Live on camera.\n\nBut the part that got me wasn't the build speed. It was what happens after.\n\nYou ship it, and Codex keeps updating it on its own.\n\nThat's not a faster way to build software. That's a different model for what building software even means.",
+        "GPT-5.5 just disproved a longstanding open math conjecture. Real one. Confirmed by an OpenAI researcher.\n\nHe held the result back so the math community could absorb it first. Then raised the harder question: in a world where the model does the heavy lifting, who gets the credit?\n\nNobody has a clean answer. But the question isn't going away.",
+        "Meta launched a free AI agent for WhatsApp, Messenger, and Instagram this week.\n\nBooks appointments. Qualifies leads. Answers customer questions. Responds in your customers' local language. Configured in minutes.\n\nFree to start.\n\n\"AI isn't for my type of business yet\" is getting harder to say when the tool shows up inside apps your customers already live in."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-06-05",
+    "source": "The Koerner Office",
+    "title": "The Most Overlooked Way to Get Free Customers",
+    "url": "https://www.youtube.com/watch?v=J7ZNaOeXCAA",
+    "video_id": "J7ZNaOeXCAA"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-06-05",
+    "source": "Startup Ideas Podcast",
+    "title": "OpenAI Codex: Build Apps That Work For You 24/7",
+    "url": "https://www.youtube.com/watch?v=tUeSxXHmE9w",
+    "video_id": "tUeSxXHmE9w"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-05",
+    "topic": "model_releases",
+    "title": "NVIDIA Nemotron 3 Ultra Powers Faster, More Efficient Reasoning for Long-Running Agents | NVIDIA Technical Blog",
+    "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-ultra-powers-faster-more-efficient-reasoning-for-long-running-agents/",
+    "snippet": "# NVIDIA Nemotron 3 Ultra Powers Faster, More Efficient Reasoning for Long-Running Agents | NVIDIA Technical Blog\n\nAuthor: Chris Alexiuk\nPublished: 2026-06-04T13:02:49+00:00\nSource: developer.nvidia.com (developer.nvidia.com)\nLanguage: en\n\n## Story\n\n# NVIDIA Nemotron 3 Ultra Powers Faster, More Efficient Reasoning for Long-Running Agents\n\nPublished: 2026-06-04\nAuthor: Chris Alexiuk\n\n## AI-generate"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-05",
+    "topic": "model_releases",
+    "title": "MAI-Thinking-1: Microsoft enters the advanced-reasoning AI race with its own from-scratch model - Notebookcheck News",
+    "url": "https://www.notebookcheck.net/MAI-Thinking-1-Microsoft-enters-the-advanced-reasoning-AI-race-with-its-own-from-scratch-model.1314757.0.html",
+    "snippet": "MAI-Thinking-1: Microsoft enters the advanced-reasoning AI race with its own from-scratch model - Notebookcheck News\n\nThe Microsoft AI (MAI) team has just announced MAI-Thinking-1, its first advanced reasoning model developed in its own laboratories. Microsoft claims that the AI model possesses reasoning capabilities superior to those of Claude\u2019s Sonnet 4.6, citing blind human side-by-side evaluat"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-05",
+    "topic": "model_releases",
+    "title": "NVIDIA launches Cosmos 3 for robotics and autonomous systems",
+    "url": "https://hi-tech.ua/en/nvidia-launches-cosmos-3-for-robotics-and-autonomous-systems/",
+    "snippet": "NVIDIA launches Cosmos 3 for robotics and autonomous systems\n\n# NVIDIA launches Cosmos 3 for robotics and autonomous systems\n\n04.06.26\n\nAt the technology conference GTC Taipei, the NVIDIA company officially announced the large-scale launch of its innovative model of artificial intelligence Cosmos 3. The developers call the new product the world\u2019s first fully open omnimodel capable of deep visual-o"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-05",
+    "topic": "model_releases",
+    "title": "Google's new Gemma 4 12B puts multimodal AI on a laptop, challenging the cloud-first model",
+    "url": "https://gadgetsnow.indiatimes.com/tech-news/googles-new-gemma-4-12b-puts-multimodal-ai-on-a-laptop-challenging-the-cloud-first-model/articleshow/131496467.cms",
+    "snippet": "Google's new Gemma 4 12B puts multimodal AI on a laptop, challenging the cloud-first model\n\nEdition\n\nIN\n\nThu, Jun 04, 2026 | Updated 04.51PM IST\n\nCompare\n\nMore\n\n- Gadgets Now\n- News\n- Tech News\n- Google's new Gemma 4 12B puts multimodal AI on a laptop, challenging the cloud-first model\n\nGoogle's new Gemma 4 12B puts multimodal AI on a laptop, challenging the cloud-first model\n\nTwitterLinkedinFaceb"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-05",
+    "topic": "product_releases",
+    "title": "Google AI Edge Gallery launches to macOS - 9to5Mac",
+    "url": "https://9to5mac.com/2026/06/03/google-ai-edge-gallery-launches-to-macos-letting-mac-users-run-gemini-models-locally/",
+    "snippet": "Google AI Edge Gallery launches to macOS - 9to5Mac\n\n# Google AI Edge Gallery launches on macOS, letting Mac users run Gemini models locally\n\nIn addition to Google AI Edge Gallery, which lets users run Gemma models locally on their Macs, the company also released the Gemma 4 12B model and the Google AI Edge Eloquent dictation app for the Mac. Here are the details.\n\n## A bit of background\n\nThe major"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-05",
+    "topic": "product_releases",
+    "title": "Meshy Launches 3D Agent Beta, the World's First AI Agent for 3D Creation",
+    "url": "https://www.prnewswire.com/news-releases/meshy-launches-3d-agent-beta-the-worlds-first-ai-agent-for-3d-creation-302790052.html",
+    "snippet": "Meshy Launches 3D Agent Beta, the World's First AI Agent for 3D Creation Accessibility Statement Skip Navigation\n\nMeshy 3D Agent Beta introduces a chat-to-3D workflow for AI 3D creation, helping makers, indie developers, artists and designers brainstorm ideas, generate batch concepts and turn them into 3D models through one conversation.\n\nSILICON VALLEY, Calif., June 4, 2026 /PRNewswire/ -- Meshy,"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-05",
+    "topic": "x_posts",
+    "title": "Elon Musk unveils trailer of Iliad made with Grok Imagine 1.5, asks: \u2018Want full movie?\u2019 - CNBC TV18",
+    "url": "https://www.cnbctv18.com/entertainment/elon-musk-unveils-trailer-of-iliad-made-with-grok-imagine-1-5-asks-want-full-movie-ws-l-19919190.htm",
+    "snippet": "Elon Musk unveils trailer of Iliad made with Grok Imagine 1.5, asks: \u2018Want full movie?\u2019 - CNBC TV18\n\nIn Trends\n\nHome Entertainment News Elon Musk unveils trailer of Iliad made with Grok Imagine 1.5, asks: \u2018Want full movie?\u2019\n\n# Elon Musk unveils trailer of Iliad made with Grok Imagine 1.5, asks: \u2018Want full movie?\u2019\n\n## The trailer of Iliad (Troy) was created using Grok Imagine 1.5, the latest video-"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-05",
+    "topic": "x_posts",
+    "title": "OpenAI's Sebastien Bubeck says GPT-5.5 disproved the sum-product conjecture using Boris Alexeev's prompting workflow \u00b7 Digg",
+    "url": "https://digg.com/ai/4zoz3s3u",
+    "snippet": "OpenAI's Sebastien Bubeck says GPT-5.5 disproved the sum-product conjecture using Boris Alexeev's prompting workflow \u00b7 Digg\n\n/AI23h ago\n\n# OpenAI's Sebastien Bubeck says GPT-5.5 disproved the sum-product conjecture using Boris Alexeev's prompting workflow\n\nThe prompt included a unit distance problem solution\n\n--0--\n\nOriginal post\n\nSebastien Bubeck@SebastienBubeck#50in AI\n\nExpert prompting was done"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-05",
+    "topic": "x_posts",
+    "title": "\u2018Want full movie?\u2019: Elon Musk posts AI-generated Iliad trailer created with Grok Imagine 1.5 - Storyboard18",
+    "url": "https://www.storyboard18.com/amp/trending/want-full-movie-elon-musk-posts-ai-generated-iliad-trailer-created-with-grok-imagine-1-5-100123.htm",
+    "snippet": "# \u2018Want full movie?\u2019: Elon Musk posts AI-generated Iliad trailer created with Grok Imagine 1.5 - Storyboard18\n\nPublished: 2026-06-04T11:29:15+05:30\nSource: storyboard18.com (storyboard18.com)\nLanguage: en\n\n## Story\n\n\u2018Want full movie?\u2019: Elon Musk posts AI-generated Iliad trailer created with Grok Imagine 1.5 - Storyboard18\n\n# \u2018Want full movie?\u2019: Elon Musk posts AI-generated Iliad trailer created wi"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-05",
+    "topic": "x_posts",
+    "title": "Meta launches Business Agent and platform for businesses globally",
+    "url": "https://tech.yahoo.com/ai/meta-ai/articles/meta-launches-business-agent-platform-082947653.html",
+    "snippet": "Meta launches Business Agent and platform for businesses globally\n\nAdvertisement\n\nAdvertisement\n\nAdvertisement\n\nAdvertisement\n\nMeta has also launched the Meta Business Agent Platform (PixieMe/Shutterstock.com.)\n\nMeta Platforms has introduced its Meta Business Agent, an AI system designed to help businesses handle customer communications across messaging services including WhatsApp, Messenger, and "
   }
 ]
