@@ -5094,5 +5094,143 @@
       "linkedin": [],
       "threads": []
     }
+  },
+  {
+    "kind": "digest",
+    "date": "2026-06-06",
+    "headline": "The agent layer moved from \"someday\" to \"shipping.\" Scout, ZoomMate, and a dozen products are turning meetings into executed work. Meanwhile, the real bottleneck for small AI shops isn't the models\u2014it's the feet on the ground. Corey Ganim's on-the-ground playbook (meetups, door knocking, free audits) works because it's synchronous, human, and real.",
+    "url": "archive/2026-06-06.html",
+    "posts": {
+      "linkedin": [
+        "The best AI acquisition method in 2026 is almost boring.\n\nCorey Ganim walked through seven ways to land AI clients this week. Meetups. Door knocking. LinkedIn outreach. Agency partnerships. You know what they all have in common? A free 15-minute assessment.\n\nNot free access to a tool. Not a demo video. A live conversation where you actually look at their broken process and say, \"Here's one thing that would fix it.\"\n\nOne person knocked on 30 doors. Got five appointments. Two became paying clients.\n\nAnother hosted a meetup in a realtor's office, followed up within 24 hours. Seven qualified leads in two hours of work.\n\nThe reason this works: you're not selling them AI. You're removing a pain that's costing them time every single week. Once they see removal is possible, they'll ask how much.\n\nMost people skip this. They want to build the perfect product first. Or sell at scale. But the people winning right now are the ones doing it in person, on foot, in their own town.\n\nThat's not a marketing hack. That's just how humans make decisions when it matters.",
+        "The model releases this week are getting harder to tell apart.\n\nAlibaba dropped Qwen3.7-Max. NVIDIA shipped Nemotron-3-Ultra. Google released Gemma 4 with quantization-aware training. They're all good. They're all fast. They all have a million token context.\n\nAnd honestly? Most teams don't feel the difference.\n\nWhat actually moved the needle this week was Zoom shipping ZoomMate and Microsoft shipping Scout. Two products that say the same thing: stop switching between tools.\n\nYou're in a meeting. Decision gets made. Now what? Scout reads the room, drafts an email, files a ticket, clears a calendar while you're already onto the next thing.\n\nThat's the product that matters. Not the model underneath. The coordination layer.\n\nModels are becoming like cloud servers. You need them. They matter at scale. But no one gets excited about them at a coffee shop anymore.\n\nThe companies winning are the ones building products on top of models, not the models themselves.\n\nSo here's the question: what workflow in your business would change if you had something that just handled the handoff?",
+        "The biggest opportunity in AI right now is unsexy.\n\nThe people making real money from AI aren't building frontier models. They're not launching the next ChatGPT. They're knocking on doors in their own town.\n\nCorey Ganim's frame is simple: a free 15-minute AI assessment. You look at a local business, find the one thing slowing them down, show them how to fix it. Then you ask if they want to fix the other four things.\n\nWhat I like about this: it's immediate. It's real. It's repeatable.\n\nYou don't need perfect tools. You don't need a massive brand. You need to be in the room with someone and say, \"I see what's broken. I know how to unbreak it.\"\n\nThat's how every service business starts. That's how it compounds. One person tells another. One town becomes two towns. One product becomes ten.\n\nThis is how Intercom got their first hundred customers. How HubSpot built a moat. Not with hype. With audits.\n\nSo if you're sitting on an idea of \"I could help people use AI better,\" here's your move: pick a town. Pick a business type. Show up. Do the audit for free. See what happens.\n\nBaby bird has gotta jump outta the nest."
+      ],
+      "threads": [
+        "The move everybody's missing is so boring that it works. Corey Ganim knocked on 30 doors. Got five appointments. Two became paying clients. All he did was offer a free 15-minute look at their workflow and say \"Here's what's broken.\" No pitch. No deck. Just reality. And people will pay to fix reality every single time.",
+        "Everyone's talking about the new models this week. Bigger context. Faster inference. Better reasoning. Cool. But the real move was Zoom shipping ZoomMate. A product that stops you from switching tools seventeen times a day. That's what people actually want. Not a smarter model. A tool that handles the handoff while you're already thinking about the next thing.",
+        "If you're waiting for the perfect AI tool before you help people use AI better, you're already late. The people winning right now are the ones showing up in their own town and doing the work with whatever they've got. One free audit. One recommendation. One town becomes two. That's how this actually grows."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-06-06",
+    "source": "Corey Ganim",
+    "title": "Nobody's using these methods to get AI clients and I don't get why",
+    "url": "https://www.youtube.com/watch?v=lUYaDcD2sLc",
+    "video_id": "lUYaDcD2sLc"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-06",
+    "topic": "model_releases",
+    "title": "Alibaba's Latest Proprietary Model, Qwen3.7-Max, Challenges U.S. Rivals",
+    "url": "https://www.deeplearning.ai/the-batch/qwen3-7-max-adds-speed-and-power",
+    "snippet": "Alibaba's Latest Proprietary Model, Qwen3.7-Max, Challenges U.S. Rivals\n\nLoading the Elevenlabs Text to Speech AudioNative Player...\n\nAlibaba updated its flagship large language model for long-running agentic work, pushing it into the top rank among LLMs built in China.\n\nWhat\u2019s new: Alibaba positions Qwen3.7-Max as its preferred model for text-only work like coding and scientific discovery. Like o"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-06",
+    "topic": "model_releases",
+    "title": "NVIDIA Nemotron-3-Ultra 550B: 1M Context, Configurable Reasoning Mode | TPS",
+    "url": "https://tpsreport.news/news/nvidia-nemotron-3-ultra-550b-1m-context-reasoning",
+    "snippet": "NVIDIA Nemotron-3-Ultra 550B: 1M Context, Configurable Reasoning Mode | TPS\n\n# NVIDIA Releases Nemotron-3-Ultra: 550B Parameter Model with 1M Token Context and Configurable Reasoning\n\nTL;DR\n\nNVIDIA released Nemotron-3-Ultra-550B-A55B-NVFP4, a 550B parameter model with 55B active parameters, featuring a 1M token context window and configurable reasoning mode. The model uses a hybrid LatentMoE archi"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-06",
+    "topic": "model_releases",
+    "title": "Gemma 4 with quantization-aware training",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
+    "snippet": "Gemma 4 with quantization-aware training\n\n# Gemma 4 QAT models: Optimizing model compression for mobile and laptop efficiency\n\nJun 05, 2026\n\nShare\n\nCopy link\n\nOur new versions of the Gemma 4 family are optimized with Quantization-Aware Training (QAT) to dramatically reduce memory requirements and maximize on-device performance.\n\nOlivier Lacombe\n\nDirector of Product Management, Google Deepmind\n\nOma"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-06",
+    "topic": "model_releases",
+    "title": "Google Unveils Gemini 3.5 and AI Upgrades at I/O 2026 - Blockchain.News",
+    "url": "https://blockchain.news/news/google-gemini-3-5-ai-updates-io-2026",
+    "snippet": "Google Unveils Gemini 3.5 and AI Upgrades at I/O 2026 - Blockchain.News\n\n# Google Unveils Gemini 3.5 and AI Upgrades at I/O 2026\n\nPeter Zhang Jun 05, 2026 15:06\n\nGoogle launches Gemini 3.5 and Omni models, revamps AI-powered Search, and unveils new hardware at I/O 2026, marking its push to embed AI across its ecosystem.\n\nGoogle has officially entered what it calls the \"Agentic Gemini era,\" unveili"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-06",
+    "topic": "product_releases",
+    "title": "Zoom launches ZoomMate: the first AI teammate built to turn conversations into completed work - Telecom Reseller / Technology Reseller News",
+    "url": "https://telecomreseller.com/2026/06/05/zoom-launches-zoommate-the-first-ai-teammate-built-to-turn-conversations-into-completed-work/",
+    "snippet": "Zoom launches ZoomMate: the first AI teammate built to turn conversations into completed work - Telecom Reseller / Technology Reseller News\n\nGenerally available today, ZoomMate combines agentic search, AI-generated presentations and deliverables, and automated execution in Salesforce, Jira, Slack, ServiceNow, and more\n\nToday, Zoom announced the launch of ZoomMate, an agentic AI work surface to hel"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-06",
+    "topic": "product_releases",
+    "title": "Cognizant Launches Sovereign Physical AI Platform-as-a-Service",
+    "url": "https://www.prnewswire.com/news-releases/cognizant-launches-sovereign-physical-ai-platform-as-a-service-302793025.html",
+    "snippet": "Cognizant Launches Sovereign Physical AI Platform-as-a-Service Accessibility Statement Skip Navigation\n\n- Establishes industry leading sovereign Physical AI Platform-as-a-Service, built on the Cognizant\u00ae Intelligence Spine\n- Unifies Cognizant's engineering, AI, industry capabilities for Physical AI across eight core verticals\n\nTEANECK, N.J., June 5, 2026 /PRNewswire/ -- Cognizant(NASDAQ: CTSH) tod"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-06",
+    "topic": "product_releases",
+    "title": "Microsoft Announces Scout, an Always-On AI Agent for Teams | Business Chief",
+    "url": "https://businesschief.com/technology-and-ai/microsoft-announces-scout-an-always-on-ai-agent-for-teams",
+    "snippet": "Microsoft Announces Scout, an Always-On AI Agent for Teams | Business Chief\n\nArticle\n\nTechnology & AI\n\n# Microsoft Announces Scout, an Always-On AI Agent for Teams\n\nBy Isaiah McCall\n\nJune 05, 2026\n\nundefined mins\n\nShare this article\n\nPrioritise Us on Google\n\nShare this article\n\nPrioritise Us on Google\n\nOmar Shahine, Microsoft Corporate Vice President\n\nMicrosoft announces Scout, an always-on AI age"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-06",
+    "topic": "product_releases",
+    "title": "Buzzy Adds MCP Support, Bringing Governed Enterprise App Creation to Codex, Claude Code, Cursor, and AI Agents",
+    "url": "https://www.prweb.com/releases/buzzy-adds-mcp-support-bringing-governed-enterprise-app-creation-to-codex-claude-code-cursor-and-ai-agents-302791408.html",
+    "snippet": "Buzzy Adds MCP Support, Bringing Governed Enterprise App Creation to Codex, Claude Code, Cursor, and AI Agents Accessibility Statement Skip Navigation\n\nBuzzy today announced the general availability of Buzzy Builder MCP, bringing governed enterprise app creation to MCP-enabled tools including Codex, Claude Code, Cursor, and AI agents. The release extends Buzzy's semantic application platform, allo"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-06",
+    "topic": "product_releases",
+    "title": "OpenAI: Codex Introduces Role-Specific Plugins, Sites, And Annotations To Expand Beyond Software Development",
+    "url": "https://pulse2.com/openai-codex-introduces-role-specific-plugins-sites-and-annotations-to-expand-beyond-software-development/",
+    "snippet": "OpenAI: Codex Introduces Role-Specific Plugins, Sites, And Annotations To Expand Beyond Software Development\n\n# OpenAI: Codex Introduces Role-Specific Plugins, Sites, And Annotations To Expand Beyond Software Development\n\nBy Amit Chowdhry \u2022 Today at 11:32 AM\n\nOpenAI: Codex Introduces Role-Specific Plugins, Sites, And Annotations To Expand Beyond Software Development\n\nOpenAI announced a major expan"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-06",
+    "topic": "x_posts",
+    "title": "Elon Musk Experiments With Grok Imagine For Historical Storyboarding \u00b7 Digg",
+    "url": "https://digg.com/ai/imcylgw7",
+    "snippet": "# Elon Musk Experiments With Grok Imagine For Historical Storyboarding \u00b7 Digg\n\nPublished: 2026-06-05T15:36:21+00:00\nSource: digg.com (digg.com)\nLanguage: en\n\n## Story\n\nElon Musk Experiments With Grok Imagine For Historical Storyboarding \u00b7 Digg\n\n/AI5h ago\n\n# Elon Musk Experiments With Grok Imagine For Historical Storyboarding\n\n15593619258236.6K\n\nOriginal post Elon Musk#74\n\nStoryboarding in Grok @im"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-06",
+    "topic": "x_posts",
+    "title": "Peter Wildeford says SpaceX's investment prospectus plans to scale Grok to trillions of parameters but omits frontier AI safety protocols \u00b7 Digg",
+    "url": "https://digg.com/ai/a83eikx1",
+    "snippet": "Peter Wildeford says SpaceX's investment prospectus plans to scale Grok to trillions of parameters but omits frontier AI safety protocols \u00b7 Digg\n\n# Story temporarily unavailable\n\nWe are having trouble reaching this story. Please try again shortly."
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-06",
+    "topic": "x_posts",
+    "title": "Leak Reveals Microsoft Wants Its AI To Be 'Addictive'",
+    "url": "https://kotaku.com/microsoft-ai-scout-addictive-satya-nadella-404-media-copilot-2000702924",
+    "snippet": "Leak Reveals Microsoft Wants Its AI To Be 'Addictive'\n\nA Scout AI being asked how to get users addicted. \u00a9 Microsoft / Kotaku\n\nOn Tuesday of this week Microsoft made public its latest AI endeavor, Scout. On the same day, 404 Media published a leaked internal strategy document it had sourced from within Microsoft, in which it is written that the corporation\u2019s immediate intention for Scout is to \u201cma"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-06",
+    "topic": "x_posts",
+    "title": "'Pause button has no cords': Claude speaks against Anthropic's AI pause calls as pre-IPO cosplay",
+    "url": "https://www.wionews.com/india-news/pause-button-has-no-cords-claude-speaks-against-anthropic-s-ai-pause-calls-as-pre-ipo-cosplay-1780663384141",
+    "snippet": "# 'Pause button has no cords': Claude speaks against Anthropic's AI pause calls as pre-IPO cosplay\n\nPublished: 2026-06-05T12:50:00+00:00\nSource: wionews.com (wionews.com)\nLanguage: en\n\n## Story\n\n'Pause button has no cords': Claude speaks against Anthropic's AI pause calls as pre-IPO cosplay\n\n|Fri, Jun 5, 2026 | Updated: 01.01PM IST\n\nv\n\n- logout\n\n- Tech\n- Wion\n- / India\n- /'Pause button has no cord"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-06",
+    "topic": "x_posts",
+    "title": "OpenClaw was too dangerous for your PC. Now it\u2019s the blueprint | PCWorld",
+    "url": "https://www.pcworld.com/article/3156883/openclaw-was-too-dangerous-for-your-pc-now-its-the-blueprint.html",
+    "snippet": "OpenClaw was too dangerous for your PC. Now it\u2019s the blueprint | PCWorld\n\nMore\n\nBy Story Type\n\nDigital Magazine\n\n- Digital Magazine \u2013 Subscribe\n- Digital Magazine \u2013 Info\n\nClient Content\n\n- BrandPosts\n- Smarter Document Workflows Start with Nitro\n- The 1Password Guide to Password Managers\n- The Avast Online Security Buyer\u2019s Guide\n- The Dell 2026 buying guide: Laptops, monitors and Alienware gaming "
   }
 ]
