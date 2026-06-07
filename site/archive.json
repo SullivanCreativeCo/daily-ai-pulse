@@ -5232,5 +5232,135 @@
     "title": "OpenClaw was too dangerous for your PC. Now it\u2019s the blueprint | PCWorld",
     "url": "https://www.pcworld.com/article/3156883/openclaw-was-too-dangerous-for-your-pc-now-its-the-blueprint.html",
     "snippet": "OpenClaw was too dangerous for your PC. Now it\u2019s the blueprint | PCWorld\n\nMore\n\nBy Story Type\n\nDigital Magazine\n\n- Digital Magazine \u2013 Subscribe\n- Digital Magazine \u2013 Info\n\nClient Content\n\n- BrandPosts\n- Smarter Document Workflows Start with Nitro\n- The 1Password Guide to Password Managers\n- The Avast Online Security Buyer\u2019s Guide\n- The Dell 2026 buying guide: Laptops, monitors and Alienware gaming "
+  },
+  {
+    "kind": "digest",
+    "date": "2026-06-07",
+    "headline": "Desktop AI agents crossed into the mainstream. Hermes, Tencent, and ManageEngine all shipped native UIs this week. The shift from \"CLI only\" to \"click and drag\" removes the infrastructure skill gate entirely. Non-technical builders can now deploy agents without touching code. That's the real story: not what agents can do, but who now gets to build them.",
+    "url": "archive/2026-06-07.html",
+    "posts": {
+      "linkedin": [
+        "The desktop agent boom happened this week.\n\nHermes dropped native apps. Tencent launched WorkBuddy for teams. ManageEngine rolled Zia Agents into their whole enterprise suite.\n\nI'm watching something shift in real time.\n\nSix months ago, agents lived in terminals and YAML files. You needed to know Docker, APIs, cloud infra. It was a skill gate.\n\nThis week, the skill gate disappeared.\n\nNow you click. You drag files. You ask questions. The agent runs. You don't care where.\n\nThat sounds like a product feature. It's actually a story about who gets to build.\n\nMy take: non-technical people are about to ship agent-powered businesses. Your ex-boss who got laid off. The freelancer. The accountant. They're not learning APIs. They're solving problems their customers already have.\n\nThe constraint was never \"what can agents do.\" It was always \"who gets to build agents.\" That constraint just got removed.\n\nSo the real question isn't \"are agents useful?\" It's \"what gets built when anyone can deploy one?\"",
+        "The move happened.\n\nBoris Cherny, head of Claude Code at Anthropic, just said it straight: \"I don't prompt Claude anymore. I have loops running that prompt Claude and figuring out what to do. My job is to write loops.\"\n\nThat's the inflection.\n\nSix months ago, the skill was knowing how to prompt well. How to ask the right question. How to iterate.\n\nThat skill is being passed to the machine.\n\nThe new skill is writing the loop that writes the prompts that write the code.\n\nYou're not becoming a prompt engineer. You're becoming a systems designer.\n\nHere's what that looks like in practice: you design feedback. The loop handles iteration. You step back and let it run until it hits a wall.\n\nThat's different from what most people are doing right now.\n\nMost are still stuck in the \"chat with Claude\" phase. They prompt. They wait. They read output. They prompt again.\n\nThat works. But it's slow.\n\nThe move is to let the machine do the iteration.\n\nWrite the loop first. Then run it.",
+        "Your frontier model isn't the win anymore.\n\nMicrosoft announced seven new MAI models. ManageEngine shipped Zia Agents for IT workflows. Alibaba pushed Qwen3.7-Plus for computer-use tasks.\n\nNone of them are using OpenAI.\n\nThey're not saying \"we use GPT-5.5.\" They're saying \"we built a model for this specific job.\"\n\nThat's the plot twist.\n\nA 20B model trained on IT operations data beats GPT-5.5 at IT tasks. A 12B model trained on image understanding beats GPT-5.5 at image tasks.\n\nIt's not about size. It's about fit.\n\nThe frontier models are all-purpose. They're good at everything. They're optimized for nothing.\n\nA domain-specific model is good at one thing. That one thing is what you actually need.\n\nHere's the move: if you're building for an enterprise customer, you're not trying to fit them into OpenAI. You're building a model on their data.\n\nCosts go down. Quality goes up. Your data stays yours.\n\nYour ideas aren't bad ideas. They're just not finished ideas. The AI stack is finally giving you tools to finish them."
+      ],
+      "threads": [
+        "Desktop agents just stopped being a nerd thing.\n\nHermes dropped native apps. Tencent's agent works in Slack and Discord now. ManageEngine rolled them into enterprise IT.\n\nThe infrastructure layer disappeared.\n\nNow it's: problem exists, agent solves, nobody cares where it runs.\n\nThat's new.",
+        "Boris Cherny just dropped something important: he doesn't prompt Claude anymore.\n\nHe writes loops that prompt Claude. Loops that iterate. Loops that keep going.\n\nThe skill isn't asking good questions. It's designing systems that ask them over and over.\n\nThat's the inflection.",
+        "Microsoft and Alibaba didn't announce new frontier models this week.\n\nThey announced purpose-built models for specific jobs.\n\nA 20B model trained on IT operations data outperforms the 200B frontier model trained on everything.\n\nWhy? Fit matters more than size.\n\nThat's changing the game."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-06-07",
+    "source": "Startup Ideas Podcast",
+    "title": "Hermes Agent Desktop: Full Setup + Real Use Cases",
+    "url": "https://www.youtube.com/watch?v=EJm8Ka-gVOc",
+    "video_id": "EJm8Ka-gVOc"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-07",
+    "topic": "model_releases",
+    "title": "Microsoft Artificial Intelligence launches seven new MAI models \u2013 Epium",
+    "url": "https://epium.com/news/microsoft-artificial-intelligence-launches-seven-new-mai-models/",
+    "snippet": "Microsoft Artificial Intelligence launches seven new MAI models \u2013 Epium\n\n# Microsoft Artificial Intelligence launches seven new MAI models\n\nMicrosoft Artificial Intelligence announced seven new in-house MAI models spanning reasoning, coding, image, transcription, and voice. The company is pairing the launch with Frontier Tuning, a workflow-specific adaptation approach for enterprise-controlled mod"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-07",
+    "topic": "model_releases",
+    "title": "Alibaba Pitches Qwen3.7-Plus as Computer-Use AI Agent",
+    "url": "https://winbuzzer.com/2026/06/06/alibaba-pitches-qwen37-plus-as-a-computer-use-ai-agent-xcxwbn/",
+    "snippet": "# Alibaba Pitches Qwen3.7-Plus as Computer-Use AI Agent\n\nAuthor: Markus Kasanmascheff\nPublished: 2026-06-06T15:51:56+00:00\nSource: winbuzzer.com (winbuzzer.com)\nLanguage: en\n\n## Story\n\nAlibaba Pitches Qwen3.7-Plus as Computer-Use AI Agent\n\nSearch\n\nCompanies, AI Divisions, Projects, Labs\n\nChatbots, AI Assistants, AI Solutions\n\n- Windows 10\n- Windows 11\n\n- Microsoft Azure\n- Google Cloud\n- Amazon Web"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-07",
+    "topic": "model_releases",
+    "title": "Google Gemma 4 12B Runs Locally on 16GB Laptops With Audio and Video AI \u2014 Explosion",
+    "url": "https://www.explosion.com/191228/google-gemma-4-12b-runs-locally-on-16gb-laptops-with-audio-and-video-ai/",
+    "snippet": "Google Gemma 4 12B Runs Locally on 16GB Laptops With Audio and Video AI \u2014 Explosion\n\nTechnology\n\n# Google Gemma 4 12B Runs Locally on 16GB Laptops With Audio and Video AI\n\nBy Daniel Park\u00b7June 6, 2026\n\nGoogle has launched Gemma 4 12B, an open-source AI model capable of analyzing audio, video, and images, all while running on a standard 16GB laptop\u2014no cloud connection needed.\n\nWhile many AI companie"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-07",
+    "topic": "model_releases",
+    "title": "NVIDIA Ships Nemotron 3 Ultra - 550B Open-Weight MoE | Awesome Agents",
+    "url": "https://awesomeagents.ai/news/nvidia-nemotron-3-ultra-550b/",
+    "snippet": "NVIDIA Ships Nemotron 3 Ultra - 550B Open-Weight MoE | Awesome Agents\n\nNVIDIA released Nemotron 3 Ultra on June 4, two days after Jensen Huang announced it at Computex in Taipei. At 550 billion total parameters, it's the largest open-weight model NVIDIA has shipped and, by Artificial Analysis's Intelligence Index, the best US open-weight model released to date.\n\nKey Specs\n\n| Spec | Value |\n| --- |"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-07",
+    "topic": "model_releases",
+    "title": "Google Gemma 4 QAT Fits Frontier AI in Under 1GB | Awesome Agents",
+    "url": "https://awesomeagents.ai/news/gemma-4-qat-mobile-edge/",
+    "snippet": "Google Gemma 4 QAT Fits Frontier AI in Under 1GB | Awesome Agents\n\nGoogle DeepMind published new quantization-aware training (QAT) checkpoints for the Gemma 4 family on June 5, cutting the E2B model's memory footprint to under 1GB and opening a new class of device - smartphones, low-end laptops, single-board computers - to capable local inference.\n\nKey Specs\n\n| Variant | Format | Memory Footprint "
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-07",
+    "topic": "product_releases",
+    "title": "Meta introduces AI-powered Creator Assistant for Facebook - BetaNews",
+    "url": "https://betanews.com/article/meta-introduces-ai-powered-creator-assistant-for-facebook/",
+    "snippet": "Meta introduces AI-powered Creator Assistant for Facebook - BetaNews\n\nBetaNews Hot Topics \u25bc\n\n# Meta introduces AI-powered Creator Assistant for Facebook\n\nCreators need social media platforms, and social media platforms need creators; Facebook is no different in this regard. As such it is no wonder that Meta does everything that it can to help and encourage creators to get content online and reach "
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-07",
+    "topic": "product_releases",
+    "title": "Hermes Agent v0.16.0 Launches Native Desktop Apps And Web Dashboard",
+    "url": "https://digg.com/tech/ma7xn2yn",
+    "snippet": "/Tech1d ago\n\n# Hermes Agent v0.16.0 Launches Native Desktop Apps And Web Dashboard\n\n252861723440.2K\n\nOriginal post Teknium \ud83e\udebd#303\n\nLuke The Dev@iamlukethedev\n\nHermes Agent v0.16.0 (2026.6.5) just dropped\n\nThis is arguably the biggest Hermes release yet.\n\nHermes is no longer just an agent framework. It\u2019s becoming a complete platform.\n\nHere\u2019s what actually matters \u2193\n\n1. Native Desktop Apps Are Here\n\n"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-07",
+    "topic": "product_releases",
+    "title": "Tencent launches WorkBuddy Enterprise Edition and Agent Suite for corporate AI teams",
+    "url": "https://abit.ee/en/artificial-intelligence/tencent-workbuddy-enterprise-ai-agent-agent-suite-enterprise-ai-mcp-en",
+    "snippet": "Tencent launches WorkBuddy Enterprise Edition and Agent Suite for corporate AI teams\n\nSearch\n\nTencent Cloud has unveiled WorkBuddy Enterprise Edition and the Agent Suite, tools aimed at moving organisations beyond individual AI productivity gains towards genuinely collaborative, AI-enhanced teamwork.\n\nImage by Tencent\n\nThe launch was announced on 5 June. Liu Yi, VP of Tencent Cloud and head of bot"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-07",
+    "topic": "product_releases",
+    "title": "ManageEngine Rolls Out Autonomous AI Capabilities Across Its Suite to Power Digital Enterprises\u00a0 - Technology News PH",
+    "url": "https://technologynewsph.com/manageengine-rolls-out-autonomous-ai-capabilities-across-its-suite-to-power-digital-enterprises/",
+    "snippet": "ManageEngine Rolls Out Autonomous AI Capabilities Across Its Suite to Power Digital Enterprises - Technology News PH\n\nManila, Philippines \u2014 ManageEngine, a division of Zoho Corporation and a leading provider of enterprise IT management solutions, today announced the rollout of Zia Agents, the company\u2019s proprietary AI-powered autonomous agent, across its digital enterprise management suite. Built w"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-07",
+    "topic": "x_posts",
+    "title": "SpaceX and xAI founder Elon Musk predicts space will become the cheapest location for AI compute within 36 months \u00b7 Digg",
+    "url": "https://digg.com/ai/muqz1v0s",
+    "snippet": "SpaceX and xAI founder Elon Musk predicts space will become the cheapest location for AI compute within 36 months \u00b7 Digg\n\n/AI10h ago\n\n# SpaceX and xAI founder Elon Musk predicts space will become the cheapest location for AI compute within 36 months\n\nSpace-based solar is five to ten times more efficient.\n\n2.5K24.5K3.7K5.1K9.4M\n\nOriginal post\n\nElon Musk@elonmusk#74in AI\n\n7:23 AM \u00b7 Jun 6, 2026 \u00b7 9.9"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-07",
+    "topic": "x_posts",
+    "title": "Boris Cherny, Claude Code creator at Anthropic, says his personal workflow has shifted from manual prompting to building autonomous loops \u00b7 Digg",
+    "url": "https://digg.com/ai/v1igoqs7",
+    "snippet": "Boris Cherny, Claude Code creator at Anthropic, says his personal workflow has shifted from manual prompting to building autonomous loops \u00b7 Digg\n\n/AI22h ago\n\n# Boris Cherny, Claude Code creator at Anthropic, says his personal workflow has shifted from manual prompting to building autonomous loops\n\nHe predicts autonomous loops will define AI-assisted engineering this year\n\n4645.2K4077.2K1.1M\n\nOrigi"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-07",
+    "topic": "x_posts",
+    "title": "LisanBench creator Lisan al Gaib analyzes 4,000 tweets, finding Anthropic scored a 6.63 average sentiment compared to OpenAI's 4.89 \u00b7 Digg",
+    "url": "https://digg.com/ai/yjpa5aj5",
+    "snippet": "# LisanBench creator Lisan al Gaib analyzes 4,000 tweets, finding Anthropic scored a 6.63 average sentiment compared to OpenAI's 4.89 \u00b7 Digg\n\nPublished: 2026-06-06T13:04:00+00:00\nSource: digg.com (digg.com)\nLanguage: en\n\n## Story\n\nLisanBench creator Lisan al Gaib analyzes 4,000 tweets, finding Anthropic scored a 6.63 average sentiment compared to OpenAI's 4.89 \u00b7 Digg\n\n/AI13h ago\n\n# LisanBench crea"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-07",
+    "topic": "x_posts",
+    "title": "Creator Patrick Jiang launches Harness-1, an open-source 20B search agent claiming to beat GPT-5.4 on long-horizon search \u00b7 Digg",
+    "url": "https://digg.com/ai/arng780r",
+    "snippet": "Creator Patrick Jiang launches Harness-1, an open-source 20B search agent claiming to beat GPT-5.4 on long-horizon search \u00b7 Digg\n\n/AI19h ago\n\n# Creator Patrick Jiang launches Harness-1, an open-source 20B search agent claiming to beat GPT-5.4 on long-horizon search\n\nIt achieves 73% average evidence recall across eight benchmarks\n\n872K1922.4K150.1K\n\nOriginal post Ben (no treats)#972\n\nIntroducing Ha"
   }
 ]
