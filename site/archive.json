@@ -5362,5 +5362,31 @@
     "title": "Creator Patrick Jiang launches Harness-1, an open-source 20B search agent claiming to beat GPT-5.4 on long-horizon search \u00b7 Digg",
     "url": "https://digg.com/ai/arng780r",
     "snippet": "Creator Patrick Jiang launches Harness-1, an open-source 20B search agent claiming to beat GPT-5.4 on long-horizon search \u00b7 Digg\n\n/AI19h ago\n\n# Creator Patrick Jiang launches Harness-1, an open-source 20B search agent claiming to beat GPT-5.4 on long-horizon search\n\nIt achieves 73% average evidence recall across eight benchmarks\n\n872K1922.4K150.1K\n\nOriginal post Ben (no treats)#972\n\nIntroducing Ha"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-06-08",
+    "headline": "The most interesting AI framing today comes from a podcast title, not a model launch. Chris Koerner is naming a specific category of work that AI can't structurally replace, which is a more useful lens right now than another capability benchmark.",
+    "url": "archive/2026-06-08.html",
+    "posts": {
+      "linkedin": [
+        "The most interesting AI conversation right now isn't about what AI can do.\n\nIt's about what it can't.\n\nChris Koerner dropped an episode about a $60K/month side hustle that AI structurally won't replace. The title alone stopped me mid-scroll.\n\nBecause here's what I keep seeing. Everyone's racing to build AI-adjacent things. Automations, agents, wrappers. Which, fine. I do that too.\n\nBut there's a whole category of work that gets more valuable as AI gets better. Not because it's complicated. Because it's human.\n\nPhysical. Relational. The kind of thing where showing up matters more than being smart.\n\nThe people I've seen win consistently aren't the ones with the best tech stack. They're the ones who picked a lane where being a real person in the room is the whole product.\n\nThat's not going away. If anything, it's getting rarer.\n\nWorth asking: what are you already good at that a model genuinely can't do?",
+        "AI tools will not save a business that has no real value underneath.\n\nI see this constantly. Someone builds a slick automation. Cleans up their workflow. Gets really good at prompting.\n\nAnd they're still not making money.\n\nBecause the AI was layered on top of nothing. A vague service. A product nobody asked for. An idea that felt good but hadn't been tested.\n\nThe tool isn't the business. The tool is what you use once the business is real.\n\nChris Koerner has been saying this in different ways for years. Business model first. Offer has to work. Then you bring in the tools.\n\nMost people skip that part because AI makes everything feel possible. And it is possible. But possible and profitable aren't the same sentence.\n\nWhat's the actual thing you're selling?",
+        "$60K a month.\n\nThat's the number Koerner used in a recent episode title. Not \"six figures.\" Not \"scale your income.\" Sixty thousand dollars per month.\n\nThat's a choice. The specificity is intentional.\n\nBecause vague aspiration is everywhere. \"Build a business.\" \"Create passive income.\" \"Grow your audience.\" Every other post is doing that.\n\nThe people who actually help you do something are the ones who get granular. They name the thing. They give you the number. They explain why it works.\n\nAI has made it easier than ever to produce content that sounds valuable but says nothing. Generic advice. Repackaged frameworks. Beautifully formatted emptiness.\n\nThe counter-move is specificity. Real numbers. Real stories. Real failures.\n\nThat's what cuts through.\n\nIf you're creating content right now, or building a service, or trying to explain what you do, the question is: how specific can you actually get?\n\nNot \"I help businesses grow.\" What does that mean? What did you actually do?"
+      ],
+      "threads": [
+        "AI is coming for a lot of things. But it's not coming for the work that requires you to actually show up.\n\nPhysical stuff. Trust stuff. The kind of job where being a real human in the room is the whole point.\n\nThat category is getting more valuable, not less. Worth thinking about when you're figuring out what to build next.",
+        "Koerner titled an episode \"$60K/month side hustle AI will never replace\" and I had to stop and sit with that for a second.\n\nNot because it's surprising. Because it's a useful frame. Most of us are asking how do I use AI. Not enough of us are asking what am I building that has real staying power.\n\nBoth questions matter. Second one maybe more.",
+        "The AI tool isn't the business.\n\nI keep seeing people get really good at automation, really good at prompting, really good at building workflows. And still wondering why it's not clicking.\n\nThe tool is what you bring to something that already works.\n\nGet the offer right first. Then bring in the tools."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-06-08",
+    "source": "The Koerner Office",
+    "title": "The $60K/Month Side Hustle AI Will Never Replace",
+    "url": "https://www.youtube.com/watch?v=HcR7Wqgi4lU",
+    "video_id": "HcR7Wqgi4lU"
   }
 ]
