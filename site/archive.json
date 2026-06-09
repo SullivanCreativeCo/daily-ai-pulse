@@ -5388,5 +5388,143 @@
     "title": "The $60K/Month Side Hustle AI Will Never Replace",
     "url": "https://www.youtube.com/watch?v=HcR7Wqgi4lU",
     "video_id": "HcR7Wqgi4lU"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-06-09",
+    "headline": "Apple dropped five new foundation models built in direct collaboration with Google, and they're shipping as the backbone of a rebuilt Siri and Apple Intelligence. Two companies that spent years fighting over default search agreements just became co-architects of the privacy-first on-device AI stack, and that reframing matters more than the benchmark numbers.",
+    "url": "archive/2026-06-09.html",
+    "posts": {
+      "linkedin": [
+        "Most teams aren't AI native.\nThey're using AI the same way they used to copy-paste Google searches.\nThat's not the same thing.\n\nTheo Tabah broke down what it actually means on Greg Isenberg's podcast today. Three layers. That's it.\n\nPeople handle the bookends. Strategy, taste, judgment. The stuff that still needs a human attached to it.\n\nAgents handle the middle. Execution, research, output, QA. They run like a new hire once you give them a clear goal, the right skills, and enough context.\n\nContext is the brain. Folders of markdown files agents can read, write to, and pull from. Every client call, every decision, every lesson feeds back in. The company literally gets smarter over time.\n\nThe demo was wild. A full branded proposal microsite for a Spotify prospect, with personal details from past calls woven in, ready in under four minutes.\n\nSpeed isn't the product. The signal is.\n\nWhat are you already building that could become the context layer for your whole operation?",
+        "The head of Claude Code runs five AI sessions in his terminal at the same time.\nFive to ten more open in the browser.\nNot because he's a power user. Because that's the workflow now.\n\nBoris Cherny at Anthropic described it as air traffic control. You're not writing code anymore. You're directing agents that write code, QA code, and document code while you're already three steps ahead.\n\nThe mental shift is real. You stop being the one who does the work. You become the one who defines it, checks it, and ships it.\n\nSame business card. Different job.\n\nMost people I talk to are still treating AI like fancy autocomplete. The ones moving fastest are running parallel sessions like they've got a whole team behind them.\n\nYou don't need Boris's setup to start. You just need to stop doing one task at a time and start assigning them.\n\nWhat would you hand off to a new assistant on day one?\n\nThat's your starting point.",
+        "Apple and Google built AI models together.\nNot a partnership announcement. Actual co-built foundation models shipping in iOS this year.\n\nThat sentence should feel a little weird if you remember watching them fight over default search deals for the last decade.\n\nApple dropped five new foundation models today. Two run fully on-device, one at 20 billion parameters. No data leaves your phone. New Siri runs on it. Built from the ground up with Google.\n\nHere's what I keep thinking about: the two companies most committed to user privacy just decided co-building was worth more than staying competitors in the model race.\n\nThat's not just a technical decision. That's a market bet.\n\nIf the next wave of on-device AI is built around privacy as the actual product, not just the disclaimer at the bottom of a terms page, the competitive map shifts. OpenAI and Anthropic are fighting over API calls. Apple and Google just built the layer underneath.\n\nWhich version of AI wins when users start actually caring where their data goes?"
+      ],
+      "threads": [
+        "Being AI native isn't about which tools you use. It's about whether your company gets smarter over time.\n\nGreg Isenberg had Theo Tabah on today and the breakdown was clean: people own strategy, agents own execution, context is the brain that connects them.\n\nThe demo was a full branded proposal microsite for a prospect, built in four minutes, with personal details from past calls woven in.\n\nThat's not a faster way to do the old job. That's a different company.",
+        "Microsoft's internal doc for Scout listed the first phase goal as one word: addicted.\n\nSatya Nadella went public saying he didn't know what that meant.\n\nThe doc was written by the VP who also wrote the official launch blog post.\n\nI don't know what's wilder. That they wrote it down. Or that they thought the denial would close the story.",
+        "Everyone's asking what AI tools they should use.\n\nBetter question: what context have you given them?\n\nA model with rich context beats a better model with none. Your past calls, your decisions, your processes, your notes. Feed it in. That's the difference between a generic AI assistant and something that actually works for your specific situation.\n\nThe tools matter less than you think. The context is the whole game."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-06-09",
+    "source": "Startup Ideas Podcast",
+    "title": "Become AI Native in less than 60 mins",
+    "url": "https://www.youtube.com/watch?v=LztPaNmcWGU",
+    "video_id": "LztPaNmcWGU"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-09",
+    "topic": "model_releases",
+    "title": "Introducing the Third Generation of Apple\u2019s Foundation Models - Apple Machine Learning Research",
+    "url": "https://machinelearning.apple.com/research/introducing-third-generation-of-apple-foundation-models",
+    "snippet": "# Introducing the Third Generation of Apple\u2019s Foundation Models - Apple Machine Learning Research\n\nPublished: 2026-06-08T20:35:59+00:00\nSource: machinelearning.apple.com (machinelearning.apple.com)\nLanguage: en\n\n## Story\n\nIntroducing the Third Generation of Apple\u2019s Foundation Models - Apple Machine Learning Research\n\ncontent type Featured highlight\n\n# Introducing the Third Generation of Apple\u2019s Fo"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-09",
+    "topic": "model_releases",
+    "title": "NVIDIA Launches Cosmos 3 Open Model for Physical AI - ENGtechnica",
+    "url": "https://engtechnica.com/nvidia-launches-cosmos-3-open-model-for-physical-ai/",
+    "snippet": "NVIDIA Launches Cosmos 3 Open Model for Physical AI - ENGtechnica\n\nSearch\n\nHome 9 Computing 9 NVIDIA Launches Cosmos 3 Open Model for Physical AI\n\n# NVIDIA Launches Cosmos 3 Open Model for Physical AI\n\nby\n\n| Jun 8, 2026\n\nOpen world model combines vision reasoning, generation and action prediction for robots, AVs and vision systems\n\nCosmos 3. Image: NVIDIA\n\nTAIPEI, Taiwan (NVIDIA GTC), June 8, 2026"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-09",
+    "topic": "model_releases",
+    "title": "Xiaomi MiMo and TileRT Push a 1-Trillion-Parameter Model Past 1000 Tokens Per Second on Commodity GPUs - MarkTechPost",
+    "url": "https://www.marktechpost.com/2026/06/08/xiaomi-mimo-and-tilert-push-a-1-trillion-parameter-model-past-1000-tokens-per-second-on-commodity-gpus/",
+    "snippet": "Xiaomi MiMo and TileRT Push a 1-Trillion-Parameter Model Past 1000 Tokens Per Second on Commodity GPUs - MarkTechPost\n\nSearch\n\nPremium Content\n\nRead our exclusive articles\n\nFacebook\n\nInstagram\n\nX\n\nSearch\n\nHome Artificial Intelligence AI Infrastructure Xiaomi MiMo and TileRT Push a 1-Trillion-Parameter Model Past 1000 Tokens Per...\n\nInference speed is becoming a competitive metric for large languag"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-09",
+    "topic": "model_releases",
+    "title": "Unisound Releases U2: A Native Agentic Large Model Built for Execution, Capable of Autonomously Decomposing and Completing 100+ Steps in Complex Real-World Workflows",
+    "url": "https://www.prnewswire.com/news-releases/unisound-releases-u2-a-native-agentic-large-model-built-for-execution-capable-of-autonomously-decomposing-and-completing-100-steps-in-complex-real-world-workflows-302793573.html",
+    "snippet": "Unisound Releases U2: A Native Agentic Large Model Built for Execution, Capable of Autonomously Decomposing and Completing 100+ Steps in Complex Real-World Workflows Accessibility Statement Skip Navigation\n\nHONG KONG, June 8, 2026 /PRNewswire/ -- Just now, Unisound officially released U2, its new-generation general-purpose large language model.\n\nAs a native agentic large model built for individual"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-09",
+    "topic": "model_releases",
+    "title": "The School of AI, Bangalore, Demonstrates India\u2019s Frontier-Scale AI Capability with LightningLM, a 120-Billion-Parameter Language Model - GainFocus News",
+    "url": "https://news.gainfocuspr.com/the-school-of-ai-bangalore-demonstrates-indias-frontier-scale-ai-capability-with-lightninglm-a-120-billion-parameter-language-model",
+    "snippet": "The School of AI, Bangalore, Demonstrates India\u2019s Frontier-Scale AI Capability with LightningLM, a 120-Billion-Parameter Language Model - GainFocus News\n\nEnglish\n\n# The School of AI, Bangalore, Demonstrates India\u2019s Frontier-Scale AI Capability with LightningLM, a 120-Billion-Parameter Language Model\n\n## Bangalore (Karnataka) [India], June 8: The School of AI, Bangalore, has built and pre-trained L"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-09",
+    "topic": "product_releases",
+    "title": "GitHub Copilot app launches as desktop home for AI coding agents - Help Net Security",
+    "url": "https://www.helpnetsecurity.com/2026/06/08/github-copilot-app-ai-coding-agents/",
+    "snippet": "GitHub Copilot app launches as desktop home for AI coding agents - Help Net Security\n\nHelp Net Security newsletters: Daily and weekly news, cybersecurity jobs, open source projects, breaking news \u2013 subscribe here!\n\nPlease turn on your JavaScript for this page to function normally.\n\n# GitHub Copilot app launches as desktop home for AI coding agents\n\nGitHub introduced the Copilot app, a desktop appl"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-09",
+    "topic": "product_releases",
+    "title": "West Monroe Launches WestMonroe.ai, Making AI Agents for Business Strategy Publicly Available",
+    "url": "https://www.prnewswire.com/news-releases/west-monroe-launches-westmonroeai-making-ai-agents-for-business-strategy-publicly-available-302792268.html",
+    "snippet": "West Monroe Launches WestMonroe.ai, Making AI Agents for Business Strategy Publicly Available Accessibility Statement Skip Navigation\n\nOpen platform features on-demand AI agents powered by West Monroe's IP\u2014reimagining how leaders access strategy expertise and move faster from ideas to action\n\nCHICAGO, June 8, 2026 /PRNewswire/ -- West Monroe, an AI-native global consulting firm, today announced th"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-09",
+    "topic": "product_releases",
+    "title": "Fieldguide Launches Field Orchestrator, Marking the Next Phase of Agentic AI in Audit",
+    "url": "https://www.fieldguide.io/blog/fieldguide-launches-field-orchestrator-marking-the-next-phase-of-agentic-ai-in-audit?hs_amp=true",
+    "snippet": "Fieldguide Launches Field Orchestrator, Marking the Next Phase of Agentic AI in Audit\n\nBlog: Advisory and audit news and trends | Fieldguide\n\n# Fieldguide Launches Field Orchestrator, Marking the Next Phase of Agentic AI in Audit\n\nWritten by Amanda Waldmann| Jun 8, 2026 12:59:59 PM\n\nFieldguide Launches Field Orchestrator, Marking the Next Phase of Agentic AI in Audit\n\nField Orchestrator, alongside"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-09",
+    "topic": "product_releases",
+    "title": "The new Presti is an AI agent that takes on the whole visual production job",
+    "url": "https://www.interiordaily.com/article/9844943/the-new-presti-is-an-ai-agent-that-takes-on-the-whole-visual-production-job/",
+    "snippet": "The new Presti is an AI agent that takes on the whole visual production job\n\nSign up for our daily Newsletter and stay up to date with all the latest news!\n\nSubscribe I am already a subscriber\n\nYou are receiving this pop-up because this is the first time you are visiting our site. If you keep getting this message, please enable cookies in your browser.\n\n\u2715\n\nFreshPublishers\n\nOpen in the app\n\nBuilt a"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-09",
+    "topic": "x_posts",
+    "title": "Boris Cherny of Anthropic discusses Claude Code's flexible AI workflows",
+    "url": "https://cryptobriefing.com/anthropic-claude-code-flexible-ai-workflows/",
+    "snippet": "Boris Cherny of Anthropic discusses Claude Code's flexible AI workflows\n\nSEARCH\n\nSearching...\n\n# Boris Cherny of Anthropic discusses Claude Code\u2019s flexible AI workflows\n\nThe head of Claude Code runs dozens of simultaneous AI sessions and argues that giving developers freedom beats scripted processes every time.\n\nShare\n\nthis.removeAttribute('data-copied'), 2000);\" aria-label=\"Copy link\">\n\nAdd us on"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-09",
+    "topic": "x_posts",
+    "title": "OpenAI, the AI firm behind the popular chatbot ChatGPT ... - Facebook",
+    "url": "https://www.facebook.com/WIONews/posts/openai-the-ai-firm-behind-the-popular-chatbot-chatgpt-is-reportedly-planning-a-s/1362014492704388/",
+    "snippet": "WION - OpenAI, the AI firm behind the popular chatbot... | Facebook"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-09",
+    "topic": "x_posts",
+    "title": "MetaMask Launches AI Agent Wallet With Built-In Security Controls - Decrypt",
+    "url": "https://decrypt.co/370239/metamask-launches-ai-agent-wallet-security-controls?amp=1",
+    "snippet": "MetaMask Launches AI Agent Wallet With Built-In Security Controls - Decrypt\n\n# MetaMask Launches AI Agent Wallet With Built-In Security Controls\n\n## MetaMask's new self-custodial wallet is designed to let AI agents trade across DeFi while keeping users in control of funds and approvals.\n\n4 min read\n\nJun 8, 2026\n\nMetaMask has launched Agent Wallet, a self-custodial wallet designed to let AI agents "
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-09",
+    "topic": "x_posts",
+    "title": "Microsoft Scout 'Addictive' Plan: Nadella's Denial Backfires",
+    "url": "https://easternherald.com/2026/06/08/microsoft-scout-ai-addictive-nadella-denial-openclaw/",
+    "snippet": "Today Tuesday, June 09, 2026\n\n \n\nReporting the World\n\nDark\n\nLight\n\nContact us\n\n \n\nDark\n\nLight\n\n# Microsoft Wanted Users \u2018Addicted\u2019 to Scout. Satya Nadella Says He Has No Idea What That Means.\n\nA leaked internal document reveals Microsoft's plan to make Scout 'addictive' \u2014 and the CEO's denial only deepened the story.\n\nby Technology Desk\n\nJune 8, 2026\n\nMicrosoft Scout is the company's first Autopil"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-09",
+    "topic": "x_posts",
+    "title": "Meta testing Hatch AI assistant as AI race with OpenAI, Anthropic heats up: Report | Technology News - The Indian Express",
+    "url": "https://indianexpress.com/article/technology/tech-news-technology/meta-testing-hatch-ai-assistant-as-ai-race-with-openai-anthropic-heats-up-report-10729225/",
+    "snippet": "Meta testing Hatch AI assistant as AI race with OpenAI, Anthropic heats up: Report | Technology News - The Indian Express\n\nskip to content\n\n# Meta testing Hatch AI assistant as AI race with OpenAI, Anthropic heats up: Report\n\n## The move reflects CEO Mark Zuckerberg\u2019s broader push to make AI a central part of Meta\u2019s future business strategy.\n\nMeta is reportedly developing Hatch, an AI agent design"
   }
 ]
