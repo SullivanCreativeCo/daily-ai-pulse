@@ -5624,5 +5624,47 @@
     "title": "Robinhood Launches Agentic Trading, AI Credit Card",
     "url": "https://deadspin.com/prediction-markets/legal-news/agentic-trading-goes-live-on-robinhood/",
     "snippet": "Robinhood Launches Agentic Trading, AI Credit Card\n\n# Agentic Trading Goes Live on Robinhood\n\nPublished: Mon Jun 08 2026\n\nReviewed By Paul Skidmore\n\nKey Points\n\n- Agentic trading parameters are established by each Robinhood account holder.\n- Agentic AI can make purchases using your Robinhood Gold credit card.\n- AI agent accounts run separately from users\u2019 Robinhood portfolios.\n\nRobinhood CEO Vlad "
+  },
+  {
+    "kind": "digest",
+    "date": "2026-06-09",
+    "headline": "Grok V9 finishes training at 1.5 trillion parameters while the average large enterprise is burning $11.6 million a year on AI models with no visibility into how. The models are getting bigger and the bills are getting real, but the governance layer is nowhere.",
+    "url": "archive/2026-06-09.html",
+    "posts": {
+      "linkedin": [
+        "Grok V9 finished training at 1.5 trillion parameters. Public release mid-June.\n\nThree times bigger than the model running in production today.\n\nBut the parameter count isn't the thing to pay attention to.\n\nSame week, xAI shipped Grok Voice and Grok Imagine 1.5. Voice interaction, image generation, massive new model, all in one window.\n\nThat's not a product update. That's a platform play.\n\nIt stopped being \"who has the best chatbot\" a while back. Now it's \"whose layer do your tools sit on top of?\" OpenAI has the developer ecosystem. Google has the infrastructure. xAI has distribution through X and a user base that's already there all day.\n\nBuilders who nail down a platform bet early are going to have a very different experience than the ones still comparing benchmarks.\n\nThe platform decision is going to matter more than the model scores.",
+        "The average large enterprise is spending $11.6 million a year on AI models.\n\nUp from $4.5 million in 2024.\n\nSome Fortune 500s are clearing $100 million when you fold in cloud infrastructure.\n\nThe kicker: most of those organizations have zero centralized view of which model is being called, when, or at what cost. Every team grabbed their favorite tool and started firing.\n\nSedai launched today to fix that. They sit between your agents and your LLM providers and route intelligently across OpenAI, Anthropic, Vertex, Bedrock, whatever you're running.\n\nBut the bigger story isn't the tool.\n\nIt's that this problem exists at this scale. $11.6 million average spend. Zero governance. That's not a technology problem. That's a leadership problem.\n\nAt some point someone in the finance meeting is going to ask where all the AI money is going.\n\nRight now, the honest answer is: nobody really knows.",
+        "Talkspace just launched an AI agent that can identify suicide risk in real time and escalate to a licensed therapist.\n\nThat sentence stops you. Good.\n\n\"Tee\" isn't a chatbot with a therapy skin. It's a HIPAA-grade, clinically fine-tuned model that flags nine mental health risk categories with real human intervention baked in for the moments that actually need it.\n\nHere's the part that matters: millions of people are already having these conversations with general-purpose AI. Telling ChatGPT things they haven't told anyone else.\n\nTalkspace didn't try to stop that. They built the version of that tool that can actually be trusted in a crisis moment.\n\nThat's the playbook for the next wave of AI products. Not AI for everything. Specialized AI for high-stakes moments where a general answer isn't good enough.\n\nLegal, financial, medical, mental health. Every one of these verticals is going to have this moment.\n\nThe question isn't whether AI belongs there. Tee just answered that. The question is which vertical is next."
+      ],
+      "threads": [
+        "Grok V9 is 1.5 trillion parameters. Three times bigger than what's running in production today.\n\nAnd Musk dropped Voice and image gen in the same week. Not a coincidence.\n\nThe model race is basically a platform race now. Which AI OS does your stack sit on? That question is starting to matter more than the benchmark scores.",
+        "Average enterprise is spending $11.6 million a year on AI models now. Up from $4.5 million in 2024.\n\nMost of those organizations have zero centralized visibility into where any of it is going. Every team just picked a tool and went.\n\nThat conversation is coming. Finance is going to ask. And \"we'll figure it out\" isn't going to land.",
+        "Talkspace built an AI that can detect suicide risk in real time and hand off to a real therapist.\n\nMillions of people are already having these conversations with general-purpose AI. Tee is just the honest answer to that reality instead of pretending it isn't happening.\n\nSpecialized AI for the moments that actually matter. That's what the next wave actually looks like."
+      ]
+    }
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-09",
+    "topic": "model_releases",
+    "title": "Musk's Big AI Week: Grok V9 Finishes Training at 1.5 Trillion Parameters as Driverless Tesla",
+    "url": "http://www.techtimes.com/articles/318044/20260609/musks-big-ai-week-grok-v9-finishes-training-15-trillion-parameters-driverless-tesla.htm",
+    "snippet": "# Musk's Big AI Week: Grok V9 Finishes Training at 1.5 Trillion Parameters as Driverless Tesla\n\nAuthor: Jerry Owens  \n \n \n Published: Jun 09 2026, 09:14 AM EDT\nPublished: 2026-06-09T09:14:35-04:00\nSource: techtimes.com (techtimes.com)\nLanguage: en\n\n## Story\n\nMusk's Big AI Week: Grok V9 Finishes Training at 1.5 Trillion Parameters as Driverless Tesla\n\nElon Musk looks on during a news conference wit"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-09",
+    "topic": "product_releases",
+    "title": "Sedai Launches the First Autonomous Platform for AI Agent Optimization",
+    "url": "https://www.prnewswire.com/news-releases/sedai-launches-the-first-autonomous-platform-for-ai-agent-optimization-302792208.html",
+    "snippet": "# Sedai Launches the First Autonomous Platform for AI Agent Optimization\n\nAuthor: Sedai\nPublished: 2026-06-09T09:00:00-04:00\nSource: prnewswire.com (prnewswire.com)\nLanguage: en\n\n## Story\n\nSedai Launches the First Autonomous Platform for AI Agent Optimization Accessibility Statement Skip Navigation\n\nThe platform intelligently routes AI agents to models from OpenAI, Anthropic, VertexAI, Bedrock and"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-09",
+    "topic": "product_releases",
+    "title": "Talkspace Announces \u2018Tee,\u2019 the First Safe AI Agent Specifically Developed to Help Individuals Navigate Life\u2019s Daily Mental Health Challenges",
+    "url": "https://www.businesswire.com/news/home/20260609734252/en/Talkspace-Announces-Tee-the-First-Safe-AI-Agent-Specifically-Developed-to-Help-Individuals-Navigate-Lifes-Daily-Mental-Health-Challenges",
+    "snippet": "# Talkspace Announces \u2018Tee,\u2019 the First Safe AI Agent Specifically Developed to Help Individuals Navigate Life\u2019s Daily Mental Health Challenges\n\nPublished: 2026-06-09T12:30:00+00:00\nSource: businesswire.com (businesswire.com)\nLanguage: en\n\n## Story\n\nTalkspace Announces \u2018Tee,\u2019 the First Safe AI Agent Specifically Developed to Help Individuals Navigate Life\u2019s Daily Mental Health Challenges\n\nJun 9, 20"
   }
 ]
