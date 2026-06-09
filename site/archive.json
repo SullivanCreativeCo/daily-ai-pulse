@@ -5526,5 +5526,103 @@
     "title": "Meta testing Hatch AI assistant as AI race with OpenAI, Anthropic heats up: Report | Technology News - The Indian Express",
     "url": "https://indianexpress.com/article/technology/tech-news-technology/meta-testing-hatch-ai-assistant-as-ai-race-with-openai-anthropic-heats-up-report-10729225/",
     "snippet": "Meta testing Hatch AI assistant as AI race with OpenAI, Anthropic heats up: Report | Technology News - The Indian Express\n\nskip to content\n\n# Meta testing Hatch AI assistant as AI race with OpenAI, Anthropic heats up: Report\n\n## The move reflects CEO Mark Zuckerberg\u2019s broader push to make AI a central part of Meta\u2019s future business strategy.\n\nMeta is reportedly developing Hatch, an AI agent design"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-06-09",
+    "headline": "Apple rebuilt Siri from the ground up at WWDC 2026 and shipped it powered by Google Gemini. Not Apple Intelligence, not a proprietary model built in-house. Their biggest rival's stack. This isn't a product update. It's the clearest possible signal that the model layer is becoming infrastructure and the application layer is the game.",
+    "url": "archive/2026-06-09.html",
+    "posts": {
+      "linkedin": [
+        "Apple just shipped the new Siri. The engine running it is Google Gemini.\n\nNot Apple Intelligence. Not a proprietary model they spent years building in-house. Their biggest rival's model.\n\nThink about what that tells you.\n\nApple has more resources than almost any company on earth. A massive ML research team. The hardware advantage they've spent decades building. The privacy-first brand positioning they've staked their identity on. And they looked at all of that and decided the model layer wasn't where they were going to compete.\n\nThey built in the application layer instead.\n\nIf that's Apple's call, it's worth asking what it means for everyone else. The race was never about who built the best model. It was always about who built the best experience on top of one.\n\nThat's still wide open.\n\nWhat are you building on top of?",
+        "Your AI agent now has a brokerage account and a credit card.\n\nNot a concept. Not a pilot program. Live, this week.\n\nRobinhood launched agentic trading Monday. You create an isolated bot account, set your spending limits, connect your AI agent through their MCP server, and fund it. The agent gets its own credit card number. You get a live notification every time it makes a trade.\n\nMetaMask launched their AI Agent Wallet the same week. 200 early access spots. Trades across 25 blockchains, with simulations and threat scanning on every transaction.\n\nBoth of them on the same day.\n\nSix months ago this was whitepaper territory. Now it's something you can sign up for.\n\nThe guardrails are real and they matter. But the infrastructure being real changes the conversation.\n\nAgents aren't coming for finance. They're already in there, running trades.",
+        "There are two groups of AI users now. The gap between them is getting wider, not stabilizing.\n\nThe AI Daily Brief nailed the inflection point: late 2025, when coding tools stopped being just for engineers. Every knowledge worker could suddenly use code and custom apps to solve their own problems. That was the moment.\n\nThe people who caught it moved to agent loops. Running automated workflows, building bespoke tools, spending time on decisions instead of tasks.\n\nThe people who didn't catch it are still using chat the same way they were 18 months ago.\n\nOpenAI is reacting to this. The ChatGPT overhaul coming in the next few weeks is specifically designed to push casual users toward coding, agents, and integrations. The app is being redesigned around the gap.\n\nThe tools are changing to close the distance. The question is what you do before they get there."
+      ],
+      "threads": [
+        "Apple unveiled the new Siri at WWDC and it runs on Google Gemini.\n\nLet that sit for a second.\n\nThe company that made privacy their whole identity just built their most-used product on a competitor's model stack.\n\nModels are becoming infrastructure. What you build on top of them is still wide open.\n\nThat's a pretty big door.",
+        "NotebookLM just got a big update and the part I keep thinking about is this: it used to require you to bring your own sources. Now it finds them for you.\n\nYou show up with a loose idea. It builds the knowledge base.\n\nThat's a different kind of tool than what it was six months ago. If you do research, content, or strategy work, worth revisiting even if you bounced off it before.",
+        "Robinhood launched agentic trading this week. Your AI agent gets its own isolated account, its own spending limits, and its own credit card number.\n\nYou set the rules. The agent trades within them. You get notified on every move.\n\nYou connect through an MCP server and bring your own AI. They built the financial rails.\n\nWe spent two years talking about AI agents. Now one has a credit card. It's actually happening."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-06-09",
+    "source": "AI Daily Brief",
+    "title": "The Way We Use AI is Changing",
+    "url": "https://www.youtube.com/watch?v=RKpEI37RnfI",
+    "video_id": "RKpEI37RnfI"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-06-09",
+    "source": "The Entrepreneur's Studio",
+    "title": "The Psychology of Making Better Decisions | Mark Manson",
+    "url": "https://www.youtube.com/watch?v=cKzgvLRCJiw",
+    "video_id": "cKzgvLRCJiw"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-09",
+    "topic": "model_releases",
+    "title": "Unisound Releases U2: A Native Agentic Large Model Built for Execution, Capable of Autonomously Decomposing and Completing 100+ Steps in Complex Real-World Workflows",
+    "url": "https://www.prnewswire.com/news-releases/unisound-releases-u2-a-native-agentic-large-model-built-for-execution-capable-of-autonomously-decomposing-and-completing-100-steps-in-complex-real-world-workflows-302793560.html",
+    "snippet": "Unisound Releases U2: A Native Agentic Large Model Built for Execution, Capable of Autonomously Decomposing and Completing 100+ Steps in Complex Real-World Workflows Accessibility Statement Skip Navigation\n\nHONG KONG, June 7, 2026 /PRNewswire/ -- Just now, Unisound officially released U2, its new-generation general-purpose large language model.\n\nAs a native agentic large model built for individual"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-09",
+    "topic": "model_releases",
+    "title": "MiniMax M3 Makes 1M Context Viable With Sparse Attention | Awesome Agents",
+    "url": "https://awesomeagents.ai/news/minimax-m3-sparse-attention-1m-context/",
+    "snippet": "MiniMax M3 Makes 1M Context Viable With Sparse Attention | Awesome Agents\n\nMillion-token context windows have been available in AI APIs for the better part of a year. The problem was making them usable: standard attention scales quadratically with sequence length, so a 1M-token request costs roughly 100x more compute than a 10K request just from the attention operation alone. MiniMax M3, released "
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-09",
+    "topic": "product_releases",
+    "title": "Apple Launches Siri AI: The Assistant That (Finally) Means Business",
+    "url": "https://www.gadgetbridge.com/news/apple-launches-siri-ai-the-assistant-that-finally-means-business/",
+    "snippet": "Apple Launches Siri AI: The Assistant That (Finally) Means Business\n\nSearch\n\nHome Other Tech Apps Apple Launches Siri AI: The Assistant That (Finally) Means Business\n\n# Apple Launches Siri AI: The Assistant That (Finally) Means Business\n\nAfter years of delays and punchlines, Apple's Siri gets a complete rebuild with Gemini AI at its core and a brand-new dedicated app.\n\nUpdated Jun 9, 2026\n\n5 min r"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-09",
+    "topic": "product_releases",
+    "title": "NotebookLM's new update will help you build source repository from chat | TechCrunch",
+    "url": "https://techcrunch.com/2026/06/08/notebooklms-new-update-will-help-you-build-source-repository-from-chat/",
+    "snippet": "NotebookLM's new update will help you build source repository from chat | TechCrunch\n\nImage Credits:Google\n\n# NotebookLM\u2019s new update will help you build source repository from chat\n\n9:00 AM PDT \u00b7 June 8, 2026\n\nGoogle on Monday announced an update to its NotebookLM research tool, which includes new features and the shift to Gemini 3.5 as the default model. The company is also adding Antigravity-po"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-09",
+    "topic": "product_releases",
+    "title": "Do your best research with NotebookLM",
+    "url": "https://blog.google/innovation-and-ai/products/notebooklm/better-research-notebooklm/",
+    "snippet": "Do your best research with NotebookLM\n\n# Do better research with NotebookLM\n\nJun 08, 2026\n\nShare\n\nCopy link\n\nWe\u2019re introducing across the board upgrades to NotebookLM that deliver new agentic capabilities and more advanced reasoning to tackle complex research projects.\n\nTrond Wuellner\n\nDirector of Product Management, NotebookLM\n\nUsama Bin Shafqat\n\nSoftware Engineer, NotebookLM\n\nRead AI-generated s"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-09",
+    "topic": "x_posts",
+    "title": "MetaMask Pushes AI Into Crypto Trading With New Agent Wallet",
+    "url": "https://www.cryptotimes.io/2026/06/08/metamask-pushes-ai-into-crypto-trading-with-new-agent-wallet/",
+    "snippet": "Key Highlights\n\n- MetaMask launched an AI Agent Wallet in early access for about 200 users, letting AI help with crypto trading while users stay in control.\n- The wallet can trade across 25+ EVM chains and uses strict rules, safety checks, and modes like Guard Mode and Beast Mode to control AI actions.\n- Every transaction is protected with simulations, Blockaid security scanning, MEV protection, a"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-09",
+    "topic": "x_posts",
+    "title": "MetaMask launches AI agent wallet with built-in security for every crypto trade",
+    "url": "https://www.coindesk.com/tech/2026/06/08/metamask-launches-ai-agent-wallet-with-built-in-security-for-crypto-trades",
+    "snippet": "MetaMask launches AI agent wallet with built-in security for every crypto trade\n\nShare\n\nShare this article\n\n# MetaMask launches AI agent wallet with built-in security for crypto trades\n\n## The launch comes as AI agents increasingly emerge as participants in crypto markets, executing trades and managing capital on behalf of users.\n\nBy Margaux Nijkerk|Edited by Nikhilesh De\n\nJun 8, 2026, 1:00 p.m. 1"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-09",
+    "topic": "x_posts",
+    "title": "Robinhood Launches Agentic Trading, AI Credit Card",
+    "url": "https://deadspin.com/prediction-markets/legal-news/agentic-trading-goes-live-on-robinhood/",
+    "snippet": "Robinhood Launches Agentic Trading, AI Credit Card\n\n# Agentic Trading Goes Live on Robinhood\n\nPublished: Mon Jun 08 2026\n\nReviewed By Paul Skidmore\n\nKey Points\n\n- Agentic trading parameters are established by each Robinhood account holder.\n- Agentic AI can make purchases using your Robinhood Gold credit card.\n- AI agent accounts run separately from users\u2019 Robinhood portfolios.\n\nRobinhood CEO Vlad "
   }
 ]
