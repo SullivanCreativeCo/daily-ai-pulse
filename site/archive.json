@@ -5666,5 +5666,143 @@
     "title": "Talkspace Announces \u2018Tee,\u2019 the First Safe AI Agent Specifically Developed to Help Individuals Navigate Life\u2019s Daily Mental Health Challenges",
     "url": "https://www.businesswire.com/news/home/20260609734252/en/Talkspace-Announces-Tee-the-First-Safe-AI-Agent-Specifically-Developed-to-Help-Individuals-Navigate-Lifes-Daily-Mental-Health-Challenges",
     "snippet": "# Talkspace Announces \u2018Tee,\u2019 the First Safe AI Agent Specifically Developed to Help Individuals Navigate Life\u2019s Daily Mental Health Challenges\n\nPublished: 2026-06-09T12:30:00+00:00\nSource: businesswire.com (businesswire.com)\nLanguage: en\n\n## Story\n\nTalkspace Announces \u2018Tee,\u2019 the First Safe AI Agent Specifically Developed to Help Individuals Navigate Life\u2019s Daily Mental Health Challenges\n\nJun 9, 20"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-06-10",
+    "headline": "Anthropic made Claude Fable 5 public today and the early-access reactions aren't subtle: Ethan Mollick handed it a 15-page design doc, walked away, and came back 9 hours later to working software. The framing question for builders isn't \"is this a better model?\" It's \"what do you do with a collaborator that doesn't need check-ins?\" Free on existing subscriptions through June 22, then usage credits kick in.",
+    "url": "archive/2026-06-10.html",
+    "posts": {
+      "linkedin": [
+        "Someone handed AI a 15-page document and walked away.\n\n9 hours later it came back with working software.\n\nNot a suggestion. Not a draft. Working software.\n\nThat's what Ethan Mollick reported after getting early access to Claude Fable. He described working with it as \"weird.\" I think the weird part isn't the capability. It's realizing the mental model you've been using is already outdated.\n\nWe've been thinking about AI as a tool that speeds up what we do. Fable is starting to look like something different. Something that does the work while you're doing other work.\n\nThe shift isn't \"do I use AI?\" It's \"what do I hand off, and what do I keep?\"\n\nMost people haven't figured out that second question yet. Including me, honestly. I'm still working it out.\n\nWhat's the thing you keep doing yourself that you'd hand off right now if you trusted AI to handle it?",
+        "40% of home buyers speak a language other than English at home.\n\nIn Dallas, New York, LA, Miami? That number is over 50%.\n\nEvery realtor in those markets knows this. Not a single one of them has a clean solution for it.\n\nThat gap is a business.\n\nChris Koerner broke down exactly how to build it. Clone a realtor's voice using Fish Audio. Generate their standard voicemail scripts in Spanish, Vietnamese, Mandarin, Portuguese. Same voice. Same intonation. Charge $200 to $500 a month to maintain and expand it.\n\nThe real insight isn't the tool. The tool is almost secondary. The insight is the pattern.\n\nFind a professional who knows they have a problem. Find the AI that solves it. Be the person who connects those two things.\n\n5 realtors at $300 a month is $1,500. That's $18k a year for a service you built in an afternoon.\n\nWould someone pay for this? I think someone would pay for this.",
+        "Google dropped real-time speech-to-speech translation yesterday.\n\nKrisp opened their enterprise voice translation API to any developer.\n\nAnd Chris Koerner published a step-by-step guide for cloning voices into 80 languages for local businesses.\n\nAll on the same day.\n\nThe language barrier for small business is collapsing. Not gradually. This week.\n\nFor a long time the answer to \"how do we serve multilingual customers\" was \"hire staff who speak the language.\" That answer is getting more complicated fast.\n\nThe new question is which layer you build at. Platform level like Gemini. App level like Krisp. Or service level: figure it out yourself for $50 a month in tools and charge $300 a month to clients who don't have time to figure it out themselves.\n\nI don't know which layer wins long term. I know which one you can start this week.\n\nWhich of your customers is currently underserved because of a language gap?"
+      ],
+      "threads": [
+        "Claude Fable ran autonomously for 9 hours on a 15-page design doc and came back with working software.\n\nEthan Mollick called it \"genuinely a jump in capability.\" He also said working with it is weird.\n\nThe weird part isn't the power. It's that it changes what your job actually means.\n\nWhat do you keep doing yourself? What do you hand off? That's the real question right now.",
+        "40% of home buyers speak a language other than English. In Miami and LA it's over 50%.\n\nClone a realtor's voice. Generate their voicemail scripts in Spanish, Mandarin, Vietnamese. Same voice, same tone. Charge $200 to $500 a month.\n\nThat's a service business you can build this week with a $50 tool subscription.\n\nThe tool is almost the easy part. Finding the gap is the skill.",
+        "Nextdoor's engineers call it \"outcome engineering.\" Stop writing instructions. Start writing the result you want.\n\nThat sounds obvious. It genuinely isn't. Most people are still describing every step.\n\nI've been doing it wrong for longer than I'd like to admit.\n\nTry it once. Write the outcome. Get out of the way. See what comes back."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-06-10",
+    "source": "The Koerner Office",
+    "title": "The Laziest AI Side Hustle You Can Start in 2026",
+    "url": "https://www.youtube.com/watch?v=trdHxY1UMF0",
+    "video_id": "trdHxY1UMF0"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-06-10",
+    "source": "Startup Ideas Podcast",
+    "title": "WTF Is an \"AI Agent Loop\"? Genius or Hype?",
+    "url": "https://www.youtube.com/watch?v=7clJ8IH784Q",
+    "video_id": "7clJ8IH784Q"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-10",
+    "topic": "model_releases",
+    "title": "Gemini 3.5 Live Translate is here",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-live-3-5-translate/",
+    "snippet": "Gemini 3.5 Live Translate is here\n\n# Fluid, natural voice translation with Gemini 3.5 Live Translate\n\nJun 09, 2026\n\nShare\n\nCopy link\n\nGemini 3.5 Live Translate is our latest audio model, delivering near real-time speech-to-speech translation in over 70 languages.\n\nAnuda Weerasinghe\n\nProduct Manager\n\nTony Lu\n\nSenior Staff Software Engineer\n\nShare\n\nCopy link\n\nYour browser does not support the audio "
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-10",
+    "topic": "model_releases",
+    "title": "Anthropic's Claude Fable 5 is a version of Mythos the public can access today | TechCrunch",
+    "url": "https://techcrunch.com/2026/06/09/anthropic-released-claude-fable-5-its-most-powerful-model-publicly-days-after-warning-ai-is-getting-too-dangerous/",
+    "snippet": "Anthropic's Claude Fable 5 is a version of Mythos the public can access today | TechCrunch\n\nImage Credits:Getty Images\n\n# Anthropic\u2019s Claude Fable 5 is a version of Mythos the public can access today\n\n10:00 AM PDT \u00b7 June 9, 2026\n\nAnthropic is bringing its most powerful AI model to the general public for the first time, but it\u2019s doing it with guardrails.\n\nOn Tuesday, the AI firm launched Claude Fab"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-10",
+    "topic": "model_releases",
+    "title": "NVIDIA's Cosmos 3: The World's First Fully Open AI Omnimodel | AI Magazine",
+    "url": "https://aimagazine.com/news/nvidias-cosmos-3-the-worlds-first-fully-open-ai-omnimodel",
+    "snippet": "NVIDIA's Cosmos 3: The World's First Fully Open AI Omnimodel | AI Magazine\n\nArticle\n\nRobotics\n\n# NVIDIA's Cosmos 3: The World's First Fully Open AI Omnimodel\n\nJune 09, 2026\n\nundefined mins\n\nShare this article\n\nPrioritise Us on Google\n\nShare this article\n\nPrioritise Us on Google\n\nJensen Huang, CEO of NVIDIA, at GTC 2026 (Credit: NVIDIA)\n\nNVIDIA has unveiled a new physical AI agent that can help res"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-10",
+    "topic": "model_releases",
+    "title": "Google's Gemini 3.5 Live Translate enables realistic translation at the speed of natural conversations - SiliconANGLE",
+    "url": "https://siliconangle.com/2026/06/09/googles-gemini-3-5-live-translate-enables-realistic-real-time-translation-speed-natural-conversations/",
+    "snippet": "Google's Gemini 3.5 Live Translate enables realistic translation at the speed of natural conversations - SiliconANGLE\n\nSHARE\n\nUPDATED 21:23 EDT / JUNE 09 2026\n\nAI\n\n### Google\u2019s Gemini 3.5 Live Translate enables realistic translation at the speed of natural conversations\n\nSHARE\n\nGoogle LLC\u2019s newest artificial intelligence tool promises to bring real-time translation to every smartphone user, enabli"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-10",
+    "topic": "model_releases",
+    "title": "UniSound Releases Token-Efficient U2 Foundation Model | Let's Data Science",
+    "url": "https://letsdatascience.com/news/unisound-releases-token-efficient-u2-foundation-model-c1c9d43d",
+    "snippet": "UniSound Releases Token-Efficient U2 Foundation Model | Let's Data Science\n\nFeedback\n\nPhoto: cms-image.pandaily.com\u00b7 rights & takedowns\n\nQuick SummaryHide\n\nPer a company announcement on the Hong Kong Stock Exchange and related press releases, UniSound officially released U2 on June 8, 2026. The HKEX voluntary announcement states U2 uses a Mixture of Experts (MoE) architecture with 266 billion para"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-10",
+    "topic": "product_releases",
+    "title": "Krisp Launches Voice Translation v3, Opens Enterprise-Grade Translation to Developers -\nLas Vegas Sun News",
+    "url": "https://lasvegassun.com/news/2026/jun/09/krisp-launches-voice-translation-v3-opens-enterpri/",
+    "snippet": "Krisp Launches Voice Translation v3, Opens Enterprise-Grade Translation to Developers - Las Vegas Sun News\n\n# Krisp Launches Voice Translation v3, Opens Enterprise-Grade Translation to Developers\n\nPublished Tuesday, June 9, 2026 | 5:55 a.m.\n\nUpdated 4 hours, 17 minutes ago\n\nBERKELEY, Calif.--(BUSINESS WIRE)--Jun 9, 2026--\n\nKrisp, the leader in real-time voice AI technology, today announced Voice T"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-10",
+    "topic": "product_releases",
+    "title": "Datadog launches 100 AI tools for operations & security",
+    "url": "https://itbrief.asia/story/datadog-launches-100-ai-tools-for-operations-security",
+    "snippet": "Datadog launches 100 AI tools for operations & security\n\nIT Brief Asia - Technology news for CIOs & IT decision-makers\n\n# Datadog launches 100 AI tools for operations & security\n\nWed, 10th Jun 2026 (Today)\n\nDatadog has launched more than 100 new products and features focused on AI operations, security and software development. The rollout was announced at the company's DASH event in New York.\n\nThe"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-10",
+    "topic": "product_releases",
+    "title": "Apple Introduces AI-Powered Siri That Knows Your Life: New Features Will Blow Your Mind",
+    "url": "https://www.newsx.com/tech-and-auto/apple-introduces-ai-powered-siri-that-knows-your-life-new-features-will-blow-your-mind-232632/",
+    "snippet": "# Apple Introduces AI-Powered Siri That Knows Your Life: New Features Will Blow Your Mind\n\nAuthor: Syed Ziyauddin\nPublished: 2026-06-10T15:39:21+05:30\nSource: newsx.com (newsx.com)\nLanguage: en\n\n## Story\n\nApple Introduces AI-Powered Siri That Knows Your Life: New Features Will Blow Your Mind\n\nSearch\n\nSearch\n\nTRENDING |\n\nTRENDING |\n\nSearch\n\nHome> Tech and Auto News> Apple Introduces AI-Powered Siri"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-10",
+    "topic": "x_posts",
+    "title": "Victor Taelin, Higher Order Company founder, says AI agent Fable achieved a 17.7x speedup on his HVM5 evaluator benchmark \u00b7 Digg",
+    "url": "https://digg.com/ai/s4x6qo20",
+    "snippet": "Victor Taelin, Higher Order Company founder, says AI agent Fable achieved a 17.7x speedup on his HVM5 evaluator benchmark \u00b7 Digg\n\n/AI14h ago\n\n# Victor Taelin, Higher Order Company founder, says AI agent Fable achieved a 17.7x speedup on his HVM5 evaluator benchmark\n\n## Story Overview\n\nVictor Taelin shared that the Fable AI coding agent reworked his HVM5 interaction-net evaluator in roughly two hou"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-10",
+    "topic": "x_posts",
+    "title": "Ethan Mollick says Anthropic's Claude Fable model ran autonomously for nine hours to process a 15-page project design document \u00b7 Digg",
+    "url": "https://digg.com/ai/lolzbxr1",
+    "snippet": "Ethan Mollick says Anthropic's Claude Fable model ran autonomously for nine hours to process a 15-page project design document \u00b7 Digg\n\n/AI16h ago\n\n# Ethan Mollick says Anthropic's Claude Fable model ran autonomously for nine hours to process a 15-page project design document\n\n## Story Overview\n\nEthan Mollick's early test of Anthropic's Mythos-class model shows it tackling a roughly 19-page design "
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-10",
+    "topic": "x_posts",
+    "title": "Pseudonymous account Strawberry Man posts a speculative, no-detail teaser claiming a new model will launch Thursday to rival Anthropic's Claude Fable \u00b7 Digg",
+    "url": "https://digg.com/ai/hj1e65q5",
+    "snippet": "# Pseudonymous account Strawberry Man posts a speculative, no-detail teaser claiming a new model will launch Thursday to rival Anthropic's Claude Fable \u00b7 Digg\n\nPublished: 2026-06-10T10:40:09+00:00\nSource: digg.com (digg.com)\nLanguage: en\n\n## Story\n\nPseudonymous account Strawberry Man posts a speculative, no-detail teaser claiming a new model will launch Thursday to rival Anthropic's Claude Fable \u00b7"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-10",
+    "topic": "x_posts",
+    "title": "New in Claude Managed Agents: run agents on a schedule and store environment variables in vaults | Claude",
+    "url": "https://claude.com/blog/whats-new-in-claude-managed-agents",
+    "snippet": "New in Claude Managed Agents: run agents on a schedule and store environment variables in vaults | Claude\n\nExplore here\n\n# New in Claude Managed Agents: run agents on a schedule and store environment variables in vaults\n\nCategory\n\nProduct\n\nClaude Platform\n\nDate\n\nJune 9, 2026\n\nReading time\n\n5\n\nmin\n\nShare\n\nCopy link\n\nhttps://claude.com/blog/whats-new-in-claude-managed-agents\n\nStarting today, Claude "
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-10",
+    "topic": "x_posts",
+    "title": "Nextdoor's Codex Pitch: What OpenAI's Customer Story Actually Tells Us About AI Coding Agents | LavX News | LavX News",
+    "url": "https://news.lavx.hu/article/nextdoor-s-codex-pitch-what-openai-s-customer-story-actually-tells-us-about-ai-coding-agents",
+    "snippet": "Nextdoor's Codex Pitch: What OpenAI's Customer Story Actually Tells Us About AI Coding Agents | LavX News | LavX News\n\n#Dev\n\n# Nextdoor's Codex Pitch: What OpenAI's Customer Story Actually Tells Us About AI Coding Agents\n\nJune 10, 2026 at 06:17 AM\u2022\n\nAI & ML Reporter\n\n\u20225 min read\n\nShare this article\n\nSave\n\nOpenAI published a customer story claiming Nextdoor engineers can't imagine working without C"
   }
 ]
