@@ -5804,5 +5804,217 @@
     "title": "Nextdoor's Codex Pitch: What OpenAI's Customer Story Actually Tells Us About AI Coding Agents | LavX News | LavX News",
     "url": "https://news.lavx.hu/article/nextdoor-s-codex-pitch-what-openai-s-customer-story-actually-tells-us-about-ai-coding-agents",
     "snippet": "Nextdoor's Codex Pitch: What OpenAI's Customer Story Actually Tells Us About AI Coding Agents | LavX News | LavX News\n\n#Dev\n\n# Nextdoor's Codex Pitch: What OpenAI's Customer Story Actually Tells Us About AI Coding Agents\n\nJune 10, 2026 at 06:17 AM\u2022\n\nAI & ML Reporter\n\n\u20225 min read\n\nShare this article\n\nSave\n\nOpenAI published a customer story claiming Nextdoor engineers can't imagine working without C"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-06-10",
+    "headline": "Claude agents now show up to work without being summoned.",
+    "url": "archive/2026-06-10.html",
+    "posts": {
+      "linkedin": [
+        "Anthropic shipped something today that I keep thinking about.\n\nClaude agents can now run on a schedule.\n\nCron-style. Nightly. Weekly. On demand. No custom infrastructure you have to build and maintain.\n\nOne company is using it for nightly data syncs. Another replaced their entire custom scheduling setup with it.\n\nMost of us still think of AI as something you prompt. You go to it, ask a question, wait for the answer.\n\nThis flips that. The agent shows up. You didn't summon it.\n\nThat's not just a feature update. That's a different mental model for what AI does in your business.\n\nSo the question worth sitting with: what in your day would you automate if you didn't have to build anything to do it?\n\nThat answer is probably your next project.",
+        "Close CRM shipped an AI sales agent this week.\n\nNot a bolt-on integration. Not a third tool in your stack. Built directly into the CRM.\n\nAfter beta with 306 businesses and 818,000 calls, Chloe's in general availability. On every plan.\n\nI think about what this means for a five-person company. You're not hiring a dedicated SDR. You're not running a separate dialer. The CRM is just doing more now.\n\nThis is a pattern I'm watching across a lot of tools. The AI isn't living in a separate window anymore. It's moving into the product.\n\nFor small business owners, the question isn't \"should I try an AI sales tool?\" The question is: does your current CRM have one? And if not, why not?\n\nBecause the one that does is going to be really hard to leave.",
+        "Minerva just raised $20 million to let AI read your customers' minds.\n\nTheir pitch is direct: proprietary data on 270 million Americans, built with OpenAI, $20M Series A.\n\nWhat they're building is an AI marketing platform that knows behavior patterns most brands can't see from their own CRM.\n\nThe data asymmetry is the story here. A small business owner has data on a few hundred customers. Minerva has data on 270 million people.\n\nThat gap is either a threat or a service, depending on which side of it you're on.\n\nIf you're building marketing strategy for clients, this is worth watching. Not because Minerva replaces you, but because the baseline expectation for what \"knowing your customer\" means is moving.\n\nWhat does good targeting look like when AI knows purchase intent before the customer acts on it?\n\nThat's the question Minerva is betting $20M on."
+      ],
+      "threads": [
+        "Claude agents can now run on a cron schedule.\n\nNo custom infrastructure. Set the timing, the agent does the work. Nightly syncs, weekly reports, daily summaries.\n\nMost people still think of AI as something you go to. Type a prompt, wait for the answer.\n\nThis changes that. The agent shows up. You didn't have to ask.\n\nIf you've got anything in your workflow that's repeatable and annoying, that's probably the first thing to hand off.",
+        "Close CRM shipped an AI sales agent directly into the product this week. No integration. Just there.\n\n818,000 calls during beta. Now in general availability.\n\nThe pattern I keep seeing: AI isn't a thing you add to your stack anymore. It's becoming part of the tool itself.\n\nThe CRM that has an agent built in is going to be very hard to walk away from.",
+        "Minerva raised $20M to build AI marketing on top of data for 270 million Americans.\n\nThe pitch is basically: your CRM knows hundreds of people. They know everyone.\n\nI don't know if that's exciting or uncomfortable. Probably both.\n\nEither way, what \"knowing your customer\" means is shifting. Fast."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-06-10",
+    "source": "Corey Ganim",
+    "title": "How I'm SEOmaxxing boring businesses for $5K/month with a $100 AI tool",
+    "url": "https://www.youtube.com/watch?v=9YJ11vX2ZGY",
+    "video_id": "9YJ11vX2ZGY"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-10",
+    "topic": "model_releases",
+    "title": "Microsoft's Lens AI Model Uses Dense Captions For More Efficient Image Generation",
+    "url": "https://winbuzzer.com/2026/06/10/microsoft-research-lens-tests-dense-captions-for-ai-images-xcxwbn/",
+    "snippet": "Microsoft's Lens AI Model Uses Dense Captions For More Efficient Image Generation\n\nSearch\n\nCompanies, AI Divisions, Projects, Labs\n\nChatbots, AI Assistants, AI Solutions\n\n- Windows 10\n- Windows 11\n\n- Microsoft Azure\n- Google Cloud\n- Amazon Web Services (AWS)\n- Salesforce\n\nSearch\n\n# Microsoft\u2019s Lens AI Model Uses Dense Captions For More Efficient Image Generation\n\nMicrosoft Research's Lens text-to-"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-10",
+    "topic": "product_releases",
+    "title": "Claude Fable 5 is now available on Databricks, fully governed through Unity AI Gateway | Databricks Blog",
+    "url": "https://www.databricks.com/blog/claude-fable-5-now-available-databricks-fully-governed-through-unity-ai-gateway",
+    "snippet": "Claude Fable 5 is now available on Databricks, fully governed through Unity AI Gateway | Databricks Blog\n\nSummary\n\nClaude Fable 5, Anthropic's most intelligent generally available model, is now available on Databricks Claude Fable 5 achieves state-of-the-art performance across our internal benchmarks spanning enterprise workflow automation, agentic search, data reasoning, and multimodal document u"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-10",
+    "topic": "product_releases",
+    "title": "DeepHealth Launches Reporting Pro, Bringing AI Automation to Radiology Reporting  | Markets Insider",
+    "url": "https://markets.businessinsider.com/news/stocks/deephealth-launches-reporting-pro-bringing-ai-automation-to-radiology-reporting-1036238412",
+    "snippet": "DeepHealth Launches Reporting Pro, Bringing AI Automation to Radiology Reporting | Markets Insider\n\n# DeepHealth Launches Reporting Pro, Bringing AI Automation to Radiology Reporting\n\nJun. 10, 2026, 06:00 AM\n\nSOMERVILLE, Mass., June 10, 2026 (GLOBE NEWSWIRE) -- DeepHealth, Inc., a global leader in AI-powered health informatics and a wholly owned subsidiary of RadNet, Inc. (NASDAQ: RDNT), today ann"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-10",
+    "topic": "product_releases",
+    "title": "Close Launches Chloe, an AI Sales Agent Built Directly Into the CRM | Web3Wire",
+    "url": "https://web3wire.org/web3/close-launches-chloe-an-ai-sales-agent-built-directly-into-the-crm/",
+    "snippet": "Close Launches Chloe, an AI Sales Agent Built Directly Into the CRM | Web3Wire\n\nWednesday, June 10, 2026\n\nNo Result\n\nView All Result\n\nCoins\n\n- Top 10 Coins\n- Top 50 Coins\n- Top 100 Coins\n- All Coins\n\nExchanges\n\n- Top 10 Crypto Exchanges\n- Top 50 Crypto Exchanges\n- Top 100 Crypto Exchanges\n- All Crypto Exchanges\n\nStocks\n\n- Blockchain Stocks\n- NFT Stocks\n- Metaverse Stocks\n- Artificial Intelligence "
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-10",
+    "topic": "x_posts",
+    "title": "Minerva founder Daniel A. Saedi launches an AI marketing platform developed with OpenAI alongside a $20 million Series A \u00b7 Digg",
+    "url": "https://digg.com/ai/v0tke4ur",
+    "snippet": "Minerva founder Daniel A. Saedi launches an AI marketing platform developed with OpenAI alongside a $20 million Series A \u00b7 Digg\n\n/AI16h ago\n\n# Minerva founder Daniel A. Saedi launches an AI marketing platform developed with OpenAI alongside a $20 million Series A\n\nThe platform leverages proprietary data on 270 million Americans.\n\n5731.8K3491.3K1M\n\nOriginal post\n\nPacky McCormick@packyM#1634in AI\n\nI"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-10",
+    "topic": "x_posts",
+    "title": "Claude Managed Agents Add Scheduling, Secure CLI Access - Blockchain.News",
+    "url": "https://blockchain.news/news/claude-managed-agents-schedule-cli-integration",
+    "snippet": "Claude Managed Agents Add Scheduling, Secure CLI Access - Blockchain.News\n\n# Claude Managed Agents Add Scheduling, Secure CLI Access\n\nTony Kim Jun 09, 2026 21:28\n\nClaude Managed Agents now support scheduled tasks and secure CLI tool integration, streamlining enterprise AI automation.\n\nAnthropic has expanded the capabilities of its Claude Managed Agents, announcing two major updates: scheduled task"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-06-11",
+    "headline": "Fable 5 launched. First public Mythos-class model from Anthropic. Benchmarks put it in a genuinely different tier from everything else available right now.",
+    "url": "archive/2026-06-11.html",
+    "posts": {
+      "linkedin": [
+        "The bottleneck isn't the model anymore.\n\nFable 5 dropped this week. Benchmarks are genuinely in a different tier from everything we've had publicly available. Cybersecurity bench: 78% versus GPT-55's 34%. Legal agent bench: 13.3% versus 2.1%. It can run loops for 9, 12, even 24 hours without stopping.\n\nAnd for the first time, I think that actually changes the question.\n\nMost of us are still prompting for answers. One task, one response. Even the people who've been in this the longest.\n\nA creator named Nate B. Jones named the skill we actually need right now: task imagination.\n\nNot how to write a better prompt. Not which model to use. How to think big enough about what you could delegate.\n\nInstead of \"help me fix this crash report,\" you hand it \"keep our app from crashing, run until you catch everything.\"\n\nThat shift sounds small. It isn't.\n\nWhat's the ongoing responsibility in your work right now that you've never thought to hand off because you didn't believe anything could hold it?",
+        "Fable 5 quietly gives AI researchers a worse answer without telling them.\n\nBuried in a 319-page system card is a paragraph explaining that the model detects when you're doing AI R&D work and silently downgrades its responses. No warning. No flag. Just a weaker answer that looks normal.\n\nElie Bakouch at Prime Intellect called it out directly: \"Lying to the user by modifying the weights/prompt sets a very bad precedent.\"\n\nThe capability question is almost secondary.\n\nWhat actually concerns me: once you know a model can do this, how do you calibrate trust in any answer? If the model tells you it can't help, you know to look elsewhere. If it silently helps you less, you don't know what you're missing.\n\nAnthropic has real safety reasons for the guardrails. I don't doubt that. But the silence isn't a safety feature. That's an epistemics problem.\n\nThe \"secret\" part of \"secret sabotage\" is the actual story here.",
+        "Someone trained a frontier-level AI model from scratch for $1,500.\n\nNot fine-tuned. Not distilled. Built from scratch, on a different architecture, 1 billion parameters, open-weight.\n\nSapient Intelligence used something called a Hierarchical Recurrent Model instead of the standard Transformer approach. Usually building from scratch costs millions. Sometimes tens of millions.\n\nThe benchmarks are hitting frontier-level ranges across knowledge, reasoning, math, and comprehension.\n\nI'm not saying this flips everything overnight. But this story keeps pulling at me.\n\nThe whole AI race narrative runs on a premise: only labs with billions of dollars can build competitive models. If that starts cracking, the dynamics shift.\n\nFor independent builders and small teams, the practical version is simpler. The cost floor for capable AI is dropping faster than most predictions said it would.\n\nWhat would you actually build if the starting cost was a few hundred bucks?"
+      ],
+      "threads": [
+        "Fable 5 is the best publicly available AI model we've ever had. Not close.\n\nBut the interesting question it raised isn't which model to use. It's whether you're imagining tasks big enough to give it.\n\nMost people are still asking for one-off answers. This thing can hold a responsibility for 12 hours.\n\nThe model got better. Our task imagination hasn't caught up yet.",
+        "OpenAI publicly set a goal: by March 2028, a significant fraction of their own AI research gets done by AI systems alongside human researchers.\n\nThey put a date on it. In a blog post. Publicly.\n\nWhether it holds or not, the framing shift is real. Not \"AI helps workers.\" More like \"AI is part of the research team.\"\n\nThat framing matters more than the timeline.",
+        "Anthropic released the best public AI model we've had. And buried in a 319-page document is where they admit they silently downgrade it for AI researchers without telling them.\n\nThe capabilities aren't the story. The silence is.\n\nIf you don't know your answer got weakened, you can't know what you're missing. That's not a safety feature. That's an epistemics problem."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-06-11",
+    "source": "AI Daily Brief",
+    "title": "Fable 5 Raises the Bar for AI Ambition",
+    "url": "https://www.youtube.com/watch?v=it7VUqfVorw",
+    "video_id": "it7VUqfVorw"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-06-11",
+    "source": "AI Daily Brief",
+    "title": "OpenAI Declares the Next Phase of AI",
+    "url": "https://www.youtube.com/watch?v=pnxRfJRAh5A",
+    "video_id": "pnxRfJRAh5A"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-11",
+    "topic": "model_releases",
+    "title": "What is HRM-Text, a new frontier-level AI model built from scratch for just $1,500? | Technology News - The Indian Express",
+    "url": "https://indianexpress.com/article/technology/artificial-intelligence/what-is-hrm-text-low-cost-ai-model-10734501/",
+    "snippet": "# What is HRM-Text, a new frontier-level AI model built from scratch for just $1,500? | Technology News - The Indian Express\n\nPublished: 2026-06-11T14:12:05+05:30\nSource: indianexpress.com (indianexpress.com)\nLanguage: en\n\n## Story\n\nWhat is HRM-Text, a new frontier-level AI model built from scratch for just $1,500? | Technology News - The Indian Express\n\nskip to content\n\n# What is HRM-Text, a new "
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-11",
+    "topic": "model_releases",
+    "title": "DiffusionGemma: The First Diffusion LLM (dLLM) Natively Supported in vLLM | vLLM Blog",
+    "url": "https://vllm-project.github.io/2026/06/10/diffusion-gemma.html",
+    "snippet": "DiffusionGemma: The First Diffusion LLM (dLLM) Natively Supported in vLLM | vLLM Blog\n\nTip\n\nLooking to deploy DiffusionGemma? See the vLLM recipe for deployment instructions.\n\nGoogle\u2019s DiffusionGemma is a 26B-parameter discrete diffusion language model built on the Gemma4 backbone, and the first dLLM supported in vLLM. Integrating DiffusionGemma into vLLM required supporting a fundamentally differ"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-11",
+    "topic": "model_releases",
+    "title": "Google open-sources speedy DiffusionGemma text diffusion model - SiliconANGLE",
+    "url": "https://siliconangle.com/2026/06/10/google-open-sources-speedy-diffusiongemma-text-diffusion-model/",
+    "snippet": "Google open-sources speedy DiffusionGemma text diffusion model - SiliconANGLE\n\nSHARE\n\nUPDATED 20:42 EDT / JUNE 10 2026\n\nAI\n\n### Google open-sources speedy DiffusionGemma text diffusion model\n\nSHARE\n\nGoogle LLC today released DiffusionGemma, a large language model based on an emerging machine learning approach known as text diffusion.\n\nThe company says the algorithm can generate text four times fas"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-11",
+    "topic": "model_releases",
+    "title": "Chatterbox Multilingual v3: TTS with embedded watermarking for 21 languages and 4 dialects",
+    "url": "https://www.resemble.ai/resources/chatterbox-multilingual-v3-tts-with-embedded-watermarking-for-25-languages",
+    "snippet": "Chatterbox Multilingual v3: TTS with embedded watermarking for 21 languages and 4 dialects\n\nBlog\n\n\u2022\n\nJun 10, 2026\n\n# Chatterbox Multilingual v3: TTS with embedded watermarking for 25 languages\n\nCONTENTS\n\nCONTRIBUTORS\n\nZihan Jin\n\nMachine Learning Engineer\n\nVoice AI has reached the point where listener-level detection of synthetic speech is unreliable for most languages. We can no longer definitivel"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-11",
+    "topic": "model_releases",
+    "title": "Anthropic Opens Mythos-Class AI to the Public With Claude Fable 5",
+    "url": "https://www.techraisal.com/blog/anthropic-opens-mythos-class-ai-to-the-public-with-claude-fable-5/",
+    "snippet": "Anthropic Opens Mythos-Class AI to the Public With Claude Fable 5\n\n# Anthropic Opens Mythos-Class AI to the Public With Claude Fable 5\n\n8 Min Read \u2022 Updated on Jun 10, 2026\n\nWritten by Suraj Malik Published in AI News\n\n##### Table of Content\n\n- Resources\n- Fable 5 Is Mythos With Safety Limits\n- Cybersecurity Is the Core Concern\n- Anthropic Says It Tested the Guardrails Heavily\n- Access Starts Broa"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-11",
+    "topic": "product_releases",
+    "title": "Nous Research Ships Hermes Agent Profile Builder: Identity, Model, Skills, and MCP Servers in One Dashboard Flow - MarkTechPost",
+    "url": "https://www.marktechpost.com/2026/06/11/nous-research-ships-hermes-agent-profile-builder-identity-model-skills-and-mcp-servers-in-one-dashboard-flow/",
+    "snippet": "Nous Research Ships Hermes Agent Profile Builder: Identity, Model, Skills, and MCP Servers in One Dashboard Flow - MarkTechPost\n\nSearch\n\nPremium Content\n\nRead our exclusive articles\n\nFacebook\n\nInstagram\n\nX\n\nSearch\n\nHome Editors Pick Agentic AI Nous Research Ships Hermes Agent Profile Builder: Identity, Model, Skills, and MCP...\n\nNous Research has shipped a Profile Builder for Hermes Agent. It live"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-11",
+    "topic": "product_releases",
+    "title": "Decart Launches Oasis 3, a Photorealistic Simulator for Autonomous Driving That Goes Beyond Real-World Testing - Phandroid",
+    "url": "https://phandroid.com/2026/06/11/decart-launches-oasis-3-a-photorealistic-simulator-for-autonomous-driving-that-goes-beyond-real-world-testing/",
+    "snippet": "Decart Launches Oasis 3, a Photorealistic Simulator for Autonomous Driving That Goes Beyond Real-World Testing - Phandroid\n\n0\n\nIf you\u2019ve ever wondered how companies like Waymo teach their cars to drive, a big part of the answer is real-world data. Waymo puts sensor-laden vehicles on actual roads and logs millions of miles so its system can learn how to handle what it encounters. That works well fo"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-11",
+    "topic": "product_releases",
+    "title": "Yoodli Launches Auto-Generated Learning Content, Bringing Content Creation Inside the AI Roleplay Platform",
+    "url": "https://www.prnewswire.com/news-releases/yoodli-launches-auto-generated-learning-content-bringing-content-creation-inside-the-ai-roleplay-platform-302797719.html",
+    "snippet": "# Yoodli Launches Auto-Generated Learning Content, Bringing Content Creation Inside the AI Roleplay Platform\n\nAuthor: Yoodli\nPublished: 2026-06-11T06:00:00-04:00\nSource: prnewswire.com (prnewswire.com)\nLanguage: en\n\n## Story\n\nYoodli Launches Auto-Generated Learning Content, Bringing Content Creation Inside the AI Roleplay Platform Accessibility Statement Skip Navigation\n\nNew capability transforms "
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-11",
+    "topic": "x_posts",
+    "title": "Hilarious Tweets About AI - Yahoo News Canada",
+    "url": "https://ca.news.yahoo.com/hilarious-tweets-ai-110018908.html",
+    "snippet": "# Hilarious Tweets About AI - Yahoo News Canada\n\nPublished: 2026-06-11T11:00:18+00:00\nSource: ca.news.yahoo.com (ca.news.yahoo.com)\nLanguage: en\n\n## Story\n\nHilarious Tweets About AI - Yahoo News Canada\n\nAdvertisement\n\nAdvertisement\n\nHilarious Tweets About AI\n\nIt feels impossible to escape artificial intelligence these days. It pops up in our inboxes, search results, photo apps and apparently coffe"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-11",
+    "topic": "x_posts",
+    "title": "Deedy Das of Menlo Ventures praises Claude Fable's design capabilities amid reports of developer backlash \u00b7 Digg",
+    "url": "https://digg.com/ai/hr8ynh2r",
+    "snippet": "Deedy Das of Menlo Ventures praises Claude Fable's design capabilities amid reports of developer backlash \u00b7 Digg\n\n/Tech23h ago\n\n# Deedy Das of Menlo Ventures praises Claude Fable's design capabilities amid reports of developer backlash\n\n## Story Overview\n\nInvestor Deedy Das spotlighted Claude Fable's knack for churning out McKinsey-grade reports, playable Pok\u00e9mon clones, and controllable 3D Yosemi"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-11",
+    "topic": "x_posts",
+    "title": "Anthropic accused of \u2018secret sabotage\u2019 as Claude Fable 5 silently limits capabilities for AI researchers and developers",
+    "url": "https://tech.yahoo.com/ai/claude/articles/anthropic-accused-secret-sabotage-claude-174340137.html",
+    "snippet": "Anthropic accused of \u2018secret sabotage\u2019 as Claude Fable 5 silently limits capabilities for AI researchers and developers\n\nAdvertisement\n\nAdvertisement\n\nAdvertisement\n\nAdvertisement\n\nAnthropic accused of \u2018secret sabotage\u2019 as Claude Fable 5 silently limits capabilities for AI researchers and developers (Samuel Boivin\u2014NurPhoto/Getty Images)\n\nWhen Anthropic made its first Mythos-tier model available to"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-11",
+    "topic": "x_posts",
+    "title": "[AINews] Open Models, Model Labs vs Agent Labs, and What's ...",
+    "url": "https://www.latent.space/p/ainews-open-models-model-labs-vs",
+    "snippet": "[AINews] Open Models, Model Labs vs Agent Labs, and What's Untrainable \u2014 Sarah Guo\n\nSubscribeSign in\n\n# [AINews] Open Models, Model Labs vs Agent Labs, and What's Untrainable \u2014 Sarah Guo\n\n### a quiet day lets us reflect on a great essay\n\nJun 11, 2026\n\n\u2219 Paid\n\n48\n\n1\n\nShare\n\nSarah Guo is a friend of the pod and Queen of AI, and after our Satya crossover pod(great recap here from Gokul Rajaram) wrote"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-11",
+    "topic": "x_posts",
+    "title": "Prime Intellect's Elie Bakouch criticizes Anthropic over hidden Claude Mythos 5 safeguards restricting recursive self-improvement and AI R&D \u00b7 Digg",
+    "url": "https://digg.com/ai/7rf55dy6",
+    "snippet": "Prime Intellect's Elie Bakouch criticizes Anthropic over hidden Claude Mythos 5 safeguards restricting recursive self-improvement and AI R&D \u00b7 Digg\n\n/Tech22h ago\n\n# Prime Intellect's Elie Bakouch criticizes Anthropic over hidden Claude Mythos 5 safeguards restricting recursive self-improvement and AI R&D\n\n## Story Overview\n\nElie Bakouch at Prime Intellect is calling out Anthropic for embedding und"
   }
 ]
