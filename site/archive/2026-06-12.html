@@ -20,89 +20,85 @@
   </header>
   <main class="reading-column">
     <p class="dateline">2026-06-12</p>
-    <p class="last-updated">Last updated 2026-06-12 12:00 UTC</p>
+    <p class="last-updated">Last updated 2026-06-12 12:36 UTC</p>
     <article class="digest">
 <h1 id="daily-ai-pulse-2026-06-12">Daily AI Pulse — 2026-06-12</h1>
 
 <h2 id="todays-headline">Today's headline</h2>
 
-<p>Anthropic shipped Fable 5 this week and buried something in the system card.</p>
+<p>Mercury 2 is running 1,000 tokens per second on standard NVIDIA GPUs. Augment Code already has it in production and cut their costs 90%, latency 82%.</p>
 
-<p>The model was quietly set to degrade its own outputs for AI research tasks. No error message. No fallback. Just worse results, silently, through prompt steering. They framed it as protection against model distillation. The developer community called it something else.</p>
+<p>That's not a benchmark number. That's a team with a real workload and a real bill that changed.</p>
 
-<p>The backlash moved so fast Anthropic walked it back in under 24 hours. "We made the wrong trade-off, and we apologize for not getting the balance right," they told Wired.</p>
-
-<p>The silent nerfing is gone. The enterprise data retention policy (30 days on corporate data) is still there, and that one's going to matter more to most businesses than the research restriction ever did.</p>
+<p>The "fast AI needs expensive hardware" assumption took a hit today.</p>
 
 <section class="todays-posts">
 <h2 class="todays-posts-title">Today&rsquo;s posts</h2>
 <p class="todays-posts-sub">Three for LinkedIn, three for Threads / IG. One click to copy.</p>
 <h3 class="post-group-label">LINKEDIN DRAFTS</h3>
-<div class="post-card" data-post><div class="post-card-head"><span class="post-num">LI . NO. 01</span><button type="button" class="post-copy" aria-label="Copy post">COPY</button></div><pre class="post-body">Anthropic's Fable 5 launched this week and quietly buried something in the system card.
+<div class="post-card" data-post><div class="post-card-head"><span class="post-num">LI . NO. 01</span><button type="button" class="post-copy" aria-label="Copy post">COPY</button></div><pre class="post-body">The speed wall for AI inference just moved.
 
-The model was set to silently degrade its outputs for anyone using it on AI research tasks. No error. No fallback. Just worse results, without telling you, through prompt steering.
+Mercury 2 runs over 1,000 tokens per second on standard NVIDIA GPUs. The kind everyone already has. No custom chips. No proprietary hardware. No lock-in.
 
-They walked it back in under 24 hours. Said "we made the wrong trade-off." The feature is gone.
+It runs on diffusion instead of the standard autoregressive approach, which means it generates tokens in parallel rather than one at a time. The result is 5-10x faster, quality comparable to Haiku or GPT-5 mini, at less than half the cost.
 
-The enterprise data retention policy is still there. 30 days. Your corporate data in Claude, subject to Anthropic's terms.
+Augment Code ran it in production this week. 90% cost reduction. 82% latency improvement on real workloads.
 
-Most business owners don't read system cards. They just trust the tool.
+Those aren't projected numbers. That's a team that had a problem and then solved it.
 
-Which is fine, until the tool quietly changes what it's giving you without saying so.
+When inference gets that much cheaper at comparable quality, the features you said no to because the math didn't work start looking different. The calculus changes.
 
-This isn't "AI is scary" content. It's a reminder that every AI tool in your stack has policies governing what it actually does. Worth knowing what they say.
+What did you shelve in the last year because running it at scale was too expensive?</pre></div>
+<div class="post-card" data-post><div class="post-card-head"><span class="post-num">LI . NO. 02</span><button type="button" class="post-copy" aria-label="Copy post">COPY</button></div><pre class="post-body">Your camera roll is a dataset you've been building for years and never read.
 
-What's your tolerance for opacity in a tool you run your business on?</pre></div>
-<div class="post-card" data-post><div class="post-card-head"><span class="post-num">LI . NO. 02</span><button type="button" class="post-copy" aria-label="Copy post">COPY</button></div><pre class="post-body">Derek didn't set out to start a business.
+Every screenshot you saved meant something when you took it. A recipe. A product. A travel idea. A quote that hit.
 
-He bought a $300 inflatable movie screen off Amazon as a Christmas gift. His kid showed it to friends. Neighbors noticed. Someone messaged him on Facebook Marketplace.
+Then it just sat there.
 
-Now he's having $10,000 weeks. Projecting $90-100K this year at 80% profit margins.
+Pool launched this week. It takes your screenshots, runs AI across all of them, sorts them into categories, and makes them searchable. It can even trace a product screenshot back to the original retailer link.
 
-But the part I keep coming back to is the indoor theater.
+What hits me about this isn't the app. It's the observation underneath it.
 
-Texas summers mean it doesn't get dark until 9:30 PM. Kids can't stay up that late for outdoor movies. So Derek built an air-conditioned indoor movie experience inside an inflatable structure. Carpet, lights, AC, full theater feel. Nobody else on the planet is doing it.
+You've been passively curating a personal archive of your interests and intentions every time you grabbed a screenshot. You just never had a way to read it back.
 
-He solved his own constraint. Then sold the solution.
+That pattern applies way beyond screenshots. What are you already doing for yourself that someone else would find useful?
 
-Chris Koerner had him on The Koerner Office this week. Worth the 21 minutes.
+If it's repeatable, it's a skill. If it's searchable, it might just be a product.</pre></div>
+<div class="post-card" data-post><div class="post-card-head"><span class="post-num">LI . NO. 03</span><button type="button" class="post-copy" aria-label="Copy post">COPY</button></div><pre class="post-body">The quiet problem underneath all the agent hype is that nobody knows how to test them properly.
 
-But the question it left me with is one I keep coming back to anyway.
+Julien Chaumond, CTO of Hugging Face, said this week that agentic AI evaluation is "massively under-resourced as a field."
 
-What are you already doing for yourself that someone else would find useful?</pre></div>
-<div class="post-card" data-post><div class="post-card-head"><span class="post-num">LI . NO. 03</span><button type="button" class="post-copy" aria-label="Copy post">COPY</button></div><pre class="post-body">Anthropic just made AI agents a lot more useful for businesses.
+Three words. 6.6K views. A full debate.
 
-Not through a new model. Through two small features: cron scheduling and credential vaults.
+Here's what that actually means in practice.
 
-In plain terms: your AI agents can now run on a schedule without anyone pressing a button. And they can securely store the API keys and credentials they need, instead of you passing them in a prompt every time.
+When you ship a multi-step agent, you're asking it to take a sequence of actions over time. One wrong move cascades. Most teams don't have solid benchmarks for whether the agent is making the right call at each step.
 
-That's the shift from on-demand tool to autonomous worker.
+So shipping reliable agents stays a game of trial and error.
 
-The question most small businesses haven't asked yet is a good one: what would you actually trust to run in the background, unsupervised, every night?
+That's not a research problem. That's a builder problem. Every team deploying agents right now is operating with less visibility into agent behavior than they should have.
 
-Answer that honestly and you've basically mapped out your AI automation priorities.
+The field is building fast. The infrastructure to verify it's working isn't there yet.
 
-Not every workflow needs an always-on agent. But more of them could than most people realize.
-
-If it's repeatable, it's a candidate.</pre></div>
+Worth factoring in before you go fully hands-off with agent workflows.</pre></div>
 <h3 class="post-group-label">THREADS / IG CAPTIONS</h3>
-<div class="post-card" data-post><div class="post-card-head"><span class="post-num">TH . NO. 01</span><button type="button" class="post-copy" aria-label="Copy post">COPY</button></div><pre class="post-body">Anthropic launched Fable 5 this week and had to apologize within 24 hours.
+<div class="post-card" data-post><div class="post-card-head"><span class="post-num">TH . NO. 01</span><button type="button" class="post-copy" aria-label="Copy post">COPY</button></div><pre class="post-body">A diffusion LLM just hit 1,000 tokens per second on standard GPUs. Half the cost. Comparable quality to Haiku or GPT-5 mini.
 
-Buried in the system card was a policy where the model would secretly degrade its outputs for AI research tasks. No error message. Just quietly worse, through prompt steering. They called it a safeguard.
+Augment Code ran it in production and cut costs 90%, latency 82%.
 
-The feature got pulled fast. But the enterprise data retention policy (30 days on your corporate data) is still sitting there. Worth knowing if your business runs on Claude.</pre></div>
-<div class="post-card" data-post><div class="post-card-head"><span class="post-num">TH . NO. 02</span><button type="button" class="post-copy" aria-label="Copy post">COPY</button></div><pre class="post-body">A guy bought a $300 inflatable movie screen for his kid at Christmas.
+That's not a benchmark. That's a team that had a bill and then didn't.
 
-Threw it on Facebook Marketplace. Got bites. Started booking HOAs. Now he's having $10K weeks at 80% margins.
+The math on what's worth building is changing faster than most people's assumptions are updating.</pre></div>
+<div class="post-card" data-post><div class="post-card-head"><span class="post-num">TH . NO. 02</span><button type="button" class="post-copy" aria-label="Copy post">COPY</button></div><pre class="post-body">You've got a camera roll full of screenshots you meant to come back to. Recipes. Products. Random ideas. Quotes.
 
-The real move: Texas summers mean outdoor movies don't start until 9:30 PM. Too late for kids. So he built an indoor air-conditioned inflatable theater. Carpet, lights, AC. Nobody else is doing it.
+Pool is a new app that sorts all of it with AI, makes it searchable, even traces a product screenshot back to the original link.
 
-He didn't invent an industry. He just solved his own problem and someone paid him for the solution.</pre></div>
-<div class="post-card" data-post><div class="post-card-head"><span class="post-num">TH . NO. 03</span><button type="button" class="post-copy" aria-label="Copy post">COPY</button></div><pre class="post-body">Google just shipped a text model that fills in 256 tokens at once instead of generating them one at a time.
+The part that sticks with me: you've been curating a dataset about your own intentions for years. You just never had a way to read it.</pre></div>
+<div class="post-card" data-post><div class="post-card-head"><span class="post-num">TH . NO. 03</span><button type="button" class="post-copy" aria-label="Copy post">COPY</button></div><pre class="post-body">Hugging Face's CTO posted that agentic AI evaluation is "massively under-resourced as a field" and it pulled 6K views and a whole debate.
 
-Same idea as image diffusion. Start with the whole block, refine everything in parallel. On one H100 it hits 1,008 tokens per second. About 4x faster than standard models.
+The real version of that problem: if you can't reliably test whether your agent is doing the right thing at each step, shipping reliable agents stays trial and error.
 
-Open source, Apache 2.0, works with vLLM. If you run local inference or low-concurrency deploys, this one is worth a look.</pre></div>
+We're building fast. The infrastructure to know if we're building it right is still catching up.</pre></div>
 </section>
 <script>
 document.addEventListener('click', (e) => {
@@ -123,78 +119,70 @@ document.addEventListener('click', (e) => {
 <h2 id="ai-launches-news">AI launches &amp; news</h2>
 
 <ul>
-<li><strong>Fable 5 controversy, full picture</strong> — AI Daily Brief
-Anthropic's position was essentially: we can't stop people from using Claude to build competing models outright, but we can make the model less effective for that, silently. That's the part that lit people up. Not the safety filters on bio or chem (which are defensible), but the covert mechanism. The researcher and enterprise communities said that breaks the basic contract between a model provider and its users. The feature got pulled. OpenAI is reportedly considering token price cuts in response. The fallout isn't done.
-<a rel="noopener" target="_blank" href="https://www.youtube.com/watch?v=LNXDoKPe06I">https://www.youtube.com/watch?v=LNXDoKPe06I</a></li>
-</ul>
+<li><p><strong>Mercury 2, the first reasoning diffusion LLM</strong> - Inception/Baseten</p>
+
+<p>Standard LLMs generate one token at a time, each depending on the one before it. Mercury 2 runs on diffusion instead, generating in parallel. The result is over 1,000 tokens per second on widely-deployed NVIDIA GPUs at less than half the cost, with quality that holds up against Haiku and GPT-5 mini.</p>
+
+<p>Augment Code is running it in production right now. 90% cost reduction. 82% latency drop. On real, critical workloads.</p>
+
+<p>No custom chips. No lock-in. If you've been sitting on an AI feature because inference at scale was too expensive to justify, the math just changed.</p>
 
 <blockquote>
-  <p>"We made the wrong trade-off, and we apologize for not getting the balance right." — Anthropic to Wired</p>
+  <p>"Customers like Augment Code are already running it in production, cutting costs by 90% and latency by 82% on critical workloads."</p>
 </blockquote>
 
-<ul>
-<li><p><strong>Google DiffusionGemma</strong> — VentureBeat
-Google released an open-source text model that generates 256 tokens at once instead of one at a time. Borrows the diffusion trick from image generation. Start with the whole block, refine everything in parallel. On a single H100 it hits 1,008 tokens per second, about 4x faster than standard models at batch size 1. Apache 2.0, works natively with vLLM. If you do local inference or low-concurrency deploys, this changes the math on what's possible without a GPU farm.
-<a rel="noopener" target="_blank" href="https://venturebeat.com/technology/googles-diffusiongemma-generates-256-tokens-in-parallel-and-self-corrects-as-it-goes">https://venturebeat.com/technology/googles-diffusiongemma-generates-256-tokens-in-parallel-and-self-corrects-as-it-goes</a></p></li>
-<li><p><strong>Kling AI 3.0</strong> — MarketMinute
-Kling dropped Video 3.0 with 15-second clips, native audio generation across languages and dialects, and a unified multimodal pipeline. Text, image, audio, video in one architecture. The native audio is the real gap it closes. Most video AI tools still treat audio as an afterthought. Early access is live for Ultra subscribers now.
-<a rel="noopener" target="_blank" href="https://www.marketminute.com/article/getnews-2026-6-12-kling-ai-launches-30-model-ushering-in-an-era-where-everyone-can-be-a-director">https://www.marketminute.com/article/getnews-2026-6-12-kling-ai-launches-30-model-ushering-in-an-era-where-everyone-can-be-a-director</a></p></li>
+<p><a rel="noopener" target="_blank" href="https://www.baseten.co/blog/mercury-2-is-now-available-on-baseten/">https://www.baseten.co/blog/mercury-2-is-now-available-on-baseten/</a></p></li>
 </ul>
 
 <h2 id="enterprise-ai-moves">Enterprise AI moves</h2>
 
 <ul>
-<li><p><strong>Claude Managed Agents adds cron scheduling and credential vaults</strong> — Crypto Briefing
-Two quiet features that shift how agents actually work in production. Agents can now run on a schedule without a human triggering them. And they can store API keys and credentials in a secure vault instead of being passed through prompts. That second one solves a real security headache that's plagued agent deployments since the beginning. The shift from on-demand assistant to autonomous worker just got a lot more practical.
-<a rel="noopener" target="_blank" href="https://cryptobriefing.com/claude-managed-agents-scheduled-deployments/">https://cryptobriefing.com/claude-managed-agents-scheduled-deployments/</a></p></li>
-<li><p><strong>Xiaomi open-sources MiMo Code</strong> — Gadgets Now
-Xiaomi dropped an open-source coding agent claiming it outperforms Claude Code on complex 200-step software tasks. Take the benchmark framing with some skepticism. The real signal is a hardware company commoditizing developer AI tools, open source, free to build on. The race to make coding agents a commodity is moving faster than most expected a year ago.
-<a rel="noopener" target="_blank" href="https://gadgetsnow.indiatimes.com/tech-news/xiaomi-open-sources-mimo-code-ai-coding-agent-claims-it-outperforms-claude-code-on-complex-200-step-software-tasks/articleshow/131677071.cms">https://gadgetsnow.indiatimes.com/tech-news/xiaomi-open-sources-mimo-code-ai-coding-agent-claims-it-outperforms-claude-code-on-complex-200-step-software-tasks/articleshow/131677071.cms</a></p></li>
-<li><p><strong>Cresta launches Conductor</strong> — PR Newswire
-An agentic engine for building production-grade conversational AI agents using natural language. Claims 2x faster deployment than current tools. They're targeting the gap between agents that demo well and agents that survive real enterprise CX deployments. If you're selling AI into contact centers or customer service orgs, this space is getting competitive.
-<a rel="noopener" target="_blank" href="https://www.prnewswire.com/news-releases/cresta-launches-conductor-the-agent-for-ai-agent-development-302798058.html">https://www.prnewswire.com/news-releases/cresta-launches-conductor-the-agent-for-ai-agent-development-302798058.html</a></p></li>
+<li><p><strong>Hugging Face CTO: agentic eval is "massively under-resourced"</strong> - X (via Digg)</p>
+
+<p>Julien Chaumond (@julien_c) posted three words this week and pulled 6.6K views and a full debate. His point: testing and benchmarking autonomous agents is critically under-built. No shared standards. Not enough tooling. Not enough researcher focus.</p>
+
+<p>What that means for builders: if you can't reliably test whether a multi-step agent is making the right call at each step, shipping reliable ones stays a game of trial and error.</p>
+
+<p>Every team deploying agents right now is working with less visibility into agent behavior than they should have. That's not abstract. That's your production workflows.</p>
+
+<p><a rel="noopener" target="_blank" href="https://digg.com/tech/0dhz92w3">https://digg.com/tech/0dhz92w3</a></p></li>
 </ul>
 
-<h2 id="new-tools-harnesses">New tools &amp; harnesses</h2>
+<h2 id="new-harnesses-tools">New harnesses &amp; tools</h2>
 
 <ul>
-<li><p><strong>Meta Edits gets an AI assistant</strong> — TechCrunch
-Meta previewed an AI assistant for Edits (their CapCut competitor) that uses your actual Instagram data. Not generic tips. Your views, your retention curves, your trending audio. It surfaces what's working and suggests what to make next. Desktop version coming too. Every insight keeps you inside Meta's ecosystem instead of going to a third-party analytics tool. Worth knowing if you're building a content workflow on Instagram.
-<a rel="noopener" target="_blank" href="https://techcrunch.com/2026/06/11/metas-edits-app-is-getting-an-ai-assistant-and-a-desktop-version/">https://techcrunch.com/2026/06/11/metas-edits-app-is-getting-an-ai-assistant-and-a-desktop-version/</a></p></li>
-<li><p><strong>DoorDash launches Ask DoorDash</strong> — CNBC
-A chatbot that lets you order food and groceries with photos and prompts instead of scrolling a menu. Less interesting as a feature, more interesting as a signal. DoorDash, Uber, and Instacart are all moving to AI as the primary interface at the same time. When three competing platforms go the same direction simultaneously, the consumer behavior shift is already happening.
-<a rel="noopener" target="_blank" href="https://www.cnbc.com/2026/06/11/doordash-ai-ordering-automation.html">https://www.cnbc.com/2026/06/11/doordash-ai-ordering-automation.html</a></p></li>
-<li><p><strong>Nvidia Project GR00T N2</strong> — RobotWale
-Nvidia updated its humanoid robot foundation model. Robots train in simulation before real-world deployment. Industrial and commercial focus: manufacturing, logistics, customer service. Still early, but the platform pattern is the same as software agents. Nvidia is building the layer so developers don't start from scratch on every new robot build.
-<a rel="noopener" target="_blank" href="https://robotwale.com/news/nvidia-groot-n2-announced">https://robotwale.com/news/nvidia-groot-n2-announced</a></p></li>
-</ul>
+<li><p><strong>Pool</strong> - TechCrunch</p>
 
-<h2 id="podcast-watch-list">Podcast watch list</h2>
+<p>Your camera roll is a graveyard of screenshots you meant to come back to. Pool takes all of that, runs AI across it, sorts it into categories it calls "pools," and makes everything searchable. It can even trace a product screenshot back to the original retailer link.</p>
 
-<ul>
-<li><p><strong>"He Found a Side Hustle With No Competition"</strong> — The Koerner Office
-Chris Koerner sits down with Derek from backyardmovietheater.com. Started with a $300 Amazon inflatable screen as a Christmas gift, threw it on Facebook Marketplace, and now he's having $10K weeks at 80% margins. The indoor air-conditioned inflatable theater he built (because Texas stays light until 9:30 PM in summer, too late for kids) is genuinely clever. Worth 21 minutes. The part about not intending to start a business is the part to pay attention to.
-<a rel="noopener" target="_blank" href="https://www.youtube.com/watch?v=LGkcTUfySDU">https://www.youtube.com/watch?v=LGkcTUfySDU</a></p></li>
-<li><p><strong>"Why Fable 5 is the Most Controversial AI Release Ever"</strong> — AI Daily Brief
-Good breakdown of the full fallout. The segment on enterprise data retention is what most coverage missed, and that piece is still unresolved. Worth it if you're running business data through Claude.
-<a rel="noopener" target="_blank" href="https://www.youtube.com/watch?v=LNXDoKPe06I">https://www.youtube.com/watch?v=LNXDoKPe06I</a></p></li>
+<p>The observation worth stealing: you've been passively building a dataset about your own interests and intentions every time you screenshotted something. Pool just reads it. If you're building in the knowledge capture or memory space, this is where the consumer market is pointed.</p>
+
+<p><a rel="noopener" target="_blank" href="https://techcrunch.com/2026/06/11/pools-new-app-turns-your-screenshots-into-a-searchable-memory-bank/">https://techcrunch.com/2026/06/11/pools-new-app-turns-your-screenshots-into-a-searchable-memory-bank/</a></p></li>
+<li><p><strong>The Graph: MCP servers + AI agent skills</strong> - X/TradingView</p>
+
+<p>The Graph shipped MCP servers and new AI agent skills so anyone can query live on-chain blockchain data in plain English. No GraphQL, no SQL, no custom infrastructure.</p>
+
+<p>The shift worth noting: they're making blockchain data accessible to people who can prompt an AI but can't write a query. That's a different category of user entirely. If you're building agents that need live on-chain context, or you work anywhere near the web3 stack, this is the infrastructure move to know about.</p>
+
+<p><a rel="noopener" target="_blank" href="https://www.tradingview.com/news/coindar:ee9a4afb3094b:0-the-graph-released-mcp-servers-and-ai-agent-skills/">https://www.tradingview.com/news/coindar:ee9a4afb3094b:0-the-graph-released-mcp-servers-and-ai-agent-skills/</a></p></li>
 </ul>
 
 <h2 id="content-angles-for-you">Content angles for you</h2>
 
 <ol>
-<li>The Fable 5 silent nerfing story is the clearest example yet of why every business needs to actually read the policies governing the AI tools in their stack. Not a fear post. A practical one: here's what happened, here's what to actually check in your own tools.</li>
-<li>Derek's movie theater has one frame that works for your audience: he solved his own problem and someone paid him for it. Post the story, then ask the question back: what are you already doing that someone would pay you to do for them?</li>
-<li>Claude Managed Agents running on cron is worth unpacking for small business owners who don't know what that means yet. Three specific examples of what "AI running overnight without you" could actually look like. That's the post people will save.</li>
+<li>The plain-English Mercury 2 explainer. "Diffusion vs. autoregressive" is legitimately interesting but buried under jargon. The angle: what changed about AI speed this week, why it matters if you're building anything, and why inference getting 5-10x cheaper means the features you said no to last year are worth revisiting.</li>
+<li>The screenshot graveyard. Pool is the news peg but the angle is bigger. Every screenshot was a moment of "I want to come back to this." What does it mean that AI can now read that map of your intentions? Ties cleanly to the second brain conversation and has legs well beyond one news cycle.</li>
+<li>Julien's three words. Get specific about what "we can't test agents reliably" actually costs when an agent runs the wrong task for 20 minutes before anyone notices. That's the story clients need to hear before they go fully autonomous on their workflows.</li>
 </ol>
 
 <h2 id="people-to-engage-with">People to engage with</h2>
 
 <ul>
-<li><strong>Adil Moujahid</strong> (@AdilMouja) — built a full interactive Riemann Hypothesis explainer in two prompts with Fable 5, scored with music generated from the zeta zeros. Mixed sentiment on the math accuracy, but the demo is a strong picture of what the model can do.</li>
-<li><strong>Matt Palmer</strong> — posted the sharpest early take on the Fable 5 fallout: "you've got a couple of days to mitigate the damage being done by your senior leadership." Captured enterprise frustration before most coverage caught up.</li>
-<li><strong>Derek</strong> (@backyardmovietheater on IG) — the TKO guest. His LED dance floor add-on ($20K in equipment, $3K per booking at weddings) is worth engaging on if you're thinking about asset rental business models.</li>
+<li><strong>Julien Chaumond</strong> (@julien_c) - Hugging Face CTO, flagged the agentic eval gap this week; the thread has a real debate worth a thoughtful reply</li>
+<li><strong>The Graph</strong> (@graphprotocol) - shipped MCP servers and natural language on-chain queries today; worth acknowledging if you're watching the AI-meets-web3 space</li>
 </ul>
+
+<hr />
 
     </article>
   </main>
