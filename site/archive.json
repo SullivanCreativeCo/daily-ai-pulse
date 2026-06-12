@@ -6162,5 +6162,55 @@
     "title": "Claude Managed Agents adds scheduled deployments and environment variables, pushing AI closer to full autopilot",
     "url": "https://cryptobriefing.com/claude-managed-agents-scheduled-deployments/",
     "snippet": "Claude Managed Agents adds scheduled deployments and environment variables, pushing AI closer to full autopilot\n\nSEARCH\n\nSearching...\n\n# Claude Managed Agents adds scheduled deployments and environment variables, pushing AI closer to full autopilot\n\nAnthropic's latest update lets AI agents run on cron schedules and securely store credentials, a meaningful step toward autonomous enterprise workflow"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-06-12",
+    "headline": "Mercury 2 is running 1,000 tokens per second on standard NVIDIA GPUs. Augment Code already has it in production and cut their costs 90%, latency 82%.",
+    "url": "archive/2026-06-12.html",
+    "posts": {
+      "linkedin": [
+        "The speed wall for AI inference just moved.\n\nMercury 2 runs over 1,000 tokens per second on standard NVIDIA GPUs. The kind everyone already has. No custom chips. No proprietary hardware. No lock-in.\n\nIt runs on diffusion instead of the standard autoregressive approach, which means it generates tokens in parallel rather than one at a time. The result is 5-10x faster, quality comparable to Haiku or GPT-5 mini, at less than half the cost.\n\nAugment Code ran it in production this week. 90% cost reduction. 82% latency improvement on real workloads.\n\nThose aren't projected numbers. That's a team that had a problem and then solved it.\n\nWhen inference gets that much cheaper at comparable quality, the features you said no to because the math didn't work start looking different. The calculus changes.\n\nWhat did you shelve in the last year because running it at scale was too expensive?",
+        "Your camera roll is a dataset you've been building for years and never read.\n\nEvery screenshot you saved meant something when you took it. A recipe. A product. A travel idea. A quote that hit.\n\nThen it just sat there.\n\nPool launched this week. It takes your screenshots, runs AI across all of them, sorts them into categories, and makes them searchable. It can even trace a product screenshot back to the original retailer link.\n\nWhat hits me about this isn't the app. It's the observation underneath it.\n\nYou've been passively curating a personal archive of your interests and intentions every time you grabbed a screenshot. You just never had a way to read it back.\n\nThat pattern applies way beyond screenshots. What are you already doing for yourself that someone else would find useful?\n\nIf it's repeatable, it's a skill. If it's searchable, it might just be a product.",
+        "The quiet problem underneath all the agent hype is that nobody knows how to test them properly.\n\nJulien Chaumond, CTO of Hugging Face, said this week that agentic AI evaluation is \"massively under-resourced as a field.\"\n\nThree words. 6.6K views. A full debate.\n\nHere's what that actually means in practice.\n\nWhen you ship a multi-step agent, you're asking it to take a sequence of actions over time. One wrong move cascades. Most teams don't have solid benchmarks for whether the agent is making the right call at each step.\n\nSo shipping reliable agents stays a game of trial and error.\n\nThat's not a research problem. That's a builder problem. Every team deploying agents right now is operating with less visibility into agent behavior than they should have.\n\nThe field is building fast. The infrastructure to verify it's working isn't there yet.\n\nWorth factoring in before you go fully hands-off with agent workflows."
+      ],
+      "threads": [
+        "A diffusion LLM just hit 1,000 tokens per second on standard GPUs. Half the cost. Comparable quality to Haiku or GPT-5 mini.\n\nAugment Code ran it in production and cut costs 90%, latency 82%.\n\nThat's not a benchmark. That's a team that had a bill and then didn't.\n\nThe math on what's worth building is changing faster than most people's assumptions are updating.",
+        "You've got a camera roll full of screenshots you meant to come back to. Recipes. Products. Random ideas. Quotes.\n\nPool is a new app that sorts all of it with AI, makes it searchable, even traces a product screenshot back to the original link.\n\nThe part that sticks with me: you've been curating a dataset about your own intentions for years. You just never had a way to read it.",
+        "Hugging Face's CTO posted that agentic AI evaluation is \"massively under-resourced as a field\" and it pulled 6K views and a whole debate.\n\nThe real version of that problem: if you can't reliably test whether your agent is doing the right thing at each step, shipping reliable agents stays trial and error.\n\nWe're building fast. The infrastructure to know if we're building it right is still catching up."
+      ]
+    }
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-12",
+    "topic": "model_releases",
+    "title": "Mercury 2, the first reasoning diffusion LLM, is now on Baseten",
+    "url": "https://www.baseten.co/blog/mercury-2-is-now-available-on-baseten/",
+    "snippet": "Mercury 2, the first reasoning diffusion LLM, is now on Baseten\n\nIntroducing Baseten Loops: A Training SDK for Frontier RL. Learn more here\n\n# Mercury 2, the first reasoning diffusion LLM, is now on Baseten\n\nInception's Mercury 2 is the fastest reasoning LLM, 5-10x faster than leading speed-optimized models at comparable quality.\n\n### Authors\n\n### Last updated\n\nJune 11, 2026\n\n### Share\n\nTL;DR\n\nInc"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-12",
+    "topic": "product_releases",
+    "title": "Pool's new app turns your screenshots into something useful | TechCrunch",
+    "url": "https://techcrunch.com/2026/06/11/pools-new-app-turns-your-screenshots-into-a-searchable-memory-bank/",
+    "snippet": "Pool's new app turns your screenshots into something useful | TechCrunch\n\nImage Credits:Pool\n\n# Pool\u2019s new app turns your screenshots into something useful\n\n8:30 AM PDT \u00b7 June 11, 2026\n\nFor years, your phone\u2019s Camera Roll has served dual purposes. In addition to helping you revisit special moments, it has also served as an archive for all sorts of things you find online, like recipes, fashion insp"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-12",
+    "topic": "x_posts",
+    "title": "The Graph Released MCP Servers and AI Agent Skills \u2014 TradingView News",
+    "url": "https://www.tradingview.com/news/coindar:ee9a4afb3094b:0-the-graph-released-mcp-servers-and-ai-agent-skills/",
+    "snippet": "The Graph Released MCP Servers and AI Agent Skills \u2014 TradingView News\n\nSearch\n\nEN\n\nImportant\n\n# The Graph Released MCP Servers and AI Agent Skills\n\nLess than 1 min read\n\nThe Graph released MCP servers and new AI agent skills for Subgraphs and Substreams. The update lets users query live on-chain data in natural language without GraphQL, SQL or custom infrastructure.\n\nRefer to the official tweet by"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-12",
+    "topic": "x_posts",
+    "title": "Hugging Face CTO Julien Chaumond claims the field of agentic AI evaluation is massively under-resourced \u00b7 Digg",
+    "url": "https://digg.com/tech/0dhz92w3",
+    "snippet": "Hugging Face CTO Julien Chaumond claims the field of agentic AI evaluation is massively under-resourced \u00b7 Digg\n\n/Tech14h ago\n\n# Hugging Face CTO Julien Chaumond claims the field of agentic AI evaluation is massively under-resourced\n\n## Story Overview\n\nHugging Face co-founder and CTO Julien Chaumond flagged that testing and benchmarking autonomous AI agents receives far too little funding, tooling,"
   }
 ]
