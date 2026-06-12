@@ -6016,5 +6016,151 @@
     "title": "Prime Intellect's Elie Bakouch criticizes Anthropic over hidden Claude Mythos 5 safeguards restricting recursive self-improvement and AI R&D \u00b7 Digg",
     "url": "https://digg.com/ai/7rf55dy6",
     "snippet": "Prime Intellect's Elie Bakouch criticizes Anthropic over hidden Claude Mythos 5 safeguards restricting recursive self-improvement and AI R&D \u00b7 Digg\n\n/Tech22h ago\n\n# Prime Intellect's Elie Bakouch criticizes Anthropic over hidden Claude Mythos 5 safeguards restricting recursive self-improvement and AI R&D\n\n## Story Overview\n\nElie Bakouch at Prime Intellect is calling out Anthropic for embedding und"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-06-12",
+    "headline": "Buried under all the Fable 5 noise, Anthropic shipped something that actually changes the day-to-day.",
+    "url": "archive/2026-06-12.html",
+    "posts": {
+      "linkedin": [
+        "The update everyone scrolled past today is the one that matters most.\n\nClaude Managed Agents just added cron schedules and credential vaults.\n\nThat means your AI agent can wake up at 2am, run your research, pull your data, write the summary, and go back to sleep.\n\nNo one pressed a button. No one was watching.\n\nThis is the line people have been talking about crossing. Not \"AI that helps you work.\" AI that works while you don't.\n\nThe credential vault piece is quieter but just as important. Agents can now access real APIs with real keys stored securely, not baked into a prompt someone could read. That's enterprise-grade behavior, not demo behavior.\n\nEveryone this week is talking about Fable 5 benchmarks.\n\nThe builders paying attention are asking a different question: what would I automate if it could just run on a schedule?\n\nWhat would you set on a timer?",
+        "He bought a $300 inflatable screen for his kids. Now he's doing $10,000 weeks.\n\nDerek from Backyard Movie Theater didn't start a business.\n\nHe started a Christmas gift.\n\nSet it up for his family. His son wanted to invite friends. The neighborhood started asking. He threw it on Facebook Marketplace without really expecting anything.\n\nFirst booking was an HOA. He wasn't prepared. He did it anyway.\n\nThen he noticed: Texas summers don't get dark until 9:30. Little kids can't stay up that late. Outdoor movies don't work.\n\nSo he built an air-conditioned indoor inflatable theater. Then added LED dance floors because weddings kept asking.\n\nThree revenue streams from one accident. On track for $100K this year at 80% profit margins. One person. Mostly weekends.\n\nWhat are you already doing for yourself that someone else would find useful?\n\nI think about that question a lot. Derek just accidentally demonstrated the answer.",
+        "Google just showed us that language models don't have to work like typewriters.\n\nEvery text model you've ever used generates one token at a time. Left to right. No revisions once a word is placed.\n\nDiffusionGemma works differently.\n\nIt starts with noise, like how image generators work, and refines the whole block at once. 256 tokens in parallel. Every position sees every other position at the same time.\n\nThe result: up to 4x faster on GPUs. 1,008 tokens per second on a single H100. Open source.\n\nMost people won't feel this directly yet. But builders running local inference or low-concurrency apps will feel it first.\n\nWe're at a moment where the architecture itself is still being figured out.\n\nThe typewriter model felt permanent until it wasn't.\n\nWhat else feels permanent right now that probably isn't?"
+      ],
+      "threads": [
+        "Greg Isenberg just dropped 33 minutes on Fable 5 and skipped every benchmark comparison.\n\nThe part I can't stop thinking about is the interview-before-build prompt. You give it your startup idea, tell it not to build anything yet, and ask it to interview you like Zuckerberg or Chesky. Push back when your answers are vague. Then write the spec.\n\nBuild the thing after you've defended it.\n\nHow many half-baked projects would look different if we'd done that first?",
+        "Buried under all the Fable 5 noise today, Anthropic shipped something that actually changes the day-to-day.\n\nClaude Managed Agents now runs on cron schedules. Your agent runs at a set time without you pressing anything.\n\nThat's not an assistant anymore. That's an employee with a calendar.\n\nThe gap between \"helpful AI tool\" and \"thing running tasks in the background while I sleep\" just got a lot smaller.",
+        "Derek bought his kids a $300 inflatable movie screen for Christmas.\n\nHis neighbor asked if he'd bring it to their party. He said sure.\n\nNow he's doing $10K weeks on the way to $100K this year. 80% margins. One person. Mostly weekends.\n\nHe didn't plan any of it. He just said yes to the first weird ask and kept solving the next problem in front of him."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-06-12",
+    "source": "The Koerner Office",
+    "title": "He Found a Side Hustle With No Competition",
+    "url": "https://www.youtube.com/watch?v=LGkcTUfySDU",
+    "video_id": "LGkcTUfySDU"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-06-12",
+    "source": "Startup Ideas Podcast",
+    "title": "You are using Claude Fable 5 wrong",
+    "url": "https://www.youtube.com/watch?v=vjdHAWvVCP4",
+    "video_id": "vjdHAWvVCP4"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-06-12",
+    "source": "AI Daily Brief",
+    "title": "Why Fable 5 is the Most Controversial AI Release Ever",
+    "url": "https://www.youtube.com/watch?v=LNXDoKPe06I",
+    "video_id": "LNXDoKPe06I"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-12",
+    "topic": "model_releases",
+    "title": "Nvidia announces Project Groot N2 humanoid foundation model - RobotWale News",
+    "url": "https://robotwale.com/news/nvidia-groot-n2-announced",
+    "snippet": "Nvidia announces Project Groot N2 humanoid foundation model - RobotWale News\n\nIndia's humanoid robots library \u00b7 Specs, prices, news and buying guides - no hype. info@robotwale.com\n\nReviews & Opinion\n\n# Nvidia announces Project Groot N2 humanoid foundation model - RobotWale News\n\n\ud83d\udcc5 3 days ago \u00b7 \ud83d\udc64 RobotWale Desk\n\n## Nvidia announces Project Groot N2 humanoid foundation model\n\nSilicon Valley tech gia"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-12",
+    "topic": "model_releases",
+    "title": "Google's DiffusionGemma generates 256 tokens in parallel and self-corrects as it goes | VentureBeat",
+    "url": "https://venturebeat.com/technology/googles-diffusiongemma-generates-256-tokens-in-parallel-and-self-corrects-as-it-goes",
+    "snippet": "Google's DiffusionGemma generates 256 tokens in parallel and self-corrects as it goes | VentureBeat\n\nFeatured\n\n8:16 am, PT, June 11, 2026\n\nCredit: Image generated by VentureBeat with FLUX-2-Pro\n\nGenAI image generators like Stable Diffusion do not draw a picture pixel by pixel from left to right. They start with noise and iteratively refine the entire image in parallel until it converges, in a proc"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-12",
+    "topic": "model_releases",
+    "title": "Kling AI Launches 3.0 Model, Ushering in an Era Where Everyone Can Be a Director | MarketMinute",
+    "url": "https://www.marketminute.com/article/getnews-2026-6-12-kling-ai-launches-30-model-ushering-in-an-era-where-everyone-can-be-a-director",
+    "snippet": "Kling AI Launches 3.0 Model, Ushering in an Era Where Everyone Can Be a Director | MarketMinute\n\n# Kling AI Launches 3.0 Model, Ushering in an Era Where Everyone Can Be a Director\n\nPublished at June 11th 2026, 9:32 PM EDT via Get News\n\n\u24d8 This article is third-party content and does not represent the views of this site. We make no guarantees regarding its accuracy or completeness.\n\nKling AI, the AI"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-12",
+    "topic": "product_releases",
+    "title": "Meta's Edits app is getting an AI assistant and a desktop version | TechCrunch",
+    "url": "https://techcrunch.com/2026/06/11/metas-edits-app-is-getting-an-ai-assistant-and-a-desktop-version/",
+    "snippet": "Meta's Edits app is getting an AI assistant and a desktop version | TechCrunch\n\nImage Credits:Meta\n\n# Meta\u2019s Edits app is getting an AI assistant and a desktop version\n\n10:30 AM PDT \u00b7 June 11, 2026\n\nMeta on Wednesday previewed upcoming additions to its video-editing app Edits at an invite-only creator event in L.A., showing off features like a new AI assistant and a desktop version of the previous"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-12",
+    "topic": "product_releases",
+    "title": "DoorDash rolls out AI ordering tools with Ask DoorDash chatbot",
+    "url": "https://www.cnbc.com/2026/06/11/doordash-ai-ordering-automation.html",
+    "snippet": "DoorDash rolls out AI ordering tools with Ask DoorDash chatbot\n\nKey Points\n\n- DoorDash launched a new chatbot that lets users order food and groceries and make reservations with photos and prompts.\n- It\u2019s a market that\u2019s becoming a major testing ground for agentic AI tools.\n- DoorDash is in the middle of a massive investment cycle that includes revamping its tech platform after a string of acquisi"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-12",
+    "topic": "product_releases",
+    "title": "Xiaomi open-sources MiMo Code AI coding agent, claims it outperforms Claude Code on complex 200-step software tasks",
+    "url": "https://gadgetsnow.indiatimes.com/tech-news/xiaomi-open-sources-mimo-code-ai-coding-agent-claims-it-outperforms-claude-code-on-complex-200-step-software-tasks/articleshow/131677071.cms",
+    "snippet": "# Xiaomi open-sources MiMo Code AI coding agent, claims it outperforms Claude Code on complex 200-step software tasks\n\nPublished: 2026-06-12T12:52:00+05:30\nSource: gadgetsnow.indiatimes.com (gadgetsnow.indiatimes.com)\nLanguage: en\n\n## Story\n\nXiaomi open-sources MiMo Code AI coding agent, claims it outperforms Claude Code on complex 200-step software tasks\n\nEdition\n\nIN\n\nFri, Jun 12, 2026 | Updated "
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-12",
+    "topic": "product_releases",
+    "title": "Sperax Launches SperaxOS: The AI Agent Workspace for DeFi, Seven Years in the Making | Markets Insider",
+    "url": "https://markets.businessinsider.com/news/stocks/sperax-launches-speraxos-the-ai-agent-workspace-for-defi-seven-years-in-the-making-1036244339",
+    "snippet": "Sperax Launches SperaxOS: The AI Agent Workspace for DeFi, Seven Years in the Making | Markets Insider\n\n# Sperax Launches SperaxOS: The AI Agent Workspace for DeFi, Seven Years in the Making\n\nJun. 11, 2026, 06:56 PM\n\nPalo Alto, California, June 11, 2026 (GLOBE NEWSWIRE) -- Sperax, the DeFi protocol founded in late 2019 and creator of USDs, the first auto-yield stablecoin, today announced that Sper"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-12",
+    "topic": "product_releases",
+    "title": "Cresta Launches Conductor, the Agent for AI Agent Development",
+    "url": "https://www.prnewswire.com/news-releases/cresta-launches-conductor-the-agent-for-ai-agent-development-302798058.html",
+    "snippet": "Cresta Launches Conductor, the Agent for AI Agent Development Accessibility Statement Skip Navigation\n\nCresta Conductor enables technical teams to develop conversational AI agents from discovery through post-launch optimization using natural language, so they can ship with confidence.\n\nSUNNYVALE, Calif., June 11, 2026 /PRNewswire/ -- Cresta, the unified customer experience AI platform for human an"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-12",
+    "topic": "x_posts",
+    "title": "Travala Released Travala AI Travel Agent \u2014 TradingView News",
+    "url": "https://www.tradingview.com/news/coindar:cda23a2f6094b:0-travala-released-travala-ai-travel-agent/",
+    "snippet": "Travala Released Travala AI Travel Agent \u2014 TradingView News\n\nSearch\n\nEN\n\nImportant\n\n# Travala Released Travala AI Travel Agent\n\nLess than 1 min read\n\nTravala released the Travala AI Travel Agent on Base. The agent is registered on 8004scan and lets autonomous agents search, book and settle more than 2.2 million hotels globally in a single chat.\n\nRefer to the official tweet by AVA:\n\nTravala\n\n@trava"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-12",
+    "topic": "x_posts",
+    "title": "Fetch.ai to Release Agent Execution Verification on June 12th \u2014 TradingView News",
+    "url": "https://www.tradingview.com/news/coindar:4630cebca094b:0-fetch-ai-to-release-agent-execution-verification-on-june-12th/",
+    "snippet": "Fetch.ai to Release Agent Execution Verification on June 12th \u2014 TradingView News\n\nSearch\n\nEN\n\nImportant\n\n# Fetch.ai to Release Agent Execution Verification on June 12th\n\n1 min read\n\nFetch.ai will release Agent Execution Verification on Product Hunt on June 12th. Fetch.ai describes the tool as a way for developers to independently verify an agent action\u2019s tool, inputs, outputs, timing, status and c"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-12",
+    "topic": "x_posts",
+    "title": "Brian Armstrong hands AI agents the keys to Coinbase",
+    "url": "https://crypto.news/brian-armstrong-hands-ai-agents-the-keys-to-coinbase/",
+    "snippet": "Brian Armstrong hands AI agents the keys to Coinbase\n\nBitcoin (BTC)\n\n$63,765.00 0.99263\n\nEthereum (ETH)\n\n$1,674.90 0.68654\n\nXRP (XRP)\n\n$1.14 2.04239\n\nBNB (BNB)\n\n$607.37 1.13316\n\nSolana (SOL)\n\n$66.91 2.23554\n\nHyperliquid (HYPE)\n\n$59.38 4.65361\n\nCardano (ADA)\n\n$0.171018 3.14553\n\nChainlink (LINK)\n\n$7.90 1.09347\n\nPOL (ex-MATIC) (POL)\n\n$0.074368 1.03246\n\nToncoin (TON)\n\n$1.73 3.64248\n\nAsteroid Shiba (AS"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-12",
+    "topic": "x_posts",
+    "title": "Anthropic's Fable 5 Builds Interactive Riemann Hypothesis Explainer With Zeta Music \u00b7 Digg",
+    "url": "https://digg.com/tech/ccj0oyg2",
+    "snippet": "Anthropic's Fable 5 Builds Interactive Riemann Hypothesis Explainer With Zeta Music \u00b7 Digg\n\n/Tech5h ago\n\n# Anthropic's Fable 5 Builds Interactive Riemann Hypothesis Explainer With Zeta Music\n\n721.2K1121.2K290.4K\n\nOriginal post\n\nI gave @AnthropicAI's new Fable 5 my hardest challenge: explain the Riemann Hypothesis \u2014 math's most famous unsolved problem \u2014 to anyone. Two prompts later: a full interact"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-12",
+    "topic": "x_posts",
+    "title": "Claude Managed Agents adds scheduled deployments and environment variables, pushing AI closer to full autopilot",
+    "url": "https://cryptobriefing.com/claude-managed-agents-scheduled-deployments/",
+    "snippet": "Claude Managed Agents adds scheduled deployments and environment variables, pushing AI closer to full autopilot\n\nSEARCH\n\nSearching...\n\n# Claude Managed Agents adds scheduled deployments and environment variables, pushing AI closer to full autopilot\n\nAnthropic's latest update lets AI agents run on cron schedules and securely store credentials, a meaningful step toward autonomous enterprise workflow"
   }
 ]
