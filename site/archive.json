@@ -6212,5 +6212,151 @@
     "title": "Hugging Face CTO Julien Chaumond claims the field of agentic AI evaluation is massively under-resourced \u00b7 Digg",
     "url": "https://digg.com/tech/0dhz92w3",
     "snippet": "Hugging Face CTO Julien Chaumond claims the field of agentic AI evaluation is massively under-resourced \u00b7 Digg\n\n/Tech14h ago\n\n# Hugging Face CTO Julien Chaumond claims the field of agentic AI evaluation is massively under-resourced\n\n## Story Overview\n\nHugging Face co-founder and CTO Julien Chaumond flagged that testing and benchmarking autonomous AI agents receives far too little funding, tooling,"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-06-13",
+    "headline": "AI agents got wallets this week. Not conceptually. Actually.",
+    "url": "archive/2026-06-13.html",
+    "posts": {
+      "linkedin": [
+        "Three companies shipped the same idea this week. AI agents that spend your money.\n\nCoinbase dropped a product that lets AI models trade your crypto within limits you set. Visa announced it's wiring its payments network into OpenAI platforms so agents can complete purchases. Pine Labs built an AI that buys gold the second it hits your target price.\n\nThese didn't coordinate. They all just got there at the same time.\n\nThat's how inflection points work. They don't announce themselves. A bunch of people build toward the same future independently and then it just... exists.\n\nThe question I keep coming back to: what changes when AI moves from \"tells you what to do\" to \"does the thing\"?\n\nFor small business owners, I think this is the first version of AI they'll actually feel. Not the chat interface. The agent that locked in the price before inventory disappeared. The one that booked the thing while you were sleeping.\n\nThat behavior is live today.\n\nWhat would you hand off first if your agent could spend within rules you set?",
+        "There's a two-call playbook that converts 30-50% of free AI audits into paid clients.\n\nCorey Ganim dropped it this week and I've been thinking about it since.\n\nThe whole framework: find one bottleneck. Prescribe one tool. Upsell the build.\n\nCall one is 15 minutes, pure discovery. You ask five questions. You prescribe nothing. You just listen and name their pain back to them.\n\nBetween calls, you figure out where frequency meets friction. That intersection is the bottleneck worth fixing.\n\nCall two, you bring three things. The tool name. The cost. The first step they can take this week if they want to go it alone.\n\nThen you ask the money question: \"Do you want me to hand this off, build it with you, or build it for you?\"\n\nThat's it. That's the whole model.\n\nThe reason it works: you deliver value for free first. Trust goes up. Paid work follows.\n\nWhat are you already doing for yourself or your business that someone else would find useful? Because someone would pay for that 15-minute conversation if it found the one thing dragging their operation down.",
+        "The document isn't the right container for most knowledge work. Never really was.\n\nOpenAI shipped a feature in Codex this week that lets you publish what you're building as a live website in one step. No Vercel, no database, no wiring anything together.\n\nIt feels like a small release. It's not.\n\nThe bigger idea: a URL is a better artifact than a PDF for almost everything knowledge workers actually ship. Proposals. Strategy memos. Onboarding guides. Training materials. The document format was a constraint we inherited, not a choice we made.\n\nPDFs go stale the second you send them. Links stay current. Docs force a linear path. Sites let different readers jump to the part that matters to them. And when you update the site, everyone who has the link gets the update automatically.\n\nWe were stuck on documents because websites used to require a whole team. AI erased that cost.\n\nSo the honest question now: what are you still packaging as a static file that would actually work better as a living link?\n\nI don't have a clean answer yet for everything I ship. But I'm rethinking a few things."
+      ],
+      "threads": [
+        "Three separate companies shipped AI agents that spend real money this week. Coinbase for crypto. Visa for purchases through OpenAI. Pine Labs for price-triggered commodity buys. Nobody coordinated. They all just got there at the same time.\n\nAI stopped advising and started transacting. That's a different category of thing. Most people are still thinking about AI as a chat interface. The behavior that's actually going live is something else.",
+        "The move that converts 30-50% of free AI audits into paid clients is one question. \"Do you want me to hand this off, build it with you, or build it for you?\"\n\nYou deliver the fix for free first. Trust goes up. Then you ask. No pitch, no pressure.\n\nCorey Ganim put the whole playbook out this week. Find one bottleneck where high frequency meets high friction, prescribe one tool, and ask that question. That's the whole model.",
+        "Google just dropped an experimental text model that generates like an image model. Starts with noise, refines a whole block at once instead of predicting one word at a time. Up to 4x faster on GPU.\n\nIt's not production-ready. That's not the point.\n\nThe point is Google proved they're not locked into how text generation currently works. Married to an idea is a great way to get forgotten. Keep watching this one."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-06-13",
+    "source": "Corey Ganim",
+    "title": "How I make f*ck you money giving boomer businesses free AI audits",
+    "url": "https://www.youtube.com/watch?v=n6T1kGXBLqA",
+    "video_id": "n6T1kGXBLqA"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-06-13",
+    "source": "AI Daily Brief",
+    "title": "10 Sites Knowledge Workers Should Build with AI",
+    "url": "https://www.youtube.com/watch?v=45UGHbqq2fQ",
+    "video_id": "45UGHbqq2fQ"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-13",
+    "topic": "model_releases",
+    "title": "World's first general-purpose world foundation model unveiled in Beijing",
+    "url": "https://www.bastillepost.com/global/article/5931591-worlds-first-general-purpose-world-foundation-model-unveiled-in-beijing",
+    "snippet": "# World's first general-purpose world foundation model unveiled in Beijing\n\nPublished: 2026-06-13T17:24:00+08:00\nSource: bastillepost.com (bastillepost.com)\nLanguage: en\n\n## Story\n\nWorld's first general-purpose world foundation model unveiled in Beijing Skip to Content\n\n# World's first general-purpose world foundation model unveiled in Beijing\n\nChina\n\nChina\n\n## World's first general-purpose world "
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-13",
+    "topic": "model_releases",
+    "title": "Deploy Long-Context Reasoning and Agentic Workflows with MiniMax M3 on NVIDIA Accelerated Infrastructure | NVIDIA Technical Blog",
+    "url": "https://developer.nvidia.com/blog/deploy-long-context-reasoning-and-agentic-workflows-with-minimax-m3-on-nvidia-accelerated-infrastructure/",
+    "snippet": "# Deploy Long-Context Reasoning and Agentic Workflows with MiniMax M3 on NVIDIA Accelerated Infrastructure | NVIDIA Technical Blog\n\nAuthor: Anu Srivastava\nPublished: 2026-06-12T14:43:17+00:00\nSource: developer.nvidia.com (developer.nvidia.com)\nLanguage: en\n\n## Story\n\n# Deploy Long-Context Reasoning and Agentic Workflows with MiniMax M3 on NVIDIA Accelerated Infrastructure\n\nPublished: 2026-06-12\nAu"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-13",
+    "topic": "model_releases",
+    "title": "Kimi AI releases open-source K2.7 Code model with 1 trillion parameters on APIs and Hugging Face",
+    "url": "https://cryptobriefing.com/kimi-k2-7-code-open-source-release/",
+    "snippet": "Kimi AI releases open-source K2.7 Code model with 1 trillion parameters on APIs and Hugging Face\n\nSEARCH\n\nSearching...\n\n# Kimi AI releases open-source K2.7 Code model with 1 trillion parameters on APIs and Hugging Face\n\nMoonshot AI's latest coding model slashes reasoning token usage by 30% while posting double-digit benchmark gains over its predecessor\n\nShare\n\nthis.removeAttribute('data-copied'), "
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-13",
+    "topic": "model_releases",
+    "title": "Zyphra Release Zamba2-VL: Hybrid Mamba2\u2013Transformer Vision-Language Models That Cut Time-to-First-Token by About an Order of Magnitude - MarkTechPost",
+    "url": "https://www.marktechpost.com/2026/06/12/zyphra-release-zamba2-vl-hybrid-mamba2-transformer-vision-language-models-that-cut-time-to-first-token-by-about-an-order-of-magnitude/",
+    "snippet": "Zyphra Release Zamba2-VL: Hybrid Mamba2\u2013Transformer Vision-Language Models That Cut Time-to-First-Token by About an Order of Magnitude - MarkTechPost\n\nSearch\n\nPremium Content\n\nRead our exclusive articles\n\nFacebook\n\nInstagram\n\nX\n\nSearch\n\nHome Technology AI Shorts Zyphra Release Zamba2-VL: Hybrid Mamba2\u2013Transformer Vision-Language Models That Cut Time-to-First-Token by About...\n\nZyphra has released "
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-13",
+    "topic": "model_releases",
+    "title": "DiffusionGemma: Google Brings Diffusion Models into Text Generation",
+    "url": "https://knightli.com/en/2026/06/12/diffusiongemma-text-diffusion-model/",
+    "snippet": "DiffusionGemma: Google Brings Diffusion Models into Text Generation\n\nGoogle DeepMind has released`DiffusionGemma`, an experimental new branch in the Gemma family. It does not keep pushing along the traditional autoregressive path of predicting one token at a time. Instead, it brings the idea of diffusion models into text generation: first create a noisy text canvas, then gradually refine the whole"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-13",
+    "topic": "product_releases",
+    "title": "Introducing Browserless Agent: The Fastest Browser Agent",
+    "url": "https://www.browserless.io/blog/introducing-browserless-agent",
+    "snippet": "Introducing Browserless Agent: The Fastest Browser Agent\n\nPlatform\n\nOverviewThe platform at a glance Browsers as a ServiceManaged headless browsers at scale APIsBrowser tasks over simple HTTP MCP ServerBrowser automation over MCP Self-HostedRun on your own infrastructure\n\nSolutions\n\nFor Web ScrapingExtract data without getting blocked For AutomationAutomate any browser workflow For TestingHeadless"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-13",
+    "topic": "product_releases",
+    "title": "Google AI Mode rolls out Search agents that track the web for you in real time | Technology News - The Indian Express",
+    "url": "https://indianexpress.com/article/technology/tech-news-technology/google-ai-mode-rolls-out-search-agents-that-track-the-web-for-you-in-real-time-10737846/",
+    "snippet": "# Google AI Mode rolls out Search agents that track the web for you in real time | Technology News - The Indian Express\n\nPublished: 2026-06-13T15:05:55+05:30\nSource: indianexpress.com (indianexpress.com)\nLanguage: en\n\n## Story\n\nGoogle AI Mode rolls out Search agents that track the web for you in real time | Technology News - The Indian Express\n\nskip to content\n\n# Google AI Mode rolls out Search ag"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-13",
+    "topic": "product_releases",
+    "title": "Rebel Audio Launches Public Beta, Inviting Creators Everywhere to Build the Future of Podcasting",
+    "url": "https://www.prnewswire.com/news-releases/rebel-audio-launches-public-beta-inviting-creators-everywhere-to-build-the-future-of-podcasting-302798949.html",
+    "snippet": "Rebel Audio Launches Public Beta, Inviting Creators Everywhere to Build the Future of Podcasting Accessibility Statement Skip Navigation\n\nThe End-to-End AI Podcast Platform Launches Public Beta With Original Series \"REBELS,\" Showcasing Global Translation Feature for All Shows: Creators Can Now Distribute Podcasts in 30+ Languages With a Single Click\n\nRebel Audio & Chief Creator in Residence Mike \""
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-13",
+    "topic": "product_releases",
+    "title": "Pine Labs launches MPIN-free P3P AI agent for UPI payments",
+    "url": "https://www.newsbytesapp.com/news/science/pine-labs-launches-mpin-free-p3p-ai-agent-for-upi-payments/tldr",
+    "snippet": "Pine Labs launches MPIN-free P3P AI agent for UPI payments {ced(ce('ie-0'))});}\"/>\n\nLOADING...\n\nP3P uses one-time mandates and Reserve Pay\n\n# Pine Labs launches MPIN-free P3P AI agent for UPI payments\n\nTechnology Jun 12, 2026\n\nPine Labs just launched P3P, an AI-powered UPI payment agent that handles payments for you (no MPIN is needed). You set your own rules (like \"Buy \u20b9500 worth of gold if the p"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-13",
+    "topic": "product_releases",
+    "title": "Moonshot AI Launches Kimi Work, a Local Desktop Agent Reportedly Running on Kimi K2.6 With a 300-Sub-Agent Agent Swarm - MarkTechPost",
+    "url": "https://www.marktechpost.com/2026/06/12/moonshot-ai-launches-kimi-work-a-local-desktop-agent-reportedly-running-on-kimi-k2-6-with-a-300-sub-agent-agent-swarm/",
+    "snippet": "Moonshot AI Launches Kimi Work, a Local Desktop Agent Reportedly Running on Kimi K2.6 With a 300-Sub-Agent Agent Swarm - MarkTechPost\n\nSearch\n\nPremium Content\n\nRead our exclusive articles\n\nFacebook\n\nInstagram\n\nX\n\nSearch\n\nHome Editors Pick Agentic AI Moonshot AI Launches Kimi Work, a Local Desktop Agent Reportedly Running on...\n\nMoonshot AI has introduced Kimi Work, an AI agent that runs on your ow"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-13",
+    "topic": "x_posts",
+    "title": "This New Coinbase Feature Lets AI Agents Trade Crypto for You | Live Bitcoin News",
+    "url": "https://www.livebitcoinnews.com/this-new-coinbase-feature-lets-ai-agents-trade-crypto-for-you/",
+    "snippet": "This New Coinbase Feature Lets AI Agents Trade Crypto for You | Live Bitcoin News\n\n# This New Coinbase Feature Lets AI Agents Trade Crypto for You\n\nBy Samuel \u2014 June 12, 2026\n\nCoinbase for Agents lets AI models trade, rebalance, and manage your crypto portfolio within limits you set. Here\u2019s what to know.\n\nCoinbase has launched a new product that lets AI agents trade cryptocurrency directly on user "
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-13",
+    "topic": "x_posts",
+    "title": "Elon Musk Praises Grok\u2019s Unfiltered Response as \u2018Based\u2019 in Viral Exchange \u2013 WordUp News",
+    "url": "https://wordupnews.com/business/elon-musk-praises-groks-unfiltered-response-as-based-in-viral-exchange/",
+    "snippet": "Elon Musk Praises Grok\u2019s Unfiltered Response as \u2018Based\u2019 in Viral Exchange \u2013 WordUp News\n\nConnect with us\n\nDAPA Banner\n\nDAPA\n\nCOIN PAYMENT ASSET\n\nPRIVACY \u00b7 BLOCKDAG \u00b7 HOMOMORPHIC ENCRYPTION \u00b7 RUST\n\n\ud83d\udeab GENESIS SOLD OUT\n\nDAPAPAY COMING \u203a\n\n\u25b3 MINE DAPA NOWCPU \u00b7 NO FEES \u00b7 60s SETUP\u203a\n\nNEW YORK \u2014 Elon Musk highlighted a Grok response as \u201cBased Grok\u201d in a widely shared post on X, laughing at the AI model\u2019s "
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-13",
+    "topic": "x_posts",
+    "title": "AI Bro Convinced He Can Vibe Code GTA 6 Before the Real One Comes Out",
+    "url": "https://futurism.com/artificial-intelligence/ai-bro-vibe-code-gta-6",
+    "snippet": "# AI Bro Convinced He Can Vibe Code GTA 6 Before the Real One Comes Out\n\nAuthor: Frank Landymore\nPublished: 2026-06-12T13:09:23-04:00\nSource: futurism.com (futurism.com)\nLanguage: en\n\n## Story\n\nAI Bro Convinced He Can Vibe Code GTA 6 Before the Real One Comes Out\n\nIllustration by Futurism. Source: @ziwenxu_ via X\n\n## Sign up to see the future, today\n\nCan\u2019t-miss innovations from the bleeding edge o"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-13",
+    "topic": "x_posts",
+    "title": "OpenAI works with Visa on agentic AI payment capabilities - National Technology",
+    "url": "https://nationaltechnology.co.uk/OpenAI_Works_With_Visa_On_Agentic_AI_Payment_Capabilities.php",
+    "snippet": "OpenAI works with Visa on agentic AI payment capabilities - National Technology\n\n#### Latest News\n\n## OpenAI works with Visa on agentic AI payment capabilities\n\n12/06/2026\n\nVisa has announced a partnership with OpenAI aimed at bringing secure payment capabilities to agentic AI payments. The collaboration will see Visa's payments infrastructure integrated into OpenAI platforms, enabling AI agents t"
   }
 ]
