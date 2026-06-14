@@ -6358,5 +6358,103 @@
     "title": "OpenAI works with Visa on agentic AI payment capabilities - National Technology",
     "url": "https://nationaltechnology.co.uk/OpenAI_Works_With_Visa_On_Agentic_AI_Payment_Capabilities.php",
     "snippet": "OpenAI works with Visa on agentic AI payment capabilities - National Technology\n\n#### Latest News\n\n## OpenAI works with Visa on agentic AI payment capabilities\n\n12/06/2026\n\nVisa has announced a partnership with OpenAI aimed at bringing secure payment capabilities to agentic AI payments. The collaboration will see Visa's payments infrastructure integrated into OpenAI platforms, enabling AI agents t"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-06-14",
+    "headline": "The US government shut down Fable 5 Friday at 5:21 PM.",
+    "url": "archive/2026-06-14.html",
+    "posts": {
+      "linkedin": [
+        "Friday 5:21 PM.\nUS government sends Anthropic a letter.\nBy Friday night, Fable 5 is offline.\nThe most powerful model on the planet.\n\nHere's the part that sits with me: everyone's been building on someone else's servers. Workflows, products, entire business logic running on cloud models. One letter and it evaporates.\n\nGreg Isenberg had his whole weekend planned around building with Fable 5. Instead, he spent it learning why owning a layer of your stack isn't optional anymore.\n\nLocal models run on your machine. They're slower sometimes. They're not as smart sometimes. But they work when the cloud doesn't. They work when a government letter lands. They work offline, on planes, in bunkers.\n\nThe lesson isn't that cloud is bad. Cloud is still the smartest tool available.\n\nThe lesson is don't build your entire life on something you can't control.\n\nSo now the question is: what layer of your stack do you own?",
+        "Wall Street lost its mind over a chart this week.\nLooks like token demand is collapsing.\nLooks like the AI bubble is finally popping.\n\nExcept that's not what's happening.\n\nWhat's actually happening is smarter.\n\nCompanies spent Q1 burning tokens like they were free. Walmart capped internal AI usage because demand exceeded budget. Uber blew through its quarterly token budget in four months.\n\nQ2 they learned.\n\nThey learned to route queries to smaller models when they could. They learned to cache. They learned when you actually need the big brain versus when a smaller one works fine.\n\nDemand didn't die.\nRouting got intelligent.\n\nThis is the shift from \"throw compute at it\" to \"be smart about where compute lives.\" And it changes how you build.\n\nThe era of \"just make it run\" is ending.\nThe era of \"make it run efficient\" is here.\n\nThat's not a bubble pop.\nThat's growth up.",
+        "Databricks just released Omnigent.\n\nIt's a meta-harness. Sits one level above every harness (Claude Code, Codex, Pi, your custom agents). Treats each one as a swappable part.\n\nMost engineers have four or five agents open right now. You're copy-pasting between them. Coding agent to search tool to Docs to Slack. Each harness only talks to itself.\n\nOmnigent adds a layer where composition lives.\n\nYou build a team of agents. Mix harnesses. Control them with policies instead of prompts. Share live sessions instead of copy-pasting.\n\nHere's what matters about this: the abstraction level jumped.\n\nLast year the move was \"which model should I use?\"\nThis year the move is \"which harness should I use?\"\nNext year the move is \"which team of harnesses should I orchestrate?\"\n\nThe people who get ahead aren't the ones picking the smartest single model.\n\nThey're the ones building the smartest composition.\n\nThat's a different skill."
+      ],
+      "threads": [
+        "Your entire weekend was planned around Fable 5. Friday 5:21 PM: government letter. By Friday night: offline. Now here's the thing. The model didn't become stupid. The infrastructure you built on just evaporated. So Greg Isenberg spent the weekend learning local AI instead. Because owning a layer beats renting everything.",
+        "Everyone on Twitter this week: \"Look at this chart. Demand is collapsing.\" Actually look at what happened. Walmart capped AI usage. Uber blew the quarterly token budget. Companies learned to route smarter. That's it. Demand didn't die. Routing got intelligent. That's not a crash. That's growth up.",
+        "Everyone's fixated on whether AI is a bubble. But Greg Isenberg's real weekend lesson wasn't about models. It was: what layer of your stack do you actually own? Because if a government letter kills it all, you're not building. You're renting with extra steps."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-06-14",
+    "source": "Startup Ideas Podcast",
+    "title": "Claude Fable 5 is BANNED. What to do?",
+    "url": "https://www.youtube.com/watch?v=bdhUBBACglw",
+    "video_id": "bdhUBBACglw"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-06-14",
+    "source": "AI Daily Brief",
+    "title": "Fable 5 Shut Down by US Government",
+    "url": "https://www.youtube.com/watch?v=5-CGzLrA4fg",
+    "video_id": "5-CGzLrA4fg"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-06-14",
+    "source": "AI Daily Brief",
+    "title": "The AI Chart Everyone Is Getting Wrong",
+    "url": "https://www.youtube.com/watch?v=05VE_9rI954",
+    "video_id": "05VE_9rI954"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-14",
+    "topic": "model_releases",
+    "title": "Rio de Janeiro's municipal IT company releases Rio 3.5 Open 397B, an open-weights LLM that beats Qwen 3.7 Plus on Terminal 2.1",
+    "url": "https://digg.com/tech/dw9lu6zi",
+    "snippet": "# Rio de Janeiro's municipal IT company releases Rio 3.5 Open 397B, an open-weights LLM that beats Qwen 3.7 Plus on Terminal 2.1\n\nPublished: 2026-06-13T20:58:03+00:00\nSource: digg.com (digg.com)\nLanguage: en\n\n## Story\n\n/Tech12h ago\n\n# Rio de Janeiro's municipal IT company releases Rio 3.5 Open 397B, an open-weights LLM that beats Qwen 3.7 Plus on Terminal 2.1\n\n## Story Overview\n\nIplanRIO, Rio de J"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-14",
+    "topic": "model_releases",
+    "title": "The fable of Fable: How Amazon's intervention turned Anthropic's AI dream into a White House showdown",
+    "url": "https://www.moneycontrol.com/news/business/the-fable-of-fable-how-amazon-s-intervention-turned-anthropic-s-ai-dream-into-a-white-house-showdown-13949054.html",
+    "snippet": "# The fable of Fable: How Amazon's intervention turned Anthropic's AI dream into a White House showdown\n\nPublished: 2026-06-14T13:57:43+05:30\nSource: moneycontrol.com (moneycontrol.com)\nLanguage: en\n\n## Story\n\nThe fable of Fable: How Amazon's intervention turned Anthropic's AI dream into a White House showdown\n\nTrending Topics\n\n# The fable of Fable: How Amazon's intervention turned Anthropic's AI "
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-14",
+    "topic": "model_releases",
+    "title": "Introducing Omnigent: A Meta-Harness to Combine, Control and Share Your Agents | Databricks Blog",
+    "url": "https://www.databricks.com/blog/introducing-omnigent-meta-harness-combine-control-and-share-your-agents",
+    "snippet": "# Introducing Omnigent: A Meta-Harness to Combine, Control and Share Your Agents | Databricks Blog\n\nPublished: 2026-06-13T15:00:00+00:00\nSource: databricks.com (databricks.com)\nLanguage: en\n\n## Story\n\nIntroducing Omnigent: A Meta-Harness to Combine, Control and Share Your Agents | Databricks Blog\n\nSummary\n\n- Agent harnesses made models swappable. We believe the next layer of abstraction is the met"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-14",
+    "topic": "model_releases",
+    "title": "The 2026 Vulnerability Forecast Update: Navigating the AI Epoch",
+    "url": "https://www.first.org/blog/20260615-vulnerability-forecast-update",
+    "snippet": "The 2026 Vulnerability Forecast Update: Navigating the AI Epoch\n\n# The 2026 Vulnerability Forecast Update: Navigating the AI Epoch\n\nBy FIRST Forecasting team: Jerry Gamblin and Eireann Leverett Monday, June 15, 2026\n\n## Introduction: A Structural Shift in the Vulnerability Landscape\n\nThe cumulative drift is currently +46.3% above the original forecast (an excess of 6,420 CVEs), leading to a revise"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-14",
+    "topic": "product_releases",
+    "title": "Databricks Open-Sources Omnigent: A Meta-Harness That Composes, Governs, and Shares AI Agents Across Claude Code, Codex, and Pi - MarkTechPost",
+    "url": "https://www.marktechpost.com/2026/06/13/databricks-open-sources-omnigent-a-meta-harness-that-composes-governs-and-shares-ai-agents-across-claude-code-codex-and-pi/",
+    "snippet": "# Databricks Open-Sources Omnigent: A Meta-Harness That Composes, Governs, and Shares AI Agents Across Claude Code, Codex, and Pi - MarkTechPost\n\nAuthor: Asif Razzaq\nPublished: 2026-06-14T05:01:39+00:00\nSource: marktechpost.com (marktechpost.com)\nLanguage: en\n\n## Story\n\nDatabricks Open-Sources Omnigent: A Meta-Harness That Composes, Governs, and Shares AI Agents Across Claude Code, Codex, and Pi -"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-14",
+    "topic": "product_releases",
+    "title": "Kakunin Announces Cryptographic Compliance Shield for Google Gemini and OpenAI Agent Ecosystems",
+    "url": "https://www.prweb.com/releases/kakunin-announces-cryptographic-compliance-shield-for-google-gemini-and-openai-agent-ecosystems-302798798.html",
+    "snippet": "# Kakunin Announces Cryptographic Compliance Shield for Google Gemini and OpenAI Agent Ecosystems\n\nAuthor: Kakunin\nPublished: 2026-06-14T04:37:00+01:00\nSource: prweb.com (prweb.com)\nLanguage: en\n\n## Story\n\nKakunin Announces Cryptographic Compliance Shield for Google Gemini and OpenAI Agent Ecosystems Accessibility Statement Skip Navigation\n\nSaaS Compliance Leader Launches First-Class SDK Integrati"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-14",
+    "topic": "product_releases",
+    "title": "FOREO Launches LUNA fofo - The World\u2019s Smart Little Beauty Coach | FOREO",
+    "url": "https://www.foreo.com/mysa/foreo-launches-luna-fofo",
+    "snippet": "FOREO Launches LUNA fofo - The World\u2019s Smart Little Beauty Coach | FOREO\n\n2 min read\n\n# FOREO Launches LUNA fofo - The World\u2019s Smart Little Beauty Coach\n\n2018-09-03 | Updated on: 2025-01-08\n\nAI-Powered Beauty Gadget Makes One Giant Leap for Personalized Skincare\n\nSwedish beauty tech brand FOREO unveiled the world\u2019s smartest and smallest beauty coach in the form of the AI-enabled smart facial clean"
   }
 ]
