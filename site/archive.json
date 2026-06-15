@@ -6456,5 +6456,79 @@
     "title": "FOREO Launches LUNA fofo - The World\u2019s Smart Little Beauty Coach | FOREO",
     "url": "https://www.foreo.com/mysa/foreo-launches-luna-fofo",
     "snippet": "FOREO Launches LUNA fofo - The World\u2019s Smart Little Beauty Coach | FOREO\n\n2 min read\n\n# FOREO Launches LUNA fofo - The World\u2019s Smart Little Beauty Coach\n\n2018-09-03 | Updated on: 2025-01-08\n\nAI-Powered Beauty Gadget Makes One Giant Leap for Personalized Skincare\n\nSwedish beauty tech brand FOREO unveiled the world\u2019s smartest and smallest beauty coach in the form of the AI-enabled smart facial clean"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-06-15",
+    "headline": "Gokul Rajaram launched Coach today. It's an AI reviewer for product strategy docs.",
+    "url": "archive/2026-06-15.html",
+    "posts": {
+      "linkedin": [
+        "AI made it trivially easy to ship products. The harder question now is knowing what to ship.\n\nThat's from Gokul Rajaram's launch post for Coach today. He built an AI reviewer for product docs because everyone in the org is building now. Engineers. Designers. Finance folks. Marketers. All moving at AI speed.\n\nTen people building in ten different directions at AI speed is a worse outcome than one person shipping the right thing slowly.\n\nCoach is the tool he built to close that gap. You paste your PRD or strategy doc. It reads it the way a skeptical head of product would. Asks if the problem statement is actually a problem. Checks if your metrics measure outcomes or just activity. Flags the places where your roadmap is fiction.\n\nThe tool is useful. The idea underneath it is more useful.\n\nWe hit the part of the AI curve where taste and judgment are the moat. Speed was last year's answer.\n\nWhat does that shift actually change for your team?",
+        "Everyone's having the wrong conversation about AI models.\n\n\"Which model should I use?\" is a 2024 question.\n\nThe 2026 question is: which model should handle which task?\n\nKimchi Coding became the first coding agent today to offer MiniMax M3, an open-weight model that performs at frontier level for a fraction of the cost. Interesting on its own. But the bigger story is what it signals.\n\nThe Wall Street Journal reported this month that enterprises are routing AI work across model mixes. Simple tasks go to cheaper open-weight models. The hard stuff gets the powerful commercial model. Cost drops. Performance holds.\n\nThat's not an enterprise-only play. It's available to anyone running AI in their business right now.\n\nIf you're treating AI like one tool for everything, you're overpaying for easy tasks and probably underpowered on the ones that actually matter.\n\nThe routing mindset fixes both.",
+        "Carson and Jackson did $532,000 in one month flipping land they never owned.\n\nHeard them on The Koerner Office today. The whole model: get the builder's buy box first. Know exactly what the buyer needs, what they'll pay, what geography, what lot size. Then go find landowners willing to sell for less and keep the spread.\n\nNo license. No degree. No capital to start.\n\nThey said if they lost everything tomorrow, they'd walk into a library, open Zillow, and be back at $20k a month within 30 days.\n\nThat level of confidence comes from one thing. A repeatable model that doesn't depend on any single tool or platform.\n\nIf it's repeatable, it's a skill. And if it's a skill, you can build on it.\n\nMost people build the offer first and then try to find someone who wants it. Find the buyer's requirements first. The supply becomes obvious.\n\nWhat are you already doing backwards?"
+      ],
+      "threads": [
+        "AI made shipping easy. It didn't make knowing what to ship any easier.\n\nGokul Rajaram just launched Coach, an AI that reads your product docs like a skeptical senior PM. Asks if your problem is actually a problem. Calls out roadmaps that are fiction past 8 weeks.\n\nThe tool is solid. The idea behind it is what I keep sitting with. Taste and judgment are the new bottleneck.",
+        "Stop picking one AI model and committing to it like it's a marriage.\n\nThe move is routing. Use cheaper open-weight models for simple tasks. Save the powerful commercial models for when you actually need them.\n\nKimchi Coding just became the first coding agent to offer MiniMax M3 for exactly this reason. Enterprises figured this out. The rest of us are next.",
+        "Carson and Jackson did $532k in one month flipping land they never owned.\n\nThe whole model: find the buyer's requirements first, then go find supply that matches it. Keep the spread.\n\nMost people build the thing first and hope someone wants it.\n\nFlip the order. The supply becomes obvious when you already know what the buyer needs."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-06-15",
+    "source": "The Koerner Office",
+    "title": "The Most Profitable Side Hustle to Start With No Money",
+    "url": "https://www.youtube.com/watch?v=_1DziIwKyGk",
+    "video_id": "_1DziIwKyGk"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-15",
+    "topic": "model_releases",
+    "title": "Cast AI's Kimchi Coding Becomes the First Autonomous Coding Agent to Offer MiniMax M3, Delivering Frontier Open-Weight Performance at a Fraction of the Cost - Cast AI",
+    "url": "https://cast.ai/press-release/minimax-m3-comes-to-kimchi-coding/",
+    "snippet": "# Cast AI's Kimchi Coding Becomes the First Autonomous Coding Agent to Offer MiniMax M3, Delivering Frontier Open-Weight Performance at a Fraction of the Cost - Cast AI\n\nPublished: 2026-06-15T11:41:07.501471+00:00\nSource: cast.ai (cast.ai)\n\n## Story\n\nCast AI's Kimchi Coding Becomes the First Autonomous Coding Agent to Offer MiniMax M3, Delivering Frontier Open-Weight Performance at a Fraction of t"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-15",
+    "topic": "model_releases",
+    "title": "ACE ROBOTICS' Kairos World Model Leads Multiple Global Embodied-Intelligence Benchmarks | Media OutReach Newswire APAC",
+    "url": "https://www.media-outreach.com/news/china/2026/06/15/470577/ace-robotics-kairos-world-model-leads-multiple-global-embodied-intelligence-benchmarks/",
+    "snippet": "# ACE ROBOTICS' Kairos World Model Leads Multiple Global Embodied-Intelligence Benchmarks | Media OutReach Newswire APAC\n\nPublished: 2026-06-15T00:00:00\nSource: media-outreach.com (media-outreach.com)\nLanguage: en\n\n## Story\n\nACE ROBOTICS' Kairos World Model Leads Multiple Global Embodied-Intelligence Benchmarks | Media OutReach Newswire APAC\n\n---\n\n---\n\nSHANGHAI, CHINA - Media OutReach Newswire- 15"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-15",
+    "topic": "model_releases",
+    "title": "Cast AI's Kimchi Coding Becomes the First Autonomous Coding Agent to Offer MiniMax M3, Delivering Frontier Open-Weight Performance at a Fraction of the Cost - Cast AI",
+    "url": "https://cast.ai/press-release/minimax-m3-comes-to-kimchi/",
+    "snippet": "# Cast AI's Kimchi Coding Becomes the First Autonomous Coding Agent to Offer MiniMax M3, Delivering Frontier Open-Weight Performance at a Fraction of the Cost - Cast AI\n\nPublished: 2026-06-15T11:33:07.559111+00:00\nSource: cast.ai (cast.ai)\n\n## Story\n\nCast AI's Kimchi Coding Becomes the First Autonomous Coding Agent to Offer MiniMax M3, Delivering Frontier Open-Weight Performance at a Fraction of t"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-15",
+    "topic": "model_releases",
+    "title": "Apple Foundation Models | Hacker News",
+    "url": "https://news.ycombinator.com/item?id=48536776",
+    "snippet": "Apple Foundation Models | Hacker News\n\nWhile I'm happy with Apple introducing this abstraction. my main concern was with local models.\n\nI'd love using Gemma4 as an example. but thinking of a user. if 10 Apps each uses same model and downloads it, the phone will be bloated.\n\nI still didn't understand if Apple provided a way for multiple apps uses same on-device model (without tricky namespaces and "
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-15",
+    "topic": "product_releases",
+    "title": "Coach Launches As AI Reviewer For Product Strategy Documents",
+    "url": "https://digg.com/tech/uiad5x0c",
+    "snippet": "# Coach Launches As AI Reviewer For Product Strategy Documents\n\nPublished: 2026-06-15T00:43:41+00:00\nSource: digg.com (digg.com)\nLanguage: en\n\n## Story\n\n/Tech1h ago\n\n# Coach Launches As AI Reviewer For Product Strategy Documents\n\n5343524.7K\n\nOriginal post\n\nGokul Rajaram@gokulr#1176in Tech\n\nCOACH LAUNCH\n\nExcited to announce Coach, an opinionated reviewer for product documents. (Link in comments)\n\nA"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-15",
+    "topic": "product_releases",
+    "title": "\u200ePippit: AI Video & Image Maker App - App Store",
+    "url": "https://apps.apple.com/la/app/pippit-ai-video-image-maker/id6756709583",
+    "snippet": "\u200ePippit: AI Video & Image Maker App - App Store\n\n# Pippit: AI Video & Image Maker\n\nThe Simplest Creative Agent\n\nOnly for iPhone\n\nFree \u00b7 In-App Purchases \u00b7 Designed for iPhone. Not verified for macOS.\n\nShare\n\niPhone\n\nTurn your ideas into stunning videos and images in seconds. Pippit is your personal AI creative agent, making professional-level content creation astonishingly simple. Just describe wh"
   }
 ]
