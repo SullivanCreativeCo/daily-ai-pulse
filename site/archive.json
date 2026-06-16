@@ -6530,5 +6530,127 @@
     "title": "\u200ePippit: AI Video & Image Maker App - App Store",
     "url": "https://apps.apple.com/la/app/pippit-ai-video-image-maker/id6756709583",
     "snippet": "\u200ePippit: AI Video & Image Maker App - App Store\n\n# Pippit: AI Video & Image Maker\n\nThe Simplest Creative Agent\n\nOnly for iPhone\n\nFree \u00b7 In-App Purchases \u00b7 Designed for iPhone. Not verified for macOS.\n\nShare\n\niPhone\n\nTurn your ideas into stunning videos and images in seconds. Pippit is your personal AI creative agent, making professional-level content creation astonishingly simple. Just describe wh"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-06-16",
+    "headline": "A 19-year-old ex-cashier just proved the app-building moment is real. George Lampropoulos went from TJ Maxx to $200K in revenue (and climbing) building AI-powered apps. It's not magic. It's a repeatable playbook: simple idea, one killer feature, Instagram funnel, influencer outreach. The interesting part? It's not about AI being smart. It's about an idea mattering enough that people actually want to share it.",
+    "url": "archive/2026-06-16.html",
+    "posts": {
+      "linkedin": [
+        "The gotcha feature is the whole product.\n\nGeorge Lampropoulos is 19 and just hit $200K in revenue building apps with AI. I watched his interview with Greg Isenberg and the insight stuck.\n\nHe spends 90% of his engineering time on one thing: the moment that explains the entire app in five seconds.\n\nWrestleAI? Throw your wrestling match, get feedback. Done. Cal AI? Take a photo, get calories. That's it.\n\nThe reverse-engineer is the move here. Find the viral moment first. The one that makes someone stop scrolling. Then build the product around that moment.\n\nMost builders do it backwards. Build the app, then figure out how to market it. George says: the gotcha moment is the market signal. If you can't explain the whole thing in five seconds, it's not a finished idea yet.\n\nThat's the product work. Everything else is distribution.",
+        "Every business runs on the same five pillars.\n\nI heard this from Corey Ganim today and it reframes how you sell AI to skeptics. The objection is always \"my business is too specialized for AI.\" It's the objection that feels true.\n\nIt's not.\n\nCorey breaks it down: sales, marketing, finance, operations, intelligence. Every business you'll ever touch runs those five systems.\n\nThe move is to map your workflows through those pillars. Not a generic template. But a first-principles framework that works for anyone.\n\nThat's how you kill the \"too specialized\" objection. Not by arguing. By showing.\n\nThe secondary move is positioning. You're not replacing people. You're automating tasks so people do the work they were hired for. That's the message that closes deals.\n\nFind where you can automate a task in one of those five pillars. That's your entry point.",
+        "Brad Liber has built 200+ custom homes and refused to build the same one twice.\n\nPeople told him to scale. Replicate the best design. Stamp it across multiple lots. Make it predictable.\n\nHe turned that down every time.\n\nHis reasoning: a home that doesn't fit its land announces itself as a copy. That's not a Caliber home.\n\nTwenty years later, people see a house in Denver and say \"that's a Caliber home.\" They mean it as a standard.\n\nThat's what happens when you refuse to template.\n\nThe brand didn't come from marketing spend. It came from consistent refusal to compromise. From saying no to scale. From letting reputation compound slowly.\n\nThis applies to anything you're building. If you stop chasing everyone and keep the standard high, the right people find you.\n\nThat's harder than going viral. But it lasts longer."
+      ],
+      "threads": [
+        "The frame George uses is simple: $10K a month is $333 a day. Not overwhelming. Just a number.\n\nThen he breaks it down: simple idea you care about, one feature that sells itself, Instagram page that doubles as a funnel and credibility signal, influencer outreach, paid ads as a testing problem.\n\nThat's it. That's the whole model.\n\nDo more with the same, not the same with less.",
+        "Enterprise is shipping agents now but nobody knows how to run them.\n\nKolibri says they end pilot purgatory. Dataiku says they close the build-govern gap. Ceros says they add the trust layer nobody had.\n\nThe signal: the gap between experimentation and deployment is the real problem.\n\nNot the AI. The operations.",
+        "A client told Brad Liber she thought he cared more about her house than she did.\n\nHe took it as the highest compliment.\n\nThat's the standard. Not perfection. Care.\n\nCare shows. It compounds. It's the only thing that beats templating."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-06-16",
+    "source": "Startup Ideas Podcast",
+    "title": "How a TJ Maxx Cashier Built a $200K App With AI",
+    "url": "https://www.youtube.com/watch?v=LYomocq6Dpo",
+    "video_id": "LYomocq6Dpo"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-06-16",
+    "source": "Corey Ganim",
+    "title": "How to Sell AI to Boomers Who Hate AI",
+    "url": "https://www.youtube.com/watch?v=Pcc4zE2kt7s",
+    "video_id": "Pcc4zE2kt7s"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-06-16",
+    "source": "The Entrepreneur's Studio",
+    "title": "Building Legacy Craftsmanship In a Templated World | Brad Liber of Caliber Luxury Homes",
+    "url": "https://www.youtube.com/watch?v=lfYMkOufW4s",
+    "video_id": "lfYMkOufW4s"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-16",
+    "topic": "model_releases",
+    "title": "Introducing Gemma 4 models on Amazon Bedrock | Artificial Intelligence",
+    "url": "https://aws.amazon.com/blogs/machine-learning/introducing-gemma-4-models-on-amazon-bedrock/",
+    "snippet": "Introducing Gemma 4 models on Amazon Bedrock | Artificial Intelligence Skip to Main Content\n\n## Artificial Intelligence\n\n# Introducing Gemma 4 models on Amazon Bedrock\n\nToday, we are announcing the availability of the Gemma 4 family on Amazon Bedrock. Built by Google DeepMind and released under the Apache 2.0 license, Gemma 4 is a family of open-weight models designed with a focus on intelligence-"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-16",
+    "topic": "model_releases",
+    "title": "Verge Labs Unveils vBx: A Breakthrough Foundation Model for Precision Neurology",
+    "url": "https://www.prnewswire.com/news-releases/verge-labs-unveils-vbx-a-breakthrough-foundation-model-for-precision-neurology-302800508.html",
+    "snippet": "# Verge Labs Unveils vBx: A Breakthrough Foundation Model for Precision Neurology\n\nAuthor: Verge Labs\nPublished: 2026-06-16T08:00:00-04:00\nSource: prnewswire.com (prnewswire.com)\nLanguage: en\n\n## Story\n\nVerge Labs Unveils vBx: A Breakthrough Foundation Model for Precision Neurology Accessibility Statement Skip Navigation\n\nThe new 'virtual biopsy' model predicts brain activity, therapy response, an"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-16",
+    "topic": "model_releases",
+    "title": "Alibaba unveils AI models for robots as China\u2019s focus shifts to agents",
+    "url": "https://thenextweb.com/news/alibaba-ai-models-for-robots-as-chinas-focus-shifts-to-agents",
+    "snippet": "Alibaba unveils AI models for robots as China\u2019s focus shifts to agents\n\nAlibaba has revealed its first suite of AI models for robots, a move that says as much about where Chinese technology is heading as about the models themselves. The launch came as the industry pivots away from chatbots and towards agents, the systems meant to carry out complex tasks rather than just answer questions.\n\nAt the c"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-16",
+    "topic": "model_releases",
+    "title": "Z.ai's GLM-5.2 ships with MIT license and 1M-context coding support \u2014 AI Insiders",
+    "url": "https://aiinsiders.net/article/zais-glm-52-ships-with-mit-license-and-1m-context-coding",
+    "snippet": "Z.ai's GLM-5.2 ships with MIT license and 1M-context coding support \u2014 AI Insiders\n\nHome/ Models/ Z.ai's GLM-5.2 ships with MIT license and 1M-con\u2026\n\nMODELS\n\n# Z.ai's GLM-5.2 ships with MIT license and 1M-context coding support\n\nThe new flagship arrives first for paid Coding Plan subscribers, with API access and open weights both arriving a week later.\n\n1 HR AGO\n\nZ.ai, the Chinese AI lab behind the "
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-16",
+    "topic": "model_releases",
+    "title": "New Kimi K2.7 Code Promises Faster AI Coding Workflows",
+    "url": "https://sqmagazine.co.uk/kimi-k2-7-code-faster-ai-coding-workflows/",
+    "snippet": "New Kimi K2.7 Code Promises Faster AI Coding Workflows\n\n- Skip to primary navigation\n- Skip to main content\n- Skip to primary sidebar\n- Skip to footer\n\nAs Featured In\n\nMoonshot AI has launched Kimi K2.7 Code, a new open source coding model that promises stronger software development performance while using significantly fewer reasoning tokens.\n\n## Quick Summary \u2013 TLDR:\n\n- Kimi K2.7 Code is Moonsho"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-16",
+    "topic": "product_releases",
+    "title": "Alipay introduces AI-powered Abao, taking an early lead in China\u2019s super app AI race \u00b7 TechNode",
+    "url": "https://technode.com/2026/06/16/alipay-introduces-ai-powered-abao-taking-an-early-lead-in-chinas-super-app-ai-race/",
+    "snippet": "Alipay introduces AI-powered Abao, taking an early lead in China\u2019s super app AI race \u00b7 TechNode\n\nCredit: Alipay\n\nAlipay, China\u2019s leading mobile payments and super app platform, today unveiled its AI-powered assistant Abao and opened invitation-only testing to users, marking the biggest redesign in the platform\u2019s history and signaling its full-scale shift toward AI-driven services.\n\nStarting June 1"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-16",
+    "topic": "product_releases",
+    "title": "Dataiku Announces Cobuild General Availability, the AI Building Agent That Closes the Build-Govern Gap",
+    "url": "https://www.prnewswire.com/apac/news-releases/dataiku-announces-cobuild-general-availability-the-ai-building-agent-that-closes-the-build-govern-gap-302801300.html",
+    "snippet": "Dataiku Announces Cobuild General Availability, the AI Building Agent That Closes the Build-Govern Gap Accessibility Statement Skip Navigation\n\nDataiku Cobuild closes the enterprise AI execution gap, transforming plain-language business intent into inspectable, governed AI projects that teams can trust from the start\n\nSINGAPORE, June 16, 2026 /PRNewswire/ -- Dataiku, the Platform for AI Success, t"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-16",
+    "topic": "product_releases",
+    "title": "Konecta launches Kolibri, an agentic platform, to speed up enterprise deployment of agentic AI and end \u201cpilot purgatory\u201d",
+    "url": "https://konecta.com/news-insights/konecta-launches-kolibri-an-agentic-platform-to-speed-up-enterprise-deployment-of-agentic-ai-and-end-pilot-purgatory",
+    "snippet": "Konecta launches Kolibri, an agentic platform, to speed up enterprise deployment of agentic AI and end \u201cpilot purgatory\u201d\n\nResult of the search\n\nBack\n\nIn this article, we are going to discuss\n\n- One ecosystem. Full control.\n- Open architecture. No lock-in.\n- Predictable costs. Built-in FinOps.\n\nDownload files\n\nDownload PR\n\n- PDF - 100 ko\n\nMore related insights\n\nPress releases May 13, 2026 Konecta a"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-16",
+    "topic": "product_releases",
+    "title": "Mitiga Labs Launches Skillgate to Detect Risks in AI Agent Skills and Configurations",
+    "url": "https://www.mitiga.io/press-release/mitiga-labs-launches-skillgate-to-detect-risks-in-ai-agent-skills-and-configurations",
+    "snippet": "Mitiga Labs Launches Skillgate to Detect Risks in AI Agent Skills and Configurations\n\n# Mitiga Labs Launches Skillgate to Detect Risks in AI Agent Skills and Configurations\n\n### The free scanner detects, flags, and scores attack techniques hidden in AI agent skills, hooks, and configuration files before an agent acts on them\n\nNEW YORK, June 16, 2026 \u2014 Mitiga, the leader in agentic runtime security"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-16",
+    "topic": "product_releases",
+    "title": "Ceros Launches Providing Unified Identity, Observability and Governance for Every AI Agent and Workflow",
+    "url": "https://www.prnewswire.com/news-releases/ceros-launches-providing-unified-identity-observability-and-governance-for-every-ai-agent-and-workflow-302800721.html",
+    "snippet": "Ceros Launches Providing Unified Identity, Observability and Governance for Every AI Agent and Workflow Accessibility Statement Skip Navigation\n\nAgentic AI Trust Layer Secures Autonomous AI Agents\n\nNEW YORK, June 16, 2026 /PRNewswire/ -- Ceros, the agentic AI trust layer, launched today as the industry's first trust layer purpose-built for autonomous AI agents. Enterprises are adopting AI agents a"
   }
 ]
