@@ -6652,5 +6652,87 @@
     "title": "Ceros Launches Providing Unified Identity, Observability and Governance for Every AI Agent and Workflow",
     "url": "https://www.prnewswire.com/news-releases/ceros-launches-providing-unified-identity-observability-and-governance-for-every-ai-agent-and-workflow-302800721.html",
     "snippet": "Ceros Launches Providing Unified Identity, Observability and Governance for Every AI Agent and Workflow Accessibility Statement Skip Navigation\n\nAgentic AI Trust Layer Secures Autonomous AI Agents\n\nNEW YORK, June 16, 2026 /PRNewswire/ -- Ceros, the agentic AI trust layer, launched today as the industry's first trust layer purpose-built for autonomous AI agents. Enterprises are adopting AI agents a"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-06-17",
+    "headline": "SpaceX bought Cursor for $60 billion Tuesday morning. Same morning, Grok V9-Medium started its public rollout.",
+    "url": "archive/2026-06-17.html",
+    "posts": {
+      "linkedin": [
+        "You picked Cursor because it let you run Claude, GPT, or whatever model you wanted.\n\nSpaceX just bought it for $60 billion.\n\nSame morning, Grok V9-Medium started rolling out publicly. 1.5 trillion parameters, trained specifically on Cursor developer workflows. SpaceX didn't just acquire the tool. They bought the data pipeline and shipped a competing model trained on it the same day.\n\nA million-plus developers are now waiting to find out if the thing they liked about Cursor is still true.\n\nThis is the part of the AI tooling story that doesn't get enough attention. The model flexibility you chose today can get renegotiated by someone else's acquisition next week.\n\nIt doesn't mean Cursor gets worse. It might get better. But the question worth asking about any AI tool you build your workflow around: who owns the layer you're depending on?\n\nThat question matters more than any benchmark.",
+        "One-sixth the cost. Same or better performance on coding benchmarks.\n\nZ.ai dropped GLM-5.2 yesterday. 753 billion parameters, open weights, MIT license. Claims to outperform GPT-5.5 at roughly 16 cents on the dollar. That's not a modest pricing improvement. That's a different cost category entirely.\n\nThe \"AI is too expensive to run\" objection has a shorter shelf life every week.\n\nI keep thinking about builders and small business owners sitting on ideas because the math didn't work. That math is changing. Fast. The cost curve on inference isn't stabilizing, it's accelerating downward.\n\nIt's not about making millions with one idea. It's about having several profitable little ideas. When the infrastructure cost keeps dropping like this, more of those ideas start working.\n\nWhat would you build if inference was close to free? That's the question worth sitting with today.",
+        "Everyone's building agents. Nobody's building them the same way twice.\n\nVercel shipped \"eve\" today, an open-source agent framework. The pitch: agents are where the web was before frameworks. Everyone hand-rolling the same infrastructure on every new project. Nothing carrying over. Every agent starts from scratch.\n\nEve comes with durable execution, sandboxed compute, and human-in-the-loop approvals already built in. An agent is literally a directory. Instructions file. Tools folder. Skills. Schedules. Each piece in its own place.\n\nThey're comparing it to what Next.js did for the web. Big claim. But if you've ever started a second agent project and caught yourself rebuilding all the same plumbing, the problem they're naming is real.\n\nThe framework era for agents just started. That's the marker to notice, not the specific tool."
+      ],
+      "threads": [
+        "SpaceX bought Cursor for $60 billion Tuesday morning. Same morning, their new model, Grok V9-Medium, started rolling out publicly. It was trained specifically on Cursor developer workflows.\n\nA million developers chose Cursor partly because they could run any model they wanted. That choice is now in someone else's hands.\n\nKnow which layer you're actually depending on. It can change owners faster than you'd expect.",
+        "GPT-5.6 is probably dropping next week. Polymarket has it at 83% for June 22-28. OpenAI's chief scientist called it a \"meaningful improvement\" over 5.5.\n\nWhat I can't stop thinking about is the cycle. Sub-60 days from GPT-5.5 to 5.6. That's the cadence now.\n\nThe question isn't what the new model can do. It's what your workflow looks like when there's a new frontier model every six weeks.",
+        "Framer shipped AI agents that work inside your live production site today. Not mockups. Actual edits to pages, CMS content, SEO settings, publishing workflows.\n\nYou ask the agent for a first pass, jump in yourself to adjust, hand it back. Back and forth inside the same canvas.\n\nWebsite maintenance just changed shape for a lot of small business owners. Whether that's exciting or terrifying probably depends on who you're currently paying to do it."
+      ]
+    }
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-17",
+    "topic": "model_releases",
+    "title": "GPT-5.6: OpenAI Chief Scientist Calls It a Meaningful Leap, June Launch Nears",
+    "url": "https://www.techtimes.com/articles/318492/20260616/gpt-56-openai-chief-scientist-calls-it-meaningful-leap-june-launch-nears.htm",
+    "snippet": "GPT-5.6: OpenAI Chief Scientist Calls It a Meaningful Leap, June Launch Nears\n\nGPT 5.6 openai.com\n\nOpenAI's next flagship model, GPT-5.6, is moving toward a late-June launch \u2014 and for the first time, its existence is not just a matter of backend log entries and prediction market odds. Android Authority reported on June 11\u2014 citing The Information \u2014 that OpenAI chief scientist Jakub Pachocki sent an"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-17",
+    "topic": "model_releases",
+    "title": "Grok V9-Medium Arrives as SpaceX Seals Cursor: Developers Face Model-Choice Risk",
+    "url": "https://www.techtimes.com/articles/318495/20260616/grok-v9-medium-arrives-spacex-seals-cursor-developers-face-model-choice-risk.htm",
+    "snippet": "Grok V9-Medium Arrives as SpaceX Seals Cursor: Developers Face Model-Choice Risk\n\nGrok V9 Medium x.com\n\nSpaceX signed a definitive $60 billion merger agreement Tuesday to acquire Anysphere, the San Francisco company behind AI coding tool Cursor, four days after its record Nasdaq debut \u2014 and on the same morning that Grok V9-Medium, a 1.5-trillion-parameter coding model trained explicitly on Cursor "
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-17",
+    "topic": "model_releases",
+    "title": "Z.ai Iaunches GLM 5.2: 753 Billion Parameters Outperforms GPT 5.5 At Much Affordable Pricing, Check All Details",
+    "url": "https://www.newsx.com/tech-and-auto/zai-iaunches-glm-52-753-billion-parameters-outperforms-gpt-55-at-much-affordable-pricing-check-all-details-235229/",
+    "snippet": "Z.ai Iaunches GLM 5.2: 753 Billion Parameters Outperforms GPT 5.5 At Much Affordable Pricing, Check All Details\n\nLIVE TV\n\nSearch\n\nLIVE TV\n\nSearch\n\nTRENDING |\n\nLIVE TV\n\nTRENDING |\n\nSearch\n\nLIVE TV\n\nHome> Tech and Auto News> Z.ai Iaunches GLM 5.2: 753 Billion Parameters Outperforms GPT 5.5 At Much Affordable Pricing, Check All Details\n\n# Z.ai Iaunches GLM 5.2: 753 Billion Parameters Outperforms GPT "
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-17",
+    "topic": "model_releases",
+    "title": "Meet Qwen-RobotSuite: Three Embodied AI Models for VLA Manipulation, Video World Modeling, and Navigation - MarkTechPost",
+    "url": "https://www.marktechpost.com/2026/06/16/meet-qwen-robotsuite-three-embodied-ai-models-for-vla-manipulation-video-world-modeling-and-navigation/",
+    "snippet": "Meet Qwen-RobotSuite: Three Embodied AI Models for VLA Manipulation, Video World Modeling, and Navigation - MarkTechPost\n\nSearch\n\nPremium Content\n\nRead our exclusive articles\n\nFacebook\n\nInstagram\n\nX\n\nSearch\n\nHome Artificial Intelligence AI Infrastructure Meet Qwen-RobotSuite: Three Embodied AI Models for VLA Manipulation, Video World Modeling,...\n\n- Artificial Intelligence\n- AI Infrastructure\n- Te"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-17",
+    "topic": "product_releases",
+    "title": "Introducing eve - Vercel",
+    "url": "https://vercel.com/blog/introducing-eve",
+    "snippet": "# Introducing eve - Vercel\n\nAuthor: Shar Dara\nPublished: 2026-06-17T09:17:14.266150+00:00\nSource: vercel.com (vercel.com)\nLanguage: en\n\n## Story\n\n# Introducing eve\n\nPublished: June 17, 2026 | Authors: Shar Dara, Kevin Corbett\n\n---\n\nToday, we are proud to introduce eve, an open-source agent framework for building, running, and scaling agents. eve is designed around the idea that building an agent s"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-17",
+    "topic": "product_releases",
+    "title": "Introducing Genie One, Genie Agents, and Genie Ontology | Databricks Blog",
+    "url": "https://www.databricks.com/blog/introducing-genie-one-genie-ontology-and-genie-agents",
+    "snippet": "Introducing Genie One, Genie Agents, and Genie Ontology | Databricks Blog\n\nSummary\n\n- Genie One is the data-smart AI coworker for business users, expanding Genie beyond conversational analytics, with agentic actions, skills, integrations across Slack, Microsoft Teams, mobile apps, and MCP-based assistant experiences.\n- Genie Agents let teams turn prompts into shareable, autonomous agents that can "
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-17",
+    "topic": "product_releases",
+    "title": "FinancialContent - Framer Launches AI Agents",
+    "url": "https://markets.financialcontent.com/stocks/article/bizwire-2026-6-16-framer-launches-ai-agents",
+    "snippet": "FinancialContent - Framer Launches AI Agents\n\nSymbols\n\nRecent Quotes\n\nView Full List\n\nMy Watchlist\n\nCreate Watchlist\n\nIndicators\n\nDJI\n\nNasdaq Composite\n\nStandard & Poors 500\n\nGold\n\nCrude Oil\n\nMarkets\n\nStocks\n\nETFs\n\nTools\n\nMarkets:\n\nOverview\n\nNews\n\nCurrencies\n\nInternational\n\nTreasuries\n\n# Framer Launches AI Agents\n\n\u24d8 This article is third-party content and does not represent the views of this site."
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-17",
+    "topic": "product_releases",
+    "title": "Cohesity launches Maestro to bring backup into AI apps",
+    "url": "https://securitybrief.co.uk/story/cohesity-launches-maestro-to-bring-backup-into-ai-apps",
+    "snippet": "Cohesity launches Maestro to bring backup into AI apps\n\nSecurityBrief UK - Technology news for CISOs & cybersecurity decision-makers\n\nUnited Kingdom Powered By\n\n# Cohesity launches Maestro to bring backup into AI apps\n\nWed, 17th Jun 2026 (Today)\n\nMARK TARRE News Chief\n\nCohesity has launched Cohesity Maestro, extending its data protection and recovery tools into external artificial intelligence pla"
   }
 ]
