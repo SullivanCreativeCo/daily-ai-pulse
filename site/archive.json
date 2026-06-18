@@ -6734,5 +6734,119 @@
     "title": "Cohesity launches Maestro to bring backup into AI apps",
     "url": "https://securitybrief.co.uk/story/cohesity-launches-maestro-to-bring-backup-into-ai-apps",
     "snippet": "Cohesity launches Maestro to bring backup into AI apps\n\nSecurityBrief UK - Technology news for CISOs & cybersecurity decision-makers\n\nUnited Kingdom Powered By\n\n# Cohesity launches Maestro to bring backup into AI apps\n\nWed, 17th Jun 2026 (Today)\n\nMARK TARRE News Chief\n\nCohesity has launched Cohesity Maestro, extending its data protection and recovery tools into external artificial intelligence pla"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-06-18",
+    "headline": "Microsoft trained a reasoning model from scratch. No OpenAI distillation. Their own data, their own architecture, trained on clean enterprise-grade inputs they can actually trace.",
+    "url": "archive/2026-06-18.html",
+    "posts": {
+      "linkedin": [
+        "Microsoft trained a reasoning model from scratch this week. No OpenAI distillation. Zero.\n\nMAI-Thinking-1. 35 billion active parameters. 1 trillion total. 256K context window. Trained on clean, traceable, enterprise data.\n\nBut the specs aren't the story.\n\nThe story is that Microsoft, who poured billions into OpenAI, is now building its own models from scratch. Without leaning on OpenAI's outputs to bootstrap it.\n\nThat's a strategic statement wearing a product launch outfit.\n\nEvery major company partnering with an AI lab runs the same playbook. Start with the partner's models. Learn the space. Build your own when the data and infrastructure are there.\n\nThe OpenAI/Microsoft relationship isn't over. But the clock looks different now than it did two years ago.\n\nWhat does it mean for your stack when the infrastructure you built on starts competing with the layer above it?",
+        "A 3-billion-parameter model is matching a 671-billion-parameter model on math benchmarks. The AI community is skeptical. They're right to be.\n\nThe benchmark debate is real. But it's covering the more interesting story.\n\nTwo things this week: Weibo's VibeThinker-3B scoring on par with DeepSeek V3.2, and Zhipu AI's GLM-5.2 landing 1 percentage point behind Claude Opus 4.8 on long-horizon coding tasks. GLM-5.2 is MIT licensed and open source.\n\nThe VibeThinker benchmarks might not hold up. They often don't.\n\nBut GLM-5.2's one-point gap on real engineering work? That one's harder to wave away.\n\nThe practical question isn't which benchmark is legit. It's: at what point does an open-source model get close enough to frontier that the cost difference tips the decision?\n\nWe might be there. Or close enough that the math is worth running on your own stack.",
+        "$250,000 in 8 months selling lemonade.\n\nDon from Boo Boo's Lemonade had no experience. Watched YouTube videos. Bought a table, a tent, and some lemons. Started at farmers markets.\n\n$6,000 in three hours at a special event. A $19,000 frozen banana catering order after watching a video and just doing it. He'd never served frozen bananas before.\n\nThe thing that stops most people isn't competition. It's the feeling that the idea is too small.\n\nA lemonade cart at farmers markets feels beneath people. Which is exactly why there's room.\n\nDon didn't build a lemonade stand. He built a concessions company with farmers market revenue, catering contracts, and a cart rental model. Three income streams from one simple product.\n\nWhat are you already doing for yourself that someone else would find useful?"
+      ],
+      "threads": [
+        "Five days since the US government forced Anthropic to shut down Mythos and Fable 5. The Monday meetings in DC didn't include the people who actually made the call.\n\nA security researcher demonstrated in March that Mythos could find bugs in Linux that he'd spent his career never finding. His take: the attacker-defender balance from the last two decades is probably coming to an end. The government's concern now is whether China had access before the shutdown.\n\nAI models are being treated like national security assets. That's not a metaphor anymore. It's a policy.",
+        "Block built something worth paying attention to. Tag @builderbot in a Slack thread. It coordinates multiple AI agents across their entire codebase, hundreds of millions of lines, while the team steers in real time right there in the thread.\n\nNo context switching. The conversation is the development environment.\n\nThat's the frame. Not just for engineers. For every kind of team managing complex workflows right now. Worth keeping.",
+        "Zhipu AI's GLM-5.2 is 1 percentage point behind Claude Opus 4.8 on real long-horizon coding tasks. MIT license. 1 million token context. Open source.\n\nOne point.\n\nThe open-source vs. closed gap isn't gone. But it's getting to where the cost math starts to change.\n\nIf you're picking models based on capability alone right now, the numbers shifted this week."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-06-18",
+    "source": "The Koerner Office",
+    "title": "He Made $6K in 3 Hours Selling Lemonade",
+    "url": "https://www.youtube.com/watch?v=5TZylaKGWUE",
+    "video_id": "5TZylaKGWUE"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-06-18",
+    "source": "AI Daily Brief",
+    "title": "A Big Shift in the AI Race",
+    "url": "https://www.youtube.com/watch?v=RO7Ly_wu9dQ",
+    "video_id": "RO7Ly_wu9dQ"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-18",
+    "topic": "model_releases",
+    "title": "Zhipu AI's GLM-5.2 closes in on closed-source leaders in coding marathons",
+    "url": "https://the-decoder.com/zhipu-ais-glm-5-2-closes-in-on-closed-source-leaders-in-coding-marathons/",
+    "snippet": "Zhipu AI's GLM-5.2 closes in on closed-source leaders in coding marathons\n\n# Zhipu AI's GLM-5.2 closes in on closed-source leaders in coding marathons\n\nJonathan Kemper View the LinkedIn Profile of Jonathan Kemper\n\nJun 17, 2026\n\nZhipu AI\n\nChinese AI lab Zhipu AI releases GLM-5.2 with a stable 1-million-token context under the MIT license. On hours-long coding tasks, the open-source model trails Ant"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-18",
+    "topic": "model_releases",
+    "title": "Sony AI releases Woosh foundation model for sound effect generation | exclusive interview - GamesBeat",
+    "url": "https://gamesbeat.com/sony-ai-releases-woosh-foundation-model-for-sound-effect-generation-exclusive-interview/",
+    "snippet": "Sony AI releases Woosh foundation model for sound effect generation | exclusive interview - GamesBeat\n\nWoosh is Sony AI's sound effect generator. Source: Sony AI\n\nBecome a member of GB MAX to gain exclusive access to the industry and to the most influential global B2B leadership community in the business of gaming, entertainment, and tech. Join now and also get a VIP ticket to GamesBeat Next (Nov "
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-18",
+    "topic": "model_releases",
+    "title": "Why Weibo\u2019s tiny VibeThinker-3B has the AI world arguing over benchmarks again | VentureBeat",
+    "url": "https://venturebeat.com/technology/why-weibos-tiny-vibethinker-3b-has-the-ai-world-arguing-over-benchmarks-again",
+    "snippet": "Why Weibo\u2019s tiny VibeThinker-3B has the AI world arguing over benchmarks again | VentureBeat\n\nMichael Nu\u00f1ez\n\n5:32 pm, PT, June 16, 2026\n\nCredit: Venturebeat made with Midjourney\n\nAdd to Google Preferred Source\n\nOn Sunday, a team of nine researchers at Sina Weibo\u2014 the Chinese social media giant better known for its microblogging platform than for cutting-edge artificial intelligence \u2014 quietly poste"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-18",
+    "topic": "model_releases",
+    "title": "Microsoft Unveils Its First In-House Advanced Reasoning Model: MAI-Thinking-1 and the Broader MAI Family",
+    "url": "https://quasa.io/media/microsoft-unveils-its-first-in-house-advanced-reasoning-model-mai-thinking-1-and-the-broader-mai-family",
+    "snippet": "Microsoft Unveils Its First In-House Advanced Reasoning Model: MAI-Thinking-1 and the Broader MAI Family\n\nUse QUASA App\n\nJoin the pioneer of Web3 crypto freelancing today!\n\nOpen\n\nTechnology\n\n# Microsoft Unveils Its First In-House Advanced Reasoning Model: MAI-Thinking-1 and the Broader MAI Family\n\nJune 17, 2026 at 06:32 AM|Author: Viacheslav Vasipenok|4 min read| 138\n\nAt Microsoft Build 2026, the "
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-18",
+    "topic": "model_releases",
+    "title": "Nemotron 3 Ultra went live June 4. Here's the call that works. - DEV Community",
+    "url": "https://dev.to/creeta/nemotron-3-ultra-went-live-june-4-heres-the-call-that-works-55g7",
+    "snippet": "# Nemotron 3 Ultra went live June 4. Here's the call that works. - DEV Community\n\nPublished: 2026-06-18T07:57:45+00:00\nSource: dev.to (dev.to)\nLanguage: en\n\n## Story\n\nNemotron 3 Ultra went live June 4. Here's the call that works. - DEV Community\n\nNVIDIA shipped Nemotron 3 Ultra on June 4, 2026 \u2014 its largest open-weights model and the new high-water mark for US open releases. Before you wire it int"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-18",
+    "topic": "product_releases",
+    "title": "Block - Block rolls out Builderbot, a new suite of AI-native tools that changes the way we ship",
+    "url": "https://block.xyz/inside/block-rolls-out-builderbot-a-new-suite-of-ai-native-tools-that-changes-the-way-we-ship",
+    "snippet": "Block - Block rolls out Builderbot, a new suite of AI-native tools that changes the way we ship\n\nAI is native to how Block builds and ships. Over the past two years, we've invested in making AI foundational to how our engineers work: open sourcing goose, our AI agent framework, co-developing the Model Context Protocol (MCP) with Anthropic, and building internal tools that bring AI into every engin"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-18",
+    "topic": "product_releases",
+    "title": "Databricks Genie One GA: Agentic AI Coworker | ToolNav",
+    "url": "https://toolnav.io/news/2026-06-17-databricks-genie-one-ga-agentic-coworker/",
+    "snippet": "Databricks Genie One GA: Agentic AI Coworker | ToolNav\n\nJune 17, 2026 \u00b7 By the ToolNav Team\u00b7 6 min read Databricks Genie One AI Agents Enterprise AI Data Platform\n\n# Databricks Launches Genie One GA \u2014 An Agentic AI Coworker for Every Business Team, Priced on Usage Not Seats\n\nTL;DR\n\nDatabricks announced Genie One at Data + AI Summit on June 16, 2026 \u2014 a generally available agentic AI coworker desig"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-18",
+    "topic": "product_releases",
+    "title": "Databricks launches open-source Omnigent for AI agents",
+    "url": "https://securitybrief.news/story/databricks-launches-open-source-omnigent-for-ai-agents",
+    "snippet": "Databricks launches open-source Omnigent for AI agents\n\nSecurityBrief US - Technology news for CISOs & cybersecurity decision-makers\n\nUnited States Powered By\n\n# Databricks launches open-source Omnigent for AI agents\n\nWed, 17th Jun 2026 (Yesterday)\n\nJOSEPH GABRIEL LAGONSIN News Editor\n\nDatabricks has launched Omnigent, an open-source meta-harness for AI agents designed to let organisations manage "
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-18",
+    "topic": "product_releases",
+    "title": "UiPath launches Maestro Case for complex workflows",
+    "url": "https://itbrief.asia/story/uipath-launches-maestro-case-for-complex-workflows",
+    "snippet": "UiPath launches Maestro Case for complex workflows\n\nIT Brief Asia - Technology news for CIOs & IT decision-makers\n\nAsia Powered By\n\n# UiPath launches Maestro Case for complex workflows\n\nThu, 18th Jun 2026 (Today)\n\nMARK TARRE News Chief\n\nUiPath has launched Maestro Case, a case management product within its Maestro orchestration software, aimed at businesses managing complex workflows with frequent"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-18",
+    "topic": "product_releases",
+    "title": "Marriott debuts AI-powered hotel search tool Ask Bonvoy | Hotel Dive",
+    "url": "https://www.hoteldive.com/news/marriott-debuts-ai-powered-hotel-search-tool-ask-bonvoy/823130/",
+    "snippet": "Marriott debuts AI-powered hotel search tool Ask Bonvoy | Hotel Dive Skip to main content\n\n# Don't miss tomorrow's hotel industry news\n\nLet Hotel Dive's free newsletter keep you informed, straight from your inbox.\n\nBy signing up to receive our newsletter, you agree to our Terms of Use and Privacy Policy. You can unsubscribe at anytime.\n\nExplore our brands An Informa TechTarget Publication\n\nAn arti"
   }
 ]
