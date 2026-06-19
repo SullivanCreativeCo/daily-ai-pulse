@@ -6848,5 +6848,119 @@
     "title": "Marriott debuts AI-powered hotel search tool Ask Bonvoy | Hotel Dive",
     "url": "https://www.hoteldive.com/news/marriott-debuts-ai-powered-hotel-search-tool-ask-bonvoy/823130/",
     "snippet": "Marriott debuts AI-powered hotel search tool Ask Bonvoy | Hotel Dive Skip to main content\n\n# Don't miss tomorrow's hotel industry news\n\nLet Hotel Dive's free newsletter keep you informed, straight from your inbox.\n\nBy signing up to receive our newsletter, you agree to our Terms of Use and Privacy Policy. You can unsubscribe at anytime.\n\nExplore our brands An Informa TechTarget Publication\n\nAn arti"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-06-19",
+    "headline": "China's Z.AI dropped GLM-5.2 this week. Within 1% of Claude Opus 4.8 on long-horizon coding benchmarks. Built entirely on Huawei silicon. Zero Nvidia chips. MIT licensed. 82% cheaper per token than Western frontier models.",
+    "url": "archive/2026-06-19.html",
+    "posts": {
+      "linkedin": [
+        "The free website is the pitch.\n\nNot because you're being generous. Because a $9 AI-built site gets you on the phone with a business owner who would've ignored a cold email.\n\nCorey Ganim walked through this live this week with HyperAgent. Agents scan for local businesses with great Google reviews and terrible websites. Build a full site in under an hour, $9 in compute. Give it away free. Get the conversation. Then sell the system that actually drives the business forward.\n\nFor a landscaping company that's a speed-to-quote tool. Customer submits a yard photo. Gets three design options, live pricing, financing. On their phone. In minutes. Setup fee is $5-10K. Monthly retainer is $200-1,000.\n\nThe free deliverable isn't charity. It's proof. It answers the only question business owners are actually asking: \"Can you do what you're saying?\"\n\nWhat are you already building that you could give away first?",
+        "Anthropic went from a $30 billion annual run rate to $47 billion in a few months.\n\nNot because millions of new people signed up for $20/month. Because Claude Code usage went through the roof.\n\nThe AI Daily Brief laid this out this week. The shift is from seat-based AI (pay per person) to agentic AI (pay per token consumed). Per person economics move from $20-200/month to potentially thousands of dollars. Agents burn a lot of tokens.\n\nCompanies that trained their employees deeply are consuming far more tokens and finding far more real use cases than companies that handed out licenses and called it a day.\n\nThe moat isn't which model you're using. It's how well your team knows what to ask for.\n\nThat's the thing that compounds. And it's the part most businesses keep skipping.\n\nWhat would 90 days of actual AI training do to your team's output?",
+        "China just dropped a model that runs within 1% of Claude Opus on long-horizon coding benchmarks.\n\nNo Nvidia chips. Built on Huawei silicon. MIT licensed. 82% cheaper per token than comparable Western models.\n\nGLM-5.2 from Z.AI scored 74.4 on FrontierSWE. Claude Opus 4.8 scored 75.1. That's not a gap. That's statistical noise. DeepSeek also dropped V4 the same week. 1.6 trillion parameters. MoE architecture. Undercuts Western API pricing again.\n\nZ.AI has been on the US Entity List since January 2025. Their stock is up 90% this week.\n\nThe part worth sitting with isn't the geopolitics. It's the floor. Open-source frontier-quality models keep getting cheaper, and alternatives to Nvidia chips are working now.\n\nIf you're building AI products where your margin lives in API cost, that floor keeps dropping.\n\nWhether that's your advantage or a threat depends entirely on how you've structured things."
+      ],
+      "threads": [
+        "Someone built a full website for a landscaping company this week. Cost: $9.\n\nThen gave it away free to close a $5,000 deal.\n\nThat's the HyperAgent model. Agents find local businesses with great reviews and bad websites. Build the site automatically. Give it to the owner as a gift. Get the phone call. Then sell the revenue system.\n\nThe website isn't the product. It's just proof you can build the product.",
+        "Reliance Jio just put an AI agent inside the phone call itself.\n\nNo app. No download. Say \"Hey Jio\" and it joins the call, transcribes everything, and books your restaurant table on the way out. Rolling out to 500 million users in 22 languages.\n\nWe've been building AI inside apps. Jio is putting it where people already are.\n\nThat's a different distribution play entirely.",
+        "Anthropic didn't go from $30B to $47B annual run rate because more people signed up for $20/month.\n\nIt was agents. Token consumption way beyond what a seat subscription ever justified.\n\nThe math on AI isn't \"how many people have accounts.\" It's \"how many tasks are agents completing.\" Those are completely different numbers with completely different ceilings.\n\nWe're still pretty early on what that second number can reach."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-06-19",
+    "source": "Corey Ganim",
+    "title": "How broke 20-somethings are AI maxxing boomer businesses into f*ck you money",
+    "url": "https://www.youtube.com/watch?v=tVMHEr2OtY8",
+    "video_id": "tVMHEr2OtY8"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-06-19",
+    "source": "AI Daily Brief",
+    "title": "Why Only AI Training Can Save the Economy",
+    "url": "https://www.youtube.com/watch?v=v3jwNZ94GLo",
+    "video_id": "v3jwNZ94GLo"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-19",
+    "topic": "model_releases",
+    "title": "China\u2019s Z.AI Releases GLM-5.2: A Model That Rivals Claude Opus\u2014Using Zero Nvidia Chips - Decrypt",
+    "url": "https://decrypt.co/371613/china-z-ai-glm-5-2-model-rivals-claude-opus?amp=1",
+    "snippet": "China\u2019s Z.AI Releases GLM-5.2: A Model That Rivals Claude Opus\u2014Using Zero Nvidia Chips - Decrypt\n\nhttps://decrypt.co/login\n\n# China\u2019s Z.AI Releases GLM-5.2: A Model That Rivals Claude Opus\u2014Using Zero Nvidia Chips\n\n## Z.ai's GLM-5.2 sits within 1% of Claude Opus 4.8 on long-horizon coding benchmarks, runs entirely on Huawei silicon, and undercuts Western frontier models by up to 82% per token.\n\nBy "
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-19",
+    "topic": "model_releases",
+    "title": "Zhipu AI releases GLM-5.2 open-weight AI model",
+    "url": "https://datanorth.ai/news/zhipu-ai-releases-glm-5-2",
+    "snippet": "Zhipu AI releases GLM-5.2 open-weight AI model\n\n# Zhipu AI releases GLM-5.2\n\n18-06-2026\n\nGLM-5.2 is Zhipu AI's open-weight Mixture-of-Experts model with a 1 million token context window, an MIT license, and coding benchmark scores that rival GPT-5.5 at a fraction of the cost.\n\nWritten by:\n\nhttps://datanorth.ai/blog/author/jorick\n\nJorick van Weelie\n\nMarketing Lead at DataNorth | AI Enthusiast & Tec"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-19",
+    "topic": "model_releases",
+    "title": "DeepSeek Releases New 1.6 Trillion Parameter Mixture-of-Experts Model | Tech Pulse",
+    "url": "https://www.thenextgentechinsider.com/pulse/deepseek-releases-new-16-trillion-parameter-mixture-of-experts-model",
+    "snippet": "DeepSeek Releases New 1.6 Trillion Parameter Mixture-of-Experts Model | Tech Pulse\n\nDeepSeek Releases New 1.6 Trillion Parameter Mixture-of-Experts Model | Tech Pulse\nTech Pulse\n1 / 3+\nAI/ML\nJun 19, 2026\n4 min\n# DeepSeek Releases New 1.6 Trillion Parameter Mixture-of-Experts Model\n![Hiren Dave](https://www.thenextgentechinsider.com/hirendave.png)Hiren Dave\nListenShare\n![Illustration for DeepSeek R"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-19",
+    "topic": "model_releases",
+    "title": "Qwen Robot Suite: Three Embodied AI Models, No Weights Yet | aiHola",
+    "url": "https://aihola.com/article/qwen-robot-suite-embodied-ai",
+    "snippet": "Qwen Robot Suite: Three Embodied AI Models, No Weights Yet | aiHola\n\nAlibaba's Qwen team released a robotics suite on Tuesday, three separate foundation models the company calls a full stack for embodied intelligence. Qwen-RobotManip handles manipulation, Qwen-RobotNav handles getting around, and Qwen-RobotWorld predicts what happens next. They were developed by Tongyi Lab, and according to the So"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-19",
+    "topic": "model_releases",
+    "title": "China\u2019s Z.AI Releases GLM-5.2: A Model That Rivals Claude Opus\u2014Using Zero Nvidia Chips",
+    "url": "https://tech.yahoo.com/ai/claude/articles/china-z-ai-releases-glm-212634662.html",
+    "snippet": "China\u2019s Z.AI Releases GLM-5.2: A Model That Rivals Claude Opus\u2014Using Zero Nvidia Chips\n\nAdvertisement\n\nAdvertisement\n\nAdvertisement\n\nAdvertisement\n\nZ.ai dropped GLM-5.2 on June 16, promising top level performances, beating its already advanced GLM 5.1.\n\nThe Beijing-based lab, which has been on the U.S. Entity List since January 2025, appears to be benefiting from growing concerns over America's ap"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-19",
+    "topic": "product_releases",
+    "title": "AWS aims to take the pain out of RAG with Bedrock Managed Knowledge Base | InfoWorld",
+    "url": "https://www.infoworld.com/article/4187170/aws-aims-to-take-the-pain-out-of-rag-with-bedrock-managed-knowledge-base.html",
+    "snippet": "AWS aims to take the pain out of RAG with Bedrock Managed Knowledge Base | InfoWorld\n\n# AWS aims to take the pain out of RAG with Bedrock Managed Knowledge Base\n\nnews\n\nJun 19, 20264 mins\n\n## The new service automates embeddings, indexing, and connectors to help developers focus on building AI apps instead of maintaining data pipelines.\n\nCredit: Michael Vi / Shutterstock\n\nFor many developers, the h"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-19",
+    "topic": "product_releases",
+    "title": "Reliance Jio Introduces Native AI Voice Agent To Phone Calls, Will Be Available To All Users: Here's How It Works",
+    "url": "https://www.freepressjournal.in/tech/reliance-jio-introduces-native-ai-voice-agent-to-phone-calls-will-be-available-to-all-users-heres-how-it-works",
+    "snippet": "# Reliance Jio Introduces Native AI Voice Agent To Phone Calls, Will Be Available To All Users: Here's How It Works\n\nPublished: 2026-06-19T16:31:26+05:30\nSource: freepressjournal.in (freepressjournal.in)\nLanguage: en\n\n## Story\n\nReliance Jio Introduces Native AI Voice Agent To Phone Calls, Will Be Available To All Users: Here's How It Works\n\n# Reliance Jio Introduces Native AI Voice Agent To Phone "
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-19",
+    "topic": "product_releases",
+    "title": "Higgsfield launches enterprise marketing agents on NVIDIA",
+    "url": "https://thenextweb.com/news/higgsfield-supercomputer-enterprise-marketing-nvidia",
+    "snippet": "Higgsfield launches enterprise marketing agents on NVIDIA\n\nImage by: Higgsfield\n\n#### TL;DR\n\nHiggsfield launched Supercomputer 2.0, an enterprise marketing automation agent built on NVIDIA\u2019s Agent Toolkit. The company claims 78 per cent of Fortune 500 companies use its platform, though the figure has not been independently audited.\n\nHiggsfield, the AI video startup valued at $1.3 billion, on Wedne"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-19",
+    "topic": "product_releases",
+    "title": "Wialon launches ChatGPT app for fleet managers platform",
+    "url": "https://itbrief.co.uk/story/wialon-launches-chatgpt-app-for-fleet-managers-platform",
+    "snippet": "Wialon launches ChatGPT app for fleet managers platform\n\nIT Brief UK - Technology news for CIOs & IT decision-makers\n\nUnited Kingdom Powered By\n\n# Wialon launches ChatGPT app for fleet managers platform\n\nFri, 19th Jun 2026 (Today)\n\nJOSEPH GABRIEL LAGONSIN News Editor\n\nWialon has launched a ChatGPT app for fleet management, now available in the ChatGPT App Market.\n\nThe app lets fleet managers, disp"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-19",
+    "topic": "product_releases",
+    "title": "Mistral le Chat Gets Flash Answers, Mobile Apps, Pro Tier at $14.99 | TPS",
+    "url": "https://tpsreport.news/news/mistral-le-chat-flash-answers-mobile-apps-pro-tier",
+    "snippet": "Mistral le Chat Gets Flash Answers, Mobile Apps, Pro Tier at $14.99 | TPS\n\nproduct update Mistral AI\n\n# Mistral launches upgraded le Chat with ~1000 words/sec Flash Answers, iOS/Android apps, and $14.99/month Pro tier\n\nTL;DR\n\nMistral AI has released a comprehensive update to le Chat, introducing Flash Answers feature with ~1000 words/sec generation speed, iOS and Android apps, and new Pro ($14.99/"
   }
 ]
