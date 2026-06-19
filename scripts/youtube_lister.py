@@ -7,9 +7,50 @@ For transcripts we go through Exa /contents instead (see exa_client.fetch_url).
 
 from __future__ import annotations
 
+import datetime as dt
 from typing import Iterable
 
 import yt_dlp
+
+
+def published_within_days(video_id: str, days: int) -> bool:
+    """Best-effort recency check for a single video.
+
+    Flat-playlist extraction returns no upload date, so to filter stale uploads we
+    probe one video's metadata. This is only called for un-seen candidates (a small
+    number per run), and runs locally (residential IP), so the cost is bounded.
+
+    Returns True on any failure or missing date: never drop a video on uncertainty.
+    """
+    opts = {
+        "skip_download": True,
+        "quiet": True,
+        "no_warnings": True,
+        "nocheckcertificate": True,
+    }
+    try:
+        with yt_dlp.YoutubeDL(opts) as ydl:
+            info = ydl.extract_info(
+                f"https://www.youtube.com/watch?v={video_id}", download=False
+            )
+    except Exception as e:
+        print(f"[youtube_lister] age probe failed for {video_id}: {e}")
+        return True
+
+    info = info or {}
+    ts = info.get("timestamp") or info.get("release_timestamp")
+    if ts:
+        age_days = (dt.datetime.now(dt.timezone.utc).timestamp() - ts) / 86400
+        return age_days <= days
+
+    upd = info.get("upload_date")  # YYYYMMDD string
+    if upd:
+        try:
+            d = dt.datetime.strptime(upd, "%Y%m%d").replace(tzinfo=dt.timezone.utc)
+            return (dt.datetime.now(dt.timezone.utc) - d).days <= days
+        except Exception:
+            return True
+    return True
 
 
 def _normalize_channel_url(url: str) -> str:

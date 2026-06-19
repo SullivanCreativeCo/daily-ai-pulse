@@ -7,9 +7,11 @@ from __future__ import annotations
 
 import datetime as dt
 import json
+import os
 import re
 import sys
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 # Allow `python scripts/harvest.py` from repo root
 sys.path.insert(0, str(Path(__file__).parent))
@@ -31,6 +33,23 @@ ARCHIVE_JSON = SITE / "archive.json"
 # Sidecar JSON consumed by the KeegsOS Command Center dashboard.
 KEEGSOS_PULSE_JSON = Path.home() / "Desktop/KeegsOS/workspace/command-center/pulse-today.json"
 
+# Local timezone. The launchd job fires at 8am ET; we date the pulse by local
+# day so the dashboard's "is this today's pulse?" check lines up with Keegan's day.
+ET = ZoneInfo("America/New_York")
+
+# Drop podcast uploads older than this many days so a quiet channel's stale back
+# catalog never resurfaces on a cold archive. Best-effort: on probe failure we keep
+# the video rather than risk dropping a real one.
+MAX_VIDEO_AGE_DAYS = int(os.environ.get("PULSE_MAX_VIDEO_AGE_DAYS", "5"))
+
+
+def _now_utc() -> dt.datetime:
+    return dt.datetime.now(dt.timezone.utc)
+
+
+def _today_local() -> str:
+    return dt.datetime.now(ET).strftime("%Y-%m-%d")
+
 
 PODCAST_SOURCES = [
     {"name": "The Koerner Office",
@@ -47,6 +66,9 @@ PODCAST_SOURCES = [
      "url": "https://www.youtube.com/@theentrepreneursstudio2010"},
 ]
 
+# Each topic: key, label, query, optional include_domains, optional category.
+# category defaults to "news"; set it to None to let Exa auto-pick (better for
+# blog posts and lab announcements that the news index misses).
 NEWS_TOPICS = [
     {"key": "model_releases",
      "label": "AI model releases",
@@ -54,6 +76,19 @@ NEWS_TOPICS = [
     {"key": "product_releases",
      "label": "AI product releases",
      "query": "new AI product launch OR AI app release OR AI tool shipping today"},
+    {"key": "ai_agents",
+     "label": "AI agents shipping",
+     "query": "new AI agent framework OR autonomous agent product OR agentic workflow launch"},
+    {"key": "ai_small_business",
+     "label": "AI for small business",
+     "query": "AI tools for small business OR solopreneur AI workflow OR AI automation for small teams OR AI agency services"},
+    {"key": "ai_labs",
+     "label": "AI lab & blog announcements",
+     "query": "Anthropic OR OpenAI OR Google DeepMind OR Mistral announcement OR research blog OR product update",
+     "category": None,
+     "include_domains": ["anthropic.com", "openai.com", "deepmind.google",
+                         "blog.google", "ai.meta.com", "mistral.ai",
+                         "tldr.tech", "bensbites.com"]},
     {"key": "x_posts",
      "label": "Popular X posts about AI",
      "query": "popular trending tweets about AI agents and AI products",
@@ -99,6 +134,9 @@ def harvest_youtube(seen_video_ids: set[str]) -> list[dict]:
             print(f"[harvest] {src['name']} listing failed: {e}")
             continue
         for v in videos:
+            if not youtube_lister.published_within_days(v["video_id"], MAX_VIDEO_AGE_DAYS):
+                print(f"[harvest] skip stale upload (> {MAX_VIDEO_AGE_DAYS}d): {v['title'][:60]}")
+                continue
             content = {}
             try:
                 content = exa_client.fetch_url(v["url"])
@@ -118,14 +156,14 @@ def harvest_youtube(seen_video_ids: set[str]) -> list[dict]:
 
 def harvest_news(seen_urls: set[str]) -> dict[str, list[dict]]:
     """Return {topic_key: [items]} deduped by URL across topics."""
-    yesterday = (dt.datetime.utcnow() - dt.timedelta(days=1)).strftime("%Y-%m-%d")
+    yesterday = (_now_utc() - dt.timedelta(days=1)).strftime("%Y-%m-%d")
     out: dict[str, list[dict]] = {}
     cross_topic_seen = set(seen_urls)
     for topic in NEWS_TOPICS:
         try:
             items = exa_client.search(
                 query=topic["query"],
-                category="news",
+                category=topic.get("category", "news"),
                 start_published_date=yesterday,
                 num_results=5,
                 include_domains=topic.get("include_domains"),
@@ -161,8 +199,11 @@ def _extract_headline(digest_md: str) -> str:
 
 
 def main() -> int:
-    today = dt.datetime.utcnow().strftime("%Y-%m-%d")
-    last_updated = dt.datetime.utcnow().strftime("%Y-%m-%d %H:%M")
+    now_local = dt.datetime.now(ET)
+    today = now_local.strftime("%Y-%m-%d")
+    last_updated = now_local.strftime("%Y-%m-%d %H:%M")
+    generated_at_iso = _now_utc().isoformat()
+    status = "ok"
 
     archive = _load_archive()
     seen_urls, seen_vids = _seen(archive)
@@ -183,6 +224,7 @@ def main() -> int:
     # If we got literally nothing, still publish a tombstone so the page reflects today
     if not yt_items and not total_news:
         print("[harvest] no fresh inputs today; writing minimal placeholder")
+        status = "tombstone"
         digest_md = (
             f"# Daily AI Pulse - {today}\n\n"
             f"## Today's headline\n"
@@ -200,6 +242,7 @@ def main() -> int:
             digest_md, posts = synthesize.run(raw_inputs, today)
         except Exception as e:
             print(f"[harvest] synthesis failed: {e}")
+            status = "error"
             digest_md = (
                 f"# Daily AI Pulse - {today}\n\n"
                 f"## Today's headline\n"
@@ -217,9 +260,12 @@ def main() -> int:
         pulse_sidecar = {
             "date": today,
             "generated_at": last_updated,
+            "generated_at_iso": generated_at_iso,
+            "status": status,
             "headline": _extract_headline(digest_md),
             "digest_markdown": digest_md,
             "linkedin_posts": list((posts or {}).get("linkedin") or []),
+            "threads_posts": list((posts or {}).get("threads") or []),
             "counts": {
                 "news": sum(len(v) for v in news_by_topic.values()),
                 "podcasts": len(yt_items),
