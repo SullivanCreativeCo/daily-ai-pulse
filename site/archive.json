@@ -7172,5 +7172,119 @@
     "title": "Prompt cache: documented byte-prefix matching does not occur on gpt-5.4 / gpt-5.5 when trailing user content exceeds ~500 tokens - Bugs - OpenAI Developer Community",
     "url": "https://community.openai.com/t/prompt-cache-documented-byte-prefix-matching-does-not-occur-on-gpt-5-4-gpt-5-5-when-trailing-user-content-exceeds-500-tokens/1384129",
     "snippet": "Prompt cache: documented byte-prefix matching does not occur on gpt-5.4 / gpt-5.5 when trailing user content exceeds ~500 tokens - Bugs - OpenAI Developer Community\n\n# Prompt cache: documented byte-prefix matching does not occur on gpt-5.4 / gpt-5.5 when trailing user content exceeds ~500 tokens\n\nhttps://community.openai.com/t/prompt-cache-documented-byte-prefix-matching-does-not-occur-on-gpt-5-4-"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-06-20",
+    "headline": "The phrase that threaded through today's news: AI that executes instead of advises.",
+    "url": "archive/2026-06-20.html",
+    "posts": {
+      "linkedin": [
+        "Three different companies shipped AI products today using almost the exact same line.\n\n\"From AI that advises to AI that executes.\"\n\nRemote People's HR tool doesn't recommend salary changes. It makes them. Framer's agents don't mock up website edits. They publish them. Atlassian's Claude integration doesn't summarize a Jira ticket. It opens the pull request.\n\nThat's a real shift. And it's moving faster than most people realize.\n\nThe AI advisor era had a purpose. AI that answers questions, surfaces options, tells you what to do next. It's still useful. But the product market growing right now is AI that does the thing, shows you the result, and waits for your call.\n\nIf you're building something in this space, there's a real question worth asking: is your AI telling users what to do, or doing it for them?\n\nOne of those answers is getting harder to charge for.",
+        "Vercel shared a number this week that I keep coming back to.\n\nSix months ago, fewer than 3% of deployments on their platform were triggered by coding agents.\n\nNow it's more than 50%.\n\nThat's not a prediction about where things are going. That already happened, quietly, while most of the discourse was still on whether AI-generated code was reliable enough to ship.\n\nVercel responded by shipping a full agent infrastructure suite. Agent Stack, Vercel Services, an open-source framework called \"eve\", enterprise agent tooling. Not because they saw it coming. Because the usage data was already there.\n\nThat's the tell. When a major platform provider builds infrastructure specifically for agent-triggered workflows, it means agents are already sending significant traffic.\n\nFor anyone building or deploying software right now, the question isn't whether agents will be part of the pipeline. They are. The question is whether your stack is built to handle that.\n\nWhat does your deployment process look like today versus six months ago?",
+        "There's a pairing showing up across completely different industries this week and I think it's worth naming.\n\nAI does the analysis. A credentialed human does the judgment call.\n\nClearDiagnosis launched a medical second opinion service: AI reviews your records against national guidelines and research, a licensed physician reviews the findings and signs the report. $197. 24 hours. The normal path costs $2,000-$8,000 and takes weeks.\n\nCoinbase structured their AI adviser inside an SEC-registered entity so it can give actual personalized investment recommendations, not just add a disclaimer to everything.\n\nAtlassian's Claude agent does the implementation work. The developer reviews and merges.\n\nSame shape. Different industries.\n\nIt makes sense when you sit with it. AI can process at a scale no human can match. The human brings accountability, credentials, judgment on edge cases.\n\nIf you're an expert in something, this is a frame worth sitting with: what changes if AI handles the volume and you handle the decisions?\n\nThat might not be a smaller job. It might be a better one."
+      ],
+      "threads": [
+        "Three companies shipped AI products today using almost the same line: \"from advising to executing.\"\n\nRemote People's HR tool completes salary changes. Framer's agents publish to your live site. Atlassian's Claude opens the pull request.\n\nThe AI that tells you what to do era is short. The AI that does it and waits for your review era is already here.\n\nWorth knowing which side of that line your current tools are on.",
+        "Framer just shipped AI agents that edit and publish your live website. Not wireframes. Not suggestions. The actual pages.\n\nLayout, copy, CMS content, SEO settings, broken link checks. All in the same environment you already use to design and publish.\n\nIf you manage sites for small businesses or clients, the gap between \"AI draft\" and \"live and shipped\" just got a lot shorter.",
+        "Vercel shared a stat this week that's hard to shake.\n\nSix months ago: under 3% of deployments triggered by coding agents. Today: over 50%.\n\nNot a prediction. That's what already happened on their platform.\n\nThe debate over whether AI-generated code is \"good enough to ship\" is kind of over. Turns out it's already shipping."
+      ]
+    }
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-20",
+    "topic": "model_releases",
+    "title": "Meet Qwen-RobotSuite: Three Embodied AI Models for VLA Manipulation, Video World Modeling, and Navigation -",
+    "url": "https://aipulse365.com/2026/06/19/meet-qwen-robotsuite-three-embodied-ai-models-for-vla-manipulation-video-world-modeling-and-navigation/",
+    "snippet": "Meet Qwen-RobotSuite: Three Embodied AI Models for VLA Manipulation, Video World Modeling, and Navigation -\n\nSkip to content Skip to footer\n\nClose\n\n# Meet Qwen-RobotSuite: Three Embodied AI Models for VLA Manipulation, Video World Modeling, and Navigation\n\nByadmin 15 hours ago 0Comments\n\nThe Qwen team has released three embodied AI models, grouped as Qwen-Robot-Suite. The three are Qwen-RobotManip"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-20",
+    "topic": "model_releases",
+    "title": "LearnAI.ae - Entering The Physical AI Era: Introducing The Qwen-Robot Suite",
+    "url": "https://learnai.ae/entering-the-physical-ai-era-introducing-the-qwen-robot-suite/",
+    "snippet": "LearnAI.ae - Entering The Physical AI Era: Introducing The Qwen-Robot Suite\n\n### Entering The Physical AI Era: Introducing The Qwen-Robot Suite\n\nBlogging\n\nSharad Agarwal June 19, 2026\n\nFor years, large multimodal models have excelled at understanding digital data, such as text, speech, and images. However, translating this general intelligence into precise physical actions across diverse environme"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-20",
+    "topic": "product_releases",
+    "title": "Coinbase launches AI investment adviser",
+    "url": "https://www.digit.fyi/coinbase-launches-ai-investment-adviser-in-major-test-for-financial-regulation/",
+    "snippet": "Coinbase launches AI investment adviser\n\nskip to main content\n\nShare\n\n# Coinbase Launches AI Investment Adviser in Major Test for Financial Regulation\n\nGraham Turner\n\n19 June 2026, 11.47am\n\n##### The crypto exchange has placed its chatbot inside a registered advisory business, allowing it to generate personalised recommendations under existing US financial rules.\n\nCryptocurrency exchange Coinbase "
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-20",
+    "topic": "product_releases",
+    "title": "Framer launches AI agents for website creation & editing",
+    "url": "https://cmotech.news/story/framer-launches-ai-agents-for-website-creation-editing",
+    "snippet": "Framer launches AI agents for website creation & editing\n\nCMOtech US - Technology news for CMOs & marketing decision-makers\n\nUnited States Powered By\n\nSaaS Digital Transformation LCNC\n\n# Framer launches AI agents for website creation & editing\n\nFri, 19th Jun 2026 (Today)\n\nSOFIAH NICHOLE SALIVIO News Editor\n\nFramer has launched Framer Agents for website creation and management, adding artificial in"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-20",
+    "topic": "product_releases",
+    "title": "Atlassian Debuts Claude Agent for Jira to Automate Pull Requests, TechGig",
+    "url": "https://techgig.com/news/software-devops/atlassian-debuts-claude-agent-for-jira-to-automate-pull-requests/131869763",
+    "snippet": "Atlassian Debuts Claude Agent for Jira to Automate Pull Requests, TechGig\n\n- Software & DevOps\n- 1 min read\n\n# Atlassian Debuts Claude Agent for Jira to Automate Pull Requests\n\nAtlassian has launched Claude Agent for Jira, integrating Anthropic's Claude AI directly into Jira workflows. This new tool automates the creation of draft pull requests from assigned Jira work items, aiming to streamline d"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-20",
+    "topic": "product_releases",
+    "title": "Remote People Launches Command Center, the First Action-Taking AI Assistant for Global Employer of Record (EOR) Operations",
+    "url": "https://www.prnewswire.com/news-releases/remote-people-launches-command-center-the-first-action-taking-ai-assistant-for-global-employer-of-record-eor-operations-302805408.html",
+    "snippet": "Remote People Launches Command Center, the First Action-Taking AI Assistant for Global Employer of Record (EOR) Operations Accessibility Statement Skip Navigation\n\nCommand Center moves AI in global employment from advice to execution. Nine operational actions ship at launch, from salary changes to terminations to multi-country onboarding, completed in plain language across 180+ countries, in any l"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-20",
+    "topic": "product_releases",
+    "title": "FinancialContent - ClearDiagnosis Launches AI-Powered Medical Second Opinions, Reviewed by Licensed Physicians",
+    "url": "https://markets.financialcontent.com/stocks/article/getnews-2026-6-20-cleardiagnosis-launches-ai-powered-medical-second-opinions-reviewed-by-licensed-physicians",
+    "snippet": "FinancialContent - ClearDiagnosis Launches AI-Powered Medical Second Opinions, Reviewed by Licensed Physicians\n\nIndicators\n\nStandard & Poors 500\n\nMarkets:\n\n# ClearDiagnosis Launches AI-Powered Medical Second Opinions, Reviewed by Licensed Physicians\n\n\u24d8 This article is third-party content and does not represent the views of this site. We make no guarantees regarding its accuracy or completeness.\n\nC"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-20",
+    "topic": "ai_agents",
+    "title": "Cadence Introduces a Fully Autonomous AI Super Agent to Transform Chip Design, Powered by NVIDIA \u2022 Digital Reg | Since 2004 \u2022 Tech Review",
+    "url": "https://digitalreg.net/news/cadence-first-full-autonomy-ai-super-agent/",
+    "snippet": "Cadence Introduces a Fully Autonomous AI Super Agent to Transform Chip Design, Powered by NVIDIA \u2022 Digital Reg | Since 2004 \u2022 Tech Review\n\nHome\u203a News\u203a Cadence Introduces a Fully Autonomous AI Super Agent to Transform Chip Design, Powered by NVIDIA\n\n# Cadence Introduces a Fully Autonomous AI Super Agent to Transform Chip Design, Powered by NVIDIA\n\nShare on Facebook Share on X Share via Email\n\nLevel"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-20",
+    "topic": "ai_agents",
+    "title": "Vercel unveils agent tools as deployments turn AI-led",
+    "url": "https://ecommercenews.com.au/story/vercel-unveils-agent-tools-as-deployments-turn-ai-led",
+    "snippet": "Vercel unveils agent tools as deployments turn AI-led\n\neCommerceNews Australia - Technology news for digital commerce decision-makers\n\nAustralia Powered By\n\nSaaS PaaS DevOps\n\n# Vercel unveils agent tools as deployments turn AI-led\n\nFri, 19th Jun 2026 (Yesterday)\n\nMARK TARRE News Chief\n\nVercel has introduced a new group of products for building, deploying and managing AI agents, expanding its agent"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-20",
+    "topic": "ai_agents",
+    "title": "Salesforce Unveils Agentic Advisor For Financial Services",
+    "url": "https://pulse2.com/salesforce-unveils-agentic-advisor-for-financial-services/",
+    "snippet": "Salesforce Unveils Agentic Advisor For Financial Services\n\n# Salesforce Unveils Agentic Advisor For Financial Services\n\nBy Amit Chowdhry \u2022 Yesterday at 10:08 AM\n\nSalesforce Unveils Agentic Advisor For Financial Services\n\nSalesforce announced Agentic Advisor, an AI-powered solution built natively in Agentforce for Financial Services.\n\nAgentic Advisor is designed to act as a digital teammate for fin"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-20",
+    "topic": "ai_small_business",
+    "title": "Claudomat Debuts AI Operator That Runs Core Business Functions for Solo Founders",
+    "url": "https://www.barchart.com/story/news/2563464/claudomat-debuts-ai-operator-that-runs-core-business-functions-for-solo-founders",
+    "snippet": "# Claudomat Debuts AI Operator That Runs Core Business Functions for Solo Founders\n\nAuthor: Plentisoft News\nPublished: 2026-06-19T21:34:21-05:00\nSource: barchart.com (barchart.com)\nLanguage: en\n\n## Story\n\nClaudomat Debuts AI Operator That Runs Core Business Functions for Solo Founders\n\nWatch Live: [[ data.title ]]\n\n[[ type === 'moc' ? 'MARKET ON CLOSE' : 'FREE WEBINAR' ]]\n\n[[ timeLabel ]] WATCH LI"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-20",
+    "topic": "ai_labs",
+    "title": "The Codex app is now on Windows - Codex - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/the-codex-app-is-now-on-windows/1375704/18",
+    "snippet": "The Codex app is now on Windows - Codex - OpenAI Developer Community\n\nSkip to where you left off (post 18) Skip to last reply Skip to top\n\nWelcome to the OpenAI Developer Community, a forum for developers to meet and chat with other developers while building with OpenAI\u2019s APIs and developer platform.\n\nThis is not a place for ChatGPT discussion (with the exception of ChatGPT developer tools, like C"
   }
 ]
