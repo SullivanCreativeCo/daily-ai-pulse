@@ -6962,5 +6962,215 @@
     "title": "Mistral le Chat Gets Flash Answers, Mobile Apps, Pro Tier at $14.99 | TPS",
     "url": "https://tpsreport.news/news/mistral-le-chat-flash-answers-mobile-apps-pro-tier",
     "snippet": "Mistral le Chat Gets Flash Answers, Mobile Apps, Pro Tier at $14.99 | TPS\n\nproduct update Mistral AI\n\n# Mistral launches upgraded le Chat with ~1000 words/sec Flash Answers, iOS/Android apps, and $14.99/month Pro tier\n\nTL;DR\n\nMistral AI has released a comprehensive update to le Chat, introducing Flash Answers feature with ~1000 words/sec generation speed, iOS and Android apps, and new Pro ($14.99/"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-06-19",
+    "headline": "Fable 5 stopped being a tech story this week. It became a geopolitics problem.",
+    "url": "archive/2026-06-19.html",
+    "posts": {
+      "linkedin": [
+        "The most powerful AI model in the world went offline on a Tuesday afternoon.\n\nNot crashed. Not rate-limited. Off. For everyone. Including paying enterprise customers who had built mission-critical workflows on it.\n\nHere's what happened: the US Commerce Department sent Anthropic a letter. They couldn't verify passports at login. So they killed Fable 5 for everybody.\n\nThat was June 12th. It's still dark.\n\nThis was the first time in history that export controls were applied to an AI model. Not chips. Not hardware. The software itself.\n\nThe companies that got hit hardest are the ones with no fallback. No backup model. No parallel workflow.\n\nSo the question I keep coming back to: if your best AI tool went dark with four hours of notice, what breaks first?\n\nNot trying to scare anyone. But the businesses figuring that out now are going to be in a very different position when the next one happens.\n\nAnd there will be a next one.",
+        "Three weeks ago, open-source models were the budget option.\n\nThis week they became the insurance policy.\n\nWhen Fable 5 went offline, the companies with mission-critical workflows built on it had no fallback. The US government used export controls on an AI model. First time that's ever happened. Can't verify passports at login, so they killed it for everyone.\n\nBloomberg, Fortune, and CNBC all landed on the same conclusion: the biggest winner from the Anthropic situation is open source. The logic is simple. If you're running a model on hardware you control, nobody can send a letter and make it disappear.\n\nThe open models aren't a compromise anymore either. Z.AI just dropped GLM-5.2. Built entirely on Huawei Ascend chips. MIT license. No regional restrictions. Rivals Claude Opus on coding at about one-sixth the price.\n\nOpen Router is running panels of open models and claiming Fable-level performance at half the cost.\n\nThe boring choice quietly became the smart one.\n\nFor anyone building AI workflows right now: what's running on hardware you control? Worth having an answer before you need one.",
+        "When the government bans something powerful, most people run.\n\nChris Koerner sees a buy signal.\n\nHis read on Fable 5 is worth sitting with. The US government just used export controls on an AI model for the first time in history. Not because it was abstractly dangerous. Because it was too capable to share freely across borders. Same logic they used when they restricted Nvidia's best chips a few years back.\n\nWhat happened after those chip restrictions? Demand for what the chips enabled didn't slow down. It accelerated. And the people already building in that space moved first when things cleared.\n\nFable will come back. Probably with new restrictions and tiered access. And when it does, the businesses that spent this window getting their workflows ready are going to be starting from a completely different place.\n\n\"Pick one niche, pick one offer. Start building on the inferior models today.\" That's Koerner's advice.\n\nYour ideas aren't bad ideas. They're just not finished ideas. This is a weird window to go finish one."
+      ],
+      "threads": [
+        "Anthropic's most powerful model was live for 3 days.\n\nThen the US government sent a letter. Anthropic couldn't verify passports at login, so they killed access for everyone.\n\nFirst time in history export controls were used on an AI model. Not hardware. The model itself.\n\nThat was June 12th. Still dark. And now it's a G7 talking point.\n\nWhatever you think about regulation: the tool you build on matters. Someone else's switch is still someone else's switch.",
+        "While everyone's watching the Fable drama, Meta quietly went live globally with an AI agent inside WhatsApp and Instagram.\n\nHandles inquiries. Qualifies leads. Books appointments. Recommends products. Escalates to a human when needed.\n\nIf you're a service business and your customers already DM you, this is a follow-up system living in the app they're already using.\n\nBiggest buried story today. Probably the most useful one for most small business owners.",
+        "Z.AI just dropped a model that rivals Claude Opus on coding.\n\nMIT license. No regional restrictions. Built entirely on Huawei Ascend chips. Zero Nvidia hardware.\n\nA company on the US Entity List just built around US export policy.\n\nThis isn't about picking sides. It's about watching where pressure goes. Block one path, people find three others.\n\nOpen source isn't the backup plan anymore. It's starting to look like the plan."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-06-19",
+    "source": "The Koerner Office",
+    "title": "I Tried the Banned AI. Here Are 5 Ways to Profit",
+    "url": "https://www.youtube.com/watch?v=q_FIJmSB0Ro",
+    "video_id": "q_FIJmSB0Ro"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-06-19",
+    "source": "AI Daily Brief",
+    "title": "The Models Trying to Replace Fable",
+    "url": "https://www.youtube.com/watch?v=4hvA6aCwf6E",
+    "video_id": "4hvA6aCwf6E"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-19",
+    "topic": "model_releases",
+    "title": "Nvidia Nemotron 3 Ultra Bets on Speed and Openness to Win Customers",
+    "url": "https://charonhub.deeplearning.ai/nvidias-nemotron-goes-big/",
+    "snippet": "Nvidia Nemotron 3 Ultra Bets on Speed and Openness to Win Customers\n\nLoading the Elevenlabs Text to Speech AudioNative Player...\n\nNvidia\u2019s largest-yet model is among the best-performing from a developer based in the U.S. and among the most open developed by anyone.\n\nWhat\u2019s new: Built on a hybrid transformer-mamba architecture, Nemotron 3 Ultra is a large language model built for long-running agent"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-19",
+    "topic": "model_releases",
+    "title": "A startup claims it broke through a bottleneck that\u2019s holding back LLMs | MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+    "snippet": "A startup claims it broke through a bottleneck that\u2019s holding back LLMs | MIT Technology Review\n\nSkip to Content\n\nEXECUTIVE SUMMARY\n\nMiami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade.\n\nThe details were thin, and many people were unc"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-19",
+    "topic": "model_releases",
+    "title": "What Is Z AI? The Chinese Startup Shaking Up the AI Race With GLM-5.2 - Memeburn",
+    "url": "https://memeburn.com/what-is-z-ai-the-chinese-startup-shaking-up-the-ai-race-with-glm-5-2/",
+    "snippet": "What Is Z AI? The Chinese Startup Shaking Up the AI Race With GLM-5.2 - Memeburn\n\n# What Is Z AI? The Chinese Startup Shaking Up the AI Race With GLM-5.2\n\nZ AI, formerly known as Zhipu AI, has released GLM-5.2, an open-source model with a 1 million token context window that outperforms GPT-5.5 on key coding benchmarks while costing roughly one-sixth the price.\n\nMost Read\n\n### Vivo X500 Series Leak"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-19",
+    "topic": "model_releases",
+    "title": "rewrite this title in other words: China\u2019s Z.AI Releases GLM-5.2: A Model That Rivals Claude Opus\u2014Using Zero Nvidia Chips - Fintech Fetch",
+    "url": "https://fintechfetch.com/rewrite-this-title-in-other-words-chinas-z-ai-releases-glm-5-2-a-model-that-rivals-claude-opus-using-zero-nvidia-chips/",
+    "snippet": "rewrite this title in other words: China\u2019s Z.AI Releases GLM-5.2: A Model That Rivals Claude Opus\u2014Using Zero Nvidia Chips - Fintech Fetch\n\nClose Menu\n\nFacebook X (Twitter) Instagram\n\nFacebook X (Twitter) Instagram\n\nShare\n\nrewrite this content and keep HTML tags as is. This is content from rss feed and I don\u2019t need their *Daily Debrief Newsletter*, their tags from bottom like this *Share this artic"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-19",
+    "topic": "product_releases",
+    "title": "Dreaming: Better memory for a more helpful ChatGPT | OpenAI",
+    "url": "https://openai.com/nl-NL/index/chatgpt-memory-dreaming/",
+    "snippet": "# Dreaming: Better memory for a more helpful ChatGPT | OpenAI\n\nPublished: 2026-06-19T16:12:19+00:00\nSource: openai.com (openai.com)\nLanguage: en\n\n## Story\n\nDreaming: Better memory for a more helpful ChatGPT | OpenAI\n\n4 juni 2026\n\nOnderzoek Product Release\n\n# Dreaming: Better memory for a more helpful ChatGPT\n\nImproving memory synthesis in ChatGPT to optimize for freshness, continuity and relevance"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-19",
+    "topic": "product_releases",
+    "title": "Zensar Technologies Launches 'ZenseAI.AgentMesh' to Accelerate Enterprise AI Adoption at Scale | Morningstar",
+    "url": "https://www.morningstar.com/news/pr-newswire/20260619io87878/zensar-technologies-launches-zenseaiagentmesh-to-accelerate-enterprise-ai-adoption-at-scale",
+    "snippet": "Zensar Technologies Launches 'ZenseAI.AgentMesh' to Accelerate Enterprise AI Adoption at Scale | Morningstar\n\nSign In\n\nZensar Technologies Launches 'ZenseAI.AgentMesh' to Accelerate Enterprise AI Adoption at Scale\n\n## Zensar Technologies Launches 'ZenseAI.AgentMesh' to Accelerate Enterprise AI Adoption at Scale\n\nPR Newswire\n\nPRINCETON, N.J., June 19, 2026\n\nPRINCETON, N.J., June 19, 2026 /PRNewswir"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-19",
+    "topic": "product_releases",
+    "title": "iQanAI launches conversational AI sales app across SEA",
+    "url": "https://telconews.asia/story/iqanai-launches-conversational-ai-sales-app-across-sea",
+    "snippet": "iQanAI launches conversational AI sales app across SEA\n\nTelcoNews Asia - Telecommunications news for ICT decision-makers\n\nAsia Powered By\n\nSaaS Digital Transformation CX\n\n# iQanAI launches conversational AI sales app across SEA\n\nFri, 19th Jun 2026 (Yesterday)\n\nMARK TARRE News Chief\n\niQanAI has launched an AI sales agent platform aimed at businesses across Southeast Asia, focusing on markets where "
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-19",
+    "topic": "product_releases",
+    "title": "CYGNVS launches AI incident command centre for firms",
+    "url": "https://securitybrief.news/story/cygnvs-launches-ai-incident-command-centre-for-firms",
+    "snippet": "CYGNVS launches AI incident command centre for firms\n\nSecurityBrief US - Technology news for CISOs & cybersecurity decision-makers\n\nUnited States Powered By\n\n# CYGNVS launches AI incident command centre for firms\n\nFri, 19th Jun 2026 (Today)\n\nSEAN MITCHELL Publisher\n\nCYGNVS has launched an AI Incident Command Centre for organisations dealing with crises linked to their own AI systems, as reported A"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-19",
+    "topic": "product_releases",
+    "title": "RebuilderAI Debuts Design-to-Manufacturing AI Agent VRING:ON at VivaTech 2026, Unveiling Humanoid-Powered \u2018Dark Factory\u2019 Vision | Morningstar",
+    "url": "https://www.morningstar.com/news/business-wire/20260619894218/rebuilderai-debuts-design-to-manufacturing-ai-agent-vringon-at-vivatech-2026-unveiling-humanoid-powered-dark-factory-vision",
+    "snippet": "RebuilderAI Debuts Design-to-Manufacturing AI Agent VRING:ON at VivaTech 2026, Unveiling Humanoid-Powered \u2018Dark Factory\u2019 Vision | Morningstar\n\nSign In\n\nRebuilderAI Debuts Design-to-Manufacturing AI Agent VRING:ON at VivaTech 2026, Unveiling Humanoid-Powered \u2018Dark Factory\u2019 Vision\n\n- The Seoul-based startup is pitching brands a private, made-to-order design AI, and a longer-term plan to let humanoid"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-19",
+    "topic": "ai_agents",
+    "title": "Vercel debuts eve open source agent framework, tries to fix shadow AI with Passport",
+    "url": "https://www.theregister.com/devops/2026/06/19/vercel-debuts-eve-open-source-agent-framework-tries-to-fix-shadow-ai-with-passport/5258726",
+    "snippet": "Vercel debuts eve open source agent framework, tries to fix shadow AI with Passport\n\nDEvops\n\nCost premium of using AWS indirectly via Vercel is mitigated by more efficient use of compute resources, CTO claims\n\nVercel introduced an open source agent framework called eve at its Ship event in London this week, along with other new features including Passport, an attempt to put employee apps created w"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-19",
+    "topic": "ai_agents",
+    "title": "Solving an ARD problem in AI: Agentic Resource Discovery | InfoWorld",
+    "url": "https://www.infoworld.com/article/4187305/solving-an-ard-problem-in-ai-agentic-resource-discovery.html",
+    "snippet": "Solving an ARD problem in AI: Agentic Resource Discovery | InfoWorld\n\n# Solving an ARD problem in AI: Agentic Resource Discovery\n\nnews\n\nJun 19, 20262 mins\n\n## Microsoft, Google, Cisco and others propose a new way to help AI agents discover the tools they need to perform the tasks they are assigned.\n\nCredit: Shutterstock/Wanan Wanan\n\nEnterprises implementing agentic AI face a challenge: Which tools"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-19",
+    "topic": "ai_agents",
+    "title": "Google Cloud boosts for enterprise agentic at London Summit | Computer Weekly",
+    "url": "https://www.computerweekly.com/news/366644938/Google-Cloud-boosts-for-enterprise-agentic-at-London-Summit",
+    "snippet": "Google Cloud boosts for enterprise agentic at London Summit | Computer Weekly\n\nAntony Adshead\n\nBy\n\n- Antony Adshead, Datacentre and cloud editor (acting)\n\nPublished: 19 Jun 2026 10:34\n\nGoogle Cloud went big on its shift to agentic in its artificial intelligence (AI) strategy, where it set out its vision to move to agentic enterprise automation at its London Summit this week. That transition comes "
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-19",
+    "topic": "ai_agents",
+    "title": "Apple Introduces On-Device Agents That Run Without Cloud Access at WWDC \u2014 Credence Wire",
+    "url": "https://credencewire.com/article/apple-wwdc-2026-on-device-agents",
+    "snippet": "Apple Introduces On-Device Agents That Run Without Cloud Access at WWDC \u2014 Credence Wire\n\nTechnology Breaking\n\n# Apple Introduces On-Device Agents That Run Without Cloud Access at WWDC\n\nThe company said its new AgentKit framework executes multi-step tasks locally on iPhone and Mac, addressing enterprise concerns about data leaving controlled environments.\n\nNina Osei\n\nin 3 days\u00b79 min read\n\nJune 21, "
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-19",
+    "topic": "ai_small_business",
+    "title": "New Solopreneur Operating System Targets Solo Founders And Creators - Self Employed",
+    "url": "https://www.selfemployed.com/news/affordable-virtual-assistant-solopreneur-operating-system-2026/",
+    "snippet": "# New Solopreneur Operating System Targets Solo Founders And Creators - Self Employed\n\nAuthor: Mike Allerson\nPublished: 2026-06-19T20:49:38+00:00\nSource: selfemployed.com (selfemployed.com)\nLanguage: en\n\n## Story\n\nNew Solopreneur Operating System Targets Solo Founders And Creators - Self Employed\n\nJOIN THE COMMUNITY\n\nAffordable Virtual Assistant introduced a Solopreneur Operating System on June 18"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-19",
+    "topic": "ai_small_business",
+    "title": "Twin \u2014 The AI Company Builder | No-Code Agent Automation",
+    "url": "https://twin.so/",
+    "snippet": "Twin \u2014 The AI Company Builder | No-Code Agent Automation\n\n# Build your Twin\n\nBuild your sales agent, connected to your apps and the web, running 24/7.\n\nRun\n\nGEO Content Engine\n\nNew chatFeedAgents\n\nWorkspaces\n\nGEO Content EngineB2B Intent IntelligenceNew Frontier StorageForeclosure OutreachWeekly Market Briefing\n\nH\n\nHugo MercierPro \u00b7 3k credits\n\nGEO Content EngineB2B Intent IntelligenceNew Frontier"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-19",
+    "topic": "ai_small_business",
+    "title": "Lety.ai: Build & Sell AI Agents | White Label AI Platform",
+    "url": "https://lety.ai/",
+    "snippet": "Lety.ai: Build & Sell AI Agents | White Label AI Platform\n\nNEWAgent Builder v2 \u2014 launch in 30 seconds\n\n# Sell AI.To any business.Get paid every month.\n\nSell white label vertical AI agents to any industry. 600+ MCP integrations across every channel, every tool, every system your clients use. Build recurring revenue from every vertical.\n\nTry for free Watch video\n\nPowering agencies that serve brands "
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-19",
+    "topic": "ai_small_business",
+    "title": "SA\u2019s stub is an AI-native accounting platform built for everyday entrepreneurs - Disrupt Africa",
+    "url": "https://disruptafrica.com/2026/06/19/sas-stub-is-an-ai-native-accounting-platform-built-for-everyday-entrepreneurs/",
+    "snippet": "SA\u2019s stub is an AI-native accounting platform built for everyday entrepreneurs - Disrupt Africa\n\nClose Menu\n\nFacebook X (Twitter) Instagram\n\nSouth African startup stub has built an AI-native accounting platform \u201cbuilt for everyday entrepreneurs\u201d, doing all the things a small business needs, wrapped in something simple and intelligent.\n\nFounded in 2023, stub offers easy-to-use tools for sending inv"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-19",
+    "topic": "ai_small_business",
+    "title": "Meta Launches AI Business Agent Globally on WhatsApp and Instagram | BotBeat",
+    "url": "https://botbeat.news/news/meta-launches-ai-business-agent-globally-on-whatsapp-and-instagram-8431",
+    "snippet": "Meta Launches AI Business Agent Globally on WhatsApp and Instagram | BotBeat\n\n> \u258c\n\nPRODUCT LAUNCH Meta 2026-06-19\n\n# Meta Launches AI Business Agent Globally on WhatsApp and Instagram\n\n## Key Takeaways\n\n- \u25b8Meta is introducing token-based pricing for AI agent services within WhatsApp Business Premium, shifting from transaction-based monetization\n- \u25b8The agent combines customer support automation wit"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-19",
+    "topic": "ai_labs",
+    "title": "Supporting Europe\u2019s work in ensuring a trustworthy AI ecosystem  | OpenAI",
+    "url": "https://openai.com/sq-AL/index/supporting-eu-trustworthy-ai-ecosystem/",
+    "snippet": "# Supporting Europe\u2019s work in ensuring a trustworthy AI ecosystem  | OpenAI\n\nPublished: 2026-06-19T00:50:55+00:00\nSource: openai.com (openai.com)\nLanguage: en\n\n## Story\n\nSupporting Europe\u2019s work in ensuring a trustworthy AI ecosystem | OpenAI\n\n11 qershor 2026\n\n\u00c7\u00ebshtjet nd\u00ebrkomb\u00ebtare\n\n# Supporting Europe\u2019s work in ensuring a trustworthy AI ecosystem\n\nOpenAI announces support for the EU Code of Prac"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-19",
+    "topic": "ai_labs",
+    "title": "GPT-5.6 Tuesday \ud83e\udd16, Claude Code artifacts \ud83d\udc68\u200d\ud83d\udcbb, Perplexity\u2019s Brain memory \ud83e\udde0",
+    "url": "https://tldr.tech/ai/2026-06-19",
+    "snippet": "GPT-5.6 Tuesday \ud83e\udd16, Claude Code artifacts \ud83d\udc68\u200d\ud83d\udcbb, Perplexity\u2019s Brain memory \ud83e\udde0\n\n# TLDR AI 2026-06-19\n\n## GPT-5.6 Tuesday \ud83e\udd16, Claude Code artifacts \ud83d\udc68\u200d\ud83d\udcbb, Perplexity\u2019s Brain memory \ud83e\udde0\n\n### Models get the headlines, pipelines hit the deadlines (Sponsor)\n\nEvery layer of the AI stack runs CI on Buildkite: frontier labs (Cursor, Meta, OpenAI, Anthropic, Mistral, Cohere); inference (vLLM, Coreweave, Anyscale); M"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-19",
+    "topic": "ai_labs",
+    "title": "Structured Output Schema Validation Changed Without Notice \u2014 Previously Valid Schemas Now Rejected - API - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/structured-output-schema-validation-changed-without-notice-previously-valid-schemas-now-rejected/1384139",
+    "snippet": "Structured Output Schema Validation Changed Without Notice \u2014 Previously Valid Schemas Now Rejected - API - OpenAI Developer Community = 40rem)\" rel=\"stylesheet\" data-target=\"desktop\" /> = 40rem)\" rel=\"stylesheet\" data-target=\"chat_desktop\" /> = 40rem)\" rel=\"stylesheet\" data-target=\"discourse-ai_desktop\" /> = 40rem)\" rel=\"stylesheet\" data-target=\"discourse-gamification_desktop\" /> = 40rem)\" rel=\"st"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-19",
+    "topic": "ai_labs",
+    "title": "Prompt cache: documented byte-prefix matching does not occur on gpt-5.4 / gpt-5.5 when trailing user content exceeds ~500 tokens - Bugs - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/prompt-cache-documented-byte-prefix-matching-does-not-occur-on-gpt-5-4-gpt-5-5-when-trailing-user-content-exceeds-500-tokens/1384129",
+    "snippet": "Prompt cache: documented byte-prefix matching does not occur on gpt-5.4 / gpt-5.5 when trailing user content exceeds ~500 tokens - Bugs - OpenAI Developer Community\n\n# Prompt cache: documented byte-prefix matching does not occur on gpt-5.4 / gpt-5.5 when trailing user content exceeds ~500 tokens\n\nhttps://community.openai.com/t/prompt-cache-documented-byte-prefix-matching-does-not-occur-on-gpt-5-4-"
   }
 ]
