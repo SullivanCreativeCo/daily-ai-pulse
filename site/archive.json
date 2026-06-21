@@ -7286,5 +7286,151 @@
     "title": "The Codex app is now on Windows - Codex - OpenAI Developer Community",
     "url": "https://community.openai.com/t/the-codex-app-is-now-on-windows/1375704/18",
     "snippet": "The Codex app is now on Windows - Codex - OpenAI Developer Community\n\nSkip to where you left off (post 18) Skip to last reply Skip to top\n\nWelcome to the OpenAI Developer Community, a forum for developers to meet and chat with other developers while building with OpenAI\u2019s APIs and developer platform.\n\nThis is not a place for ChatGPT discussion (with the exception of ChatGPT developer tools, like C"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-06-21",
+    "headline": "GPT-5.6 is coming next week. 1.5 million token context, faster Codex, priced to undercut Anthropic.",
+    "url": "archive/2026-06-21.html",
+    "posts": {
+      "linkedin": [
+        "You don't have to write the automation.\n\nYou just have to do the task once, in front of it.\n\nOpenAI shipped Record & Replay in Codex this week. You perform a task. Codex watches. Then it converts your demonstration into something it can run on demand, on its own.\n\nNo scripting. No prompt engineering. No workflow builder. Show it once and you're done.\n\nResearchers have been trying to build this since the 1980s. It kept breaking at the same step: getting a system to infer a reusable pattern from a single example. Rule-based logic couldn't do it reliably. What changed is routing that step through a language model instead.\n\nThe part I keep coming back to: this isn't just for developers. Anyone with a task they hate doing and have to repeat has a use for this.\n\nThe barrier to automation just dropped in a real way.\n\nWhat's the one task you'd demo first?",
+        "A Chinese AI startup benchmarked ahead of GPT-5.5 and Gemini 3.1 Pro this week.\n\nZ.ai dropped GLM-5.2 on June 16. Their numbers show it performing at Anthropic Opus 4.7-4.8 level. Founder Jie Tang said publicly they'll have a Fable 5-class model before Q1 2027. Elon Musk predicted China would get there around Q1 next year. Tang is saying they'll beat that.\n\nWhether you trust the benchmarks or not, the vendor map just changed.\n\nThis isn't just a model story. It's a market story. US export controls on Fable 5 cut off access in certain markets. Z.ai is filling that gap. New vendor options are appearing exactly where the big Western labs can't operate.\n\nIf you're helping companies evaluate AI tools in those markets, or you're paying attention to where the model landscape is heading, this is worth knowing.\n\nWhat model are you seriously testing right now?",
+        "Thirty million US businesses operate with zero paid employees.\n\nThat number has been sitting in the background of every AI conversation about small business. A tool called Claudomat launched this week specifically for that market. Runs Dev, Marketing, Finance, and Sales on one subscription. Continuously. No staff required.\n\nI haven't tested it. But the data behind the launch caught my attention.\n\nSolo business applications are up more than 20% since early 2025. Nearly half of that growth is in industries with high AI adoption. Technology, finance, professional services.\n\nPeople aren't starting solo businesses despite AI. They're starting them because of it. The math on \"I can do this alone\" just changed.\n\nSeveral profitable little ideas beats one big swing. AI is making each of those little ideas actually runnable by one person.\n\nWhat's the first business function you'd hand off?"
+      ],
+      "threads": [
+        "\"Your Company Doesn't Need an AI Strategy\" is an episode title from this week that I keep thinking about.\n\nHonest take: most AI strategies I've seen are just a list of tools someone wants to feel better about buying.\n\nYou don't need a strategy doc. You need a list of five things you hate doing and a week to actually fix them.\n\nThat's the strategy.",
+        "GPT-5.5 shipped in April with a 1 million token context window.\n\nGPT-5.6 is landing next week with 1.5 million. Faster Codex. Priced to undercut Anthropic.\n\nEarly users say comprehension jumped noticeably. Complex tasks are back to taking 20-40 minutes though.\n\nThe model bar keeps moving. It moved again this week.",
+        "Cerebras ran a trillion-parameter model at 981 tokens per second this week.\n\nFor context: the same request takes 163 seconds on Kimi's own endpoint. It takes 5.6 seconds on Cerebras.\n\nThat's not a faster option. That's a different category of tool.\n\nWhen inference gets this fast, agentic workflows stop feeling like waiting and start feeling like thinking."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-06-21",
+    "source": "AI Daily Brief",
+    "title": "Your Company Doesn't Need an AI Strategy",
+    "url": "https://www.youtube.com/watch?v=sKrr_ckIt4s",
+    "video_id": "sKrr_ckIt4s"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-21",
+    "topic": "model_releases",
+    "title": "OpenAI eyes GPT-5.6 launch next week with 1.5M token context \u2014 AI Insiders",
+    "url": "https://aiinsiders.net/article/openai-eyes-gpt-56-launch-next-week-with-15m-token-context",
+    "snippet": "OpenAI eyes GPT-5.6 launch next week with 1.5M token context \u2014 AI Insiders\n\nHome/ Models/ OpenAI eyes GPT-5.6 launch next week with 1.5M t\u2026\n\nMODELS\n\n# OpenAI eyes GPT-5.6 launch next week with 1.5M token context\n\nReported specs include a 50 percent larger context window, faster Codex responses, and pricing set to undercut Anthropic while Claude Fable 5 availability stays uncertain.\n\nYESTERDAY\n\nOpe"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-21",
+    "topic": "model_releases",
+    "title": "Z.ai Launches GLM-5.2, Claims Fable 5-Class Model Coming Within Months | BotBeat",
+    "url": "https://botbeat.news/news/z-ai-launches-glm-5-2-claims-fable-5-class-model-coming-within-months-8482",
+    "snippet": "Z.ai Launches GLM-5.2, Claims Fable 5-Class Model Coming Within Months | BotBeat\n\n> \u258c\n\nPRODUCT LAUNCH Z.ai 2026-06-20\n\n# Z.ai Launches GLM-5.2, Claims Fable 5-Class Model Coming Within Months\n\n## Key Takeaways\n\n- \u25b8Z.ai's GLM-5.2 matches or exceeds performance of Anthropic's Opus 4.7-4.8 and outperforms GPT-5.5 and Gemini 3.1 Pro\n- \u25b8Z.ai founder claims a Fable 5-class model will arrive before late "
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-21",
+    "topic": "model_releases",
+    "title": "Muse Spark - New Multimodal AI Model Launch | Saudi Shopper",
+    "url": "https://saudishopper.com.sa/en/muse-spark-multimodal-ai-model/",
+    "snippet": "# Muse Spark - New Multimodal AI Model Launch | Saudi Shopper\n\nAuthor: Mohamed Ghamdi\nPublished: 2026-06-21T07:05:18+00:00\nSource: saudishopper.com.sa (saudishopper.com.sa)\nLanguage: en\n\n## Story\n\nMuse Spark - New Multimodal AI Model Launch | Saudi Shopper\n\n# Meta Superintelligence Labs Launches Muse Spark Multimodal Reasoning Model\n\nMuse Spark has been officially launched by Meta Superintelligenc"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-21",
+    "topic": "model_releases",
+    "title": "Cerebras Unveils Kimi K2.6: Fastest 1 Trillion Parameter Model for Agentic Coding (2026)",
+    "url": "https://amalgame.org/article/cerebras-unveils-kimi-k2-6-fastest-1-trillion-parameter-model-for-agentic-coding",
+    "snippet": "Cerebras Unveils Kimi K2.6: Fastest 1 Trillion Parameter Model for Agentic Coding (2026)\n\n# Cerebras Unveils Kimi K2.6: Fastest 1 Trillion Parameter Model for Agentic Coding (2026)\n\nTable of Contents\n\nThe Speed Advantage Kimi K2.6: A Frontier Model Cerebras Wafer-Scale Engine: Built for Scale Unlocking Agentic Coding at Speed Enterprise Trials Available References\n\nCerebras, a leader in the field "
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-21",
+    "topic": "ai_agents",
+    "title": "VIB AI Announces Agentic AI Framework Centered on World Models, Workflows and Evaluation - BitRss - Crypto World News",
+    "url": "https://bitrss.com/vib-ai-announces-agentic-ai-framework-centered-on-world-models-workflows-and-evaluation-205210",
+    "snippet": "VIB AI Announces Agentic AI Framework Centered on World Models, Workflows and Evaluation - BitRss - Crypto World News\n\n# VIB AI Announces Agentic AI Framework Centered on World Models, Workflows and Evaluation\n\nBrawenewcoin 1 month ago 185\n\n---\n\n---\n\nCAYMAN ISLANDS, April 2026\n\nVIB AI, the smart task agents product at vibai.com, today announced an agentic AI framework centered on world models, wor"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-21",
+    "topic": "ai_agents",
+    "title": "AWS AgentCore Turns Enterprise AI Agents Into an Operations Stack",
+    "url": "https://techscurrent.com/2026/06/aws-agentcore-enterprise-ai-agents-operations-stack/",
+    "snippet": "AWS AgentCore Turns Enterprise AI Agents Into an Operations Stack\n\nhttps://techscurrent.com/2026/06/google-vertex-ai-media-endpoint-shutdown-june-30/\n\n###### Google\u2019s Vertex AI Media Endpoint Shutdown Gives Developers a June 30 Migration Deadline\n\nhttps://techscurrent.com/2026/06/google-vertex-ai-media-endpoint-shutdown-june-30/\n\nhttps://techscurrent.com/2026/06/meta-smart-glasses-face-recognition"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-21",
+    "topic": "ai_agents",
+    "title": "OpenAI Codex Automation Gains Record and Replay: Show It Once, Skip the Script",
+    "url": "https://www.techtimes.com/articles/318759/20260620/openai-codex-automation-gains-record-replay-show-it-once-skip-script.htm",
+    "snippet": "OpenAI Codex Automation Gains Record and Replay: Show It Once, Skip the Script\n\ncodex record & replay openai.com\n\nOpenAI has added a feature to its Codex macOS app that changes the barrier to AI-powered automation: instead of writing a prompt or configuring a workflow, a user performs a task while Codex watches, and the agent converts that demonstration into a reusable skill it can execute autonom"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-21",
+    "topic": "ai_agents",
+    "title": "MiniMax M2 & Agent: Ingenious in Simplicity - MiniMax News | MiniMax",
+    "url": "https://www.minimax.io/news/minimax-m2",
+    "snippet": "MiniMax M2 & Agent: Ingenious in Simplicity - MiniMax News | MiniMax\n\nModels\n\nLLM\n\nMiniMax M3\n\nMiniMax M2.7\n\nMiniMax M2.5\n\nVIDEO\n\nMiniMax Hailuo 2.3 / 2.3 Fast\n\nSPEECH & MUSIC\n\nMiniMax Speech 2.8\n\nMiniMax Music 2.6\n\nProduct\n\nAudio\n\nTalkie\n\nAPI\n\nToken Plan\n\nResearch\n\nCompany\n\nIntelligence with everyone\n\nAbout\n\nNews\n\nContact Us\n\n2025.10.27\n\n# MiniMax M2 & Agent: Ingenious in Simplicity\n\nAccess API\n\n"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-21",
+    "topic": "ai_small_business",
+    "title": "",
+    "url": "https://www.mainstream-ai.com/",
+    "snippet": "[![Mainstream AI \u2014 Content Creation & Publishing Platform](https://www.mainstream-ai.com/assets/mainstream-logo-horizontal-CjLb2myX.png)](/)\n\n[Sign In](https://www.mainstream-ai.com/auth?mode=signin)[Explore](https://www.mainstream-ai.com/how-it-works)\n\n[Home](/)\n\n* Features\n\n[How It Works](https://www.mainstream-ai.com/how-it-works)[Pricing](https://www.mainstream-ai.com/pricing)\n\n* For Agencies\n"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-21",
+    "topic": "ai_small_business",
+    "title": "Business Insurance - Magazine - Claudomat Debuts AI Operator That Runs Core Business Functions for Solo Founders",
+    "url": "http://index.businessinsurance.com/businessinsurance/article/marketersmedia-2026-6-20-claudomat-debuts-ai-operator-that-runs-core-business-functions-for-solo-founders",
+    "snippet": "Business Insurance - Magazine - Claudomat Debuts AI Operator That Runs Core Business Functions for Solo Founders\n\nRegister for free\n\nRecent Quotes\n\nView Full List\n\nMy Watchlist\n\nCreate Watchlist\n\nIndicators\n\nDJI\n\nNasdaq Composite\n\nSPX\n\nGold\n\nCrude Oil\n\nBusiness Insurance Index\n\nMarkets\n\nStocks\n\nETFs\n\nTools\n\nMarkets:\n\nOverview\n\nNews\n\nCurrencies\n\nInternational\n\nTreasuries\n\n# Claudomat Debuts AI Oper"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-21",
+    "topic": "ai_labs",
+    "title": "New feature: moderation scores in Chat API responses, by parameter - API - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/new-feature-moderation-scores-in-chat-api-responses-by-parameter/1384260",
+    "snippet": "New feature: moderation scores in Chat API responses, by parameter - API - OpenAI Developer Community\n\nSkip to last reply Skip to top\n\nWelcome to the OpenAI Developer Community, a forum for developers to meet and chat with other developers while building with OpenAI\u2019s APIs and developer platform.\n\nThis is not a place for ChatGPT discussion (with the exception of ChatGPT developer tools, like Codex"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-21",
+    "topic": "ai_labs",
+    "title": "Web & Mobile App: Switching to GPT\u20115.5 Pro redirects to GPT\u20115.3 mini - ChatGPT / Bugs - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/web-mobile-app-switching-to-gpt-5-5-pro-redirects-to-gpt-5-3-mini/1384258",
+    "snippet": "Web & Mobile App: Switching to GPT\u20115.5 Pro redirects to GPT\u20115.3 mini - ChatGPT / Bugs - OpenAI Developer Community\n\nSkip to last reply Skip to top\n\nWelcome to the OpenAI Developer Community, a forum for developers to meet and chat with other developers while building with OpenAI\u2019s APIs and developer platform.\n\nThis is not a place for ChatGPT discussion (with the exception of ChatGPT developer tool"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-21",
+    "topic": "ai_labs",
+    "title": "Codex reports \"Codex ran out of room in the model's context window. Start a new thread or clear earlier history before retrying.\" - Codex - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/codex-reports-codex-ran-out-of-room-in-the-models-context-window-start-a-new-thread-or-clear-earlier-history-before-retrying/1384241",
+    "snippet": "Codex reports \"Codex ran out of room in the model's context window. Start a new thread or clear earlier history before retrying.\" - Codex - OpenAI Developer Community\n\nWelcome to the OpenAI Developer Community, a forum for developers to meet and chat with other developers while building with OpenAI\u2019s APIs and developer platform.\n\nThis is not a place for ChatGPT discussion (with the exception of Ch"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-21",
+    "topic": "ai_labs",
+    "title": "Is codex production ready? - Codex - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/is-codex-production-ready/1384224",
+    "snippet": "Is codex production ready? - Codex - OpenAI Developer Community\n\n# Is codex production ready?\n\nhttps://community.openai.com/t/is-codex-production-ready/1384224\n\nCodex\n\nvolga629 June 20, 2026, 11:11pm 1\n\nHello Everyone, Codex app constantly Context automatically compacted ( every request ) which lead to waste of credits (financial aspect and limits ) without completing any task. Platform Mac Arm la"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-21",
+    "topic": "ai_labs",
+    "title": "Reducing AI-sounding output in a mostly stateless multimodal commentary bot - Prompting - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/reducing-ai-sounding-output-in-a-mostly-stateless-multimodal-commentary-bot/1384232",
+    "snippet": "Reducing AI-sounding output in a mostly stateless multimodal commentary bot - Prompting - OpenAI Developer Community\n\n# Reducing AI-sounding output in a mostly stateless multimodal commentary bot\n\nhttps://community.openai.com/t/reducing-ai-sounding-output-in-a-mostly-stateless-multimodal-commentary-bot/1384232\n\nPrompting\n\nassistants-api\n\nTIME3 June 21, 2026, 1:04am 1\n\nI\u2019m building a low-latency mu"
   }
 ]
