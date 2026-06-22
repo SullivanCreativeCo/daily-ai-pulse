@@ -7432,5 +7432,191 @@
     "title": "Reducing AI-sounding output in a mostly stateless multimodal commentary bot - Prompting - OpenAI Developer Community",
     "url": "https://community.openai.com/t/reducing-ai-sounding-output-in-a-mostly-stateless-multimodal-commentary-bot/1384232",
     "snippet": "Reducing AI-sounding output in a mostly stateless multimodal commentary bot - Prompting - OpenAI Developer Community\n\n# Reducing AI-sounding output in a mostly stateless multimodal commentary bot\n\nhttps://community.openai.com/t/reducing-ai-sounding-output-in-a-mostly-stateless-multimodal-commentary-bot/1384232\n\nPrompting\n\nassistants-api\n\nTIME3 June 21, 2026, 1:04am 1\n\nI\u2019m building a low-latency mu"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-06-22",
+    "headline": "The US government banned foreign access to Anthropic's Fable 5 and Mythos 5 last Friday. No warning. End of business. By Monday it still wasn't back.",
+    "url": "archive/2026-06-22.html",
+    "posts": {
+      "linkedin": [
+        "The US government banned foreign access to Anthropic's Fable 5 last Friday.\n\nNo warning. End of business Friday. By Monday, still not back.\n\nHere's what this week clarified: building your whole workflow on one closed frontier model isn't just a product risk. It's now a policy risk.\n\nThat's a different kind of fragile.\n\nThe people who were already exploring cheaper alternatives, open-weight models, and multi-model routers barely noticed. The people who were all-in on one provider had to scramble.\n\nThis isn't a reason to panic. It's a reason to think about diversification the same way you'd think about any critical vendor.\n\nIf your main AI tool went dark on a Friday with no warning, what breaks? How long before you're back?\n\nIf you have a real answer to that, you're in good shape. If you had to actually think about it just now, that's the work.\n\nWhat does your backup look like?",
+        "Three companies shipped the same idea this week without coordinating.\n\nOpenRouter released Fusion: one API that fans your prompt out to multiple models simultaneously, a judge model picks the best response, you pay roughly half the price of a single frontier model.\n\nSakana AI released Fugu: a model trained to call other models. Recursively if needed. Single API, no single-vendor dependency.\n\nDEPT released Deptify: an AI layer that routes work to whatever tools a client already has, connecting everything without replacing anything.\n\nDifferent products. Same bet.\n\nThe bet is that the value isn't in the biggest model anymore. The value is in whatever knows which model to call.\n\nSix months ago, \"model router\" was a niche builder concept. This week it shipped as a product strategy at three separate companies in the same seven-day window.\n\nWhen the same answer shows up independently from three different directions, it's usually the right answer.\n\nIf you're building anything on AI right now, the routing layer is worth understanding. Because it's not background infrastructure anymore. It's becoming the product.",
+        "Samsung just deployed ChatGPT Enterprise and Codex to all their employees in Korea and all Device eXperience employees worldwide.\n\nOpenAI called it one of their largest enterprise deployments ever.\n\nNot a pilot. Not a department test.\n\nR&D. Manufacturing. Marketing. Product. Corporate functions. Company-wide.\n\nThis is the part that gets lost when we talk about AI adoption: there's a real gap between \"we're exploring AI\" and \"every employee has it now.\"\n\nSamsung just crossed that gap at global scale.\n\nSmall businesses and agencies don't need to roll it out to 100,000 people to get the same effect. But the question is still worth asking: are you in the workflow, or are you still in the exploration phase?\n\nBecause when the largest companies in the world stop piloting and start deploying across entire organizations, the baseline of what \"we're using AI\" means shifts underneath everyone.\n\n\"We're figuring it out\" starts to sound like a different answer than it did last year."
+      ],
+      "threads": [
+        "The best open-weights coding model right now is Chinese, runs locally, has no regional restrictions, and costs one-sixth what GPT-5.5 charges via API.\n\nGLM-5.2 dropped the same week the US banned foreign access to Anthropic's models.\n\nJeremy Howard (genuinely not a hype person) said he's never experienced an open-weights model like it.\n\nThe gap between \"open\" and \"frontier\" just got a lot smaller. And a lot of people are noticing.",
+        "ChatGPT and Claude can now connect directly to your Coinbase account and execute crypto trades on your behalf.\n\nNot help you think through a trade. Execute it.\n\nThat's a different relationship with AI than writing your emails or summarizing your notes.\n\nI'm not saying it's bad. I'm saying most people haven't actually sat with what \"AI agent with financial permissions\" means in practice.\n\nWorth thinking through before you hand over the keys.",
+        "One government decision on a Friday afternoon and the whole AI industry was pointing somewhere different by Monday.\n\nOpen models. Local deployment. Multi-model routing. European sovereignty plays. Chinese open-source filling the gap.\n\nThe labs didn't lose. But everyone started hedging.\n\nThat's the shift. When people stop betting everything on one thing, the whole ecosystem rearranges fast around the new risk."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-06-22",
+    "source": "AI Daily Brief",
+    "title": "The 5-Minute AI Weekly Recap: Realignment Week",
+    "url": "https://www.youtube.com/watch?v=VK56IPRsA-s",
+    "video_id": "VK56IPRsA-s"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-22",
+    "topic": "model_releases",
+    "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model - GADGETARQ",
+    "url": "https://gadgetarq.com/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
+    "snippet": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model - GADGETARQ\n\nFacebook Instagram X Youtube\n\nSearch\n\nHome AI Introducing Gemma 4 12B: a unified, encoder-free multimodal model\n\nAI\n\nJune 21, 2026\n\n# Introducing Gemma 4 12B: a unified, encoder-free multimodal model\n\nBy James Trian\n\nShare\n\n## Introducing Gemma 4 12B: A Leap Forward in Multimodal Intelligence\n\nToday marks a significant "
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-22",
+    "topic": "model_releases",
+    "title": "Sakana Fugu: One Model to Command Them All",
+    "url": "https://sakana.ai/fugu-release/",
+    "snippet": "# Sakana Fugu: One Model to Command Them All\n\nAuthor: Sakana AI\nPublished: 2026-06-22T00:00:00+09:00\nSource: sakana.ai (sakana.ai)\nLanguage: en\n\n## Story\n\nSakana Fugu: One Model to Command Them All\n\nSakana AI Releases \u2018Fugu Ultra\u2019 to Match Frontier Performance via Autonomous Model Orchestration.Our Fugu Ultra model stands shoulder-to-shoulder with leading models like Anthropic\u2019s Fable 5 and Mythos"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-22",
+    "topic": "model_releases",
+    "title": "China's Z.ai open-sourced a frontier coding model the same day Washington banned its American rival - Startup Fortune",
+    "url": "https://startupfortune.com/chinas-zai-open-sourced-a-frontier-coding-model-the-same-day-washington-banned-its-american-rival/",
+    "snippet": "China's Z.ai open-sourced a frontier coding model the same day Washington banned its American rival - Startup Fortune\n\nSearch\n\nSF Jun 22, 2026 \u00b7 12:12 PM\n\nSubscribe\u2709\n\nMost Read\n\nHyundai takes full control of Boston\u2026 Big Tech is borrowing like never\u2026 Russia's Putin is spending $26 billion\u2026 Ant Group is rebuilding Alipay around\u2026 Hyundai takes full control of Boston\u2026 Big Tech is borrowing like never\u2026"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-22",
+    "topic": "model_releases",
+    "title": "Amazon Launches Nova AI 2 Models and Nova Forge: A New Era of Custom AI (2026)",
+    "url": "https://loscamposrv.com/article/amazon-launches-nova-ai-2-models-and-nova-forge-a-new-era-of-custom-ai",
+    "snippet": "Amazon Launches Nova AI 2 Models and Nova Forge: A New Era of Custom AI (2026)\n\n# Amazon Launches Nova AI 2 Models and Nova Forge: A New Era of Custom AI (2026)\n\nImagine having the power to shape AI to perfectly fit your needs. Amazon is making waves in the AI world, not just by creating new models, but by handing the reins over to you! They've unveiled a new family of AI models, and more exciting"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-22",
+    "topic": "product_releases",
+    "title": "Tigera Launches Lynx To Govern Kubernetes AI Agents - Open Source For You",
+    "url": "https://www.opensourceforu.com/2026/06/tigera-launches-lynx-to-govern-kubernetes-ai-agents/",
+    "snippet": "Tigera Launches Lynx To Govern Kubernetes AI Agents - Open Source For You\n\nFor U & Me\n\nCIOs\n\n- Success Stories\n- Thought Leaders\n\nCEOs\n\nSpecials\n\nOpen Source India Videos\n\n- Open Source India 2022\n- Open Source India 2021\n\nSearch\n\n- Help\n- Subscribe to Print Edition\n- Write For Us\n- Contact Us\n\nSign in\n\nWelcome! Log into your account\n\nyour username\n\nyour password\n\nForgot your password? Get help\n\nP"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-22",
+    "topic": "product_releases",
+    "title": "Coinbase AI platform launches agents for crypto transactions",
+    "url": "https://en.cryptonomist.ch/2026/06/22/coinbase-ai-platform-agents/",
+    "snippet": "# Coinbase AI platform launches agents for crypto transactions\n\nAuthor: Francesco Antonio Russo\nPublished: 2026-06-22T08:29:16+00:00\nSource: en.cryptonomist.ch (en.cryptonomist.ch)\nLanguage: en\n\n## Story\n\nCoinbase AI platform launches agents for crypto transactions\n\nSign in\n\nBlockchain\n\nCrypto\n\nCharts\n\nBest of 2026\n\n- Top Popular Crypto Exchanges in 2026\n- Best Crypto Cards for 2026\n\nENG\n\nSign in\n"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-22",
+    "topic": "product_releases",
+    "title": "DEPT\u00ae Unveils Deptify, Its AI Orchestration Layer for the Agentic Era | LBBOnline",
+    "url": "https://lbbonline.com/news/DEPT-Cannes-Lions-2026-AI-Launch",
+    "snippet": "DEPT\u00ae Unveils Deptify, Its AI Orchestration Layer for the Agentic Era | LBBOnline\n\nEDITION \u2192\n\nGlobal\n\n\u2022\n\nUSA\n\n\u2022\n\nUK\n\n\u2022\n\nAUNZ\n\n\u2022\n\nCANADA\n\n\u2022\n\nIRELAND\n\n\u2022\n\nFRANCE\n\n\u2022\n\nGERMANY\n\n\u2022\n\nASIA\n\n\u2022\n\nEUROPE\n\n\u2022\n\nLATAM\n\n\u2022\n\nMEA\n\nEdition : InternationalLanguage : English\n\nNEWS\n\nCREATIVE LIBRARY\n\nIMMORTAL AWARDS\n\nMEMBER COMPANIES\n\nPEOPLE\n\nJOBS\n\nHow LBB Works Plans & Pricing Editorial Toolkit\n\nnews\n\nhttps://lbbonline.c"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-22",
+    "topic": "product_releases",
+    "title": "ValidMind Launches Atryum As Open Source Agent Governance Platform - Open Source For You",
+    "url": "https://www.opensourceforu.com/2026/06/validmind-launches-atryum-as-open-source-agent-governance-platform/",
+    "snippet": "ValidMind Launches Atryum As Open Source Agent Governance Platform - Open Source For You\n\nFor U & Me\n\n- Success Stories\n- Thought Leaders\n\nSpecials\n\nOpen Source India Videos\n\n- Open Source India 2022\n- Open Source India 2021\n\nSearch\n\n- Help\n- Subscribe to Print Edition\n- Write For Us\n- Contact Us\n\nSign in\n\nWelcome! Log into your account\n\nyour username\n\nyour password\n\nForgot your password? Get help"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-22",
+    "topic": "product_releases",
+    "title": "Zilliz Launches Vector Lakebase, a Unified AI Data Platform \u00bb World Business Outlook",
+    "url": "https://worldbusinessoutlook.com/zilliz-launches-vector-lakebase-a-unified-ai-data-platform/",
+    "snippet": "Zilliz Launches Vector Lakebase, a Unified AI Data Platform \u00bb World Business Outlook\n\n# Zilliz Launches Vector Lakebase, a Unified AI Data Platform\n\nImage: Business Wire\n\nZilliz, the company behind Milvus, one of the world\u2019s most widely adopted open-source vector databases, announced on June 22nd the public preview of Zilliz Vector Lakebase, a major Zilliz Cloud release that pairs the production v"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-22",
+    "topic": "ai_agents",
+    "title": "HPE Expands GreenLake with Agentic AI and Private Cloud, Launching in Q3 -  Wedoany",
+    "url": "https://en.wedoany.com/shortnews/286902.html",
+    "snippet": "HPE Expands GreenLake with Agentic AI and Private Cloud, Launching in Q3 - Wedoany\n\nHPE Expands GreenLake with Agentic AI and Private Cloud, Launching in Q3\n\n2026-06-21 17:17\n\nFavorite\n\nen.Wedoany.com Reported - HPE is expanding its GreenLake platform with new agentic AI software and private cloud capabilities, aiming to provide enterprises with an operational model for unified management of AI wo"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-22",
+    "topic": "ai_small_business",
+    "title": "Yoco Unveils AI Business Agent and 20-Plus New Tools to Support South Africa's Small Businesses - iAfrica.com",
+    "url": "https://iafrica.com/yoco-unveils-ai-business-agent-and-20-plus-new-tools-to-support-south-africas-small-businesses/",
+    "snippet": "Yoco Unveils AI Business Agent and 20-Plus New Tools to Support South Africa's Small Businesses - iAfrica.com\n\nClose Menu\n\nMonday, June 22, 2026 - 09:08:21\n\nQuer\u00e9taro, Mexico | 16\u00b0C | Overcast clouds\n\nShare\n\nSouth Africa\u2019s independent businesses could soon have an artificial intelligence assistant helping them manage sales, customers and day-to-day operations, after commerce platform Yoco unveiled"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-22",
+    "topic": "ai_small_business",
+    "title": "Dept\u2019s AI bet on orchestration over operating systems",
+    "url": "https://digiday.com/marketing/connect-dont-absorb-depts-ai-bet-on-orchestration-over-operating-systems/",
+    "snippet": "# Dept\u2019s AI bet on orchestration over operating systems\n\nAuthor: Seb Joseph\nPublished: 2026-06-22T07:01:00+00:00\nSource: digiday.com (digiday.com)\nLanguage: en\n\n## Story\n\nDept\u2019s AI bet on orchestration over operating systems\n\nThe Business of AI\n\n# Connect, don\u2019t absorb: Dept\u2019s AI bet on orchestration over operating systems\n\nIvy Liu\n\nDept doesn\u2019t want to sell marketers AI tools. It wants to sell th"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-22",
+    "topic": "ai_small_business",
+    "title": "OmniDimension Launches End-to-End AI Automation Platform for Customer Engagement",
+    "url": "https://lesechos-comfi.lesechos.fr/press-release/omnidimension-launches-end-to-end-ai-automation-platform-for-customer-engagement-eyQua8Q2whY",
+    "snippet": "OmniDimension Launches End-to-End AI Automation Platform for Customer Engagement\n\npubli\u00e9 le 21/06/2026 \u00e0 11:17\n\n# OmniDimension Launches End-to-End AI Automation Platform for Customer Engagement\n\nPartager ce communiqu\u00e9 de [UNKNOWN] sur Facebook Partager ce communiqu\u00e9 de [UNKNOWN] sur X (Twitter) Partager ce communiqu\u00e9 de [UNKNOWN] sur LinkedIn Partager ce communiqu\u00e9 de [UNKNOWN] par email\n\nMilpita"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-22",
+    "topic": "ai_small_business",
+    "title": "How to Automate Routine Tasks with AI: A Guide for Small Businesses to Save Time \u2013 KBEW \u2013 The Information Station",
+    "url": "https://lifestyle.kbew98country.com/story/286999/how-to-automate-routine-tasks-with-ai-a-guide-for-small-businesses-to-save-time/",
+    "snippet": "# How to Automate Routine Tasks with AI: A Guide for Small Businesses to Save Time \u2013 KBEW \u2013 The Information Station\n\nPublished: 2026-06-22T00:00:00\nSource: lifestyle.kbew98country.com (lifestyle.kbew98country.com)\nLanguage: en\n\n## Story\n\nMore than 80% of AI-using small businesses report productivity gains, according to Gusto Insights.\n\u2022 Repetitive, rules-based tasks typically offer the best starti"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-22",
+    "topic": "ai_small_business",
+    "title": "Australian Startup JJungles Expands Into AI With Announcement of JNX AI \u2013 Express Press Release Distribution",
+    "url": "https://express-press-release.net/news/2026/06/21/1757728",
+    "snippet": "Australian Startup JJungles Expands Into AI With Announcement of JNX AI \u2013 Express Press Release Distribution\n\nSunshine Coast, QLD, Australia, 2026-06-21 \u2014 / EPR Network/ \u2014 JJungles has announced the development of JNX AI, an artificial intelligence assistant built directly into its upcoming AgencyOS platform. The announcement marks the JJungles\u2019 latest step toward creating a truly unified operatin"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-22",
+    "topic": "ai_labs",
+    "title": "Samsung Electronics brings ChatGPT and Codex to employees | OpenAI",
+    "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+    "snippet": "# Samsung Electronics brings ChatGPT and Codex to employees | OpenAI\n\nPublished: 2026-06-21T23:00:00+00:00\nSource: openai.com (openai.com)\nLanguage: en\n\n## Story\n\nSamsung Electronics brings ChatGPT and Codex to employees | OpenAI\n\nJune 21, 2026\n\nCompany\n\n# Samsung Electronics brings ChatGPT and Codex to employees\n\nThe deployment is one of our largest to date.\n\nLoading\u2026\n\nShare\n\n- ChatGPT Enterprise"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-22",
+    "topic": "ai_labs",
+    "title": "Empowering the next generation of Australian startups",
+    "url": "https://blog.google/intl/en-au/company-news/empowering-the-next-generation-of-australian-ai-startups-applications-open-for-google-for-startups-accelerator-australia-new-zealand/",
+    "snippet": "Empowering the next generation of Australian startups\n\n# Empowering the next generation of Australian startups\n\nJun 22, 2026\n\nShare\n\nCopy link\n\nKristine Song\n\nProgram Lead, Google for Startups Accelerator: Australia and New Zealand\n\nShare\n\nCopy link\n\nAustralia has a proud history of startups and tech innovation - from pioneering global mapping systems to developing cutting-edge platforms and produ"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-22",
+    "topic": "ai_labs",
+    "title": "Georgia is now on Street View",
+    "url": "https://blog.google/products-and-platforms/products/maps/georgia-street-view/",
+    "snippet": "# Georgia is now on Street View\n\nPublished: 2026-06-22T06:00:00+00:00\nSource: blog.google (blog.google)\nLanguage: en\n\n## Story\n\nGeorgia is now on Street View\n\n# Street View opens a new window into Georgia\n\nJun 22, 2026\n\nShare\n\nCopy link\n\nExplore some of Georgia\u2019s unique cultural and geographic landmarks on Google Maps.\n\nCynthia Wei\n\nProgram Manager, Google Street View\n\nRead AI-generated summary\n\n#"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-22",
+    "topic": "ai_labs",
+    "title": "Codex Analytics shows GPT-5.4 for most turns, but my CLI is configured to GPT-5.5 \u2014 why? - Codex / Codex CLI - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/codex-analytics-shows-gpt-5-4-for-most-turns-but-my-cli-is-configured-to-gpt-5-5-why/1384303",
+    "snippet": "Codex Analytics shows GPT-5.4 for most turns, but my CLI is configured to GPT-5.5 \u2014 why? - Codex / Codex CLI - OpenAI Developer Community\n\nWelcome to the OpenAI Developer Community, a forum for developers to meet and chat with other developers while building with OpenAI\u2019s APIs and developer platform.\n\nThis is not a place for ChatGPT discussion (with the exception of ChatGPT developer tools, like C"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-22",
+    "topic": "ai_labs",
+    "title": "Is ChatGPT Image Generation Down? - ChatGPT / Bugs - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/is-chatgpt-image-generation-down/1384177/20",
+    "snippet": "Is ChatGPT Image Generation Down? - ChatGPT / Bugs - OpenAI Developer Community\n\nSkip to where you left off (post 20) Skip to last reply Skip to top\n\nYou have selected 0 posts.\n\n1.3k views 26 likes 1 link 16 users\n\nread 4 min\n\nSummarize\n\n20 / 22\n\nJun 22\n\nI\u2019ve been experiencing this as well. I generate ~100 images a day pretty regularly and this issue started to occur for me June 18 sometime betwee"
   }
 ]
