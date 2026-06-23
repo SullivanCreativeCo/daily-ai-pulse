@@ -7618,5 +7618,247 @@
     "title": "Is ChatGPT Image Generation Down? - ChatGPT / Bugs - OpenAI Developer Community",
     "url": "https://community.openai.com/t/is-chatgpt-image-generation-down/1384177/20",
     "snippet": "Is ChatGPT Image Generation Down? - ChatGPT / Bugs - OpenAI Developer Community\n\nSkip to where you left off (post 20) Skip to last reply Skip to top\n\nYou have selected 0 posts.\n\n1.3k views 26 likes 1 link 16 users\n\nread 4 min\n\nSummarize\n\n20 / 22\n\nJun 22\n\nI\u2019ve been experiencing this as well. I generate ~100 images a day pretty regularly and this issue started to occur for me June 18 sometime betwee"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-06-23",
+    "headline": "Sakana AI launched Fugu today. The claim: matches Fable and Mythos benchmarks without using either model.",
+    "url": "archive/2026-06-23.html",
+    "posts": {
+      "linkedin": [
+        "The model isn't the moat anymore. The orchestration is.\n\nSakana launched Fugu today. One API. A fleet of models underneath, routed per task.\n\nThe benchmark says it matches Fable. The first real-world tests say slow and expensive. One user burned a five-hour quota with a single prompt.\n\nThe product needs work. The idea is right.\n\nFable 5 went offline on June 12 because of a government export control order. Every business that built their stack on one model felt it.\n\nFugu's answer is routing. Don't pick one horse. Build a system that picks the best horse for each task, and can swap in a new one when the old one disappears.\n\nThat's showing up everywhere right now. Managed agent businesses, enterprise stack discussions, the way smarter builders are quietly rearchitecting their pipelines.\n\nWhat happens to your AI stack if your primary model goes offline tomorrow?",
+        "The audit is the product. The $5K/month is just what happens after.\n\nThere's a blueprint for a one-person AI agent business doing $50K/month in recurring revenue. The math holds up.\n\n$5K/month per client. Unlimited agents, tokens, and infrastructure. You manage the fleet. They see results.\n\nToken costs: $200 per client per month.\nGross margins: 85%+.\nTime to 10 clients: one new client every six weeks for a year.\n\nThe part people skip past is the funnel.\n\nFree mini audit. You surface one pain point. They see you understand their business without paying anything.\n\nThen $1K for a full audit. You map five to seven workflow opportunities. They pay you to understand their problem.\n\nThen the managed service offer. Audit fee gets credited toward month one. By the time you're pitching $5K/month, they already said yes to you twice.\n\nCorey Ganim walked through the full thing with Nick Vasilescu from Orgo yesterday. 47 minutes and worth every one of them.\n\nWhat are you already doing for yourself that someone else would find useful?",
+        "The AI race stopped being a two-horse race. Most people are still treating it like one.\n\nGLM-5.2 dropped June 17. Open-weight. MIT license. 753 billion parameters.\n\nBeats GPT-5.5 on FrontierSWE at roughly one-sixth the cost. Already sixth on OpenCode's leaderboard after three days.\n\nThe knock on Chinese models has always been: impressive on benchmarks, fades on real contact. GLM-5.2 has been out a week. The fade hasn't shown up.\n\nThree months behind the frontier meant something very different a year ago. It meant most use cases weren't viable. Now, three months behind still covers a massive range of real work. The floor has risen.\n\nAnthropic's models got restricted last month. Fugu launched today trying to route around that. GLM-5.2 is sitting there open-weight and cheap.\n\nThe enterprise AI stack in two years probably doesn't look like two providers and an asterisk for Google.\n\nWhat does your AI stack look like if you had to diversify it today?"
+      ],
+      "threads": [
+        "Sakana launched an AI today that beats Fable benchmarks by routing to Fable under the hood.\n\nWhich is either a brilliant architecture insight or an expensive wrapper.\n\nReal-world: one user burned his five-hour quota with one prompt. Ethan Mollick hit a 30-minute wait on a basic coding task. Output came back worse than GPT-5.5.\n\nBenchmarks said frontier. First week says come back later.\n\nThe product might not be ready. The idea is.",
+        "The smartest part of the $50K/month managed agent business isn't the $5K/month offer.\n\nIt's the free audit.\n\nYou surface one pain point, no charge. They see you understand their operation. Then you charge $1K to map five to seven workflows. They pay you to understand their problem.\n\nBy the time you pitch the managed service, the audit fee gets credited toward month one. Saying no at that point feels like leaving money on the table.\n\nNot just a funnel. That's a weight removal product.",
+        "There's a difference between using AI and actually using AI.\n\nLazy version: quick prompt, generic result. Fine.\n\nStrategic version: upload your client research, your decisions, your brand context. Now it's not a generic assistant. It's thinking with your actual information.\n\nRandall Hartman at Groundwrk makes this point. Same model, totally different output depending on what you feed it.\n\nMost people haven't figured out which one they're doing."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-06-23",
+    "source": "The Koerner Office",
+    "title": "Brutally Honest Business Advice for Beginners",
+    "url": "https://www.youtube.com/watch?v=eb7uCB7w0XQ",
+    "video_id": "eb7uCB7w0XQ"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-06-23",
+    "source": "Corey Ganim",
+    "title": "The $50K/Month One-Person AI Agent Business (Full Blueprint)",
+    "url": "https://www.youtube.com/watch?v=Y7FVj4njob0",
+    "video_id": "Y7FVj4njob0"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-06-23",
+    "source": "AI Daily Brief",
+    "title": "Why AI Users Are Raving About GLM 5.2",
+    "url": "https://www.youtube.com/watch?v=HkVpSoaIKsc",
+    "video_id": "HkVpSoaIKsc"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-06-23",
+    "source": "The Entrepreneur's Studio",
+    "title": "Why Specialization Wins: Building a Creative Agency That Does Less and Earns More | Randall Hartman",
+    "url": "https://www.youtube.com/watch?v=81keg8kh_b0",
+    "video_id": "81keg8kh_b0"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-23",
+    "topic": "model_releases",
+    "title": "Sakana AI's Fugu orchestrates multiple LLMs to match Anthropic's Fable and Mythos benchmarks",
+    "url": "https://the-decoder.com/sakana-ais-fugu-orchestrates-multiple-llms-to-match-anthropics-fable-and-mythos-benchmarks/",
+    "snippet": "Sakana AI's Fugu orchestrates multiple LLMs to match Anthropic's Fable and Mythos benchmarks\n\n# Sakana AI's Fugu orchestrates multiple LLMs to match Anthropic's Fable and Mythos benchmarks\n\nMatthias Bastian View the LinkedIn Profile of Matthias Bastian\n\nJun 23, 2026\n\nNano Banana Pro prompted by THE DECODER\n\n## Key Points\n\n- Japanese AI startup Sakana AI is launching Fugu, a system that dynamically"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-23",
+    "topic": "model_releases",
+    "title": "Sakana Fugu Ultra promises to deliver \u201cthe very best frontier-level performance\u201d by... using frontier AI models. | The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/953904/sakana-fugu-ai",
+    "snippet": "Sakana Fugu Ultra promises to deliver \u201cthe very best frontier-level performance\u201d by... using frontier AI models. | The Verge\n\nThe homepageThe Verge logo.\n\nThe homepageThe Verge logo.\n\nPosted Jun 23, 2026 at 12:04 AM UTC\n\nR\n\nRichard Lawler\n\nSakana Fugu Ultra promises to deliver \u201cthe very best frontier-level performance\u201d by... using frontier AI models.\n\nJapanese AI startup Sakana has posted benchmar"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-23",
+    "topic": "model_releases",
+    "title": "Claude Mythos 5 and Fable 5 Explained: What Anthropic Actually Shipped \u2014 AI DOERS | AI Doers",
+    "url": "https://www.aidoers.io/blog/claude-mythos-5-and-fable-5-explained-what-anthropic-actually-shipped",
+    "snippet": "\u2190 All insights AI Excellence\n\n# Claude Mythos 5 and Fable 5 Explained: What Anthropic Actually Shipped\n\nAnthropic released two Mythos-class models that sit a tier above Opus: Fable 5 is available to everyone today, while Mythos 5 is the identical model with cybersecurity safeguards removed and is restricted to Project Glasswing partners.\n\nIllustration: AI DOERS Studio\n\n## A new tier above Opus\n\nAn"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-23",
+    "topic": "model_releases",
+    "title": "GLM-5.2 Just Beat GPT-5.5 at a Sixth of the Cost",
+    "url": "https://www.labellerr.com/blog/glm-5-2-open-weight-ai-model/",
+    "snippet": "GLM-5.2 Just Beat GPT-5.5 at a Sixth of the Cost\n\nMost AI releases in 2026 follow the same pattern: a closed model from a US lab, a big price tag, and a benchmark table you can't reproduce. GLM-5.2 breaks that pattern.\n\nReleased on June 17, 2026, by Beijing-based Z.ai (formerly Zhipu AI), GLM-5.2 is a 753-billion-parameter open-weight model under the MIT license with a 1M-token context window that"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-23",
+    "topic": "model_releases",
+    "title": "After Mythos 5 Ban, OpenAI Brings GPT-5.5-Cyber To Find Software Bugs Humans Miss | Times Now",
+    "url": "https://www.timesnownews.com/technology-science/after-mythos-5-ban-openai-brings-gpt-5-5-cyber-to-find-software-bugs-humans-miss-article-154731918",
+    "snippet": "After Mythos 5 Ban, OpenAI Brings GPT-5.5-Cyber To Find Software Bugs Humans Miss | Times Now\n\nTechnology & Science\n\n# After Mythos 5 Ban, OpenAI Brings GPT-5.5-Cyber To Find Software Bugs Humans Miss\n\n- Providers\n- Authored by: Govind Choudhary\n- Updated Jun 23, 2026, 08:49 IST\n\n## OpenAI launches GPT-5.5-Cyber, a more powerful AI security model that can detect software flaws faster, as experts w"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-23",
+    "topic": "product_releases",
+    "title": "Prosus launches ToqanClaw, an OpenClaw-style tool builder for its 5m merchants",
+    "url": "https://thenextweb.com/news/prosus-toqanclaw-launch-business-tools",
+    "snippet": "# Prosus launches ToqanClaw, an OpenClaw-style tool builder for its 5m merchants\n\nAuthor: Ana-Maria Stanciuc\nPublished: 2026-06-23T09:56:31+00:00\nSource: thenextweb.com (thenextweb.com)\nLanguage: en\n\n## Story\n\nProsus launches ToqanClaw, an OpenClaw-style tool builder for its 5m merchants\n\n[https://thenextweb.com/](https://thenextweb.com/)\n\nEvents\n\n- [TNW Conference June 19 & 20, 2025](https://then"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-23",
+    "topic": "product_releases",
+    "title": "i10X launches Superagent",
+    "url": "https://www.globenewswire.com/news-release/2026/06/22/3315618/0/en/i10X-launches-Superagent.html",
+    "snippet": "i10X launches Superagent\n\n# i10X launches Superagent\n\n## AI Agent That Works Like a Chief of Staff - and Checks In Before Anything That Matters\n\nJune 22, 2026 16:25 ET | Source: i10x.ai Follow i10x.ai\n\n---\n\nShare\n\n---\n\n100+ pre-connected tools, explicit sign-off before every irreversible step, and flat, predictable pricing -on average around 75% cheaper than the frontier-model route.\n\nSingapore, S"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-23",
+    "topic": "product_releases",
+    "title": "3M launches Ask 3M, an AI-powered tool for faster access to technical expertise",
+    "url": "https://www.prnewswire.com/news-releases/3m-launches-ask-3m-an-ai-powered-tool-for-faster-access-to-technical-expertise-302805785.html",
+    "snippet": "3M launches Ask 3M, an AI-powered tool for faster access to technical expertise Accessibility Statement Skip Navigation\n\nNew digital assistant helps customers evaluate 3M materials, compare options and solve application challenges\n\nST. PAUL, Minn., June 22, 2026 /PRNewswire/ -- 3M has launched Ask 3M, a new AI-powered digital assistant that gives industrial customers direct, self-service access to"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-23",
+    "topic": "product_releases",
+    "title": "Intellegal launches verifiable AI legal research assistant for Philippine legal professionals | Philstar.com",
+    "url": "https://qa.philstar.com/lifestyle/on-the-radar/2026/06/23/2537242/intellegal-launches-verifiable-ai-legal-research-assistant-philippine-legal-professionals",
+    "snippet": "```\nfresh no ads\n```\n\nIntellegal launches verifiable AI legal research assistant for Philippine legal professionals | Philstar.com\n\nPhilstar.com\n\nPilipino Star Ngayon\n\n- HOME\n- Bansa\n- Metro\n- Probinsiya\n- Opinyon\n- Palaro\n- Showbiz\n- True Confessions\n- Dr. Love\n- Litra-talk\n- Kutob\n- Komiks\n\nThe Freeman\n\nPang-Masa\n\nBanat\n\nInteraksyon\n\nMISS UNIVERSE PHILIPPINES 2026\n\nBUDHI\n\nTHE FILIPINO SPOTLIGHT\n"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-23",
+    "topic": "product_releases",
+    "title": "Zoom adds AI tools to Virtual Agent for customer service",
+    "url": "https://itbrief.asia/story/zoom-adds-ai-tools-to-virtual-agent-for-customer-service",
+    "snippet": "Zoom adds AI tools to Virtual Agent for customer service\n\nIT Brief Asia - Technology news for CIOs & IT decision-makers\n\nAsia Powered By\n\n# Zoom adds AI tools to Virtual Agent for customer service\n\nTue, 23rd Jun 2026 (Today)\n\nSEAN MITCHELL Publisher\n\nZoom has added new artificial intelligence tools to Zoom Virtual Agent, its customer service product. The update includes Agent Architect and Agent P"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-23",
+    "topic": "ai_agents",
+    "title": "Mavenir Launches Agentic Service Assurance Framework to Monitor and Operate the Network - Mavenir",
+    "url": "https://www.mavenir.com/press-releases/mavenir-launches-agentic-service-assurance-framework-to-monitor-and-operate-the-network/",
+    "snippet": "Mavenir Launches Agentic Service Assurance Framework to Monitor and Operate the Network - Mavenir\n\nMavenir> Press Releases> Mavenir Launches Agentic Service Assurance Framework to Monitor and Operate the Network\n\n06/22/2026\n\n# Mavenir Launches Agentic Service Assurance Framework to Monitor and Operate the Network\n\nTM Forum IG1251/IG1453-aligned, multi-agent framework that learns from NOC expertise"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-23",
+    "topic": "ai_agents",
+    "title": "Antal Emerges From Stealth With an Autonomous AI Agent Stack for the $3 Trillion Private Credit Market",
+    "url": "https://www.prnewswire.com/news-releases/antal-emerges-from-stealth-with-an-autonomous-ai-agent-stack-for-the-3-trillion-private-credit-market-302806885.html",
+    "snippet": "Antal Emerges From Stealth With an Autonomous AI Agent Stack for the $3 Trillion Private Credit Market Accessibility Statement Skip Navigation\n\nLenders are already originating more than $30M a month in aggregate on Antal's agents, with no added headcount. The agents do the work. The credit decision stays human.\n\nSAN FRANCISCO, June 22, 2026 /PRNewswire/ -- https://getantal.ai/ Antal, the autonomou"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-23",
+    "topic": "ai_agents",
+    "title": "Introducing /goal | xAI",
+    "url": "https://x.ai/news/introducing-goal",
+    "snippet": "# Introducing /goal | xAI\n\nPublished: 2026-06-22T00:00:00Z\nSource: x.ai (x.ai)\nLanguage: en\n\n## Story\n\nIntroducing /goal | xAI\n\nBack to news\n\nJun 22, 2026\n\n# Introducing /goal\n\nUse /goal for long-running autonomous task execution in Grok Build.\n\n---\n\nToday we're introducing`/goal` in Grok Build. This new mode yields long-running, autonomous execution, helping you hand off larger implementation tas"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-23",
+    "topic": "ai_agents",
+    "title": "No Claude Fable 5? No problem: Sakana achieves frontier performance with new Fugu multi-model, auto synthesis system | VentureBeat",
+    "url": "https://venturebeat.com/orchestration/no-claude-fable-5-no-problem-sakana-achieves-frontier-performance-with-new-fugu-multi-model-auto-synthesis-system",
+    "snippet": "No Claude Fable 5? No problem: Sakana achieves frontier performance with new Fugu multi-model, auto synthesis system | VentureBeat\n\nCarl Franzen\n\n9:13 am, PT, June 22, 2026\n\nCredit: VentureBeat made with OpenAI ChatGPT-Images-2.0\n\nAdd to Google Preferred Source\n\nLast night, the increasingly enterprise-focused AI startup Sakana launched Fugu, a multi-agent orchestration system that delivers frontie"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-23",
+    "topic": "ai_agents",
+    "title": "Introducing Agent Architect and Agent Performance Suite for Zoom Virtual Agent | Zoom\t\t\t -\t\t\tZoom",
+    "url": "https://news.zoom.com/introducing-agent-architect-and-agent-performance-suite-for-zoom-virtual-agent/",
+    "snippet": "Introducing Agent Architect and Agent Performance Suite for Zoom Virtual Agent | Zoom - Zoom Introducing Agent Architect and Agent Performance Suite for Zoom Virtual Agent | Zoom\n\n# Introducing Agent Architect and Agent Performance Suite for Zoom Virtual Agent\n\nNew Zoom Virtual Agent capabilities help organizations build AI agents faster, optimize performance over time, and deliver more personaliz"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-23",
+    "topic": "ai_small_business",
+    "title": "Affordable Virtual Assistant Introduces a Solopreneur Operating System \u2013 Physical AI News",
+    "url": "https://physicalainews.com/affordable-virtual-assistant-introduces-a-solopreneur-operating-system/",
+    "snippet": "Affordable Virtual Assistant Introduces a Solopreneur Operating System \u2013 Physical AI News\n\nThe new model combines virtual assistant support, zero-cost customized CRM (Customer Relationship Management) application, zero-cost website, and operational workflows for entrepreneurs building serious businesses before they can hire full internal teams.\n\nAffordable Virtual Assistant, owned by Maandukya Cor"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-23",
+    "topic": "ai_small_business",
+    "title": "Empowering restaurants with effortless AI tools to make their business grow | Just Eat Takeaway.com Newsroom",
+    "url": "https://newsroom.justeattakeaway.com/en-WW/267359-empowering-restaurants-with-effortless-ai-tools-to-make-their-business-grow/",
+    "snippet": "Empowering restaurants with effortless AI tools to make their business grow | Just Eat Takeaway.com Newsroom\n\nJune 23 2026, 09:05 (CEST)\n\n# Empowering restaurants with effortless AI tools to make their business grow\n\n- \u00d6sterreich\n- A new AI platform called ToqanClaw is being launched by Prosus and Just Eat Takeaway.com. This technology enables small businesses and restaurants to develop dashboards"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-23",
+    "topic": "ai_small_business",
+    "title": "Shopify Flow in 2026: Automation Backbone or Workflow Ceiling? \u2013 Ecommerce Times",
+    "url": "https://ecommerce-times.com/shopify-flow-in-2026-automation-backbone-or-workflow-ceiling/",
+    "snippet": "Shopify Flow in 2026: Automation Backbone or Workflow Ceiling? \u2013 Ecommerce Times\n\nMonday, June 22, 2026\n\nBreaking\n\nKlaviyo\u2019s Rumored Walmart Partnership Talks Are Spooking Salesforce Commerce ShipBob\u2019s CFO Departure and Rumored FedEx Talks Are Unsettling the 3PL Market Shopify\u2019s Rumored Acquisition of Sanity.io Is Rattling the Headless CMS Market Amazon\u2019s Seller Central Overhaul Is Rattling Top FB"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-23",
+    "topic": "ai_small_business",
+    "title": "New AI Platform Gives Digital Product Creators and Affiliate Marketers a Complete Shopify Content Pipeline Starting June 23rd | MarketMinute",
+    "url": "https://www.marketminute.com/article/abnewswire-2026-6-23-new-ai-platform-gives-digital-product-creators-and-affiliate-marketers-a-complete-shopify-content-pipeline-starting-june-23rd",
+    "snippet": "New AI Platform Gives Digital Product Creators and Affiliate Marketers a Complete Shopify Content Pipeline Starting June 23rd | MarketMinute\n\n# New AI Platform Gives Digital Product Creators and Affiliate Marketers a Complete Shopify Content Pipeline Starting June 23rd\n\nPublished at June 22nd 2026, 10:29 PM EDT via AB Newswire\n\n\u24d8 This article is third-party content and does not represent the views"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-23",
+    "topic": "ai_labs",
+    "title": "Daybreak: Tools for securing every organization in the world | OpenAI",
+    "url": "https://openai.com/index/daybreak-securing-the-world/",
+    "snippet": "# Daybreak: Tools for securing every organization in the world | OpenAI\n\nPublished: 2026-06-22T17:06:00+00:00\nSource: openai.com (openai.com)\nLanguage: en\n\n## Story\n\nDaybreak: Tools for securing every organization in the world | OpenAI\n\nJune 22, 2026\n\nSecurity Company\n\n# Daybreak: Tools for securing every organization in the world\n\nNew tools, partnerships, and the full version of GPT\u20115.5\u2011Cyber to "
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-23",
+    "topic": "ai_labs",
+    "title": "Google DeepMind and A24 launch research partnership",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/deepmind-a24-research-partnership/",
+    "snippet": "Google DeepMind and A24 launch research partnership\n\nToday, Google DeepMind and A24 are announcing a first-of-its-kind partnership focused on research. The collaboration pairs a world-leading research lab with the industry\u2019s most filmmaker-forward studio to help artists develop new workflows and techniques. This ensures the tools of the future are shaped by the creators who use them.\n\nThis partner"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-23",
+    "topic": "ai_labs",
+    "title": "Google AI Studio\u2019s Interactions API for Gemini models and agents",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/interactions-api-general-availability/",
+    "snippet": "# Google AI Studio\u2019s Interactions API for Gemini models and agents\n\nPublished: 2026-06-22T17:15:00+00:00\nSource: blog.google (blog.google)\nLanguage: en\n\n## Story\n\nGoogle AI Studio\u2019s Interactions API for Gemini models and agents\n\n# Interactions API: our primary interface for Gemini models and agents\n\nShare\n\nCopy link\n\nA single unified endpoint for Gemini models and agents with server-side state, ba"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-23",
+    "topic": "ai_labs",
+    "title": "How Florida State University uses Google\u2019s NotebookLM.",
+    "url": "https://blog.google/products-and-platforms/products/education/florida-state-university-notebooklm/",
+    "snippet": "How Florida State University uses Google\u2019s NotebookLM.\n\n# NotebookLM is transforming student success at FSU\n\nJun 22, 2026\n\nShare\n\nCopy link\n\nSee how Florida State University is putting NotebookLM into the hands of students to help them take an active role in how they learn.\n\nJonathan Fouzard\n\nVice President & Chief Information Officer, Florida State University\n\nRead AI-generated summary\n\n## Genera"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-23",
+    "topic": "ai_labs",
+    "title": "Introducing Record & Replay - #3 by hogi - Codex - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/introducing-record-replay/1384088/3",
+    "snippet": "Introducing Record & Replay - #3 by hogi - Codex - OpenAI Developer Community\n\n# Introducing Record & Replay\n\nhttps://community.openai.com/t/introducing-record-replay/1384088\n\nCodex\n\nannouncement\n\nhogi June 22, 2026, 5:56pm 3\n\nCould it be used to find alternative programs for existing workflows?"
   }
 ]
