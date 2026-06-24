@@ -7860,5 +7860,183 @@
     "title": "Introducing Record & Replay - #3 by hogi - Codex - OpenAI Developer Community",
     "url": "https://community.openai.com/t/introducing-record-replay/1384088/3",
     "snippet": "Introducing Record & Replay - #3 by hogi - Codex - OpenAI Developer Community\n\n# Introducing Record & Replay\n\nhttps://community.openai.com/t/introducing-record-replay/1384088\n\nCodex\n\nannouncement\n\nhogi June 22, 2026, 5:56pm 3\n\nCould it be used to find alternative programs for existing workflows?"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-06-24",
+    "headline": "Anthropic just told on themselves.",
+    "url": "archive/2026-06-24.html",
+    "posts": {
+      "linkedin": [
+        "Anthropic just told on themselves.\n\n65% of their product team's code is written by Claude Tag.\n\nNot a case study. Not a beta test. Their actual product team, shipping actual product.\n\nClaude Tag lives in Slack as a real team member. You tag it in. It plans the work. Executes the work. Delivers results back to the channel. Remembers context across conversations. Picks up where the last person left off.\n\nThe part I keep coming back to: the people who understand this technology better than anyone are the ones trusting it the most. They're not hedging. They're running 65% of their core output through it.\n\nThat number is going to reframe a lot of conversations about team structure over the next 12 months.\n\nWhat does it actually mean for your team? I don't think anyone's fully figured that out yet. But the people building the model already have an answer.",
+        "There's a 5x cost difference hiding in how you're prompting AI right now.\n\nGreg Isenberg and Amir broke it down this week.\n\nSame task. Same output quality. 44 cents with GLM 5.2. $2.38 with Opus 4.8.\n\nThe move is model chaining. You don't run everything through the expensive model.\n\nOpus plans the work. Opus reads the screenshot because GLM 5.2 doesn't have vision yet. Then GLM 5.2 executes. A reviewer polishes.\n\nEach model does what it's actually good at.\n\nAt small scale, 5x doesn't feel like much. At a hundred tasks a day, it adds up fast. At the team level, it becomes a real line item.\n\nSetup takes about 20 minutes. ZAI API key into Cursor, override the endpoint, add GLM 5.2 as a custom model. OpenRouter works too if you're on Codex.\n\nThe Isenberg episode is 22 minutes and worth every one.\n\nIf you're running AI daily and paying full freight on every task, at least do the math.",
+        "SEO was about ranking. The new problem is what AI says about you when someone asks.\n\nContentful launched something called Palmata today. It tracks how AI answer engines describe your brand and suggests changes to improve those responses.\n\nMost of your potential customers are already asking ChatGPT and Perplexity about your category before they ever hit your website. You probably know that.\n\nWhat you probably haven't mapped out yet is what those tools are actually saying about you.\n\nIt's not about backlinks anymore. It's about the signals AI uses to form impressions: your content footprint, competitor mentions, how you show up across the web.\n\nSmall businesses are almost entirely invisible in this conversation right now. Big brands have teams on it. Everyone else is hoping for the best.\n\nThis is a new category and it's early. Being early here is worth something."
+      ],
+      "threads": [
+        "Anthropic's own product team writes 65% of their code with Claude Tag.\n\nNot a test. Not a pilot. That's the actual number.\n\nClaude Tag lives in Slack, takes tasks, plans them out, executes them, delivers results back to the channel. Whole team, one shared Claude identity.\n\nThe people who understand AI better than anyone aren't hedging. They're at 65% and probably climbing.\n\nThat's the real news today.",
+        "Most people run every AI task through the most expensive model. That's the whole problem.\n\nThere's a move called model chaining. Heavy model plans. Light model executes. Reviewer polishes. Each step costs less than running everything through the top tier.\n\nReal math from this week: 44 cents vs $2.38 for the same output quality. Roughly 5x.\n\nGreg Isenberg and Amir walked through the full setup. 22 minutes. Worth it.\n\nIf you're building with AI daily, at least do the math.",
+        "The small business AI problem was never about the models.\n\nIt was access. Nobody running a restaurant or a plumbing company has time to learn prompt engineering or hire a developer.\n\nProsus launched ToqanClaw today. 5 million merchants and entrepreneurs. Build business tools by describing what you need. No code, no IT queue.\n\nMost of the AI conversation happens at the top of the market. This one's aimed at the middle."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-06-24",
+    "source": "Startup Ideas Podcast",
+    "title": "GLM 5.2: Set Up Open Sourced AI with Cursor/Codex etc",
+    "url": "https://www.youtube.com/watch?v=xa-9O5cDm3c",
+    "video_id": "xa-9O5cDm3c"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-24",
+    "topic": "model_releases",
+    "title": "Multiverse Computing Launches Pulsar 16B in collaboration",
+    "url": "https://www.globenewswire.com/news-release/2026/06/23/3315999/0/en/Multiverse-Computing-Launches-Pulsar-16B-in-collaboration-with-NVIDIA-Frontier-Grade-Reasoning-at-Half-the-Parameters.html",
+    "snippet": "Multiverse Computing Launches Pulsar 16B in collaboration\n\n# Multiverse Computing Launches Pulsar 16B in collaboration with NVIDIA: Frontier-Grade Reasoning at Half the Parameters\n\n## The new open reasoning model delivers 30B-class intelligence in a 16B-parameter footprint, with 3.1B active parameters, validated independently on NVIDIA accelerated computing infrastructure.\n\nJune 23, 2026 09:00 ET "
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-24",
+    "topic": "model_releases",
+    "title": "OpenAI Launches GPT-5.5-Cyber for Automated Vulnerability Detection and Patching",
+    "url": "https://cyberpress.org/openai-launches-gpt-5-5-cyber/",
+    "snippet": "OpenAI Launches GPT-5.5-Cyber for Automated Vulnerability Detection and Patching\n\nSign in Join\n\nSign in\n\nWelcome!Log into your account\n\nyour username\n\nyour password\n\nForgot your password?\n\nCreate an account\n\nPrivacy Policy\n\nSign up\n\nWelcome!Register for an account\n\nyour email\n\nyour username\n\nA password will be e-mailed to you.\n\nPrivacy Policy\n\nPassword recovery\n\nRecover your password\n\nyour email\n\n"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-24",
+    "topic": "model_releases",
+    "title": "Seedance 2.5 Release: What ByteDance Just Shipped",
+    "url": "https://kie.ai/blog/seedance-2-5-release-deep-dive",
+    "snippet": "Seedance 2.5 Release: What ByteDance Just Shipped\n\nTLDRInside ByteDance's Seedance 2.5 launch at Volcano Engine 2026: 30-second one-shot video, 4K on 2.0, and a refreshed Seed family.\n\n# Seedance 2.5 Release: What ByteDance Just Shipped at Volcano Engine 2026\n\nByteDance shipped Seedance 2.5 on stage at the Volcano Engine 2026 conference earlier today. Not via a blog post, not via a quiet HuggingFa"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-24",
+    "topic": "model_releases",
+    "title": "Anthropic debuts Claude Tag, a more capable AI teammate that lives within Slack - SiliconANGLE",
+    "url": "https://siliconangle.com/2026/06/23/anthropic-debuts-claude-tag-capable-ai-teammate-lives-within-slack/",
+    "snippet": "Anthropic debuts Claude Tag, a more capable AI teammate that lives within Slack - SiliconANGLE\n\nSHARE\n\nUPDATED 21:25 EDT / JUNE 23 2026\n\nAI\n\n### Anthropic debuts Claude Tag, a more capable AI teammate that lives within Slack\n\nAnthropic PBC today unveiled a new version of its chatbot Claude that lives inside Slack, where it operates like a virtual employee.\n\nIt\u2019s called Claude Tag, and it\u2019s designe"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-24",
+    "topic": "product_releases",
+    "title": "Introducing Claude Tag \\ Anthropic",
+    "url": "https://www.anthropic.com/news/introducing-claude-tag",
+    "snippet": "# Introducing Claude Tag \\ Anthropic\n\nPublished: 2026-06-23T00:00:00Z\nSource: anthropic.com (anthropic.com)\nLanguage: en\n\n## Story\n\nIntroducing Claude Tag \\ Anthropic\n\nSkip to main contentSkip to footer\n\n[Home](https://www.anthropic.com/)\n\n- [Research](https://www.anthropic.com/research)\n- [Policy](https://www.anthropic.com/policy)\n- Commitments\n- Learn\n- [News](https://www.anthropic.com/news)\n\n[T"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-24",
+    "topic": "product_releases",
+    "title": "Anthropic launches Claude Tag, replacing its Slack app with a persistent AI teammate that learns, monitors and works autonomously | VentureBeat",
+    "url": "https://venturebeat.com/technology/anthropic-launches-claude-tag-replacing-its-slack-app-with-a-persistent-ai-teammate-that-learns-monitors-and-works-autonomously",
+    "snippet": "# Anthropic launches Claude Tag, replacing its Slack app with a persistent AI teammate that learns, monitors and works autonomously | VentureBeat\n\nAuthor: Michael Nu\u00f1ez\nPublished: 2026-06-23T10:00:00-07:00\nSource: venturebeat.com (venturebeat.com)\nLanguage: en\n\n## Story\n\nAnthropic launches Claude Tag, replacing its Slack app with a persistent AI teammate that learns, monitors and works autonomousl"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-24",
+    "topic": "product_releases",
+    "title": "Dragos launches EmberAI for operational technology teams",
+    "url": "https://securitybrief.co.uk/story/dragos-launches-emberai-for-operational-technology-teams",
+    "snippet": "Dragos launches EmberAI for operational technology teams\n\nSecurityBrief UK - Technology news for CISOs & cybersecurity decision-makers\n\nUnited Kingdom Powered By\n\n# Dragos launches EmberAI for operational technology teams\n\nWed, 24th Jun 2026 (Today)\n\nDragos has launched EmberAI, an artificial intelligence assistant for operational technology security teams. The product is aimed at critical infrast"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-24",
+    "topic": "product_releases",
+    "title": "Prosus\u00a0launches ToqanClaw to help businesses build AI tools through conversation",
+    "url": "https://www.fortuneindia.com/business-news/prosuslaunches-toqanclaw-to-help-businesses-build-ai-tools-through-conversation/144737",
+    "snippet": "Prosus launches ToqanClaw to help businesses build AI tools through conversation\n\nx\n\nAI Generated by Fortune India\n\nProsus launches ToqanClaw to help businesses build AI tools through conversationJune 24, 2026, 13:06 IST\n\nShare\n\nShare\n\nLoading AI Hub...\n\nDisclaimer : Certain content on this page, including summaries, timelines, FAQs, glossaries, highlights, insights, and other supplementary inform"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-24",
+    "topic": "product_releases",
+    "title": "Contentful launches Palmata for AI brand monitoring",
+    "url": "https://ecommercenews.com.au/story/contentful-launches-palmata-for-ai-brand-monitoring",
+    "snippet": "Contentful launches Palmata for AI brand monitoring\n\neCommerceNews Australia - Technology news for digital commerce decision-makers\n\nAustralia Powered By\n\nSaaS MarTech ERP\n\n# Contentful launches Palmata for AI brand monitoring\n\nWed, 24th Jun 2026 (Today)\n\nJOSEPH GABRIEL LAGONSIN News Editor\n\nContentful has launched Palmata, an AI brand monitoring and recommendation product that is now generally av"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-24",
+    "topic": "ai_agents",
+    "title": "IBM and HuggingFace Launch CUGA: Lightweight Agentic AI Framework - AI Herald",
+    "url": "https://artificialintelligenceherald.com/ai/huggingface-ibm-cuga-lightweight-agentic-ai-framework-2026",
+    "snippet": "IBM and HuggingFace Launch CUGA: Lightweight Agentic AI Framework - AI Herald\n\nESC\n\nType to search articles, AI models, and free tools...\n\n\u21b5 to visit \u2191\u2193 navigate ESC close\n\nFull search \u2192\n\n## IBM Research and HuggingFace Launch CUGA for Agentic AI Development\n\nIn a move that could simplify the path from experimental agents to production-ready applications, HuggingFace and IBM Research have released"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-24",
+    "topic": "ai_agents",
+    "title": "NVIDIA Announces BioNeMo Agent Toolkit \u2014 Tools for Agents to Accelerate Scientific Discovery | NVIDIA Newsroom",
+    "url": "https://nvidianews.nvidia.com/news/nvidia-launches-bionemo-agent-toolkit-giving-ai-agents-the-tools-to-accelerate-scientific-discovery",
+    "snippet": "# NVIDIA Announces BioNeMo Agent Toolkit \u2014 Tools for Agents to Accelerate Scientific Discovery | NVIDIA Newsroom\n\nPublished: 2026-06-23T00:00:00Z\nSource: nvidia.com (nvidianews.nvidia.com)\nLanguage: en\n\n## Story\n\nNVIDIA Announces BioNeMo Agent Toolkit \u2014 Tools for Agents to Accelerate Scientific Discovery | NVIDIA Newsroom\n\n[https://www.nvidia.com/en-us](https://www.nvidia.com/en-us)\n\n[https://nvid"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-24",
+    "topic": "ai_agents",
+    "title": "Zafin Launches AIOS, an End-to-End Platform to Orchestrate and Govern Agentic Work",
+    "url": "https://www.prnewswire.com/news-releases/zafin-launches-aios-an-end-to-end-platform-to-orchestrate-and-govern-agentic-work-302806892.html",
+    "snippet": "Zafin Launches AIOS, an End-to-End Platform to Orchestrate and Govern Agentic Work Accessibility Statement Skip Navigation\n\nAIOS helps regulated institutions orchestrate agents, models, tools and workflows from intent to governed outcome, with cost controls and proof of work built in\n\nTORONTO, June 23, 2026 /PRNewswire/ - Zafin, an AI platform company for regulated institutions, today launched Zaf"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-24",
+    "topic": "ai_agents",
+    "title": "Kinter.ai Launches Agentic AI Accountants to Automate The Financial Close",
+    "url": "https://www.prnewswire.com/news-releases/kinterai-launches-agentic-ai-accountants-to-automate-the-financial-close-302807330.html",
+    "snippet": "Kinter.ai Launches Agentic AI Accountants to Automate The Financial Close Accessibility Statement Skip Navigation\n\nBacked by a16z, Bain, and YC, Kinter introduces the first autonomous workforce for accounting teams, enabling continuous closes inside existing ERPs.\n\nSAN FRANCISCO, June 23, 2026 /PRNewswire/ -- Kinter (kinter.ai), the AI workforce platform for accounting teams, today announced the p"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-24",
+    "topic": "ai_small_business",
+    "title": "Solo Trillion AI Platform Opens Early Access for the Agentic Era",
+    "url": "https://www.prweb.com/releases/solo-trillion-ai-platform-opens-early-access-for-the-agentic-era-302807818.html",
+    "snippet": "Solo Trillion AI Platform Opens Early Access for the Agentic Era Accessibility Statement Skip Navigation\n\nSolo Trillion is opening early access to a limited group of solo operators, founders, analysts, creators, consultants, and thought leaders. The AI-native platform provides operators with a shared source of truth, a single conductor, and a coordinated workspace for AI workflows, intelligence, w"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-24",
+    "topic": "ai_small_business",
+    "title": "Probook founder George Eliadis has boosted profits for small businesses with AI | Fox Business",
+    "url": "https://www.foxbusiness.com/technology/wharton-grad-who-used-pressure-wash-homes-raises-40m-help-plumbers-electricians-run-businesses-ai",
+    "snippet": "Probook founder George Eliadis has boosted profits for small businesses with AI | Fox Business\n\n### Recommended Videos\n\n#### Meta announces new AI Smart Glasses with Kylie Jenner collaboration\n\nhttps://www.foxbusiness.com/video/6399208306112\n\n#### President Trump lauds Pennsylvania manufacturing growth\n\nhttps://www.foxbusiness.com/video/6399195788112\n\n#### This is how investors can develop a stron"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-24",
+    "topic": "ai_small_business",
+    "title": "Introducing ToqanClaw: Build Any Business Tool From a Single Conversation | Morningstar",
+    "url": "https://www.morningstar.com/news/business-wire/20260623520470/introducing-toqanclaw-build-any-business-tool-from-a-single-conversation",
+    "snippet": "Introducing ToqanClaw: Build Any Business Tool From a Single Conversation | Morningstar\n\nSign In\n\nIntroducing ToqanClaw: Build Any Business Tool From a Single Conversation\n\nProsus is the first in Europe to make OpenClaw inspired tools available to its 5 million restaurants, merchants and entrepreneurs\n\nProsus N.V (\"Prosus\") (Euronext Amsterdam: PRX; JSE: PRX) (Prosus) today announced its introduci"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-24",
+    "topic": "ai_small_business",
+    "title": "ZenBusiness enhances its AI copilot for new business owners with step-by-step blueprints - SiliconANGLE",
+    "url": "https://siliconangle.com/2026/06/23/zenbusiness-enhances-ai-copilot-new-business-owners-step-step-blueprints/",
+    "snippet": "# ZenBusiness enhances its AI copilot for new business owners with step-by-step blueprints - SiliconANGLE\n\nAuthor: Kyt Dotson\nPublished: 2026-06-23T10:00:48-04:00\nSource: siliconangle.com (siliconangle.com)\nLanguage: en\n\n## Story\n\nZenBusiness enhances its AI copilot for new business owners with step-by-step blueprints - SiliconANGLE\n\n[![Siliconangle](https://d15shllkswkct0.cloudfront.net/wp-conten"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-24",
+    "topic": "ai_labs",
+    "title": "Mistral OCR 4 : SOTA OCR for Document Intelligence",
+    "url": "https://mistral.ai/news/ocr-4/",
+    "snippet": "# Mistral OCR 4 : SOTA OCR for Document Intelligence\n\nPublished: 2026-06-23T14:01:37+00:00\nSource: mistral.ai (mistral.ai)\nLanguage: en\n\n## Story\n\nMistral OCR 4 : SOTA OCR for Document Intelligence\n\n[Go to homepage](https://mistral.ai/)\n\n[Contact sales](https://mistral.ai/contact/)\n\nMenu\n\nProducts\n\nSolutions\n\nResearch\n\nDevelopers\n\nBlog\n\nCustomers\n\nCompany\n\n[Contact sales](https://mistral.ai/contac"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-24",
+    "topic": "ai_labs",
+    "title": "Preserving cultural heritage: Inside Google DeepMind\u2019s collaboration with Pel\u00e9",
+    "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/preserving-cultural-heritage-inside-google-deepminds-collaboration-with-pele/",
+    "snippet": "Preserving cultural heritage: Inside Google DeepMind\u2019s collaboration with Pel\u00e9\n\n# Preserving cultural heritage: Inside Google DeepMind\u2019s collaboration with Pel\u00e9\n\nShare\n\nCopy link\n\nKK Walker\n\nExecutive Creative Director, Google AI and Gemini\n\nShare\n\nCopy link\n\nOn August 2, 1959, Pel\u00e9 scored the most beautiful goal of his career: three consecutive \u201csombreros\u201d without the ball touching the ground. Ye"
   }
 ]
