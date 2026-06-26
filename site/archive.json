@@ -8200,5 +8200,207 @@
     "title": "How agents are transforming work | OpenAI",
     "url": "https://openai.com/index/how-agents-are-transforming-work/",
     "snippet": "# How agents are transforming work | OpenAI\n\nPublished: 2026-06-25T02:00:00Z\nSource: openai.com (openai.com)\nLanguage: en\n\n## Story\n\nHow agents are transforming work | OpenAI\n\nSkip to main content\n\n[OpenAI Home](https://openai.com/)\n\n- [Research](https://openai.com/research/index/)\n- Products\n- [Business](https://openai.com/business/)\n- [Developers](https://openai.com/api/)\n- [Company](https://ope"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-06-26",
+    "headline": "KPMG ran the numbers on CEO accountability in AI strategy, and the gap is bigger than most people expect: companies where the CEO personally owns AI are 3x more likely to report real ROI.",
+    "url": "archive/2026-06-26.html",
+    "posts": {
+      "linkedin": [
+        "KPMG just ran the numbers.\n\nCompanies where the CEO personally owns the AI strategy are 3x more likely to report real ROI from it.\n\nNot 3% better. Three times.\n\nWhen the CEO is accountable: 57% of companies say AI is delivering meaningful business value. When they're not? That drops to 21%.\n\nSmall businesses have a structural edge here: you are the CEO.\n\nNot a committee. Not a center of excellence. Not a subcommittee waiting on a quarterly review. You.\n\nWhich means you have more control over this than most Fortune 500 companies do.\n\nBut only if you're actually in it. Not watching from a distance. Not handing it to a VA and hoping for the best.\n\nThe ROI gap isn't about tools. It's about ownership.\n\nIf you're the CEO, you can close that gap yourself. Right now.\n\nWhat would change about how you use AI this week if you treated it like it was personally your job to understand how it works?",
+        "Every AI project I've seen go sideways hits the same wall first.\n\nNot the model. Not the prompt. Not the integration.\n\nThe information. Nobody knows where it actually lives.\n\nIt's in a Google Drive folder nobody's opened. It's in someone's head. It's in three Slack threads and a forwarded email chain.\n\nAdam Sandler from Viable Edge is charging $4,700 to fix that before anything else happens.\n\nSeven markdown files. No Obsidian. No vector databases. Just organized context: who the client is, how they make decisions, what's in progress, what's open, what they've learned.\n\nHe runs a $750 audit first. Most clients turn that into the full build. And then the knowledge base itself shows him what to sell next.\n\nWhat hit me watching this: it's the offer that belongs in front of every 'I want to use AI but don't know where to start' conversation.\n\nThe answer isn't a chatbot. The answer is organized information.\n\nWhat are you already doing for yourself that someone else would find useful?",
+        "A Chinese lab just dropped a model that outperformed GPT-5.5 on coding benchmarks.\n\nMIT license. On Hugging Face. Anyone can download and run it.\n\nPrice: $0.95 to $2 per million input tokens. OpenAI and Anthropic charge $5 to $15 for equivalent work.\n\nThat's an 80-90% discount on frontier-class AI.\n\nThis is the second time in 2026 a Chinese lab has done this. First DeepSeek. Now Z.ai.\n\nThe 'AI is too expensive' objection is losing its teeth fast. And the pitch of 'we have access to the best models' is turning into a commodity argument.\n\nWhat doesn't commoditize: knowing which problem to solve first. Knowing how to organize the context that makes any model actually useful. Getting a messy business from scattered information to something that actually runs.\n\nThat's not a model problem. That's a human problem.\n\nAnd there are still a lot of businesses that need help with it."
+      ],
+      "threads": [
+        "KPMG just showed it.\n\nCompanies where the CEO personally owns the AI strategy see 3x the ROI compared to ones where it's delegated out.\n\nSmall business owners have a weird structural advantage here: you are the CEO.\n\nNo approval layers. No governance committee. Just you deciding whether this actually matters.\n\nThe gap isn't about tools. It's about ownership.\n\nYou already have the org chart for this. The question is whether you're treating it that way.",
+        "Watched a guy walk through his $4,700 offer today.\n\nHe organizes a client's company knowledge into 7 markdown files before building anything on top of it.\n\nNo Obsidian. No vector databases. Just: here's who you are, here's how you decide, here's what's open.\n\nThe first product isn't the agent. It's the context the agent needs.\n\nAnd then the knowledge base itself tells him what to sell next.\n\nThat's the part I keep thinking about.",
+        "Liquid AI dropped a 230 million parameter model that beats models 4x its size at pulling data out of documents.\n\nRuns on phones. Laptops. Robotics. Free for companies under $10M in revenue.\n\nModels used to only go one direction: bigger. Now capable AI keeps shrinking.\n\nOn-device AI for actual day-to-day business work is closer than most people think. That changes where you can deploy this stuff. And who can afford it."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-06-26",
+    "source": "Startup Ideas Podcast",
+    "title": "\"Learn AI\u201d Is Bad Advice. Learn This Instead",
+    "url": "https://www.youtube.com/watch?v=jJIOA4GroBw",
+    "video_id": "jJIOA4GroBw"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-06-26",
+    "source": "Corey Ganim",
+    "title": "I'm Getting Rich Selling AI Second Brains for $5K Each (Full Blueprint)",
+    "url": "https://www.youtube.com/watch?v=fI68tU0L86s",
+    "video_id": "fI68tU0L86s"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-06-26",
+    "source": "AI Daily Brief",
+    "title": "CEO-Led AI Gets 3X the ROI",
+    "url": "https://www.youtube.com/watch?v=VICrf_yV0co",
+    "video_id": "VICrf_yV0co"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-26",
+    "topic": "model_releases",
+    "title": "Liquid AI's smallest model yet LFM2.5-230M beats models 4X its size at data extraction, can run 'anywhere'   | VentureBeat",
+    "url": "https://venturebeat.com/technology/liquid-ais-smallest-model-yet-lfm2-5-230m-beats-models-4x-its-size-at-data-extraction-can-run-anywhere",
+    "snippet": "Liquid AI's smallest model yet LFM2.5-230M beats models 4X its size at data extraction, can run 'anywhere' | VentureBeat\n\nFeatured\n\nCarl Franzen\n\n4:31 pm, PT, June 25, 2026\n\nVentureBeat made with OpenAI ChatGPT-Images-2.0\n\nAdd to Google Preferred Source\n\nLiquid AI, founded by former MIT computer scientists, today released its smallest AI language model yet, LFM2.5-230M, and enterprises would do we"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-26",
+    "topic": "model_releases",
+    "title": "Chinese AI startup Z.ai targets AGI as GLM-5.2 beats GPT-5.5 and narrows the gap with OpenAI and Anthropic - Tech Startups",
+    "url": "https://techstartups.com/2026/06/25/chinese-ai-startup-z-ai-targets-agi-as-glm-5-2-beats-gpt-5-5-and-narrows-the-gap-with-openai-and-anthropic/",
+    "snippet": "About\n\n- Trust & Safety\n- Editorial Policy\n\nJune 26, 2026\n\nAbout\n\n- Trust & Safety\n- Editorial Policy\n\nTopics\n\nSearch Startups\n\n- Top Startups\n- Startup List\n- Submit Your Startup\n\nTools\n\n- Free Startup Valuation Calculator\n\n# Chinese AI startup Z.ai targets AGI as GLM-5.2 beats GPT-5.5 and narrows the gap with OpenAI and Anthropic\n\nDaniel Levi Posted On June 25, 2026\n\n0\n\n445 Views\n\n---\n\n0\n\nShares"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-26",
+    "topic": "model_releases",
+    "title": "Unisound U2: Benchmarks, Pricing, and Full Specs",
+    "url": "https://llm-stats.com/blog/research/u2-launch",
+    "snippet": "Unisound U2: Benchmarks, Pricing, and Full Specs\n\nUnisound released U2 on June 8, 2026, its next-generation flagship and the first model the company has positioned squarely as an agent foundation model. Unisound (Yunzhisheng, HKEX: 9678) is a Beijing AI company founded in 2012, best known for conversational and healthcare AI deployed across more than 100 hospitals, and for its earlier 60B-paramete"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-26",
+    "topic": "model_releases",
+    "title": "Introducing Un-0: Generating Images with Coupled Oscillators - Unconventional AI",
+    "url": "https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/",
+    "snippet": "Introducing Un-0: Generating Images with Coupled Oscillators - Unconventional AI\n\n#### June 25, 2026\n\nModel Release\n\n# Introducing Un-0: Generating Images with Coupled Oscillators\n\nWritten by:\n\nTL;DR. Executing deep neural networks on GPUs has dominated AI for a decade, but we think the next jump in energy efficiency demands a fundamentally different computer, one where physics does the computing."
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-26",
+    "topic": "model_releases",
+    "title": "Z.AI's GLM-5.2 model challenges Anthropic and OpenAI with lower costs",
+    "url": "https://cryptobriefing.com/zai-glm-5-2-challenges-anthropic-openai/",
+    "snippet": "Z.AI's GLM-5.2 model challenges Anthropic and OpenAI with lower costs\n\nSEARCH\n\nSearching...\n\n# Z.AI\u2019s GLM-5.2 model challenges Anthropic and OpenAI with lower costs\n\nChinese AI lab Zhipu AI launches an open-weight model with 744B+ parameters that rivals top closed models at a fraction of the price\n\nShare\n\nShare on X Share on LinkedIn Share on Facebook\n\nAdd us on Google\n\nby Editorial Team\n\nJun. 25,"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-26",
+    "topic": "product_releases",
+    "title": "UpDoc Debuts First FDA-Cleared Clinical AI Platform Built for Real-Time Patient Care Delivery and Intelligent Care Coordination",
+    "url": "https://www.prnewswire.com/news-releases/updoc-debuts-first-fda-cleared-clinical-ai-platform-built-for-real-time-patient-care-delivery-and-intelligent-care-coordination-302810065.html",
+    "snippet": "UpDoc Debuts First FDA-Cleared Clinical AI Platform Built for Real-Time Patient Care Delivery and Intelligent Care Coordination Accessibility Statement Skip Navigation\n\nWith $18M in oversubscribed seed financing and initial deployments at leading health systems nationwide, UpDoc enables clinicians to fully embrace agentic AI's potential in clinical settings\n\nPALO ALTO, Calif., June 25, 2026 /PRNew"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-26",
+    "topic": "product_releases",
+    "title": "Jotform AI App Builder Creates Apps in Minutes",
+    "url": "https://www.martechcube.com/jotform-unveils-ai-app-builder-turning-ideas-into-functional-apps-in-minutes/",
+    "snippet": "Jotform AI App Builder Creates Apps in Minutes\n\nJotform has announced the launch of its AI App Builder, an AI-powered experience that enables users to create complete, professional-grade applications using simple natural language prompts.\n\nDesigned for small to large businesses, educators, healthcare providers, entrepreneurs, and individual creators, the Jotform AI App Builder removes the technica"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-26",
+    "topic": "product_releases",
+    "title": "Salesforce launches Help Agent to simplify AI customer service deployment - SiliconANGLE",
+    "url": "https://siliconangle.com/2026/06/25/salesforce-launches-help-agent-simplify-ai-customer-service-deployment/",
+    "snippet": "Salesforce launches Help Agent to simplify AI customer service deployment - SiliconANGLE\n\nSHARE\n\nUPDATED 09:00 EDT / JUNE 25 2026\n\nAI\n\n### Salesforce launches Help Agent to simplify AI customer service deployment\n\nSalesforce Inc. is launching a new prepackaged artificial intelligence agent for customer service, enabling organizations to build and deploy AI agents quickly.\n\nToday Salesforce announc"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-26",
+    "topic": "product_releases",
+    "title": "Bitdefender launches RealCheck app to spot deepfakes",
+    "url": "https://itbrief.com.au/story/bitdefender-launches-realcheck-app-to-spot-deepfakes",
+    "snippet": "Bitdefender launches RealCheck app to spot deepfakes\n\nIT Brief Australia - Technology news for CIOs & IT decision-makers\n\n# Bitdefender launches RealCheck app to spot deepfakes\n\nThu, 25th Jun 2026 (Today)\n\nBitdefender has launched RealCheck, a mobile app that analyses videos for signs of deepfake manipulation and deceptive intent. The tool is available on iOS and Android in Australia and 13 other "
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-26",
+    "topic": "product_releases",
+    "title": "Samepage.ai Launches to Bring Continuous Intelligence to Product Teams",
+    "url": "https://www.prnewswire.com/news-releases/samepageai-launches-to-bring-continuous-intelligence-to-product-teams-302809943.html",
+    "snippet": "Samepage.ai Launches to Bring Continuous Intelligence to Product Teams Accessibility Statement Skip Navigation\n\nBacked by $4.85 million in funding, Samepage Signals automatically surfaces critical insights from across product, engineering, customer, and business systems.\n\nNEW YORK, June 25, 2026 /PRNewswire/ -- Samepage today launched Samepage Signals, the AI-powered second brain for product leade"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-26",
+    "topic": "ai_agents",
+    "title": "Jaz Open Source Agent Orchestration Framework Now Available | Tech Pulse",
+    "url": "https://www.thenextgentechinsider.com/pulse/jaz-open-source-agent-orchestration-framework-now-available",
+    "snippet": "Jaz Open Source Agent Orchestration Framework Now Available | Tech Pulse\n\nAI/ML\n\nJun 25, 2026\n\n4 min\n\n# Jaz Open Source Agent Orchestration Framework Now Available\n\nHiren Dave\n\nListenShare\n\nThe newly released Jaz framework introduces a powerful way to manage autonomous coding agents through a persistent, visual \"board\" interface. By utilizing a robust client/server architecture, it enables long-ru"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-26",
+    "topic": "ai_agents",
+    "title": "Archetype AI Launches Newton Agents, a Portfolio of Ready-to-Deploy Physical AI Agents for Industrial Operations | Morningstar",
+    "url": "https://www.morningstar.com/news/business-wire/20260625354851/archetype-ai-launches-newton-agents-a-portfolio-of-ready-to-deploy-physical-ai-agents-for-industrial-operations",
+    "snippet": "Archetype AI Launches Newton Agents, a Portfolio of Ready-to-Deploy Physical AI Agents for Industrial Operations | Morningstar\n\nSign In\n\nArchetype AI Launches Newton Agents, a Portfolio of Ready-to-Deploy Physical AI Agents for Industrial Operations\n\nArchetype AI, the Physical AI company, launched Newton Agents, a portfolio of ready-to-deploy Physical AI agents powered by Newton, Archetype AI's fo"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-26",
+    "topic": "ai_agents",
+    "title": "Exclusive: LucidLink launches MCP server to give AI agents shared access to distributed files - SiliconANGLE",
+    "url": "https://siliconangle.com/2026/06/25/exclusive-lucidlink-launches-mcp-server-give-ai-agents-shared-access-distributed-files/",
+    "snippet": "Exclusive: LucidLink launches MCP server to give AI agents shared access to distributed files - SiliconANGLE\n\nSHARE\n\nUPDATED 09:00 EDT / JUNE 25 2026\n\nAI\n\n### Exclusive: LucidLink launches MCP server to give AI agents shared access to distributed files\n\nLucidLink Corp., the maker of a cloud network-attached storage system based on object storage technology, today extended its distributed file syst"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-26",
+    "topic": "ai_small_business",
+    "title": "AI Automation for Small Business: The 2026 Complete Guide | AI Essentials Blog",
+    "url": "https://aiessentials.us/blog/ai-automation-for-small-business-complete-guide",
+    "snippet": "AI Automation for Small Business: The 2026 Complete Guide | AI Essentials Blog\n\nServices\n\nBook a Call Free Report\n\n[ SUMMARIZE WITH AI ]\n\n[\n\nWorkflow Audit\n\n]\n\n### 99% sure you are not seeing all the spots AI can help you in your business.\n\nAre your workflows optimized with the most up to date solution, or are they costing you and your team time and money?\n\nAI automation for small business means u"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-26",
+    "topic": "ai_small_business",
+    "title": "SMBs test AI agents before ROI is proven, Upwork finds - TechInformed",
+    "url": "https://techinformed.com/smbs-test-ai-agents-before-roi-is-proven-upwork-finds/",
+    "snippet": "SMBs test AI agents before ROI is proven, Upwork finds - TechInformed\n\nListen\n\nText-to-speech not supported in this browser\n\n# SMBs test AI agents before ROI is proven, Upwork finds\n\nUpwork finds SMB leaders piloting AI agents across decision support, workflow automation and planning while productivity gains remain mostly below 25%\n\n---\n\nSMB leaders are moving AI agents into pilots faster than the"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-26",
+    "topic": "ai_small_business",
+    "title": "Falcon Web Flows Launches AI Agent System For Small Business Automation - Pizzafranchisehub.com",
+    "url": "https://www.pizzafranchisehub.com/archives/32405",
+    "snippet": "Falcon Web Flows Launches AI Agent System For Small Business Automation - Pizzafranchisehub.com\n\nSearch\n\nTop Posts\n\nLG CNS Launches AI-Powered SAP Testing Platform for...\n\nFalcon Web Flows Launches AI Agent System for...\n\nAdvisor CRM Launches Ember AI Platform for Financial...\n\nVastAdvisor v1.20 Unifies CRM Data and AI Campaign...\n\nOmnichat Unveils OmniClaw AI to Power Retail Revenue...\n\nAdvisor C"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-26",
+    "topic": "ai_labs",
+    "title": "How agents are transforming work | OpenAI",
+    "url": "https://openai.com/index/how-agents-are-transforming-work",
+    "snippet": "# How agents are transforming work | OpenAI\n\nPublished: 2026-06-25T02:00:00+00:00\nSource: openai.com (openai.com)\nLanguage: en\n\n## Story\n\nHow agents are transforming work | OpenAI\n\nSkip to main content\n\n[OpenAI Home](https://openai.com/)\n\n- [Research](https://openai.com/research/index/)\n- Products\n- [Business](https://openai.com/business/)\n- [Developers](https://openai.com/api/)\n- [Company](https:"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-26",
+    "topic": "ai_labs",
+    "title": "Study notebooks in the Gemini app",
+    "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-study-notebooks/",
+    "snippet": "Study notebooks in the Gemini app\n\n# 5 ways to learn with study notebooks in the Gemini app\n\nJun 25, 2026\n\nShare\n\nCopy link\n\nIn the Gemini app, we\u2019re rolling out study notebooks, a dedicated space that turns Gemini into an interactive, adaptive learning platform. They offer personalized lessons for every student\u2019s learning goal, whether that\u2019s tackling a school course, quiz or standardized test.\n\n"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-26",
+    "topic": "ai_labs",
+    "title": "ISTE 2026: Supporting teaching and learning with connected AI tools",
+    "url": "https://blog.google/products-and-platforms/products/education/collection-iste-june-2026/",
+    "snippet": "ISTE 2026: Supporting teaching and learning with connected AI tools\n\nShare\n\nx.com\n\nFacebook\n\nLinkedIn\n\nCopy link\n\n# ISTE 2026: Supporting teaching and learning with connected AI tools\n\nJun 25, 2026 \u00b7 6 articles 25 Jun, 2026\n\narticles 6\n\nJun 25, 2026 6 articles 25 Jun, 2026\n\narticles 6\n\nGreat teaching is built on the human connection and relationship between a teacher and student. As technology evo"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-26",
+    "topic": "ai_labs",
+    "title": "Supporting students with connected AI tools for more personalized learning",
+    "url": "https://blog.google/products-and-platforms/products/education/iste-students-2026/",
+    "snippet": "# Supporting students with connected AI tools for more personalized learning\n\nPublished: 2026-06-25T09:00:00+00:00\nSource: blog.google (blog.google)\nLanguage: en\n\n## Story\n\nSupporting students with connected AI tools for more personalized learning\n\nSkip to main content\n\n[The Keyword](https://blog.google/)\n\nSupporting students with connected AI tools for more personalized learning\n\nShare\n\n[x.com](h"
   }
 ]
