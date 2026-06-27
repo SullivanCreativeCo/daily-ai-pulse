@@ -8402,5 +8402,199 @@
     "title": "Supporting students with connected AI tools for more personalized learning",
     "url": "https://blog.google/products-and-platforms/products/education/iste-students-2026/",
     "snippet": "# Supporting students with connected AI tools for more personalized learning\n\nPublished: 2026-06-25T09:00:00+00:00\nSource: blog.google (blog.google)\nLanguage: en\n\n## Story\n\nSupporting students with connected AI tools for more personalized learning\n\nSkip to main content\n\n[The Keyword](https://blog.google/)\n\nSupporting students with connected AI tools for more personalized learning\n\nShare\n\n[x.com](h"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-06-27",
+    "headline": "OpenAI previewed GPT-5.6 yesterday. Three models, one family: Sol for hard problems, Terra for high-volume business work at 2x cheaper than GPT-5.5, Luna for fast everyday tasks.",
+    "url": "archive/2026-06-27.html",
+    "posts": {
+      "linkedin": [
+        "OpenAI previewed three new models yesterday.\n\nSol, Terra, and Luna. Hard problems, volume work, fast everyday tasks. The tiering finally matches how you'd actually pick a model.\n\nBut almost nobody can use them yet. About 20 organizations got early access. The rest of us wait.\n\nHere's why: Trump signed an executive order on June 2 requiring federal agencies to assess new frontier models before wide release. The government is now a formal checkpoint in the AI release pipeline.\n\nYou can read that two ways. One: this slows things down. Two: this is what responsible deployment at the frontier actually looks like when there's political will behind it.\n\nFor anyone building in regulated spaces, cybersecurity, legal, finance, the safety stack claim matters. OpenAI says Sol launched with their most robust stack to date, with automated red-teaming built in.\n\nThe access question used to be \"when does it launch?\"\n\nNow it's \"who reviews it first?\"\n\nThat's a different conversation.",
+        "The best cold pitch I've seen this week has nothing to do with AI.\n\nWell, kinda.\n\nChris Koerner dropped an episode this week walking through a full playbook: use GoHighLevel's AI tools to build a website for a local handyman in about 15 minutes. Then cold-text the owner: \"I live near you. I can't believe you don't have a website. I built one for you. Can I send you the link?\"\n\nIf they say yes, you show it. If they want to keep it, $75/month.\n\n100 clients is $7,500/month. Nearly pure profit before any upsells.\n\nThe genius isn't the tech. The tech is just the unlock.\n\nThe genius is showing up with the thing already done. You're not selling a website. You're removing the reason they've been putting it off for three years. That's not just a service. That's a weight removal product.\n\nWhat are you already doing for yourself that a local business owner would find useful?\n\nThat question keeps paying out.",
+        "Google just made cheap agents capable of doing actual computer work.\n\nGemini 3.5 Flash now has computer use baked in. Click, scroll, type, across browser and desktop environments. Not as an add-on. Built directly into the lightweight model.\n\nThat matters because the old math was: computer use requires a big expensive model, which limits how many tasks you can run at scale.\n\nNew math: the fast affordable model does the clicking. Sustained multi-step automation without the cost blowing up.\n\nFor small business owners with repetitive software tasks, this is worth paying attention to right now. The tools to automate the stuff you're manually clicking through every day are genuinely affordable.\n\nIf it's repeatable, it's a skill. And if it's a skill, you can teach an agent to do it.\n\nWhat's the most repetitive thing you click through every single day?"
+      ],
+      "threads": [
+        "OpenAI dropped three new models yesterday. Sol, Terra, Luna.\n\nSol for hard problems. Terra for volume work at 2x cheaper than GPT-5.5. Luna for fast everyday tasks.\n\nThe naming is actually useful. You can match the model to the job without overthinking the cost.\n\nOnly about 20 orgs can touch them right now because the government wants to assess them first. Trump signed an exec order on June 2 requiring federal review before wide release.\n\nComing weeks for everyone else.",
+        "Stably shipped Orca this week. Open source, MIT licensed.\n\nIt's an IDE for running multiple coding agents at the same time. Fan one prompt across five agents, each works in its own isolated workspace, you compare the outputs and pick the best one.\n\nNot one agent you're supervising. Five agents competing. You're the judge.\n\nSupports Claude Code, Codex, Cursor, Grok, Devin, and 25+ more. If you're building software with agents, this changes the workflow.",
+        "The cold pitch from Chris Koerner's new episode is genuinely clever.\n\nYou build a website for a local business using GoHighLevel's AI tools. Takes 15 minutes.\n\nThen you text them: \"I can't believe you don't have a website. I built one for you. Can I send you the link?\"\n\nThey almost always say yes.\n\nYou're not asking for permission. You're showing up with the thing already done.\n\n$75/month. 100 clients. The math works."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-06-27",
+    "source": "The Koerner Office",
+    "title": "He Builds a Website in Minutes and Gets Paid Monthly",
+    "url": "https://www.youtube.com/watch?v=_aGMxMmJJj4",
+    "video_id": "_aGMxMmJJj4"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-06-27",
+    "source": "The Koerner Office",
+    "title": "How to Buy a Business, Start a Newsletter & More",
+    "url": "https://www.youtube.com/watch?v=F66wYE4wAnE",
+    "video_id": "F66wYE4wAnE"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-27",
+    "topic": "model_releases",
+    "title": "Previewing GPT-5.6 Sol: a next-generation model | OpenAI",
+    "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+    "snippet": "# Previewing GPT-5.6 Sol: a next-generation model | OpenAI\n\nPublished: 2026-06-26T17:02:16+00:00\nSource: openai.com (openai.com)\nLanguage: en\n\n## Story\n\nPreviewing GPT-5.6 Sol: a next-generation model | OpenAI\n\nSkip to main content\n\n[OpenAI Home](https://openai.com/)\n\n- [Research](https://openai.com/research/index/)\n- Products\n- [Business](https://openai.com/business/)\n- [Developers](https://opena"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-27",
+    "topic": "model_releases",
+    "title": "OpenAI unveils GPT-5.6 Sol, Terra and Luna models \u2014 but only accessible to limited preview partners for now, per US Gov | VentureBeat",
+    "url": "https://venturebeat.com/technology/openai-unveils-gpt-5-6-sol-terra-and-luna-models-but-only-accessible-to-limited-preview-partners-for-now-per-us-gov",
+    "snippet": "OpenAI unveils GPT-5.6 Sol, Terra and Luna models \u2014 but only accessible to limited preview partners for now, per US Gov | VentureBeat\n\nFeatured\n\nCarl Franzen\n\n10:00 am, PT, June 26, 2026\n\nCredit: VentureBeat made with OpenAI ChatGPT-Images-2.0\n\nAdd to Google Preferred Source\n\nOpenAI is announcing a limited preview of its newest frontier AI model GPT-5.6 family, which comes in three variants: Sol, "
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-27",
+    "topic": "model_releases",
+    "title": "OpenAI Previews GPT-5.6 With Sol, Terra, and Luna: Tiered Models, New Reasoning Modes, Limited Access - MarkTechPost",
+    "url": "https://www.marktechpost.com/2026/06/26/openai-previews-gpt-5-6-with-sol-terra-and-luna-tiered-models-new-reasoning-modes-limited-access/",
+    "snippet": "# OpenAI Previews GPT-5.6 With Sol, Terra, and Luna: Tiered Models, New Reasoning Modes, Limited Access - MarkTechPost\n\nAuthor: Michal Sutter\nPublished: 2026-06-26T19:18:58+00:00\nSource: marktechpost.com (marktechpost.com)\nLanguage: en\n\n## Story\n\nOpenAI Previews GPT-5.6 With Sol, Terra, and Luna: Tiered Models, New Reasoning Modes, Limited Access - MarkTechPost\n\n[Discord](https://pxl.to/ivxz41s) ["
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-27",
+    "topic": "model_releases",
+    "title": "Google brings computer use into Gemini 3.5 Flash \u2014 AI Insiders",
+    "url": "https://aiinsiders.net/article/google-brings-computer-use-into-gemini-35-flash",
+    "snippet": "Google brings computer use into Gemini 3.5 Flash \u2014 AI Insiders\n\nHome/ Agents/ Google brings computer use into Gemini 3.5 Flash\n\nAGENTS\n\n# Google brings computer use into Gemini 3.5 Flash\n\nThe lightweight model can now click, scroll, and type across desktop and browser environments, making agentic automation affordable at scale.\n\nYESTERDAY\n\nGoogle has merged computer-use capability directly into Ge"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-27",
+    "topic": "model_releases",
+    "title": "Open-Source Coding Model Ornith-1.0 Writes Its Own Training Scaffold in Reinforcement Learning",
+    "url": "https://www.techtimes.com/articles/319122/20260626/open-source-coding-model-ornith-10-writes-its-own-training-scaffold-reinforcement-learning.htm",
+    "snippet": "Open-Source Coding Model Ornith-1.0 Writes Its Own Training Scaffold in Reinforcement Learning\n\nOrnith-1.0 deep-reinforce.com\n\nDeepReinforce today released Ornith-1.0, a family of open-source coding models built around a mechanism most RL-trained agents avoid: the model itself writes the training harness that guides its own improvement. Released free under the MIT license on Hugging Face, the line"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-27",
+    "topic": "product_releases",
+    "title": "OpenAI Launches Codex in ChatGPT Mobile App for Everyone - WinCentral",
+    "url": "https://thewincentral.com/openai-codex-chatgpt-mobile-app-general-availability/",
+    "snippet": "OpenAI Launches Codex in ChatGPT Mobile App for Everyone - WinCentral\n\nNews\n\n- Microsoft News\n- Leaks & Rumors\n\nWindows 11 News\n\n- Windows Issues\n\nSearch\n\nHome Latest News AI News OpenAI Brings Codex to the ChatGPT Mobile App With Device Pairing, Notifications,...\n\nShare\n\n# OpenAI Launches Codex in the ChatGPT Mobile App With Powerful New Productivity Features\n\nOpenAI has officially made Codex in "
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-27",
+    "topic": "product_releases",
+    "title": "Meet Vibe Directing: OpenArt AI Launches \u201cDirector\u201d to Introduce Conversation-Driven, Longer-Form AI Visual Storytelling",
+    "url": "https://www.businesswire.com/news/home/20260626126698/en/Meet-Vibe-Directing-OpenArt-AI-Launches-Director-to-Introduce-Conversation-Driven-Longer-Form-AI-Visual-Storytelling",
+    "snippet": "# Meet Vibe Directing: OpenArt AI Launches \u201cDirector\u201d to Introduce Conversation-Driven, Longer-Form AI Visual Storytelling\n\nPublished: 2026-06-26T20:53:00+00:00\nSource: businesswire.com (businesswire.com)\nLanguage: en\n\n## Story\n\nMeet Vibe Directing: OpenArt AI Launches \u201cDirector\u201d to Introduce Conversation-Driven, Longer-Form AI Visual Storytelling\n\n[Home page](https://www.businesswire.com/)\n\n[Cont"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-27",
+    "topic": "product_releases",
+    "title": "Stably ships Orca, an open-source IDE built for fleets of coding agents \u2014 AI Insiders",
+    "url": "https://aiinsiders.net/article/stably-ships-orca-an-open-source-ide-built-for-fleets-of",
+    "snippet": "Stably ships Orca, an open-source IDE built for fleets of coding agents \u2014 AI Insiders\n\nHome/ Agents/ Stably ships Orca, an open-source IDE built for \u2026\n\nAGENTS\n\n# Stably ships Orca, an open-source IDE built for fleets of coding agents\n\nAs developers routinely run five or more coding agents in parallel, Stably's Orca offers a dedicated orchestration layer to manage them all from one desktop app.\n\nYE"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-27",
+    "topic": "product_releases",
+    "title": "MiniMax Agent \u2014 Code is Cheap, Show Me the Requirement - MiniMax News | MiniMax",
+    "url": "https://www.minimax.io/news/minimax-agent",
+    "snippet": "MiniMax Agent \u2014 Code is Cheap, Show Me the Requirement - MiniMax News | MiniMax\n\nModels\n\nLLM\n\nMiniMax M3\n\nMiniMax M2.7\n\nMiniMax M2.5\n\nVIDEO\n\nMiniMax Hailuo 2.3 / 2.3 Fast\n\nSPEECH & MUSIC\n\nMiniMax Speech 2.8\n\nMiniMax Music 2.6\n\nProduct\n\nAudio\n\nTalkie\n\nAPI\n\nToken Plan\n\nResearch\n\nCompany\n\nIntelligence with everyone\n\nAbout\n\nNews\n\nContact Us\n\n06.19.2025\n\n# MiniMax Agent \u2014 Code is Cheap, Show Me the Req"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-27",
+    "topic": "product_releases",
+    "title": "Proof\u2019s x401 establishes an open protocol for AI agent identity and authorization - Help Net Security",
+    "url": "https://www.helpnetsecurity.com/2026/06/26/proofs-x401-establishes-an-open-protocol-for-ai-agent-identity-and-authorization/",
+    "snippet": "Proof\u2019s x401 establishes an open protocol for AI agent identity and authorization - Help Net Security\n\nHelp Net Security newsletters: Daily and weekly news, cybersecurity jobs, open source projects, breaking news \u2013 subscribe here!\n\nPlease turn on your JavaScript for this page to function normally.\n\n# Proof\u2019s x401 establishes an open protocol for AI agent identity and authorization\n\nProof has launc"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-27",
+    "topic": "ai_agents",
+    "title": "Vercel Introduces Eve, an Open-Source Framework for Building AI Agents",
+    "url": "https://www.infoq.com/news/2026/06/vercel-eve-agents/?topicPageSponsorship=9a722a12-440a-46f9-bbdf-d86d1fc4f6d2",
+    "snippet": "# Vercel Introduces Eve, an Open-Source Framework for Building AI Agents\n\nPublished: 2026-06-26T16:39:00+00:00\nSource: infoq.com (infoq.com)\nLanguage: en\n\n## Story\n\nVercel has released Eve, an open-source framework for building, deploying, and operating AI agents in production. The framework provides a filesystem-based project structure that organizes an agent into directories for instructions, to"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-27",
+    "topic": "ai_agents",
+    "title": "Perplexity Launches Computer for Counsel: A Multi-Model Agentic Layer for Legal Workflows - MarkTechPost",
+    "url": "https://www.marktechpost.com/2026/06/26/perplexity-launches-computer-for-counsel-a-multi-model-agentic-layer-for-legal-workflows/",
+    "snippet": "# Perplexity Launches Computer for Counsel: A Multi-Model Agentic Layer for Legal Workflows - MarkTechPost\n\nAuthor: Michal Sutter\nPublished: 2026-06-26T19:31:21+00:00\nSource: marktechpost.com (marktechpost.com)\nLanguage: en\n\n## Story\n\nPerplexity Launches Computer for Counsel: A Multi-Model Agentic Layer for Legal Workflows - MarkTechPost\n\n[Discord](https://pxl.to/ivxz41s) [Linkedin](https://www.li"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-27",
+    "topic": "ai_small_business",
+    "title": "AI Branding Agents: Zawa Automates Branding, Marketing Assets and Business Growth for SMBs | Trend Hunter",
+    "url": "https://www.trendhunter.com/trends/ai-branding-agents",
+    "snippet": "# AI Branding Agents: Zawa Automates Branding, Marketing Assets and Business Growth for SMBs | Trend Hunter\n\nAuthor: Mursal Rahman\nPublished: 2026-06-26T17:56:33+00:00\nSource: trendhunter.com (trendhunter.com)\nLanguage: en\n\n## Story\n\nAI Branding Agents: Zawa Automates Branding, Marketing Assets and Business Growth for SMBs | Trend Hunter\n\n[![Trend Hunter Logo](https://cdn.trendhunterstatic.com/tx/"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-27",
+    "topic": "ai_small_business",
+    "title": "How Agency Owners Should Evaluate AI Social Media Marketing Tools Before Buying \u00b7 Aethera",
+    "url": "https://aethera.ai/blog/ai-social-media-marketing-tools-agency-owners",
+    "snippet": "# How Agency Owners Should Evaluate AI Social Media Marketing Tools Before Buying \u00b7 Aethera\n\nAuthor: Aethera Labs\nPublished: 2026-06-26T13:04:49.898Z\nSource: aethera.ai (aethera.ai)\nLanguage: en\n\n## Story\n\nHow Agency Owners Should Evaluate AI Social Media Marketing Tools Before Buying \u00b7 Aethera\n\n[![Aethera](https://aethera.ai/_next/image?url=%2Faethera-lockup.png&w=3840&q=75&dpl=dpl_5LnwF7g5ntkeoG"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-27",
+    "topic": "ai_small_business",
+    "title": "Relume: what it is and what you can do with it | Emplex",
+    "url": "https://emplex.nl/relume-ai-sitemaps-and-wireframes/",
+    "snippet": "Relume: what it is and what you can do with it | Emplex\n\nMost tools in this series build apps. Relume attacks a different bottleneck: the structure of a website. Anyone who has built a site for a client or a project knows that the slow part is rarely the visual polish. It is deciding which pages exist, what goes on each page, in what order, and what the text roughly says. Relume uses AI to compres"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-27",
+    "topic": "ai_small_business",
+    "title": "Gartner names Adobe a leader in the 2026 Magic Quadrant for content marketing platforms",
+    "url": "https://completeaitraining.com/news/gartner-names-adobe-a-leader-in-the-2026-magic-quadrant-for/",
+    "snippet": "Gartner names Adobe a leader in the 2026 Magic Quadrant for content marketing platforms\n\nBack to: All AI News\n\n# Gartner names Adobe a leader in the 2026 Magic Quadrant for content marketing platforms\n\nAdobe was named a Leader in the 2026 Gartner Magic Quadrant for Content Marketing Platforms. Its GenStudio suite uses AI agents to automate and govern content workflows.\n\nCategorized in: AI News Cre"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-27",
+    "topic": "ai_small_business",
+    "title": "Recruitable Highlights Growth of Its AI-Powered ATS, CRM and Candidate Sourcing Intelligence  Platform",
+    "url": "https://news.marketersmedia.com/recruitable-highlights-growth-of-its-ai-powered-ats-crm-and-candidate-sourcing-intelligence-platform/89195985",
+    "snippet": "Recruitable Highlights Growth of Its AI-Powered ATS, CRM and Candidate Sourcing Intelligence Platform https://news.marketersmedia.com/cdn-cgi/content?id=pk68SjN_UD2RhyfrmSJ_AQsw26jZ.sjANsWktSzhceY-1782477137.4042835-1.2.1.1-TvwapYdwgTbGrQL7T0CvNQcFEqkK73ntU5dsBdtKkm0\n\n- MarketersMEDIA Newsroom\n- /\n- Business\n\n# Recruitable Highlights Growth of Its AI-Powered ATS, CRM and Candidate Sourcing Intelli"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-27",
+    "topic": "ai_labs",
+    "title": "Here's how Gemini can help you avoid jetlag",
+    "url": "https://blog.google/products-and-platforms/products/gemini/gemini-help-avoid-jetlag/",
+    "snippet": "# Here's how Gemini can help you avoid jetlag\n\nPublished: 2026-06-26T16:00:00+00:00\nSource: blog.google (blog.google)\nLanguage: en\n\n## Story\n\nHere's how Gemini can help you avoid jetlag\n\nSkip to main content\n\n[The Keyword](https://blog.google/)\n\nHere's how Gemini can help you avoid jetlag.\n\nShare\n\n[x.com](https://twitter.com/intent/tweet?text=Here%27s%20how%20Gemini%20can%20help%20you%20avoid%20je"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-27",
+    "topic": "ai_labs",
+    "title": "Pro 20x account deactivated without any abuse - Support - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/pro-20x-account-deactivated-without-any-abuse/1384898",
+    "snippet": "Pro 20x account deactivated without any abuse - Support - OpenAI Developer Community\n\n# Pro 20x account deactivated without any abuse\n\nhttps://community.openai.com/t/pro-20x-account-deactivated-without-any-abuse/1384898\n\nChatGPT Support\n\naccount-problem, deactivated-account, support, chatgpt-billing, codex-app\n\noder June 26, 2026, 11:25am 1\n\nHello OpenAI team and community staff,\n\nI am opening a n"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-27",
+    "topic": "ai_labs",
+    "title": "Please consider an official ChatGPT CLI - Feature requests - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/please-consider-an-official-chatgpt-cli/1384909",
+    "snippet": "Please consider an official ChatGPT CLI - Feature requests - OpenAI Developer Community\n\n# Please consider an official ChatGPT CLI\n\nhttps://community.openai.com/t/please-consider-an-official-chatgpt-cli/1384909\n\nChatGPT Feature requests\n\nBruno_9065 June 26, 2026, 1:17pm 1\n\nHi OpenAI team,\n\nI\u2019m a ChatGPT Plus subscriber and I have a feature request that I believe would significantly improve the dev"
   }
 ]
