@@ -8596,5 +8596,191 @@
     "title": "Please consider an official ChatGPT CLI - Feature requests - OpenAI Developer Community",
     "url": "https://community.openai.com/t/please-consider-an-official-chatgpt-cli/1384909",
     "snippet": "Please consider an official ChatGPT CLI - Feature requests - OpenAI Developer Community\n\n# Please consider an official ChatGPT CLI\n\nhttps://community.openai.com/t/please-consider-an-official-chatgpt-cli/1384909\n\nChatGPT Feature requests\n\nBruno_9065 June 26, 2026, 1:17pm 1\n\nHi OpenAI team,\n\nI\u2019m a ChatGPT Plus subscriber and I have a feature request that I believe would significantly improve the dev"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-06-28",
+    "headline": "The government just locked down the frontier models and nobody's happy about it.",
+    "url": "archive/2026-06-28.html",
+    "posts": {
+      "linkedin": [
+        "The government just decided who gets to use the best AI models. Not based on capability or use case. Based on approval, one customer at a time.\n\nMythos approved for 100 institutions. GPT-5.6 in limited preview. Sam Altman published a memo saying this isn't their preferred approach.\n\nThis is the worst-case outcome. Labs still train at the same speed. It only slows public access. The gap between what's available publicly and what's locked internally widens from this day forward.\n\nEveryone loses: safety advocates (this doesn't slow training), companies (artificial constraints), public (slower adoption), government (capricious control with no accountability).\n\nThe interesting move is what happens next. People are already talking about building around this\u2014open models, routing layers, decentralized infrastructure. If you gate the best tools, people route around them.",
+        "Stop building bigger models. Build smarter routers.\n\nSakana AI just shipped Fugu, an orchestrator that reads a query and routes it to GPT-5.5, Gemini, Claude, or composes them into a workflow. Not one model. One intelligent dispatcher.\n\nSail Research raised $80M to build infrastructure for long-horizon agents. Not for new models. For agents that run for hours or days, managing compute and cost across platforms that weren't designed for it.\n\nThe real power isn't in a model being 10% better. It's in dispatch, composition, and knowing which tool to use for which job. That's the move. One flagship model feels like yesterday's architecture.",
+        "Your agent can't prove who authorized it, and that breaks everything.\n\nProof launched x401: an open protocol that lets services request and verify identity claims before permitting agent actions. Zero-knowledge proofs, so you verify without exposing full identity. Pairs with x402 for payments.\n\nThis is small and it's foundational. An agent that pays for something, publishes content, or makes a commitment needs proof-of-human-authority. We just tried to ship serious agent workflows without it.\n\nMost infrastructure gaps are invisible until you hit them hard. This one's becoming visible fast. Whoever ships the trust layer for agents wins."
+      ],
+      "threads": [
+        "The government locked down frontier models. Mythos to 100 institutions. GPT-5.6 in limited preview. Sam Altman said they prefer open access and are pushing to change it.\n\nThis is bad for everyone. Labs still train fast. It only slows public access. The gap widens.\n\nThe move is what comes next\u2014open models, routing layers, people building around the gates.",
+        "One router beats one bigger model.\n\nFugu reads each query and picks the right model (or combines them into a workflow). Sail just raised $80M for agents that work for days, not seconds.\n\nThe power isn't in a single model getting +10% better. It's in smart dispatch. Knowing which tool to use for which job. That's where the wins are.",
+        "An agent that pays for something or publishes content needs to prove who authorized it.\n\nProof just shipped x401 to solve this. Open protocol, zero-knowledge proofs, connects to identity and payments.\n\nMost infrastructure gaps are invisible until you hit them hard. This one's becoming visible fast. Whoever ships the trust layer for agents wins."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-06-28",
+    "source": "AI Daily Brief",
+    "title": "Meet Your Ad Hoc AI Licensing Regime",
+    "url": "https://www.youtube.com/watch?v=WkXuk8NlPAQ",
+    "video_id": "WkXuk8NlPAQ"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-28",
+    "topic": "model_releases",
+    "title": "OpenAI unveils GPT-5.6 AI models with phased rollout and stronger safety checks - The Economic Times",
+    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-unveils-gpt-5-6-ai-models-with-phased-rollout-and-stronger-safety-checks/articleshow/132032380.cms",
+    "snippet": "OpenAI unveils GPT-5.6 AI models with phased rollout and stronger safety checks - The Economic Times\n\nBusiness News Tech AI OpenAI unveils GPT-5.6 AI models with phased rollout and stronger safety checks\n\n# OpenAI unveils GPT-5.6 AI models with phased rollout and stronger safety checks\n\nETtechLast Updated: Jun 27, 2026, 03:57:09 PM IST\n\nFollow us\n\nShare\n\nFont Size\n\nAbcSmall\n\nAbcMedium\n\nAbcLarge\n\nS"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-28",
+    "topic": "model_releases",
+    "title": "Elon Musk Unveils Grok 4.5 Private Beta, Claims AI Rivals Claude Opus",
+    "url": "https://www.ndtvprofit.com/business/musk-unveils-grok-4-5-private-beta-claims-ai-rivals-claude-opus-11698558",
+    "snippet": "# Elon Musk Unveils Grok 4.5 Private Beta, Claims AI Rivals Claude Opus\n\nPublished: 2026-06-28T17:06:27+05:30\nSource: ndtvprofit.com (ndtvprofit.com)\nLanguage: en\n\n## Story\n\nElon Musk Unveils Grok 4.5 Private Beta, Claims AI Rivals Claude Opus\n\n[Get App](javascript:void(0))\n\n![Download App Scanner](https://www.ndtvprofit.com/estatic/images/profit/download-app-scanner.png)\n\nScan to Download\n\nAdvert"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-28",
+    "topic": "model_releases",
+    "title": "Elon Musk makes major Grok 4.5 announcement on 55th birthday",
+    "url": "https://jang.com.pk/en/68261-elon-musk-makes-major-grok-45-announcement-on-55th-birthday-news",
+    "snippet": "# Elon Musk makes major Grok 4.5 announcement on 55th birthday\n\nAuthor: bushra saleem\nPublished: 2026-06-28T17:07:00+05:00\nSource: jang.com.pk (jang.com.pk)\nLanguage: en\n\n## Story\n\nElon Musk makes major Grok 4.5 announcement on 55th birthday\n\n[![Daily Jang](https://jang.com.pk/assets/front/images/eng/jang-engllish-black.svg?v=35)](https://jang.com.pk/en)\n\n- [Home](https://jang.com.pk/en)\n- [News]("
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-28",
+    "topic": "model_releases",
+    "title": "OpenAI launches GPT-5.6 models after Trump administration requested pause",
+    "url": "https://www.newsbytesapp.com/news/science/openai-launches-gpt-56-models-after-trump-administration-requested-pause/tldr",
+    "snippet": "OpenAI launches GPT-5.6 models after Trump administration requested pause\n\nLOADING...\n\nThe models are aimed at specific tasks\n\n# OpenAI launches GPT-5.6 models after Trump administration requested pause\n\nTechnology Jun 27, 2026\n\nOpenAI just launched GPT-5.6, its newest set of AI models: Sol (premium), Terra (for heavy-duty tasks), and Luna (budget pick). These models are built for things like codi"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-28",
+    "topic": "model_releases",
+    "title": "OpenAI unveils GPT-5.6 with Sol, Terra, Luna AI models \u00bb YugaTech | Philippines Tech News & Reviews",
+    "url": "https://www.yugatech.com/news/openai-unveils-gpt-5-6-with-sol-terra-luna-ai-models/",
+    "snippet": "OpenAI unveils GPT-5.6 with Sol, Terra, Luna AI models \u00bb YugaTech | Philippines Tech News & Reviews\n\nListen to article\n\n1x\n\nTRENDING\n\nASUS ExpertBook Ultra launching on July 1 vivo X Fold6 now official AYANEO launches Pocket Micro 2 Retro Handheld OPPO Reno16 FS unveiled: 120Hz AMOLED, 6500mAh Battery DILG calls for probe into violent video games' impact on youth\n\nEnglish\n\nOpenAI has announced the"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-28",
+    "topic": "product_releases",
+    "title": "AI Shopping Assistant Launches at Newegg: Real-Time Catalog Powers PC Build Advice",
+    "url": "https://www.techtimes.com/articles/319212/20260627/ai-shopping-assistant-launches-newegg-real-time-catalog-powers-pc-build-advice.htm",
+    "snippet": "# AI Shopping Assistant Launches at Newegg: Real-Time Catalog Powers PC Build Advice\n\nAuthor: Mireya Ramsey  \n \n \n Published: Jun 27 2026, 11:59 PM EDT\nPublished: 2026-06-27T23:59:39-04:00\nSource: techtimes.com (techtimes.com)\nLanguage: en\n\n## Story\n\nAI Shopping Assistant Launches at Newegg: Real-Time Catalog Powers PC Build Advice\n\n[https://www.techtimes.com/](https://www.techtimes.com/)\n\n- [Tech"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-28",
+    "topic": "product_releases",
+    "title": "DeepReinforce ships Ornith-1.0, a coding model that writes its own RL scaffolds \u2014 AI Insiders",
+    "url": "https://aiinsiders.net/article/deepreinforce-ships-ornith-10-a-coding-model-that-writes",
+    "snippet": "DeepReinforce ships Ornith-1.0, a coding model that writes its own RL scaffolds \u2014 AI Insiders\n\nHome/ Models/ DeepReinforce ships Ornith-1.0, a coding model t\u2026\n\nMODELS\n\n# DeepReinforce ships Ornith-1.0, a coding model that writes its own RL scaffolds\n\nThe open-weight family runs from a 9B edge variant to a 397B flagship and claims benchmark parity with Claude Opus 4.7, according to DeepReinforce.\n\n"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-28",
+    "topic": "product_releases",
+    "title": "VerSprite Launches Fork and Knife: AI-Driven Threat Modeling and Adversarial Testing Built for the Speed of Modern Software",
+    "url": "https://www.innovationopenlab.com/news-biz/69102/versprite-launches-fork-and-knife-ai-driven-threat-modeling-and-adversarial-testing-built-for-the-speed-of-modern-software.html",
+    "snippet": "VerSprite Launches Fork and Knife: AI-Driven Threat Modeling and Adversarial Testing Built for the Speed of Modern Software\n\n\u25be G11 Media Network: | ChannelCity| ImpresaCity| SecurityOpenLab| Italian Channel Awards| Italian Project Awards| Italian Security Awards| ...\n\n# VerSprite Launches Fork and Knife: AI-Driven Threat Modeling and Adversarial Testing Built for the Speed of Modern Software\n\nVerS"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-28",
+    "topic": "product_releases",
+    "title": "Simplify Enterprise RAG with Amazon Bedrock Managed Knowledge Base - Archynewsy",
+    "url": "https://www.archynewsy.com/simplify-enterprise-rag-with-amazon-bedrock-managed-knowledge-base/",
+    "snippet": "Simplify Enterprise RAG with Amazon Bedrock Managed Knowledge Base - Archynewsy\n\nhttps://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2026/06/16/News-Blog-Featured-Images-21.png\n\nTechnology\n\n# Simplify Enterprise RAG with Amazon Bedrock Managed Knowledge Base\n\nJune 27, 2026\n\nJune 27, 2026 0 comments\n\n65\n\n# Amazon Bedrock Simplifies Enterprise Generative AI with Managed Kn"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-28",
+    "topic": "ai_agents",
+    "title": "Sakana AI launches Fugu, an LLM orchestrator using GRPO to dynamically route queries across external models",
+    "url": "https://digg.com/tech/o8m11gpx",
+    "snippet": "# Sakana AI launches Fugu, an LLM orchestrator using GRPO to dynamically route queries across external models\n\nPublished: 2026-06-27T22:53:10+00:00\nSource: digg.com (digg.com)\nLanguage: en\n\n## Story\n\n[Back to stories](https://digg.com/tech)\n\n/Tech4h ago\n\n# Sakana AI launches Fugu, an LLM orchestrator using GRPO to dynamically route queries across external models\n\nFugu-Ultra builds multi-step workf"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-28",
+    "topic": "ai_agents",
+    "title": "Sail Research Raises $80 Million To Build Infrastructure For Long-Horizon AI Agents",
+    "url": "https://pulse2.com/sail-research-raises-80-million-to-build-infrastructure-for-long-horizon-ai-agents/",
+    "snippet": "Sail Research Raises $80 Million To Build Infrastructure For Long-Horizon AI Agents\n\n# Sail Research Raises $80 Million To Build Infrastructure For Long-Horizon AI Agents\n\nBy Amit Chowdhry \u2022 Today at 7:24 AM\n\nSail Research Raises $80 Million To Build Infrastructure For Long-Horizon AI Agents\n\nSail Research announced that it has raised $80 million in Seed and Series A funding at a $450 million valu"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-28",
+    "topic": "ai_agents",
+    "title": "Proof Launches x401, an Open Protocol for Verified Identity in the Agentic Economy - Ranzware \u2013 Innovation, Reviews & Trends",
+    "url": "https://ranzware.com/proof-launches-x401-an-open-protocol-for-verified-identity-in-the-agentic-economy",
+    "snippet": "Proof Launches x401, an Open Protocol for Verified Identity in the Agentic Economy - Ranzware \u2013 Innovation, Reviews & Trends\n\nContact\n\nTechnology\n\n- View All\n- Tech Reviews\n\nDark Mode\n\nCrypto & Bitcoin\n\n# Proof Launches x401, an Open Protocol for Verified Identity in the Agentic Economy\n\nJun 27, 2026 - 04:05\n\n0 0\n\n## TLDR\n\n- Proof launched x401, an open protocol that verifies the human authority b"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-28",
+    "topic": "ai_agents",
+    "title": "Hi3D Launches an AI-Powered Workflow for 3D Printing Creators - Business Intelligence",
+    "url": "https://businessintelligence.mo/2026/06/27/hi3d-launches-an-ai-powered-workflow-for-3d-printing-creators/",
+    "snippet": "Hi3D Launches an AI-Powered Workflow for 3D Printing Creators - Business Intelligence Hi3D Launches an AI-Powered Workflow for 3D Printing Creators - Business Intelligence\n\n# Hi3D Launches an AI-Powered Workflow for 3D Printing Creators\n\nGlobe Newswire Press Releases\n\n06/27/2026\n\nHONG KONG, June 27, 2026 (GLOBE NEWSWIRE) \u2014 As building-block collectibles, mecha figures, and designer toys gain popul"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-28",
+    "topic": "ai_small_business",
+    "title": "Done-for-You AI Automation and AI Agents",
+    "url": "https://ai-automatedhq.com/",
+    "snippet": "Done-for-You AI Automation and AI Agents\n\n# Automate the Boring Stuff\n\nWe build custom AI agents that capture leads, update your CRM, follow up with customers, and handle repetitive work without adding another tool for your team to manage.\n\nBook a Call Explore Services\n\nLead Automation CRM\n\nAI agent is capturing, qualifying, and following up\n\nLive\n\nPipeline\n\n### New leads added automatically\n\nNew "
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-28",
+    "topic": "ai_small_business",
+    "title": "Best AI Tools for Marketing: Top 10 Platforms in 2026",
+    "url": "https://ventureburn.com/best-ai-tools-for-marketing/",
+    "snippet": "Best AI Tools for Marketing: Top 10 Platforms in 2026\n\n# 10 Best AI Tools for Marketing in 2026 (Ultimate Guide)\n\nIf you\u2019re looking for the best AI tools for marketing, you\u2019ll need to consider a platform\u2019s ability to drive revenue, save time and scale production without losing your brand voice. There are hundreds of AI tools promising next-level scaling for your business. But to bring you the best"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-28",
+    "topic": "ai_small_business",
+    "title": "Top 10 AI Tools For Septic Service Businesses In 2026",
+    "url": "https://myquoteiq.com/top-10-ai-tools-for-septic-service-businesses-in-2026/",
+    "snippet": "Top 10 AI Tools For Septic Service Businesses In 2026\n\nTop 10 in 2026 \u00b7 From the QuoteIQ Team\n\n# Top 10 AI Tools for Septic Service Businesses in 2026\n\nAI rebuilt how septic companies handle calls, quoting, dispatch, and 3\u20135 year rebook cycles. Here's the honest 2026 ranking \u2014 what each platform actually does for pump trucks, real estate inspections, and ATU contracts, with verified pricing.\n\nBy M"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-28",
+    "topic": "ai_labs",
+    "title": "Anthropic Economic Index report: Cadences \\ Anthropic",
+    "url": "https://www.anthropic.com/research/economic-index-june-2026-report?wfoid=8863cd2964.1781395200",
+    "snippet": "# Anthropic Economic Index report: Cadences \\ Anthropic\n\nPublished: 2026-06-27T10:27:27+00:00\nSource: anthropic.com (anthropic.com)\nLanguage: en\n\n## Story\n\nAnthropic Economic Index report: Cadences \\ Anthropic\n\nSkip to main contentSkip to footer\n\n[Home](https://www.anthropic.com/)\n\n- [Research](https://www.anthropic.com/research)\n- [Policy](https://www.anthropic.com/policy)\n- Commitments\n- Learn\n-"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-28",
+    "topic": "ai_labs",
+    "title": "Introducing GPT-5.6 series: Sol, Terra and Luna - #12 by _j - Announcements - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/introducing-gpt-5-6-series-sol-terra-and-luna/1384931/12",
+    "snippet": "Introducing GPT-5.6 series: Sol, Terra and Luna - #12 by _j - Announcements - OpenAI Developer Community\n\n# Introducing GPT-5.6 series: Sol, Terra and Luna\n\nhttps://community.openai.com/t/introducing-gpt-5-6-series-sol-terra-and-luna/1384931\n\nAnnouncements\n\n_j June 27, 2026, 1:38am 12\n\nSo for Pro models would be Nova or similar? Just wondering\n\nI think one can infer that, by pricing 2x between gpt"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-28",
+    "topic": "ai_labs",
+    "title": "View CSPs not sourced anymore for apps published in store - ChatGPT Apps SDK - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/view-csps-not-sourced-anymore-for-apps-published-in-store/1385052",
+    "snippet": "View CSPs not sourced anymore for apps published in store - ChatGPT Apps SDK - OpenAI Developer Community\n\nWelcome to the OpenAI Developer Community, a forum for developers to meet and chat with other developers while building with OpenAI\u2019s APIs and developer platform.\n\nThis is not a place for ChatGPT discussion (with the exception of ChatGPT developer tools, like Codex). ChatGPT discussion takes "
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-28",
+    "topic": "ai_labs",
+    "title": "Codex Desktop App your favourite missing features - Codex - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/codex-desktop-app-your-favourite-missing-features/1384985",
+    "snippet": "Codex Desktop App your favourite missing features - Codex - OpenAI Developer Community\n\nWelcome to the OpenAI Developer Community, a forum for developers to meet and chat with other developers while building with OpenAI\u2019s APIs and developer platform.\n\nThis is not a place for ChatGPT discussion (with the exception of ChatGPT developer tools, like Codex). ChatGPT discussion takes place in the OpenAI"
   }
 ]
