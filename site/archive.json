@@ -8782,5 +8782,183 @@
     "title": "Codex Desktop App your favourite missing features - Codex - OpenAI Developer Community",
     "url": "https://community.openai.com/t/codex-desktop-app-your-favourite-missing-features/1384985",
     "snippet": "Codex Desktop App your favourite missing features - Codex - OpenAI Developer Community\n\nWelcome to the OpenAI Developer Community, a forum for developers to meet and chat with other developers while building with OpenAI\u2019s APIs and developer platform.\n\nThis is not a place for ChatGPT discussion (with the exception of ChatGPT developer tools, like Codex). ChatGPT discussion takes place in the OpenAI"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-06-29",
+    "headline": "OpenAI stopped selling \"one model fits all\" this week.",
+    "url": "archive/2026-06-29.html",
+    "posts": {
+      "linkedin": [
+        "The new skill isn't prompting.\n\nIt's routing.\n\nOpenAI shipped GPT-5.6 this week as three separate tiers. Luna handles cheap volume. Terra takes the middle. Sol handles the hard stuff - fraud reasoning, compliance review, adversarial edge cases.\n\nNot every task deserves Sol. Most of them don't. But most teams are still treating \"use AI\" like there's one right answer.\n\nA $1/million token decision and a $5/million token decision aren't the same decision. The teams building real workflows right now are the ones asking which problem deserves which tool, not just firing everything at the most powerful model available.\n\nThe architecture is the skill. Knowing when to reach for the heavy model and when not to is the same judgment good engineers have always needed. It just got a price tag attached to it.\n\nWhat are you running through the expensive model that probably doesn't need to be there?",
+        "Corey Ganim just put the AI concierge playbook on YouTube for free and it's worth your time.\n\n$8K/month. Less than five minutes per client outside of calls.\n\nHere's the model: $999 AI assessment gets you in the door and converts to a retainer. JotForm intake does a mini audit before call one so you walk in ready. Every session runs AOA - audit the process, cut the fat, automate it.\n\nThree Claude skills handle all post-call work in under 30 seconds.\n\nBut the renewal mechanic is the part I keep thinking about. He doesn't pitch renewals. The Notion build log does it.\n\nClients can see every session, everything that got built, every hour of work removed. The ledger is the pitch. The work sells itself forward.\n\nThat's not just a smart process. That's a weight removal product.\n\nFull breakdown linked in the comments. If you're thinking about building an AI service business, watch it before you build anything.",
+        "If your company runs Claude in Slack, August 3 is a real date.\n\nAnthropid is retiring the old integration. The replacement is Claude Tag. Admins who don't migrate before August 3 get auto-migrated whether they're ready or not.\n\nThe migration is worth understanding before it happens to you - it's not a chatbot upgrade. It's a different product.\n\nOld integration: one AI per user. You ping it like a chatbot.\n\nClaude Tag: one AI instance per channel. It builds shared memory across everyone in that channel over time. With the right admin setting, it monitors conversations without being tagged and surfaces things it judges relevant to the team.\n\nOne ambient agent with organizational memory sitting in your most active channels is a fundamentally different thing than a chatbot each person uses separately.\n\nWhether that sounds useful or alarming probably tells you something about how your team actually operates.\n\nThe deadline is August 3. Worth knowing what you're walking into before it walks in on you."
+      ],
+      "threads": [
+        "OpenAI shipped three model tiers this week. Luna handles cheap volume. Terra takes the middle. Sol handles the hard stuff - fraud reasoning, adversarial analysis, compliance work.\n\nThe era of picking 'the best model' and throwing everything at it is quietly ending.\n\nRouting the right task to the right tier at the right price is where the real efficiency lives. Most people are still treating every problem the same. The gap between those two approaches is only going to grow.",
+        "Watched a guy break down his $8K/month AI business this week. The part that stuck with me wasn't the Claude skills or the automation.\n\nIt was the renewal mechanic.\n\nHe doesn't pitch renewal. The Notion build log does it. Every session, everything that got built, every hour of work removed - documented. Clients see it and renew themselves.\n\nWhat are you already doing for clients that would sell itself if you just showed them the receipts?",
+        "Enterprise Slack teams have until August 3 to migrate from the old Claude app to Claude Tag. Miss the deadline and Anthropic migrates you automatically.\n\nThe difference matters: old app was per-user. Claude Tag is one AI per channel with shared memory that builds over time, monitoring conversations even when nobody tags it.\n\nOne ambient agent with org-wide context sitting in your most active channels. That's a different thing. Worth knowing what you're opting into before it's already in."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-06-29",
+    "source": "The Koerner Office",
+    "title": "He Lost His Job, Then Built a $11K/Month App",
+    "url": "https://www.youtube.com/watch?v=IywUW2RjXis",
+    "video_id": "IywUW2RjXis"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-06-29",
+    "source": "Corey Ganim",
+    "title": "I Run an $8K/Month AI Business in 5 Minutes a Day (Full Breakdown)",
+    "url": "https://www.youtube.com/watch?v=x4ugj0BbaSM",
+    "video_id": "x4ugj0BbaSM"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-29",
+    "topic": "model_releases",
+    "title": "Explained: OpenAI\u2019s GPT\u20115.6 series' Sol, Terra and Luna AI models - The Times of India",
+    "url": "https://timesofindia.indiatimes.com/technology/tech-news/explained-openais-gpt5-6-series-sol-terra-and-luna-ai-models/articleshow/132046558.cms",
+    "snippet": "Explained: OpenAI\u2019s GPT\u20115.6 series' Sol, Terra and Luna AI models - The Times of India\n\nEdition\n\nIN\n\nEnglish\n\nWeather\n\nSign In\n\n- Videos\n- News\n- Technology News\n- Tech News\n- Explained: OpenAI\u2019s GPT\u20115.6 series' Sol, Terra and Luna AI models\n\nTrending\n\nOracle Layoffs\n\nNikesh Arora\n\nBill Gates\n\nJensen Huang\n\n# Explained: OpenAI\u2019s GPT\u20115.6 series' Sol, Terra and Luna AI models\n\nComments\n\nShare\n\nprint"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-29",
+    "topic": "model_releases",
+    "title": "Chinese and Japanese companies launch AI models, claim they are as powerful as Anthropic\u2019s Mythos - The Times of India",
+    "url": "https://timesofindia.indiatimes.com/technology/tech-news/chinese-and-japanese-companies-launch-ai-models-claim-they-are-as-powerful-as-anthropics-mythos/articleshow/132045152.cms",
+    "snippet": "Chinese and Japanese companies launch AI models, claim they are as powerful as Anthropic\u2019s Mythos - The Times of India\n\nEdition\n\nIN\n\nEnglish\n\nWeather\n\nSign In\n\n- Videos\n- News\n- Technology News\n- Tech News\n- Chinese and Japanese companies launch AI models, claim they are as powerful as Anthropic\u2019s Mythos\n\nTrending\n\nOracle Layoffs\n\nNikesh Arora\n\nBill Gates\n\nJensen Huang\n\n# Chinese and Japanese comp"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-29",
+    "topic": "model_releases",
+    "title": "OpenAI Unveils GPT-5.6 Sol as Its Most Advanced Cybersecurity AI - SecurityWeek",
+    "url": "https://www.securityweek.com/openai-unveils-gpt-5-6-sol-as-its-most-advanced-cybersecurity-ai/",
+    "snippet": "# OpenAI Unveils GPT-5.6 Sol as Its Most Advanced Cybersecurity AI - SecurityWeek\n\nAuthor: Eduard Kovacs\nPublished: 2026-06-29T07:45:57+00:00\nSource: securityweek.com (securityweek.com)\nLanguage: en\n\n## Story\n\nOpenAI Unveils GPT-5.6 Sol as Its Most Advanced Cybersecurity AI - SecurityWeek\n\n### SECURITYWEEK NETWORK:\n\n- [Cybersecurity News](https://www.securityweek.com/)\n- [Webcasts](https://gateway"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-29",
+    "topic": "model_releases",
+    "title": "OpenAI GPT-5.6 Sol, Terra, Luna: Pricing | LLM Rumors",
+    "url": "https://www.llmrumors.com/news/openai-gpt56-sol-terra-luna-government-preview",
+    "snippet": "OpenAI GPT-5.6 Sol, Terra, Luna: Pricing | LLM Rumors\n\nBack to News Sunday, June 28, 2026\n\nTL;DR: OpenAI previewed GPT-5.6 Sol, Terra, and Luna on June 26, 2026, with Sol priced at $5/$30, Terra at $2.50/$15, and Luna at $1/$6 per million input and output tokens.[1] Access is initially limited to selected trusted API and Codex partners after OpenAI says the U.S. government requested a staged previ"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-29",
+    "topic": "model_releases",
+    "title": "GLM-5.2: The Final Nail in the Coffin of Those Who Hyped for Greed and Profit",
+    "url": "https://msukhareva.substack.com/p/glm-52-the-final-nail-in-the-coffin",
+    "snippet": "GLM-5.2: The Final Nail in the Coffin of Those Who Hyped for Greed and Profit\n\nSubscribeSign in\n\n# GLM-5.2: The Final Nail in the Coffin of Those Who Hyped for Greed and Profit\n\n### The model that makes overpaying for OpenAI and Anthropic impossible to justify\n\nMaria Sukhareva\n\nJun 28, 2026\n\n\u2219 Paid\n\n18\n\n1\n\n6\n\nShare\n\nThe latest model by Zhipu AI, GLM-5.2, has taken the internet by storm. We have he"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-29",
+    "topic": "product_releases",
+    "title": "Voice AI Startup Retell AI Launches Conductor, Featuring",
+    "url": "https://www.globenewswire.com/news-release/2026/06/29/3318979/0/en/Voice-AI-Startup-Retell-AI-Launches-Conductor-Featuring-the-First-Ever-Graph-Native-Review-Interface-for-Production-Voice-Agents.html",
+    "snippet": "# Voice AI Startup Retell AI Launches Conductor, Featuring\n\nAuthor: Retell AI\nPublished: 2026-06-29T13:00:00+00:00\nSource: globenewswire.com (globenewswire.com)\nLanguage: en\n\n## Story\n\nVoice AI Startup Retell AI Launches Conductor, Featuring\n\n[![GlobeNewswire](https://www.globenewswire.com/Home/assests/images/eq-notified-dark.svg \"Home\")](https://www.globenewswire.com/)\n\nEnglish\n\n- [Newsroom](http"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-29",
+    "topic": "product_releases",
+    "title": "Salesforce launches AI commerce tools for retailers",
+    "url": "https://ecommercenews.co.nz/story/salesforce-launches-ai-commerce-tools-for-retailers",
+    "snippet": "Salesforce launches AI commerce tools for retailers\n\neCommerceNews New Zealand - Technology news for digital commerce decision-makers\n\nNew Zealand Powered By\n\nSaaS Digital Transformation CX\n\n# Salesforce launches AI commerce tools for retailers\n\nMon, 29th Jun 2026 (Yesterday)\n\nMARK TARRE News Chief\n\nSalesforce has released a new set of Agentforce Commerce products for retailers and business seller"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-29",
+    "topic": "product_releases",
+    "title": "Claude Tag Brings Ambient AI to Slack: Admins Have Until August 3 to Migrate",
+    "url": "https://www.techtimes.com/articles/319206/20260627/claude-tag-brings-ambient-ai-slack-admins-have-until-august-3-migrate.htm",
+    "snippet": "Claude Tag Brings Ambient AI to Slack: Admins Have Until August 3 to Migrate\n\nClaude Tag anthropic.com\n\nEnterprise Slack workspaces running Anthropic's Claude integration face a concrete deadline this summer: migrate to Claude Tag before August 3, 2026, or lose Slack-based Claude access entirely when Anthropic retires the old app and automatically migrates any workspace that has not acted. The pro"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-29",
+    "topic": "ai_agents",
+    "title": "groundcover Expands Agent Mode, Allowing AI Agents to Act Across the Developer Toolchain",
+    "url": "https://www.businesswire.com/news/home/20260629643494/en/groundcover-Expands-Agent-Mode-Allowing-AI-Agents-to-Act-Across-the-Developer-Toolchain",
+    "snippet": "# groundcover Expands Agent Mode, Allowing AI Agents to Act Across the Developer Toolchain\n\nPublished: 2026-06-29T13:00:00+00:00\nSource: businesswire.com (businesswire.com)\nLanguage: en\n\n## Story\n\ngroundcover Expands Agent Mode, Allowing AI Agents to Act Across the Developer Toolchain\n\n[Home page](https://www.businesswire.com/)\n\n[Contact Us](https://www.businesswire.com/contact-us)\n\n[Contact Us](h"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-29",
+    "topic": "ai_agents",
+    "title": "Perplexity Launches Legal AI Platform: 20-Model Agent Targets Law Firm Workflows Above Westlaw",
+    "url": "https://www.techtimes.com/articles/319208/20260627/perplexity-launches-legal-ai-platform-20-model-agent-targets-law-firm-workflows-above-westlaw.htm",
+    "snippet": "Perplexity Launches Legal AI Platform: 20-Model Agent Targets Law Firm Workflows Above Westlaw\n\nPerplexity Perplexity.ai\n\nPerplexity unveiled Computer for Counsel on June 24 \u2014 a legal-specific configuration of its agentic platform that routes tasks across more than 20 frontier AI models while connecting to the document management systems, contract tools, and legal research databases attorneys alre"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-29",
+    "topic": "ai_agents",
+    "title": "OpenAN project aims to enable O&M agent collaboration in autonomous networks - Developing Telecoms",
+    "url": "https://www.developingtelecoms.com/telecom-technology/optical-fixed-networks/20448-openan-project-aims-to-enable-o-m-agent-collaboration-in-autonomous-networks.html",
+    "snippet": "OpenAN project aims to enable O&M agent collaboration in autonomous networks - Developing Telecoms\n\nOptical & Fixed Networks\n\n## OpenAN project aims to enable O&M agent collaboration in autonomous networks\n\nChina Mobile, the GSMA, Huawei and other partners have officially launched \u201cOpenAN\u201d, an open-source project that aims to enable collaboration and interoperability between O&M agents in autonomo"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-29",
+    "topic": "ai_small_business",
+    "title": "Radiant diGiLog rolls out AI platform to boost global workforce productivity - Businessday NG",
+    "url": "https://businessday.ng/companies/article/radiant-digilog-rolls-out-ai-platform-to-boost-global-workforce-productivity/",
+    "snippet": "Radiant diGiLog rolls out AI platform to boost global workforce productivity - Businessday NG\n\n# Radiant diGiLog rolls out AI platform to boost global workforce productivity\n\nRadiant diGiLog, an AI-powered workforce management and employee productivity platform has been introduced across multiple markets including Nigeria, the United Kingdom, South Africa, Uganda and Canada.\n\n\u201cThe platform, develo"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-29",
+    "topic": "ai_small_business",
+    "title": "How To Build Your Own AI VP of Marketing: The Full Playbook From SaaStr AI 2026 | SaaStrAI",
+    "url": "https://www.saastr.com/how-to-build-your-own-ai-vp-of-marketing-the-full-10k-playbook-from-saastr-ai/",
+    "snippet": "# How To Build Your Own AI VP of Marketing: The Full Playbook From SaaStr AI 2026 | SaaStrAI\n\nAuthor: Jason Lemkin\nPublished: 2026-06-28T14:10:44+00:00\nSource: saastr.com (saastr.com)\nLanguage: en\n\n## Story\n\nHow To Build Your Own AI VP of Marketing: The Full Playbook From SaaStr AI 2026 | SaaStrAI\n\n[![SaaStrAI](https://www.saastr.com/wp-content/uploads/2018/03/SaaStr_Logo_White.png)](https://www.s"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-29",
+    "topic": "ai_small_business",
+    "title": "arosplatforms Launches AI Operating Systems for Business",
+    "url": "https://www.openpr.com/news/4562277/arosplatforms-launches-ai-operating-systems-for-business",
+    "snippet": "# arosplatforms Launches AI Operating Systems for Business\n\nAuthor: arosplatforms | AI Consulting & Services\nPublished: 2026-06-29T10:37:46+02:00\nSource: openpr.com (openpr.com)\nLanguage: en\n\n## Story\n\narosplatforms Launches AI Operating Systems for Business\n\n[![openPR Logo](https://www.openpr.com/fx/openpr-logo-slogan.svg)](https://www.openpr.com/)\n\n- [PR-Wiki](https://www.openpr.com/wiki/)\n- [Im"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-29",
+    "topic": "ai_labs",
+    "title": "Mapping Europe\u2019s AI Workforce Opportunity | OpenAI",
+    "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+    "snippet": "# Mapping Europe\u2019s AI Workforce Opportunity | OpenAI\n\nPublished: 2026-06-29T07:00:00+00:00\nSource: openai.com (openai.com)\nLanguage: en\n\n## Story\n\nMapping Europe\u2019s AI Workforce Opportunity | OpenAI\n\nSkip to main content\n\n[OpenAI Home](https://openai.com/)\n\n- [Research](https://openai.com/research/index/)\n- Products\n- [Business](https://openai.com/business/)\n- [Developers](https://openai.com/api/)\n"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-29",
+    "topic": "ai_labs",
+    "title": "HP Inc. launches Frontier strategic partnership with OpenAI | OpenAI",
+    "url": "https://openai.com/index/hp-frontier-partnership",
+    "snippet": "# HP Inc. launches Frontier strategic partnership with OpenAI | OpenAI\n\nPublished: 2026-06-28T17:00:00+00:00\nSource: openai.com (openai.com)\nLanguage: en\n\n## Story\n\nHP Inc. launches Frontier strategic partnership with OpenAI | OpenAI\n\nSkip to main content\n\n[OpenAI Home](https://openai.com/)\n\n- [Research](https://openai.com/research/index/)\n- Products\n- [Business](https://openai.com/business/)\n- [D"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-29",
+    "topic": "ai_labs",
+    "title": "3 ways to balance screen time and keep kids engaged this summer",
+    "url": "https://blog.google/intl/en-ie/products/summer-screen-time/",
+    "snippet": "# 3 ways to balance screen time and keep kids engaged this summer\n\nPublished: 2026-06-29T11:00:00+00:00\nSource: blog.google (blog.google)\nLanguage: en\n\n## Story\n\n3 ways to balance screen time and keep kids engaged this summer\n\nSkip to main content\n\n[Ireland](https://blog.google/intl/en-ie/)\n\n3 ways to balance screen time and keep kids engaged this summer\n\nShare\n\n[x.com](https://twitter.com/intent/"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-29",
+    "topic": "ai_labs",
+    "title": "Codex VS Code extension on code-server: precise version boundary + root cause analysis - Codex - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/codex-vs-code-extension-on-code-server-precise-version-boundary-root-cause-analysis/1385104",
+    "snippet": "Codex VS Code extension on code-server: precise version boundary + root cause analysis - Codex - OpenAI Developer Community\n\n# Codex VS Code extension on code-server: precise version boundary + root cause analysis\n\nhttps://community.openai.com/t/codex-vs-code-extension-on-code-server-precise-version-boundary-root-cause-analysis/1385104\n\nCodex\n\nyaodong.wang June 28, 2026, 4:17am 1\n\n# Codex VS Code "
   }
 ]
