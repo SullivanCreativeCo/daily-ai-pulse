@@ -8960,5 +8960,167 @@
     "title": "Codex VS Code extension on code-server: precise version boundary + root cause analysis - Codex - OpenAI Developer Community",
     "url": "https://community.openai.com/t/codex-vs-code-extension-on-code-server-precise-version-boundary-root-cause-analysis/1385104",
     "snippet": "Codex VS Code extension on code-server: precise version boundary + root cause analysis - Codex - OpenAI Developer Community\n\n# Codex VS Code extension on code-server: precise version boundary + root cause analysis\n\nhttps://community.openai.com/t/codex-vs-code-extension-on-code-server-precise-version-boundary-root-cause-analysis/1385104\n\nCodex\n\nyaodong.wang June 28, 2026, 4:17am 1\n\n# Codex VS Code "
+  },
+  {
+    "kind": "digest",
+    "date": "2026-06-30",
+    "headline": "A licensing regime for frontier AI just appeared. Nobody voted on it.",
+    "url": "archive/2026-06-30.html",
+    "posts": {
+      "linkedin": [
+        "One guy at Commerce just decided who gets to use the best AI.\n\nNo vote. No executive order. Howard Lutnick sent a letter giving about 100 trusted organizations access to Anthropic's Mythos again.\n\nThen GPT-5.6 launched. Three models - Soul, Terra, Luna - gated to a partner list, at the government's request. OpenAI said publicly they don't want this to be permanent. They went along with it anyway.\n\nWhat just appeared is a licensing regime for frontier AI. No public framework. No congressional approval. No articulated criteria. One person's discretion.\n\nBoth labs agreed to it, even if reluctantly.\n\nThe question this raises: if you're not on that approved list, what are you actually building on? And what happens when the gap between the gated tools and everything else keeps widening?\n\nI don't have a clean answer. But \"who controls access to the best AI\" just became a real and open question - and most of us aren't on the list.",
+        "76% of small businesses are using AI. 14% say they're actually seeing results.\n\nThat stat stopped me this morning.\n\nThe gap isn't the tool. The business owner who signed up for ChatGPT and the one getting real results are often running the exact same product.\n\nThe difference is how they came at it. One added a tool. The other rebuilt a workflow.\n\nAdding a tool is easy. Five minutes. You sign up, poke around, it feels cool, and then you mostly go back to what you were already doing before.\n\nRebuilding a workflow is harder. It means getting specific: what's actually eating my time? Where does AI actually fit in that? Then doing the unsexy work of connecting it to how you actually operate.\n\nThe 62% stuck in the middle aren't bad at AI. They're just not asking the right question first.\n\nWhat are you already doing for yourself that someone else could help you systematize?\n\nStart there.",
+        "Cursor just shipped a mobile app. You can now supervise AI coding agents from your phone.\n\nThat sentence is doing a lot of work. The word is \"supervise.\"\n\nTwo years ago, building software meant sitting at a keyboard writing code. Now it means telling an agent what you want, watching it work, and catching it when it goes sideways.\n\nThe skill that matters most right now isn't writing code. It's knowing how to direct something that can write code.\n\nPrompt clearly. Review the output well. Catch the mistakes early. That's the job.\n\nAnd that's not just a developer thing. That's every knowledge worker over the next few years.\n\nThe person who can clearly articulate what they want, spot when the output is off, and give sharp feedback is going to outrun the person doing every step manually.\n\nThe job changed. Most job descriptions just haven't caught up yet.\n\nWhat does \"supervise\" look like in your role?"
+      ],
+      "threads": [
+        "China trained a 1.6 trillion parameter AI model on domestic chips. No Nvidia. 50,000 domestically made chips in one cluster.\n\nMeituan open-sourced it today. It had already been leading OpenRouter coding benchmarks.\n\nChip export controls were supposed to create distance. Whether they slowed things down or not, the gap just got measurably smaller - in public, with receipts.\n\nThat's worth paying attention to.",
+        "The frontier AI access situation this weekend: Anthropic's most capable model is back, but only for about 100 approved organizations. GPT-5.6 launched the same way. Government request.\n\nNo public list. No framework Congress voted on. Just a letter.\n\nBoth labs said they don't want this to be permanent. Both went along with it anyway.\n\nI don't know what this looks like long-term. But the question of who controls access to the best AI just got a lot more concrete.",
+        "Mark Manson sat in a Zoom with 13 Universal marketing people. An hour in, the conclusion was: the plan is Mark's Instagram.\n\nHe realized the audience was the asset. And he'd been giving it away.\n\nNow he runs a $5M media company. 23 employees. 400 pieces of content a month.\n\nOwning your distribution beats renting access to someone else's every time. The old media world came crawling for his audience. He just made sure he still owned it."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-06-30",
+    "source": "AI Daily Brief",
+    "title": "Mythos Returns But Not For Everyone",
+    "url": "https://www.youtube.com/watch?v=187eNPPTa_w",
+    "video_id": "187eNPPTa_w"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-06-30",
+    "source": "The Entrepreneur's Studio",
+    "title": "The Business Behind The Brand | Mark Manson",
+    "url": "https://www.youtube.com/watch?v=OJbLCXPxtmU",
+    "video_id": "OJbLCXPxtmU"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-30",
+    "topic": "model_releases",
+    "title": "Meituan open sources LongCat-2.0, the 1.6T, near-frontier agentic coding model that's been leading OpenRouter \u2014 trained entirely on Chinese chips | VentureBeat",
+    "url": "https://venturebeat.com/technology/meituan-open-sources-longcat-2-0-the-1-6t-near-frontier-agentic-coding-model-thats-been-leading-openrouter-trained-entirely-on-chinese-chips",
+    "snippet": "# Meituan open sources LongCat-2.0, the 1.6T, near-frontier agentic coding model that's been leading OpenRouter \u2014 trained entirely on Chinese chips | VentureBeat\n\nAuthor: Carl Franzen\nPublished: 2026-06-30T01:39:00-04:00\nSource: venturebeat.com (venturebeat.com)\nLanguage: en\n\n## Story\n\nMeituan open sources LongCat-2.0, the 1.6T, near-frontier agentic coding model that's been leading OpenRouter \u2014 t"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-30",
+    "topic": "model_releases",
+    "title": "Grok 4.5 Enters Private Beta at SpaceX and Tesla: No Public Access, No Independent Benchmark",
+    "url": "https://www.techtimes.com/articles/319314/20260629/grok-45-enters-private-beta-spacex-tesla-no-public-access-no-independent-benchmark.htm",
+    "snippet": "# Grok 4.5 Enters Private Beta at SpaceX and Tesla: No Public Access, No Independent Benchmark\n\nAuthor: Eloise Jones  \n \n \n Published: Jun 29 2026, 2:35 PM EDT\nPublished: 2026-06-29T14:35:33-04:00\nSource: techtimes.com (techtimes.com)\nLanguage: en\n\n## Story\n\nGrok 4.5 Enters Private Beta at SpaceX and Tesla: No Public Access, No Independent Benchmark\n\n[https://www.techtimes.com/](https://www.techti"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-30",
+    "topic": "model_releases",
+    "title": "China's Meituan says new AI model trained on domestic chips",
+    "url": "http://www.theedgemarkets.com/node/808846",
+    "snippet": "China's Meituan says new AI model trained on domestic chips\n\nTuesday 30 Jun 2026\n\nBURSASGX\n\nTech\n\nMake The Edge Malaysia your preferred source on Google\n\nBEIJING (June 30): Chinese tech firm Meituan launched a new artificial intelligence (AI) model on Tuesday that it said was the first of its size to be trained using domestically developed computer chips.\n\nThe country is locked in a fierce race fo"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-30",
+    "topic": "model_releases",
+    "title": "Claude models launch in Microsoft Foundry with full Azure integration",
+    "url": "https://www.verdict.co.uk/claude-models-microsoft-foundry/",
+    "snippet": "Claude models launch in Microsoft Foundry with full Azure integration\n\nClaude in Microsoft Foundry integrates Nvidia GPUs and Azure identity features. Credit: Algi Febri Sugita/Shutterstock.com.\n\nAnthropic has announced the general availability of its Claude family of language models in Microsoft Foundry, enabling organisations to access and deploy these models directly in Microsoft Azure environm"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-30",
+    "topic": "model_releases",
+    "title": "DeepReinforce publishes Ornith-1.0 for agentic coding | LavX News",
+    "url": "https://news.lavx.hu/article/deepreinforce-publishes-ornith-1-0-for-agentic-coding",
+    "snippet": "DeepReinforce publishes Ornith-1.0 for agentic coding | LavX News\n\n#AI\n\n# DeepReinforce publishes Ornith-1.0 for agentic coding\n\nJune 30, 2026 at 05:08 AM\u2022\n\n\u20223 min read\n\nShare this article\n\nSave\n\nDeepReinforce says Ornith-1.0 raises open coding-agent performance with reinforcement learning that trains both solution attempts and the scaffolds that guide them.\n\nDeepReinforce has released Ornith-1.0,"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-30",
+    "topic": "product_releases",
+    "title": "JetBrains Air Now Available for Windows, Boosts AI Coding Workflows, TechGig",
+    "url": "https://techgig.com/news/ai/jetbrains-air-now-available-for-windows-boosts-ai-coding-workflows/132084116",
+    "snippet": "JetBrains Air Now Available for Windows, Boosts AI Coding Workflows, TechGig\n\n- AI\n- 1 min read\n\n# JetBrains Air Now Available for Windows, Boosts AI Coding Workflows\n\nJetBrains has officially launched JetBrains Air for Windows, a dedicated environment for agent-first development. This release addresses high demand from the developer community, enabling enhanced integration of AI coding agents int"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-30",
+    "topic": "product_releases",
+    "title": "Claude Apps Gateway Debuts for Amazon Bedrock, Google Cloud - Blockchain.News",
+    "url": "https://blockchain.news/news/claude-apps-gateway-launch",
+    "snippet": "Claude Apps Gateway Debuts for Amazon Bedrock, Google Cloud - Blockchain.News\n\n# Claude Apps Gateway Debuts for Amazon Bedrock, Google Cloud\n\nTimothy Morano Jun 29, 2026 21:25\n\nAnthropic launches Claude apps gateway, simplifying enterprise use of Claude Code with enhanced controls, cost tracking, and integrations.\n\nAnthropic has unveiled the Claude apps gateway, a self-hosted infrastructure tool d"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-30",
+    "topic": "product_releases",
+    "title": "Cursor's mobile app signals that coding has become a job you supervise, not a desk you sit at - Startup Fortune",
+    "url": "https://startupfortune.com/cursors-mobile-app-signals-that-coding-has-become-a-job-you-supervise-not-a-desk-you-sit-at/",
+    "snippet": "Cursor's mobile app signals that coding has become a job you supervise, not a desk you sit at - Startup Fortune\n\nSearch\n\nSF Jun 30, 2026 \u00b7 12:01 PM\n\nSubscribe\u2709\n\nMost Read\n\nHyundai takes full control of Boston\u2026 GCash parent Mynt files for a\u2026 X Money rolls out to more\u2026 Ant Group is rebuilding Alipay around\u2026 Hyundai takes full control of Boston\u2026 GCash parent Mynt files for a\u2026 X Money rolls out to mor"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-30",
+    "topic": "product_releases",
+    "title": "Latest MongoDB tools tackle top AI development hurdles | TechTarget",
+    "url": "https://www.techtarget.com/searchdatamanagement/news/366645316/Latest-MongoDB-tools-tackle-top-AI-development-hurdles",
+    "snippet": "Latest MongoDB tools tackle top AI development hurdles | TechTarget\n\nGetty Images\n\nBy\n\n- Eric Avidon, Senior News Writer\n\nPublished: 30 Jun 2026\n\nMongoDB is taking aim at two of the main problems preventing enterprises from moving AI projects into production with the launch of its latest capabilities.\n\nWhile not the only barriers to successfully building agents and other AI applications, inaccurat"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-30",
+    "topic": "ai_agents",
+    "title": "Introducing Browserbase Agents | Browserbase",
+    "url": "https://www.browserbase.com/blog/introducing-browserbase-agents",
+    "snippet": "# Introducing Browserbase Agents | Browserbase\n\nAuthor: Ziray Hao\nPublished: 2026-06-30T08:28:00.000Z\nSource: browserbase.com (browserbase.com)\nLanguage: en\n\n## Story\n\nIntroducing Browserbase Agents | Browserbase\n\n[Browserbase](https://www.browserbase.com/)\n\nNavigation\n\nPlatform\n\nSolutions\n\nResources\n\n[Log in](https://www.browserbase.com/sign-in)\n\n[Sign up](https://www.browserbase.com/sign-up)\n\n[G"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-30",
+    "topic": "ai_agents",
+    "title": "Agentic Coding Company Baz Announces Planner That Lets",
+    "url": "https://www.globenewswire.com/news-release/2026/06/29/3319144/0/en/Agentic-Coding-Company-Baz-Announces-Planner-That-Lets-Engineering-Teams-Eliminate-Entire-Classes-of-Bugs-and-Vulnerabilities-at-Superhuman-Scale-and-an-Extended-Funding-Round-Co-L.html",
+    "snippet": "Agentic Coding Company Baz Announces Planner That Lets\n\n# Agentic Coding Company Baz Announces Planner That Lets Engineering Teams Eliminate Entire Classes of Bugs and Vulnerabilities at Superhuman Scale and an Extended Funding Round Co-Led by Battery Ventures and boldstart ventures\n\nJune 29, 2026 12:00 ET | Source: Baz Technologies Follow Baz Technologies\n\n---\n\nShare\n\n---\n\nSAN FRANCISCO, June 29,"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-30",
+    "topic": "ai_agents",
+    "title": "Google Cloud uses AI agents to secure software lifecycle",
+    "url": "https://itbrief.co.nz/story/google-cloud-uses-ai-agents-to-secure-software-lifecycle",
+    "snippet": "Google Cloud uses AI agents to secure software lifecycle\n\nIT Brief New Zealand - Technology news for CIOs & IT decision-makers\n\nNew Zealand Powered By\n\n# Google Cloud uses AI agents to secure software lifecycle\n\nTue, 30th Jun 2026 (Today)\n\nSEAN MITCHELL Publisher\n\nGoogle Cloud has outlined how it uses AI agents internally to secure its software development lifecycle, automating vulnerability revie"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-30",
+    "topic": "ai_agents",
+    "title": "NVIDIA BioNeMo Agent Toolkit Turns Biomolecular Models Into Callable Skills for AI Agents in Drug Discovery - MarkTechPost",
+    "url": "https://www.marktechpost.com/2026/06/29/nvidia-bionemo-agent-toolkit-turns-biomolecular-models-into-callable-skills-for-ai-agents-in-drug-discovery/",
+    "snippet": "NVIDIA BioNeMo Agent Toolkit Turns Biomolecular Models Into Callable Skills for AI Agents in Drug Discovery - MarkTechPost\n\nSearch\n\nPremium Content\n\nRead our exclusive articles\n\nFacebook\n\nInstagram\n\nX\n\nSearch\n\nHome Editors Pick Agentic AI NVIDIA BioNeMo Agent Toolkit Turns Biomolecular Models Into Callable Skills for AI...\n\nAI scientists are becoming a new interface for scientific computing. These"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-30",
+    "topic": "ai_small_business",
+    "title": "AI-Powered PitchBeacon.AI Revolutionizes Media Outreach for Startups and Agencies | Newsworthy.ai",
+    "url": "https://www.newsworthy.ai/news/202606292517/ai-powered-pitchbeaconai-revolutionizes-media-outreach-for-startups-and-agencies",
+    "snippet": "AI-Powered PitchBeacon.AI Revolutionizes Media Outreach for Startups and Agencies | Newsworthy.ai\n\n# AI-Powered PitchBeacon.AI Revolutionizes Media Outreach for Startups and Agencies\n\nPitchBeacon.AI showcases its AI-powered media intelligence and outreach platform designed to help startups, agencies, and businesses discover journalists, identify trending stories, and uncover media opportunities fa"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-30",
+    "topic": "ai_small_business",
+    "title": "Why 76% of Small Businesses Use AI but Only 14% See Results",
+    "url": "https://www.analyticsinsight.net/business/why-76-of-small-businesses-adopted-ai-and-most-still-cant-make-it-work",
+    "snippet": "# Why 76% of Small Businesses Use AI but Only 14% See Results\n\nAuthor: IndustryTrends\nPublished: 2026-06-29T12:00:31+00:00\nSource: analyticsinsight.net (analyticsinsight.net)\nLanguage: en\n\n## Story\n\nWhy 76% of Small Businesses Use AI but Only 14% See Results\n\n- [About Us](https://www.analyticsinsight.net/about-us)\n- [Team](https://www.analyticsinsight.net/team)\n- [Trending](https://www.analyticsin"
+  },
+  {
+    "kind": "news",
+    "date": "2026-06-30",
+    "topic": "ai_small_business",
+    "title": "19 best productivity tools for agencies in 2026",
+    "url": "https://www.folk.app/articles/best-productivity-tools-agencies",
+    "snippet": "19 best productivity tools for agencies in 2026\n\nDiscover folk CRMLike the sales assistant your team never had\n\nTry for free\n\n## Related posts\n\nFeatured\n\n### Best VoIP phone system for small business in 2026\n\n\u2022\n\nFounder\n\n\u2022\n\nJune 26, 2026\n\n\u2022\n\n8\n\nmin\n\nFeatured\n\n### What Is MCP in Sales? AI, CRM & Sales automation\n\n\u2022\n\nFounder\n\n\u2022\n\nMay 14, 2026\n\n\u2022\n\n9\n\nmin\n\nFeatured\n\n### Top 7 Best Lead Generation Agenc"
   }
 ]
