@@ -9122,5 +9122,199 @@
     "title": "19 best productivity tools for agencies in 2026",
     "url": "https://www.folk.app/articles/best-productivity-tools-agencies",
     "snippet": "19 best productivity tools for agencies in 2026\n\nDiscover folk CRMLike the sales assistant your team never had\n\nTry for free\n\n## Related posts\n\nFeatured\n\n### Best VoIP phone system for small business in 2026\n\n\u2022\n\nFounder\n\n\u2022\n\nJune 26, 2026\n\n\u2022\n\n8\n\nmin\n\nFeatured\n\n### What Is MCP in Sales? AI, CRM & Sales automation\n\n\u2022\n\nFounder\n\n\u2022\n\nMay 14, 2026\n\n\u2022\n\n9\n\nmin\n\nFeatured\n\n### Top 7 Best Lead Generation Agenc"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-07-01",
+    "headline": "Anthropic's bringing Fable out of the ban with credit-based billing and mandatory ID verification. No free trial anymore. Every credit gets verified.",
+    "url": "archive/2026-07-01.html",
+    "posts": {
+      "linkedin": [
+        "The math is wild. Token costs dropped from $17 to $2 per million tokens in the last two years. Meanwhile, model capability climbed 40%. You'd think lower costs mean lower total spend. Wrong. When the unit price drops, everything becomes economically viable that wasn't before. Spend goes up because usage scales faster than prices fall. That's not a signal to wait for cheaper models. That's a signal to build now, because the tax on every API call just got cheaper, and everyone's about to notice. Exponential View just documented this. $175 billion annualized run rate. Growing 3x faster than previous platform waves. In 2023, it took 180 days to accumulate the first $1 billion in AI revenue. Now it takes less than two days. The skeptics asking \"is this a bubble?\" are asking the wrong question. The question is \"what gets built when the unit cost disappears?\" That's where the move is.",
+        "Fable's coming back. But not free. Not frictionless. Identity verification required. Credit-based pricing, separate from subscription. Government-shaped conditions on a product launch. This is what regulatory capture looks like when applied to frontier models. Senate draft landed with agent neutrality and duty-of-loyalty rules. OpenAI shipped GPT-5.6 with government review embedded before general release. Three months ago this felt theoretical. Now it's real. The regulation isn't blocking AI. It's shaping how it ships. That's a different design constraint than we had before. Paid access filters users. ID verification filters who builds on top. Those are upstream gates that change the motion of everything downstream. If you're building on frontier models, the texture of that build surface just changed.",
+        "Code writes code. Now agents control workflows. This week, three ships matter: Harness worker agents for CI/CD pipelines. Rubrik resilience for Claude Code agents with agent rewind (pulls back state when things go wrong). Perforce orchestration layer for agent ecosystems. This isn't \"AI writes better code.\" This is \"AI controls the pipeline that ships code.\" Different tax. Different governance. Different failure modes. The builders winning are solving for control, not just capability. Audit trails. Sandboxing. Reversibility. Not paranoia. This is the gate that unlocks agents in production. That's the unlocking move."
+      ],
+      "threads": [
+        "$175 billion annualized AI revenue. Growing 3x faster than previous platform waves. In 2023, took 180 days to hit the first billion. Now less than two days. The skeptics asking \"bubble?\" are watching the wrong chart. The revenue is real. The growth is real. The compute supercycle driving electricity demand is real. What gets built when the cost disappears?",
+        "Fable's back. But verified. Paid. Government-shaped. That's not a barrier. That's a design constraint. Paid access filters users. ID verification filters builders. If you're shipping on frontier models, the surface you're building on just changed.",
+        "Everyone shipped agents this week. The shift: code writes code. Agents control workflows. Harness for pipelines. Rubrik for resilience. Perforce for governance. The move isn't capability. It's solving for control. Audit trails. Sandboxing. Reversibility. That's what unlocks the next layer."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-07-01",
+    "source": "AI Daily Brief",
+    "title": "How Big is the AI Economy",
+    "url": "https://www.youtube.com/watch?v=gP8A3x2mFRM",
+    "video_id": "gP8A3x2mFRM"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-01",
+    "topic": "model_releases",
+    "title": "Introducing Claude Sonnet 5 \\ Anthropic",
+    "url": "https://www.anthropic.com/news/claude-sonnet-5",
+    "snippet": "# Introducing Claude Sonnet 5 \\ Anthropic\n\nPublished: 2026-06-30T17:58:16+00:00\nSource: anthropic.com (anthropic.com)\nLanguage: en\n\n## Story\n\nIntroducing Claude Sonnet 5 \\ Anthropic\n\nSkip to main contentSkip to footer\n\n[Home](https://www.anthropic.com/)\n\n- [Research](https://www.anthropic.com/research)\n- [Policy](https://www.anthropic.com/policy)\n- Commitments\n- Learn\n- [News](https://www.anthropi"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-01",
+    "topic": "model_releases",
+    "title": "Google AI Introduces TabFM: A Hybrid-Attention Tabular Foundation Model for Zero-Shot Classification and Regression - MarkTechPost",
+    "url": "https://www.marktechpost.com/2026/07/01/google-ai-introduces-tabfm-a-hybrid-attention-tabular-foundation-model-for-zero-shot-classification-and-regression/",
+    "snippet": "Google AI Introduces TabFM: A Hybrid-Attention Tabular Foundation Model for Zero-Shot Classification and Regression - MarkTechPost\n\nSearch\n\nPremium Content\n\nRead our exclusive articles\n\nFacebook\n\nInstagram\n\nX\n\nSearch\n\nHome Technology AI Shorts Google AI Introduces TabFM: A Hybrid-Attention Tabular Foundation Model for Zero-Shot Classification...\n\nGoogle Research introduced TabFM, a foundation mode"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-01",
+    "topic": "model_releases",
+    "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-flash-nano-banana-2-lite/",
+    "snippet": "Start building with Nano Banana 2 Lite and Gemini Omni Flash\n\n# Start building with Nano Banana 2 Lite and Gemini Omni Flash\n\nJun 30, 2026\n\nShare\n\nCopy link\n\nWe\u2019re making it easier to experiment and scale your ideas with Nano Banana 2 Lite, our fastest, most cost-efficient Gemini Image model, and Gemini Omni Flash for high-quality video generation and conversational editing.\n\nAlisa Fortin\n\nProduct"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-01",
+    "topic": "model_releases",
+    "title": "OpenAI\u2019s GPT-5.6 Launch Turns Frontier AI Into a Government-Reviewed Release -- Pure AI",
+    "url": "https://pureai.com/articles/2026/06/30/openai-gpt-5-6-launch-turns-frontier-ai-into-a-governmentnreviewed-release.aspx",
+    "snippet": "OpenAI\u2019s GPT-5.6 Launch Turns Frontier AI Into a Government-Reviewed Release -- Pure AI\n\nSkip to main content\n\n- Contact Us\n\nPure AI\n\nExpert Insights for the AI Business Revolution\n\nAdd as a preferred source on Google\n\nNews\n\n### OpenAI\u2019s GPT-5.6 Launch Turns Frontier AI Into a Government-Reviewed Release\n\nOpenAI\u2019s latest model release is being framed as a technical advance, but its more immediate "
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-01",
+    "topic": "product_releases",
+    "title": "Anthropic launches Claude Science, an AI workspace built specifically for researchers",
+    "url": "https://the-decoder.com/anthropic-launches-claude-science-an-ai-workspace-built-specifically-for-researchers/",
+    "snippet": "Anthropic launches Claude Science, an AI workspace built specifically for researchers\n\n# Anthropic launches Claude Science, an AI workspace built specifically for researchers\n\nMatthias Bastian\n\nView the LinkedIn Profile of Matthias Bastian\n\nJun 30, 2026\n\nAnthropic released Claude Science, an AI workbench built for scientists. The app pulls together dozens of databases, tools, and packages in one i"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-01",
+    "topic": "product_releases",
+    "title": "Google Launches AI Image and Video Tools: 4-Second Images, Conversational Video Editing",
+    "url": "https://www.techtimes.com/articles/319416/20260701/google-launches-ai-image-video-tools-4-second-images-conversational-video-editing.htm",
+    "snippet": "Google Launches AI Image and Video Tools: 4-Second Images, Conversational Video Editing\n\nNano Banana 2 Lite Google.com\n\nGoogle released two generative media models on Tuesday \u2014 Nano Banana 2 Lite for rapid image generation and Gemini Omni Flash for conversational video editing \u2014 giving developers immediate access to a combined image-to-video pipeline at prices that make high-volume creative produc"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-01",
+    "topic": "product_releases",
+    "title": "Gemini Spark lands on the Mac, and it wants to tackle your chores while you relax - Digital Trends",
+    "url": "https://www.digitaltrends.com/computing/gemini-spark-hits-mac-and-it-might-just-become-your-new-favorite-assistant/",
+    "snippet": "Gemini Spark lands on the Mac, and it wants to tackle your chores while you relax - Digital Trends Skip to main content\n\nRachit Agarwal / Digital Trends\n\nGoogle has just announced a big batch of updates for Gemini Spark, making the assistant far more useful than before. Gemini Spark is finally coming to the Mac desktop app, bringing deeper app connections and a new way to keep tabs on what you car"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-01",
+    "topic": "product_releases",
+    "title": "Harness Launches Autonomous Worker Agents for Software Delivery",
+    "url": "https://www.prnewswire.com/news-releases/harness-launches-autonomous-worker-agents-for-software-delivery-302814180.html",
+    "snippet": "Harness Launches Autonomous Worker Agents for Software Delivery Accessibility Statement Skip Navigation\n\nBuild and safely run AI agents for software delivery, with a curated Marketplace featuring Harness Managed and Community-authored agents.\n\nSAN FRANCISCO, June 30, 2026 /PRNewswire/ -- Harness, the AI Software Delivery PlatformTM company, today launched Autonomous Worker Agents for software deli"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-01",
+    "topic": "product_releases",
+    "title": "Anthropic deploys Claude Sonnet 5, Fable and Mythos restored",
+    "url": "https://www.artificialintelligence-news.com/news/anthropic-deploys-claude-sonnet-5-fable-and-mythos-restored/",
+    "snippet": "Anthropic deploys Claude Sonnet 5, Fable and Mythos restored\n\nInside AI\n\n# Anthropic deploys Claude Sonnet 5, Fable and Mythos restored\n\nhttps://www.artificialintelligence-news.com/news/anthropic-deploys-claude-sonnet-5-fable-and-mythos-restored/\n\nRyan Daws\n\nJuly 1, 2026\n\nShare this story:\n\nTags:\n\n## agentic aiagentsanthropicclaudecompliancecybersecuritydevopsenterprisefrontiergovernanceinfosecmod"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-01",
+    "topic": "ai_agents",
+    "title": "Build reliable multi-agent applications with ADK Go 2.0. Discover our new graph-based workflow engine, built-in human-in-the-loop, and dynamic orchestration\n            \n            \n            - Google Developers Blog",
+    "url": "https://developers.googleblog.com/announcing-adk-go-20/",
+    "snippet": "# Build reliable multi-agent applications with ADK Go 2.0. Discover our new graph-based workflow engine, built-in human-in-the-loop, and dynamic orchestration\n            \n            \n            - Google Developers Blog\n\nPublished: 2026-06-30T16:54:55+00:00\nSource: developers.googleblog.com (developers.googleblog.com)\nLanguage: en\n\n## Story\n\nBuild reliable multi-agent applications with ADK Go 2."
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-01",
+    "topic": "ai_agents",
+    "title": "Perforce launches Agentic Gateway to govern AI agents and cut token costs - SiliconANGLE",
+    "url": "https://siliconangle.com/2026/06/30/perforce-launches-agentic-gateway-govern-ai-agents-cut-token-costs/",
+    "snippet": "Perforce launches Agentic Gateway to govern AI agents and cut token costs - SiliconANGLE\n\nSHARE\n\nUPDATED 09:00 EDT / JUNE 30 2026\n\nAI\n\n### Perforce launches Agentic Gateway to govern AI agents and cut token costs\n\nPerforce Software Inc. today expanded its Perforce Intelligence lineup with an agentic gateway for managing artificial intelligence agents, an autonomous testing platform driven by natur"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-01",
+    "topic": "ai_agents",
+    "title": "Rubrik ships Rubrik Agent Cloud for Anthropic's Claude Code | AIntelligenceHub",
+    "url": "https://aintelligencehub.com/articles/rubrik-agent-cloud-claude-code",
+    "snippet": "Rubrik ships Rubrik Agent Cloud for Anthropic's Claude Code | AIntelligenceHub\n\n# Rubrik ships Rubrik Agent Cloud for Anthropic's Claude Code\n\nAIntelligenceHub\n\n\u00b7June 30, 2026\u00b77 min read\n\nRubrik Agent Cloud for Anthropic's Claude Code ships today at FORWARD 2026, with an agent rewind that pulls back code and configuration when autonomous actions go wrong. The launch also repositions Rubrik as an A"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-01",
+    "topic": "ai_small_business",
+    "title": "The All-in-One Bet: Can a $97 Platform Replace Every Tool a Solo Business Needs? - Grit Daily News",
+    "url": "https://gritdaily.com/can-one-platform-replace-every-tool-a-solo-business-needs/",
+    "snippet": "The All-in-One Bet: Can a $97 Platform Replace Every Tool a Solo Business Needs? - Grit Daily News\n\n# The All-in-One Bet: Can a $97 Platform Replace Every Tool a Solo Business Needs?\n\nBy Jordan French\n\nImage Credit: Canva\n\nBen Czajka likes to talk about missed deadlines in quiet tones, the way others talk about near accidents on the highway. A hair stylist forgets an annual report, a pressure wash"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-01",
+    "topic": "ai_small_business",
+    "title": "FLODESK LAUNCHES STUDIO: A NEW APPROACH TO CREATIVE AI | Morningstar",
+    "url": "https://www.morningstar.com/news/pr-newswire/20260630ph94706/flodesk-launches-studio-a-new-approach-to-creative-ai",
+    "snippet": "FLODESK LAUNCHES STUDIO: A NEW APPROACH TO CREATIVE AI | Morningstar\n\nSign In\n\nFLODESK LAUNCHES STUDIO: A NEW APPROACH TO CREATIVE AI\n\n## FLODESK LAUNCHES STUDIO: A NEW APPROACH TO CREATIVE AI\n\nPR Newswire\n\nSAN FRANCISCO, June 30, 2026\n\nStudio combines AI generation with full manual control, on a foundation built by professional designers\n\nSAN FRANCISCO, June 30, 2026 /PRNewswire/ -- Flodesk, the "
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-01",
+    "topic": "ai_small_business",
+    "title": "How Vertafore's New AI Innovations Transform Agency Workflows With Velocity - Third News",
+    "url": "https://third-news.com/article/8407006a-748e-11f1-8198-9ca3ba08e13f",
+    "snippet": "How Vertafore's New AI Innovations Transform Agency Workflows With Velocity - Third News\n\n### Auto & Transportation\n\n### Business Technology\n\n### Consumer Products & Retail\n\n### Consumer Technology\n\n### Energy\n\n### Entertainment & Media\n\n### Environment\n\n### Financial Services & Investing\n\n### General Business\n\n### Heavy Industry & Manufacturing\n\n### Health\n\n### People & Culture\n\n### Policy & Publ"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-01",
+    "topic": "ai_small_business",
+    "title": "Federal vendor registration renewal assistant - AI Smasher",
+    "url": "https://aismasher.com/federal-vendor-registration-renewal-assistant/",
+    "snippet": "Federal vendor registration renewal assistant - AI Smasher\n\n# Federal vendor registration renewal assistant\n\nA new federal vendor renewal assistant is being tested to help small businesses manage registration tasks and avoid bid-blocking issues, with plans for a subscription model.\n\nTotal\n\n0\n\nShares\n\nPin it 0\n\n##### Up next\n\nPublished on 30 June 2026\n\n##### Author\n\n\ud83d\udcca Full opportunity report: Feder"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-01",
+    "topic": "ai_small_business",
+    "title": "I\u2019m Building Rykon Digital to Help Small Businesses Get Better Websites, Systems, and Automation - DEV Community",
+    "url": "https://dev.to/kyej_dev/im-building-rykon-digital-to-help-small-businesses-get-better-websites-systems-and-automation-59n2",
+    "snippet": "# I\u2019m Building Rykon Digital to Help Small Businesses Get Better Websites, Systems, and Automation - DEV Community\n\nPublished: 2026-06-30T04:38:31+00:00\nSource: dev.to (dev.to)\nLanguage: en\n\n## Story\n\nI\u2019m Building Rykon Digital to Help Small Businesses Get Better Websites, Systems, and Automation - DEV Community\n\nSkip to content\n\nNavigation menu\n\n[![DEV Community](https://media2.dev.to/dynamic/ima"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-01",
+    "topic": "ai_labs",
+    "title": "Claude Science, an AI workbench for scientists \\ Anthropic",
+    "url": "https://www.anthropic.com/news/claude-science-ai-workbench",
+    "snippet": "# Claude Science, an AI workbench for scientists \\ Anthropic\n\nPublished: 2026-06-30T17:06:11+00:00\nSource: anthropic.com (anthropic.com)\nLanguage: en\n\n## Story\n\nClaude Science, an AI workbench for scientists \\ Anthropic\n\nSkip to main contentSkip to footer\n\n[Home](https://www.anthropic.com/)\n\n- [Research](https://www.anthropic.com/research)\n- [Policy](https://www.anthropic.com/policy)\n- Commitments"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-01",
+    "topic": "ai_labs",
+    "title": "Gemini Spark updates: macOS launch, connected apps and more",
+    "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-spark-updates-june-2026/",
+    "snippet": "# Gemini Spark updates: macOS launch, connected apps and more\n\nPublished: 2026-06-30T21:00:00+00:00\nSource: blog.google (blog.google)\nLanguage: en\n\n## Story\n\nGemini Spark updates: macOS launch, connected apps and more\n\nSkip to main content\n\n[The Keyword](https://blog.google/)\n\nGemini Spark updates: macOS launch, connected apps and more\n\nShare\n\n[x.com](https://twitter.com/intent/tweet?text=Gemini%2"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-01",
+    "topic": "ai_labs",
+    "title": "Gemini 3.1 Flash-Lite Image \u2013 Nano Banana 2 Lite \u2014 Google DeepMind",
+    "url": "https://deepmind.google/models/gemini-image/flash-lite/",
+    "snippet": "Gemini 3.1 Flash-Lite Image \u2013 Nano Banana 2 Lite \u2014 Google DeepMind\n\n# Nano Banana 2 Lite \ud83c\udf4c\n\nOur fastest, most efficient Gemini Image model. Built to deliver high-speed generation and editing at our lowest cost yet.\n\nTry in Google AI Studio\n\nView prompt guide\n\n## Lightning-fast latency\n\nExplore, iterate, and keep your workflow moving with dramatically reduced latency.\n\nTry in Google AI Studio\n\n## C"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-01",
+    "topic": "ai_labs",
+    "title": "Gemini 3.1 Flash-Lite Image - Model Card \u2014 Google DeepMind",
+    "url": "https://deepmind.google/models/model-cards/gemini-3-1-flash-lite-image/",
+    "snippet": "Gemini 3.1 Flash-Lite Image - Model Card \u2014 Google DeepMind\n\nPublished 30 June 2026\n\n# Gemini 3.1 Flash-Lite Image\n\nLearn more\n\nModel Cards are intended to provide essential information on Gemini models, including known limitations, mitigation approaches, and safety performance. Model cards may be updated from time-to-time; for example, to include updated evaluations as the model is improved or rev"
   }
 ]
