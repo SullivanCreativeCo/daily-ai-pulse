@@ -9316,5 +9316,231 @@
     "title": "Gemini 3.1 Flash-Lite Image - Model Card \u2014 Google DeepMind",
     "url": "https://deepmind.google/models/model-cards/gemini-3-1-flash-lite-image/",
     "snippet": "Gemini 3.1 Flash-Lite Image - Model Card \u2014 Google DeepMind\n\nPublished 30 June 2026\n\n# Gemini 3.1 Flash-Lite Image\n\nLearn more\n\nModel Cards are intended to provide essential information on Gemini models, including known limitations, mitigation approaches, and safety performance. Model cards may be updated from time-to-time; for example, to include updated evaluations as the model is improved or rev"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-07-08",
+    "headline": "GPT-5.6 was frozen at the US government's request. It goes public Thursday.",
+    "url": "archive/2026-07-08.html",
+    "posts": {
+      "linkedin": [
+        "The Stripe data dropped today and it hit different.\n\nSolo founders earning over a million dollars more than doubled between 2023 and 2025.\n\n73% of new companies on Stripe Atlas in Q2 2026 were started by a single founder. All-time high.\n\nI've been in this world long enough to know what changed. It wasn't motivation. It wasn't market timing.\n\nThe people who used to need a technical co-founder, a marketing hire, a sales rep, they're building alone now because AI is filling those seats.\n\nNot perfectly. Not always. But enough to get moving, and \"enough to get moving\" is the whole game when you're starting out.\n\nStripe put it plainly: AI is stepping in as \"the technical co-founder or the sales and marketing first hire.\"\n\nThat's not a trend piece. That's a data-backed shift in what a team actually needs to look like.\n\nWhat are you already doing for yourself that someone else would find useful? Because a whole lot more people can now go build that thing alone.",
+        "Most people selling AI services are making it too complicated.\n\nCorey Ganim dropped a video today that stripped it to three steps.\n\nFree 15-minute assessment. One problem, one tool. No charge.\n\n30-50% of those convert to a $999 paid assessment. That's a 45-minute deep-dive, 3-7 bottlenecks, a written report. Nearly 100% margin.\n\nFrom there, upsell to a monthly AI concierge at $1,000-$2,000 a month. Two 45-minute calls per month, async support between sessions. At $1,500/month, that's $1,000/hour effective rate.\n\nThe thing that jumped out at me isn't the pricing. It's the shape.\n\nFree thing gives them a taste. Paid thing shows them the depth of their problem. Retainer solves it ongoing.\n\nThat's not an agency. That's a trust ladder.\n\nEvery step earns the next. None of them require you to hire a team, rent office space, or pitch an enterprise contract.\n\nIf you've been trying to figure out how to package what you know about AI into something people will pay for, this model is worth stealing.",
+        "GPT-5.6 drops Thursday. Three tiers: Sol, Terra, Luna.\n\nThat's the announcement. Here's the part most people are scrolling past.\n\nThe model was frozen at the US government's request before launch. Not a routine safety review. Because researchers found GPT-5.6 has an \"unprecedented ability to identify exploitable weaknesses in code.\"\n\nThat's a national security concern.\n\nSo OpenAI ran a restricted preview with trusted US-based partners at Washington's request for weeks. Only now is it opening globally.\n\nThe US government slowed down a commercial product launch because of what a model could do in the wrong hands.\n\nThat doesn't happen with word processors.\n\nAI capability is now in the same conversation as export controls and national security clearances. Whether you think that's the right call or an overreach, it's the world this stuff operates in now.\n\nThe launch is Thursday. The national security conversation started weeks ago."
+      ],
+      "threads": [
+        "Anthropic just made Cowork work on your phone.\n\nYou start a task on your laptop. Claude works while you're away. When it hits a decision that needs a human, it pings you on mobile.\n\nThe task doesn't wait for you to come back. You check in when it's stuck.\n\nThat's what async AI work actually looks like. If you're on the Max plan, it's in beta now.",
+        "New platform called SOLO just launched for home bakers, boutique owners, salons, and freelancers.\n\nTwo AI teammates. One handles marketing and sales. One handles customer support. No technical setup.\n\nThey're calling it an autonomous AI business team.\n\nThat's not a stretch. Most small businesses never had a team to begin with. This is the product built to fill that gap.",
+        "Stripe released data today. Solo founders earning $1M+ more than doubled between 2023 and 2025. 73% of new Stripe Atlas companies in Q2 2026 were single founders. All-time high.\n\nI've been watching this happen from inside it. The shift is real.\n\nThe thing AI replaced wasn't the founder. It replaced the ceiling."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-07-08",
+    "source": "The Koerner Office",
+    "title": "You Don't Need to Code to Build Software",
+    "url": "https://www.youtube.com/watch?v=hCCagWsUZXc",
+    "video_id": "hCCagWsUZXc"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-07-08",
+    "source": "The Koerner Office",
+    "title": "How to Make Money on Airbnb (Even With $0)",
+    "url": "https://www.youtube.com/watch?v=pKja9oxDAaQ",
+    "video_id": "pKja9oxDAaQ"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-07-08",
+    "source": "Corey Ganim",
+    "title": "DON'T start an AI automation agency in 2026 (do this instead)",
+    "url": "https://www.youtube.com/watch?v=dSJ5ryaAJiQ",
+    "video_id": "dSJ5ryaAJiQ"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-07-08",
+    "source": "AI Daily Brief",
+    "title": "How AI Is Changing How Companies Get Built",
+    "url": "https://www.youtube.com/watch?v=58xIe60tBfw",
+    "video_id": "58xIe60tBfw"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-07-08",
+    "source": "AI Daily Brief",
+    "title": "The Big Ways AI Just Changed",
+    "url": "https://www.youtube.com/watch?v=WUeMqk_ABmY",
+    "video_id": "WUeMqk_ABmY"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-07-08",
+    "source": "AI Daily Brief",
+    "title": "AI Focused Companies Are Hiring More",
+    "url": "https://www.youtube.com/watch?v=PnEWo_AKzIU",
+    "video_id": "PnEWo_AKzIU"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-08",
+    "topic": "model_releases",
+    "title": "Introducing Muse Image and Muse Video",
+    "url": "https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/",
+    "snippet": "# Introducing Muse Image and Muse Video\n\nPublished: 2026-07-07T20:03:45+00:00\nSource: ai.meta.com (ai.meta.com)\nLanguage: en\n\n## Story\n\nIntroducing Muse Image and Muse Video\n\n![Meta](https://scontent-lga3-3.xx.fbcdn.net/v/t39.8562-6/252294889_575082167077436_6034106545912333281_n.svg/meta-logo-primary_standardsize.svg?_nc_cat=108&ccb=1-7&_nc_sid=e280be&_nc_ohc=df6qKFuGOv8Q7kNvwE-KMyi&_nc_oc=AdoCEF"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-08",
+    "topic": "model_releases",
+    "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos | TechCrunch",
+    "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
+    "snippet": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos | TechCrunch\n...\n# Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos\n...\nMeta on Tuesday unveiled Muse Image, its new AI image generator built by Meta Superintelligence Labs, the company\u2019s dedicated AI unit. The feature, which w"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-08",
+    "topic": "model_releases",
+    "title": "OpenAI GPT-5.6 rollout begins July 9: New features, models and everything else to know - The Economic Times",
+    "url": "https://economictimes.indiatimes.com/news/international/business/openai-gpt-5-6-rollout-begins-july-9-new-features-models-and-everything-else-to-know/articleshow/132257449.cms",
+    "snippet": "OpenAI GPT-5.6 rollout begins July 9: New features, models and everything else to know - The Economic Times\n...\nBusiness News\u203a News\u203a International\u203a Business\u203aOpenAI GPT-5.6 rollout begins July 9: New features, models and everything else to know\n...\n# OpenAI GPT-5.6 rollout begins July 9: New features, models and everything else to know\n...\nOpenAI GPT-5.6 rollout begins July 9: New features, models "
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-08",
+    "topic": "model_releases",
+    "title": "NVIDIA unveils Audex 30B-A3B, a unified audio-text LLM preserving backbone text intelligence \u00b7 TickrWire",
+    "url": "https://www.tickrwire.tech/article/nvidia-unveils-audex-30b-a3b-a-unified-audio-text-llm-preserving-backb",
+    "snippet": "NVIDIA unveils Audex 30B-A3B, a unified audio-text LLM preserving backbone text intelligence \u00b7 TickrWire\n...\n# NVIDIA Releases Audex (Nemotron-Labs-Audex-30B-A3B): A Unified Audio-Text LLM That Preserves the Text Intelligence of Its Backbone\n...\nNVIDIA introduces Audex 30B-A3B, a mixture-of-experts model combining audio understanding, speech recognition, translation, TTS, and audio generation whil"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-08",
+    "topic": "model_releases",
+    "title": "Claude Sonnet 5: Anthropic's Most Agentic AI Model Arrives at Reduced Price | BotBeat",
+    "url": "https://botbeat.news/news/claude-sonnet-5-anthropic-s-most-agentic-ai-model-arrives-at-reduced-price-8738",
+    "snippet": "Claude Sonnet 5: Anthropic's Most Agentic AI Model Arrives at Reduced Price | BotBeat\n...\nPRODUCT LAUNCH Anthropic 2026-07-07\n...\n# Claude Sonnet 5: Anthropic's Most Agentic AI Model Arrives at Reduced Price\n...\n- \u25b8Claude Sonnet 5 introduces enhanced agentic capabilities designed for autonomous task execution and multi-step reasoning\n- \u25b8Pricing has been reduced compared to previous Claude models, "
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-08",
+    "topic": "product_releases",
+    "title": "OpenAI to launch new model after US freeze",
+    "url": "https://www.france24.com/en/live-news/20260708-openai-to-launch-new-model-after-us-freeze",
+    "snippet": "OpenAI to launch new model after US freeze\n...\n# OpenAI to launch new model after US freeze\n...\nSan Francisco (United States) (AFP) \u2013 ChatGPT-maker OpenAI said its latest and most powerful artificial intelligence model will be released to the public on Thursday, as the US government reportedly approved a broader launch.\n...\nThe company's new GPT-5.6 offerings and other cutting-edge AI models, incl"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-08",
+    "topic": "product_releases",
+    "title": "Superhuman Launches Superhuman Docs, a Collaboration Surface for Teams to Write, Track, and Build With AI",
+    "url": "https://blog.superhuman.com/superhuman-launches-superhuman-docs/",
+    "snippet": "# Superhuman Launches Superhuman Docs, a Collaboration Surface for Teams to Write, Track, and Build With AI\n\nPublished: 2026-07-08T12:58:15+00:00\nSource: superhuman.com (blog.superhuman.com)\nLanguage: en\n\n## Story\n\nSuperhuman Launches Superhuman Docs, a Collaboration Surface for Teams to Write, Track, and Build With AI\n\n[Superhuman](https://superhuman.com/)\n\nProduct\n\n- [Superhuman Go](https://supe"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-08",
+    "topic": "product_releases",
+    "title": "Anthropic brings Cowork out of the desktop and onto web and mobile - SiliconANGLE",
+    "url": "https://siliconangle.com/2026/07/07/anthropic-brings-cowork-desktop-onto-web-mobile/",
+    "snippet": "Anthropic brings Cowork out of the desktop and onto web and mobile - SiliconANGLE\n...\n### Anthropic brings Cowork out of the desktop and onto web and mobile\n...\nAnthropic PBC today announced it\u2019s bringing its Claude Cowork agentic artificial intelligence assistant to mobile and the web, breaking it free from the desktop.\n...\nCowork allows users to harness the company\u2019s most powerful AI models to d"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-08",
+    "topic": "product_releases",
+    "title": "Teamily AI Publicly Launches Human+AI Social Platform to Make Building and Growing a Company Easy for Every Team",
+    "url": "https://www.businesswire.com/news/home/20260708584390/en/Teamily-AI-Publicly-Launches-HumanAI-Social-Platform-to-Make-Building-and-Growing-a-Company-Easy-for-Every-Team",
+    "snippet": "# Teamily AI Publicly Launches Human+AI Social Platform to Make Building and Growing a Company Easy for Every Team\n\nPublished: 2026-07-08T13:00:00+00:00\nSource: businesswire.com (businesswire.com)\nLanguage: en\n\n## Story\n\nTeamily AI Publicly Launches Human+AI Social Platform to Make Building and Growing a Company Easy for Every Team\n\n[Home page](https://www.businesswire.com/)\n\n[Contact Us](https://"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-08",
+    "topic": "ai_agents",
+    "title": "Peraton Unveils Peraton[x]\u2122: The First True Enterprise Agentic AI Platform Built for the Nation\u2019s Most Critical Operations and Missions",
+    "url": "https://www.businesswire.com/news/home/20260707777574/en/Peraton-Unveils-Peratonx-The-First-True-Enterprise-Agentic-AI-Platform-Built-for-the-Nations-Most-Critical-Operations-and-Missions",
+    "snippet": "# Peraton Unveils Peraton[x]\u2122: The First True Enterprise Agentic AI Platform Built for the Nation\u2019s Most Critical Operations and Missions\n\nPublished: 2026-07-07T19:29:00+00:00\nSource: businesswire.com (businesswire.com)\nLanguage: en\n\n## Story\n\nPeraton Unveils Peraton[x]\u2122: The First True Enterprise Agentic AI Platform Built for the Nation\u2019s Most Critical Operations and Missions\n\n[Home page](https:/"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-08",
+    "topic": "ai_agents",
+    "title": "CorvinOS Launches Self-Hosted Agentic OS With EU AI Act Compliance Baked Into Architecture | BotBeat",
+    "url": "https://botbeat.news/news/corvinos-launches-self-hosted-agentic-os-with-eu-ai-act-compliance-baked-into-ar-8764",
+    "snippet": "CorvinOS Launches Self-Hosted Agentic OS With EU AI Act Compliance Baked Into Architecture | BotBeat\n...\nPRODUCT LAUNCH Corvin Labs 2026-07-07\n...\n# CorvinOS Launches Self-Hosted Agentic OS With EU AI Act Compliance Baked Into Architecture\n...\n- \u25b8CorvinOS brings compliance-by-architecture to agentic AI, making GDPR and EU AI Act enforcement architectural rather than policy-based\n- \u25b8Bridges 5+ AI e"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-08",
+    "topic": "ai_agents",
+    "title": "NVIDIA Nemotron Achieves Benchmark-Leading Performance With LangChain Deep Agents Harness | NVIDIA Blog",
+    "url": "https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack/",
+    "snippet": "# NVIDIA Nemotron Achieves Benchmark-Leading Performance With LangChain Deep Agents Harness | NVIDIA Blog\n\nAuthor: Adel El Hallak\nPublished: 2026-07-08T00:00:00Z\nSource: nvidia.com (blogs.nvidia.com)\nLanguage: en\n\n## Story\n\n![country_code](https://www.nvidia.com/content/dam/1x1-00000000.png)\n\nNVIDIA Nemotron Achieves Benchmark-Leading Performance With LangChain Deep Agents Harness | NVIDIA Blog\n\nS"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-08",
+    "topic": "ai_agents",
+    "title": "JetBrains AI for Teams and Organizations: From Fragmented AI Usage to Coordinated Software Development - The JetBrains Blog",
+    "url": "https://blog.jetbrains.com/blog/2026/07/07/jetbrains-ai-for-teams-and-organizations-from-fragmented-ai-usage-to-coordinated-software-development/",
+    "snippet": "Agentic AI AI Early Access Program JetBrains Central New Products News Releases\n...\n# JetBrains AI for Teams and Organizations: From Fragmented AI Usage to Coordinated Software Development\n...\nWe\u2019re about to start rolling out a new set of AI capabilities that provide shared context, reusable agentic workflows, organization-level governance, and cost control for software production.\n...\nDevelopers "
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-08",
+    "topic": "ai_agents",
+    "title": "CyberProof Redefines MXDR with Agentic AI and Autonomous Security Operations",
+    "url": "https://www.prnewswire.com/news-releases/cyberproof-redefines-mxdr-with-agentic-ai-and-autonomous-security-operations-302819309.html",
+    "snippet": "CyberProof Redefines MXDR with Agentic AI and Autonomous Security Operations Accessibility Statement Skip Navigation\n...\nNew co-managed service helps enterprises move beyond isolated AI tools with human-governed, end-to-end security operations\n...\nALISO VIEJO, Calif., July 7, 2026 /PRNewswire/ -- CyberProof Inc., a UST company and a leading global provider of co-managed security services, today an"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-08",
+    "topic": "ai_small_business",
+    "title": "Reliance Jio-Backed Haptik Unveils AI-Native Platform SOLO For Small Businesses: Here's What It Does",
+    "url": "https://www.freepressjournal.in/tech/jio-backed-haptik-unveils-ai-native-platform-solo-for-small-businesses-heres-what-it-does",
+    "snippet": "Reliance Jio-Backed Haptik Unveils AI-Native Platform SOLO For Small Businesses: Here's What It Does\n\n# Reliance Jio-Backed Haptik Unveils AI-Native Platform SOLO For Small Businesses: Here's What It Does\n\n## Reliance Jio-backed Haptik has launched SOLO, an AI platform designed to act as a virtual marketing, sales and support team for small businesses. The platform uses AI teammates Tara and Ved t"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-08",
+    "topic": "ai_small_business",
+    "title": "AllyHub Brings AI Automation to Browser Workflows",
+    "url": "https://martech360.com/news/stack-platforms/allyhub-brings-browser-native-ai-automation-to-ecommerce-content-creation-and-repetitive-online-workflows/",
+    "snippet": "AllyHub Brings AI Automation to Browser Workflows\n\n# AllyHub Brings Browser-Native AI Automation to Ecommerce, Content Creation, and Repetitive Online Workflows\n\nStack & Platforms News\n\nAllyHub is a newly launched, browser-native AI copilot built to automate the execution work behind ecommerce, marketing, research, and content production. Instead of functioning as a traditional chatbot, AllyHub op"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-08",
+    "topic": "ai_labs",
+    "title": "What\u2019s new in Managed Agents in Gemini API",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+    "snippet": "# What\u2019s new in Managed Agents in Gemini API\n\nPublished: 2026-07-07T08:54:00+00:00\nSource: blog.google (blog.google)\nLanguage: en\n\n## Story\n\nWhat\u2019s new in Managed Agents in Gemini API\n\nSkip to main content\n\n[The Keyword](https://blog.google/)\n\nExpanding Managed Agents in Gemini API: background tasks, remote MCP and more\n\nShare\n\n[x.com](https://twitter.com/intent/tweet?text=Expanding%20Managed%20Ag"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-08",
+    "topic": "ai_labs",
+    "title": "Australian Payments Plus moves faster with ChatGPT and Codex | OpenAI",
+    "url": "https://openai.com/index/australian-payments-plus/",
+    "snippet": "# Australian Payments Plus moves faster with ChatGPT and Codex | OpenAI\n\nPublished: 2026-07-07T18:51:55+00:00\nSource: openai.com (openai.com)\nLanguage: en\n\n## Story\n\nAustralian Payments Plus moves faster with ChatGPT and Codex | OpenAI\n\nSkip to main content\n\n[OpenAI Home](https://openai.com/)\n\n- [Research](https://openai.com/research/index/)\n- Products\n- [Business](https://openai.com/business/)\n- "
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-08",
+    "topic": "ai_labs",
+    "title": "Three new satellites join the fight against wildfires. - Google Blog",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/firesat-satellites/",
+    "snippet": "3 new FireSat satellites launch to help detect wildfires with AI\n\nToday, three new FireSat satellites successfully launched from Vandenberg Space Force Base in California. This expands the FireSat program, a global initiative led by the nonprofit Earth Fire Alliance (EFA) to create an unprecedented wildfire dataset. Google Research has teamed up with leaders in the fire community, including EFA an"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-08",
+    "topic": "ai_labs",
+    "title": "How Google supports the UN\u2019s Early Warnings for All",
+    "url": "https://blog.google/innovation-and-ai/technology/research/technology-global-crisis-resilience/",
+    "snippet": "How Google supports the UN\u2019s Early Warnings for All\n\n# How governments and organizations are leveraging Google\u2019s AI breakthroughs for crisis resilience\n\nJul 07, 2026\n\nShare\n\nCopy link\n\nWith the release of today's UN report \u201cLeveraging AI to enhance multi-hazard early warning systems,\u201d we\u2019re sharing how Google\u2019s AI breakthroughs and products are helping governments and international organizations p"
   }
 ]
