@@ -9552,5 +9552,239 @@
       "linkedin": [],
       "threads": []
     }
+  },
+  {
+    "kind": "digest",
+    "date": "2026-07-10",
+    "headline": "GPT-5.6 sat behind a government gate for two weeks. The Trump administration had it restricted to approved orgs only. Yesterday it got the greenlight for public rollout.",
+    "url": "archive/2026-07-10.html",
+    "posts": {
+      "linkedin": [
+        "OpenAI didn't just release a model yesterday.\n\nThey released a product for people who've been watching Codex from the sidelines.\n\nChatGPT Work is the non-developer version of Codex. You give it a goal. It stays with the project for hours if needed. Connects to Slack, Google Drive, your files. Turns scattered notes and drafts into finished work.\n\nOld framing: 'AI can code, so developers win.'\nNew framing: 'AI can execute entire knowledge workflows, so anyone with too many tabs open wins.'\n\nThat's a completely different conversation.\n\nAnd it's live on desktop for all plans right now. Free tier included. Not a Pro gate, not an enterprise feature.\n\nIf you run a small business and you've been treating AI like a smarter search bar, this might be the one that actually changes your daily workflow.\n\nGive it a task you already know well. See what comes back.",
+        "Someone is selling a marketing operating system as a zip file.\n\nThat's the whole pitch.\n\nJustin Brooke built CMO HQ - a full marketing and sales OS made entirely of folders and markdown files. Works with any AI. Customer buys from a sales page, gets a zip, hands the installer file to Claude or ChatGPT, and the AI builds the whole system for them.\n\nNo onboarding calls. No custom setup. No support tickets. Zero delivery work.\n\nHere's what stuck with me: the product isn't the system. The product is the instructions. You build it once. The machine handles delivery forever.\n\n'What are you already doing for yourself that someone else would find useful?'\n\nBecause if you've built a repeatable workflow for content, client onboarding, or lead follow-up, you've already built it. You're just not packaging it yet.\n\nIs that a product? I think that's a product.",
+        "Dan Shipper made a point this week that I haven't been able to shake.\n\nAnyone can ship a first version of a software product now. One Codex session. Roughly 70% complete out of the gate. That's real, not hypothetical.\n\nSo if building the first version is easy, where does the value actually live?\n\nMaintenance. The work of keeping it running, keeping it relevant, improving it week over week.\n\nHe built a live product called Turnaround to demonstrate this. A status badge that signals an app is actively maintained. The point isn't the badge. The point is that in a world where everyone can build fast, the moat is who shows up consistently.\n\nSmall businesses know this instinctively. A website that doesn't get touched is a dead website. A tool that doesn't improve gets replaced.\n\nWe moved from the 'build it' era into the 'keep it going' era. Are you building for that?"
+      ],
+      "threads": [
+        "GPT-5.6 was sitting in a regulatory holding pattern for two weeks.\n\nThe Trump administration had it restricted to approved organizations only. Yesterday they greenlit the public rollout.\n\nWhat I noticed: OpenAI dropped ChatGPT Work in the same breath. A whole new product category, same day.\n\nThat timing wasn't an accident. They knew the wait was coming and used it to build.\n\nThat's the part the headlines are missing.",
+        "Clockwork.ai dropped an AI CFO for small businesses yesterday. Connect QuickBooks or Xero in under three minutes. It runs forecasts, monitors cash flow, and flags changes automatically. No prompting required.\n\nThat's not just a feature. That's weight removal.\n\nA few years ago you hired someone to do this. Or you didn't and flew blind.\n\nWhat are you still flying blind on that a tool like this could just... handle?",
+        "Chris Koerner walked through the rank-and-rent model this week. It's one of the more concrete side business plays I've seen.\n\nBuild a local lead gen site. Let it rank for something like 'pool service Bentonville.' Collect leads. Sell them to local businesses.\n\nThe guy from the original episode makes $300 to $3,000 per site monthly. He owns everything.\n\nNew part: AI builds the site now. The business model isn't new. The barrier is."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-07-10",
+    "source": "The Koerner Office",
+    "title": "My Unfiltered Advice on Outsourcing, Kickstarter, AI, and Sales",
+    "url": "https://www.youtube.com/watch?v=P5Gy6zlm-bM",
+    "video_id": "P5Gy6zlm-bM"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-07-10",
+    "source": "The Koerner Office",
+    "title": "AI Builds the Websites That Pay You Monthly",
+    "url": "https://www.youtube.com/watch?v=mDE7InaRxDA",
+    "video_id": "mDE7InaRxDA"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-07-10",
+    "source": "Startup Ideas Podcast",
+    "title": "GPT 5.6 SOL IS HERE! How to use it.",
+    "url": "https://www.youtube.com/watch?v=7pVTQSA4s5I",
+    "video_id": "7pVTQSA4s5I"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-07-10",
+    "source": "Corey Ganim",
+    "title": "The AI Operating System that sells itself (zero delivery work)",
+    "url": "https://www.youtube.com/watch?v=Gc_80L9sdPc",
+    "video_id": "Gc_80L9sdPc"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-07-10",
+    "source": "AI Daily Brief",
+    "title": "How AI Changes if Open Source Gets Banned",
+    "url": "https://www.youtube.com/watch?v=kpGZ83XqDqA",
+    "video_id": "kpGZ83XqDqA"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-07-10",
+    "source": "The Boring Marketer",
+    "title": "I Replaced Myself With an AI Agent to Run My Socials (Free AI Skill Included)",
+    "url": "https://www.youtube.com/watch?v=6CJ4T9vaUUE",
+    "video_id": "6CJ4T9vaUUE"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-10",
+    "topic": "model_releases",
+    "title": "GPT-5.6: Frontier intelligence that scales with your ambition | OpenAI",
+    "url": "https://openai.com/index/gpt-5-6/",
+    "snippet": "# GPT-5.6: Frontier intelligence that scales with your ambition | OpenAI\n\nPublished: 2026-07-09T17:26:09+00:00\nSource: openai.com (openai.com)\nLanguage: en\n\n## Story\n\nGPT-5.6: Frontier intelligence that scales with your ambition | OpenAI\n\nSkip to main content\n\n[OpenAI Home](https://openai.com/)\n\n- [Research](https://openai.com/research/index/)\n- Products\n- [Business](https://openai.com/business/)"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-10",
+    "topic": "model_releases",
+    "title": "OpenAI launches its new family of models with GPT-5.6 | TechCrunch",
+    "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+    "snippet": "OpenAI launches its new family of models with GPT-5.6 | TechCrunch\n...\n# OpenAI launches its new family of models with GPT-5.6\n...\nOpenAI unveiled its newest family of models on Thursday, introducing a set of heavyweight programs into an increasingly crowded field of AI offerings.\n...\nGPT-5.6 comes in three variants: Sol (considered its workhorse), Terra (a more intermediate option), and Luna (its"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-10",
+    "topic": "model_releases",
+    "title": "OpenAI rolls out GPT-5.6 after government greenlight \u2014\u00a0and announces \u2018ChatGPT Work\u2019 | The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work",
+    "snippet": "OpenAI rolls out GPT-5.6 after government greenlight \u2014 and announces \u2018ChatGPT Work\u2019 | The Verge\n...\n# OpenAI rolls out GPT-5.6 after government greenlight \u2014 and announces \u2018ChatGPT Work\u2019\n...\nThe limited preview period is officially over.\n...\nThe limited preview period is officially over.\n...\nAbout two weeks after OpenAI\u2019s GPT-5.6 was caught up in regulatory drama\u2014 rolled out only to government-appr"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-10",
+    "topic": "model_releases",
+    "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1 | TechCrunch",
+    "url": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
+    "snippet": "Meta enters the crowded AI coding battle with Muse Spark 1.1 | TechCrunch\n...\n# Meta enters the crowded AI coding battle with Muse Spark 1.1\n...\nMeta publicly launched a new version of Muse Spark on Thursday, a multimodal AI model designed for agentic coding that aims to compete with similar products offered by OpenAI and Anthropic.\n...\nSpark 1.1, the first version of which was announced in April,"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-10",
+    "topic": "model_releases",
+    "title": "Meta launches flagship Muse Spark 1.1 model with multi-agent upgrades - SiliconANGLE",
+    "url": "https://siliconangle.com/2026/07/09/meta-launches-flagship-muse-spark-1-1-model-multi-agent-upgrades/",
+    "snippet": "Meta launches flagship Muse Spark 1.1 model with multi-agent upgrades - SiliconANGLE\n...\n### Meta launches flagship Muse Spark 1.1 model with multi-agent upgrades\n...\nMeta Platforms Inc. today launched a new flagship large language model optimized to power multi-agent automation workflows.\n...\nMuse Spark 1.1 is available in the company\u2019s Meta AI chatbot service and via an application programming i"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-10",
+    "topic": "product_releases",
+    "title": "OpenAI debuts ChatGPT Work, an agentic tool for automating business workflows - SiliconANGLE",
+    "url": "https://siliconangle.com/2026/07/09/openai-debuts-chatgpt-work-agentic-tool-automating-business-workflows/",
+    "snippet": "OpenAI debuts ChatGPT Work, an agentic tool for automating business workflows - SiliconANGLE\n...\n### OpenAI debuts ChatGPT Work, an agentic tool for automating business workflows\n...\nOpenAI Group PBC today launched a new \u201cagentic\u201d tool called ChatGPT Work as it announced the global rollout of its most advanced model family so far in GPT-5.6.\n...\nChatGPT Work is a new mode within ChatGPT that\u2019s des"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-10",
+    "topic": "product_releases",
+    "title": "OpenAI launches ChatGPT Work, an agent built to finish the job",
+    "url": "https://thenextweb.com/news/openai-chatgpt-work-agent-launch",
+    "snippet": "# OpenAI launches ChatGPT Work, an agent built to finish the job\n\nAuthor: Ana-Maria Stanciuc\nPublished: 2026-07-10T08:24:58+00:00\nSource: thenextweb.com (thenextweb.com)\nLanguage: en\n\n## Story\n\nOpenAI launches ChatGPT Work, an agent built to finish the job\n\nSkip to content\n\nToggle Navigation\n\n[https://thenextweb.com/](https://thenextweb.com/)\n\n- [News](https://thenextweb.com/)\n- Events\n- - [TNW Co"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-10",
+    "topic": "product_releases",
+    "title": "OpenAI pairs its GPT-5.6 public rollout with ChatGPT Work, a new agent that handles entire workflows",
+    "url": "https://the-decoder.com/openai-pairs-its-gpt-5-6-public-rollout-with-chatgpt-work-a-new-agent-that-handles-entire-workflows/",
+    "snippet": "OpenAI pairs its GPT-5.6 public rollout with ChatGPT Work, a new agent that handles entire workflows\n...\n# OpenAI pairs its GPT-5.6 public rollout with ChatGPT Work, a new agent that handles entire workflows\n...\n- OpenAI is launching \"ChatGPT Work,\" a new product built on GPT-5.6 and Codex technology that can work autonomously on complex projects for hours at a time.\n...\n- The app appears to be Op"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-10",
+    "topic": "product_releases",
+    "title": "AlphaEvolve is available for everyone | Google Cloud Blog",
+    "url": "https://cloud.google.com/blog/products/ai-machine-learning/alphaevolve-is-available-for-everyone",
+    "snippet": "AlphaEvolve is available for everyone | Google Cloud Blog\n...\n# Solve harder problems with AlphaEvolve, now available to everyone on Google Cloud\n...\nJuly 10, 2026\n...\nMany of the most challenging and valuable problems in the world are related to optimization. Now, AI is now making these problems tractable. If you've ever tried to design a microchip, plan a delivery network, or optimize a training"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-10",
+    "topic": "ai_agents",
+    "title": "ChatGPT is now a partner for your most ambitious work | OpenAI",
+    "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+    "snippet": "# ChatGPT is now a partner for your most ambitious work | OpenAI\n\nPublished: 2026-07-09T10:00:00+00:00\nSource: openai.com (openai.com)\nLanguage: en\n\n## Story\n\nChatGPT is now a partner for your most ambitious work | OpenAI\n\nSkip to main content\n\n[OpenAI Home](https://openai.com/)\n\n- [Research](https://openai.com/research/index/)\n- Products\n- [Business](https://openai.com/business/)\n- [Developers](h"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-10",
+    "topic": "ai_agents",
+    "title": "IBM Advances Enterprise AI Software Development with Multi-Agent Capabilities and Specialized Modernization Workflows",
+    "url": "https://newsroom.ibm.com/2026-07-09-ibm-advances-enterprise-ai-software-development-with-multi-agent-capabilities-and-specialized-modernization-workflows",
+    "snippet": "IBM Advances Enterprise AI Software Development with Multi-Agent Capabilities and Specialized Modernization Workflows\n...\n# IBM Advances Enterprise AI Software Development with Multi-Agent Capabilities and Specialized Modernization Workflows\n...\n- Latest IBM Bob Updates Help Enterprises Deliver Production-Ready Software Fast\n\n- IBM Bob is Built to Optimize the Cost of AI-Driven Development Beyond "
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-10",
+    "topic": "ai_agents",
+    "title": "OpenAI wants its new tool to do your work for you and with you - Ars Technica",
+    "url": "https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/",
+    "snippet": "OpenAI wants its new tool to do your work for you and with you -\n...\nLast year, when we tested out the \u201cAgent Mode\u201d in OpenAI\u2019s Atlas web browser, we complained that any automated tasks tended to stop after a few minutes, limiting its usefulness for ongoing or complex tasks. With today\u2019s release of ChatGPT Work, OpenAI says it has solved that problem with a new tool that can \u201cstay with a project f"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-10",
+    "topic": "ai_agents",
+    "title": "Building secure AI agents at scale: Introducing Loom for AWS | AWS Open Source Blog",
+    "url": "https://aws.amazon.com/blogs/opensource/building-secure-ai-agents-at-scale-introducing-loom-for-aws/",
+    "snippet": "# Building secure AI agents at scale: Introducing Loom for AWS | AWS Open Source Blog\n\nPublished: 2026-07-09T13:16:33-08:00\nSource: aws.amazon.com (aws.amazon.com)\nLanguage: en\n\n## Story\n\nBuilding secure AI agents at scale: Introducing Loom for AWS | AWS Open Source Blog Skip to Main Content\n\n[Click here to return to Amazon Web Services homepage](https://aws.amazon.com/?nc2=h_home)\n\nFilter: All\n\nE"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-10",
+    "topic": "ai_small_business",
+    "title": "Xero Announces New AI Innovations at Xerocon London - CPA Practice Advisor",
+    "url": "https://www.cpapracticeadvisor.com/2026/07/09/xero-announces-new-ai-innovations-at-xerocon-london/186427/",
+    "snippet": "Xero Announces New AI Innovations at Xerocon London - CPA Practice Advisor\n\nTechnology| July 9, 2026\n\n# Xero Announces New AI Innovations at Xerocon London\n\nXero touted new AI-powered features within its agentic platform JAX that make it easier for small businesses and accountants and bookkeepers to keep their books clean, automate time-consuming financial workflows, and stay on top of cash flow.\n"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-10",
+    "topic": "ai_small_business",
+    "title": "Clockwork.ai Introduces Mira, Its AI Analyst for Small Businesses - Daily AI Brief",
+    "url": "https://dailyaibrief.com/news/clockworkai-launches-mira-ai-analyst-AfwNmhIn",
+    "snippet": "Clockwork.ai Introduces Mira, Its AI Analyst for Small Businesses - Daily AI Brief\n\n# Clockwork.ai Introduces Mira, Its AI Analyst for Small Businesses\n\nJuly 09, 2026\n\nClockwork.ai has launched Mira, an AI analyst that provides forecasting and financial insights for small and medium sized businesses using their QuickBooks and Xero data.\n\nClockwork.ai has launched Mira, an AI analyst designed to gi"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-10",
+    "topic": "ai_small_business",
+    "title": "Build your own custom software with AI \u2014 Bolt.new Blog",
+    "url": "https://bolt.new/blog/build-custom-software-small-business-ai",
+    "snippet": "# Build your own custom software with AI \u2014 Bolt.new Blog\n\nPublished: 2026-07-10T05:09:17.233357+00:00\nSource: bolt.new (bolt.new)\nLanguage: en\n\n## Story\n\nBuild your own custom software with AI \u2014 Bolt.new Blog\n\n[![Bolt.new](https://bolt.new/public-page-assets/bolt-new-logo.svg)](https://bolt.new/)\n\n[Enterprise](https://bolt.new/enterprise)\n\nResources\n\n[Careers](https://bolt.new/careers) [Pricing](h"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-10",
+    "topic": "ai_labs",
+    "title": "GPT-5.6: Frontier intelligence that scales with your ambition | OpenAI",
+    "url": "https://openai.com/index/gpt-5-6",
+    "snippet": "# GPT-5.6: Frontier intelligence that scales with your ambition | OpenAI\n\nPublished: 2026-07-09T10:00:00+00:00\nSource: openai.com (openai.com)\nLanguage: en\n\n## Story\n\nGPT-5.6: Frontier intelligence that scales with your ambition | OpenAI\n\nSkip to main content\n\n[OpenAI Home](https://openai.com/)\n\n- [Research](https://openai.com/research/index/)\n- Products\n- [Business](https://openai.com/business/)"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-10",
+    "topic": "ai_labs",
+    "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot | OpenAI",
+    "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+    "snippet": "# GPT-5.6 is now the preferred model in Microsoft 365 Copilot | OpenAI\n\nPublished: 2026-07-09T13:00:00+00:00\nSource: openai.com (openai.com)\nLanguage: en\n\n## Story\n\nGPT-5.6 is now the preferred model in Microsoft 365 Copilot | OpenAI\n\nSkip to main content\n\n[OpenAI Home](https://openai.com/)\n\n- [Research](https://openai.com/research/index/)\n- Products\n- [Business](https://openai.com/business/)\n- [D"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-10",
+    "topic": "ai_labs",
+    "title": "ChatGPT Work: Take on your most ambitious tasks - Announcements - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/chatgpt-work-take-on-your-most-ambitious-tasks/1386184",
+    "snippet": "ChatGPT Work: Take on your most ambitious tasks - Announcements - OpenAI Developer Community\n...\n# ChatGPT Work: Take on your most ambitious tasks\n...\nPowered by GPT\u20115.6, ChatGPT Work brings together context from your team\u2019s tools to turn scattered notes, drafts, and ideas into finished work \u2014 and keeps projects moving while you stay in control.\n...\nAvailable to all plans on desktop today, and rol"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-10",
+    "topic": "ai_labs",
+    "title": "We're rolling out AlphaEvolve widely to solve Google Cloud customers' hardest problems.",
+    "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/alphaevolve-on-cloud/",
+    "snippet": "# We're rolling out AlphaEvolve widely to solve Google Cloud customers' hardest problems.\n\nPublished: 2026-07-09T16:00:00+00:00\nSource: blog.google (blog.google)\nLanguage: en\n\n## Story\n\nWe're rolling out AlphaEvolve widely to solve Google Cloud customers' hardest problems.\n\nSkip to main content\n\n[The Keyword](https://blog.google/)\n\nWe're rolling out AlphaEvolve widely to solve Google Cloud custome"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-10",
+    "topic": "ai_labs",
+    "title": "Google introduces new AI labels for Ads",
+    "url": "https://blog.google/products/ads-commerce/google-ads-ai-transparency-labels/",
+    "snippet": "Google introduces new AI labels for Ads\n...\n# Expanding AI transparency in ads\n...\nWe\u2019re introducing additional features, including a \"How this ad was made\" panel, to help people easily understand when generative AI was used to create or alter an ad.\n...\nGoogle is adding new transparency features to help you identify ads created or edited with artificial intelligence. You can now view these disclo"
   }
 ]
