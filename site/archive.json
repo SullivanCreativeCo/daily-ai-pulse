@@ -9786,5 +9786,191 @@
     "title": "Google introduces new AI labels for Ads",
     "url": "https://blog.google/products/ads-commerce/google-ads-ai-transparency-labels/",
     "snippet": "Google introduces new AI labels for Ads\n...\n# Expanding AI transparency in ads\n...\nWe\u2019re introducing additional features, including a \"How this ad was made\" panel, to help people easily understand when generative AI was used to create or alter an ad.\n...\nGoogle is adding new transparency features to help you identify ads created or edited with artificial intelligence. You can now view these disclo"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-07-11",
+    "headline": "Four new models dropped this week. GPT Live, Grok 4.5, Cognition SWE 1.7, and OpenAI's whole GPT-5.6 family (Sol, Terra, Luna).",
+    "url": "archive/2026-07-11.html",
+    "posts": {
+      "linkedin": [
+        "Every model that shipped this week bragged about being cheap. Not smart.\n\nMeta's new model, Muse Spark, matches the big labs on benchmarks. Costs a fraction to run. OpenAI's whole pitch for GPT-5.6 wasn't \"smartest model ever.\" It was performance per dollar.\n\nThat's the tell. When labs stop racing on intelligence and start racing on price, the tech has plateaued enough that speed and cost become the differentiator.\n\nHere's why that matters if you're not a developer. Every AI tool you already pay for is about to get cheaper, or get better for the same price. The vendors are fighting that fight for you right now.\n\nWould you notice a benchmark chart? Probably not. Would you notice your AI subscription doing more for the same $20 a month? Yeah. That's the real story.\n\nWhat's one AI tool you're paying for that just quietly got better without you asking?",
+        "Somebody gave an AI model a debit card this week and called it a co-founder.\n\nNick Vasilescu did it live on a podcast. Grok 4.5, its own email, its own phone number, its own memory. Then he watched it build a landing page, a thumbnail, and a cold email sequence in one sitting. The landing page took 40 seconds.\n\nThat's not \"use AI to write faster.\" That's handing the agent your own errands and stepping back.\n\nMost people are still using AI like a really fast intern. Answer this. Draft that. Nobody's handing it a card yet.\n\nMore people will trust an agent with real money and a phone number by the end of the year than would admit it right now.\n\nThe gap between \"AI helps me work\" and \"AI runs a piece of my business\" is closing faster than the headlines make it sound.\n\nWhat's the smallest piece of your business you'd actually hand off first?",
+        "A solo founder in China can hire an AI agent for less than 2% of what a junior engineer costs.\n\nThat's not a hypothetical. It's from a report on China's one-person company boom, one founder, running a whole product loop with agent stacks doing the busywork.\n\nHere's why this matters more than it sounds like it should. It's not a story about China. It's proof of a math problem showing up everywhere. AI didn't make small operators bigger. It made big operations optional.\n\nDo more with the same, not the same with less. This is what that looks like when someone actually does it. One person, a handful of tools, no team, running a business that used to need fifteen people.\n\nYou don't need to move to Shenzhen to try this. You need to find the one task in your business eating the most hours for the least judgment, and hand that one thing off first.\n\nWhat's that task for you?"
+      ],
+      "threads": [
+        "The best AI trick from a podcast today wasn't really about AI. Guy renting lead gen websites to local businesses. His whole SEO edge is prompting AI to pull real customer questions straight off Reddit and Yelp instead of guessing what people search. His content sounds human because it's literally built from real people's words. Sometimes the unlock isn't a smarter model. It's pointing the model at the right question.",
+        "Watched two AI models race to build the same landing page live. One finished in 40 seconds. The other took a bit longer and still looked solid. Neither one blinked. That's where we're at now. The gap between models used to be months. Now it's measured in seconds, on camera. Kind of wild to watch happen live instead of read about after the fact.",
+        "OpenAI's new thing doesn't just answer questions anymore. You give it a goal and it goes and does the actual work across your email, your docs, your slides, for hours, on its own. That's a different product than a chatbot. Less \"ask AI\" and more \"assign AI.\" Small difference in words. Massive difference in what you can actually hand off."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-07-11",
+    "source": "The Koerner Office",
+    "title": "He Tried Everything to Quit His Job. Then Found This",
+    "url": "https://www.youtube.com/watch?v=6ErnEr2JcD0",
+    "video_id": "6ErnEr2JcD0"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-07-11",
+    "source": "Startup Ideas Podcast",
+    "title": "Grok 4.5 is a bigger deal than Fable 5",
+    "url": "https://www.youtube.com/watch?v=LvsQR7Vc4fQ",
+    "video_id": "LvsQR7Vc4fQ"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-07-11",
+    "source": "AI Daily Brief",
+    "title": "How the 4 New Models Released This Week Will Change How You Work",
+    "url": "https://www.youtube.com/watch?v=ZX9dXdAL5IU",
+    "video_id": "ZX9dXdAL5IU"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-11",
+    "topic": "model_releases",
+    "title": "OpenAI launches ChatGPT Work as it broadens GPT-5.6 rollout \u2013 Computerworld",
+    "url": "https://www.computerworld.com/article/4195494/openai-launches-chatgpt-work-as-it-broadens-gpt-5-6-rollout-2.html",
+    "snippet": "OpenAI launches ChatGPT Work as it broadens GPT-5.6 rollout \u2013 Computerworld\n...\n# OpenAI launches ChatGPT Work as it broadens GPT-5.6 rollout\n...\n## The enterprise AI agent combines ChatGPT, Codex, and GPT-5.6 to automate workplace tasks as OpenAI broadens rollout of its latest frontier models.\n...\nOpenAI is sharpening its enterprise AI strategy with the launch of ChatGPT Work, a new agentic platf"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-11",
+    "topic": "model_releases",
+    "title": "Meta launches low-cost Muse Spark 1.1 as enterprise AI spending comes under scrutiny | InfoWorld",
+    "url": "https://www.infoworld.com/article/4195519/meta-launches-low-cost-muse-spark-1-1-as-enterprise-ai-spending-comes-under-scrutiny.html",
+    "snippet": "Meta launches low-cost Muse Spark 1.1 as enterprise AI spending comes under scrutiny | InfoWorld\n...\n# Meta launches low-cost Muse Spark 1.1 as enterprise AI spending comes under scrutiny\n...\n## Meta says the model delivers competitive performance against OpenAI, Anthropic, and Google offerings while costing a fraction as much to run.\n...\nMeta has unveiled Muse Spark 1.1, saying the frontier AI mo"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-11",
+    "topic": "model_releases",
+    "title": "New Grok model comes quick off the SpaceX-Cursor deal | Semafor",
+    "url": "https://www.semafor.com/article/07/10/2026/musk-acts-fast-but-can-it-last",
+    "snippet": "New Grok model comes quick off the SpaceX-Cursor deal | Semafor\n...\nSpeed is Elon Musk\u2019s superpower, but his abilities clearly have limits. Cursor and SpaceXAI announced Wednesday that they collaboratively released a new model, Grok 4.5, designed to work within Cursor. The announcement came with all the usual comparisons to the big foundation models against benchmarks that provide some vague sense"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-11",
+    "topic": "model_releases",
+    "title": "OpenAI Launches GPT-5.6 with Sol, Terra, and Luna Models: Coding Dominance and Voice Gaps",
+    "url": "https://insideai.news/news/generative-ai/openai-launches-gpt-5-6-with-sol-terra-and-luna-models-coding-dominance-and-voice-gaps/3612/",
+    "snippet": "OpenAI Launches GPT-5.6 with Sol, Terra, and Luna Models: Coding Dominance and Voice Gaps\n...\n# OpenAI Launches GPT-5.6 with Sol, Terra, and Luna Models: Coding Dominance and Voice Gaps\n...\nOpenAI's GPT-5.6 introduces Sol, Terra, and Luna, three specialized models that excel at coding but face scrutiny over benchmark gaming and incomplete voice features. The launch highlights a shift toward iterat"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-11",
+    "topic": "product_releases",
+    "title": "OpenAI Launches ChatGPT Work Productivity App - Dataconomy",
+    "url": "https://dataconomy.com/2026/07/10/chatgpt-work-productivity-agent-openai/",
+    "snippet": "OpenAI Launches ChatGPT Work Productivity App - Dataconomy\n...\n# OpenAI launches ChatGPT Work productivity app\n...\n## Powered by GPT-5.6, the new app lets users manage projects, automate workflows, and continue tasks across desktop, web, and mobile.\n...\nJuly 10, 2026\n...\nOpenAI has launched ChatGPT Work, a new desktop application designed to assist with work-related tasks. This announcement marks "
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-11",
+    "topic": "product_releases",
+    "title": "OpenAI Launches ChatGPT Work to Automate Business Workflows Across Enterprise Apps - The SaaS Sentinel",
+    "url": "https://saassentinel.com/2026/07/10/openai-launches-chatgpt-work-to-automate-business-workflows-across-enterprise-apps/",
+    "snippet": "OpenAI Launches ChatGPT Work to Automate Business Workflows Across Enterprise Apps - The SaaS Sentinel\n...\n# OpenAI Launches ChatGPT Work to Automate Business Workflows Across Enterprise Apps\n...\n- ChatGPT Work already has more than 1 million users and integrates with over 1,400 plugins, including Google Drive, Slack, Outlook, and SharePoint.\n- OpenAI launched the product alongside GPT-5.6, which "
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-11",
+    "topic": "product_releases",
+    "title": "OpenAI introduces ChatGPT Work- a new agent in ChatGPT that helps in getting work done across web, mobile and desktop - The Tech Outlook",
+    "url": "https://www.thetechoutlook.com/new-release/software-apps/openai-introduces-chatgpt-work-a-new-agent-in-chatgpt-that-helps-in-getting-work-done-across-web-mobile-and-desktop/",
+    "snippet": "OpenAI introduces ChatGPT Work- a new agent in ChatGPT that helps in getting work done across web, mobile and desktop - The Tech Outlook\n...\nYesterday, OpenAI officially introduced a new agent in ChatGPT, ChatGPT Work, that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.\n...\nIntroducing ChatGPT Work, a new agent in ChatGPT po"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-11",
+    "topic": "product_releases",
+    "title": "ChatGPT Work Launches as OpenAI's New Productivity Tool for macOS and Windows",
+    "url": "https://www.itechpost.com/articles/236642/20260710/chatgpt-work-launches-openais-new-productivity-tool-macos-windows.htm",
+    "snippet": "ChatGPT Work Launches as OpenAI's New Productivity Tool for macOS and Windows\n...\nChatGPT Work launches as OpenAI\u2019s new productivity tool for macOS and Windows, bringing AI-powered workflows, Codex features, and web plans. Matheus Bertelli/Pexels\n...\nOpenAI has launched ChatGPT Work, a new productivity tool designed to handle complex professional tasks across different workflows. The Work tool exp"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-11",
+    "topic": "ai_agents",
+    "title": "Notion's Ship OS Wants to Own the Team Layer \u2014 Before Cursor, Claude Code, or Codex Gets There First - FourWeekMBA",
+    "url": "https://fourweekmba.com/ai-notion-ship-os-team-layer-agentic-harness/",
+    "snippet": "Notion just launched Ship OS \u2014 a pre-built agentic workflow that takes a software team from raw customer feedback to a merged pull request, entirely inside Notion. The pitch is connective tissue, not code. The strategic bet is much larger.\n...\nNotion ships Workers hosted runtime, a live database-sync layer, and an External Agents API \u2014 letting outside agents (Claude Code, Cursor, Codex) act as vis"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-11",
+    "topic": "ai_agents",
+    "title": "IBM Bob expands beyond code generation to orchestrate the entire SDLC | InfoWorld",
+    "url": "https://www.infoworld.com/article/4195291/ibm-bob-expands-beyond-code-generation-to-orchestrate-the-entire-sdlc.html",
+    "snippet": "expands beyond code generation to\n...\nate the entire SD\n...\nbeyond code generation\n...\n## The new release adds multi-agent workflows, parallel execution and built-in governance as enterprises look beyond AI coding assistants to accelerate software delivery.\n...\nIBM rolled out its IBM Bob agentic software development platform earlier this year to help developers across the entire software developme"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-11",
+    "topic": "ai_agents",
+    "title": "How KTern.AI built agentic AI for SAP on Amazon Bedrock AgentCore | Artificial Intelligence",
+    "url": "https://aws.amazon.com/blogs/machine-learning/how-ktern-ai-built-agentic-ai-for-sap-on-amazon-bedrock-agentcore/",
+    "snippet": "These agents autonomously orchestrate workflows from reverse engineering, fit-to-standard, and code analysis to exception mining in Finance and Sales processes."
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-11",
+    "topic": "ai_small_business",
+    "title": "WhatsApp Meta Business Agent in India Brings 24/7 AI Customer Support to Small Businesses - Digital Tech Byte",
+    "url": "https://digitaltechbyte.com/whatsapp-meta-business-agent-india-24-7-customer-support/",
+    "snippet": "WhatsApp Meta Business Agent in India Brings 24/7 AI Customer Support to Small Businesses - Digital Tech Byte\n\n# WhatsApp Meta Business Agent in India Brings 24/7 AI Customer Support to Small Businesses\n\nWhatsApp Meta Business Agent has launched in India, giving businesses a free AI tool to answer customer queries, book appointments, and manage chats 24/7.\n\n# WhatsApp Meta Business Agent launches "
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-11",
+    "topic": "ai_small_business",
+    "title": "China\u2019s one-person company boom - by Jiang Jiang",
+    "url": "https://www.gingerriver.com/p/chinas-one-person-company-boom",
+    "snippet": "China\u2019s one-person company boom - by Jiang Jiang\n\n# Ginger River Review\n\nSubscribeSign in\n\n# China\u2019s one-person company boom\n\n### Five stories from China\u2019s OPC boom show how AI is lowering the barriers to entrepreneurship\u2014and raising the demands on founders.\n\nJul 10, 2026\n\n10\n\n1\n\n3\n\nShare\n\nOPC, short for One-Person Company, has become one of China\u2019s hottest startup concepts. The defining idea is s"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-11",
+    "topic": "ai_small_business",
+    "title": "GALVOC Launches an AI Ecosystem Designed to Give Indian SMBs C-Suite-Level Intelligence Without Enterprise-Sized Teams \u2013 India Press Journal",
+    "url": "https://indiapressjournal.co.in/galvoc-launches-an-ai-ecosystem-designed-to-give-indian-smbs-c-suite-level-intelligence-without-enterprise-sized-teams/",
+    "snippet": "GALVOC Launches an AI Ecosystem Designed to Give Indian SMBs C-Suite-Level Intelligence Without Enterprise-Sized Teams \u2013 India Press Journal\n\nTrending now\n\n### Arkam Ventures promotes Vishnuhari Pareek as Chief\u2026\n\n### Topline\u2019s Winter Expo Draws Strong Retailer Response,\u2026\n\n### Participate in Yamaha Music India Teens Rock\u2026\n\n### Rustomjee Introduces an exclusive payment plan \u2013\u2026\n\n### Axis Max Life Dep"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-11",
+    "topic": "ai_labs",
+    "title": "Robostral Navigate: single-camera AI navigation | Mistral AI",
+    "url": "https://mistral.ai/news/robostral-navigate/",
+    "snippet": "# Robostral Navigate: single-camera AI navigation | Mistral AI\n\nPublished: 2026-07-10T08:36:31+00:00\nSource: mistral.ai (mistral.ai)\nLanguage: en\n\n## Story\n\nRobostral Navigate: single-camera AI navigation | Mistral AI\n\n[Go to homepage](https://mistral.ai/)\n\n[Contact sales](https://mistral.ai/contact/)\n\nMenu\n\nProducts\n\nSolutions\n\nResearch\n\nDevelopers\n\nBlog\n\nCustomers\n\nCompany\n\n[Contact sales](https"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-11",
+    "topic": "ai_labs",
+    "title": "How to make Gemini study notebooks for any subject",
+    "url": "https://blog.google/innovation-and-ai/products/gemini-app/how-to-make-gemini-study-notebooks/",
+    "snippet": "# How to make Gemini study notebooks for any subject\n\nPublished: 2026-07-10T16:00:00+00:00\nSource: blog.google (blog.google)\nLanguage: en\n\n## Story\n\nHow to make Gemini study notebooks for any subject\n\nSkip to main content\n\n[The Keyword](https://blog.google/)\n\nHere\u2019s how to make study notebooks in the Gemini app.\n\nShare\n\n[x.com](https://twitter.com/intent/tweet?text=Here%E2%80%99s%20how%20to%20make"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-11",
+    "topic": "ai_labs",
+    "title": "Introducing GPT-5.6 series: Sol, Terra and Luna. Coming July 9 10am PT - Announcements - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/introducing-gpt-5-6-series-sol-terra-and-luna-coming-july-9-10am-pt/1384931/56",
+    "snippet": "Introducing GPT-5.6 series: Sol, Terra and Luna. Coming July 9 10am PT - Announcements - OpenAI Developer Community\n...\nSure, my pleasure, updated the post\n...\n### gpt-5.6 \u201cusage\u201d is not your bill.\n...\nYou must check new fields to see how inflated the actual bill is for an API call. You\u2019d discover details reporting that your input usage is a higher cost: always showing almost the entirety of your "
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-11",
+    "topic": "ai_labs",
+    "title": "OpenAI Build Week: Exploring what's possible with Codex - Announcements - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/openai-build-week-exploring-whats-possible-with-codex/1386233",
+    "snippet": "OpenAI Build Week: Exploring what's possible with Codex - Announcements - OpenAI Developer Community\n...\n# OpenAI Build Week: Exploring what\u2019s possible with Codex\n...\nBuild Week is a global challenge for developers, creators, founders, and students around the world to experiment with new ideas and bring them to life with Codex, starting July 13 alongside more than 40 events acro"
   }
 ]
