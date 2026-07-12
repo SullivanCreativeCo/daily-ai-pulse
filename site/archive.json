@@ -9972,5 +9972,199 @@
     "title": "OpenAI Build Week: Exploring what's possible with Codex - Announcements - OpenAI Developer Community",
     "url": "https://community.openai.com/t/openai-build-week-exploring-whats-possible-with-codex/1386233",
     "snippet": "OpenAI Build Week: Exploring what's possible with Codex - Announcements - OpenAI Developer Community\n...\n# OpenAI Build Week: Exploring what\u2019s possible with Codex\n...\nBuild Week is a global challenge for developers, creators, founders, and students around the world to experiment with new ideas and bring them to life with Codex, starting July 13 alongside more than 40 events acro"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-07-12",
+    "headline": "OpenAI shipped ChatGPT Work today.",
+    "url": "archive/2026-07-12.html",
+    "posts": {
+      "linkedin": [
+        "OpenAI just gave everybody a coworker that never asks for a raise.\n\nChatGPT Work dropped today. It logs into your files, works through your project, and hands you a finished doc instead of a draft.\n\nThat's not a chatbot move. That's a headcount move.\n\nAnthropic already had a foot in this door with Claude Cowork. Now two of the biggest labs on earth are racing to be the thing that sits in your file system all day, every day.\n\nHere's the part that matters if you run a small business. You couldn't afford a research analyst, a first draft copywriter, and a project manager six months ago. Now you're renting all three for the price of one software seat.\n\nWould someone pay for that? I think a lot of someones already are.\n\nThe interesting part isn't whether this changes your business. It's how fast the rental price keeps dropping.",
+        "A math problem sat unsolved for 50 years. GPT-5.6 cracked it in under an hour.\n\n64 subagents working in parallel produced a full proof of a conjecture mathematicians had been stuck on since the 70s.\n\nA mathematician at Manchester read it and called it \"a very nice proof.\" Then he pointed out something missing. No citations. No trail showing what it built on.\n\nThat's the part I keep coming back to. The answer was right. The work behind the answer wasn't shown.\n\nMost of us do this with AI every day and don't think twice. We take the output, ship it, move on. Nobody checks the trail.\n\nFine when it's a first draft email. Not fine when it's the thing your business decision is built on.\n\nHow would you fix this? Probably the same way that mathematician did. Read the whole thing before you trust it, no matter how good the headline result looks.",
+        "The \"AI is too expensive for a small business\" excuse died this week.\n\nMiniMax shipped an open source reasoning model with a million token context window, same as Google's top model, running on a fraction of the compute cost.\n\nSame week, I keep seeing solo founders running two or three companies with zero team. Their whole back office, research, first drafts, contract review, is just AI now.\n\nSix months ago the frontier model was the only real option. Now the open source stuff is closing the gap fast enough that price stopped being the reason to wait.\n\nWhat are you already doing for yourself that someone else would pay you to just do for them?\n\nThat's the whole opportunity sitting in this week's headlines. Most people will read past it."
+      ],
+      "threads": [
+        "OpenAI shipped ChatGPT Work today. It's not answering questions anymore, it's logging in and finishing the project while you're in a meeting.\n\nAnthropic's had Cowork doing this since January. Now it's not \"who's smarter,\" it's \"who gets to be the employee.\"\n\nKinda wild watching two labs race to replace headcount instead of racing on IQ. That's the actual game now.",
+        "A math problem sat unsolved for 50 years. GPT-5.6 solved it in under an hour with 64 subagents running in parallel.\n\nA mathematician read it and said \"a very nice proof.\" Then pointed out it's missing citations.\n\nThat's the whole story with AI right now. The answer's good. Nobody checked the receipts yet.\n\nWorth remembering next time you ship an AI draft without reading the whole thing.",
+        "Saw a founder this week running three companies solo. No team, no funding. Just a laptop and AI doing her research, first drafts, and contract review.\n\nSame week an open source model shipped with frontier level specs for way less.\n\nBoth stories are the same story. The excuse that AI's too expensive or too complicated for one person to run a real business just quietly stopped being true."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-07-12",
+    "source": "The Koerner Office",
+    "title": "$100K in 100 Days: The Staffing Biz Playbook [FULL EPISODE \u2022 NO ADS]",
+    "url": "https://www.youtube.com/watch?v=yytOcXhvOKQ",
+    "video_id": "yytOcXhvOKQ"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-12",
+    "topic": "model_releases",
+    "title": "China's Orca world model matches specialized robotics systems without ever seeing a single action label",
+    "url": "https://the-decoder.com/chinas-orca-world-model-matches-specialized-robotics-systems-without-ever-seeing-a-single-action-label/",
+    "snippet": "China's Orca world model matches specialized robotics systems without ever seeing a single action label\n...\n# China's Orca world model matches specialized robotics systems without ever seeing a single action label\n...\nBAAI's Orca world model matches the performance of specialized systems across five robotics tasks, even though its base model was trained without a single action label. The approach "
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-12",
+    "topic": "model_releases",
+    "title": "MiniMax-M1, the World's First Open-Source, Large-Scale, Hybrid-Attention Reasoning Model - MiniMax News | MiniMax",
+    "url": "https://www.minimax.io/news/minimaxm1",
+    "snippet": "MiniMax-M1, the World's First Open-Source, Large-Scale, Hybrid-Attention Reasoning Model - MiniMax News | MiniMax\n...\n06.16\n...\n# MiniMax-M1, the World's First Open-Source, Large-Scale, Hybrid-Attention Reasoning Model\n...\nIntroducing our new model, MiniMax-M1, the world's first open-source, large-scale, hybrid-attention reasoning model. In complex, productivity-oriented scenarios, M1's capabiliti"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-12",
+    "topic": "model_releases",
+    "title": "OpenAI's GPT-5.6 Sol Ultra reportedly solves a 50-year-old math problem in under an hour",
+    "url": "https://the-decoder.com/openais-gpt-5-6-sol-ultra-reportedly-solves-a-50-year-old-math-problem-in-under-an-hour/",
+    "snippet": "OpenAI's GPT-5.6 Sol Ultra reportedly solves a 50-year-old math problem in under an hour\n...\n# OpenAI's GPT-5.6 Sol Ultra reportedly solves a 50-year-old math problem in under an hour\n...\nOpenAI\u2019s new AI model, GPT-5.6 Sol Ultra, has produced a proof of the Cycle Double Cover Conjecture using 64 subagents working in parallel. Mathematician Thomas Bloom praises the proof but criticizes the lack of "
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-12",
+    "topic": "model_releases",
+    "title": "Google TabFM: zero-shot predictions on tables without per-dataset training \u2022 Meteora Web Agency",
+    "url": "https://meteoraweb.com/en/news/google-tabfm-skips-per-dataset-training-and-predicts-on-tables-it-has-never-seen",
+    "snippet": "Google TabFM: zero-shot predictions on tables without per-dataset training \u2022 Meteora Web Agency\n...\n# Google TabFM skips per-dataset training and predicts on tables it has never seen\n...\nGoogle Research has introduced a new foundation model for tabular data, called TabFM, that promises to redefine how businesses build predictive models. Unlike traditional approaches that require building feature e"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-12",
+    "topic": "model_releases",
+    "title": "OpenAI Launches ChatGPT Work and GPT-5.6 AI Models to Automate Enterprise Workflows - InfotechLead",
+    "url": "https://infotechlead.com/artificial-intelligence/openai-launches-chatgpt-work-and-gpt-5-6-ai-models-to-automate-enterprise-workflows-97072",
+    "snippet": "OpenAI Launches ChatGPT Work and GPT-5.6 AI Models to Automate Enterprise Workflows - InfotechLead OpenAI Launches ChatGPT Work and GPT-5.6 AI Models to Automate Enterprise Workflows - InfotechLead\n...\n# OpenAI Launches ChatGPT Work and GPT-5.6 AI Models to Automate Enterprise Workflows\n...\nOpenAI has introduced ChatGPT Work, a new autonomous AI agent designed to execute complex, multi-step busine"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-12",
+    "topic": "product_releases",
+    "title": "OpenAI Launches ChatGPT Work to Compete With Claude Cowork \u2014 AI Insiders",
+    "url": "https://aiinsiders.net/article/openai-launches-chatgpt-work-to-compete-with-claude-cowork",
+    "snippet": "OpenAI Launches ChatGPT Work to Compete With Claude Cowork \u2014 AI Insiders\n...\n# OpenAI Launches ChatGPT Work to Compete With Claude Cowork\n...\nA GPT-5.6 powered workspace turns scattered team files into finished documents, and it lands squarely on ground Anthropic claimed first.\n...\nOpenAI launched ChatGPT Work on Thursday, a workspace that pairs its chatbot with Codex, its coding tool, to turn a t"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-12",
+    "topic": "product_releases",
+    "title": "Anthropic launches Claude Science, an AI workbench that keeps data in the lab and checks its own citations - DEV Community",
+    "url": "https://dev.to/breachprotocol/anthropic-launches-claude-science-an-ai-workbench-that-keeps-data-in-the-lab-and-checks-its-own-1249",
+    "snippet": "# Anthropic launches Claude Science, an AI workbench that keeps data in the lab and checks its own citations - DEV Community\n\nPublished: 2026-07-12T04:42:37+00:00\nSource: dev.to (dev.to)\nLanguage: en\n\n## Story\n\nAnthropic launches Claude Science, an AI workbench that keeps data in the lab and checks its own citations - DEV Community\n\nSkip to content\n\nNavigation menu\n\n[![DEV Community](https://media"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-12",
+    "topic": "product_releases",
+    "title": "Peraton Launches Peraton[x] Agentic AI for Government",
+    "url": "https://sentinel.ht/peraton-x-agentic-ai-government-missions/",
+    "snippet": "Peraton Launches Peraton[x] Agentic AI for Government\n...\n# Peraton Launches Peraton[x], an Agentic AI Platform Built for Government Missions\n...\nPeraton unveiled Peraton[x] on Tuesday, an enterprise agentic AI platform the government services contractor says can be deployed within hours and programmed in plain English to run intelligence, acquisition and financial-forecasting work across federal "
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-12",
+    "topic": "product_releases",
+    "title": "Meta Launches Muse Spark 1.1, A Multimodal Reasoning Model Built For Agentic Tasks",
+    "url": "https://pulse2.com/meta-launches-muse-spark-1-1-a-multimodal-reasoning-model-built-for-agentic-tasks/",
+    "snippet": "# Meta Launches Muse Spark 1.1, A Multimodal Reasoning Model Built For Agentic Tasks\n\nAuthor: Amit Chowdhry\nPublished: 2026-07-11T17:01:42+00:00\nSource: pulse2.com (pulse2.com)\nLanguage: en\n\n## Story\n\nMeta Launches Muse Spark 1.1, A Multimodal Reasoning Model Built For Agentic Tasks\n\n[![Pulse 2.0](https://pulse2.com/wp-content/themes/pulse2/images/logo.png)](https://pulse2.com/)\n\n- [https://pulse2"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-12",
+    "topic": "ai_agents",
+    "title": "AWS gives its ERP agent deny-by-default rules and a separate identity - Cybernoz",
+    "url": "https://cybernoz.com/aws-gives-its-erp-agent-deny-by-default-rules-and-a-separate-identity/",
+    "snippet": "AWS gives its ERP agent deny-by-default rules and a separate identity - Cybernoz\n...\nAWS has released a framework meant to hand much of that work to a single AI agent. The AWS Agentic AI Solutions Framework for SAP use cases runs on Amazon Bedrock AgentCore and uses Strands, the company\u2019s open source agentic SDK. One agent reads standard operating procedures written in plain language, pulls the ri"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-12",
+    "topic": "ai_agents",
+    "title": "OpenAI launches ChatGPT Work, cloud AI agent for enterprise productivity \u2022 Meteora Web Agency",
+    "url": "https://meteoraweb.com/en/news/openai-launches-chatgpt-work-a-cloud-ai-agent-for-email-slack-and-calendars",
+    "snippet": "OpenAI launches ChatGPT Work, cloud AI agent for enterprise productivity \u2022 Meteora Web Agency\n...\n# OpenAI launches ChatGPT Work, a cloud AI agent for email, Slack and calendars\n...\nOpenAI has launched ChatGPT Work, an AI agent embedded within its flagship chatbot that aims to transform ChatGPT from a question-and-answer tool into an autonomous work platform. Powered by the new GPT-5.6 model, it c"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-12",
+    "topic": "ai_agents",
+    "title": "Google Labs releases stitch-skills, official Stitch plugins for Claude Code, Cursor, and Codex \u2013 Top AI Product",
+    "url": "https://topaiproduct.com/2026/07/11/google-labs-releases-stitch-skills-official-stitch-plugins-for-claude-code-cursor-and-codex/",
+    "snippet": "Google Labs releases stitch-skills, official Stitch plugins for Claude Code, Cursor, and Codex \u2013 Top AI Product\n...\n## Google Labs releases stitch-skills, official Stitch plugins for Claude Code, Cursor, and Codex\n...\nGoogle Labs released stitch-skills, an official agent skills library that packages Stitch \u2014 Google\u2019s AI UI design tool \u2014 into plugins for coding agents. 6.9k GitHub stars, up 117 tod"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-12",
+    "topic": "ai_small_business",
+    "title": "GALVOC Launches an AI Ecosystem Designed to Give Indian SMBs C-Suite-Level Intelligence Without Enterprise-Sized Teams \u2013 TelecomLive",
+    "url": "https://telecomlive.in/web/2026/07/11/galvoc-launches-an-ai-ecosystem-designed-to-give-indian-smbs-c-suite-level-intelligence-without-enterprise-sized-teams/",
+    "snippet": "GALVOC Launches an AI Ecosystem Designed to Give Indian SMBs C-Suite-Level Intelligence Without Enterprise-Sized Teams \u2013 TelecomLive\n\nNew Delhi [India], July 10: Over the years, advanced artificial intelligence solutions have largely remained accessible to corporations with large budgets, dedicated technology teams and expensive consultants. GALVOC intends to change this by introducing an AI ecosy"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-12",
+    "topic": "ai_small_business",
+    "title": "How Agency Owners Should Evaluate Marketing AI Tools Before Adding Another App \u00b7 Aethera",
+    "url": "https://aethera.ai/blog/evaluate-marketing-ai-tools-agency-owners",
+    "snippet": "# How Agency Owners Should Evaluate Marketing AI Tools Before Adding Another App \u00b7 Aethera\n\nAuthor: Aethera Labs\nPublished: 2026-07-11T19:03:50.842Z\nSource: aethera.ai (aethera.ai)\nLanguage: en\n\n## Story\n\nHow Agency Owners Should Evaluate Marketing AI Tools Before Adding Another App \u00b7 Aethera\n\n[![Aethera](https://aethera.ai/_next/image?url=%2Faethera-lockup.png&w=3840&q=75&dpl=dpl_2mtep3dtvjVo3npR"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-12",
+    "topic": "ai_small_business",
+    "title": "How to Build a Business With AI | Lisa Haven - Women's Insider",
+    "url": "https://womensinsider.com/business/how-to-build-a-business-with-ai-what-three-companies-and-three-daughters-taught-me/",
+    "snippet": "How to Build a Business With AI | Lisa Haven - Women's Insider\n\nClose Menu\n\nWhy Generic Hormone Support Falls Short for Women\n\nMichelle Unger Helps Women and Mothers Find a More Informed Start\n\nHayleah Higgins Shapes Houdini\u2019s Heart With Compassion\n\nDesigning the Feeling: How Onyx Moon Events Turns Vision Into Emotion\n\nSaturday, July 11\n\nShare\n\nThree companies. Three daughters. One founder, no tea"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-12",
+    "topic": "ai_small_business",
+    "title": "AI Tools for Female Entrepreneurs | Lisa Haven - Women's Reporter",
+    "url": "https://womensreporter.com/ai-tools-for-female-entrepreneurs-how-one-mother-of-three-runs-three-companies/",
+    "snippet": "AI Tools for Female Entrepreneurs | Lisa Haven - Women's Reporter\n\nSearch\n\nHome\u00bb AI Tools for Female Entrepreneurs: How One Mother of Three Runs Three Companies\n\n# AI Tools for Female Entrepreneurs: How One Mother of Three Runs Three Companies\n\nJuly 11, 2026\n\nJuly 11, 2026\n\n3\n\nMost advice about artificial intelligence is written by people who have never had to build a company between school drop o"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-12",
+    "topic": "ai_labs",
+    "title": "GPT-5.6-Terra vs. GPT-5.5 - API - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/gpt-5-6-terra-vs-gpt-5-5/1386438",
+    "snippet": "GPT-5.6-Terra vs. GPT-5.5 - API - OpenAI Developer Community\n\n# GPT-5.6-Terra vs. GPT-5.5\n...\nhttps://community.openai.com/t/gpt-5-6-terra-vs-gpt-5-5/1386438\n...\nCan GPT-5.6-Terra be considered an actual replacement for GPT-5.5, with essentially the same capabilities but at half the price? Or should it be considered more like a GPT-5.6-Mini\u2013like model?\n...\nSuspect the latter (judging by the token "
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-12",
+    "topic": "ai_labs",
+    "title": "Introducing GPT-5.6 series: Sol, Terra and Luna. Coming July 9 10am PT - #68 by LarisaHaster - Announcements - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/introducing-gpt-5-6-series-sol-terra-and-luna-coming-july-9-10am-pt/1384931/68",
+    "snippet": "Introducing GPT-5.6 series: Sol, Terra and Luna. Coming July 9 10am PT - #68 by LarisaHaster - Announcements - OpenAI Developer Community\n\n# Introducing GPT-5.6 series: Sol, Terra and Luna. Coming July 9 10am PT\n\nhttps://community.openai.com/t/introducing-gpt-5-6-series-sol-terra-and-luna-coming-july-9-10am-pt/1384931\n\nAnnouncements\n\nLarisaHaster July 11, 2026, 2:19pm 68\n\nYeah, the rollout has bee"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-12",
+    "topic": "ai_labs",
+    "title": "Introducing GPT-5.6 series: Sol, Terra and Luna. Coming July 9 10am PT - #61 by _j - Announcements - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/introducing-gpt-5-6-series-sol-terra-and-luna-coming-july-9-10am-pt/1384931/61",
+    "snippet": "Introducing GPT-5.6 series: Sol, Terra and Luna. Coming July 9 10am PT - #61 by _j - Announcements - OpenAI Developer Community\n...\n# Introducing GPT-5.6 series: Sol, Terra and Luna. Coming July 9 10am PT\n...\nhttps://community.openai.com/t/introducing-gpt-5-6-series-sol-terra-and-luna-coming-july-9-10am-pt/1384931\n...\nAnnouncements\n\n_j July 11, 2026, 9:51am 61"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-12",
+    "topic": "ai_labs",
+    "title": "Windows desktop app migration is confusing (ChatGPT vs ChatGPT Classic) - Codex - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/windows-desktop-app-migration-is-confusing-chatgpt-vs-chatgpt-classic/1386432",
+    "snippet": "Windows desktop app migration is confusing (ChatGPT vs ChatGPT Classic) - Codex - OpenAI Developer Community\n...\n# Windows desktop app migration is confusing (ChatGPT vs ChatGPT Classic)\n...\nI updated to the new Windows desktop app from the Microsoft Store.\n\nThe application is named ChatGPT, but it installs the`OpenAI.Codex` package and opens directly into the Codex experience.\n...\nAt first I thou"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-12",
+    "topic": "ai_labs",
+    "title": "Gpt-5.6 chat completion reasoning effort [bug / behavior change] - Bugs - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/gpt-5-6-chat-completion-reasoning-effort-bug-behavior-change/1386454",
+    "snippet": "Gpt-5.6 chat completion reasoning effort [bug / behavior change] - Bugs - OpenAI Developer Community\n\n# Gpt-5.6 chat completion reasoning effort [bug / behavior change]\n...\nWhen upgrading my model version from 5.4 to 5.6-*, I am now getting this error message when making chat completion requests:\n...\n```\nFunction tools with reasoning_effort are not supported for gpt-5.6-sol in /v1/chat/completions"
   }
 ]
