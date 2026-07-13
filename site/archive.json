@@ -10166,5 +10166,199 @@
     "title": "Gpt-5.6 chat completion reasoning effort [bug / behavior change] - Bugs - OpenAI Developer Community",
     "url": "https://community.openai.com/t/gpt-5-6-chat-completion-reasoning-effort-bug-behavior-change/1386454",
     "snippet": "Gpt-5.6 chat completion reasoning effort [bug / behavior change] - Bugs - OpenAI Developer Community\n\n# Gpt-5.6 chat completion reasoning effort [bug / behavior change]\n...\nWhen upgrading my model version from 5.4 to 5.6-*, I am now getting this error message when making chat completion requests:\n...\n```\nFunction tools with reasoning_effort are not supported for gpt-5.6-sol in /v1/chat/completions"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-07-13",
+    "headline": "OpenAI shipped GPT-5.6 today. Three models, Sol, Terra, Luna, plus a new thing called ChatGPT Work that can stay on a project for hours and hand you finished output instead of just an answer.",
+    "url": "archive/2026-07-13.html",
+    "posts": {
+      "linkedin": [
+        "ChatGPT can work for hours now without you touching it.\n\nUsed to be you asked it a question, it gave you an answer, and you did something with it. Now it plans the steps, does the work, and comes back with something finished.\n\nFor a solo business owner that's kind of a huge deal. You don't need to hire someone to build a report or manage your inbox. You need to trust an agent for a few hours.\n\nThat's the actual bar right now. Not \"can AI do the task.\" Can you trust it long enough to walk away from it.\n\nI don't think most small business owners are there yet. Not because the tech isn't ready. Because trust takes reps, and nobody's put in the reps yet.\n\nWhat's the first task you'd actually hand off for a full afternoon, no check-ins?",
+        "OpenAI's newest model got held up by the government before it got held up by the public.\n\nGPT-5.6 launched today. Three tiers, cheaper, faster, all the usual stuff you'd expect.\n\nBut the real story is what happened before launch. Washington asked for a preview first. The model got good enough at finding code vulnerabilities that it worried people.\n\nThat's a new kind of headline. Not \"look how smart.\" More like \"this needed a second opinion before it shipped.\"\n\nWe've talked about AI safety as a hypothetical for years. This is the first time I've seen it show up as an actual scheduling delay on a real release.\n\nMakes you wonder how many more launches quietly go through that room before we ever hear about them.",
+        "Chris Koerner's advice on finding your passion is to stop looking for it.\n\nHe says \"follow your passion\" is bad advice because most people don't have one obvious passion sitting there waiting to be found. Most of us have never even done the work to notice the pattern.\n\nHis fix: feed AI your own life. Your YouTube history. Your spending. The topic you hijack a dinner conversation to talk about without even noticing.\n\nLet it find the pattern you're too close to see yourself.\n\nThat's the same move behind every good second brain idea. You're not asking AI what to do. You're asking it to read you back to yourself, with better recall than you've got.\n\nPassion follows progress. Not the other way around. Pick the smallest win in the direction the data points and go.\n\nWhat's the last thing you talked about for 20 minutes without meaning to?"
+      ],
+      "threads": [
+        "Cost was the wall, not capability.\n\nAgnes AI just made their coding model free and uncapped. That's the whole play. Every AI coding tool has been slowly walling off usage the last year. Agnes went the other way.\n\nWonder how long free actually lasts before the tier system creeps back in. It usually does.",
+        "Sat with this for a minute today.\n\nChatGPT can now stay on a project for hours and hand you finished work, not just an answer.\n\nThat's not an assistant anymore. That's closer to an employee you don't have to train.\n\nThe gap left isn't capability. It's trust. You gotta believe it'll do the thing right before you walk away from it.",
+        "Chris Koerner had a line today that stuck.\n\nPassion doesn't come first. Progress does.\n\nHe's got people feeding their own YouTube history and spending habits into AI, just to see the pattern they're too close to notice on their own.\n\nNot a vibe check. An actual audit of your own life.\n\nKind of makes you want to open your own watch history and see what it says about you."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-07-13",
+    "source": "The Koerner Office",
+    "title": "Find Your Passion in 20 Minutes, Not 20 Years",
+    "url": "https://www.youtube.com/watch?v=NbAqXzS7Q44",
+    "video_id": "NbAqXzS7Q44"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-13",
+    "topic": "model_releases",
+    "title": "OpenAI Launches GPT-5.6 and ChatGPT Work - Top Tech News",
+    "url": "https://toptech.news/openai-launches-gpt-56-and-chatgpt-work/",
+    "snippet": "OpenAI Launches GPT-5.6 and ChatGPT Work - Top Tech News\n...\n# OpenAI Launches GPT-5.6 and ChatGPT Work\n...\nOpenAI has announced the launch of its latest AI model called GPT-5.6. The new family of models includes the new flagship model Sol, alongside Terra, a balanced model for everyday work, and Luna, OpenAI\u2019s most cost-efficient model. It also launched ChatGPT Work, \u201can agent that can take actio"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-13",
+    "topic": "model_releases",
+    "title": "GPT-5.6 AI Models: 3 Tiers, Security Freeze, and the Race... | AI Intelligence Brief",
+    "url": "https://getaibrief.com/story/gpt-56-three-tier-ai-race-security",
+    "snippet": "GPT-5.6 AI Models: 3 Tiers,\n...\n, and the\n...\n... | AI Intelligence Brief\n...\n- OpenAI's GPT-5.6 model series\u2014Sol, Terra, Luna\u2014launches after a brief government hold, reigniting the frontier AI race.\n- The three-tier architecture and security-focused delay set a new precedent for how AI releases will be governed, with Anthropic's Mythos series next in line.\n...\n1. 1GPT-5.6 includes three tiers: So"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-13",
+    "topic": "model_releases",
+    "title": "GPT-5.6 Officially Released Today: Three Pricing Tiers Outperform Competitors, AI Development Enters a New Era of Cost-Effectiveness",
+    "url": "https://news.aibase.com/news/29521",
+    "snippet": "# GPT-5.6 Officially Released Today: Three Pricing Tiers Outperform Competitors, AI Development Enters a New Era of Cost-Effectiveness\n\nPublished: 2026-07-12T14:07:50+00:00\nSource: news.aibase.com (news.aibase.com)\nLanguage: en\n\n## Story\n\nGPT-5.6 Officially Released Today: Three Pricing Tiers Outperform Competitors, AI Development Enters a New Era of Cost-Effectiveness\n\n[https://www.aibase.com/](h"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-13",
+    "topic": "model_releases",
+    "title": "Agnes-2.5-Flash Launches With Free, Uncapped Access for Agentic Coding - Fintech Singapore",
+    "url": "https://fintechnews.sg/134294/ai/agnes-2-5-flash/",
+    "snippet": "Agnes-2.5-Flash Launches With Free, Uncapped Access for Agentic Coding - Fintech Singapore\n...\nAgnes AI has launched Agnes-2.5-Flash, the newest generation of its text model, purpose-built for coding and agentic tasks.\n...\nThe company also announced Agnes-2.5-Pro, a larger flagship model aimed at more complex, long-running agent work, which follows later this month.\n...\nAlongside the model release"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-13",
+    "topic": "model_releases",
+    "title": "Meet NeuroVFM: A New Neuroimaging Foundation Model Trained With Vol-JEPA on Uncurated Clinical MRI and CT Volumes - MarkTechPost",
+    "url": "https://www.marktechpost.com/2026/07/12/meet-neurovfm-a-new-neuroimaging-foundation-model-trained-with-vol-jepa-on-uncurated-clinical-mri-and-ct-volumes/",
+    "snippet": "Meet NeuroVFM: A New Neuroimaging Foundation Model Trained With Vol-JEPA on Uncurated Clinical MRI and CT Volumes - MarkTechPost\n...\nHome Tech News AI Paper Summary Meet NeuroVFM: A New Neuroimaging Foundation Model Trained With Vol-JEPA on Uncurated...\n...\nFrontier models learn mostly from public internet data. However, clinical neuroimaging rarely appears there, because MRI and CT scans contain "
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-13",
+    "topic": "product_releases",
+    "title": "Agnes AI launches Agnes-2.5-Flash, teases flagship Pro model, and debuts Agnes Code desktop app | e27",
+    "url": "https://e27.co/agnes-ai-launches-agnes-2-5-flash-teases-flagship-pro-model-and-debuts-agnes-code-desktop-app-20260713/",
+    "snippet": "Agnes AI launches Agnes-2.5-Flash, teases flagship Pro model, and debuts Agnes Code desktop app | e27\n...\n# Agnes AI launches Agnes-2.5-Flash, teases flagship Pro model, and debuts Agnes Code desktop app\n...\nAgnes AI is betting on developers with a coding-focused model upgrade and a new desktop AI workspace, as it stakes a claim in a coding-assistant market reshaped by tighter access rules at riva"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-13",
+    "topic": "product_releases",
+    "title": "Nautis Launches AI-Native Startup Operating System, Introducing a New Software Category Designed to Replace Fragmented Startup Software",
+    "url": "https://www.indianeconomicobserver.com/news/nautis-launches-ai-native-startup-operating-system-introducing-a-new-software-category-designed-to-replace-fragmented-startup-software20260713124928/",
+    "snippet": "Nautis Launches AI-Native Startup Operating System, Introducing a New Software Category Designed to Replace Fragmented Startup Software\n...\nVMPLMohali (Punjab) [India], July 13: Built in India for founders worldwide, Nautis unifies strategy, fundraising, finance, operations, hiring, compliance, CRM, documentation and AI into one connected platform.The explosion of AI-powered business software has "
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-13",
+    "topic": "product_releases",
+    "title": "Agent Harness ECC Tops 228K Stars: Free Tool Turns Claude Code Into a Full Dev Team",
+    "url": "https://www.techtimes.com/articles/320269/20260713/agent-harness-ecc-tops-228k-stars-free-tool-turns-claude-code-full-dev-team.htm",
+    "snippet": "# Agent Harness ECC Tops 228K Stars: Free Tool Turns Claude Code Into a Full Dev Team\n\nAuthor: Jerry Owens  \n \n \n Published: Jul 13 2026, 12:06 AM EDT\nPublished: 2026-07-13T00:06:01-04:00\nSource: techtimes.com (techtimes.com)\nLanguage: en\n\n## Story\n\nAgent Harness ECC Tops 228K Stars: Free Tool Turns Claude Code Into a Full Dev Team\n\n[https://www.techtimes.com/](https://www.techtimes.com/)\n\n- [Tech"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-13",
+    "topic": "product_releases",
+    "title": "- Cyprus Shipping News",
+    "url": "https://cyprusshippingnews.com/2026/07/13/openparser-ai-goes-agentic-innovatix-unveils-a-new-era-of-document-intelligence-that-doesnt-just-answer-it-acts/",
+    "snippet": "# OpenParser AI goes Agentic: Innovatix unveils a new era of Document Intelligence that doesn\u2019t just answer \u2014 It Acts\n...\nInnovatix Technology Partners today announced a major release of OpenParser AI, marking the platform\u2019s evolution from an intelligent document Q&A tool into a fully agentic document intelligence platform. Organizations can now automate document-intensive tasks (workflow) while m"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-13",
+    "topic": "ai_agents",
+    "title": "NVIDIA And LangChain Open Source Enterprise AI Agent Blueprint - Open Source For You",
+    "url": "https://www.opensourceforu.com/2026/07/nvidia-and-langchain-open-source-enterprise-ai-agent-blueprint/",
+    "snippet": "NVIDIA and LangChain have unveiled an open enterprise AI agent stack that lets organisations self-host and govern production AI agents while reducing inference costs and avoiding proprietary vendor lock-in.\n...\nNVIDIA and LangChain have introduced the NemoClaw for LangChain Deep Agents blueprint, an open reference architecture that enables enterprises to build, govern and deploy production AI agen"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-13",
+    "topic": "ai_agents",
+    "title": "Notion's Ship OS Bets the Team Layer Is the Real AI Harness \u2014 Tessera",
+    "url": "https://thetesserapress.com/articles/ship-os-by-notion",
+    "snippet": "Notion launched Ship OS on July 9, pitching it as \u201cthe agent-native way to ship software.\u201d The product runs an entire product development cycle inside Notion, from raw customer feedback to a merged pull request. Agents handle triaging, routing, and summarizing. Humans keep the judgment calls.\n...\nThe short read: Notion is not building a coding agent. Ship OS does not generate code. That still happ"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-13",
+    "topic": "ai_agents",
+    "title": "Mininglamp Technology Officially Open-Sources Octo: A New-Generation Platform for Human-AI Agent Collaboration - DEV Community",
+    "url": "https://dev.to/mininglamp/mininglamp-technology-officially-open-sources-octo-a-new-generation-platform-for-human-ai-agent-40l1",
+    "snippet": "Mininglamp Technology Officially Open-Sources Octo: A New-Generation Platform for Human-AI Agent Collaboration - DEV Community\n...\nToday, Mininglamp Technology officially releases Octo \u2014 the first open-source, trustworthy Agent collaboration network that pioneers a new paradigm for human-AI teamwork. Octo supports private deployment, returning data and knowledge sovereignty to enterprises and user"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-13",
+    "topic": "ai_agents",
+    "title": "Prime Intellect Releases Verifiers v1: Composable Tasksets, Harnesses, and Runtimes for Agentic RL Training and Evaluations - MarkTechPost",
+    "url": "https://www.marktechpost.com/2026/07/13/prime-intellect-releases-verifiers-v1/",
+    "snippet": "Prime Intellect Releases Verifiers v1: Composable Tasksets, Harnesses, and Runtimes for Agentic RL Training and Evaluations - MarkTechPost\n...\nPrime Intellect launched verifiers 0.2.0. It previews a rewritten core, shipped under the new verifiers.v1 namespace. Modern evaluations now run coding agents with tools, compaction, and subagents. Accordingly, v1 rebuilds environments to run these agentic "
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-13",
+    "topic": "ai_small_business",
+    "title": "ChatGPT can now sit inside your apps, monitor your inbox and finish work while you sleep",
+    "url": "https://dynamicbusiness.com/topics/news/chatgpt-can-now-sit-inside-your-apps-monitor-your-inbox-and-finish-work-while-you-sleep.html",
+    "snippet": "# ChatGPT can now sit inside your apps, monitor your inbox and finish work while you sleep\n\nPublished: 2026-07-13T00:00:00\nSource: dynamicbusiness.com (dynamicbusiness.com)\nLanguage: en\n\n## Story\n\n[Skip to main](https://dynamicbusiness.com/topics/news/chatgpt-can-now-sit-inside-your-apps-monitor-your-inbox-and-finish-work-while-you-sleep.html#maincontent)\n\n[PR & Marketing Call Out List](https://dy"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-13",
+    "topic": "ai_small_business",
+    "title": "8 Benefits of AI Marketing Automation Small Businesses Can\u2019t Ignore | Okara Blog",
+    "url": "https://okara.ai/blog/ai-marketing-automation-benefits",
+    "snippet": "# 8 Benefits of AI Marketing Automation Small Businesses Can\u2019t Ignore | Okara Blog\n\nAuthor: Okara\nPublished: 2026-07-13T09:43:11.452Z\nSource: okara.ai (okara.ai)\nLanguage: en\n\n## Story\n\n[![AI CMO](https://okara.ai/images/growth-logo-black.svg)](https://okara.ai/) [![AI CMO](https://okara.ai/images/growth-logo-white.svg)](https://okara.ai/) [Okara](https://okara.ai/)\n\n[Back to Blog](https://okara.a"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-13",
+    "topic": "ai_small_business",
+    "title": "AI Marketing Automation Examples to Improve Your Workflows | Okara Blog",
+    "url": "https://okara.ai/blog/ai-marketing-automation-examples",
+    "snippet": "# AI Marketing Automation Examples to Improve Your Workflows | Okara Blog\n\nAuthor: Okara\nPublished: 2026-07-13T09:24:26.116Z\nSource: okara.ai (okara.ai)\nLanguage: en\n\n## Story\n\n[![AI CMO](https://okara.ai/images/growth-logo-black.svg)](https://okara.ai/) [![AI CMO](https://okara.ai/images/growth-logo-white.svg)](https://okara.ai/) [Okara](https://okara.ai/)\n\n[Back to Blog](https://okara.ai/blog)\n\n"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-13",
+    "topic": "ai_labs",
+    "title": "Waze introduces new ways to customize your drive",
+    "url": "https://blog.google/waze/waze-updates-gemini-motorcycle-mode/",
+    "snippet": "# Waze introduces new ways to customize your drive\n\nPublished: 2026-07-13T09:00:00Z\nSource: google.com (blog.google)\nLanguage: en\n\n## Story\n\nWaze introduces new ways to customize your drive\n\nSkip to Main Content\n\n![Waze Blog logo](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Wazer_inHorizontalArtboard_V2-01.width-160.format-webp.webp)\n\n[Waze Blog](https://blog.google/waze/)\n\nWaz"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-13",
+    "topic": "ai_labs",
+    "title": "New ChatGPT Desktop has significant feature regressions compared to ChatGPT Web and Classic - ChatGPT / Feature requests - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/new-chatgpt-desktop-has-significant-feature-regressions-compared-to-chatgpt-web-and-classic/1386650",
+    "snippet": "New ChatGPT Desktop has significant feature regressions compared to ChatGPT Web and Classic - ChatGPT / Feature requests - OpenAI Developer Community\n...\n# New ChatGPT Desktop has significant feature regressions compared to ChatGPT Web and Classic\n...\n# ChatGPT Desktop Feedback \u2013 Critical Regression & Missing Features\n...\nHi OpenAI Team,\n\nFirst, I\u2019d like to say that I actually support the directio"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-13",
+    "topic": "ai_labs",
+    "title": "[Bug] gpt-5.6-luna intermittently returns HTTP 500 for image-only function outputs - Bugs - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/bug-gpt-5-6-luna-intermittently-returns-http-500-for-image-only-function-outputs/1386679",
+    "snippet": "[Bug] gpt-5.6-luna intermittently returns HTTP 500 for image-only function outputs - Bugs - OpenAI Developer Community\n\n# [Bug] gpt-5.6-luna intermittently returns HTTP 500 for image-only function outputs\n...\nI am seeing a reproducible issue with`gpt-5.6-luna` on the Responses API.\n...\nWe use the computer tool alongside a custom function. After the model calls the function, we continue with the sa"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-13",
+    "topic": "ai_labs",
+    "title": "Prompt Caching Is a Core GPT-5.6 Feature. Why Are Customers Still Reverse-Engineering It? - Bugs - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/prompt-caching-is-a-core-gpt-5-6-feature-why-are-customers-still-reverse-engineering-it/1386612",
+    "snippet": "Prompt Caching Is a Core GPT-5.6 Feature. Why Are Customers Still Reverse-Engineering It? - Bugs - OpenAI Developer Community\n...\n# Prompt Caching Is a Core GPT-5.6 Feature. Why Are Customers Still Reverse-Engineering It?\n...\nWe\u2019ve spent the last few days doing the engineering work ourselves because there has been no clear communication from either OpenAI or Microsoft.\n\nWe tested GPT-5.6 Sol exten"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-13",
+    "topic": "ai_labs",
+    "title": "Make Chat a First-Class Mode Alongside Work and Codex - ChatGPT / Feature requests - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/make-chat-a-first-class-mode-alongside-work-and-codex/1386638",
+    "snippet": "Make Chat a First-Class Mode Alongside Work and Codex - ChatGPT / Feature requests - OpenAI Developer Community\n...\n# Make Chat a First-Class Mode Alongside Work and Codex\n...\nThe new ChatGPT desktop app gives Work and Codex clearly defined, dedicated modes, while ordinary Chat feels more like secondary.\n...\nI would like Chat to become a dedicated first-class mode alongside Work and Codex.\n\nChat s"
   }
 ]
