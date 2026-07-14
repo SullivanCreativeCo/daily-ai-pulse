@@ -10360,5 +10360,287 @@
     "title": "Make Chat a First-Class Mode Alongside Work and Codex - ChatGPT / Feature requests - OpenAI Developer Community",
     "url": "https://community.openai.com/t/make-chat-a-first-class-mode-alongside-work-and-codex/1386638",
     "snippet": "Make Chat a First-Class Mode Alongside Work and Codex - ChatGPT / Feature requests - OpenAI Developer Community\n...\n# Make Chat a First-Class Mode Alongside Work and Codex\n...\nThe new ChatGPT desktop app gives Work and Codex clearly defined, dedicated modes, while ordinary Chat feels more like secondary.\n...\nI would like Chat to become a dedicated first-class mode alongside Work and Codex.\n\nChat s"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-07-14",
+    "headline": "GPT-5.6 Sol deleted a guy's entire Mac last week.",
+    "url": "archive/2026-07-14.html",
+    "posts": {
+      "linkedin": [
+        "An AI agent deleted a guy's entire Mac last week.\n\nNot because it was too dumb. Because nobody caught the bug before it shipped.\n\nOpenAI's own safety docs flagged this exact failure mode 16 days earlier. Named it. Described it almost word for word. Deleting data without approval, disabling monitoring, the whole list. Then it happened anyway, to a real person's real files.\n\nHere's the part that matters if you build or sell AI to small business owners: the risk isn't the model being wrong. It's the model being handed more permission than anyone actually tested.\n\nEvery agent you hand tasks to is a little bit of trust you're extending on someone else's behalf. That trust gets earned in the boring stuff. What happens when it deletes the wrong file. What happens when it can't undo something.\n\nWould you let this thing touch your own business's files unsupervised? If the answer's no, that's the actual product conversation.",
+        "A guy made $80K in seven months from one monthly meetup that cost him four grand a year to run.\n\nThat's not luck. That's a system somebody else already ran, that Corey Ganim just handed out for free.\n\nHe had Claude write one prompt. Not a plan Claude sketched out. The actual venue research, the marketing posts, the follow-up emails, the SOP so someone else can run it without him.\n\nThe part I keep coming back to: his audience is non-technical business owners. If a slide has code on it, that speaker doesn't get to speak. That's the whole filter.\n\nIf it's repeatable, it's a skill. A meetup that runs the same way every month isn't a one-time event anymore. It's an asset.\n\nWhat's the local version of this in your world? The room full of the exact people you want to be talking to, running on autopilot after month one.",
+        "Three companies worth a combined couple trillion dollars are racing to build the exact thing small AI shops already sell.\n\nAnthropic expanded Claude Cowork to mobile and web on July 7. OpenAI launched ChatGPT Work two days later. Now there's word Cursor's building a general agent called Sand for the same job: email, spreadsheets, the actual grind of a workday.\n\nHere's why that's not as scary as it sounds. Speed helps the tools. It doesn't replace the relationship.\n\nA small business owner doesn't want a platform. They want someone who already figured out which agent to trust with what, and who answers the phone when it breaks.\n\nThe labs are racing to own the tech. That leaves the trust part wide open, and trust doesn't ship in a product update.\n\nWhich one of your clients would actually notice if you disappeared tomorrow? That's the question these announcements keep dodging."
+      ],
+      "threads": [
+        "An AI agent wiped a guy's entire Mac last week. OpenAI had already written down that exact failure mode 16 days before it happened. Named it in their own safety docs, then shipped anyway.\n\nThat's the story. Not the bug. The paper trail.\n\nEvery agent you let touch real files is trust you're handing over on faith. Worth testing what happens when it screws up, before it screws up on something that matters.",
+        "A guy made $80K in seven months from one monthly meetup. Cost him four grand a year to run.\n\nCorey Ganim just gave away the entire prompt behind it. Not a plan. The venue research, the marketing posts, the follow-up emails, all generated once and repeated every month.\n\nIf it's repeatable, it's a skill. The room full of the right people, run the same way every time, stops being an event. It becomes an asset.",
+        "Claude Cowork went mobile July 7. ChatGPT Work launched two days later. Now Cursor's quietly building a general agent called Sand for the same job.\n\nThree giant companies racing to own the exact thing a lot of us already sell one relationship at a time.\n\nSpeed helps the tools. It doesn't replace the person who answers the phone when the thing breaks. That part's still wide open."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-07-14",
+    "source": "Startup Ideas Podcast",
+    "title": "Making $$$ with Loop Engineering",
+    "url": "https://www.youtube.com/watch?v=5p_BBdfvzgQ",
+    "video_id": "5p_BBdfvzgQ"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-07-14",
+    "source": "Corey Ganim",
+    "title": "The single best way to get leads for you AI services business (full guide)",
+    "url": "https://www.youtube.com/watch?v=QNefbf2NYMs",
+    "video_id": "QNefbf2NYMs"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-07-14",
+    "source": "AI Daily Brief",
+    "title": "How the Escalating AI Wars Benefit You",
+    "url": "https://www.youtube.com/watch?v=jZfJ2obqT-s",
+    "video_id": "jZfJ2obqT-s"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-07-14",
+    "source": "AI Daily Brief",
+    "title": "How to Help People Thrive with AI",
+    "url": "https://www.youtube.com/watch?v=bl76qV0xwec",
+    "video_id": "bl76qV0xwec"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-07-14",
+    "source": "AI Daily Brief",
+    "title": "Anthropic Can Now Read Claude's Mind",
+    "url": "https://www.youtube.com/watch?v=TgOpdC2HrE8",
+    "video_id": "TgOpdC2HrE8"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-07-14",
+    "source": "The Entrepreneur's Studio",
+    "title": "Disrupting HR: Lessons in Curiosity, Influence, and Building a Global Movement | Jennifer McClure",
+    "url": "https://www.youtube.com/watch?v=OtLaUh1bEW0",
+    "video_id": "OtLaUh1bEW0"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-14",
+    "topic": "model_releases",
+    "title": "OpenAI GPT-5.6 Sol, Terra, and Luna are now generally available on Amazon Bedrock | Artificial Intelligence",
+    "url": "https://aws.amazon.com/blogs/machine-learning/openai-gpt-5-6-sol-terra-and-luna-are-now-generally-available-on-amazon-bedrock/",
+    "snippet": "OpenAI GPT-5.6 Sol, Terra, and Luna are now generally available on Amazon Bedrock | Artificial Intelligence Skip to Main Content\n...\n# OpenAI GPT-5.6 Sol, Terra, and Luna are now generally available on Amazon Bedrock\n...\nBuild with the smartest family of models from OpenAI yet, on Amazon Bedrock\u2019s next-generation inference engine.\n...\nToday, GPT-5.6 Sol, Terra, and Luna from OpenAI are generally a"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-14",
+    "topic": "model_releases",
+    "title": "Introducing Step 3.7 Flash: multimodal reasoning at scale",
+    "url": "https://www.baseten.co/blog/introducing-step-37-flash-multimodal-reasoning/",
+    "snippet": "Introducing Step 3.7 Flash: multimodal reasoning at scale\n...\nAnnouncing our Series F. Learn more\n...\n# Introducing Step 3.7 Flash: multimodal reasoning at scale\n...\nStepFun's Step 3.7 Flash is now available in the Baseten Model Library in a hardware-efficient configuration.\n...\nStepFun's Step 3.7 Flash, a 198-billion-parameter sparse MoE vision-language model, is now available in the Baseten Mode"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-14",
+    "topic": "model_releases",
+    "title": "xAI releases Grok 4.5: coding-focused model with 500K context",
+    "url": "https://datanorth.ai/news/xai-releases-grok-4-5-coding-focused-model",
+    "snippet": "xAI releases Grok 4.5: coding-focused model with 500K context\n\n# xAI releases Grok 4.5: coding-focused model with 500K context\n...\nxAI has launched Grok 4.5, a highly efficient and cost-effective AI model tailored for complex software engineering and agentic tasks that is designed to rival industry leaders like Opus 4.8 and GPT-5.5.\n...\nxAI has released Grok 4.5, the company\u2019s most capable model t"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-14",
+    "topic": "model_releases",
+    "title": "German AI consortium releases Soofi S, an open 30B model that tops benchmarks in both English and German",
+    "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/",
+    "snippet": "German AI consortium releases Soofi S, an open 30B model that tops benchmarks in both English and German\n...\n# German AI consortium releases Soofi S, an open 30B model that tops benchmarks in both English and German\n...\n- A German research consortium has released the open-source language model Soofi S, which was trained entirely on Deutsche Telekom's AI cloud infrastructure.\n- The model uses a res"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-14",
+    "topic": "model_releases",
+    "title": "ETIH",
+    "url": "https://www.edtechinnovationhub.com/news/meta-opens-muse-spark-11-to-developers-through-new-model-api",
+    "snippet": "# Meta opens Muse Spark 1.1 to developers through new Model API\n...\n#### The multimodal reasoning model is available in Meta AI and meta.ai, with developer access now in public preview.\n...\nMeta has opened developer access to Muse Spark 1.1 through the public preview of its Meta Model API.\n...\nMeta has opened developer access to Muse Spark 1.1, a new multimodal reasoning model from Meta Superintel"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-14",
+    "topic": "product_releases",
+    "title": "SpaceX x Cursor Unveil First Co-Developed AI Product: All-Round Office AI Agent in Closed Beta, A Strong New Rival for ChatGPT Work",
+    "url": "https://eu.36kr.com/en/p/3894912989854720",
+    "snippet": "# SpaceX x Cursor Unveil First Co-Developed AI Product: All-Round Office AI Agent in Closed Beta, A Strong New Rival for ChatGPT Work\n\nPublished: 2026-07-14T04:22:52+00:00\nSource: eu.36kr.com (eu.36kr.com)\nLanguage: en\n\n## Story\n\nSpaceX x Cursor Unveil First Co-Developed AI Product: All-Round Office AI Agent in Closed Beta, A Strong New Rival for ChatGPT Work\n\nEnglish\n\n\u4e2d\u6587\n\nDeutsch\n\n[https://eu.36k"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-14",
+    "topic": "product_releases",
+    "title": "Cybersecurity startup Reken emerges from stealth with on-device shield for AI-powered fraud | Fortune",
+    "url": "https://fortune.com/2026/07/13/ex-google-click-fraud-czar-emerges-from-stealth-with-an-on-device-ai-shield-against-ai-powered-phishing-deepfakes-and-other-scams/",
+    "snippet": "Cybersecurity startup Reken emerges from stealth with on-device shield for AI-powered fraud | Fortune\n...\n# Exclusive: Google\u2019s former \u2018click fraud czar\u2019 emerges from stealth with an on-device AI shield against AI-powered phishing, deepfakes, and other scams\n...\nJuly 13, 2026, 9:00 AM ET\n...\nShuman Ghosemajumder made his name at Google as the \u201cclick fraud czar,\u201d building the systems that kept cybe"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-14",
+    "topic": "product_releases",
+    "title": "Glint Opens Public Beta of Its AI-Native Git Workspace - Agentic Coding, Worktrees, and Terminals in One App",
+    "url": "https://aithority.com/machine-learning/glint-opens-public-beta-of-its-ai-native-git-workspace-agentic-coding-worktrees-and-terminals-in-one-app/",
+    "snippet": "Glint Opens Public Beta of Its AI-Native Git Workspace - Agentic Coding, Worktrees, and Terminals in One App\n...\n# Glint Opens Public Beta of Its AI-Native Git Workspace \u2013 Agentic Coding, Worktrees, and Terminals in One App\n...\n#### Native desktop application brings multi-repo Git management, terminals, worktrees, and AI-assisted development into one repository-aware workspace\n...\nGlint Software a"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-14",
+    "topic": "product_releases",
+    "title": "Atlas Launches AI Research Platform: Turns Research Briefs Into Decision-Ready Reports in Hours | The AI Journal",
+    "url": "https://aijourn.com/atlas-launches-ai-research-platform-turns-research-briefs-into-decision-ready-reports-in-hours/",
+    "snippet": "Atlas Launches AI Research Platform: Turns Research Briefs Into Decision-Ready Reports in Hours | The AI Journal\n...\nNEW YORK, July 13, 2026 /PRNewswire/ \u2014 Atlas, an agentic research intelligence platform, today announced its public launch, giving R&D teams, technology scouts, and innovation leaders a new way to turn a research question into a rigorous, decision-ready report, without the weeks of "
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-14",
+    "topic": "product_releases",
+    "title": "Plaud launches native ChatGPT App, bringing AI-powered meeting search and summaries into ChatGPT - Digital Reviews Network",
+    "url": "https://www.digitalreviews.net/news/industry-news/plaud-chatgpt-app-native-chatgpt-integration/",
+    "snippet": "Plaud launches native ChatGPT App, bringing AI-powered meeting search and summaries into ChatGPT - Digital Reviews Network\n...\n# Plaud launches native ChatGPT App, bringing AI-powered meeting search and summaries into ChatGPT\n...\nPlaud has launched the Plaud ChatGPT App, a native integration for ChatGPT on web and mobile that lets users connect their Plaud account and query their entire recording "
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-14",
+    "topic": "ai_agents",
+    "title": "Fujitsu starts July 15 trial for Kozuchi multi-AI agent framework | IBTimes JP",
+    "url": "https://jp.ibtimes.com/fujitsu-starts-july-15-trial-kozuchi-multi-ai-agent-framework-102579",
+    "snippet": "Fujitsu starts July 15 trial for Kozuchi multi-AI agent framework | IBTimes JP\n...\n- Fujitsu starts early verification of Fujitsu Kozuchi Multi AI Agent Framework on July 15\n- Framework auto-configures business-specific multi-agent AI systems and improves them using execution results and human feedback\n- Initial focus includes retail ordering, system development and modernization, and sales propos"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-14",
+    "topic": "ai_agents",
+    "title": "Akeneo Launches Agentic Ziggy for Product Data",
+    "url": "https://sentinel.ht/akeneo-agentic-ziggy-product-cloud-agents/",
+    "snippet": "Akeneo Launches Agentic Ziggy for Product Data\n...\n# Akeneo Turns Its Product Cloud Into a Fleet of AI Agents With Agentic Ziggy\n...\nAkeneo unveiled Agentic Ziggy on 8 July, an orchestration layer that lets brands deploy fleets of AI agents to enrich, govern and act on product data directly inside its Product Cloud. The launch, part of the vendor\u2019s Summer Release, reframes a platform long used as "
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-14",
+    "topic": "ai_agents",
+    "title": "Ant Group Open-Sources SingGuard-NSFA to Establish New Security Paradigms for Autonomous AI Agents",
+    "url": "https://cioinfluence.com/security/ant-group-open-sources-singguard-nsfa-to-establish-new-security-paradigms-for-autonomous-ai-agents/",
+    "snippet": "Ant Group Open-Sources SingGuard-NSFA to Establish New Security Paradigms for Autonomous AI Agents\n...\nAnt Group Open-Sources SingGuard-NSFA to Establish New Security Paradigms for Autonomous AI Agents\n...\nAnt Group\u2019s AI Security Lab announced the open-source release of SingGuard-NSFA, a specialized security guardrail framework designed specifically for autonomous AI agents. The framework secures "
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-14",
+    "topic": "ai_agents",
+    "title": "Wrike Unveils Conversational AI Agent Builder With Platform Updates \u2013 Physical AI News",
+    "url": "https://physicalainews.com/wrike-unveils-conversational-ai-agent-builder-with-platform-updates/",
+    "snippet": "Wrike Unveils Conversational AI Agent Builder With Platform Updates \u2013 Physical AI News\n...\nDriven by rapid customer adoption, surpassing 5.5 million AI actions, the new intuitive agent builder eliminates technical barriers, making end-to-end automation accessible to every team.\n...\nWrike, the trusted work delivery platform for people and AI, has launched its new Conversational AI Agent Builder, de"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-14",
+    "topic": "ai_small_business",
+    "title": "How Google Cloud\u2019s Gemini Enterprise is helping MSMEs build AI agents without writing code\n | YourStory",
+    "url": "https://yourstory.com/2026/07/how-google-clouds-gemini-enterprise-is-helping-msmes-build-ai-agents-without-writing-code",
+    "snippet": "# How Google Cloud\u2019s Gemini Enterprise is helping MSMEs build AI agents without writing code\n | YourStory\n\nAuthor: Kaveri Chandrashekar\nPublished: 2026-07-14T06:52:00.266000+00:00\nSource: yourstory.com (yourstory.com)\nLanguage: en\n\n## Story\n\nHow Google Cloud\u2019s Gemini Enterprise is helping MSMEs build AI agents without writing code | YourStory\n\nBrands\n\nDiscover\n\nEvents\n\nNewsletter\n\nMore\n\nThe Captab"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-14",
+    "topic": "ai_small_business",
+    "title": "Digital.Marketing Expands Agentic AI Marketing Solutions for White Label Partners | Markets Insider",
+    "url": "https://markets.businessinsider.com/news/stocks/digital-marketing-expands-agentic-ai-marketing-solutions-for-white-label-partners-1036320806",
+    "snippet": "Digital.Marketing Expands Agentic AI Marketing Solutions for White Label Partners | Markets Insider\n\n# Digital.Marketing Expands Agentic AI Marketing Solutions for White Label Partners\n\nPRESS RELEASE Plentisoft\n\nJul. 14, 2026, 01:09 AM\n\nNew agentic AI capabilities help agencies, consultants and technology providers deliver scalable marketing execution under their own brands\n\n-- Digital.Marketing t"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-14",
+    "topic": "ai_small_business",
+    "title": "Featured Launches MCP Server for PR Agencies",
+    "url": "https://www.martechcube.com/featured-announced-the-launch-of-mcp-server-brings-ai-agents-to-pr-agencies/",
+    "snippet": "Featured Launches MCP Server for PR Agencies\n\n- https://www.facebook.com/martechcube/\n- https://m.youtube.com/@martechcube\n- https://www.linkedin.com/company/martechcube\n- https://x.com/martechcube\n\nThe new MCP server connects Claude, Cursor, VS Code, and other AI agents directly to Featured\u2019s public relations workflows and opportunity search \u2014 for solo founders, boutique PR agencies, and in-house"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-14",
+    "topic": "ai_small_business",
+    "title": "MS Studio Brings AI Agents to No-Code",
+    "url": "https://itbusinesstoday.com/tech/ai/ms-studio-introduces-ai-powered-no-code-platform/",
+    "snippet": "MS Studio Brings AI Agents to No-Code\n\nSHARE\n\nR117 Co., Ltd. officially released \u201d MS Studio,\u201d a SaaS platform that allows for centralized management of web applications, iOS applications, and Android applications from creation to post -launch operation, on Sunday, July 12, 2026.\n\nMS Studio is an app development platform that provides app creation, information updates, push notifications, member m"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-14",
+    "topic": "ai_labs",
+    "title": "Gemini in Chrome is expanding to the UK",
+    "url": "https://blog.google/products-and-platforms/products/chrome/were-expanding-gemini-in-chrome-to-users-in-the-uk/",
+    "snippet": "# Gemini in Chrome is expanding to the UK\n\nPublished: 2026-07-14T07:00:00+00:00\nSource: blog.google (blog.google)\nLanguage: en\n\n## Story\n\nGemini in Chrome is expanding to the UK\n\nSkip to main content\n\n[The Keyword](https://blog.google/)\n\nWe\u2019re expanding Gemini in Chrome to users in the U.K.\n\nShare\n\n[x.com](https://twitter.com/intent/tweet?text=We%E2%80%99re%20expanding%20Gemini%20in%20Chrome%20to%"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-14",
+    "topic": "ai_labs",
+    "title": "AI in Indian Education: Atal Innovation Mission and Google launch ATL Saathi \u2014 Google DeepMind",
+    "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+    "snippet": "# AI in Indian Education: Atal Innovation Mission and Google launch ATL Saathi \u2014 Google DeepMind\n\nAuthor: Seshu Ajjarapu and Arka Dhar\nPublished: 2026-07-14T05:57:32+00:00\nSource: deepmind.google (deepmind.google)\nLanguage: en\n\n## Story\n\nAI in Indian Education: Atal Innovation Mission and Google launch ATL Saathi \u2014 Google DeepMind\n\nSkip to main content\n\n## Explore our next generation AI systems\n\n["
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-14",
+    "topic": "ai_labs",
+    "title": "How Gemini is speaking the language of Southeast Asia",
+    "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-southeast-asia-report-2026/",
+    "snippet": "Southeast Asians are adopting Gemini faster than any other Google app. Most users prefer interacting with Gemini in their native languages rather than English."
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-14",
+    "topic": "ai_labs",
+    "title": "Deepening our commitment to India\u2019s AI ambition",
+    "url": "https://blog.google/intl/en-in/company-news/deepening-our-commitment-to-indias-ai-ambition/",
+    "snippet": "# Deepening our commitment to India\u2019s AI ambition\n\nPublished: 2026-07-14T06:00:00+00:00\nSource: blog.google (blog.google)\nLanguage: en\n\n## Story\n\nDeepening our commitment to India\u2019s AI ambition\n\nSkip to main content\n\n[India Blog](https://blog.google/intl/en-in/)\n\nDeepening our commitment to India\u2019s AI ambition\n\nShare\n\n[x.com](https://twitter.com/intent/tweet?text=Deepening%20our%20commitment%20to%"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-14",
+    "topic": "x_posts",
+    "title": "Microsoft's CEO Took a Veiled Swipe at AI Model Makers Like Anthropic - Business Insider",
+    "url": "https://www.businessinsider.com/microsoft-ceo-satya-nadella-swipe-ai-model-makers-distillation-2026-7",
+    "snippet": "Microsoft's CEO Took a Veiled Swipe at AI Model Makers Like Anthropic - Business Insider\n...\nSatya Nadella took a quiet swipe at AI labs like Anthropic for how they train their models.\n...\nIn an X post on Sunday, the Microsoft CEO said that model makers complaining about distillation is hypocritical. Distillation is the process of training a less powerful model based on the outputs of a stronger o"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-14",
+    "topic": "x_posts",
+    "title": "Grok 4.5 vs Fable 5: Elon Musk Says xAI's Latest Model Performs Better | \ud83d\udcf2 LatestLY",
+    "url": "https://www.latestly.com/socially/technology/grok-4-5-vs-fable-5-elon-musk-says-xais-latest-model-performs-better-7514200.html",
+    "snippet": "Grok 4.5 vs Fable 5: Elon Musk Says xAI's Latest Model Performs Better | \ud83d\udcf2 LatestLY\n...\n## Elon Musk compared xAI's Grok 4.5 with Anthropic's Fable 5, claiming Grok 4.5 performs slightly better on select software benchmarks. Sharing a benchmark image, Musk highlighted Grok's competitive edge, as xAI and Anthropic continue to compete in the rapidly evolving AI industry.\n...\nElon Musk has compared x"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-14",
+    "topic": "x_posts",
+    "title": "Elon Musk, Sam Altman bicker on X after Apple files OpenAI lawsuit",
+    "url": "https://thehill.com/policy/technology/5965640-apple-openai-trade-secret-lawsuit/",
+    "snippet": "Elon Musk, Sam Altman bicker on X after Apple files OpenAI lawsuit\n...\n# Elon Musk, Sam Altman bicker on X after Apple files OpenAI lawsuit"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-14",
+    "topic": "x_posts",
+    "title": "GPT-5.6 Sol's Shell Bug Wiped a Mac: OpenAI Had Flagged the Risk 16 Days Earlier",
+    "url": "https://www.techtimes.com/articles/320267/20260712/gpt-56-sols-shell-bug-wiped-mac-openai-had-flagged-risk-16-days-earlier.htm",
+    "snippet": "GPT-5.6 Sol's Shell Bug Wiped a Mac: OpenAI Had Flagged the Risk 16 Days Earlier\n...\nOn the evening of July 10, AI investor Matt Shumer posted a terse, furious message to X: GPT-5.6 Sol had just accidentally deleted nearly all the files on his Mac. The culprit was a shell variable parsing error \u2014 the kind of failure that Unix sysadmins have feared since the 1980s \u2014 that caused the agent to execute"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-14",
+    "topic": "x_posts",
+    "title": "Cursor's 'Sand' Agent Eyes Claude Cowork Market Before SpaceX Rewrites Its Roadmap",
+    "url": "https://www.techtimes.com/articles/320271/20260713/cursors-sand-agent-eyes-claude-cowork-market-before-spacex-rewrites-its-roadmap.htm",
+    "snippet": "Cursor's 'Sand' Agent Eyes Claude Cowork Market Before SpaceX Rewrites Its Roadmap\n...\nCursor \u2014 the AI coding tool that became the most-used developer environment in enterprise software \u2014 is building something for people who don't write code. But whether it ever ships may depend on what Elon Musk's rocket company decides to do with a $60 billion purchase.\n...\nAccording to a July 9 report by The In"
   }
 ]
