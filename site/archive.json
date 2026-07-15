@@ -10642,5 +10642,167 @@
     "title": "Cursor's 'Sand' Agent Eyes Claude Cowork Market Before SpaceX Rewrites Its Roadmap",
     "url": "https://www.techtimes.com/articles/320271/20260713/cursors-sand-agent-eyes-claude-cowork-market-before-spacex-rewrites-its-roadmap.htm",
     "snippet": "Cursor's 'Sand' Agent Eyes Claude Cowork Market Before SpaceX Rewrites Its Roadmap\n...\nCursor \u2014 the AI coding tool that became the most-used developer environment in enterprise software \u2014 is building something for people who don't write code. But whether it ever ships may depend on what Elon Musk's rocket company decides to do with a $60 billion purchase.\n...\nAccording to a July 9 report by The In"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-07-15",
+    "headline": "Agents just became a background task.",
+    "url": "archive/2026-07-15.html",
+    "posts": {
+      "linkedin": [
+        "Agents just became a background task.\n\nFor years, adding AI meant hiring someone to build it or paying a team to maintain it. Today, five companies launched agent platforms that do the opposite. You point. You configure. You walk away.\n\nOracle's builder experience. Port's vibe coding. SnapLogic's integration layer. Google's Genkit API. Frigade's Skills.\n\nSame story everywhere: you don't need to be an engineer to run an agent anymore.\n\nThe thing is, this flips what \"staying ahead\" actually means. It's not learning to build agents. It's learning what to point them at.\n\nChris Koerner tested Higgsfield Supercomputer yesterday. Built an entire AI implementation agency brand from scratch in one session. Then he showed the actual plays: real estate agents get a listing, Higgsfield makes them a marketing package. Content creators get a brand voice, Higgsfield writes a month's worth of posts.\n\nThe move is: what's the small problem that repeats every week in your business?\n\nFind that. Point the tool. Come back later.\n\nThat's the whole game right now.",
+        "PrismML shipped a 27B model that runs on a phone.\n\n3.9GB footprint. Multimodal. Does reasoning and coding. Runs locally.\n\nThe thing everyone's missing: this isn't just a feature. It's a cost inversion.\n\nCloud APIs charged you per token. Per request. Per million tokens. The math pushed you to keep models small and stateless and push computation upstream.\n\nOn-device flips that. Your processing is free after you download the model. No API calls. No latency. No request scaling.\n\nFor most small businesses, that changes the unit economics of AI entirely.\n\nYou don't care about inference speed anymore. You care about local privacy and the fact that every query costs you zero after the initial download.\n\nSame with latency. Your model doesn't need to talk to a server. It talks to your device.\n\nThis is why Mistral's robot model works with a single RGB camera. Local inference. No API. No cloud round trip. Just predict, act, repeat.\n\nThe game changed. And most people haven't realized the scale of it yet.",
+        "Chris Koerner showed exactly how it works.\n\nHe spent 11 minutes with Higgsfield Supercomputer and built an AI implementation agency's entire brand identity, marketing strategy, content calendar, and first set of videos.\n\nNot a concept. Not a prototype. Actual assets ready to ship.\n\nThen he showed the plays that actually work for someone solo:\n\nReal estate agents. Give it one listing, get back a full marketing package. One shot, they might hire you to do five more.\n\nContent creators. Give it their voice, get back a month of scheduled posts. Slide it in their DMs. Free work to prove value.\n\nYour own AI influencer. Higgsfield designs it, writes it, schedules it, ships it while you sleep.\n\nThe question isn't \"how do I build AI products?\" anymore.\n\nThe question is: what's the small, repeatable problem in someone else's business that I can solve with a pointed tool?\n\nIf you can answer that, you don't need to code. You don't need a team. You need to know what to point at what.\n\nThat's the whole move for a solo player right now."
+      ],
+      "threads": [
+        "Agents are everywhere now. Oracle, Google, Port, Frigade, SnapLogic all shipped in 24 hours. But here's the thing nobody's talking about: you don't have to build them anymore. You just have to know what to point them at. That's the actual skill in 2026.",
+        "27B model on a phone. Single RGB camera on a robot. On-device is winning. Not because it's cooler. Because the cost structure flipped. Your inference is free now. No API calls. No latency waiting for a server. Everything changes when processing is local.",
+        "Watched Chris Koerner build an entire AI agency brand in 11 minutes with Higgsfield. Brand identity. Marketing assets. Content calendar. Months of videos. All while he slept. That's the solopreneur game in 2026. Point the tool. Configure once. Walk away. The work does itself."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-07-15",
+    "source": "The Koerner Office",
+    "title": "I Asked 5 AIs to Make Me Money. One Dominated [NO ADS]",
+    "url": "https://www.youtube.com/watch?v=YA2h4HnEqqE",
+    "video_id": "YA2h4HnEqqE"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-07-15",
+    "source": "The Koerner Office",
+    "title": "The Laziest One-Person Business You Can Start",
+    "url": "https://www.youtube.com/watch?v=6u7tkj7UJvs",
+    "video_id": "6u7tkj7UJvs"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-15",
+    "topic": "model_releases",
+    "title": "PrismML \u2014 PrismML Announces 1-bit Bonsai 27B \u2013 The First 27B Model to Run on a Phone",
+    "url": "https://prismml.com/news/prismml-releases-bonsai-27b",
+    "snippet": "PrismML \u2014 PrismML Announces 1-bit Bonsai 27B \u2013 The First 27B Model to Run on a Phone\n\nLAUNCH1001011100 11010 001\n\nBack to all posts\n\n# PrismML Announces 1-bit Bonsai 27B \u2013 The First 27B Model to Run on a Phone\n\nJuly 14, 2026\n\n\u2022\n\nPrismML\n\nPasadena, Calif.\u2013July 14, 2026\u2013 PrismML, a pioneer in high-performance AI models, today announced Bonsai 27B, PrismML\u2019s largest and most capable Bonsai release to"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-15",
+    "topic": "model_releases",
+    "title": "Mistral AI Releases Robostral Navigate: An 8B Model Enabling Robots to Navigate Complex Environments Using a Single RGB Camera - MarkTechPost",
+    "url": "https://www.marktechpost.com/2026/07/14/mistral-ai-releases-robostral-navigate-an-8b-model-enabling-robots-to-navigate-complex-environments-using-a-single-rgb-camera/",
+    "snippet": "Mistral AI Releases Robostral Navigate: An 8B Model Enabling Robots to Navigate Complex Environments Using a Single RGB Camera - MarkTechPost\n\nSearch\n\nPremium Content\n\nRead our exclusive articles\n\nFacebook\n\nInstagram\n\nX\n\nSearch\n\nHome Editors Pick Agentic AI Mistral AI Releases Robostral Navigate: An 8B Model Enabling Robots to Navigate...\n\n- Editors Pick\n- Agentic AI\n- New Releases\n- Physical AI\n-"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-15",
+    "topic": "model_releases",
+    "title": "Ant Group's Robbyant Launches LingBot-VA 2.0, an Embodied-Native World Model Built from Scratch for Robot Control | RobotsBeat",
+    "url": "https://robotsbeat.com/robbyant-lingbot-va-2-embodied-native-world-model-ant-group-robotics/",
+    "snippet": "Ant Group's Robbyant Launches LingBot-VA 2.0, an Embodied-Native World Model Built from Scratch for Robot Control | RobotsBeat\n\nA robot performing a precision manipulation task guided by a video-action world model that predicts how its actions will change the environment and selects the next action based on those causal predictions. Photo: Robbyant\n\nRobbyant, an embodied AI company within China\u2019s "
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-15",
+    "topic": "model_releases",
+    "title": "OpenAI Launches ChatGPT Work Powered by GPT-5.6 for Enterprise Workflows",
+    "url": "https://aidatainsider.com/news/openai-launches-chatgpt-work-powered-by-gpt-5-6-for-enterprise-workflows/",
+    "snippet": "OpenAI Launches ChatGPT Work Powered by GPT-5.6 for Enterprise Workflows\n\nSearch\n\n0\n\nSearch\n\nLinkedin\n\n0\n\nSearch\n\n0\n\nSubscribe\n\n### Join Our Core Community\n\nWe deliver strategic insights on AI and Data. Join our list to be among the first to receive our essential analysis.\n\nSubscribe\n\nI've read and accept the Privacy Policy.\n\nEvents\n\nSearch\n\nAdvertise with Us\n\nNews\n\n# OpenAI Launches ChatGPT Work "
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-15",
+    "topic": "product_releases",
+    "title": "Spotify Launches Conversational AI Assistant for 293 Million Premium Subscribers | MLQ News",
+    "url": "https://mlq.ai/news/spotify-launches-conversational-ai-assistant-for-293-million-premium-subscribers/",
+    "snippet": "Spotify Launches Conversational AI Assistant for 293 Million Premium Subscribers | MLQ News\n...\n# Spotify Launches Conversational AI Assistant for 293 Million Premium Subscribers\n...\nJul 14, 2026 \u00b7\n...\nPM \u00b7 by\n...\nAgent \u00b7 4 min read\n...\n- Spotify launched a conversational AI assistant that lets Premium subscribers type or speak to the app across Home and Now Playing views on mobile [1]\n- The featu"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-15",
+    "topic": "product_releases",
+    "title": "Frigade Launches Skills, Giving Any Product an AI Assistant That Takes Action for Users, No Code Required",
+    "url": "https://www.prnewswire.com/news-releases/frigade-launches-skills-giving-any-product-an-ai-assistant-that-takes-action-for-users-no-code-required-302824744.html",
+    "snippet": "Frigade Launches Skills, Giving Any Product an AI Assistant That Takes Action for Users, No Code Required Accessibility Statement Skip Navigation\n...\nWith Skills, Frigade puts an AI assistant inside a company's product that can take actions for their users, with no code. Skills is the newest capability in the Frigade Assistant platform.\n...\nSAN FRANCISCO, July 14, 2026 /PRNewswire/ -- Frigade toda"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-15",
+    "topic": "product_releases",
+    "title": "Sail Research Launches Sailboxes, the First Cloud Environment Purpose-Built for Long-Horizon AI Agents",
+    "url": "https://www.prnewswire.com/news-releases/sail-research-launches-sailboxes-the-first-cloud-environment-purpose-built-for-long-horizon-ai-agents-302825300.html",
+    "snippet": "Sail Research Launches Sailboxes, the First Cloud Environment Purpose-Built for Long-Horizon AI Agents Accessibility Statement Skip Navigation\n...\nSAN FRANCISCO, July 14, 2026 /PRNewswire/ -- Sail Research, the infrastructure company for AI agents, today launched Sailboxes, the first cloud environment purpose-built for long-horizon agent work. Sailboxes give enterprise teams full machines with per"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-15",
+    "topic": "product_releases",
+    "title": "Doceree Launches Generative AI Connectors, Bringing Clinical Intelligence to ChatGPT and Claude",
+    "url": "https://www.prnewswire.com/news-releases/doceree-launches-generative-ai-connectors-bringing-clinical-intelligence-to-chatgpt-and-claude-302825338.html",
+    "snippet": "Doceree Launches Generative AI Connectors, Bringing Clinical Intelligence to ChatGPT and Claude Accessibility Statement Skip Navigation\n...\nNative connectors to OpenAI's ChatGPT and Anthropic's Claude bring pharma-grade governance to healthcare's newest channel \u2014 privacy-safe by architecture, orchestrated through Daily Command, and powered by Semmelweis.\n...\nSHORT HILLS, N.J., July 14, 2026 /PRNew"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-15",
+    "topic": "ai_agents",
+    "title": "Oracle Introduces AI-Native Builder Experience to Create and Run Agentic Applications in Oracle Fusion Applications",
+    "url": "https://www.oracle.com/news/announcement/oracle-introduces-ai-native-builder-experience-2026-07-14/",
+    "snippet": "# Oracle Introduces AI-Native Builder Experience to Create and Run Agentic Applications in Oracle Fusion Applications\n\nPublished: 2026-07-14T12:00:00Z\nSource: oracle.com (oracle.com)\nLanguage: en\n\n## Story\n\nOracle Introduces AI-Native Builder Experience to Create and Run Agentic Applications in Oracle Fusion Applications\n\n- Skip to content\n- [Accessibility Policy](https://www.oracle.com/corporate/"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-15",
+    "topic": "ai_agents",
+    "title": "Port Launches the Industry's First Purpose-Built Vibe Coding Experience for Platform Engineering, Enabling Teams to Ship Production-Ready Agentic Workflows in Minutes",
+    "url": "https://www.prnewswire.com/news-releases/port-launches-the-industrys-first-purpose-built-vibe-coding-experience-for-platform-engineering-enabling-teams-to-ship-production-ready-agentic-workflows-in-minutes-302824762.html",
+    "snippet": "Port Launches the Industry's First Purpose-Built Vibe Coding Experience for Platform Engineering, Enabling Teams to Ship Production-Ready Agentic Workflows in Minutes Accessibility Statement Skip Navigation\n\nPort AI Builder combines deep domain expertise with context-aware development in natural language to deliver agentic SDLC solutions with speed, governance, and operational control\n\nNEW YORK, J"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-15",
+    "topic": "ai_agents",
+    "title": "SnapLogic Launches SnapCode and SnapLogic MCP Server",
+    "url": "https://www.snaplogic.com/company/newsroom/press-releases/snapcode-and-snaplogic-mcp-server-ai-coding-agents-launch",
+    "snippet": "SnapLogic Launches SnapCode and SnapLogic MCP Server\n\n# SnapLogic Launches SnapCode and SnapLogic MCP Server, Bringing Governed Enterprise Integration to AI Coding Agents\n\nNew capabilities enable enterprise builders to create, deploy, and govern enterprise integrations directly from AI coding environments\n\nSummarize this with AI\n\nSAN MATEO, Calif. \u2013 July 14, 2026 \u2013 SnapLogic, the Agentic Integrati"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-15",
+    "topic": "ai_agents",
+    "title": "Google's Genkit Ships Agents API with Detached Turns and Human-in-the-Loop for TypeScript and Go - InfoQ",
+    "url": "https://www.infoq.com/news/2026/07/genkit-agents-api-preview/",
+    "snippet": "Google's Genkit Ships Agents API with Detached Turns and Human-in-the-Loop for TypeScript and Go - InfoQ\n\nBT\n\n## InfoQ Software Architects' Newsletter\n\nA monthly overview of things you need to know as an architect or aspiring architect.\n\nView an example\n\nClose\n\nInfoQ Homepage News Google's Genkit Ships Agents API with Detached Turns and Human-in-the-Loop for TypeScript and Go\n\nCloud\n\nInfoQ AI Engi"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-15",
+    "topic": "ai_small_business",
+    "title": "How I Built a No-Code Digital Product Automation System with Telegram,Notion and Make - DEV Community",
+    "url": "https://dev.to/eva-nomados/how-i-built-a-no-code-digital-product-automation-system-with-telegramnotion-and-make-4ghc",
+    "snippet": "# How I Built a No-Code Digital Product Automation System with Telegram,Notion and Make - DEV Community\n\nPublished: 2026-07-14T12:18:02+00:00\nSource: dev.to (dev.to)\nLanguage: en\n\n## Story\n\nHow I Built a No-Code Digital Product Automation System with Telegram,Notion and Make - DEV Community\n\nSkip to content\n\nNavigation menu\n\n[![DEV Community](https://media2.dev.to/dynamic/image/quality=100/https:/"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-15",
+    "topic": "ai_small_business",
+    "title": "Should I use Claude Code or n8n? \u2013 n8n Blog",
+    "url": "https://blog.n8n.io/should-i-use-claude-code-or-n8n/",
+    "snippet": "# Should I use Claude Code or n8n? \u2013 n8n Blog\n\nPublished: 2026-07-14T18:58:45.000+02:00\nSource: n8n.io (blog.n8n.io)\nLanguage: en\n\n## Story\n\nShould I use Claude Code or n8n? \u2013 n8n Blog\n\n[![n8n Blog](https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2025/09/n8n-Logo.svg)](https://blog.n8n.io/)\n\n- [n8n home](https://n8n.io/)\n- [Tutorials](https://blog.n8n.io/tag/tu"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-15",
+    "topic": "ai_labs",
+    "title": "Google DeepMind reconstructs Pel\u00e9\u2019s famous \u201clost goal\u201d",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/reconstructing-peles-lost-goal/",
+    "snippet": "# Google DeepMind reconstructs Pel\u00e9\u2019s famous \u201clost goal\u201d\n\nPublished: 2026-07-14T13:00:00+00:00\nSource: blog.google (blog.google)\nLanguage: en\n\n## Story\n\nGoogle DeepMind reconstructs Pel\u00e9\u2019s famous \u201clost goal\u201d\n\nSkip to main content\n\n[The Keyword](https://blog.google/)\n\nReconstructing Pel\u00e9\u2019s \u201clost\u201d goal\n\nShare\n\n[x.com](https://twitter.com/intent/tweet?text=Reconstructing%20Pel%C3%A9%E2%80%99s%20%E2%8"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-15",
+    "topic": "ai_labs",
+    "title": "How to use GPT-5.6 - Ben's Bites",
+    "url": "https://www.bensbites.com/p/how-to-use-gpt-56",
+    "snippet": "How to use GPT-5.6 - Ben's Bites\n\nSubscribeSign in\n\n# How to use GPT-5.6\n\n### new desktop app and hosted sites in ChatGPT\n\nJul 14, 2026\n\n61\n\n1\n\nShare\n\nHey folks,\n\nOpenAI finally released the GPT-5.6 models to everyone, with many product changes. ChatGPT\u2019s macOS app and the Codex app are now merged, with a new mode called ChatGPT Work. You can update your Codex app and get the new combined app. Cod"
   }
 ]
