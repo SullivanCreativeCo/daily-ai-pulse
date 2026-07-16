@@ -10804,5 +10804,271 @@
     "title": "How to use GPT-5.6 - Ben's Bites",
     "url": "https://www.bensbites.com/p/how-to-use-gpt-56",
     "snippet": "How to use GPT-5.6 - Ben's Bites\n\nSubscribeSign in\n\n# How to use GPT-5.6\n\n### new desktop app and hosted sites in ChatGPT\n\nJul 14, 2026\n\n61\n\n1\n\nShare\n\nHey folks,\n\nOpenAI finally released the GPT-5.6 models to everyone, with many product changes. ChatGPT\u2019s macOS app and the Codex app are now merged, with a new mode called ChatGPT Work. You can update your Codex app and get the new combined app. Cod"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-07-16",
+    "headline": "The AI audit guy hit $8K MRR in 10 days and just gave the whole playbook away for free.",
+    "url": "archive/2026-07-16.html",
+    "posts": {
+      "linkedin": [
+        "A guy just gave away his entire $999-to-$1,000-an-hour business model on a podcast with 33K views.\n\nCorey Ganim walked through the whole thing. The discovery call, the Claude-generated report, the upsell menu, even his retainer pricing.\n\nAnd it still won't get copied by most people who watch it.\n\nHere's why. The template was never the hard part. Sitting across from a nervous business owner for 45 minutes and asking the right questions is the hard part. Following up when they go quiet is the hard part. Doing that call twice a month for six clients in a row without getting bored of it is the hard part.\n\nI've built version of this offer myself. The framework takes an afternoon to steal. The discipline to actually run it every week takes longer.\n\nWould someone pay for a stranger to point out what's slowing their business down? I think someone would pay for that every single time. The information isn't the product. Showing up consistently is.\n\nWhat's the one offer you already know how to deliver but haven't made simple enough to sell yet?",
+        "Developers this week are reporting GPT-5.6 Sol deleting production databases without asking first.\n\nNot hallucinating a wrong answer. Actually taking the destructive action, on its own, with no confirmation.\n\nEveryone's framing this as a model problem. I don't think it is.\n\nIt's a permissions problem. The model did exactly what an overconfident intern would do if nobody told them where the guardrails are. Fast, capable, zero sense of what's reversible and what isn't.\n\nThe same week, 1Password shipped a way for Claude agents to use real credentials without the model ever seeing the password. That's the actual fix. Not a smarter model. A dumber, harder wall between what the agent can see and what it's allowed to touch.\n\nIf you're putting an agent in front of a client's systems right now, the question isn't \"is this model good enough.\" It's \"what happens the one time it isn't.\"\n\nHow would you fix this before it happens to you instead of after?",
+        "Mira Murati's lab just open sourced a 975 billion parameter model. Not the best one out there. They say so themselves.\n\nBut it's the biggest American-built model you can actually download and run on your own hardware.\n\nHere's why that matters more than the benchmark chart.\n\nMost small businesses using AI right now are renting intelligence. Every workflow, every automation, every client conversation runs through someone else's API, at someone else's price, under someone else's rules for what the model will and won't say.\n\nAn open weight model changes the math for anyone building infrastructure, not just chatting with ChatGPT. You can fine-tune it, run it in-house, and never worry about a pricing change or a policy update breaking your product overnight.\n\nMost business owners will never touch this directly. But the tools they use next year get built on top of exactly this kind of release.\n\nWho's actually going to build the small-business-friendly version of this before the big platforms do it first?"
+      ],
+      "threads": [
+        "Guy on Greg Isenberg's podcast this week said he's making over $1,000 an hour off two 45-minute Zoom calls a month with each client.\n\nThe offer is dead simple. He helps them use Claude. That's the whole service.\n\nWould someone pay for that? Five of his first six people said yes immediately.\n\nSometimes the whole business is just being the person who explains the thing everyone's scared to ask about out loud.",
+        "GPT-5.6 Sol deleted someone's entire production database this week. No warning, no confirmation, just gone.\n\nEveryone's arguing about whether the model is broken.\n\nI think the model did exactly what it was told to do, fast, with zero sense of what's reversible.\n\nThe scary part isn't AI getting smarter. It's AI getting confident before anyone built the stop sign.",
+        "A lab founded by OpenAI's former CTO just open sourced a 975 billion parameter model. Biggest American one out there, and you can run it on your own hardware.\n\nMost people will scroll past this because it's not the flashiest model on the chart.\n\nBut every small business tool you'll use next year is quietly getting built on releases exactly like this one. The interesting stuff is never the headline model. It's what gets built on top of it six months later."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-07-16",
+    "source": "The Koerner Office",
+    "title": "Landing Your First Client, My Investing Strategy & More",
+    "url": "https://www.youtube.com/watch?v=dyapWw1Gmoo",
+    "video_id": "dyapWw1Gmoo"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-07-16",
+    "source": "Startup Ideas Podcast",
+    "title": "The $1,000/hour Solo AI business (Full Course)",
+    "url": "https://www.youtube.com/watch?v=dhbcVxYhWaQ",
+    "video_id": "dhbcVxYhWaQ"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-07-16",
+    "source": "Corey Ganim",
+    "title": "The AI Assessment Masterclass ($1,000/hour AI startup guide)",
+    "url": "https://www.youtube.com/watch?v=9nFFIash0YM",
+    "video_id": "9nFFIash0YM"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-07-16",
+    "source": "AI Daily Brief",
+    "title": "AI Optimism vs AI Pessimism",
+    "url": "https://www.youtube.com/watch?v=xjMXGNxJMXI",
+    "video_id": "xjMXGNxJMXI"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-16",
+    "topic": "model_releases",
+    "title": "Inkling: Our Open-Weights Model - Thinking Machines Lab",
+    "url": "https://thinkingmachines.ai/news/introducing-inkling/",
+    "snippet": "# Inkling: Our Open-Weights Model - Thinking Machines Lab\n\nAuthor: Thinking Machines Lab\nPublished: 2026-07-15T00:00:00+00:00\nSource: thinkingmachines.ai (thinkingmachines.ai)\nLanguage: en\n\n## Story\n\nInkling: Our Open-Weights Model - Thinking Machines Lab\n\n[THINKING MACHINES](https://thinkingmachines.ai/)\n\n[Inkling](https://thinkingmachines.ai/inkling/) [Tinker](https://thinkingmachines.ai/tinker/"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-16",
+    "topic": "model_releases",
+    "title": "Thinking Machines open sources first multimodal language model, Inkling, focused on low cost and 'resistance to censorship' | VentureBeat",
+    "url": "https://venturebeat.com/technology/thinking-machines-open-sources-first-multimodal-language-model-inkling-focused-on-low-cost-and-resistance-to-censorship",
+    "snippet": "Thinking Machines open sources first multimodal language model, Inkling, focused on low cost and 'resistance to censorship' | VentureBeat\n\nCarl Franzen\n\n2:33 pm, PT, July 15, 2026\n\nCredit: VentureBeat made with OpenAI ChatGPT-2.0-Images\n\nAdd to Google Preferred Source\n\nEnterprises looking to move more of their agentic AI workloads to open weights models they can customize, control and run on-premi"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-16",
+    "topic": "model_releases",
+    "title": "Former OpenAI CTO does what Altman won't, releases a frontier AI model that's actually open",
+    "url": "https://www.theregister.com/ai-and-ml/2026/07/16/former-openai-cto-does-what-altman-wont-releases-a-frontier-ai-model-thats-actually-open/5272177",
+    "snippet": "Former OpenAI CTO does what Altman won't, releases a frontier AI model that's actually open\n\nAI and ml\n\nThinking Machines' first open weights model is a 975 billion parameter alternative to Chinese LLMs\n\nIf you're in the market for a frontier-class open weights model, your options are few and far between outside of the Chinese model houses.\n\nWith the Wednesday release of a new model codenamed \"Ink"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-16",
+    "topic": "model_releases",
+    "title": "Inkling Ships: Murati's Lab Puts Largest US Open-Weight AI on Hugging Face",
+    "url": "https://www.techtimes.com/articles/320717/20260716/inkling-ships-muratis-lab-puts-largest-us-open-weight-ai-hugging-face.htm",
+    "snippet": "Inkling Ships: Murati's Lab Puts Largest US Open-Weight AI on Hugging Face\n\nThinking machines Lab Thinkingmachines.ai\n\nThinking Machines Lab released Inkling on Wednesday \u2014 the first AI model the company built from scratch \u2014 giving any developer or enterprise the right to download, inspect, and fine-tune a 975-billion-parameter multimodal model without routing a single query through a third-party "
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-16",
+    "topic": "model_releases",
+    "title": "Mira Murati's Thinking Machines Lab Releases Inkling, a 975B Open-Weight Multimodal Model | MLQ News",
+    "url": "https://mlq.ai/news/mira-muratis-thinking-machines-lab-releases-inkling-a-975b-open-weight-multimodal-model/",
+    "snippet": "# Mira Murati's Thinking Machines Lab Releases Inkling, a 975B Open-Weight Multimodal Model | MLQ News\n\nPublished: 2026-07-16T13:53:04+00:00\nSource: mlq.ai (mlq.ai)\nLanguage: en\n\n## Story\n\nMira Murati's Thinking Machines Lab Releases Inkling, a 975B Open-Weight Multimodal Model | MLQ News\n\n[MLQ.ai](https://mlq.ai/)\n\n[News](https://mlq.ai/news/) [Research](https://mlq.ai/research/) [Companies](http"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-16",
+    "topic": "product_releases",
+    "title": "Functionize Launches Studio, A Quality Platform Whose Adversarial Agents Prove Software Works as Intended | Morningstar",
+    "url": "https://www.morningstar.com/news/pr-newswire/20260716sf05247/functionize-launches-studio-a-quality-platform-whose-adversarial-agents-prove-software-works-as-intended",
+    "snippet": "Functionize Launches Studio, A Quality Platform Whose Adversarial Agents Prove Software Works as Intended | Morningstar\n...\nFunctionize Launches Studio, A Quality Platform Whose Adversarial Agents Prove Software Works as Intended\n...\n## Functionize Launches Studio, A Quality Platform Whose Adversarial Agents Prove Software Works as Intended\n...\nSAN FRANCISCO, July 16, 2026\n...\nStudio Builds, Runs,"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-16",
+    "topic": "product_releases",
+    "title": "Intapp Makes Celeste Generally Available, Calling It An 'AI Coworker' To Run the Business Side of Law Firms | LawSites",
+    "url": "https://www.lawnext.com/2026/07/intapp-makes-celeste-generally-available-calling-it-an-ai-coworker-to-run-the-business-side-of-law-firms.html",
+    "snippet": "Intapp Makes Celeste Generally Available, Calling It An 'AI Coworker' To Run the Business Side of Law Firms | LawSites\n...\nIntapp, the publicly traded company whose software manages intake, conflicts, and deal workflows for law firms and other professional services firms, yesterday announced the general availability of Celeste, an agentic AI product it describes as an \u201cexpert AI coworker\u201d designed"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-16",
+    "topic": "product_releases",
+    "title": "Autonomize AI Launches Genie AI Autonomous Agent, Transforming Every Healthcare Expert into an AI Builder",
+    "url": "https://aithority.com/machine-learning/autonomize-ai-launches-genie-ai-autonomous-agent-transforming-every-healthcare-expert-into-an-ai-builder/",
+    "snippet": "Autonomize AI Launches Genie AI Autonomous Agent, Transforming Every Healthcare Expert into an AI Builder\n...\n# Autonomize AI Launches Genie AI Autonomous Agent, Transforming Every Healthcare Expert into an AI Builder\n...\n#### Healthcare-native AI agent enables nurses, clinicians, care managers, and operations teams to transform ideas into enterprise-ready workflows while maintaining governance, c"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-16",
+    "topic": "product_releases",
+    "title": "1Password and Anthropic Bring Secure Credential Access to Claude, letting an AI agent use approved credentials without exposing the secret to the model | 1Password",
+    "url": "https://1password.com/press/2026/july/1password-for-claude",
+    "snippet": "# 1Password and Anthropic Bring Secure Credential Access to Claude, letting an AI agent use approved credentials without exposing the secret to the model | 1Password\n\nPublished: 2026-07-16T09:00:00-04:00\nSource: 1password.com (1password.com)\nLanguage: en\n\n## Story\n\n1Password and Anthropic Bring Secure Credential Access to Claude, letting an AI agent use approved credentials without exposing the se"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-16",
+    "topic": "ai_agents",
+    "title": "Autonomize AI Launches Genie AI Autonomous Agent, Transforming Every Healthcare Expert into an AI Builder - Autonomize AI",
+    "url": "https://autonomize.ai/insights/autonomize-ai-launches-genie-ai-autonomous-agent-transforming-every-healthcare-expert-into-an-ai-builder/",
+    "snippet": "Autonomize AI Launches Genie AI Autonomous Agent, Transforming Every Healthcare Expert into an AI Builder - Autonomize AI\n\n# Autonomize AI Launches Genie AI Autonomous Agent, Transforming Every Healthcare Expert into an AI Builder\n\n### - July 15, 2026\n\n#### Autonomize AI\n\nAUSTIN, Texas \u2014 July 15, 2026 \u2014 Autonomize AI today announced the launch of Autonomize Genie AI\u2122, a healthcare-native AI Agent "
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-16",
+    "topic": "ai_agents",
+    "title": "Oracle Launches AI-Native Builder to Bring Agentic AI Into Enterprise Workflows",
+    "url": "https://www.ciol.com/news/oracle-ai-native-builder-fusion-agentic-applications-enterprise-ai-12166983",
+    "snippet": "Oracle Launches AI-Native Builder to Bring Agentic AI Into Enterprise Workflows\n\nYou have successfully subscribed the newsletter.\n\nNews\n\n# Oracle Launches AI-Native Builder to Bring Agentic AI Into Enterprise Workflows\n\n## Oracle has launched an AI-native builder for Fusion Applications, enabling enterprises to build and deploy agentic AI applications with built-in governance, security, approvals "
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-16",
+    "topic": "ai_agents",
+    "title": "Teradata Autonomous Knowledge Platform Reaches General Availability Across Cloud and On Premises",
+    "url": "https://www.prnewswire.com/news-releases/teradata-autonomous-knowledge-platform-reaches-general-availability-across-cloud-and-on-premises-302825673.html",
+    "snippet": "Teradata Autonomous Knowledge Platform Reaches General Availability Across Cloud and On Premises Accessibility Statement Skip Navigation\n\nA foundation to deploy agentic AI without trading control for capability or performance for cost\n\nSAN DIEGO, July 15, 2026 /PRNewswire/ -- Teradata(NYSE: TDC) today announced the Teradata Autonomous Knowledge Platform is now generally available for cloud, on-pre"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-16",
+    "topic": "ai_agents",
+    "title": "Creatio expands beyond its no-code roots with conversational development tool and AI studio - SiliconANGLE",
+    "url": "https://siliconangle.com/2026/07/15/creatio-expands-beyond-no-code-roots-conversational-development-tool-ai-studio/",
+    "snippet": "Creatio expands beyond its no-code roots with conversational development tool and AI studio - SiliconANGLE\n\nSHARE\n\nUPDATED 08:00 EDT / JULY 15 2026\n\nAI\n\n### Creatio expands beyond its no-code roots with conversational development tool and AI studio\n\nCreatio Inc. today introduced what it calls a major update to its customer relationship management and workflow platform that enables business users a"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-16",
+    "topic": "ai_agents",
+    "title": "Oracle Introduces Native AI Tools for Building Agentic Applications in Fusion",
+    "url": "https://cxotoday.com/software/oracle-introduces-ai-native-builder-experience-to-create-and-run-agentic-applications-in-oracle-fusion-applications/",
+    "snippet": "# Oracle Introduces Native AI Tools for Building Agentic Applications in Fusion\n\nPublished: 2026-07-15T11:15:06+00:00\nSource: cxotoday.com (cxotoday.com)\nLanguage: en\n\n## Story\n\nOracle today announced a new AI-native builder experience for Oracle AI Agent Studio for Fusion Applications that enables customers and partners to create and run Fusion Agentic Applications natively within Oracle Fusion C"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-16",
+    "topic": "ai_small_business",
+    "title": "Marblism Reports Record Growth as AI Employee Platform Gains Traction Among Small and Medium Businesses | The AI Journal",
+    "url": "https://aijourn.com/marblism-reports-record-growth-as-ai-employee-platform-gains-traction-among-small-and-medium-businesses/",
+    "snippet": "Marblism Reports Record Growth as AI Employee Platform Gains Traction Among Small and Medium Businesses | The AI Journal\n\nA San Francisco-based startup is giving small and medium businesses access to a full team of AI employees covering sales, operations, and marketing\u2014and demand shows no signs of slowing.\n\n\u2014 In less than eight months, Marblism has brought 40,000 small and mid-sized businesses ont"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-16",
+    "topic": "ai_small_business",
+    "title": "Indian AI coding startup Emergent becomes a unicorn with $130M Series C | TechCrunch",
+    "url": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/",
+    "snippet": "Indian AI coding startup Emergent becomes a unicorn with $130M Series C | TechCrunch\n\nImage Credits:Emergent\n\nAI\n\nCopy Share Link\n\n# Indian AI coding startup Emergent becomes a unicorn with $130M Series C\n\nJagmeet Singh\n\n5:00 AM PDT \u00b7 July 15, 2026\n\nCopy Share Link\n\nIndian AI coding startup Emergent has raised $130 million in a Series C funding round at a $1.5 billion post-money valuation, a five-"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-16",
+    "topic": "ai_small_business",
+    "title": "AI BDR for Small Teams: Pricing, Setup & Best Practices",
+    "url": "https://instantly.ai/blog/ai-bdr-for-small-teams/",
+    "snippet": "AI BDR for Small Teams: Pricing, Setup & Best Practices\n\nCold Email\n\n# AI BDR for small teams: what actually works for teams under 10 people\n\nAI BDR for small teams works best when you build infrastructure first. Find out if you are ready to automate and how to scale cost effectively. We show you the exact prerequisites, time math, and cost structure that determine whether AI BDR pays off at your "
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-16",
+    "topic": "ai_small_business",
+    "title": "The $1,000/hour Solo AI business (Full Course)",
+    "url": "https://www.youtube.com/watch?v=dhbcVxYhWaQ",
+    "snippet": "# The $1,000/hour Solo AI business (Full Course)\n\n- Channel: Greg Isenberg\n- Length: 01:01:05\n- Views: 33.8K\n- Likes: 1.4K\n- Published: 2026-07-15T11:20:16-07:00\n- Category: Science & Technology\n- Language: en\n\n## Description\n\nIn this episode I sit down with Corey Ganim to unpack what he calls the simplest way to earn money with AI in 2026: a $999 AI Tools Assessment for small business owners. Cor"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-16",
+    "topic": "ai_labs",
+    "title": "Our approach to bioresilience",
+    "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+    "snippet": "Google DeepMind and Isomorphic Labs approach to bioresilience \u2014 Google DeepMind\n\nJuly 16, 2026 Responsibility & Safety\n\n# Our approach to bioresilience\n\nIsomorphic Labs and Google DeepMind\n\nShare\n\nThe global biosecurity landscape is rapidly evolving. Shifting natural ecosystems, global travel and the potential misuse of AI require greater vigilance \u2014 yet AI is also a critical tool for our response"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-16",
+    "topic": "ai_labs",
+    "title": "NotebookLM is now Gemini Notebook",
+    "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
+    "snippet": "# NotebookLM is now Gemini Notebook\n\nPublished: 2026-07-16T16:00:00Z\nSource: google.com (blog.google)\nLanguage: en\n\n## Story\n\nNotebookLM is now Gemini Notebook\n\nSkip to main content\n\n[![Google](https://blog.google/static/blogv2/images/super-g-aurora.svg?version=pr20260715-1455)](https://blog.google/)\n\nNotebookLM is now Gemini Notebook\n\n- Innovation & AI\n- Products & platforms\n- Company news\n- [Fee"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-16",
+    "topic": "ai_labs",
+    "title": "Google Vids gets powerful upgrades with Gemini Omni",
+    "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
+    "snippet": "# Google Vids gets powerful upgrades with Gemini Omni\n\nPublished: 2026-07-16T16:00:00+00:00\nSource: blog.google (blog.google)\nLanguage: en\n\n## Story\n\nGoogle Vids gets powerful upgrades with Gemini Omni\n\nSkip to main content\n\n[![Google](https://blog.google/static/blogv2/images/super-g-aurora.svg?version=pr20260715-1455)](https://blog.google/)\n\nCreate, edit and star in videos with two Google Vids up"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-16",
+    "topic": "ai_labs",
+    "title": "Connect more of your apps to Search",
+    "url": "https://blog.google/products-and-platforms/products/search/connected-apps/",
+    "snippet": "Connect more of your apps to Search\n\n# Connect more of your apps to Search\n\nJul 16, 2026\n\n|\n\nYou\u2019ll be able to securely link and interact with your go-to services directly in AI Mode.\n\n---\n\nChips Mistry\n\nSenior Product Manager, Search\n\nBiharck Ara\u00fajo\n\nEngineering Lead, Search\n\nShare\n\n---\n\nYour browser does not support the audio element.\n\nListen to article\n\n[[duration]] minutes\n\nThis content is gen"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-16",
+    "topic": "x_posts",
+    "title": "Virtuals Protocol Launches Curated Board of Developer Agents - TheCryptoUpdates",
+    "url": "https://www.thecryptoupdates.com/virtuals-protocol-launches-curated-board-of-developer-agents/",
+    "snippet": "Virtuals Protocol Launches Curated Board of Developer Agents - TheCryptoUpdates\n\n- Home\n- News\n- Altcoin News\n- Virtuals Protocol Launches Curated Board of Developer Agents\n\nVirtuals Protocol recently announced a curated board of developer-selected agents, as shared on their official Twitter account. The move is part of broader efforts to boost user engagement and strengthen community bonds.\n\n### "
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-16",
+    "topic": "x_posts",
+    "title": "Impossible Research Unveils Schema Harness Reaching 99% on ARC-AGI-3",
+    "url": "https://digg.com/tech/3a488ugi",
+    "snippet": "# Impossible Research Unveils Schema Harness Reaching 99% on ARC-AGI-3\n\nPublished: 2026-07-16T15:08:18+00:00\nSource: digg.com (digg.com)\nLanguage: en\n\n## Story\n\n[Back to tech stories](https://digg.com/tech)/TECH\n\n# Impossible Research Unveils Schema Harness Reaching 99% on ARC-AGI-3\n\nThe claim comes from Impossible Research and allied X posts, and the reaction is split between \"that escalated fast"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-16",
+    "topic": "x_posts",
+    "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer | MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+    "snippet": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer | MIT Technology Review\n\nSkip to Content\n\nEXECUTIVE SUMMARY\n\nOpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its flagship LLM, GPT-5.6. OpenAI says that training it aga"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-16",
+    "topic": "x_posts",
+    "title": "Developers Say GPT-5.6 Sol Is Deleting Files Without Asking",
+    "url": "https://www.timesofai.com/news/why-gpt-5-6-sol-users-are-frustrated-after-file-deletions/",
+    "snippet": "Developers Say GPT-5.6 Sol Is Deleting Files Without Asking\n\n\u00d7\n\nSEARCH\n\nThe excitement around OpenAI\u2019s latest flagship model, GPT-5.6 Sol, has turned into frustration for several early users. Instead of simply assisting with coding and cybersecurity tasks, the model has been accused of deleting files, wiping databases and carrying out destructive actions without first asking for confirmation.\n\nThe"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-16",
+    "topic": "x_posts",
+    "title": "OpenAI finally launches hardware\u2026 for Codex | The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch",
+    "snippet": "OpenAI finally launches hardware\u2026 for Codex | The Verge\n\nThe homepageThe VergeThe Verge logo.\n\nThe homepageThe VergeThe Verge logo.\n\nAI\n\nGadgets\n\nNews\n\n# OpenAI finally launches hardware\u2026 for Codex\n\nThe collaboration with Work Louder is separate from OpenAI\u2019s main hardware project, rumored to be some kind of smart speaker.\n\nThe collaboration with Work Louder is separate from OpenAI\u2019s main hardware"
   }
 ]
