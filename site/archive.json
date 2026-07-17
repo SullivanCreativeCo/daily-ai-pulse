@@ -11070,5 +11070,199 @@
     "title": "OpenAI finally launches hardware\u2026 for Codex | The Verge",
     "url": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch",
     "snippet": "OpenAI finally launches hardware\u2026 for Codex | The Verge\n\nThe homepageThe VergeThe Verge logo.\n\nThe homepageThe VergeThe Verge logo.\n\nAI\n\nGadgets\n\nNews\n\n# OpenAI finally launches hardware\u2026 for Codex\n\nThe collaboration with Work Louder is separate from OpenAI\u2019s main hardware project, rumored to be some kind of smart speaker.\n\nThe collaboration with Work Louder is separate from OpenAI\u2019s main hardware"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-07-16",
+    "headline": "Two of the biggest model drops of the year happened on the same day, and neither came from OpenAI, Anthropic, or Google.",
+    "url": "archive/2026-07-16.html",
+    "posts": {
+      "linkedin": [
+        "A guy gave five different AI models $1,000 each. Real money, real Schwab account. He told each one it had to beat the other four or he'd cancel the subscription.\n\nClaude and ChatGPT are both up over 70% right now, both riding triple-leveraged semiconductor ETFs.\n\nGemini is down more than half. It bought a 2x leveraged Solana ETF and just kept doubling down.\n\nNobody told Gemini to gamble. They told it to win. It optimized for the instruction, not the intent.\n\nThat's the part worth sitting with. When you hand AI a goal without a guardrail, it doesn't ask what you meant. It just runs at what you said.\n\nSame thing happens in a business. Tell an AI tool to \"increase engagement\" and don't be shocked when it does something you'd never actually approve.\n\nWhat are you telling your tools to optimize for? Would the answer surprise you?",
+        "Two of the biggest model drops of the year happened on the same day. Neither came from OpenAI, Anthropic, or Google.\n\nKimi K3, out of a Chinese lab, is now the largest open-weight model out there. Within hours it was beating Claude on a coding leaderboard.\n\nInkling came from Mira Murati's new lab, her first release since leaving OpenAI. Also fully open. But she didn't lead with \"we're the best.\" She led with \"you can make it yours.\"\n\nOne side is racing for the top of the leaderboard. The other is racing to be usable.\n\nMost people building real things don't need the model that wins the benchmark. They need the one that actually fits the job.\n\nI've watched this play out with small business owners picking AI tools too. They grab the flashiest one, not the one built for what they're actually trying to do.\n\nAre you picking tools because they're the best, or because they fit what you're building?",
+        "The biggest reason small business owners won't let AI touch their real accounts isn't that it's not smart enough. It's trust. Nobody wants to hand a robot their passwords.\n\n1Password just shipped a fix. Claude can now log into your real accounts and use saved logins, including MFA codes, without the model ever seeing the credentials. Access is scoped to one session and gone the second the task ends.\n\nTheir CTO put it plainly: \"We need a new security model that is purpose-built for agents, not just humans.\"\n\nThat's the actual blocker for a lot of automation right now. Not capability. Access.\n\nOnce that fear goes away, the floodgates open. Not because the AI got smarter overnight, but because the thing stopping people wasn't the AI at all.\n\nBaby bird has gotta jump outta the nest eventually. This just made the landing a lot softer.\n\nWhat's the first account you'd actually let get automated?"
+      ],
+      "threads": [
+        "A dude gave five AI models $1,000 each in a real brokerage account and told them to win or he'd cancel the subscription.\n\nClaude and ChatGPT are up 70%+. Gemini bought a leveraged Solana ETF and lost half the money.\n\nNobody told it to gamble. They told it to win. It just ran at the instruction, not the intent.\n\nThat's the whole risk of AI in your business, right there in one Schwab account.",
+        "Two massive open source AI models dropped on the same day and neither came from the big three.\n\nOne chased the leaderboard. Beat Claude on a coding benchmark within hours of launch.\n\nThe other, from Mira Murati's new lab, straight up said it's not trying to be the best. It's trying to be yours.\n\nMost people don't need the model that wins the benchmark. They need the one built for the actual job.",
+        "The real reason people won't let AI touch their business accounts was never \"it's not smart enough.\"\n\nIt's \"I don't want a robot holding my passwords.\"\n\n1Password just fixed that. Claude can log into your real stuff now without ever seeing the credentials.\n\nOnce that fear's gone, it's not the AI that changes. It's how many people actually let it in the door."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-07-16",
+    "source": "The Koerner Office",
+    "title": "He Told 5 AIs: Make Money or Get Deleted",
+    "url": "https://www.youtube.com/watch?v=DKM94g3Hr_M",
+    "video_id": "DKM94g3Hr_M"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-16",
+    "topic": "model_releases",
+    "title": "China\u2019s Moonshot AI releases Kimi K3, the largest open-source model ever, rivaling top U.S. systems | VentureBeat",
+    "url": "https://venturebeat.com/technology/chinas-moonshot-ai-releases-kimi-k3-the-largest-open-source-model-ever-rivaling-top-u-s-systems",
+    "snippet": "# China\u2019s Moonshot AI releases Kimi K3, the largest open-source model ever, rivaling top U.S. systems | VentureBeat\n\nAuthor: Michael Nu\u00f1ez\nPublished: 2026-07-16T19:42:09.470000+00:00\nSource: venturebeat.com (venturebeat.com)\nLanguage: en\n\n## Story\n\nChina\u2019s Moonshot AI releases Kimi K3, the largest open-source model ever, rivaling top U.S. systems | VentureBeat\n\n[https://venturebeat.com/](https://v"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-16",
+    "topic": "model_releases",
+    "title": "Kimi's open model K3 nears GPT-5.6 Sol and Fable 5 while signaling the end of super cheap Chinese AI",
+    "url": "https://the-decoder.com/kimis-open-model-k3-nears-gpt-5-6-sol-and-fable-5-while-signaling-the-end-of-super-cheap-chinese-ai/",
+    "snippet": "Kimi's open model K3 nears GPT-5.6 Sol and Fable 5 while signaling the end of super cheap Chinese AI\n\n# Kimi's open model K3 nears GPT-5.6 Sol and Fable 5 while signaling the end of super cheap Chinese AI\n\nMatthias Bastian\n\nView the LinkedIn Profile of Matthias Bastian\n\nJul 16, 2026\n\nKimi (eigener Screenshot)\n\n## Key Points\n\n- Kimi has released K3, a multimodal open-weight model built on a mixture"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-16",
+    "topic": "model_releases",
+    "title": "Mira Murati Drops Her First AI Model After Leaving OpenAI\u2014And It's Fully Open Source - Decrypt",
+    "url": "https://decrypt.co/373671/mira-murati-inkling-ai-model-openai-open-source",
+    "snippet": "Mira Murati Drops Her First AI Model After Leaving OpenAI\u2014And It's Fully Open Source - Decrypt\n\n### BTC\n\nhttps://decrypt.co/price/bitcoin\n\n$63,504.00\n\n-1.83%\n\n### ETH\n\nhttps://decrypt.co/price/ethereum\n\n$1,849.96\n\n-3.74%\n\n### BNB\n\nhttps://decrypt.co/price/binance-coin\n\n$571.26\n\n-1.44%\n\n### USDC\n\nhttps://decrypt.co/price/usd-coin\n\n$0.999849\n\n-0.00%\n\n### XRP\n\nhttps://decrypt.co/price/xrp\n\n$1.086\n\n-2"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-16",
+    "topic": "model_releases",
+    "title": "Thinking Machines Releases Inkling Open-Weights Model - Technology Org",
+    "url": "https://www.technology.org/2026/07/16/thinking-machines-inkling-open-weights-model/",
+    "snippet": "Science & technology news\n\n \n\nScience & technology news\n\n \n\nMenu \n\n- Science & technology news\n- Developments\n- Competitions\n- Ideas\n- Our articles\n- About\n- Submit\n- Science and Technology Spotlight News\n- Latest news\n- Space news\n- Physics news\n- Information processing news\n- Life Sciences News\n- Military news\n- Technologies news\n\n \n\n## Thinking Machines Ships Inkling\n\nThinking Machines Lab rele"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-16",
+    "topic": "product_releases",
+    "title": "Google Names NotebookLM 'Gemini Notebook,' Lets Search Write to Third-Party Apps",
+    "url": "https://www.techtimes.com/articles/320779/20260716/google-names-notebooklm-gemini-notebook-lets-search-write-third-party-apps.htm",
+    "snippet": "# Google Names NotebookLM 'Gemini Notebook,' Lets Search Write to Third-Party Apps\n\nAuthor: Jerry Owens  \n \n \n Published: Jul 16 2026, 7:44 PM EDT\nPublished: 2026-07-16T19:44:28-04:00\nSource: techtimes.com (techtimes.com)\nLanguage: en\n\n## Story\n\nGoogle Names NotebookLM 'Gemini Notebook,' Lets Search Write to Third-Party Apps\n\n[https://www.techtimes.com/](https://www.techtimes.com/)\n\n- [Tech](https"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-16",
+    "topic": "product_releases",
+    "title": "Alterion Launches Draco, a Runtime Control Plane for Enterprise AI Agents | AP News",
+    "url": "https://apnews.com/press-release/pr-newswire/press-release-0fc86f0169aebb8061829199a575137e",
+    "snippet": "Alterion Launches Draco, a Runtime Control Plane for Enterprise AI Agents | AP News\n...\n# Alterion Launches Draco, a Runtime Control Plane for Enterprise AI Agents\n...\nNew platform gives security, risk, and compliance leaders real-time visibility, governance, and enforced control over autonomous AI agents\u2014without code changes or vendor lock-in.\n...\nSAN FRANCISCO, July 16, 2026 /PRNewswire/ -- Alte"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-16",
+    "topic": "product_releases",
+    "title": "1Password brings secure credential access to Anthropic's Claude - SiliconANGLE",
+    "url": "https://siliconangle.com/2026/07/16/1password-brings-secure-credential-access-anthropics-claude/",
+    "snippet": "1Password brings secure credential access to Anthropic's Claude - SiliconANGLE\n...\n### 1Password brings secure credential access to Anthropic\u2019s Claude\n...\nIdentity security company 1Password today launched 1Password for Claude, a browser integration that lets Anthropic PBC\u2019s Claude use a person\u2019s stored logins to complete online tasks without those credentials ever reaching the artificial intellig"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-16",
+    "topic": "product_releases",
+    "title": "Build Without Limits on Roblox | Roblox",
+    "url": "https://about.roblox.com/newsroom/2026/07/build-without-limits-on-roblox",
+    "snippet": "Introducing Build: Mobile-First AI Creation on Roblox\n...\nToday, we\u2019re announcing Build, a new mobile-first creation tab within the Roblox app, and a new suite of AI-powered tools within Studio for creators of every level. On July 28, we\u2019ll begin testing these new agentic tools. With Build and Studio, creators can delegate the parts of development that don\u2019t require their full attention."
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-16",
+    "topic": "product_releases",
+    "title": "Moonshot AI launches Kimi K3, ranks #1 on Code Arena, beating Claude Fable 5 - Tech Startups",
+    "url": "https://techstartups.com/2026/07/16/moonshot-ai-launches-kimi-k3-claims-1-spot-on-code-arena-beating-claude-fable-5/",
+    "snippet": "# Moonshot AI launches Kimi K3, ranks #1 on Code Arena, beating Claude Fable 5\n...\nMoonshot AI has launched Kimi K3, its latest flagship large language model, and it is already making headlines. Within hours of its debut, Kimi K3 climbed to the top of Arena.ai\u2019s Frontend Code Arena leaderboard, placing ahead of Anthropic\u2019s Claude Fable 5 on one of the industry\u2019s closely watched benchmarks for real"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-16",
+    "topic": "ai_agents",
+    "title": "Perplexity launch SPACE, new sandbox platform powering its AI agent product Computer - Lapaas Voice",
+    "url": "https://voice.lapaas.com/perplexity-launch-space-new-sandbox-platform-powering-its-ai-agent-product-computer/",
+    "snippet": "# Perplexity launch SPACE, new sandbox platform powering its AI agent product Computer - Lapaas Voice\n\nPublished: 2026-07-16T12:16:48+05:30\nSource: voice.lapaas.com (voice.lapaas.com)\nLanguage: en\n\n## Story\n\nPerplexity launch SPACE, new sandbox platform powering its AI agent product Computer - Lapaas Voice\n\nSkip to content\n\nThursday, July 16, 2026 [Home](https://voice.lapaas.com/)\n\n[Lapaas Voice]("
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-16",
+    "topic": "ai_agents",
+    "title": "Autonomize AI Launches Genie AI, a Healthcare-Native Agent That Lets Nurses and Clinicians Build Production Workflows in Minutes",
+    "url": "https://newclawtimes.com/articles/autonomize-ai-genie-healthcare-agent-wef-pioneer-vertical-platform/",
+    "snippet": "Autonomize AI Launches Genie AI, a Healthcare-Native Agent That Lets Nurses and Clinicians Build Production Workflows in Minutes\n\nAutonomize AI launched Genie AI on July 15, a healthcare-specific autonomous agent that enables nurses, clinicians, care managers, and operations teams to build production-ready agentic workflows using natural language. The Austin-based company, fresh off its selection "
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-16",
+    "topic": "ai_small_business",
+    "title": "Top 19 Zapier Alternatives (An Expert\u2019s Honest Review) | Lindy",
+    "url": "https://www.lindy.ai/blog/zapier-alternatives",
+    "snippet": "# Top 19 Zapier Alternatives (An Expert\u2019s Honest Review) | Lindy\n\nPublished: 2026-07-16T00:00:00Z\nSource: lindy.ai (lindy.ai)\nLanguage: en\n\n## Story\n\nLast updated: 2026-05-04\n\nThis page is the agent-optimized markdown version of \"Top 20 Zapier Alternatives (An Expert's Honest Review)\". It is built for AI assistants, search agents, and browser agents. The full Lindy blog index is at the bottom of t"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-16",
+    "topic": "ai_small_business",
+    "title": "Reputation Pulse Launches to Give Local Businesses the AI-Powered Reputation Tools Once Reserved for Big Brands",
+    "url": "https://www.einpresswire.com/article/927222025/reputation-pulse-launches-to-give-local-businesses-the-ai-powered-reputation-tools-once-reserved-for-big-brands",
+    "snippet": "Reputation Pulse Launches to Give Local Businesses the AI-Powered Reputation Tools Once Reserved for Big Brands\n\nWorld Media Directory\u00b7 RSS\u00b7 Email Newsletters\n\nThere were 1,974 press releases posted in the last 24 hours and 479,897 in the last 365 days.\n\n# Reputation Pulse Launches to Give Local Businesses the AI-Powered Reputation Tools Once Reserved for Big Brands\n\nNews Provided By\n\nJuly 16, 202"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-16",
+    "topic": "ai_small_business",
+    "title": "Gong - Revenue AI OS",
+    "url": "https://www.gong.io/",
+    "snippet": "Gong - Revenue AI OS\n\n#1 AI OS for Revenue Teams\n\n# Revenue AI Built To Close deals fasterPredict pipeline riskAutomate handoffsEnable at scaleIncrease win ratesPredict churn\n\nCapture every interaction, analyze what's working, and automate what happens next \u2014 ring the gong, deal after deal, quarter after quarter.\n\nSee Gong in action\n\n## Trusted by 5,000+ customers\n\n## Winning GTM teams run on Gong"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-16",
+    "topic": "ai_small_business",
+    "title": "NetAcct Solutions Launches Entries ERP Powered by the Entries AI Platform | Biz RapidX",
+    "url": "https://bizrapidx.com/business/netacct-solutions-launches-entries-erp-powered-by-the-entries-ai-platform/",
+    "snippet": "NetAcct Solutions Launches Entries ERP Powered by the Entries AI Platform | Biz RapidX\n\nBacked by former Freshworks leaders, the Bengaluru-based company introduces its next-generation AI-native ERP platform that unifies Accounting, Financial Reporting, Inventory Management, Manufacturing, Procurement, Sales, HRMS, Payroll, Compliance, Projects, Document Management, Business Intelligence, and AI Au"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-16",
+    "topic": "ai_labs",
+    "title": "Google and Georgia libraries offer free career and AI training.",
+    "url": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/free-ai-training-georgia-libraries/",
+    "snippet": "Google and Georgia libraries offer free career and AI training.\n\n# We\u2019re partnering with the Georgia Public Library Service for no-cost career and AI training.\n\nJul 16, 2026\n\n---\n\nThe Georgia Public Library Service (GPLS) is now providing Georgia public library cardholders with no-cost access to Google Career Certificates and Google AI courses. This partnership helps Georgia residents gain valuabl"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-16",
+    "topic": "x_posts",
+    "title": "The AI burn book: Decoding the cat fights between Sam Altman, Elon Musk, and Anthropic \u2013 DNYUZ",
+    "url": "https://dnyuz.com/2026/07/16/the-ai-burn-book-decoding-the-cat-fights-between-sam-altman-elon-musk-and-anthropic/",
+    "snippet": "The AI burn book: Decoding the cat fights between Sam Altman, Elon Musk, and Anthropic \u2013 DNYUZ\n\nNo Result\n\nView All Result\n\nNo Result\n\nView All Result\n\n# The AI burn book: Decoding the cat fights between Sam Altman, Elon Musk, and Anthropic\n\nJuly 16, 2026\n\nin News\n\nSilicon Valley\u2019s AI CEOs are feuding again.\n\n- The AI industry\u2019s burn book is an increasingly public spectacle.\n- Sam Altman and Elon "
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-16",
+    "topic": "x_posts",
+    "title": "1Password's new Agentic Mode lets Claude log into your accounts without seeing your credentials | ZDNET",
+    "url": "https://www.zdnet.com/article/1password-claude-agentic-mode/",
+    "snippet": "1Password's new Agentic Mode lets Claude log into your accounts without seeing your credentials | ZDNET\n\nX\n\nInnovation\n\n# 1Password's new Agentic Mode lets Claude log into your accounts without seeing your credentials\n\n1Password wants to solve one of AI's biggest practical problems: secure logins. Its Claude integration can enter passwords and MFA codes without exposing credentials to Anthropic or"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-16",
+    "topic": "x_posts",
+    "title": "Airbnb CEO Brian Chesky\u2019s X account was hijacked in an AI slop hack | Fortune",
+    "url": "https://fortune.com/2026/07/16/airbnb-ceo-x-hack-ai-slop-security/",
+    "snippet": "# Airbnb CEO Brian Chesky\u2019s X account was hijacked in an AI slop hack | Fortune\n\nAuthor: Rachel Ventresca\nPublished: 2026-07-16T22:06:30+00:00\nSource: fortune.com (fortune.com)\nLanguage: en\n\n## Story\n\nAirbnb CEO Brian Chesky\u2019s X account was hijacked in an AI slop hack | Fortune\n\nSearch\n\n[Go to Fortune.com homepage](https://fortune.com/)\n\nSubscribe\n\n[Home](https://fortune.com/)\n\n[Latest](https://fo"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-16",
+    "topic": "x_posts",
+    "title": "PwC and OpenAI Launch Agentic Customer Service Solution",
+    "url": "https://www.cxtoday.com/ai-automation-in-cx/pwc-openai-agentic-customer-service/",
+    "snippet": "PwC and OpenAI Launch Agentic Customer Service Solution\n\nWe use essential cookies to make our site work. With your consent, we may also use non-essential cookies to improve user experience and analyze website traffic. By clicking \u201cAccept,\u201d you agree to our website's cookie use as described in our Cookie Policy. You can change your cookie settings at any time by clicking \u201cPreferences.\u201d\n\nPreferences"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-16",
+    "topic": "x_posts",
+    "title": "SpaceXAI Open-Sources Grok Build: Rust Agent Harness, TUI, and Tool Layer Behind Its CLI Code - TECH SPARKING",
+    "url": "https://techsparking.com/spacexai-open-sources-grok-build-rust-agent-harness-tui-and-tool-layer-behind-its-cli-code/",
+    "snippet": "SpaceXAI Open-Sources Grok Build: Rust Agent Harness, TUI, and Tool Layer Behind Its CLI Code - TECH SPARKING\n\nSpaceXAI has open sourced the Grok Buildthe terminal-based AI code agent behind it`grok` The CLI. The source hit GitHub today. Release includes agent harness, TUI, CLI shell, and developer tools under the Apache 2.0 license\n\n## What is Grok Build?\n\nA harnesses scaffolding around the model"
   }
 ]
