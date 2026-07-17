@@ -11264,5 +11264,103 @@
     "title": "SpaceXAI Open-Sources Grok Build: Rust Agent Harness, TUI, and Tool Layer Behind Its CLI Code - TECH SPARKING",
     "url": "https://techsparking.com/spacexai-open-sources-grok-build-rust-agent-harness-tui-and-tool-layer-behind-its-cli-code/",
     "snippet": "SpaceXAI Open-Sources Grok Build: Rust Agent Harness, TUI, and Tool Layer Behind Its CLI Code - TECH SPARKING\n\nSpaceXAI has open sourced the Grok Buildthe terminal-based AI code agent behind it`grok` The CLI. The source hit GitHub today. Release includes agent harness, TUI, CLI shell, and developer tools under the Apache 2.0 license\n\n## What is Grok Build?\n\nA harnesses scaffolding around the model"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-07-17",
+    "headline": "Two open-weight model drops landed on the same day and that's the real story.",
+    "url": "archive/2026-07-17.html",
+    "posts": {
+      "linkedin": [
+        "Two of the biggest open-weight AI models ever built dropped on the same day this week.\n\nMoonshot's Kimi K3 hit 2.8 trillion parameters. Mira Murati's Inkling came out fully open source, her first release since leaving OpenAI.\n\nNeither one is the best model on earth. Both admit it. But both are close enough that \"open source is behind\" stopped being a safe thing to say out loud.\n\nHere's the part that actually matters if you're building anything on AI right now. The tool you can't afford today gets cheap or gets copied in weeks, not years. I used to plan around a 12 month gap. Now I plan around a 2 week one.\n\nWhat are you waiting to get cheaper that's about to just get cheap?",
+        "Meta's Business Agent has been free since July 1. On August 1 it starts costing you per message.\n\nA million businesses already turned it on for free and didn't think twice. That's the move. Test the expensive thing while it's free, then decide with real usage data instead of a sales page.\n\nI see the opposite happen constantly. Someone waits until the tool costs money to try it, then makes a decision based on fear of the bill instead of what the tool actually does for them.\n\nThe no hurts less when you're not emotionally invested in being right about waiting.\n\nIf you've got a client or your own business running message volume through Meta right now, you've got about two weeks to actually learn what this thing does before it costs you to find out.\n\nWhat's the free trial you've been sitting on instead of running?",
+        "Some builders on X this week are making the same point from different angles. Guillermo Rauch and Mitchell Hashimoto both said generic AI tools are beating the built-in chatbox every single product is bolting on right now.\n\nWhy? Because the chatbox is a watered down version of ChatGPT stapled onto something that used to just work. The generic tool comes with your actual context. The branded one comes with a demo.\n\nI think about this every time I see a product add \"Ask AI\" as a feature instead of asking what problem it's actually solving.\n\nAdding AI isn't the win. Solving the thing your product was already good at, faster, is the win.\n\nIf your product was strong before the chatbox, what did the chatbox actually add?"
+      ],
+      "threads": [
+        "Two massive open AI models dropped on the same day this week. One hit 2.8 trillion parameters. The other came from the woman who used to run OpenAI's technical side, and she gave the whole thing away for free.\n\nNeither beats the best closed models yet. But the gap that used to be a year is now measured in weeks.\n\nWhatever you're putting off because \"the good tool is too expensive\" is about to stop being your excuse.",
+        "Meta's AI agent for WhatsApp and Instagram has been free since July 1. Starting August 1 it costs you per message.\n\nA million businesses already turned it on to test it for free before deciding anything.\n\nThat's the actual smart move. Try the expensive thing while it costs nothing, then decide with real data instead of a sales page and a guess.",
+        "Some builders on X made a point this week that stuck with me. Generic AI tools are starting to beat the chatbox every product is bolting onto itself.\n\nMakes sense once you say it out loud. The chatbox is a diluted version of ChatGPT with none of your context. The generic tool shows up with all of it.\n\nAdding AI to something isn't the win. Making the thing you were already good at faster is the win. Different question entirely."
+      ]
+    }
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-17",
+    "topic": "model_releases",
+    "title": "China's Moonshot throws down the gauntlet with Kimi K3, the world's largest open-weights model - SiliconANGLE",
+    "url": "https://siliconangle.com/2026/07/16/chinas-moonshot-throws-gauntlet-kimi-k3-worlds-largest-open-weights-model/",
+    "snippet": "China's Moonshot throws down the gauntlet with Kimi K3, the world's largest open-weights model - SiliconANGLE\n\nSHARE\n\nUPDATED 19:43 EDT / JULY 16 2026\n\nAI\n\n### China\u2019s Moonshot throws down the gauntlet with Kimi K3, the world\u2019s largest open-weights model\n\nChinese artificial intelligence lab Moonshot AI today announced the imminent release of Kimi K3, its latest large language model, and already, i"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-17",
+    "topic": "model_releases",
+    "title": "Moonshot AI Releases Kimi K3: A 2.8 Trillion Parameter Open MoE Model With Kimi Delta Attention and 1M Context - MarkTechPost",
+    "url": "https://www.marktechpost.com/2026/07/16/moonshot-ai-releases-kimi-k3-a-2-8-trillion-parameter-open-moe-model-with-kimi-delta-attention-and-1m-context/",
+    "snippet": "Moonshot AI Releases Kimi K3: A 2.8 Trillion Parameter Open MoE Model With Kimi Delta Attention and 1M Context - MarkTechPost\n\nSearch\n\nPremium Content\n\nRead our exclusive articles\n\nFacebook\n\nInstagram\n\nX\n\nSearch\n\nHome Editors Pick Agentic AI Moonshot AI Releases Kimi K3: A 2.8 Trillion Parameter Open MoE Model...\n\nMoonshot AI just released Kimi K3. It is a 2.8-trillion-parameter model with native "
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-17",
+    "topic": "model_releases",
+    "title": "Mira Murati Drops Her First AI Model After Leaving OpenAI\u2014And It's Fully Open Source - Decrypt",
+    "url": "https://decrypt.co/373671/mira-murati-inkling-ai-model-openai-open-source?amp=1",
+    "snippet": "Mira Murati Drops Her First AI Model After Leaving OpenAI\u2014And It's Fully Open Source - Decrypt\n\nhttps://decrypt.co/login\n\n# Mira Murati Drops Her First AI Model After Leaving OpenAI\u2014And It's Fully Open Source\n\n## Mira Murati's Inkling won't dethrone the best Chinese open-weights models, but it gives Western developers something they haven't yet had.\n\nBy Jose Antonio Lanz\n\n4 min read\n\nJul 16, 2026\n"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-17",
+    "topic": "product_releases",
+    "title": "Roblox launches Build, a mobile tab that turns text prompts into playable games",
+    "url": "https://thenextweb.com/news/roblox-build-mobile-ai-game-creation",
+    "snippet": "Roblox launches Build, a mobile tab that turns text prompts into playable games\n...\nRoblox launched Build, a mobile-first AI creation tab that generates games from text prompts, starting alpha in New Zealand on July 28.\n...\nRoblox announced Build on Wednesday, a new creation tab inside the Roblox mobile app that lets anyone turn a text prompt into a basic playable game without touching Roblox Stud"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-17",
+    "topic": "ai_agents",
+    "title": "Alterion Launches Draco, a Runtime Control Plane for Enterprise AI Agents",
+    "url": "https://www.prnewswire.com/news-releases/alterion-launches-draco-a-runtime-control-plane-for-enterprise-ai-agents-302827818.html",
+    "snippet": "Alterion Launches Draco, a Runtime Control Plane for Enterprise AI Agents\n\nAccessibility Statement Skip Navigation\n\nNew platform gives security, risk, and compliance leaders real-time visibility, governance, and enforced control over autonomous AI agents\u2014without code changes or vendor lock-in.\n\nSAN FRANCISCO, July 16, 2026 /PRNewswire/ -- Alterion, an enterprise platform for governing AI agents in"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-17",
+    "topic": "ai_small_business",
+    "title": "Meta Business Agent Billing Starts Aug 1: Free Test Window Ends in Days",
+    "url": "https://www.techtimes.com/articles/320787/20260716/meta-business-agent-billing-starts-aug-1-free-test-window-ends-days.htm",
+    "snippet": "Meta Business Agent Billing Starts Aug 1: Free Test Window Ends in Days\n\nInstagram instants This photograph shows a set up smart-phone screen displaying the logo of main social media platforms including Instagram, Facebook, LinkedIn, Reddit, Telegram, X, Bluesky, Tiktok and Whatsapp in Saint-Mande, east of Paris, on April 29, 2026. Photo by Martin LELIEVRE / AFP via Getty Images\n\nMeta's AI agent f"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-17",
+    "topic": "ai_small_business",
+    "title": "",
+    "url": "https://www.crv.com/content/ai-agents-for-marketing",
+    "snippet": "# AI Agents for Marketing (2026 Guide)\n\nJuly 16, 2026\n\nWhen a few customers keep coming back, and product feedback starts getting sharper, it's a good sign you're building something people want. At that point, customer acquisition becomes the next system to build. Artificial intelligence (AI) marketing agents can help close that gap, but the category is noisy and most \"agents\" are glorified autoco"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-17",
+    "topic": "ai_labs",
+    "title": "We\u2019re partnering with Screwfix to help the nation's tradespeople nail admin and grow their businesses using AI.",
+    "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/were-partnering-with-screwfix-to-help-the-nations-tradespeople-nail-admin-and-grow-their-businesses-using-ai/",
+    "snippet": "We\u2019re partnering with Screwfix to help the nation's tradespeople nail admin and grow their businesses using AI.\n\n# We\u2019re partnering with Screwfix to help the nation's tradespeople nail admin and grow their businesses using AI.\n\nJul 16, 2026\n\n---\n\nWe\u2019re teaming up with Screwfix, the UK's leading retailer to the trade, to help tradespeople across the country get more from the AI power tools already "
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-17",
+    "topic": "x_posts",
+    "title": "Generic AI Agent Harnesses Outperform Built-In Product Chat Boxes",
+    "url": "https://digg.com/tech/zqa6wfe5",
+    "snippet": "# Generic AI Agent Harnesses Outperform Built-In Product Chat Boxes\n\nPublished: 2026-07-16T16:12:25+00:00\nSource: digg.com (digg.com)\nLanguage: en\n\n## Story\n\n[Back to tech stories](https://digg.com/tech)/TECH\n\n# Generic AI Agent Harnesses Outperform Built-In Product Chat Boxes\n\n[GR](https://digg.com/u/x/rauchg)\n\n[MH](https://digg.com/u/x/mitchellh)\n\n## Combined views\n\n166.5K\n\n2 posts, first seen 1"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-17",
+    "topic": "x_posts",
+    "title": "Rogue Rover: Tony Robbins' AI Bought Robot Dog To 'Merge With' Without Permission | ZeroHedge",
+    "url": "https://www.zerohedge.com/political/rogue-rover-tony-robbins-ai-bought-robot-dog-merge-without-permission",
+    "snippet": "Rogue Rover: Tony Robbins' AI Bought Robot Dog To 'Merge With' Without Permission | ZeroHedge\n\nWSJ Markets\u00b710m ago\n\nFifth Third Profit Boosted by Comerica Acquisition\n\nNo listed company closes Warner Bros acquisition by June 30, 2027\u219312%$211K vol\n\nunusual_whales\u00b724m ago\n\nIran's Foreign Ministry: Iran calls on neighbouring nations in the Persian Gulf to prevent any use of their land, sea, and airsp"
   }
 ]
