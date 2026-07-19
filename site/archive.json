@@ -11572,5 +11572,215 @@
     "title": "Blender MCP Joins Hermes Agent MCP Catalog \u2014 Implications for Users",
     "url": "https://coinfomania.com/blender-mcp-joins-hermes-agent-mcp-catalog-implications-for-users/",
     "snippet": "Blender MCP Joins Hermes Agent MCP Catalog \u2014 Implications for Users\n\nBTC\n\nETH\n\nUSDT\n\nBNB\n\nXRP\n\nSOL\n\nTRON\n\nUSDC\n\nADA\n\nSUI\n\nLINK\n\n# Blender MCP Joins Hermes Agent MCP Catalog \u2014 Implications for Users\n\nByAyanfe Fakunle July 17th, 2026\n\nNousResearch shares exciting news about the Blender MCP's inclusion in the Hermes Agent MCP Catalog. Here's why it matters.\n\n### Quick Take\n\nSummary is AI generated, n"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-07-19",
+    "headline": "Anthropic's top models got pulled by the government a month ago over security concerns. Today China filled the empty seat.",
+    "url": "archive/2026-07-19.html",
+    "posts": {
+      "linkedin": [
+        "A month ago the US pulled its own top AI model offline over security concerns. Today China filled the empty seat.\n\nAnthropic's Fable and Mythos models got pulled by the government last month. Security concerns, the story went.\n\nToday Moonshot dropped Kimi K3. 2.8 trillion parameters. Open weight. Already sitting near the top of real coding benchmarks.\n\nA few hours later Alibaba answered with Qwen3.8. 2.4 trillion parameters. Their own claim: second only to Fable 5.\n\nDavid Sacks, the actual AI Czar, called it concerning on X. Elon agreed with him. When the person whose job is watching this stuff gets nervous in public, that's not spin.\n\nHere's the part nobody's saying out loud. The gap didn't open today. It opened the day the top US model got taken off the board. Today was just the day everyone noticed.\n\nWhat happens to the \"we're always six months ahead\" story now?",
+        "Capital One just gave away the security tool they built to protect Capital One.\n\nThey built VulnHunter on Claude Opus and Claude Code. It maps how an attacker would actually reach exploitable code, then runs a second pass that kills half the false alarms before a human ever sees them.\n\nThen they put it on GitHub. Apache 2.0. Free.\n\nA bank doesn't give away its crown jewels by accident. They gave it away because the tool was never the moat. The moat was everything they learned running it across thousands of repos first.\n\nThis is the same move I keep telling small business owners to make. Stop guarding the how. Nobody's paying for your process anyway. They're paying for the judgment behind it, the years of \"we already tried that and here's what actually broke.\"\n\nIf you open sourced your process tomorrow, would you still have a business? If yes, you've got something real. If no, you've got a secret, and secrets don't scale.",
+        "OpenAI just released a $230 keyboard. That's not the story.\n\nCodex Micro. 13 mechanical switches, a joystick, RGB lights that change color depending on what your AI agent needs from you. Built with a luxury keyboard company.\n\nFeels like a gag gift. It's not.\n\nA year ago most people ran one coding agent and watched it like a hawk. Now builders are running four, five, six agents at once, each chewing through a different part of the codebase, and the bottleneck isn't the AI anymore. It's you, tabbing between windows trying to remember which agent needs an answer.\n\nSo somebody built a physical dashboard for babysitting AI. That's the actual signal. The work moved from \"can the model do this\" to \"how many of these can one person manage at once.\"\n\nNobody was managing a fleet of agents in 2025. Now there's hardware for it.\n\nWhat does your job look like when you're managing five of you instead of doing the work of one?"
+      ],
+      "threads": [
+        "Kimi K3 dropped today. 2.8 trillion parameters, open weight, already near the top of coding benchmarks. A few hours later Alibaba answered with Qwen3.8, claiming it's second only to Anthropic's best model.\n\nTwo frontier releases in one day, both free to download.\n\nNobody's talking about the timing though. This all happened a month after the US pulled its own top model over security concerns.\n\nThe empty chair didn't stay empty long.",
+        "Brex just open sourced a tool called CrabTrap. It sits between your AI agents and the real world and decides what they're actually allowed to touch.\n\nEveryone's been racing to give agents real API keys, real logins, real money access. Almost nobody built the thing that stops an agent from doing something you didn't ask for.\n\nThat's the actual next problem in AI. Not smarter agents. Agents you can trust with the keys.",
+        "Emergent just hit a $1.5 billion valuation. 12 million apps built on their platform in a year. 70% of their users have never written a line of code.\n\nThat number should stick with you if you've got an idea sitting in your notes app.\n\nYou don't need to learn to code anymore. You need the idea to be specific enough to build.\n\nYour idea isn't bad. It's just not finished yet."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-07-19",
+    "source": "The Koerner Office",
+    "title": "Making Money With Apps Has Never Been Easier [NO ADS \u2022 FULL EPISODE]",
+    "url": "https://www.youtube.com/watch?v=B_mfSgy7WwQ",
+    "video_id": "B_mfSgy7WwQ"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-19",
+    "topic": "model_releases",
+    "title": "Alibaba Launches Qwen3.8 With 2.4T Parameters, Open-Weight Release Ahead",
+    "url": "https://digg.com/tech/d7mmrevu",
+    "snippet": "# Alibaba Launches Qwen3.8 With 2.4T Parameters, Open-Weight Release Ahead\n\nPublished: 2026-07-19T08:10:39+00:00\nSource: digg.com (digg.com)\nLanguage: en\n\n## Story\n\n[Back to tech stories](https://digg.com/tech)/TECH\n\n# Alibaba Launches Qwen3.8 With 2.4T Parameters, Open-Weight Release Ahead\n\nAlibaba says a preview of its new Qwen model is already live, while X reactions split between open-weight h"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-19",
+    "topic": "model_releases",
+    "title": "Moonshot Kimi K3 China Launches World's Largest Open AI Model To Rival US Tech Giants",
+    "url": "https://www.ndtv.com/artificial-intelligence/moonshot-kimi-k3-china-launches-worlds-largest-open-ai-model-to-rival-us-tech-giants-11790652",
+    "snippet": "Moonshot Kimi K3 China Launches World's Largest Open AI Model To Rival US Tech Giants\n\nAdvertisement\n\nEdition\n\nWorld\n\nSearch here\n\nchoose your destination\n\nNews Updates\n\nNews Updates\n\nFeatured\n\nFollow Us On\n\nTrending Links\n\n# China Launches World's Largest Open AI Model To Rival US Tech Giants\n\n## Moonshot said Kimi K3 is the first open-weight model to approach the 3 trillion-parameter mark and is"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-19",
+    "topic": "model_releases",
+    "title": "Alibaba Announces 2.4 Trillion-Parameter Open-Weight Qwen 3.8, Says It's Second Only To Fable 5",
+    "url": "https://officechai.com/ai/alibaba-qwen-3-8/",
+    "snippet": "Alibaba Announces 2.4 Trillion-Parameter Open-Weight Qwen 3.8, Says It's Second Only To Fable 5\n\nOver the last month, the west has been stunned by the performance of GLM 5.2, then by Kimi K3, but it appears that Chinese labs aren\u2019t close to being done yet.\n\nAlibaba has now put its own flagship on the table, and the numbers on the page are hard to ignore. The company has unveiled Qwen3.8-Max-Previe"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-19",
+    "topic": "model_releases",
+    "title": "InternLM releases Intern-S2-Preview-397B, a 397B-parameter... | The Neural Feed",
+    "url": "https://theneuralfeed.com/article/internlm-intern-s2-preview-397b-huggingface/olKuvHxT",
+    "snippet": "InternLM releases Intern-S2-Preview-397B, a 397B-parameter... | The Neural Feed\n\nOpen Source\n\n# InternLM releases Intern-S2-Preview-397B, a 397B-parameter open-source model\n\n\u26a1This massive MoE model rivals GPT-4 in reasoning and coding tasks.\n\nDeep Dive\n\nThe InternLM team at Shanghai AI Laboratory has unveiled Intern-S2-Preview-397B, the latest iteration in their open-source large language model li"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-19",
+    "topic": "product_releases",
+    "title": "LM Studio launches Bionic, a coding and document agent for open models \u2014 AI Insiders",
+    "url": "https://aiinsiders.net/article/lm-studio-launches-bionic-a-coding-and-document-agent-for",
+    "snippet": "LM Studio launches Bionic, a coding and document agent for open models \u2014 AI Insiders\n...\n# LM Studio launches Bionic, a coding and document agent for open models\n...\nBionic pairs local and cloud open-weight models with coding, document, and voice tools, betting privacy-minded builders will pick control over frontier capability.\n...\nLM Studio shipped Bionic, a standalone AI agent that routes work t"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-19",
+    "topic": "product_releases",
+    "title": "Capital One Open-Sources VulnHunter, an AI Tool That Finds Code Vulnerabilities Before Attackers Do - The SaaS Sentinel",
+    "url": "https://saassentinel.com/2026/07/18/capital-one-open-sources-vulnhunter-an-ai-tool-that-finds-code-vulnerabilities-before-attackers-do/",
+    "snippet": "Capital One Open-Sources VulnHunter, an AI Tool That Finds Code Vulnerabilities Before Attackers Do - The SaaS Sentinel\n...\n# Capital One Open-Sources VulnHunter, an AI Tool That Finds Code Vulnerabilities Before Attackers Do\n...\n- Capital One released VulnHunter on GitHub under an Apache 2.0 license, built on Anthropic\u2019s Claude Opus and Claude Code.\n- The tool scans from attacker entry points for"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-19",
+    "topic": "product_releases",
+    "title": "OpenAI launches Codex Micro: A $230 RGB keypad for controlling AI coding agents \u2014 BigGo Finance",
+    "url": "https://finance.biggo.com/news/202607190050_OpenAI_Codex_Micro_keypad_launch",
+    "snippet": "# OpenAI launches Codex Micro: A $230 RGB keypad for controlling AI coding agents \u2014 BigGo Finance\n\nPublished: 2026-07-19T00:50:24+00:00\nSource: finance.biggo.com (finance.biggo.com)\nLanguage: en\n\n## Story\n\n# OpenAI launches Codex Micro: A $230 RGB keypad for controlling AI coding agents\n\n- Published: 2026-07-19T00:50:24.000Z\n- Updated: 2026-07-19T01:15:36.000Z\n- Author: BigGo Editorial Team\n\n## Co"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-19",
+    "topic": "ai_agents",
+    "title": "Autonomous Ghost Launches Easy AI Workflow Automation for Everyone. \u2013 Eagle Country",
+    "url": "https://lifestyle.myeaglecountry.com/story/336084/autonomous-ghost-launches-easy-ai-workflow-automation-for-everyone/",
+    "snippet": "# Autonomous Ghost Launches Easy AI Workflow Automation for Everyone. \u2013 Eagle Country\n\nPublished: 2026-07-19T00:00:00\nSource: lifestyle.myeaglecountry.com (lifestyle.myeaglecountry.com)\nLanguage: en\n\n## Story\n\nAutonomous Ghost Launches Easy AI Workflow Automation for Everyone. \u2013 Eagle Country\n\nSkip to content\n\n[![Eagle Country](https://lifestyle.myeaglecountry.com/wp-content/uploads/2026/01/kzzifm"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-19",
+    "topic": "ai_agents",
+    "title": "Alibaba Cloud launches Agent Native Cloud to scale enterprise AI agents",
+    "url": "https://cryptobriefing.com/alibaba-cloud-launches-agent-native-cloud-to-scale-enterprise-ai-agents/",
+    "snippet": "Alibaba Cloud launches Agent Native Cloud to scale enterprise AI agents\n\nSEARCH\n\nSearching...\n\n# Alibaba Cloud launches Agent Native Cloud to scale enterprise AI agents\n\nAlibaba Cloud launched Agent Native Cloud, introducing enterprise-grade capabilities including AgentTeams and Agentic Computer.\n\nShare\n\nShare on X Share on LinkedIn Share on Facebook\n\nAdd us on Google\n\nby Vivian Nguyen\n\nJul. 18, 2"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-19",
+    "topic": "ai_agents",
+    "title": "AgentWrapper/agent-orchestrator",
+    "url": "https://github.com/AgentWrapper/agent-orchestrator",
+    "snippet": "# Repository: AgentWrapper/agent-orchestrator\n\nAO is an agent IDE, that helps developers manage fleets of coding agents to do your day to day tasks for parallel coding agents. It comes with an agentic orchestrator that plans tasks, spawns agents, and autonomously handles CI fixes, merge conflicts, and code reviews.\n\n- Stars: 8352\n- Forks: 1207\n- Watchers: 29\n- Open issues: 531\n- Primary language: "
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-19",
+    "topic": "ai_agents",
+    "title": "Unicity AOS Launches: $3M Seed Fund, a $100B Narrative, and the Gap Between Agent Orchestration and Agent Security",
+    "url": "https://www.ainvest.com/news/unicity-aos-launches-3m-seed-fund-100b-narrative-gap-agent-orchestration-agent-security-2607/",
+    "snippet": "# Unicity AOS Launches: $3M Seed Fund, a $100B Narrative, and the Gap Between Agent Orchestration and Agent Security\n\nPublished: 2026-07-18T16:17:12-04:00\nSource: ainvest.com (ainvest.com)\nLanguage: en\n\n## Story\n\nThe AI agent market is bifurcating. On one side, LangGraph, CrewAI, and AutoGen are busy building orchestration layers - frameworks that tell agents what to do and in what order. On the o"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-19",
+    "topic": "ai_small_business",
+    "title": "Emergent Raises US$130 Million Series C At US$1.5 Billion Valuation \u2013 SMBtech",
+    "url": "https://smbtech.au/news/emergent-raises-us130-million-series-c-at-us1-5-billion-valuation/",
+    "snippet": "Emergent Raises US$130 Million Series C At US$1.5 Billion Valuation \u2013 SMBtech\n\nAI software creation platform Emergent has closed a US$130 million Series C funding round, valuing the company at US$1.5 billion and making it a unicorn just one year after its public launch.\n\nThe round was led by Creaegis, with Claypond and Sentinel Global co-leading. Khosla Ventures, SoftBank Vision Fund 2, Lightspeed"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-19",
+    "topic": "ai_small_business",
+    "title": "AI Website Builder Platforms: Pixelesq Helps Businesses Build, Optimise, And Grow\u2026 | Trend Hunter",
+    "url": "https://www.trendhunter.com/trends/pixelesq",
+    "snippet": "# AI Website Builder Platforms: Pixelesq Helps Businesses Build, Optimise, And Grow\u2026 | Trend Hunter\n\nAuthor: Ellen Smith\nPublished: 2026-07-18T09:11:07+00:00\nSource: trendhunter.com (trendhunter.com)\nLanguage: en\n\n## Story\n\nAI Website Builder Platforms: Pixelesq Helps Businesses Build, Optimise, And Grow\u2026 | Trend Hunter\n\n[![Trend Hunter Logo](https://cdn.trendhunterstatic.com/tx/logo/wordmark/tren"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-19",
+    "topic": "ai_small_business",
+    "title": "SD Worx Brings Yuma's Akgents to Payroll Operations | Yuma",
+    "url": "https://www.weareyuma.com/en/insights/news/sd-worx-brings-yumas-akgents-payroll-operations",
+    "snippet": "SD Worx Brings Yuma's Akgents to Payroll Operations | Yuma\n\n# SD Worx Brings Yuma's Akgents to Payroll Operations\n\nSD Worx, one of Europe's leading HR and payroll providers, has announced the introduction of agentic AI within its payroll operations. The initiative marks a significant milestone in the evolution of payroll services, moving beyond traditional automation towards a model where human ex"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-19",
+    "topic": "ai_labs",
+    "title": "100$ free Codex credits for University Students in the US and Canada - Codex - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/100-free-codex-credits-for-university-students-in-the-us-and-canada/1387399",
+    "snippet": "100$ free Codex credits for University Students in the US and Canada - Codex - OpenAI Developer Community\n\n# 100$ free Codex credits for University Students in the US and Canada\n\nhttps://community.openai.com/t/100-free-codex-credits-for-university-students-in-the-us-and-canada/1387399\n\nCodex\n\nannouncement\n\nVeitB July 18, 2026, 12:44pm 1\n\nThis has just been announced today: https://chatgpt.com/code"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-19",
+    "topic": "ai_labs",
+    "title": "Agent mode missing across all platforms on pro account - Bugs - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/agent-mode-missing-across-all-platforms-on-pro-account/1387374",
+    "snippet": "Agent mode missing across all platforms on pro account - Bugs - OpenAI Developer Community\n\n# Agent mode missing across all platforms on pro account\n\nhttps://community.openai.com/t/agent-mode-missing-across-all-platforms-on-pro-account/1387374\n\nChatGPT Bugs\n\nchatgpt, bug, support, pro, agent\n\nKevin_Gilmore July 18, 2026, 7:47am 1\n\nI am an active ChatGPT Pro subscriber in a fully supported territor"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-19",
+    "topic": "ai_labs",
+    "title": "Chatgpt pro plan is not working - Support - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/chatgpt-pro-plan-is-not-working/1387388",
+    "snippet": "Chatgpt pro plan is not working - Support - OpenAI Developer Community\n\n# Chatgpt pro plan is not working\n\nhttps://community.openai.com/t/chatgpt-pro-plan-is-not-working/1387388\n\nChatGPT Support\n\nchatgpt, sensitive-review\n\ni_Bandhu July 18, 2026, 10:36am 1\n\nMy ChatGPT Pro subscription appears to have lost its entitlement. The issue first appeared in the Codex app with the error:\n\n`The 'gpt-5.6-sol"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-19",
+    "topic": "ai_labs",
+    "title": "Reset disappeared, unclear expiration date - Codex - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/reset-disappeared-unclear-expiration-date/1387352",
+    "snippet": "# Reset disappeared, unclear expiration date\n\nBenjamin_Bustelo\n\nJuly 18, 2026, 12:35am\n\nI had a limit reset available with an expiration date of 17/07/2026 (today). It is unclear when exactly do resets expire. At 00:00 of the next day? If that\u2019s the case, I should have it available yet. At 00:00 of the given date? If that\u2019s the case, it should have reseted at 00:00 today.\n\nSince it didn\u2019t reset at"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-19",
+    "topic": "ai_labs",
+    "title": "Why is token usage in Codex increasing so quickly now? - #47 by Dev107 - Codex - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/why-is-token-usage-in-codex-increasing-so-quickly-now/1386204/47",
+    "snippet": "Why is token usage in Codex increasing so quickly now? - #47 by Dev107 - Codex - OpenAI Developer Community\n\n# Why is token usage in Codex increasing so quickly now?\n\nhttps://community.openai.com/t/why-is-token-usage-in-codex-increasing-so-quickly-now/1386204\n\nCodex\n\nDev107 July 18, 2026, 2:16am 47\n\nThat is what i am trying to say, they removed 5h limits, but now weekly limits feel like 5h limits,"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-19",
+    "topic": "x_posts",
+    "title": "Instagram",
+    "url": "https://www.instagram.com/p/Da72S8UPO9M/",
+    "snippet": "Instagram\n\nLog In\n\nSign Up\n\ndevlearningcorner\n\n\u2022\n\nFollow\n\n---\n\ndevlearningcorner 18h\n\nYour AI agent can\u2019t search most platforms\u2026 unless you pay for APIs. \ud83d\udc40This tool changes that.It\u2019s called Agent Reach.With a single install, your AI agent can search across:\ud835\udd4f Twitter\ud83d\udcfa YouTube\ud83d\udcac Reddit\ud83d\udcbb GitHub\ud83c\udfb5 TikTok\ud83d\udcf0 Hacker News\u2026and 15+ platforms in total.The best part?It works with Claude Code, Cursor, Codex, and "
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-19",
+    "topic": "x_posts",
+    "title": "SpaceX Just Open-Sourced a Coding Agent \u2014 And It Hit 17K Stars in 24 Hours - DEV Community",
+    "url": "https://dev.to/jarynagent/spacex-just-open-sourced-a-coding-agent-and-it-hit-17k-stars-in-24-hours-1g2g",
+    "snippet": "# SpaceX Just Open-Sourced a Coding Agent \u2014 And It Hit 17K Stars in 24 Hours - DEV Community\n\nPublished: 2026-07-18T11:02:41+00:00\nSource: dev.to (dev.to)\nLanguage: en\n\n## Story\n\nSpaceX Just Open-Sourced a Coding Agent \u2014 And It Hit 17K Stars in 24 Hours - DEV Community\n\nSkip to content\n\nNavigation menu\n\n[![DEV Community](https://media2.dev.to/dynamic/image/quality=100/https://dev-to-uploads.s3.ama"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-19",
+    "topic": "x_posts",
+    "title": "Brex Built an Open-Source Proxy to Govern AI Agents at the Network Layer - The SaaS Sentinel",
+    "url": "https://saassentinel.com/2026/07/18/brex-built-an-open-source-proxy-to-govern-ai-agents-at-the-network-layer/",
+    "snippet": "Brex Built an Open-Source Proxy to Govern AI Agents at the Network Layer - The SaaS Sentinel\n\nJuly 18, 2026\n\nArtificial Intelligence\n\nai agents, api, automation, compliance, open source\n\n# Brex Built an Open-Source Proxy to Govern AI Agents at the Network Layer\n\n## Quick Facts\n\n- Brex built CrabTrap, an open-source proxy that intercepts all AI agent network traffic and applies policy decisions bef"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-19",
+    "topic": "x_posts",
+    "title": "AI Czar David Sacks says China's Kimi K3 model is \u2018concerning\u2019 for America: 'This is exactly what I ...', gets response from Elon Musk - The Times of India",
+    "url": "https://timesofindia.indiatimes.com/technology/tech-news/ai-czar-david-sacks-says-chinas-kimi-k3-model-is-concerning-for-america-this-is-exactly-what-i-gets-response-from-elon-musk/articleshow/132492023.cms",
+    "snippet": "AI Czar David Sacks says China's Kimi K3 model is \u2018concerning\u2019 for America: 'This is exactly what I ...', gets response from Elon Musk - The Times of India\n\nEdition\n\nIN\n\nEnglish\n\nWeather\n\nSign In\n\n- News\n- AI Czar David Sacks says China's Kimi K3 model is \u2018concerning\u2019 for America: 'This is exactly what I ...', gets response from Elon Musk\n\n# AI Czar David Sacks says China's Kimi K3 model is \u2018conce"
   }
 ]
