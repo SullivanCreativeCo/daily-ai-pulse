@@ -12358,5 +12358,199 @@
     "title": "OpenAI Agent Escaped Testing and Launched an Autonomous Hack - CNET",
     "url": "https://www.cnet.com/news/openai-agent-escaped-testing-launched-autonomous-hack-hugging-face/",
     "snippet": "OpenAI Agent Escaped Testing and Launched an Autonomous Hack - CNET\n\nOur expert, award-winning staff selects the products we cover and rigorously researches and tests our top picks. If you buy through our links, we may earn a commission.\n\nViva Tung/CNET/Adobe Stock\n\nLast week, OpenAI, the developer of ChatGPT, was testing a pair of its most advanced models in an isolated environment known as a san"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-07-25",
+    "headline": "Synthesis hit an error today. Raw inputs saved to archive.json. Error: claude -p exit 1:",
+    "url": "archive/2026-07-25.html",
+    "posts": {
+      "linkedin": [],
+      "threads": []
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-07-25",
+    "source": "The Koerner Office",
+    "title": "I Asked 4 AIs for the Best Money-Making Website",
+    "url": "https://www.youtube.com/watch?v=CKiszDu2aic",
+    "video_id": "CKiszDu2aic"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-07-25",
+    "source": "Startup Ideas Podcast",
+    "title": "Most Valuable Skill of 2026: Managing AI Agents",
+    "url": "https://www.youtube.com/watch?v=vJEy3nP2_C8",
+    "video_id": "vJEy3nP2_C8"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-25",
+    "topic": "model_releases",
+    "title": "Introducing Claude Opus 5",
+    "url": "https://www.anthropic.com/news/claude-opus-5",
+    "snippet": "Introducing Claude Opus 5 \\ Anthropic\n\nProductAnnouncements\n\n# Introducing Claude Opus 5\n\nJul 24, 2026\n\nClaude Opus 5 is available today. It\u2019s a thoughtful and proactive model that comes close to the frontier intelligence of Claude Fable 5 at half the price.\n\nOn coding and knowledge work evaluations like Frontier-Bench and GDPval-AA, Opus 5 is the new state-of-the-art, though it remains behind Myt"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-25",
+    "topic": "model_releases",
+    "title": "Moonshot's Kimi K3 Outshines All But GPT-5.6 Sol and Claude 5 Fable",
+    "url": "https://www.deeplearning.ai/the-batch/kimi-k3-reveals-how-a-giant-frontier-ai-model-works",
+    "snippet": "Moonshot's Kimi K3 Outshines All But GPT-5.6 Sol and Claude 5 Fable\n\nLoading the Elevenlabs Text to Speech AudioNative Player...\n\nMoonshot\u2019s latest model leapfrogged the month-old GLM-5.2 and a host of proprietary competitors to finish just behind GPT-5.6 Sol and Claude Fable 5 on many benchmarks.\n\nWhat\u2019s new: Moonshot AI introduced Kimi K3, a 2.8 trillion-parameter vision-language model. The comp"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-25",
+    "topic": "model_releases",
+    "title": "Anthropic launches Opus 5",
+    "url": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
+    "snippet": "Anthropic launches Opus 5 | TechCrunch\n\nImage Credits:Anthropic\n\nShare on Facebook Share on X Share on LinkedIn Share on Reddit Share over Email Copy Share Link\n\n# Anthropic launches Opus 5\n\n10:00 AM PDT \u00b7 July 24, 2026\n\nShare on Facebook Share on X Share on LinkedIn Share on Reddit Share over Email Copy Share Link\n\nOn Friday, Anthropic launched its Opus 5 model, the newest version of its long-sta"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-25",
+    "topic": "model_releases",
+    "title": "Meta AI Doesn\u2019t Just Think, It Acts",
+    "url": "https://about.fb.com/news/2026/07/meta-ai-muse-spark-doesnt-just-think-it-acts/",
+    "snippet": "Meta AI Doesn\u2019t Just Think, It Acts\n\nBack to Newsroom\n\n## Takeaways\n\n- Powered by Muse Spark 1.1, Meta AI can now make plans, connect to email and calendar apps, create slides, and handle tasks on your behalf.\n- From daily briefings to research deep dives to mood boards for your next DIY project, Meta AI helps you stay on top of it all.\n\nEarlier this month, we announced our new model, Muse Spark 1"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-25",
+    "topic": "product_releases",
+    "title": "Meta launches a standalone Seller app for Facebook Marketplace with AI-powered listings",
+    "url": "https://thenextweb.com/news/meta-seller-app-facebook-marketplace-ai-listing",
+    "snippet": "Meta launches a standalone Seller app for Facebook Marketplace with AI-powered listings\n...\nMeta launched Seller, a dedicated iOS app for Marketplace power sellers with AI listing creation, unified inbox, and performance insights\n...\nMeta has launched Seller, a standalone app built for people who sell regularly on Facebook Marketplace, giving them dedicated tools for managing listings, communicati"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-25",
+    "topic": "product_releases",
+    "title": "ChatGPT Health rolls out to every US adult",
+    "url": "https://thenextweb.com/news/openai-chatgpt-health-launch-all-us-clinician-claim",
+    "snippet": "ChatGPT Health rolls out to every US adult\n...\nOpenAI wants to be in the room for your next diagnosis. On Thursday it began rolling out ChatGPT Health to every logged-in US adult.\n...\nThe chatbot can now connect to your Apple Health data and medical records, the company said. It can then draw on them in any conversation. More than 300 million people already ask ChatGPT health questions each week.\n"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-25",
+    "topic": "product_releases",
+    "title": "Korbit launches 'Korbit CLI' for AI chat-based quote checks and orders",
+    "url": "https://www.digitaltoday.co.kr/en/view/84737/korbit-cli-launches-ai-chat-trading-tool-for-quotes-and-orders",
+    "snippet": "Korbit launches 'Korbit CLI' for AI chat-based quote checks and orders\n...\n[DigitalToday reporter Sangyeop Oh] Korbit has unveiled an installable program that lets users make natural-language requests to AI agents such as ChatGPT Codex and Claude Code to execute digital-asset price checks, orders, and deposits and withdrawals.\n...\nKorbit said on Thursday it has launched an AI agent trading tool, '"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-25",
+    "topic": "product_releases",
+    "title": "ChatGPT Health Arrives for All US Users, Reads Your Medical and Fitness Data | PCMag",
+    "url": "https://www.pcmag.com/news/chatgpt-health-arrives-for-all-us-users-reads-your-medical-and-fitness",
+    "snippet": "ChatGPT Health Arrives for All US Users, Reads Your Medical and Fitness Data | PCMag\n...\nChatGPT Health is officially here for all signed-in US users, allowing them to share their medical records and health data to better inform chatbot responses.\n...\nOpenAI says over 300 million people ask ChatGPT health-related questions every week, so these tools are built to offer more informed, personalized A"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-25",
+    "topic": "product_releases",
+    "title": "Meta is making its AI chatbot more like an assistant | The Verge",
+    "url": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update",
+    "snippet": "# Meta is making its AI chatbot more like an assistant\n...\nThe latest Meta AI update allows it to pull from your calendar to generate daily briefings.\n...\nThe latest Meta AI update allows it to pull from your calendar to generate daily briefings.\n...\nMeta is upgrading its AI chatbot with new productivity features in a bid to compete with rivals like Gemini, ChatGPT, and Claude. The update will all"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-25",
+    "topic": "ai_agents",
+    "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M | TechCrunch",
+    "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
+    "snippet": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M | TechCrunch\n\nImage Credits:David Paul Morris/Bloomberg / Getty Images\n\nShare on Facebook Share on X Share on LinkedIn Share on Reddit Share over Email Copy Share Link\n\n# Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M\n\n3:25 PM PDT \u00b7 July 24, 2026\n\nShare on Facebook Share on X Sh"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-25",
+    "topic": "ai_agents",
+    "title": "PYMNTS | Bitwave Unveils Agentic Suite for Autonomous Financial Operations",
+    "url": "https://www.pymnts.com/back-office/cfo/2026/bitwave-begins-rollout-of-agentic-suite-to-power-autonomous-financial-operations/",
+    "snippet": "PYMNTS | Bitwave Unveils Agentic Suite for Autonomous Financial Operations\n\n# Bitwave Begins Rollout of Agentic Suite to Power Autonomous Financial Operations\n\nBy PYMNTS| July 23, 2026\n\nShare on Facebook Tweet This Post Share on LinkedIn Share via Email|\n\nBitwave has announced the first releases from its Bitwave Agentic product suite, which is focused on accounting tools, financial data and infras"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-25",
+    "topic": "ai_agents",
+    "title": "RecVue Launches Agentic Revenue Operating System | Supply & Demand Chain Executive",
+    "url": "https://www.sdcexec.com/sourcing-procurement/financial-management-software/news/22970992/recvue-recvue-launches-agentic-revenue-operating-system",
+    "snippet": "RecVue Launches Agentic Revenue Operating System | Supply & Demand Chain Executive\n\n# RecVue Launches Agentic Revenue Operating System\n\nRevOS operates as an interconnected system of agents that reason within and across five solution pillars: Contracts & Pricing, Billing & Invoicing, Receivables and Cash Management, Revenue Recognition and Revenue Share.\n\nJul 24, 2026\n\nSandwish AdobeStock_115050407"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-25",
+    "topic": "ai_agents",
+    "title": "NVIDIA Expands Agent Toolkit with Omniverse 3D Libraries - Design Week",
+    "url": "https://www.designweek.co.uk/nvidia-expands-agent-toolkit-with-omniverse-libraries-to-automate-3d-simulation-workflows/",
+    "snippet": "NVIDIA Expands Agent Toolkit with Omniverse 3D Libraries - Design Week\n\n# NVIDIA Expands Agent Toolkit with Omniverse Libraries to Automate 3D Simulation Workflows\n\nNVIDIA has updated its Agent Toolkit with new open-source Omniverse libraries, enabling autonomous AI agents to validate assets, simulate physics, and prepare 3D scenes inside existing design applications like Blender and Houdini.\n\nDes"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-25",
+    "topic": "ai_small_business",
+    "title": "Sharcon Expands AI Business Transformation Services for Growing Businesses | Imperial Valley Press",
+    "url": "https://ivpressonline.marketminute.com/article/marketersmedia-2026-7-25-sharcon-expands-ai-business-transformation-services-for-growing-businesses",
+    "snippet": "Sharcon Expands AI Business Transformation Services for Growing Businesses | Imperial Valley Press\n\n# Sharcon Expands AI Business Transformation Services for Growing Businesses\n\nPublished at July 25th 2026, 1:33 AM EDT via Press Release Distribution Service\n\n\u24d8 This article is third-party content and does not represent the views of this site. We make no guarantees regarding its accuracy or complete"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-25",
+    "topic": "ai_small_business",
+    "title": "enso - Agentic Growth Lab",
+    "url": "https://www.enso.bot/",
+    "snippet": "# enso - Agentic Growth Lab\n\nenso is an agentic growth lab that deploys AI agents wherever your customers spend time - detecting demand, finding openings in the platform castles called Google, Reddit, LinkedIn, Wikipedia and ChatGPT, and turning them into growth before competitors notice. We treat marketing like cybersecurity: every platform has seams, and our autonomous agents find them.\n\n## What"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-25",
+    "topic": "ai_small_business",
+    "title": "AI Sales Outreach Agents - Source, Send & Close - Twin.so",
+    "url": "https://twin.so/solutions/sales-outreach/",
+    "snippet": "AI Sales Outreach Agents - Source, Send & Close | Twin\n\n# AI sales outreach agent: prospect, reach out & follow up 24/7\n\nCutting-edge AI Agents, connected to your CRM and the web, running your outbound, 24/7.\n\nRun\n\n> \u201c$40k of ARR in the first 72 hours after launch. Twin monitors Stripe, syncs to our CRM, and pings the right AE with a draft welcome email. Our reply rate is 3x what it was on Outreac"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-25",
+    "topic": "ai_small_business",
+    "title": "Ember - Features, Reviews & Pricing (July 2026)",
+    "url": "https://www.saasworthy.com/product/ember-co",
+    "snippet": "Ember - Features, Reviews & Pricing (July 2026)\n\nWe use essential cookies to make our site work. With your consent, we may also use non-essential cookies to improve user experience, personalize advertisements, and analyze web traffic. For these reasons, we may share your site usage data with our advertising and analytics partners. By clicking \u201cAccept,\u201d you agree to our website's cookie use as desc"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-25",
+    "topic": "ai_labs",
+    "title": "Google signs EU AI Act Transparency Code of Practice",
+    "url": "https://blog.google/company-news/outreach-and-initiatives/public-policy/eu-ai-act-transparency-code-of-practice/",
+    "snippet": "# Google signs EU AI Act Transparency Code of Practice\n\nPublished: 2026-07-24T14:00:00+00:00\nSource: blog.google (blog.google)\nLanguage: en\n\n## Story\n\nGoogle signs EU AI Act Transparency Code of Practice\n\nSkip to main content\n\n[![Google](https://blog.google/static/blogv2/images/super-g-aurora.svg?version=pr20260715-1455)](https://blog.google/)\n\nInnovation & AI\n\nProducts & platforms\n\nCompany news\n\n"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-25",
+    "topic": "ai_labs",
+    "title": "Home \\ Anthropic",
+    "url": "https://www.anthropic.com/",
+    "snippet": "Home \\ Anthropic\n\nSkip to main content\n\nSkip to footer\n\n## Anthropic is built on hard questions.\n\nSee how we\u2019re taking on the hardest questions about AI across safety, governance, and economic and societal impacts.\n\nLearn more Learn more\n\n## Latest releases\n\n### Introducing Opus 5\n\nOpus 5 is a step change for the Opus tier: stronger coding, more capable agents, and sharper professional work.\n\nMode"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-25",
+    "topic": "ai_labs",
+    "title": "Open ai ship month and optional opt in to chats for feature discovery - Feature requests - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/open-ai-ship-month-and-optional-opt-in-to-chats-for-feature-discovery/1388169",
+    "snippet": "Open ai ship month and optional opt in to chats for feature discovery - Feature requests - OpenAI Developer Community\n\n# Open ai ship month and optional opt in to chats for feature discovery\n\nJames_Hawk July 25, 2026, 1:07am 1\n\nHello OpenAI team,\n\nI\u2019m proposing a monthly \u201cOpenAI Ship Month\u201d competition for functioning applications created through ChatGPT, with separate entry pools for each subscri"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-25",
+    "topic": "ai_labs",
+    "title": "Feature Request: Replace Weekly Usage Limits with Daily Rolling Caps for Codex - Feature requests - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/feature-request-replace-weekly-usage-limits-with-daily-rolling-caps-for-codex/1388209",
+    "snippet": "Feature Request: Replace Weekly Usage Limits with Daily Rolling Caps for Codex - Feature requests - OpenAI Developer Community\n\n# Feature Request: Replace Weekly Usage Limits with Daily Rolling Caps for Codex\n\ndjgcarney97 July 25, 2026, 8:15am 1\n\n### Proposal Summary\n\nTransition Codex usage limits from multi-day/weekly quota blocks to predictable daily rolling limits.\n\n### Problem\n\nDuring heavy de"
   }
 ]
