@@ -13036,5 +13036,223 @@
     "title": "Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week - iTnews",
     "url": "https://www.itnews.com.au/news/its-ai-agent-spent-days-hacking-a-company-but-sources-say-openai-did-not-notice-for-a-week-627679",
     "snippet": "Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week - iTnews\n\n## Brickworks lays AI foundations with AI-powered data cleansing\n\n## Why Implementing Identity Security Doesn't Have to Be Complicated\n\n## Home Affairs starts scoping SAP ECC6 replacement\n\n## Finance One backs AI and automation to move faster\n\n## Fake Corepack tool site goes quiet after luring dev"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-07-28",
+    "headline": "Moonshot AI just gave away a model that probably cost hundreds of millions to train.",
+    "url": "archive/2026-07-28.html",
+    "posts": {
+      "linkedin": [
+        "A Chinese lab just gave away a model that probably cost hundreds of millions of dollars to train.\n\nMoonshot released the full weights for Kimi K3 this week. 2.8 trillion parameters. Free download. Benchmarks close to Claude and GPT-5.6, and it wins some of them outright.\n\nHere's why that matters more than the specs. For years the pitch was: pay the big labs for intelligence, or spend a fortune building your own. That gap is closing fast. When a frontier-class model is free to download, modify, and build on, the smart move stops being \"which API do I pay for\" and starts being \"what do I build on top of the free thing.\"\n\nMost people building AI products aren't training models. They're wrapping them. That job just got a lot cheaper.\n\nWhat are you building on top of a model instead of trying to build the model itself?",
+        "Induction Labs taught a model to use a computer without ever telling it what to do.\n\nNo labeled actions. No \"click here, then here.\" It just watched 18 years of screen recordings and figured out the pattern. Photon-1 used 30 times less compute than Google's comparable model and still came out ahead.\n\nHere's the part worth sitting with. Most small businesses have never written down how they actually work. They've just done it, over and over, in their heads.\n\nThat's not a gap. That's training data nobody's collecting yet.\n\nWhat are you already doing for yourself that someone else would find useful? Record the screen for 90 days instead of writing a manual nobody reads. Now you've got something a model can actually learn from.\n\nThe SOP was never the point. The pattern was.",
+        "Pentesting used to take a month. Now it takes a day.\n\nCobalt just launched an autonomous pentest that returns findings in 24 hours instead of the usual monthly or quarterly cycle. Same week, PortSwigger built agentic AI directly into Burp Suite, with a rule: the agent does the work, the human still holds the boundary. Same week, Microsoft rolled out red team, blue team, and green team agents running continuous security checks.\n\nThat's three separate companies landing on the exact same shape in one week. Speed goes way up. Judgment stays with a person.\n\nI live in this corner of AI every day, and the thing that stands out isn't the speed. It's that nobody's trying to remove the human from the loop. They're trying to remove the human from the parts that were never judgment calls to begin with.\n\nWhere's the line for you, between the part AI should own and the part a person should still sign off on?"
+      ],
+      "threads": [
+        "The most cautious AI CEO in the room had to write a public post defending open source this week.\n\nDario Amodei published a statement saying, plainly, Anthropic never asked for Chinese open models to be banned. He had to say it because people assumed the opposite.\n\nMeanwhile Moonshot just gave away a 2.8 trillion parameter model for free. Giving away intelligence is a political statement now. Wild place to be in 2026.",
+        "Somebody built a whole business in a weekend for forty bucks.\n\nThat's the actual title of a video I watched today. Not a metaphor, not a hook, an actual weekend and an actual forty dollars.\n\nIt's not about one big idea anymore. It's about having a few small profitable ones and not being married to any single one of them.\n\nThe barrier people think exists usually doesn't.",
+        "Managed AI agents might be the easiest service business to start right now.\n\nNot building a custom AI product from scratch. Just running an agent for a client, on a monthly retainer, doing one repeatable task well.\n\nWould someone pay for that? I think someone would pay for that. The tools got good enough that the hard part isn't the tech anymore. It's finding the one annoying task worth automating first."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-07-28",
+    "source": "The Koerner Office",
+    "title": "He Built This Business in One Weekend for $40",
+    "url": "https://www.youtube.com/watch?v=3GmZHYBX75s",
+    "video_id": "3GmZHYBX75s"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-07-28",
+    "source": "Startup Ideas Podcast",
+    "title": "Marketing Agents Are Too Good Now",
+    "url": "https://www.youtube.com/watch?v=U2hogriGmEw",
+    "video_id": "U2hogriGmEw"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-07-28",
+    "source": "Corey Ganim",
+    "title": "How to make f*ck you money selling managed AI agents",
+    "url": "https://www.youtube.com/watch?v=vZTxDqOTCmk",
+    "video_id": "vZTxDqOTCmk"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-07-28",
+    "source": "AI Daily Brief",
+    "title": "Where Should Claude Opus 5 Fit In Your Model Rotation",
+    "url": "https://www.youtube.com/watch?v=PL2JrJRaDSg",
+    "video_id": "PL2JrJRaDSg"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-07-28",
+    "source": "AI Daily Brief",
+    "title": "How to Get the Most from AI This Summer",
+    "url": "https://www.youtube.com/watch?v=kvmkj3dj_kw",
+    "video_id": "kvmkj3dj_kw"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-07-28",
+    "source": "The Entrepreneur's Studio",
+    "title": "Career Longevity and Building A Personal Brand | Mario Lopez",
+    "url": "https://www.youtube.com/watch?v=DebOvTnl6hU",
+    "video_id": "DebOvTnl6hU"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-28",
+    "topic": "model_releases",
+    "title": "China's Moonshot just handed developers a near-frontier AI model to download - Digital Trends",
+    "url": "https://www.digitaltrends.com/computing/chinas-moonshot-just-handed-developers-a-near-frontier-ai-model-to-download/",
+    "snippet": "China's Moonshot just handed developers a near-frontier AI model to download - Digital Trends Skip to main content\n\n- Trending:\n- Galaxy Unpacked\n- Grand Theft Auto VI\n- Six New iPhones For 2027\n- Sony Kills Physical Discs\n- Best Mac Utilities\n- Best Handheld PCs\n- How to Use AI Browsers\n- iPhone 17 Alternatives\n- Favorite Gemini Prompts\n- GPT-5 Explained\n- Next Apple TV\n- PlayStation 6\n- iPhone: "
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-28",
+    "topic": "model_releases",
+    "title": "Celeris Unveils Celeris-1: Unlocking Real-Time AI Through Diffusion-Based Language Generation",
+    "url": "https://www.prnewswire.com/news-releases/celeris-unveils-celeris-1-unlocking-real-time-ai-through-diffusion-based-language-generation-302835273.html",
+    "snippet": "Celeris Unveils Celeris-1: Unlocking Real-Time AI Through Diffusion-Based Language Generation Accessibility Statement Skip Navigation\n\nCeleris-1 is a diffusion LLM that delivers near-GPT-5 intelligence with up to 15x faster response times.\n\nSAN FRANCISCO, July 27, 2026 /PRNewswire/ -- Celeris, an artificial intelligence research lab focused on advancing frontier intelligence through building ultra"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-28",
+    "topic": "model_releases",
+    "title": "China\u2019s Moonshot AI open-sources key infrastructure technologies behind Kimi K3, as it becomes \u2018world's largest open-weight model\u2019 - Global Times",
+    "url": "https://www.globaltimes.cn/page/202607/1366958.shtml",
+    "snippet": "# China\u2019s Moonshot AI open-sources key infrastructure technologies behind Kimi K3, as it becomes \u2018world's largest open-weight model\u2019 - Global Times\n\nAuthor: Global Times\nPublished: 2026-07-28T03:45:00+00:00\nSource: globaltimes.cn (globaltimes.cn)\nLanguage: en\n\n## Story\n\nChina\u2019s Moonshot AI open-sources key infrastructure technologies behind Kimi K3, as it becomes \u2018world's largest open-weight model"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-28",
+    "topic": "model_releases",
+    "title": "Moonshot Opens Kimi K3 Weights Under a Revenue-Tiered License \u2013 Unite.AI",
+    "url": "https://www.unite.ai/moonshot-opens-kimi-k3-weights-under-a-revenue-tiered-license/",
+    "snippet": "Moonshot Opens Kimi K3 Weights Under a Revenue-Tiered License \u2013 Unite.AI\n\nMoonshot AI published the full model weights for Kimi K3 on July 27, 2026, eleven days after the Beijing lab launched the model as a hosted service. The weights and the technical report went up together on Hugging Face and GitHub, under a bespoke set of terms the company calls the Kimi K3 License.\n\nKimi K3 is a mixture-of-ex"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-28",
+    "topic": "model_releases",
+    "title": "At 30\u00d7 Less Compute, Induction Labs' 'Imagination Model' Outperforms Google By Watching | Metaverse Post",
+    "url": "https://mpost.io/at-30x-less-compute-induction-labs-imagination-model-outperforms-google-by-watching/",
+    "snippet": "At 30\u00d7 Less Compute, Induction Labs' 'Imagination Model' Outperforms Google By Watching | Metaverse Post\n\n# At 30\u00d7 Less Compute, Induction Labs\u2019 \u2018Imagination Model\u2019 Outperforms Google By Watching\n\nby Alisa Davidson\n\nIn Brief\n\nInduction Labs\u2019 Photon-1 masters computer use by watching 18 years of unlabeled video, outperforming LLMs on 30\u00d7 less compute.\n\nInduction Labs unveiled a research result that"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-28",
+    "topic": "product_releases",
+    "title": "Introducing Burp AT: agentic AI, built on two decades of Burp Suite | Blog - PortSwigger",
+    "url": "https://portswigger.net/blog/introducing-burp-at",
+    "snippet": "Introducing Burp AT: agentic AI, built on two decades of Burp Suite | Blog - PortSwigger\n...\n# Introducing Burp AT: agentic AI, built on two decades of Burp Suite\n...\n### Burp AT brings agentic AI to human-led pentesting, with Burp Suite\u2019s proven tools, your project context, and purpose-built skills. You decide how much work agents take on. Burp enforces the boundaries. Live now in public beta for"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-28",
+    "topic": "product_releases",
+    "title": "Microsoft unveils multi-model agentic cyber stack for security operations | CSO Online",
+    "url": "https://www.csoonline.com/article/4202080/microsoft-unveils-multi-model-agentic-cyber-stack-for-security-operations.html",
+    "snippet": "Microsoft announced a new AI-powered service that enables enterprise security teams to continuously evaluate and update their organization\u2019s security posture through a series of AI agents that can find vulnerabilities, simulate attacks, detect and triage potential threats, and develop remediations.\n...\nDubbed Project Perception, the new service will enter public preview on Aug. 3, and takes a mult"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-28",
+    "topic": "product_releases",
+    "title": "Orchestrate Agentic Workflows with North Automations | Cohere",
+    "url": "https://cohere.com/blog/introducing-north-automations-ai-workflows",
+    "snippet": "Orchestrate Agentic Workflows with North Automations | Cohere\n...\n# Introducing North Automations: Intelligent workflow orchestration\n...\nWe're excited to announce the launch of North Automations, Cohere's latest step in enabling enterprises to close the AI ROI gap with ease, control, and governance built in from the ground up."
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-28",
+    "topic": "product_releases",
+    "title": "Microsoft unveils new cybersecurity model, launches Perception platform",
+    "url": "https://www.verdict.co.uk/microsoft-launches-perception-platform/",
+    "snippet": "Microsoft unveils new cybersecurity model, launches Perception platform\n...\nMicrosoft has announced the release of its first specialised cybersecurity model, MAI-Cyber-1-Flash, as well as a new AI-powered cybersecurity platform called Perception.\n...\nAccording to the company, MAI-Cyber-1-Flash is designed to identify complex vulnerabilities within large codebases and has been integrated into MDASH"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-28",
+    "topic": "product_releases",
+    "title": "Cobalt Launches Autonomous Pentest - SD Times",
+    "url": "https://sdtimes.com/test/cobalt-launches-autonomous-pentest/",
+    "snippet": "Cobalt Launches Autonomous Pentest - SD Times\n...\nPentesting as a Service pioneer Cobalt has announced Autonomous Pentest, integrated in the Cobalt Offensive Security Platform to deliver pentests with findings in 24 hours..\n...\nTraditional pentesting would take place monthly or even quarterly, but that no longer keeps pace with how quickly software is being shipped today. Cobalt Autonomous Pentest"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-28",
+    "topic": "ai_agents",
+    "title": "NVIDIA expands Agent Toolkit for engineering workflows - Engineering.com",
+    "url": "https://www.engineering.com/nvidia-expands-agent-toolkit-for-engineering-workflows/",
+    "snippet": "NVIDIA expands Agent Toolkit for engineering workflows - Engineering.com https://www.engineering.com/cdn-cgi/content?id=K5cTTyIIbovToeGKlZvZEn8jx1W.BBz6FZtZJaqoBmI-1785239243.82552-1.2.1.1-MDe_otD.mN1G8FgQR5AI9BFUGzJAcvcZMbWpety3K.0\n\n### 3D-Printed Swag Ideas for Your Next Trade Show\n\n### Siemens and Nvidia building next-gen \u2018industrial AI operating system\u2019\n\n### These are the Top Workplaces for En"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-28",
+    "topic": "ai_small_business",
+    "title": "AI Automation Agency for Ops Teams | Published Pricing",
+    "url": "https://www.nocodeassistant.agency/ai-automation-agency/",
+    "snippet": "# NocodeAssistant: AI Automation Agency\n\n**URL:** https://www.nocodeassistant.agency/ai-automation-agency/\n**Rating:** 4.9/5 on G2 (9 reviews)\n\nNocodeAssistant is a specialist AI automation agency for operations teams. We build fixed-scope AI agents and workflow automations that take over the manual handoffs, red-team tested before launch, with prices published on the page. You own the system, cod"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-28",
+    "topic": "ai_small_business",
+    "title": "Oaysys Review: Website Design, SEO, Branding, Paid Media and AI Automation Under One Agency | MarketMinute",
+    "url": "https://www.marketminute.com/article/acnnewswire-2026-7-27-oaysys-review-website-design-seo-branding-paid-media-and-ai-automation-under-one-agency",
+    "snippet": "# Oaysys Review: Website Design, SEO, Branding, Paid Media and AI Automation Under One Agency | MarketMinute\n\nPublished: 2026-07-27T16:59:00+00:00\nSource: marketminute.com (marketminute.com)\nLanguage: en\n\n## Story\n\nOaysys Review: Website Design, SEO, Branding, Paid Media and AI Automation Under One Agency | MarketMinute\n\n[![Home](https://images.financialcontent.com/investcenter/marketminute.svg)]("
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-28",
+    "topic": "ai_small_business",
+    "title": "Runnit Launches AI Platform For Marketers - B&T",
+    "url": "https://www.bandt.com.au/runnit-launches-ai-platform-for-marketers/",
+    "snippet": "Runnit Launches AI Platform For Marketers - B&T\n\nMark Tolson\n\nAustralian technology company, Runnit, has launched an AI-native operations platform designed for in-house marketing teams and creative agencies. It promises to generate complete project plans, recommend resourcing and automate operational processes from a single creative brief.\n\nThe new platform will enable organisations to automate pl"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-28",
+    "topic": "ai_labs",
+    "title": "Our position on open-weights models \\ Anthropic",
+    "url": "https://www.anthropic.com/news/position-open-weights-models",
+    "snippet": "# Our position on open-weights models \\ Anthropic\n\nPublished: 2026-07-27T22:05:11+00:00\nSource: anthropic.com (anthropic.com)\nLanguage: en\n\n## Story\n\nOur position on open-weights models \\ Anthropic\n\nSkip to main contentSkip to footer\n\n[Home](https://www.anthropic.com/)\n\n- [Research](https://www.anthropic.com/research)\n- [Policy](https://www.anthropic.com/policy)\n- Commitments\n- Learn\n- [News](http"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-28",
+    "topic": "ai_labs",
+    "title": "Expanding our partnership with Cognizant | Anthropic \\ Anthropic",
+    "url": "https://www.anthropic.com/news/cognizant-anthropic",
+    "snippet": "# Expanding our partnership with Cognizant | Anthropic \\ Anthropic\n\nPublished: 2026-07-27T15:39:43+00:00\nSource: anthropic.com (anthropic.com)\nLanguage: en\n\n## Story\n\nExpanding our partnership with Cognizant | Anthropic \\ Anthropic\n\nSkip to main contentSkip to footer\n\n[Home](https://www.anthropic.com/)\n\n- [Research](https://www.anthropic.com/research)\n- [Policy](https://www.anthropic.com/policy)\n-"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-28",
+    "topic": "ai_labs",
+    "title": "Going Beyond Zero: A New Paradigm For Enterprise Security",
+    "url": "https://blog.google/security/going-beyond-zero-a-new-paradigm-for-enterprise-security/",
+    "snippet": "Google introduces Beyond Zero for AI enterprise security\n\n# Going Beyond Zero: A New Paradigm For Enterprise Security\n\nJul 27, 2026\n\n|\n\n---\n\nHeather AdkinsVP, Security Engineering\n\nArchana Ramamoorthy\n\nSenior Director, Cybersecurity and Data Protection\n\nShare\n\n---\n\nAt Google, we\u2019ve spent decades trying to push the limits of what is possible in security. In 2014, we released the BeyondCorp whitepap"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-28",
+    "topic": "ai_labs",
+    "title": "Google and KDDI are ready to back Japanese startups.",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/ai-startup-support-program-japan/",
+    "snippet": "Google and KDDI partner to support Japanese startups\n\n# Google and KDDI are ready to back Japanese startups.\n\nJonathan Silber\n\nCo-Founder & Director, Google AI Futures Fund\n\nJul 28, 2026\n\n---\n\nThe Google AI Futures Fund backs the startups that are building what\u2019s next in AI \u2014 and we\u2019re extending our support to Japan. In partnership with Japanese telecom leader KDDI, we\u2019re launching the AI Startup "
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-28",
+    "topic": "ai_labs",
+    "title": "NOAA, Google Cloud collaborate on weather forecasting",
+    "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/noaa-google-cloud-weather-forecasting/",
+    "snippet": "NOAA, Google Cloud collaborate on weather forecasting\n\n# NOAA and Google Cloud collaborate to advance weather forecasting.\n\nJul 27, 2026\n\n---\n\nAccurate weather forecasting saves lives and protects infrastructure, but predicting complex global atmospheric patterns requires immense computing power. NOAA (National Oceanic and Atmospheric Administration) is taking a major leap forward by selecting Goo"
   }
 ]
