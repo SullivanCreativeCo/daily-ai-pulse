@@ -13464,5 +13464,231 @@
     "title": "Cue AI",
     "url": "https://deepmind.google/models/gemma/gemmaverse/cue-ai/",
     "snippet": "Cue AI \u2014 Google DeepMind\n\n# Building a faster voice agent pipeline with Gemma 4\n\nBy running Gemma 4 E4B locally for dictation, Cue cut latency by 44%, increased feature usage by 30%, and dropped marginal inference costs to zero\n\nCue is a voice-activated AI agent that lives on the user's desktop. Press a hotkey, speak, and Cue executes \u2014 from dictation in any app to agentic tasks that read the scre"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-07-30",
+    "headline": "MoonPay gave AI agents a wallet.",
+    "url": "archive/2026-07-30.html",
+    "posts": {
+      "linkedin": [
+        "Your AI can spend money now.\n\nMoonPay launched something called PayBox today. You connect it to Claude or ChatGPT, describe what you want, and your agent preps the transaction. You approve with a passkey. The money moves.\n\nThe agent never holds your funds. It just asks permission for one specific thing at a time.\n\nThat detail matters more than the launch itself. We've had AI that can write, plan, and research for two years. The thing that was always missing was trust to actually act, and nobody wanted to hand over custody to solve it.\n\nThis isn't the last version of this. It's the first one that didn't feel reckless.\n\nWould someone let an agent pay a vendor on their behalf right now? I think a lot of people would say no. Give it six months.\n\nWhat's the first task you'd actually trust an agent to pay for?",
+        "The open source model just ate a third of Claude's price tag.\n\nMoonshot released Kimi K3 this week. 2.8 trillion parameters, fully open weight, ranks third on the big benchmarks behind Claude and GPT. Runs at roughly a third of the cost.\n\nSame week, SK Telecom did the same thing at a national level. 688 billion parameters, open on Hugging Face, built to run Korean industry instead of chasing a US leaderboard.\n\nThat's the real story. It's not one lab shipping a cheaper model. It's multiple countries deciding the smart move is to build their own and give it away.\n\nMost of us pick one AI tool and stick with it out of habit, not math. The pricing gap between \"the good model\" and \"the cheap model\" keeps shrinking, and most people haven't noticed because they haven't looked in three months.\n\nWhat are you paying for right now that a cheaper model would handle just as well?",
+        "Martha Stewart is out here correcting an AI about soil quality twice a week.\n\nShe's a real co-founder at Hint, a new app that manages home maintenance, insurance, energy, all of it, through an AI assistant. Not a spokesperson. Not an investor cashing a check. She sits down with the team and tells them when the model's wrong.\n\nSame week, Vendasta rolled out an AI Social Media Manager and AI Blogger for small businesses. Five hundred plus deployments in the first 24 hours.\n\nDifferent products, same signal. AI for regular people and small businesses stopped being a demo. It's actually getting used, by actual homeowners and actual shop owners, not just tech people showing off.\n\nIt's not about changing the whole world. It's about changing someone's world, one homeowner or one small business at a time.\n\nWhat's the one boring task in your business you'd hand to something like this tomorrow if it worked?"
+      ],
+      "threads": [
+        "MoonPay launched PayBox today. Your Claude or ChatGPT agent can now actually spend money. You tell it what you want, it preps the transaction, you approve with your passkey, done.\n\nThe agent never touches your funds directly. It just asks, one thing at a time.\n\nWe've had AI that talks a big game for a while. This is the first version where it can actually go pay for something.\n\nStill weird to type that sentence out loud.",
+        "Moonshot open sourced a 2.8 trillion parameter model this week. Ranks third on the big benchmarks. Costs a third of what Claude runs.\n\nSame week SK Telecom did basically the same move for Korea. 688 billion params, open weight, built for their own industry.\n\nThe expensive model and the cheap model keep getting closer. Most of us are still picking tools out of habit, not because we checked the math lately.\n\nWorth checking the math.",
+        "Martha Stewart co-founded an AI startup. Not a name-on-the-box deal, an actual co-founder who sits down twice a week and tells the team when the app's wrong about soil or air quality.\n\nSame week Vendasta hit 500 AI employee deployments for small businesses in a single day.\n\nAI for regular people finally stopped being a demo reel. It's just getting used now, by people who don't care how it works, only that it does.\n\nThat's the part worth paying attention to."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-07-30",
+    "source": "The Koerner Office",
+    "title": "The Most Profitable Online Business No One Talks About",
+    "url": "https://www.youtube.com/watch?v=g-wMJf4ckK0",
+    "video_id": "g-wMJf4ckK0"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-07-30",
+    "source": "AI Daily Brief",
+    "title": "5 AI Engineering Trends That Non Engineers Should Know About",
+    "url": "https://www.youtube.com/watch?v=wGOsOMXMCG0",
+    "video_id": "wGOsOMXMCG0"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-07-30",
+    "source": "AI Daily Brief",
+    "title": "Why Everyone Is Debating AI Policy",
+    "url": "https://www.youtube.com/watch?v=RlCAucFCwoo",
+    "video_id": "RlCAucFCwoo"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-30",
+    "topic": "model_releases",
+    "title": "Moonshot Open-Sources Kimi K3 as U.S.-China AI Tensions Intensify - Caixin Global",
+    "url": "https://www.caixinglobal.com/2026-07-29/moonshot-open-sources-kimi-k3-as-us-china-ai-tensions-intensify-102468927.html",
+    "snippet": "Moonshot Open-Sources Kimi K3 as U.S.-China AI Tensions Intensify - Caixin Global\n\n# Moonshot Open-Sources Kimi K3 as U.S.-China AI Tensions Intensify\n\nPublished: Jul. 29, 2026 12:17 a.m. GMT+8\n\n00:00\n\n00:00/00:00\n\n\u60a8\u7684\u6d4f\u89c8\u5668\u4e0d\u652f\u6301 audio \u6807\u7b7e\u3002\n\nListen to this article 1x\n\nSubscribe now Listen to the full version\n\nThe Kimi K3 booth at the 2026 World Artificial Intelligence Conference in Shanghai on July 20, 2"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-30",
+    "topic": "model_releases",
+    "title": "SK Telecom Unveils Second Dopamo AI Model with Enhanced Reasoning, Expands Industrial AX - Seoul Economic Daily",
+    "url": "https://en.sedaily.com/technology/2026/07/29/sk-telecom-unveils-second-dopamo-ai-model-with-enhanced",
+    "snippet": "SKT Unveils Next-Generation AI Model for Manufacturing, Defense, Bio - Seoul Economic Daily\n\nKST\n\nSeoul Economic DailyKorea's Leading Business News Since 1960\n\nMenu\n\nSaved ArticlesNewslettersAI KEYSettings\n\n|Summary|Save\n\nAAA\n\nJung Jae-heon, CEO of SK Telecom. Photo courtesy of SK Telecom\n\nSK Telecom (017670.KS) has unveiled 'A.X K2,' its proprietary artificial intelligence (AI) foundation model w"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-30",
+    "topic": "model_releases",
+    "title": "SK Telecom A.X K2: Korea's 688B Open-Weight Model",
+    "url": "https://www.orcarouter.ai/blog/sk-telecom-ax-k2-explained",
+    "snippet": "SK Telecom A.X K2: Korea's 688B Open-Weight Model\n\nLatest models \u00b7 20 View all models \u2192\u2039\u203a\n\nBenchmarks: Artificial Analysis \u00b7 updated daily\n\nBack to all posts\n\nSK Telecom's A.X K2 is one of the most significant \"sovereign AI\" releases of 2026: a 688-billion-parameter foundation model, released with open weights on Hugging Face, built by Korea's largest telecom operator to strengthen math and scienc"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-30",
+    "topic": "model_releases",
+    "title": "InclusionAI's LLaDA2.2 pushes diffusion language models past 100B \u2014 AI Insiders",
+    "url": "https://aiinsiders.net/article/inclusionais-llada22-pushes-diffusion-language-models-past",
+    "snippet": "InclusionAI's LLaDA2.2 pushes diffusion language models past 100B \u2014 AI Insiders\n\nHome/ Models/ InclusionAI's LLaDA2.2 pushes diffusion language\u2026\n\nMODELS\n\n# InclusionAI's LLaDA2.2 pushes diffusion language models past 100B\n\nAnt Group's InclusionAI team shipped an editing-focused update to a diffusion language model family it scaled past 100 billion parameters last year.\n\nYESTERDAY\n\nSponsor\n\nTowards"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-30",
+    "topic": "model_releases",
+    "title": "AI: China's 2.8T-Param Kimi K3 Open-Weight Model Launches | AI Intelligence Brief",
+    "url": "https://getaibrief.com/story/moonshot-ai-kimi-k3-open-weight-ai-model-2-8t-params",
+    "snippet": "AI: China's 2.8T-Param Kimi K3 Open-Weight Model Launches | AI Intelligence Brief\n\nShare Share on X Share on Facebook Share on LinkedIn Share on Reddit\n\n## Key Takeaways\n\n- Moonshot AI's Kimi K3, a fully open-weight 2.8-trillion-parameter model, ranks third on Artificial Analysis benchmarks while drastically undercutting closed-source rivals on cost.\n- With a 1M-token context and 250% efficiency g"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-30",
+    "topic": "product_releases",
+    "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
+    "url": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
+    "snippet": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners | TechCrunch\n\nImage Credits:Kathryn Cooper\n\n# Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners\n\n8:35 AM PDT \u00b7 July 29, 2026\n\nMartha Stewart is entering the AI software era in the most Martha Stewart way possible: She has joined the co-founding team at Hint, an app th"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-30",
+    "topic": "product_releases",
+    "title": "MoonPay Launches PayBox, a Payment Vault for Claude and ChatGPT That Turns Prompts Into Payments - MoonPay",
+    "url": "https://www.moonpay.com/newsroom/moonpay-paybox",
+    "snippet": "MoonPay Launches PayBox, a Payment Vault for Claude and ChatGPT That Turns Prompts Into Payments - MoonPay\n...\n# MoonPay Launches PayBox, a Payment Vault for Claude and ChatGPT That Turns Prompts Into Payments\n...\nConnect once inside Claude or ChatGPT. Your AI can securely move, trade, and spend money across the open internet. The first payment vault that lets an AI agent transact autonomously wit"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-30",
+    "topic": "product_releases",
+    "title": "Google launches Gemini Spark - a 24/7 personal agent to help you get things done - Tech Guide",
+    "url": "https://www.techguide.com.au/news/computers-news/google-launches-gemini-spark-a-24-7-personal-agent-to-help-you-get-things-done/",
+    "snippet": "Google launches Gemini Spark - a 24/7 personal agent to help you get things done - Tech Guide\n...\nGoogle launches Gemini Spark \u2013 a 24/7 personal agent to help you get things done AI\n...\nGoogle has launched Gemini Spark \u2013 a new 24/7 personal AI agent that doesn\u2019t just\u2026\n...\nNorton Genie is now part of AI agent Claude to make it easier to detect scams"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-30",
+    "topic": "product_releases",
+    "title": "Google Brings Gemini Spark AI Agent To India, Adds AI-Powered Financial Feature To Google Pay",
+    "url": "https://www.etvbharat.com/en/technology/google-brings-gemini-spark-ai-agent-to-india-adds-ai-powered-financial-feature-to-google-pay-enn26073001506",
+    "snippet": "Google Brings Gemini Spark AI Agent To India, Adds AI-Powered Financial Feature To Google Pay\n...\n# Google Brings Gemini Spark AI Agent To India, Adds AI-Powered Financial Feature To Google Pay\n...\n## Google has launched Ask Google Pay, expanded its Flex credit card with SBI, and introduced the Gemini Spark AI agent in India.\n...\nGoogle's 24/7 AI agent is now available to Google AI Pro and Ultra s"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-30",
+    "topic": "product_releases",
+    "title": "AI for bosses first: 360 launches 'Nano Work' enterprise agent platform - Chinadaily.com.cn",
+    "url": "https://www.chinadaily.com.cn/a/202607/30/WS6a6b0de4a310986e2b4682eb.html",
+    "snippet": "AI for bosses first: 360 launches 'Nano Work' enterprise agent platform - Chinadaily.com.cn\n...\n# AI for bosses first: 360 launches 'Nano Work' enterprise agent platform\n...\nZhou Hongyi, founder and chairman of 360 Security Group, officially unveils the company's next-generation enterprise intelligent agent work platform, \"Nano Work\". [Photo provided to chinadaily.com.cn]\n...\nZhou Hongyi, founder "
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-30",
+    "topic": "ai_agents",
+    "title": "Diagrid Catalyst 2.0 Brings Verifiable, Durable Execution to LangGraph, Microsoft Agent Framework, Google ADK and Other Leading AI Frameworks",
+    "url": "https://aithority.com/it-and-devops/cloud/diagrid-catalyst-2-0-brings-verifiable-durable-execution-to-langgraph-microsoft-agent-framework-google-adk-and-other-leading-ai-frameworks/",
+    "snippet": "Diagrid Catalyst 2.0 Brings Verifiable, Durable Execution to LangGraph, Microsoft Agent Framework, Google ADK and Other Leading AI Frameworks\n\nArtificial Intelligence | News | Insights | AiThority\n\n# Diagrid Catalyst 2.0 Brings Verifiable, Durable Execution to LangGraph, Microsoft Agent Framework, Google ADK and Other Leading AI Frameworks\n\n#### New release lets developers add cryptographic trust "
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-30",
+    "topic": "ai_agents",
+    "title": "Meet the Supervisor Agent: Build Multi-Agent Workflows with Oracle Select AI | developers",
+    "url": "https://blogs.oracle.com/developers/meet-the-supervisor-agent-build-multi-agent-workflows-with-oracle-select-ai",
+    "snippet": "# Meet the Supervisor Agent: Build Multi-Agent Workflows with Oracle Select AI | developers\n\nAuthor: Bogdan Farca\nPublished: 2026-07-29T13:41:15+00:00\nSource: blogs.oracle.com (blogs.oracle.com)\nLanguage: en\n\n## Story\n\nMeet the Supervisor Agent: Build Multi-Agent Workflows with Oracle Select AI | developers\n\n- [Accessibility Policy](https://www.oracle.com/corporate/accessibility/)\n- Skip to conten"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-30",
+    "topic": "ai_agents",
+    "title": "Tines introduces AI-native platform for secure enterprise workflow automation - Help Net Security",
+    "url": "https://www.helpnetsecurity.com/2026/07/29/tines-introduces-ai-native-platform-for-secure-enterprise-workflow-automation/",
+    "snippet": "Tines introduces AI-native platform for secure enterprise workflow automation - Help Net Security\n\nHelp Net Security newsletters: Daily and weekly news, cybersecurity jobs, open source projects, breaking news \u2013 subscribe here!\n\nPlease turn on your JavaScript for this page to function normally.\n\n# Tines introduces AI-native platform for secure enterprise workflow automation\n\nTines has launched Tine"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-30",
+    "topic": "ai_agents",
+    "title": "AIBNKO Emerges From Stealth as a Fully Autonomous, Multi-Agentic Sell-Side Research Platform, Moving Institutional Investors Beyond Generic LLMs",
+    "url": "https://www.prnewswire.com/news-releases/aibnko-emerges-from-stealth-as-a-fully-autonomous-multi-agentic-sell-side-research-platform-moving-institutional-investors-beyond-generic-llms-302837123.html",
+    "snippet": "AIBNKO Emerges From Stealth as a Fully Autonomous, Multi-Agentic Sell-Side Research Platform, Moving Institutional Investors Beyond Generic LLMs Accessibility Statement Skip Navigation\n\nNEW YORK, SINGAPORE and ABU DHABI, UAE, July 29, 2026 /PRNewswire/ -- AIBNKO today announced the official launch of its AI-based, multi-agentic sell-side research platform - the first system of its kind capable of "
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-30",
+    "topic": "ai_agents",
+    "title": "Atlassian Fuses the Agent Work Surface, Workflow, and Control Plane Into Jira",
+    "url": "https://futurumgroup.com/insights/atlassian-fuses-the-agent-work-surface-workflow-and-control-plane-into-jira/",
+    "snippet": "---\ndescription: Mitch Ashley, VP and Practice Lead at Futurum, shares his insights on how Atlassian fused the agent work surface, workflow, and control plane into Jira, with Teamwork Graph as the source of truth, binding all three.\ntitle: Atlassian Fuses the Agent Work Surface, Workflow, and Control Plane Into Jira\nimage: https://futurumgroup.com/wp-content/uploads/2026/07/Atlassian-Fuses-the-Age"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-30",
+    "topic": "ai_small_business",
+    "title": "Unisson (YC W26): The AI Product Specialist Learning Software So Your Team Doesn't Have To",
+    "url": "https://yespress.io/unisson-yc-w26",
+    "snippet": "Unisson (YC W26): The AI Product Specialist Learning Software So Your Team Doesn't Have To\n\n\u25cf BREAKINGUnisson joins Y Combinator Winter 2026 batch \u25c6AI agents learn any product in 15 minutes by exploring UI + codebase \u25c6Deploys in ~30 minutes across Slack, email & text \u25c6Founders from Ambient.ai and Chef Robotics\u25c6Pay-per-task pricing: charged only when agents work \u25c6Runner executes \u00b7 Explorer maintain"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-30",
+    "topic": "ai_small_business",
+    "title": "Robynn Review & Pricing (2026)",
+    "url": "https://www.appsinsight.co/apps/robynn/",
+    "snippet": "Robynn Review & Pricing (2026)\n\n### Sign In\n\n- Log In\n- Register\n\nRemember Me\n\nGuest\n\nOwner\n\nI agree to the Privacy Policy\n\nOverview Integrations Built for Compare Features Pricing Pros & Cons Media Alternatives Reviews FAQ\n\n- Trusted by 10,000+ buyers worldwide\n- 500+ verified reviews from real users\n- Updated weekly fresh & accurate data\n- Independent editorial research 100% unbiased\n\n## What is"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-30",
+    "topic": "ai_small_business",
+    "title": "Vendasta Unveils Autonomous AI Employees to Scale Organic Search and Social Marketing for Small Businesses | FinancialContent",
+    "url": "https://www.financialcontent.com/article/accwirecq-2026-7-29-vendasta-unveils-autonomous-ai-employees-to-scale-organic-search-and-social-marketing-for-small-businesses",
+    "snippet": "Vendasta Unveils Autonomous AI Employees to Scale Organic Search and Social Marketing for Small Businesses | FinancialContent\n\nLooking for our Business Solutions? Click here: CloudQuote APIs Contact Us\n\n# Vendasta Unveils Autonomous AI Employees to Scale Organic Search and Social Marketing for Small Businesses\n\nPublished at July 29th 2026, 7:00 AM EDT via ACCESS Newswire\n\n\u24d8 This article is third-p"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-30",
+    "topic": "ai_small_business",
+    "title": "Vendasta Unveils Autonomous AI Employees to Scale Organic Search and Social Marketing for Small Businesses",
+    "url": "https://www.digitaljournal.com/pr/news/access-newswire/vendasta-unveils-autonomous-ai-employees-1158069955.html",
+    "snippet": "Vendasta Unveils Autonomous AI Employees to Scale Organic Search and Social Marketing for Small Businesses\n\n# Vendasta Unveils Autonomous AI Employees to Scale Organic Search and Social Marketing for Small Businesses\n\nPRESS RELEASE\n\nPublished July 29, 2026\n\nAs traditional search shifts to generative AI, Vendasta's new AI Social Media Manager and AI Blogger automate always-on digital presence; 500+"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-30",
+    "topic": "ai_small_business",
+    "title": "SAAGA Solve Introduces Next-Gen Hyper AI Agents Designed to Scale Digital Workflows and Business Operations | Currency News |  Financial and Business News | Markets Insider",
+    "url": "https://markets.businessinsider.com/news/currencies/saaga-solve-introduces-next-gen-hyper-ai-agents-designed-to-scale-digital-workflows-and-business-operations-1036379018",
+    "snippet": "SAAGA Solve Introduces Next-Gen Hyper AI Agents Designed to Scale Digital Workflows and Business Operations | Currency News | Financial and Business News | Markets Insider\n\n# SAAGA Solve Introduces Next-Gen Hyper AI Agents Designed to Scale Digital Workflows and Business Operations\n\nFinanceWire\n\nJul. 29, 2026, 09:00 AM\n\nPetaluma, California, USA, July 29th, 2026, FinanceWire\n\nSAAGA Solve, an AI te"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-30",
+    "topic": "ai_labs",
+    "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers | OpenAI",
+    "url": "https://openai.com/index/chatgpt-for-academic-researchers/",
+    "snippet": "# Accelerating scientific discovery with ChatGPT for Academic Researchers | OpenAI\n\nPublished: 2026-07-29T10:00:00Z\nSource: openai.com (openai.com)\nLanguage: en\n\n## Story\n\nAccelerating scientific discovery with ChatGPT for Academic Researchers | OpenAI\n\nSkip to main content\n\n[OpenAI Home](https://openai.com/)\n\n- [Research](https://openai.com/research/index/)\n- Products\n- [Business](https://openai."
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-30",
+    "topic": "ai_labs",
+    "title": "From Finding to Fixing: Reducing maintainer burden with automated patches",
+    "url": "https://blog.google/security/from-finding-to-fixing-reducing-maintainer-burden-with-automated-patches/",
+    "snippet": "From Finding to Fixing: Reducing maintainer burden with automated patches\n\n# From Finding to Fixing: Reducing maintainer burden with automated patches\n\nJul 29, 2026\n\n|\n\n---\n\nAlex Kilian\n\nSenior Product Manager, Software Supply Chain Integrity\n\nDustin Ingram\n\nStaff Software Engineer, Product Security\n\nShare\n\n---\n\nSince its launch in 2016, OSS-Fuzz has contributed significantly to making open-source"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-30",
+    "topic": "ai_labs",
+    "title": "Gemini for macOS adds new natural language capabilities",
+    "url": "https://blog.google/innovation-and-ai/products/gemini-app/speak-naturally-gemini-app-mac-os/",
+    "snippet": "Speak naturally with Gemini app for macOS\n\n# Gemini for macOS adds new natural language capabilities\n\nJul 29, 2026\n\n|\n\nSpeak naturally to Gemini to get clean transcriptions, edits, and summaries dropped right into the app you're using.\n\n---\n\nMichael Friedman\n\nGroup Product Manager, Gemini App\n\nAlvin Zhou\n\nSenior Product Manager, Google DeepMind\n\nShare\n\n---\n\nYour browser does not support the audio "
   }
 ]
