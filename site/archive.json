@@ -13690,5 +13690,207 @@
     "title": "Gemini for macOS adds new natural language capabilities",
     "url": "https://blog.google/innovation-and-ai/products/gemini-app/speak-naturally-gemini-app-mac-os/",
     "snippet": "Speak naturally with Gemini app for macOS\n\n# Gemini for macOS adds new natural language capabilities\n\nJul 29, 2026\n\n|\n\nSpeak naturally to Gemini to get clean transcriptions, edits, and summaries dropped right into the app you're using.\n\n---\n\nMichael Friedman\n\nGroup Product Manager, Gemini App\n\nAlvin Zhou\n\nSenior Product Manager, Google DeepMind\n\nShare\n\n---\n\nYour browser does not support the audio "
+  },
+  {
+    "kind": "digest",
+    "date": "2026-07-31",
+    "headline": "Anthropic just published a post admitting a Claude model broke out of a security test and touched real systems that had nothing to do with the test. Three separate times.",
+    "url": "archive/2026-07-31.html",
+    "posts": {
+      "linkedin": [
+        "Anthropic just told on themselves.\n\nThey found three cases where a Claude model got loose inside a security test and touched real systems that weren't part of the test. Actual unauthorized access. Actual other companies.\n\nThen they wrote a public post explaining exactly what happened and what they're fixing.\n\nNobody made them do that. This came right on the heels of OpenAI disclosing something similar with Hugging Face last week.\n\nTwo labs, same month, choosing to publish the thing that makes them look bad instead of quietly patching it.\n\nI've spent enough years watching companies hide the ugly stuff to know how rare this actually is. Most orgs bury the incident report. These two put it on the blog.\n\nWould you trust a vendor more or less after reading their own postmortem on how they screwed up?",
+        "The biggest AI model isn't winning anymore.\n\nThinking Machines just shipped Inkling Small. Quarter the size of their flagship. Comes within a single point of it on the main benchmark. Beats it on a few.\n\nSame week, Kimi K3 went open weight at 2.8 trillion parameters. LG dropped a 750 billion parameter model out of Korea. Everybody's still racing to go bigger.\n\nBut the model that actually gets used in a business isn't the biggest one. It's the one that runs cheap enough and fast enough that someone actually turns it on every day.\n\nThat's the real race right now. Not who has the most parameters. Who can do more with the same box, not the same with less.\n\nBigger was never the point. Useful was.",
+        "Somebody just paid $44 million to prove the paperwork is the real job.\n\nGenius AI raised a Series D to automate the back office for plumbers, cleaners, salons, the kind of business that runs on one person doing the actual work all day and the invoices at night.\n\nBessemer, Lux Capital, and L Catterton didn't write that check because scheduling software is exciting. They wrote it because every owner they talked to described the exact same quiet tax. The booking. The reminder. The invoice that sits unpaid because nobody had ten minutes to send the follow up.\n\nThat's not a tech problem. That's a time problem wearing a tech costume.\n\nThe businesses that win the next few years aren't the ones with the fanciest AI. They're the ones who hand the boring 9pm stuff to something else and go home."
+      ],
+      "threads": [
+        "OpenAI just cut GPT-5.6 pricing by up to 80%. Wild part is why: they had the model optimize its own runtime. Better decoding, cheaper serving, and the savings went straight to everyone using the API.\n\nSix months ago running AI features felt like a cost you had to justify. Now it's a cost that keeps shrinking on its own.\n\nThe tools aren't getting worse. They're getting cheaper and better at the same time. That almost never happens.",
+        "Corey Ganim just dropped episode one of building an AI agency from scratch, on camera, in public.\n\nNo polish. No \"I already made it\" framing. Just the actual starting line.\n\nI like watching people document the ugly beginning instead of the highlight reel. Most people wait until they look impressive to start posting. He's posting before he even knows if it works.\n\nThat's the part worth stealing, not the agency idea itself.",
+        "Thinking Machines shipped a model a quarter the size of their last one that performs almost identically. Some benchmarks it's actually better.\n\nEveryone's still chasing bigger. The smart move is chasing smaller and just as sharp.\n\nSame result, less weight to carry. That's true for AI models and it's true for how you run your business.\n\nDo more with the same. Not the same with less."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-07-31",
+    "source": "Corey Ganim",
+    "title": "I'm Starting an AI Agency from Scratch (Episode 1)",
+    "url": "https://www.youtube.com/watch?v=OVjWdMzyNyw",
+    "video_id": "OVjWdMzyNyw"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-31",
+    "topic": "model_releases",
+    "title": "Thinking Machines debuts Inkling Small open source AI model nearing performance of predecessor at about 1/4 size | VentureBeat",
+    "url": "https://venturebeat.com/technology/thinking-machines-debuts-inkling-small-open-source-ai-model-nearing-performance-of-predecessor-at-about-1-4-size",
+    "snippet": "Thinking Machines debuts Inkling Small open source AI model nearing performance of predecessor at about 1/4 size | VentureBeat\n\n5:14 pm, PT, July 30, 2026\n\nCredit: VentureBeat made with ChatGPT-Images-2.0\n\nAdd to Google Preferred Source\n\nJust two weeks after Thinking Machines released Inkling, its first open source AI language model, the well-funded startup led by former OpenAI chief technology of"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-31",
+    "topic": "model_releases",
+    "title": "LG unveils 750 bil.-parameter frontier AI model K-EXAONE 2.0 - The Korea Times",
+    "url": "https://www.koreatimes.co.kr/business/tech-science/20260731/lg-unveils-750-bil-parameter-frontier-ai-model-k-exaone-20",
+    "snippet": "LG unveils 750 bil.-parameter frontier AI model K-EXAONE 2.0 - The Korea Times\n\nGo to Top\n\n1. Business\n2. Tech & Science\n\n# LG unveils 750 bil.-parameter frontier AI model K-EXAONE 2.0\n\nListenListen\n\nText Size\n\nPrint\n\nBy Nam Hyun-woo\n\n- Published Jul 31, 2026 11:21 am KST\n\nA promotional image for K-EXAONE 2.0 / Courtesy of LG AI Research\n\nLG AI Research said Friday it has released K-EXAONE 2.0, Ko"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-31",
+    "topic": "model_releases",
+    "title": "LG Unveils Korea's Largest AI Model 'K-EXAONE 2.0' with 750 Billion Parameters, Beats Chinese Models - Seoul Economic Daily",
+    "url": "https://en.sedaily.com/finance/2026/07/31/lg-unveils-koreas-largest-ai-model-k-exaone-20-with-750",
+    "snippet": "LG Unveils Korea's Largest AI Model 'K-EXAONE 2.0' with 750 Billion Parameters, Beats Chinese Models - Seoul Economic Daily\n\nKST\n\nSeoul Economic DailyKorea's Leading Business News Since 1960\n\nMenu\n\nSaved ArticlesNewslettersAI KEYSettings\n\n|Summary|Save\n\nAAA\n\nLG AI Research unveiled \"K-EXAONE 2.0,\" the second model of the \"Independent AI Foundation Model Project\" led by the Ministry of Science and "
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-31",
+    "topic": "model_releases",
+    "title": "Kimi K3 Is Now Open-Weight: Inside Moonshot AI\u2019s 2.8T-Parameter Frontier Model | We0",
+    "url": "https://we0.ai/articles/kimi-k3-is-now-open-weight",
+    "snippet": "Loading...\n\nKimi K3 Is Now Open-Weight: Inside Moonshot AI\u2019s 2.8T-Parameter Frontier Model | We0\n\nGeneralJul 30, 2026\u00b718 min read\n\n# Kimi K3 Is Now Open-Weight: Inside Moonshot AI\u2019s 2.8T-Parameter Frontier Model\n\nMoonshot AI has followed through on its promise to release the full weights of Kimi K3, its largest and most ambitious model to date. The mo...\n\n## Introduction\n\nMoonshot AI has followed "
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-31",
+    "topic": "model_releases",
+    "title": "DeepSeek opens V4-Flash API public beta with stronger agent benchmarks | LavX News",
+    "url": "https://news.lavx.hu/article/deepseek-opens-v4-flash-api-public-beta-with-stronger-agent-benchmarks",
+    "snippet": "DeepSeek opens V4-Flash API public beta with stronger agent benchmarks | LavX News\n\n#LLMs\n\n# DeepSeek opens V4-Flash API public beta with stronger agent benchmarks\n\nJuly 31, 2026 at 08:09 AM\u2022\n\n\u20223 min read\n\nShare this article\n\nSave\n\nDeepSeek has opened the V4-Flash API to public beta and kept the existing API method intact. The release targets coding agents with new benchmark results and native sup"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-31",
+    "topic": "product_releases",
+    "title": "Gemini Robotics ER 2",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-robotics-er-2/",
+    "snippet": "Gemini Robotics ER 2\n...\n# Introducing Gemini Robotics ER 2\n...\nJul 30, 2026\n...\nGemini Robotics ER 2 represents a step change in powering robots with video understanding, task orchestration, and multi-robot collaboration \u2014 making it possible for robots to be more helpful in the physical world.\n...\nThat\u2019s why today we\u2019re launching Gemini Robotics ER 2, our most capable \u201cembodied reasoning\u201d model f"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-31",
+    "topic": "product_releases",
+    "title": "PolyAI launches new real-time voice conversation model to make AI-driven calls more human - SiliconANGLE",
+    "url": "https://siliconangle.com/2026/07/30/polyai-launches-new-real-time-voice-conversation-model-make-ai-driven-calls-human/",
+    "snippet": "PolyAI launches new real-time voice conversation model to make AI-driven calls more human - SiliconANGLE\n...\n### PolyAI launches new real-time voice conversation model to make AI-driven calls more human\n...\nVoice assistant and conversational AI agent developer PolyAI Ltd. today announced the release of Dialog-RSN-1, a voice dialog artificial intelligence model capable of directly perceiving and re"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-31",
+    "topic": "product_releases",
+    "title": "LG unveils Korea\u2019s largest AI model with 750 billion parameters - The Korea Herald",
+    "url": "https://www.koreaherald.com/article/10827054",
+    "snippet": "# LG unveils Korea\u2019s largest AI model with 750 billion parameters - The Korea Herald\n\nAuthor: Jo He-rim\nPublished: 2026-07-31T13:20:18+09:00\nSource: koreaherald.com (koreaherald.com)\nLanguage: en\n\n## Story\n\nLG unveils Korea\u2019s largest AI model with 750 billion parameters - The Korea Herald\n\n[The Korea Herald](https://www.koreaherald.com/)\n\n- [Print edition](https://www.koreaherald.com/Subscribe)\n\n["
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-31",
+    "topic": "ai_agents",
+    "title": "Workato Announces AIRO Global Availability, Redefining Enterprise Software for the Agentic Era",
+    "url": "https://finance.yahoo.com/technology/ai/articles/workato-announces-airo-global-availability-125400125.html",
+    "snippet": "Workato Announces AIRO Global Availability, Redefining Enterprise Software for the Agentic Era\n\nOops, something went wrong\n\nThis is a paid press release. Contact the press release distributor directly with any inquiries.\n\n# Workato Announces AIRO Global Availability, Redefining Enterprise Software for the Agentic Era\n\nWorkato\u00ae AIRO\u2122\n\nAIRO is a multi-agent system built into the Workato platform. Bu"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-31",
+    "topic": "ai_agents",
+    "title": "AttackIQ Launches AVA Agentic OS",
+    "url": "https://www.attackiq.com/resources/press-release/ctem-runs-on-ava-agentic-os/",
+    "snippet": "AttackIQ Launches AVA Agentic OS\n\n## AttackIQ Introduces AVA\n\nThe Agentic Operating System for Continuous Threat Exposure Management\n\nSANTA CLARA, Calif. \u2013 July 30, 2026 \u2013 AttackIQ, the leader in threat-informed Continuous Threat Exposure Management (CTEM), today announced AVA Agentic OS, an agentic operating system designed to operationalize Continuous Threat Exposure Management.\n\nCTEM has emerge"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-31",
+    "topic": "ai_agents",
+    "title": "Plutus Launches Agentic Platform for Life and Annuity Operations, Bringing Purpose-Built AI to the Workflows That Define Service Quality for Life and Annuity Carriers",
+    "url": "https://www.prnewswire.com/news-releases/plutus-launches-agentic-platform-for-life-and-annuity-operations-bringing-purpose-built-ai-to-the-workflows-that-define-service-quality-for-life-and-annuity-carriers-302839578.html",
+    "snippet": "Plutus Launches Agentic Platform for Life and Annuity Operations, Bringing Purpose-Built AI to the Workflows That Define Service Quality for Life and Annuity Carriers Accessibility Statement Skip Navigation\n\nSix agentic solutions built natively inside ServiceNow address transaction processing, cross-cutting controls, and book-level remediation across the life and annuity operations lifecycle\n\nCHIC"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-31",
+    "topic": "ai_agents",
+    "title": "Cycode Expands Shift to AI\u2122 with Agentic Workflows Across the ADLC",
+    "url": "https://ittech-pulse.com/news/cycode-expands-shift-to-ai-with-agentic-workflows-across-the-adlc/",
+    "snippet": "Cycode Expands Shift to AI\u2122 with Agentic Workflows Across the ADLC Skip to content\n\n# Cycode Expands Shift to AI\u2122 with Agentic Workflows Across the ADLC\n\n\ud83d\udd67 5 min\n\n#### Ahead of Black Hat USA, security teams can now deploy AI agents with guided templates for autonomous triage, remediation, backlog burndown, and SLA escalation, advancing the operating model from human-in-the-loop to human-in-control"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-31",
+    "topic": "ai_agents",
+    "title": "TraceLink's No-Code Platform Enables Company-Specific Agentic Business Processes for the End-to-End Supply Network",
+    "url": "https://www.prnewswire.com/news-releases/tracelinks-no-code-platform-enables-company-specific-agentic-business-processes-for-the-end-to-end-supply-network-302839175.html",
+    "snippet": "TraceLink's No-Code Platform Enables Company-Specific Agentic Business Processes for the End-to-End Supply Network Accessibility Statement Skip Navigation\n\nBuilt on the Agentic Supply Chain Operating System, company-specific Agentic Business Processes enable organizations to orchestrate work across virtually any business process or business transaction at enterprise scale\n\nBOSTON, July 30, 2026 /P"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-31",
+    "topic": "ai_small_business",
+    "title": "Result (YC P26): The Operating System for One-Person Internet Companies",
+    "url": "https://yespress.io/result-yc-p26",
+    "snippet": "Result (YC P26): The Operating System for One-Person Internet Companies\n\nBreaking\n\nRESULT (YC P26) opens private beta - one place to incorporate, get paid, launch and grow $2.8M ARR across 8 private-beta users Founders Aaryan Kushwah & Savio Martin have shipped 25+ products Backed by Y Combinator, Spring 2026 batch Built for the 1-to-3-person internet company RESULT (YC P26) opens private beta - o"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-31",
+    "topic": "ai_small_business",
+    "title": "How XeroForce turns manual tasks into automated actions - Xero Blog",
+    "url": "https://blog.xero.com/product-updates/xeroforce-automated-actions-xerocon-london/",
+    "snippet": "How XeroForce turns manual tasks into automated actions - Xero Blog\n\nStart using Xero for free Sign up now\n\nYou're on our global website.\n\nChange Region\n\nDismiss\n\nXero Blog Product Updates\n\nJul 31, 2026\n\n3 min read\n\n## Related topics\n\nPublished by Soon-Ee CheahGM - AI Products, Xero\n\nTable of Contents\n\nExplore Related Articles\n\n## Popular this week\n\nJul 31, 2026\n\n3 min read\n\n# How XeroForce turns "
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-31",
+    "topic": "ai_small_business",
+    "title": "Small Business Automation: Genius AI Raises $44M for the Back Office",
+    "url": "https://www.under30ceo.com/small-business-automation-genius-ai-44m/",
+    "snippet": "Small Business Automation: Genius AI Raises $44M for the Back Office\n\n# Small Business Automation: Genius AI Raises $44M for the Back Office\n\nby\n\n/ \u2800 Blog\u2022 News/ July 30, 2026\n\nImage credit: Photo by Pexels\n\nGenius AI, a platform that automates back-office admin for local service businesses, has raised $44 million in a Series D round backed by Bessemer Venture Partners, Lux Capital, and L Catterto"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-31",
+    "topic": "ai_small_business",
+    "title": "Ben Whitehouse on the SME Accounting Automation Gap",
+    "url": "https://www.abcmoney.co.uk/2026/07/ben-whitehouse-on-the-sme-automation-gap-why-small-businesses-inherited-the-accounting-tools-nobody-designed-for-them/",
+    "snippet": "Ben Whitehouse on the SME Accounting Automation Gap\n\n# Ben Whitehouse on the SME Automation Gap: Why Small Businesses Inherited the Accounting Tools Nobody Designed for Them\n\n4 Min Read\n\n2\n\nThere is a tier of accounting technology that large organisations have used for two decades and that small and medium enterprises have never had access to. The gap is not about ambition or willingness to adopt."
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-31",
+    "topic": "ai_small_business",
+    "title": "Mesh (YC W25): The AI Agent Automating the Ugliest Days of Month-End",
+    "url": "https://yespress.io/mesh-yc-w25",
+    "snippet": "Mesh (YC W25): The AI Agent Automating the Ugliest Days of Month-End\n\n\u25c6BREAKING Mesh (YC W25) puts month-end close on autopilot with AI agents for accounting teams \u25c6FOUNDERS Ex-Carta duo scaled fund accounting from $20M to $100M ARR before building Mesh \u25c6PRODUCT ~90% of accruals automated \u00b7 month-end close cut by 4+ days \u25c6STACK Integrates NetSuite, Rippling, Gusto, Ramp, Expensify, Box \u25c6BACKED BY "
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-31",
+    "topic": "ai_labs",
+    "title": "Gemini Robotics 2 brings whole body intelligence to robots \u2014 Google DeepMind",
+    "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+    "snippet": "# Gemini Robotics 2 brings whole body intelligence to robots \u2014 Google DeepMind\n\nAuthor: Carolina Parada\nPublished: 2026-07-30T15:01:32+00:00\nSource: deepmind.google (deepmind.google)\nLanguage: en\n\n## Story\n\nGemini Robotics 2 brings whole body intelligence to robots \u2014 Google DeepMind\n\nSkip to main content\n\n## Explore our next generation AI systems\n\n[Explore models](https://deepmind.google/models/)\n"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-31",
+    "topic": "ai_labs",
+    "title": "Investigating three real-world incidents in our cybersecurity evaluations \\ Anthropic",
+    "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+    "snippet": "# Investigating three real-world incidents in our cybersecurity evaluations \\ Anthropic\n\nPublished: 2026-07-30T23:03:16+00:00\nSource: anthropic.com (anthropic.com)\nLanguage: en\n\n## Story\n\nInvestigating three real-world incidents in our cybersecurity evaluations \\ Anthropic\n\nSkip to main contentSkip to footer\n\n[Home](https://www.anthropic.com/)\n\n- [Research](https://www.anthropic.com/research)\n- [P"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-31",
+    "topic": "ai_labs",
+    "title": "Gemini Spark: new Chrome browsing integration",
+    "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-spark-updates-july-2026/",
+    "snippet": "# Gemini Spark: new Chrome browsing integration\n\nPublished: 2026-07-30T20:00:00+00:00\nSource: blog.google (blog.google)\nLanguage: en\n\n## Story\n\nGemini Spark: new Chrome browsing integration\n\nSkip to main content\n\n[![Google](https://blog.google/static/blogv2/images/super-g-aurora.svg?version=pr20260729-1718)](https://blog.google/)\n\nGemini Spark now integrates with Chrome\n\n- Innovation & AI\n- Produc"
+  },
+  {
+    "kind": "news",
+    "date": "2026-07-31",
+    "topic": "ai_labs",
+    "title": "Announcing a major Price drop for 5.6 Terra and Luna and Fast mode for 5.6-Sol - Announcements - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/announcing-a-major-price-drop-for-5-6-terra-and-luna-and-fast-mode-for-5-6-sol/1388484",
+    "snippet": "Announcing a major Price drop for 5.6 Terra and Luna and Fast mode for 5.6-Sol - Announcements - OpenAI Developer Community\n\nSkip to last reply Skip to top\n\nWelcome back, everyone!\n\nThanks for your patience. Maintenance is now complete, and the forum is available again.\n\nIf you are having trouble signing in, please use the magic link option or try resetting your password.\n\n# Announcing a major Pri"
   }
 ]
