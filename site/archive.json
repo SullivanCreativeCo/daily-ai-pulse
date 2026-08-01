@@ -13892,5 +13892,199 @@
     "title": "Announcing a major Price drop for 5.6 Terra and Luna and Fast mode for 5.6-Sol - Announcements - OpenAI Developer Community",
     "url": "https://community.openai.com/t/announcing-a-major-price-drop-for-5-6-terra-and-luna-and-fast-mode-for-5-6-sol/1388484",
     "snippet": "Announcing a major Price drop for 5.6 Terra and Luna and Fast mode for 5.6-Sol - Announcements - OpenAI Developer Community\n\nSkip to last reply Skip to top\n\nWelcome back, everyone!\n\nThanks for your patience. Maintenance is now complete, and the forum is available again.\n\nIf you are having trouble signing in, please use the magic link option or try resetting your password.\n\n# Announcing a major Pri"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-08-01",
+    "headline": "OpenAI put out a blog post about their business strategy today, and buried in it is the real story.",
+    "url": "archive/2026-08-01.html",
+    "posts": {
+      "linkedin": [
+        "OpenAI just told on themselves.\n\nBuried in a blog post about their business strategy: agentic work through Codex is now 99.8% of their weekly output tokens. Internally. Not a customer case study. Not a demo. That's how OpenAI actually runs now.\n\nEveryone's still debating if agents are ready for real work. The company that builds the models already decided. Their own finance team runs on one.\n\nThat's the tell. Not the announcement, the adoption. When the builder is willing to run their own back office on the thing they're selling, that's a different signal than a keynote.\n\nSo the real question isn't \"are agents ready.\" It's what's the first task in your own business you'd actually trust an agent to just do, no review needed.",
+        "YC just open sourced the thing it runs itself on.\n\nQM went up on GitHub this week, MIT license. It's the multi-agent harness running YC's accounting, legal, events, and engineering teams right now, today.\n\nThe interesting part isn't the tech. It's the offer. Go read the code instead of trusting the pitch.\n\nMost agent products ask for faith. A demo, a waitlist, a \"trust us it scales.\" QM just hands you the repo and says here's exactly what it does in our own building.\n\nIf it's repeatable, it's a skill. When you can read the harness a real company runs on, you stop guessing at what agents can actually do and start copying what already works.\n\nWorth digging into before you decide agents belong in someone else's pitch deck and not your own workflow.",
+        "78% of small businesses in this country have zero employees.\n\nThat means the owner is doing sales, service, and the books. All of it. Every night.\n\nHalper already handles customer messages on WhatsApp and Instagram for solopreneurs. This week they added Jupid, an AI accountant, right inside the same app. No new login. No spreadsheet. No separate tool to learn.\n\nHere's the part worth noticing. It's not \"AI does accounting,\" we all saw that coming. It's AI accounting showing up inside a tool the owner already opens every day, instead of asking them to open one more thing.\n\nWhat are you already doing for yourself that someone else would find useful? That's the question behind every one of these bundles. Nobody wants five AI apps. They want the one app they already trust to just quietly do more."
+      ],
+      "threads": [
+        "Moonshot just dropped the full weights for Kimi K3. 2.8 trillion parameters, benchmarks sitting right next to Claude and GPT, and developers can download the whole thing and run it themselves.\n\nNot fully open source, they kept the training data close. But open weights means you're not renting the model anymore. You own the copy.\n\nEvery month the \"just use the API\" argument gets a little weaker.",
+        "Found the most honest sentence in an OpenAI blog post today. Agentic work through Codex is 99.8% of their weekly output tokens. Internally.\n\nNot a stat about you. About them. The company selling agents is already running its own finance team on one.\n\nMakes you wonder what's still sitting in your business waiting on a human to do it out of habit, not necessity.",
+        "An AI accounting tool just got bolted onto an AI customer service tool. Same app, same login.\n\nThat's the whole trend right now. Not new tools. Old tools quietly absorbing the next task so the owner never has to go find it.\n\nMost solopreneurs aren't shopping for AI. They're just noticing their app suddenly does more than it used to."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-08-01",
+    "source": "The Koerner Office",
+    "title": "The Easiest Way to Make Money From Home",
+    "url": "https://www.youtube.com/watch?v=nVgFbclwmSA",
+    "video_id": "nVgFbclwmSA"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-08-01",
+    "source": "AI Daily Brief",
+    "title": "6 Questions Shaping Enterprise AI",
+    "url": "https://www.youtube.com/watch?v=qUXAk4iZs4k",
+    "video_id": "qUXAk4iZs4k"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-08-01",
+    "source": "The Entrepreneur's Studio",
+    "title": "4 Things Every Customer Should Feel | Logan House Coffee",
+    "url": "https://www.youtube.com/watch?v=3z1SH_uBmRA",
+    "video_id": "3z1SH_uBmRA"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-01",
+    "topic": "model_releases",
+    "title": "LG AI Research Unveils K-EXAONE 2.0, Korea's Largest 750-Billion-Parameter AI Foundation Model - LG AI Research News",
+    "url": "https://www.lgresearch.ai/news/view?seq=678",
+    "snippet": "LG AI Research Unveils K-EXAONE 2.0, Korea's Largest 750-Billion-Parameter AI Foundation Model - LG AI Research News\n\nNEWS\n\n-\n\n2026.07.31\n\nsns_tw\n\nsns_in\n\nsns_fb\n\nShare\n\n# LG AI Research Unveils K-EXAONE 2.0, Korea's Largest 750-Billion-Parameter AI Foundation Model\n\nLG AI Research has released K-EXAONE 2.0, the second model developed under the Korean Ministry of Science and ICT's Sovereign AI Fou"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-01",
+    "topic": "model_releases",
+    "title": "China\u2019s Moonshot just handed developers a near-frontier AI model to download - Yahoo News Canada",
+    "url": "https://ca.news.yahoo.com/china-moonshot-just-handed-developers-022623899.html",
+    "snippet": "China\u2019s Moonshot just handed developers a near-frontier AI model to download - Yahoo News Canada\n\n# China\u2019s Moonshot just handed developers a near-frontier AI model to download\n\nSudhanshu Kumar Mangalam\n\nFri, July 31, 2026 at 2:26 a.m. UTC\n\nView larger image\n\nChina\u2019s Moonshot just handed developers a near-frontier AI model to download\n\nMoonshot AI has released the full weights for Kimi K3, giving "
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-01",
+    "topic": "product_releases",
+    "title": "Cdbx Launches Browser-Based AI Coding IDE with MCP Connectors and Bring-Your-Own-Key Model | BotBeat",
+    "url": "https://botbeat.news/news/cdbx-launches-browser-based-ai-coding-ide-with-mcp-connectors-and-bring-your-own-10327",
+    "snippet": "Cdbx Launches Browser-Based AI Coding IDE with MCP Connectors and Bring-Your-Own-Key Model | BotBeat\n...\nPRODUCT LAUNCH Cdbx 2026-08-01\n...\n# Cdbx Launches Browser-Based AI Coding IDE with MCP Connectors and Bring-Your-Own-Key Model\n...\n- \u25b8Full-featured browser IDE with Monaco editor, real terminal, and AI pair programmer built in\u2014no local setup required\n- \u25b8MCP connectors allow AI to query externa"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-01",
+    "topic": "product_releases",
+    "title": "Innovation meets impact as Minister Buthelezi launches Batho Pele AI chatbot\u00a0 \u2013 The Public Servant Online",
+    "url": "https://www.dpsa.gov.za/thepublicservant/2026/08/01/innovation-meets-impact-as-minister-buthelezi-launches-batho-pele-ai-chatbot/",
+    "snippet": "# Innovation meets impact as Minister Buthelezi launches Batho Pele AI chatbot\u00a0 \u2013 The Public Servant Online\n...\nInnovation meets impact as Minister Buthelezi launches Batho Pele AI chatbot \u2013 The Public Servant Online\n...\n/) Innovation meets\n...\nas Minister Buthelezi launches Batho Pele AI chatbot\n...\n# Innovation meets impact as Minister Buthelezi launches Batho Pele AI chatbot\n...\nPretoria \u2013 The "
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-01",
+    "topic": "product_releases",
+    "title": "WEXTL Announces Official Public Launch: An AI Agent Builder and Visual Workflow Automation Platform | FinancialContent",
+    "url": "https://www.financialcontent.com/article/abnewswire-2026-8-1-wextl-announces-official-public-launch-an-ai-agent-builder-and-visual-workflow-automation-platform",
+    "snippet": "WEXTL Announces Official Public Launch: An AI Agent Builder and Visual Workflow Automation Platform | FinancialContent\n...\n# WEXTL Announces Official Public Launch: An AI Agent Builder and Visual Workflow Automation Platform\n...\nPublished at July 31st 2026, 9:29 PM EDT via AB Newswire\n...\nMAXMEL Tech Ltd. announces that WEXTL\u00ae, a visual workflow builder for deploying AI Agents at scale, has offici"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-01",
+    "topic": "product_releases",
+    "title": "MiniMax Releases MiniMax H3: An Omni-Modal Video Model That Generates 15-Second 2K Clips With Native Stereo Audio - MarkTechPost",
+    "url": "https://www.marktechpost.com/2026/08/01/minimax-releases-minimax-h3-an-omni-modal-video-model-that-generates-15-second-2k-clips-with-native-stereo-audio/",
+    "snippet": "MiniMax Releases MiniMax H3: An Omni-Modal Video Model That Generates 15-Second 2K Clips With Native Stereo Audio - MarkTechPost\n...\nHome Technology AI Shorts MiniMax Releases MiniMax H3:\n...\nOmni-Modal Video Model That\n...\nMiniMax releases MiniMax H3, a general-purpose multimodal generation model. MiniMax H3 is not a text-to-video model with add-ons. MiniMax describes it as a general-purpose mult"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-01",
+    "topic": "product_releases",
+    "title": "MoonPay Launches PayBox, Letting ChatGPT and Claude Turn Prompts Into Crypto Payments - Trending AI News",
+    "url": "https://trendingai.info/moonpay-launches-paybox-letting-chatgpt-and-claude-turn-prompts-into-crypto-payments/",
+    "snippet": "MoonPay Launches PayBox, Letting ChatGPT and Claude Turn Prompts Into Crypto Payments - Trending AI News\n...\n# MoonPay Launches PayBox, Letting ChatGPT and Claude Turn Prompts Into Crypto Payments\n...\nMoonPay has unveiled PayBox, a new AI-native payment vault that enables ChatGPT and Claude users to securely execute cryptocurrency transactions, interact with decentralized finance (DeFi) protocols,"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-01",
+    "topic": "ai_agents",
+    "title": "WEXTL Announces Official Public Launch: An AI Agent Builder and Visual Workflow Automation Platform - XPR Newsroom",
+    "url": "https://newsroom.xpr.media/story/194684/wextl-announces-official-public-launch-an-ai-agent-builder-and-visual-workflow-automation-platform/",
+    "snippet": "WEXTL Announces Official Public Launch: An AI Agent Builder and Visual Workflow Automation Platform - XPR Newsroom\n\n# WEXTL Announces Official Public Launch: An AI Agent Builder and Visual Workflow Automation Platform\n\nMAXMEL Tech Ltd. announces that WEXTL\u00ae, a visual workflow builder for deploying AI Agents at scale, has officially moved from its closed beta to full public production. Positioned a"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-01",
+    "topic": "ai_agents",
+    "title": "Workato Announces AIRO Global Availability, Redefining Enterprise Software for the Agentic Era - Martech Pulse",
+    "url": "https://martech-pulse.com/news/workato-announces-airo-global-availability-redefining-enterprise-software-for-the-agentic-era/",
+    "snippet": "Workato Announces AIRO Global Availability, Redefining Enterprise Software for the Agentic Era - Martech Pulse Skip to content\n\n# Workato Announces AIRO Global Availability, Redefining Enterprise Software for the Agentic Era\n\nBusiness Wire|July 31, 2026| AI/ML, Analytics, Technology\n\n\ud83d\udd67 10 min\n\nWorkato\u00ae, the leading Control and Execution Platform for Enterprise AI, announced the global availability"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-01",
+    "topic": "ai_agents",
+    "title": "Y Combinator Open-Sources QM, the AI Agent Harness It Uses to Run Itself - Startup Fortune",
+    "url": "https://startupfortune.com/y-combinator-open-sources-qm-the-ai-agent-harness-it-uses-to-run-itself/",
+    "snippet": "Y Combinator Open-Sources QM, the AI Agent Harness It Uses to Run Itself - Startup Fortune\n\nSearch\n\nSF Aug 1, 2026 \u00b7 12:01 PM\n\nSubscribe\u2709\n\nMost Read\n\nFour DOGE alumni raise at a\u2026 Ant, Tencent, Alibaba and Baidu Race\u2026 SK Hynix reports Q2 2026 earnings\u2026 Ant International raises $1.2 billion to\u2026 Four DOGE alumni raise at a\u2026 Ant, Tencent, Alibaba and Baidu Race\u2026 SK Hynix reports Q2 2026 earnings\u2026 Ant "
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-01",
+    "topic": "ai_agents",
+    "title": "Y Combinator plans to open-source QM, its company-wide agent harness - RuntimeWire",
+    "url": "https://runtimewire.com/article/y-combinator-qm-company-wide-multi-agent-harness",
+    "snippet": "Y Combinator plans to open-source QM, its company-wide agent harness - RuntimeWire\n\n## Why it matters\n\nQM turns YC's internal agent workflows into a potential blueprint for shared workplace automation, moving agents from personal assistants into accounting, legal and engineering systems.\n\nY Combinator said Friday that it plans to open-source QM, a multi-agent harness that YC uses across accounting"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-01",
+    "topic": "ai_agents",
+    "title": "Can Creatio's 10x Release Unseat Entrenched CRM Giants With Agentic AI?",
+    "url": "https://futurumgroup.com/insights/can-creatios-10x-release-unseat-entrenched-crm-giants-with-agentic-ai/",
+    "snippet": "Creatio\u2019s 10x Release introduces AI Twin and Creatio AI Studio, enabling no-code AI agent creation for employees at every skill level [1][2]. The launch targets an enterprise software market projected to reach $762B by 2031 at a 12.2% CAGR, where 64.9% of decision-makers rank agentic AI among their top three technology priorities. By unifying CRM, workflow automation, and agentic AI on a single pl"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-01",
+    "topic": "ai_small_business",
+    "title": "Best AI Workflow Automation Tools for Business",
+    "url": "https://www.blogarama.com/arts-and-entertainment-blogs/1451098-best-digital-marketing-agency-usa-blog/78726282-workflow-automation-tools-for-business",
+    "snippet": "Every small business has a job that nobody wants to do. Copying order details from email into a spreadsheet. Chasing invoices. Retyping form submissions into the CRM. It takes four hours a week, it never appears on anyone\u00e2\u20ac\u2122s job description, and it quietly eats the time that could have gone into actual work.\n...\nChoosing an AI workflow [Automation](https://app-test.blogarama.com/search-posts/?sea"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-01",
+    "topic": "ai_small_business",
+    "title": "#How I built an automated digital product workflow with Payhip,Make,Telegram and Notion - DEV Community",
+    "url": "https://dev.to/eva-nomados/how-i-built-an-automated-digital-product-workflow-with-payhipmaketelegram-and-notion-3fkm",
+    "snippet": "# #How I built an automated digital product workflow with Payhip,Make,Telegram and Notion\n...\n# How I built an automated digital product workflow with Payhip,Make,Telegram and Notion\n...\nSelling digital products sounds simple:\n...\nCreate a product \u2192 receive payment \u2192 deliver the product.\n...\nBut the operational workflow quickly becomes messy.\n...\nYou need:\n...\n- Payment handling\n- Customer notific"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-01",
+    "topic": "ai_small_business",
+    "title": "RCN America - California: Jupid Is Now Available Inside Halper, Bringing AI Accounting to Its Small Business Customers",
+    "url": "https://rcnamericaca.blogspot.com/2026/06/jupid-is-now-available-inside-halper.html",
+    "snippet": "RCN America - California: Jupid Is Now Available Inside Halper, Bringing AI Accounting to Its Small Business Customers\n\nJupid\n\nHalper's solopreneur and small-business customers can now handle bookkeeping, accounting, and taxes through Jupid's AI accountant, without leaving the app.\n\nBy putting Jupid inside Halper, we make accounting something that just happens in the background \u2014 no spreadsheets, "
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-01",
+    "topic": "ai_labs",
+    "title": "Gemini Drops: New updates to the Gemini app, July 2026",
+    "url": "https://blog.google/products-and-platforms/products/gemini/gemini-drop-july-2026/",
+    "snippet": "# Gemini Drops: New updates to the Gemini app, July 2026\n...\nGemini Drops: New updates to the Gemini app, July 2026\n...\n- - [Google DeepMind](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/)\n- [Google Research](https://blog.google/innovation-and-ai/models-and-research/google-research/)\n- [Google Labs](https://blog.google/innovation-and-ai/models-and-research/google-labs/"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-01",
+    "topic": "ai_labs",
+    "title": "Building abundant intelligence",
+    "url": "https://openai.com/index/building-abundant-intelligence/",
+    "snippet": "# Building abundant intelligence\n\nPublished: 2026-07-31T15:06:49+00:00\nSource: openai.com (openai.com)\nLanguage: en\n\n## Story\n\nWhen the cost of useful intelligence falls, more work becomes worth doing. When models become more capable, that work creates more value. As adoption grows, we gain the revenue, real-world feedback, and visibility into demand to keep investing in the next generation of res"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-01",
+    "topic": "ai_labs",
+    "title": "Try Glanceboard, a vibe-coded way to organize your day",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/glanceboard-gemini-flash-nano-banana/",
+    "snippet": "- - [Google DeepMind](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/)\n- [Google Research](https://blog.google/innovation-and-ai/models-and-research/google-research/)\n- [Google Labs](https://blog.google/innovation-and-ai/models-and-research/google-labs/)\n- [Gemini models](https://blog.google/innovation-and-ai/models-and-research/gemini-models/)\n- [Quantum computing](http"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-01",
+    "topic": "ai_labs",
+    "title": "Building Australia\u2019s Future: Unlocking New Opportunities with AI",
+    "url": "https://blog.google/intl/en-au/company-news/building-australias-future-unlocking-new-opportunities-with-ai/",
+    "snippet": "Building Australia\u2019s Future: Unlocking New Opportunities with AI\n\n# Building Australia\u2019s Future: Unlocking New Opportunities with AI\n\nJul 31, 2026\n\n|\n\n---\n\nStef Lovett\n\nDirector of Government Affairs & Public Policy, Google Australia\n\nShare\n\n---\n\nEvery day, Australians search online for information and resources, and Google Trends shows that Australians are navigating significant pressures, from t"
   }
 ]
