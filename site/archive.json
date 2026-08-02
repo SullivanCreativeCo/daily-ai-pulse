@@ -14086,5 +14086,191 @@
     "title": "Building Australia\u2019s Future: Unlocking New Opportunities with AI",
     "url": "https://blog.google/intl/en-au/company-news/building-australias-future-unlocking-new-opportunities-with-ai/",
     "snippet": "Building Australia\u2019s Future: Unlocking New Opportunities with AI\n\n# Building Australia\u2019s Future: Unlocking New Opportunities with AI\n\nJul 31, 2026\n\n|\n\n---\n\nStef Lovett\n\nDirector of Government Affairs & Public Policy, Google Australia\n\nShare\n\n---\n\nEvery day, Australians search online for information and resources, and Google Trends shows that Australians are navigating significant pressures, from t"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-08-02",
+    "headline": "OpenAI's next model just solved ten math problems nobody's cracked in decades. Some for almost 30 years.",
+    "url": "archive/2026-08-02.html",
+    "posts": {
+      "linkedin": [
+        "OpenAI's next model solved ten math problems nobody's touched in decades.\n\nOne of them's been open since 1999.\n\nTotal cost to solve all ten: about $2,000 in compute.\n\nThat number's the part that gets me. Not the math. The price tag. A university math department couldn't crack this in 27 years, and a model did it for less than most people spend on a work trip.\n\nEvery proof shipped with a machine checkable certificate too, so nobody has to just trust the output. That's the part people miss when they say AI can't really reason. It's not about trusting the model's word. It's about the model showing its work in a language mathematicians can verify.\n\nWe keep asking if AI can think. Maybe the better question is what's still worth a human doing once the proof itself is cheap.",
+        "Anthropic built a tool that scans any website and rebuilds its whole design system. Colors, type, spacing, components, all of it, from a URL.\n\nMy first thought wasn't \"cool tool.\" It was \"every brand's visual identity is now one paste away from being copied.\"\n\nThat used to take a designer hours of squinting at a site. Now it's automatic.\n\nHere's the thing though. If your brand is just the colors and the fonts, this tool just made you replaceable. If your brand is the actual story you tell and the way you show up for people, none of that scans.\n\nThe tools are getting scary good at copying the surface. They still can't copy why someone trusts you.\n\nWhat's the part of your brand that a URL scraper could never pull out?",
+        "Y Combinator open sourced an agent harness this week and buried the actual insight in the readme.\n\nMost AI agent tools are built like personal assistants. One person, one memory, one conversation.\n\nThis one's built for companies. Every person, every Slack channel, gets its own scoped memory and permissions before any agent even starts working.\n\nThat's the unsexy problem nobody's solving. Everyone's racing to build the flashiest agent. Almost nobody's asking who owns what that agent remembers, or what happens when three people in the same channel need different context from the same bot.\n\nIf you're building AI tools for clients right now, this is the question worth sitting with before you ship the next feature. Not \"what can the agent do.\" Who owns what it knows."
+      ],
+      "threads": [
+        "OpenAI's unreleased model just solved a math problem that's been open since 1999. Cost about $2,000 in compute.\n\nA problem a whole field couldn't crack in 27 years, solved for less than a plane ticket.\n\nWe keep debating whether AI can really reason. I think that debate's basically over. The real question now is what's still worth doing by hand once proof becomes cheap.",
+        "Anthropic shipped a tool that scans any website and rebuilds its entire design system. Colors, fonts, spacing, all of it, from just a URL.\n\nKinda unsettling honestly. Your whole visual brand is now copyable in one click.\n\nBut the tools can only copy what's on the surface. They still can't copy why someone actually trusts you. That part's still yours.",
+        "YC open sourced an agent harness and the interesting part isn't the agent. It's that every person and every Slack room gets its own memory and permissions before the AI even starts.\n\nEveryone's racing to build the flashiest bot. Almost nobody's asking who owns what it remembers.\n\nThat's the boring question that ends up mattering most."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-08-02",
+    "source": "The Koerner Office",
+    "title": "How a Mom of 3 Makes $50K a Month With AI - No Experience  [NO ADS \u2022 FULL EPISODE]",
+    "url": "https://www.youtube.com/watch?v=t_nZveri0Uc",
+    "video_id": "t_nZveri0Uc"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-02",
+    "topic": "model_releases",
+    "title": "OpenAI is reportedly building Astra, a model family designed to work on problems for hours or days",
+    "url": "https://the-decoder.com/openai-is-reportedly-building-astra-a-model-family-designed-to-work-on-problems-for-hours-or-days/",
+    "snippet": "OpenAI announces its \"next major model\" Astra by dropping ten previously unsolved math solutions\n\n# OpenAI announces its \"next major model\" Astra by dropping ten previously unsolved math solutions\n\nView the LinkedIn Profile of Matthias Bastian\n\nAug 1, 2026\n\nNano Banana Pro prompted by THE DECODER\n\n## Key Points\n\n- OpenAI is working on a new AI model family called \"Astra,\" built to handle long-runn"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-02",
+    "topic": "model_releases",
+    "title": "OpenAI says its next model, Astra, has solved ten open problems in mathematics",
+    "url": "https://thenextweb.com/news/openai-astra-model-ten-math-proofs-non-sofic-groups",
+    "snippet": "# OpenAI says its next model, Astra, has solved ten open problems in mathematics\n...\nOpenAI says its next model, Astra, has solved ten open problems in mathematics\n...\n# OpenAI says its next model, Astra, has solved ten open problems in mathematics\n...\nThe results include the first-ever construction of a non-sofic group, a disproof of Connes's rigidity conjecture, and three resolved Erdos problems"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-02",
+    "topic": "model_releases",
+    "title": "AMD Releases Instella-MoE-16B-A3B: A Fully Open Mixture-of-Experts LLM With 2.8B Active Parameters Trained On Instinct GPUs - MarkTechPost",
+    "url": "https://www.marktechpost.com/2026/08/01/amd-instella-moe-16b-a3b-fully-open-mixture-of-experts-llm/",
+    "snippet": "AMD Releases Instella-MoE-16B-A3B: A Fully Open Mixture-of-Experts LLM With 2.8B Active Parameters Trained On Instinct GPUs - MarkTechPost\n\nSearch\n\nPremium Content\n\nRead our exclusive articles\n\nFacebook\n\nInstagram\n\nX\n\nSearch\n\nHome Editors Pick Agentic AI AMD Releases Instella-MoE-16B-A3B: A Fully Open Mixture-of-Experts LLM With 2.8B Active Parameters...\n\nAMD released Instella-MoE-16B-A3B, a fully"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-02",
+    "topic": "model_releases",
+    "title": "K-EXAONE 2.0: LG's 750B Sovereign AI Model Goes Fully Open Source | AI2Work",
+    "url": "https://ai2.work/blog/k-exaone-2-0-lg-s-750b-sovereign-ai-model-goes-fully-open-source",
+    "snippet": "K-EXAONE 2.0: LG's 750B Sovereign AI Model Goes Fully Open Source | AI2Work\n\nAI News & Trends\n\n# K-EXAONE 2.0: LG's 750B Sovereign AI Model Goes Fully Open Source\n\nLG AI Research shipped K-EXAONE 2.0, a 750B-parameter MoE model under Apache 2.0. Inside the benchmarks, the license switch and Korea's sovereign AI race.\n\nAugust 1, 2026\n\n8 min readBy AI2Work Editorial Team\n\nAI News & Trends\n\n# K-EXAON"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-02",
+    "topic": "product_releases",
+    "title": "MiniMax M2.1: Significantly Enhanced Multi-Language Programming, Built for Real-World Complex Tasks - MiniMax News | MiniMax",
+    "url": "https://www.minimax.io/news/minimax-m21",
+    "snippet": "MiniMax M2.1: Significantly Enhanced Multi-Language Programming, Built for Real-World Complex Tasks - MiniMax News | MiniMax\n...\n# MiniMax M2.1: Significantly Enhanced Multi-Language Programming, Built for Real-World Complex Tasks\n...\nMiniMax has been continuously transforming itself in a more AI-native way. The core driving forces of this process are models, Agent scaffolding, and organization. T"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-02",
+    "topic": "product_releases",
+    "title": "Anthropic's Claude Design can scan any website and rebuild its design system from scratch",
+    "url": "https://cryptobriefing.com/claude-design-scans-websites-rebuilds-design-systems/",
+    "snippet": "Anthropic's Claude Design can scan any website and rebuild its design system from scratch\n...\n# Anthropic\u2019s Claude Design can scan any website and rebuild its design system from scratch\n...\nThe AI lab's new visual creation tool targets the $60 billion design software market by letting anyone extract branding, typography, and components from a URL.\n...\nAnthropic just gave its AI a pair of eyes for "
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-02",
+    "topic": "product_releases",
+    "title": "NVIDIA AI Releases Molt: A PyTorch-Native Agentic Reinforcement Learning Framework",
+    "url": "https://www.marktechpost.com/2026/08/01/nvidia-ai-releases-molt-a-pytorch-native-agentic-reinforcement-learning-framework/",
+    "snippet": "NVIDIA AI Releases Molt: A PyTorch-Native Agentic Reinforcement Learning Framework - MarkTechPost\n\nSearch\n\nPremium Content\n\nRead our exclusive articles\n\nFacebook\n\nInstagram\n\nX\n\nSearch\n\nHome Uncategorized NVIDIA AI Releases Molt: A PyTorch-Native Agentic Reinforcement Learning Framework\n\nAgentic reinforcement learning research is constant algorithm modification. New estimators, new pipeline stages,"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-02",
+    "topic": "product_releases",
+    "title": "Google DeepMind launches Gemini Robotics 2 with full humanoid body control and multi-robot teamwork",
+    "url": "https://gcn.com/google-deepmind-gemini-robotics-2-humanoid/20314/",
+    "snippet": "Google DeepMind launches Gemini Robotics 2 with full humanoid body control and multi-robot teamwork\n...\nGoogle DeepMind on July 30 unveiled Gemini Robotics 2, a suite of AI models that runs legs, torso, arms and fingers under a single learned policy, the first time the family has extended beyond upper-body control alone. The release also introduces multi-robot collaboration and advances dexterity,"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-02",
+    "topic": "ai_agents",
+    "title": "YC Open-Sources qm, a Multiplayer Agent Harness for Slack and Web | AI Weekly",
+    "url": "https://aiweekly.co/alerts/yc-open-sources-qm-a-multiplayer-agent-harness-for-slack-and-web",
+    "snippet": "YC Open-Sources qm, a Multiplayer Agent Harness for Slack and Web | AI Weekly\n\n## TL;DR\n\n- Y Combinator open-sourced qm under an MIT license, framing it as a multiplayer agent harness for companies rather than a personal assistant.\n- Each person and each room gets scoped memory, files, keychain view, permissions, crons, web apps, and a durable sandbox.\n- The same core drives Pi, OpenCode, Codex, a"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-02",
+    "topic": "ai_agents",
+    "title": "QM is trying to turn the personal agent into company infrastructure | The Git Reporter",
+    "url": "https://thegitreporter.com/articles/2026-08-01-daily-qm-is-trying-to-turn-the-personal-agent-into-company-infrastructure/",
+    "snippet": "QM is trying to turn the personal agent into company infrastructure | The Git Reporter\n\nDaily Edition Sources +10\n\n# QM is trying to turn the personal agent into company infrastructure\n\nY Combinator's new open-source harness does not win its case by running Codex or Claude in Slack. Its more consequential bet is that every person and room needs a clearly owned memory, workspace, permission set, sc"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-02",
+    "topic": "ai_small_business",
+    "title": "Build the Campaign Foundation Before Production Starts \u00b7 Aethera",
+    "url": "https://aethera.ai/blog/campaign-management-small-agency",
+    "snippet": "Campaigns usually go sideways before anyone opens Figma, writes ad copy, or builds the landing page. The issue is rarely talent. It\u2019s that the team is producing against a brief that lives in five places, a brand voice that\u2019s \u201cin the client\u2019s head,\u201d and AI prompts that vary by person.\n...\nA stronger foundation turns campaign management from reactive coordination into a repeatable agency system.\n..."
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-02",
+    "topic": "ai_small_business",
+    "title": "Real-life ways small firms use AI",
+    "url": "https://www.journalofaccountancy.com/issues/2026/aug/real-life-ways-small-firms-use-ai/",
+    "snippet": "Real-life ways small firms use AI\n\nRelated\n\nAugust 1, 2026\n\n## How to set up a simple automation in Zapier\n\nAugust 1, 2026\n\n## Using Excel\u2019s REGEX functions to clean accounting data faster\n\nAugust 1, 2026\n\n## Data governance: How finance builds trust in the numbers\n\nTOPICS\n\nArtificial intelligence (AI) can increase CPA practice effectiveness and output without additional headcount. It can be parti"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-02",
+    "topic": "ai_small_business",
+    "title": "23 AI agent examples for real-world projects",
+    "url": "https://www.hostinger.com/tutorials/ai-agent-examples/",
+    "snippet": "23 AI agent examples for real-world projects Summer Sale: up to 80% off Claim deal\n\nBack\n\nNew\n\n### Not sure where to start? Find the right learning path for you.\n\nGo to Learning lab\n\n# 23 AI agent examples for practical use\n\nSummarize with:\n\nShare:\n\nCopy link\n\nCopied!\n\nShare on X Share on Facebook Share on LinkedIn\n\nAI agents are systems that can understand context, make decisions, and take action"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-02",
+    "topic": "ai_small_business",
+    "title": "Beyond sci-fi: AI reimagines and powers Chinese solo startups -Xinhua",
+    "url": "https://english.news.cn/20260801/f9dce53aeed94e6a98b86a47d641db4b/c.html",
+    "snippet": "# Beyond sci-fi: AI reimagines and powers Chinese solo startups \n\n2026-08-01 15:11:18\n\nAn entrepreneur enters Starshine OPC Entrepreneur Community in Hefei, east China's Anhui Province, July 22, 2026. (Xinhua/Zhao Jinzheng)\n\nby Xinhua writers Zhao Jinzheng, Zhang Xiaojie\n\nHEFEI, Aug. 1 (Xinhua) -- In early 20th-century movie theaters, a single operator could sit behind a \"fotoplayer\"-- a mechanica"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-02",
+    "topic": "ai_small_business",
+    "title": "Bluehost AI Website Builder Review 2026: Good For Beginners?",
+    "url": "https://blogrecode.com/bluehost-ai-website-builder-review-for-beginners/",
+    "snippet": "Bluehost AI Website Builder Review 2026: Good For Beginners?\n\n# Bluehost AI Website Builder Review 2026: Good for Beginners?\n\n By Mia Elvasia August 1, 2026 August 1, 2026 \n\n> I let an AI agent build a website for me in five minutes. Here\u2019s whether it\u2019s actually good enough for a total beginner to launch on.\n\n### My Verdict & Rating\n\nBluehost AI Website Builder is a conversational AI tool that bui"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-02",
+    "topic": "ai_labs",
+    "title": "Ten advances in mathematics and theoretical computer science",
+    "url": "https://openai.com/index/ten-advances-in-mathematics/",
+    "snippet": "We want to empower scientists and mathematicians with tools that accelerate discovery. That is why we recently announced ChatGPT for Academic Researchers\u2060, an initiative providing 100,000 scientists and mathematicians with free access to our best ChatGPT models. We also continue to evaluate our models on open research problems during development.\n...\nIn May, we shared an AI-generated disproof\u2060 of "
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-02",
+    "topic": "ai_labs",
+    "title": "Disrupting a Criminal Scam Operation",
+    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+    "snippet": "# Disrupting a Criminal Scam Operation\n\nPublished: 2026-08-04T00:00:00+00:00\nSource: openai.com (openai.com)\nLanguage: en\n\n## Story\n\nOpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes."
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-02",
+    "topic": "ai_labs",
+    "title": "Why did 5.5 Medium switch to 5.6 Sol? - Codex - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/why-did-5-5-medium-switch-to-5-6-sol/1388736",
+    "snippet": "Why did 5.5 Medium switch to 5.6 Sol? - Codex - OpenAI Developer Community\n\nWelcome back, everyone!\n\nThanks for your patience. Maintenance is now complete, and the forum is available again.\n\nIf you are having trouble signing in, please use the magic link option or try resetting your password.\n\n# Why did 5.5 Medium switch to 5.6 Sol?\n\nYou have selected 0 posts.\n\nSo, i noticed my 5.5 Medium usage wa"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-02",
+    "topic": "ai_labs",
+    "title": "New voice update has removed the human like traits - Use cases and examples - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/new-voice-update-has-removed-the-human-like-traits/1388724",
+    "snippet": "New voice update has removed the human like traits - ChatGPT / Use cases and examples - OpenAI Developer Community\n\nWelcome back, everyone!\n\nThanks for your patience. Maintenance is now complete, and the forum is available again.\n\nIf you are having trouble signing in, please use the magic link option or try resetting your password.\n\n# New voice update has removed the human like traits\n\nChatGPT Use"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-02",
+    "topic": "ai_labs",
+    "title": "Custom subagent creation in codex - ChatGPT Apps SDK - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/custom-subagent-creation-in-codex/1388744",
+    "snippet": "Custom subagent creation in codex - ChatGPT Apps SDK - OpenAI Developer Community\n\nWelcome back, everyone!\n\nThanks for your patience. Maintenance is now complete, and the forum is available again.\n\nIf you are having trouble signing in, please use the magic link option or try resetting your password.\n\n# Custom subagent creation in codex\n\nYou have selected 0 posts.\n\n1 / 1\n\nAug 2\n\nHi team,\n\nI\u2019m tryin"
   }
 ]
