@@ -14458,5 +14458,215 @@
     "title": "Confused about Codex limit usage after GPT-5.6 release (Plus plan) - Codex - OpenAI Developer Community",
     "url": "https://community.openai.com/t/confused-about-codex-limit-usage-after-gpt-5-6-release-plus-plan/1388758",
     "snippet": "Confused about Codex limit usage after GPT-5.6 release (Plus plan) - Codex - OpenAI Developer Community\n\nSkip to last reply Skip to top\n\nWelcome back, everyone!\n\nThanks for your patience. Maintenance is now complete, and the forum is available again.\n\nIf you are having trouble signing in, please use the magic link option or try resetting your password.\n\n# Confused about Codex limit usage after GPT"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-08-04",
+    "headline": "Anthropic just handed Claude Code to your mom.",
+    "url": "archive/2026-08-04.html",
+    "posts": {
+      "linkedin": [
+        "Anthropic just gave your mom Claude Code.\n\nIt's called Cowork. Point it at a folder on your Mac, tell it what you need done, and it just does it. No terminal. No code. Same brain as Claude Code, different door in.\n\nHere's the part that got me. Anthropic didn't dream this up in a strategy meeting. Their own engineers were quietly using Claude Code for personal stuff. Vacation research. Slide decks. Digging through an old hard drive. Anthropic just watched what people were already doing and turned it into a product.\n\nThat's the actual skill right now. Not building something new. Noticing what people are already doing for themselves and packaging it.\n\nWhat are you already doing for yourself that someone else would pay to have done for them?",
+        "An engineer at Genspark built a free Office competitor, alone, in a week, for about ten grand in AI tokens.\n\nDocs, sheets, slides, PDF tools. Open source. Live on GitHub right now.\n\nFor twenty years the moat around office software was that building it took hundreds of engineers and years. That moat is gone. One person and a laptop can now ship the thing that used to take a whole division.\n\nSo the question isn't whether you have the resources to build something. You probably already do.\n\nThe question is whether you're married to the idea that it has to be big before it's worth starting. It doesn't. It just has to be finished.\n\nWhat would you build this week if you stopped waiting for the team you think you need?",
+        "DeepSeek just released a model that beats its own bigger, more expensive model.\n\nSame architecture as the version from April. Same size. The only thing that changed was how they trained it after the fact.\n\nEveryone's chasing bigger. More parameters, more compute, more spend. DeepSeek just proved you can get more out of what you already built instead of building something new.\n\nThat's the whole idea behind doing more with the same instead of the same with less. Most people read that as a nice line. DeepSeek just showed you what it looks like as a line item.\n\nBefore you spend on the next big thing, have you actually gotten everything out of what you already have?"
+      ],
+      "threads": [
+        "Anthropic just gave regular people Claude Code without calling it that.\n\nIt's called Cowork. You point it at a folder and tell it what to do. No terminal, no code, same engine underneath.\n\nThe wild part isn't the feature. It's why they built it. Their own devs were secretly using the coding tool for vacation planning and cleaning out old hard drives. Anthropic just watched and shipped it.\n\nMakes you wonder what you're already doing for yourself that would sell if someone else needed it done too.",
+        "One engineer built a free version of Microsoft Office in a week.\n\nDocs, sheets, slides, all of it. About ten thousand dollars in AI tokens and one person's time.\n\nI keep thinking about how long that used to take. Hundreds of engineers, multiple years, billions in funding.\n\nThe barrier to building something real just isn't the barrier anymore. The barrier is deciding to start this weekend instead of waiting for a team that used to be required.",
+        "Bluehost's CEO said something today that stuck with me.\n\nEvery small business is eventually going to run a digital workforce of AI agents. Right now only 16 percent actually do.\n\nThat gap between where things are headed and where most people actually are is the whole opportunity. It's not about the businesses that already figured it out. It's about the ones still waiting to be shown how.\n\nThat's not a small niche. That's basically everyone."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-08-04",
+    "source": "The Koerner Office",
+    "title": "We Did Our Own Shark Tank [RAW \u2022 NO ADS]",
+    "url": "https://www.youtube.com/watch?v=iGZl4PJ2wFI",
+    "video_id": "iGZl4PJ2wFI"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-08-04",
+    "source": "Startup Ideas Podcast",
+    "title": "Why Graph Engineering will 10x your Claude/Codex",
+    "url": "https://www.youtube.com/watch?v=JWhICz1QR8M",
+    "video_id": "JWhICz1QR8M"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-08-04",
+    "source": "Corey Ganim",
+    "title": "How to Build & Sell Managed AI Agents in 2026 (No Code)",
+    "url": "https://www.youtube.com/watch?v=WY_DesGZhE4",
+    "video_id": "WY_DesGZhE4"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-08-04",
+    "source": "AI Daily Brief",
+    "title": "How a $30B Hedge Fund Implosion Will Effect AI",
+    "url": "https://www.youtube.com/watch?v=-BFKpd24vP0",
+    "video_id": "-BFKpd24vP0"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-08-04",
+    "source": "The Entrepreneur's Studio",
+    "title": "Family, Leadership, and Playing The Long Game | Mario Lopez",
+    "url": "https://www.youtube.com/watch?v=7QmVCWv7_uk",
+    "video_id": "7QmVCWv7_uk"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-04",
+    "topic": "model_releases",
+    "title": "Qwen3.8-Max: Alibaba's 2.4T open-weight AI model",
+    "url": "https://datanorth.ai/news/alibaba-releases-qwen3-8-max",
+    "snippet": "Qwen3.8-Max: Alibaba's 2.4T open-weight AI model\n\n# Alibaba releases Qwen3.8-Max\n\n04-08-2026\n\nQwen3.8-Max is Alibaba's flagship Qwen release for 2026, made generally available on August 3, 2026: a 2.4 trillion parameter Mixture-of-Experts model with 95 billion active parameters, a 1 million token context window, native text, image and video input, and pricing of 2.00 and 6.00 dollars per million t"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-04",
+    "topic": "model_releases",
+    "title": "DeepSeek-V4-Flash-0731: DeepSeek's new open MoE model",
+    "url": "https://datanorth.ai/news/deepseek-releases-deepseek-v4-flash-0731",
+    "snippet": "DeepSeek-V4-Flash-0731: DeepSeek's new open MoE model\n\n# DeepSeek releases DeepSeek V4-Flash-0731\n\n04-08-2026\n\nDeepSeek-V4-Flash-0731 is DeepSeek's official V4-Flash release, published on July 31, 2026: a 284 billion parameter MoE with 13 billion active parameters, a 1 million token context window, MIT-licensed weights and pricing of 0.14 and 0.28 dollars per million tokens.\n\nWritten by:\n\nJorick v"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-04",
+    "topic": "model_releases",
+    "title": "Open General Intelligence: MiniMax H3 Is Now Open Source - MiniMax News | MiniMax",
+    "url": "https://www.minimax.io/news/minimax-h3-open-source",
+    "snippet": "Open General Intelligence: MiniMax H3 Is Now Open Source - MiniMax News | MiniMax\n\nModels\n\nLLM\n\nVIDEO\n\nSPEECH & MUSIC\n\nProduct\n\nAPI\n\nToken Plan\n\nResearch\n\nCompany\n\nIntelligence with everyone\n\nToday, we are officially open-sourcing MiniMax H3, our next-generation general-purpose video model.\n\n## System Overview\n\nMiniMax H3 is a general-purpose, omni-modal generative system. It supports unified unde"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-04",
+    "topic": "model_releases",
+    "title": "Alibaba Introduces 2.4 Trillion-Parameter Qwen3.8-Max AI Model With 1 Million-Token Context Window",
+    "url": "https://pulse2.com/alibaba-introduces-2-4-trillion-parameter-qwen3-8-max-ai-model-with-1-million-token-context-window/?amp=",
+    "snippet": "Alibaba Introduces 2.4 Trillion-Parameter Qwen3.8-Max AI Model With 1 Million-Token Context Window\n\n# Alibaba Introduces 2.4 Trillion-Parameter Qwen3.8-Max AI Model With 1 Million-Token Context Window\n\nBy Amit Chowdhry \u25cf Yesterday at 7:12 AM\n\nAlibaba\u2019s Qwen team has officially released Qwen3.8-Max, describing it as the largest and most capable model in the Qwen family to date. Built on the archite"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-04",
+    "topic": "product_releases",
+    "title": "Anthropic launches Cowork to bring Claude\u2019s agentic file work beyond developers",
+    "url": "https://creati.ai/ai-news/2026-08-04/anthropic-launches-cowork-to-bring-claudes-agentic-file-work-beyond-developers/",
+    "snippet": "Anthropic launches Cowork to bring Claude\u2019s agentic file work beyond developers\n...\nAnthropic has launched Cowork, a new capability in its Claude desktop application that lets non-technical users delegate tasks involving files on their computers. The research preview extends the architecture behind Claude Code into a folder-based interface, allowing Claude to read, edit, and create files without r"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-04",
+    "topic": "product_releases",
+    "title": "GlideOS launch recap | Glide Blog",
+    "url": "https://www.glideapps.com/blog/glideos-launch-recap",
+    "snippet": "# GlideOS launch recap\n...\nGlideOS is publicly available! Hear from Glide\u2019s CEO, CTO, and Principal Product Manager all about the platform and its capabilities\n...\nGlideOS is publicly available! Hear from Glide\u2019s CEO, CTO, and Principal Product Manager all about the platform and its capabilities\n...\nToday saw the official public launch of GlideOS, with a live event hosted on YouTube. Check out the"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-04",
+    "topic": "product_releases",
+    "title": "Salesforce Rebuilds Slackbot as an AI Agent in Workplace Software Push",
+    "url": "https://creati.ai/ai-news/2026-08-04/salesforce-rebuilds-slackbot-as-an-ai-agent-in-workplace-software-push/",
+    "snippet": "Salesforce Rebuilds Slackbot as an AI Agent in Workplace Software Push\n...\nSalesforce has launched a rebuilt Slackbot that can search across workplace data, draft documents and carry out selected tasks for employees. The release moves Slackbot from its original role as a lightweight notification and reminder tool toward an AI agent positioned at the center of daily enterprise work.\n...\nThe product"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-04",
+    "topic": "product_releases",
+    "title": "Announcing Astralis: governing data at machine speed | Ethyca",
+    "url": "https://www.ethyca.com/news/introducing-astralis-runtime-governance-for-empowered-enterprise-ai",
+    "snippet": "Announcing Astralis: governing data at machine speed | Ethyca\n...\n# Announcing Astralis: governing data at machine speed\n...\nAs we move toward a machine-speed society, it matters enormously that we can encode our rules, and ultimately our values into those machines. Today we\u2019re launching Astralis, the first tool that can do this at enterprise scale in the AI era.\n...\nAug 04, 2026\n...\nToday we're l"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-04",
+    "topic": "product_releases",
+    "title": "Genspark open-sources GenOffice, the first AI office suite built from scratch",
+    "url": "https://cryptobriefing.com/genspark-open-sources-genoffice-ai-office-suite/",
+    "snippet": "Genspark open-sources GenOffice, the first AI office suite built from scratch\n\n \n\n# Genspark open-sources GenOffice, the first AI office suite built from scratch \n\n The ex-Baidu startup claims a single engineer built the alpha version in one week for about $10,000 in AI tokens. \n\n by Editorial Team \n\nAug. 4, 2026\n...\nGenspark just did something that should make Google and Microsoft at least mildly"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-04",
+    "topic": "ai_agents",
+    "title": "Microsoft Agent Framework Harness and Hosted Agents Reach General Availability - InfoQ",
+    "url": "https://www.infoq.com/news/2026/08/agent-framework-harness-ga/",
+    "snippet": "Microsoft Agent Framework Harness and Hosted Agents Reach General Availability - InfoQ\n\n## InfoQ Software Architects' Newsletter\n\nA monthly overview of things you need to know as an architect or aspiring architect.\n\nClose\n\nInfoQ Homepage News Microsoft Agent Framework Harness and Hosted Agents Reach General Availability\n\n# Microsoft Agent Framework Harness and Hosted Agents Reach General Availabil"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-04",
+    "topic": "ai_agents",
+    "title": "Orchard: An open framework for scalable agentic AI - Microsoft Research",
+    "url": "https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai/",
+    "snippet": "- Orchard is an open-source framework for scalable and cost-effective agentic AI research, built around Orchard Env, a reusable environment service for training and evaluating agents across task domains.\n...\n- The same Orchard infrastructure supports software-engineering, web-navigation, and personal-assistant agents, and can train them directly inside real deployment harnesses such as Codex, Open"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-04",
+    "topic": "ai_agents",
+    "title": "Asana's AI agents share memory across your company \u2014 but not your secrets | VentureBeat",
+    "url": "https://venturebeat.com/orchestration/asanas-ai-agents-share-memory-across-your-company-but-not-your-secrets",
+    "snippet": "Asana's AI agents share memory across your company \u2014 but not your secrets | VentureBeat\n\n4:14 pm, PT, August 3, 2026\n\nArnab Bose. Credit: Michael O'Donnell Photography\n\nAdd to Google Preferred Source\n\nEnterprise teams building AI agents keep hitting the same wall: a chatbot that can answer a prompt but can't remember what the last five people asked it, and can't tell you whether last month's versi"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-04",
+    "topic": "ai_small_business",
+    "title": "What AI Automation Means for Small Agencies: Prompted Workflows, Not Random AI Tasks \u00b7 Aethera",
+    "url": "https://aethera.ai/blog/ai-automation-small-agencies-prompted-workflows",
+    "snippet": "Most agencies don\u2019t have an AI problem. They have a consistency problem: five clients, three strategists, two freelancers, six tools, and no reliable way to make the work feel like it came from the same team every time.\n...\nThat\u2019s where ai automation becomes useful\u2014not as a pile of one-off ChatGPT requests, but as repeatable prompted workflows that turn agency decisions into consistent execution.\n"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-04",
+    "topic": "ai_small_business",
+    "title": "ZenBusiness Velo\u00ae, the AI Guide for Small Businesses, Marks One Year with 2.5 Million Conversations",
+    "url": "https://www.prnewswire.com/news-releases/zenbusiness-velo-the-ai-guide-for-small-businesses-marks-one-year-with-2-5-million-conversations-302840689.html",
+    "snippet": "ZenBusiness Velo\u00ae, the AI Guide for Small Businesses, Marks One Year with 2.5 Million Conversations Accessibility Statement Skip Navigation\n\nOne year in, small business owners are returning to Velo again and again for everything from a first-time question about starting a business to complex compliance and growth decisions\n\nAUSTIN, Texas, Aug. 3, 2026 /PRNewswire/ -- ZenBusiness\u00ae, the AI platform "
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-04",
+    "topic": "ai_small_business",
+    "title": "'Every small business will eventually have a digital workforce of AI agents': Bluehost CEO on how AI agents are reshaping business",
+    "url": "https://www.techradar.com/pro/every-small-business-will-eventually-have-a-digital-workforce-of-ai-agents-bluehost-ceo-on-how-ai-agents-are-reshaping-business",
+    "snippet": "'Every small business will eventually have a digital workforce of AI agents': Bluehost CEO on how AI agents are reshaping business | TechRadar\n\nWhile interest in AI is high, only 16% of SMBs are using AI agents today.\n\n> Sachin Puri, CEO of Bluehost\n\nWe are moving from AI that helps entrepreneurs create things to AI that helps them run their business.\n\n> Sachin Puri, CEO of Bluehost\n\nTo some exten"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-04",
+    "topic": "ai_small_business",
+    "title": "Small Business AI Consultants: BlackCube Labs Launches Free AI Strategy Plan for Founders and SMEs | Markets Insider",
+    "url": "https://markets.businessinsider.com/news/stocks/small-business-ai-consultants-blackcube-labs-launches-free-ai-strategy-plan-for-founders-and-smes-1036399832",
+    "snippet": "Small Business AI Consultants: BlackCube Labs Launches Free AI Strategy Plan for Founders and SMEs | Markets Insider\n\n# Small Business AI Consultants: BlackCube Labs Launches Free AI Strategy Plan for Founders and SMEs\n\nAug. 3, 2026, 10:00 AM\n\nSheridan, WY, Aug. 03, 2026 (GLOBE NEWSWIRE) -- BlackCube Labs today announced the public availability of its new AI Strategy Plan, designed to help founder"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-04",
+    "topic": "ai_labs",
+    "title": "Inside Kaggle\u2019s AI Agents Intensive Course with Google",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
+    "snippet": "- - [Google DeepMind](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/)\n- [Google Research](https://blog.google/innovation-and-ai/models-and-research/google-research/)\n- [Google Labs](https://blog.google/innovation-and-ai/models-and-research/google-labs/)\n- [Gemini models](https://blog.google/innovation-and-ai/models-and-research/gemini-models/)\n- [Quantum computing](http"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-04",
+    "topic": "ai_labs",
+    "title": "gpt-5.6-luna is advertised for custom agents but rejected by Sol/Terra multi-agent V2 - ChatGPT / Bugs - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/gpt-5-6-luna-is-advertised-for-custom-agents-but-rejected-by-sol-terra-multi-agent-v2/1389020",
+    "snippet": "gpt-5.6-luna is advertised for custom agents but rejected by Sol/Terra multi-agent V2 - ChatGPT / Bugs - OpenAI Developer Community\n\nSkip to last reply Skip to top\n\nWelcome back, everyone!\n\nThanks for your patience. Maintenance is now complete, and the forum is available again.\n\nIf you are having trouble signing in, please use the magic link option or try resetting your password.\n\n# gpt-5.6-luna i"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-04",
+    "topic": "ai_labs",
+    "title": "Introducing Sail Tower, our new office in Austin, Texas",
+    "url": "https://blog.google/company-news/inside-google/company-announcements/austin-office-sail-tower/",
+    "snippet": "- - [Google DeepMind](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/)\n- [Google Research](https://blog.google/innovation-and-ai/models-and-research/google-research/)\n- [Google Labs](https://blog.google/innovation-and-ai/models-and-research/google-labs/)\n- [Gemini models](https://blog.google/innovation-and-ai/models-and-research/gemini-models/)\n- [Quantum computing](http"
   }
 ]
