@@ -14668,5 +14668,207 @@
     "title": "Introducing Sail Tower, our new office in Austin, Texas",
     "url": "https://blog.google/company-news/inside-google/company-announcements/austin-office-sail-tower/",
     "snippet": "- - [Google DeepMind](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/)\n- [Google Research](https://blog.google/innovation-and-ai/models-and-research/google-research/)\n- [Google Labs](https://blog.google/innovation-and-ai/models-and-research/google-labs/)\n- [Gemini models](https://blog.google/innovation-and-ai/models-and-research/gemini-models/)\n- [Quantum computing](http"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-08-05",
+    "headline": "Three companies shipped Handled's exact pitch this week, and none of them work with me.",
+    "url": "archive/2026-08-05.html",
+    "posts": {
+      "linkedin": [
+        "Everybody's suddenly scared of their AI bill.\n\nFor a minute that felt like maturity. Track your tokens, cap your usage, don't let the meter run wild.\n\nBut there's a story going around from inside Meta. One employee used 280 billion tokens in a single month. That's roughly 2.3 million books worth of text. Fifty books a minute, nonstop, for a month.\n\nThe company let it happen and called it a leaderboard.\n\nHere's the thing nobody's saying loud enough. The dollar amount was never the real question. The real question is what the task actually produced. A drafted email costs half a cent. Nobody should ration that. A research task can burn 100,000 tokens by accident because someone typed the wrong prompt.\n\nSpend wisely, not sparingly. That's the whole shift happening right now.\n\nWhat's the last AI task you ran that cost real money and actually paid for itself?",
+        "Three companies validated the exact bet I made with Handled this week, and none of them work with me.\n\nWhop shipped a CLI so a business owner's AI agent can launch products, run ads, and move money without touching code. Hatz AI gave MSPs a single dashboard to roll AI out to every small business client at once. Wayy.ai raised $2 million to build an AI co-founder that sells for solopreneurs.\n\nNone of that is a threat. It's confirmation.\n\nSmall businesses don't want a lecture on AI transformation. They want the frustrating parts of running a business handled by something that doesn't need a paycheck or a coffee break.\n\nYour ideas aren't bad ideas. They're just not finished ideas. Watching three companies ship pieces of mine this week just told me which parts to finish faster.\n\nIf three competitors show up in your space in one week, is that a warning sign or a green light?",
+        "The best AI agents right now aren't the smartest ones. They're the ones that keep working after you close the laptop.\n\nAWS just shipped Kiro Crew, a coding agent setup that runs while you're at dinner. Multiple agents, scheduled jobs, memory that survives between sessions. Their own developer advocate called it \"self-learning, autonomous teammates.\" Not a tool. A teammate.\n\nNVIDIA dropped Nemotron 3 Ultra the same week. 550 billion parameters built specifically for planning, coding calls, and verification, the boring middle of agent work nobody talks about. It holds a full million tokens of context so it doesn't forget what it was doing three steps ago.\n\nPut those two together and the bar just moved. It's not \"did the agent finish the task.\" It's \"did the agent keep going without me.\"\n\nThat changes what you build for. You stop designing for the demo and start designing for the run nobody's watching.\n\nHow much of what you build could survive you not checking in for six hours?"
+      ],
+      "threads": [
+        "One Meta employee burned 280 billion tokens in a month. That's about 2.3 million books worth of text, or fifty books a minute for a month straight, on one person's account.\n\nNobody stopped to ask if it was worth it. They just called it a leaderboard.\n\nThe real number was never tokens spent. It's what came out the other end. A drafted email costs half a cent, don't ration that. A research task can eat six figures of tokens by accident.\n\nSpend wisely, not sparingly. Different game.",
+        "Whop shipped a CLI this week so a business owner's AI agent can run the whole shop from a chat window. Hatz AI gave MSPs one dashboard to push AI to every small business client at once. Wayy.ai raised $2M for an AI co-founder that sells for solopreneurs.\n\nThree companies, one week, same pitch I've been building.\n\nWould someone pay for that? I think someone would pay for that. Apparently three someones already did.",
+        "AWS shipped a coding agent setup this week that keeps running after you close the laptop. Scheduled jobs, memory across sessions, a dashboard so you check in instead of hovering.\n\nNVIDIA dropped a model the same week built just for the boring middle of agent work: planning, verifying, holding a million tokens of context so it doesn't forget what it was doing.\n\nThe bar isn't \"did it finish.\" It's \"did it keep going without me watching.\"\n\nThat's a different thing to build for."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-08-05",
+    "source": "AI Daily Brief",
+    "title": "Everything You Need to Know about AI Tokens",
+    "url": "https://www.youtube.com/watch?v=dSNgCgQYYFY",
+    "video_id": "dSNgCgQYYFY"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-08-05",
+    "source": "AI Daily Brief",
+    "title": "How Significant Are AI's Latest Math Breakthroughs?",
+    "url": "https://www.youtube.com/watch?v=nWdL7fvOUXA",
+    "video_id": "nWdL7fvOUXA"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-05",
+    "topic": "model_releases",
+    "title": "NVIDIA Alpamayo 2 Super, the Frontier Open Model for Robotaxis and Autonomous Vehicles, Now Available for Commercial Use | NVIDIA Blog",
+    "url": "https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available/",
+    "snippet": "# NVIDIA Alpamayo 2 Super, the Frontier Open Model for Robotaxis and Autonomous Vehicles, Now Available for Commercial Use | NVIDIA Blog\n...\nNVIDIA Alpamayo 2 Super, the Frontier Open Model for Robotaxis and Autonomous Vehicles, Now Available for Commercial Use | NVIDIA Blog\n...\n# NVIDIA Alpamayo 2 Super, the Frontier Open Model for Robotaxis and Autonomous Vehicles, Now Available for Commercial U"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-05",
+    "topic": "model_releases",
+    "title": "NVIDIA Nemotron 3 Ultra: Top AI agent advances - Techgenyz",
+    "url": "https://techgenyz.com/nvidia-nemotron-3-ultra/",
+    "snippet": "# NVIDIA Nemotron 3 Ultra: Top AI agent advances\n...\nNVIDIA launched Nemotron 3 Ultra featuring a 550B Mixture-of-Experts architecture for AI agents.\n...\nSupports 1 million context tokens alongside 5x higher inference throughput for complex workflows.\n...\nOpen-source release includes model weights, training data, and recipes under Linux Foundation licensing.\n...\nAs AI systems move\n...\n, long-runni"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-05",
+    "topic": "model_releases",
+    "title": "Tencent Hy3 Now Available Globally, Extending Practical AI Across Products, Workflows and Cloud Services",
+    "url": "https://www.prnewswire.com/news-releases/tencent-hy3-now-available-globally-extending-practical-ai-across-products-workflows-and-cloud-services-302843373.html",
+    "snippet": "Tencent Hy3 Now Available Globally, Extending Practical AI Across Products, Workflows and Cloud Services Accessibility Statement Skip Navigation\n\nCo-designed with Tencent products and strengthened through real-world use, Hy3 brings advanced reasoning and agent capabilities to global users through WorkBuddy, Miora and Tencent Cloud TokenHub.Try Hy3 on WorkBuddy Free Until 31 August 2026\n\nHONG KONG,"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-05",
+    "topic": "product_releases",
+    "title": "Unity AI Gateway is Generally Available | Databricks Blog",
+    "url": "https://www.databricks.com/blog/unity-ai-gateway-generally-available",
+    "snippet": "Unity AI Gateway is Generally Available | Databricks Blog\n...\n\u2022 Unity AI Gateway is now Generally Available, giving enterprises a unified way to govern AI spend, security, and access across agents, models, MCPs, skills, and tools. \u2022 As AI adoption scales, token-based costs can grow quickly and unpredictably. Unity AI Gateway provides end-to-end observability, cost controls, and smart routing to ma"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-05",
+    "topic": "product_releases",
+    "title": "The Bubble AI Agent Goes Mobile: Build Native Apps With AI | Bubble",
+    "url": "https://bubble.io/blog/bubble-ai-agent-mobile/",
+    "snippet": "The Bubble AI Agent Goes Mobile: Build Native Apps With AI | Bubble\n...\n# Introducing New Native Mobile Capabilities for the Bubble AI Agent (+ More)\n...\nThe Bubble AI Agent now builds and edits native mobile apps without restrictions, sets up API connections, and fixes issues in your app automatically.\n...\nSay hello to the Bubble AI Agent\u2019s mobile release. The Agent is your building partner insid"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-05",
+    "topic": "product_releases",
+    "title": "Wispr Flow takes on AI meeting assistants with Notetaker - 9to5Mac",
+    "url": "https://9to5mac.com/2026/08/05/wispr-flow-takes-on-ai-meeting-assistants-with-notetaker-its-first-product-beyond-dictation/",
+    "snippet": "Wispr Flow takes on AI meeting assistants with Notetaker - 9to5Mac\n...\n# Wispr Flow takes on AI meeting assistants with Notetaker, its first product beyond dictation\n\n Marcus Mendes | Aug 5 2026 - 12:01 am PT \n\nWispr Flow users on Mac can now access Notetaker, an AI-powered meeting assistant that uses calendars, connected apps, and personal dictionaries to provide additional context for transcript"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-05",
+    "topic": "product_releases",
+    "title": "Introducing Sysdig Secure AI: Your expert AI security team | Sysdig",
+    "url": "https://www.sysdig.com/blog/introducing-sysdig-secure-ai",
+    "snippet": "Introducing Sysdig Secure AI: Your expert AI security team | Sysdig\n...\n# Introducing Sysdig Secure AI: Your expert AI security team\n...\nAugust 4, 2026\n...\n## Falco Feeds extends the power of Falco by giving open source-focused companies access to expert-written rules that are continuously updated as new threats are discovered.\n...\nToday, we\u2019re launching Sysdig Secure AI, an extension of the Sysdi"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-05",
+    "topic": "ai_agents",
+    "title": "AWS\u2019s Kiro Crew aims to turn AI coding agents into autonomous engineering teams | InfoWorld",
+    "url": "https://www.infoworld.com/article/4204961/awss-kiro-crew-aims-to-turn-ai-coding-agents-into-autonomous-engineering-teams.html",
+    "snippet": "AWS\u2019s Kiro Crew aims to turn AI coding agents into autonomous engineering teams | InfoWorld\n\n# AWS\u2019s Kiro Crew aims to turn AI coding agents into autonomous engineering teams\n\nnews\n\nAug 4, 20267 mins\n\nAWS on Tuesday released Kiro Crew, an open-source orchestration platform designed to help enterprises move beyond interactive AI coding assistants toward long-running, autonomous engineering workflow"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-05",
+    "topic": "ai_agents",
+    "title": "Microsoft introduces open-source framework for AI agents | Microsoft Signal Blog | Microsoft",
+    "url": "https://news.microsoft.com/signal/articles/microsoft-introduces-open-source-framework-for-ai-agents/",
+    "snippet": "Your Privacy Choices Opt-Out Icon Your Privacy Choices\n\nMicrosoft introduces open-source framework for AI agents | Microsoft Signal Blog | Microsoft\n[Skip to main content]()\n[\n![Microsoft](https://uhf.microsoft.com/images/microsoft/RE1Mu3b.png)\n](https://www.microsoft.com)\n[\nSignal ](https://news.microsoft.com/signal/)\n[Official Microsoft Blog](https://blogs.microsoft.com/)\n[Microsoft Source](http"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-05",
+    "topic": "ai_agents",
+    "title": "AWS launches Kiro Crew, an autonomous agentic orchestrator for 24/7 code development - SiliconANGLE",
+    "url": "https://siliconangle.com/2026/08/04/aws-launches-kiro-crew-autonomous-agentic-orchestrator-24-7-code-development/",
+    "snippet": "AWS launches Kiro Crew, an autonomous agentic orchestrator for 24/7 code development - SiliconANGLE\n\nSHARE\n\nUPDATED 13:00 EDT / AUGUST 04 2026\n\nAI\n\n### AWS launches Kiro Crew, an autonomous agentic orchestrator for 24/7 code development\n\nAmazon Web Services Inc. today launched Kiro Crew, an autonomous workspace that keeps artificial intelligence coding agents running all day and all night.\n\nThe co"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-05",
+    "topic": "ai_agents",
+    "title": "AWS launches autonomous orchestrator Kiro Crew for 24-hour code development support",
+    "url": "https://www.digitaltoday.co.kr/en/view/89215/aws-launches-autonomous-orchestrator-kiro-crew-for-24-hour-code-development-support",
+    "snippet": "AWS launches autonomous orchestrator Kiro Crew for 24-hour code development support\n\n. [Photo: Shutterstock]\n\nAmazon Web Services (AWS) has launched Kiro Crew, an autonomous workspace in which AI coding agents keep working even while developers are away.\n\nSiliconANGLE reported on Monday, local time, that Kiro Crew is designed to assign multi-step work to multiple agents and sub-agents, and to dela"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-05",
+    "topic": "ai_agents",
+    "title": "Guidewire launches Qusar with AI agents for insurers",
+    "url": "https://itbrief.com.au/story/guidewire-launches-qusar-with-ai-agents-for-insurers",
+    "snippet": "Guidewire launches Qusar with AI agents for insurers\n\nIT Brief Australia - Technology news for CIOs & IT decision-makers\n\nAustralia Powered By\n\n# Guidewire launches Qusar with AI agents for insurers\n\nTue, 4th Aug 2026 (Today)\n\nGuidewire has launched its Qusar release with a new Agentic Framework for insurers on its cloud platform. The update adds Guidewire-built AI agents for claims and underwriti"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-05",
+    "topic": "ai_small_business",
+    "title": "Whop launches command-line interface, bringing full stack API access to every business owner - and their AI agent armies",
+    "url": "https://newsroom.whop.com/cli/",
+    "snippet": "# Whop launches command-line interface, bringing full stack API access to every business owner - and their AI agent armies\n...\nWhop launches command-line interface, bringing full stack API access to every business owner - and their AI agent armies\n...\n# Whop launches command-line interface, bringing full stack API access to every business owner - and their AI agent armies\n...\nWhop, the company bui"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-05",
+    "topic": "ai_small_business",
+    "title": "Thryv Small Business Software News | Thryv",
+    "url": "https://www.thryv.com/news/thryv-launches-ai-native-growth-platform-for-small-businesses/",
+    "snippet": "Thryv Small Business Software News | Thryv\n\n1 (888) 733-9482\n\nProducts\n\nAI-Powered Growth Tools\n\nGet found online, win more customers, and drive repeat business in one unified platform.\n\nGet Found\n\nImprove online visibilityOnline Listings\n\nGrow your social followingSocial Media Management\n\nBoost your reputationReputation Management\n\nUpgrade your websiteProfessional Website\n\nWin More Customers\n\nSta"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-05",
+    "topic": "ai_small_business",
+    "title": "Wayy.ai Raises $2M Pre-seed",
+    "url": "https://www.thesaasnews.com/news/wayy-ai-raises-2m-pre-seed/",
+    "snippet": "Wayy.ai Raises $2M Pre-seed\n\nWayy.ai Raises $2M Pre-seed\n\nWayy.ai, based in San Francisco, is an AI-powered platform designed to function as a virtual sales co-founder for solopreneurs and small business owners. The company has officially closed a $2 million Pre-Seed funding round to support its growth.\n\n## Investors\n\nThe round was led by 0 to 1 Ventures, with participation from strategic angel in"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-05",
+    "topic": "ai_small_business",
+    "title": "Productize AI Consulting Services Around One Repeatable Agency Outcome \u00b7 Aethera",
+    "url": "https://aethera.ai/blog/productized-ai-consulting-services-agencies",
+    "snippet": "Most agencies do not need a vague \u201cAI transformation\u201d offer. They need a repeatable service that solves a painful, visible problem for a specific type of client\u2014without turning every engagement into custom strategy work.\n...\nFor small creative and digital agencies, the strongest productized AI consulting services usually start with one outcome: faster on-brand content, smoother campaign production"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-05",
+    "topic": "ai_small_business",
+    "title": "Hatz AI Launches Hatz Activate - The Fastest Way for MSPs to Bring Safe, Practical AI to Every Client",
+    "url": "https://www.prnewswire.com/news-releases/hatz-ai-launches-hatz-activate--the-fastest-way-for-msps-to-bring-safe-practical-ai-to-every-client-302840730.html",
+    "snippet": "Hatz AI Launches Hatz Activate - The Fastest Way for MSPs to Bring Safe, Practical AI to Every Client Accessibility Statement Skip Navigation\n\nNew feature gives Managed Service Providers a single command center to see, invite, and activate SMB clients at scale \u2013 helping every business they support start getting real value from AI faster.\n\nNEW YORK, Aug. 4, 2026 /PRNewswire/ -- Hatz AI, the essenti"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-05",
+    "topic": "ai_labs",
+    "title": "Google AI announcements from July 2026",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
+    "snippet": "- - [Google DeepMind](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/)\n...\n- [Google Research](https://blog.google/innovation-and-ai/models-and-research/google-research/)\n...\n- [Google Labs](https://blog.google/innovation-and-ai/models-and-research/google-labs/)\n...\nmodels](https://blog.google/\n...\n-and-ai/models-and-research/gemini-models/)\n...\nGoogle DeepMind blog](htt"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-05",
+    "topic": "ai_labs",
+    "title": "Introducing Shieldstral. | Mistral AI",
+    "url": "https://mistral.ai/news/shieldstral/",
+    "snippet": "# Introducing Shieldstral. | Mistral AI\n...\nIntroducing Shieldstral. | Mistral AI\n...\n[Introducing Shieldstral.](https://mistral.ai/news/shieldstral)\n...\nResearch](https://mistral.ai/news\n...\nIntroducing Shieldstral\n...\n# Introducing Shieldstral.\n...\nAugust 4, 2026\n...\nBy Mistral\n...\nShieldstral introduces a 3B open-weights multimodal safety classifier that outperforms models up to 7x its size by "
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-05",
+    "topic": "ai_labs",
+    "title": "Tino Cuellar joins Anthropic as Chief Global Affairs Officer",
+    "url": "https://www.anthropic.com/news/tino-cuellar",
+    "snippet": "# Tino Cuellar joins Anthropic as Chief Global Affairs Officer\n\nPublished: 2026-08-04T17:05:54+00:00\nSource: anthropic.com (anthropic.com)\nLanguage: en\n\n## Story\n\nMariano-Florentino (Tino) Cu\u00e9llar will join Anthropic as its first Chief Global Affairs Officer, leading the company\u2019s work on policy, strategic international engagement, and government relationships worldwide.\n\nTino\u2019s career spans law, "
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-05",
+    "topic": "ai_labs",
+    "title": "Google Home Speaker \u2013 f\u00fcr euer smartes Zuhause mit Gemini",
+    "url": "https://blog.google/intl/de-de/produkte/hardware/google-home-speaker-gemini-for-home/",
+    "snippet": "Google Home Speaker \u2013 f\u00fcr euer smartes Zuhause mit Gemini\n\n# Google Home Speaker \u2013 f\u00fcr euer smartes Zuhause mit Gemini\n\n04 Aug 2026\n\n|\n\nAls erstes Ger\u00e4t, das f\u00fcr Gemini for Home entwickelt wurde, bringt der Google Home Speaker intuitive Hilfe, immersiven Sound und Privatsph\u00e4re in euren Alltag \u2013 einfach und per Sprache.\n\n---\n\nFrank Chen\n\nProduct Manager, Google Home\n\nMark Alexander\n\nGroup Product M"
   }
 ]
