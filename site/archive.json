@@ -14870,5 +14870,231 @@
     "title": "Google Home Speaker \u2013 f\u00fcr euer smartes Zuhause mit Gemini",
     "url": "https://blog.google/intl/de-de/produkte/hardware/google-home-speaker-gemini-for-home/",
     "snippet": "Google Home Speaker \u2013 f\u00fcr euer smartes Zuhause mit Gemini\n\n# Google Home Speaker \u2013 f\u00fcr euer smartes Zuhause mit Gemini\n\n04 Aug 2026\n\n|\n\nAls erstes Ger\u00e4t, das f\u00fcr Gemini for Home entwickelt wurde, bringt der Google Home Speaker intuitive Hilfe, immersiven Sound und Privatsph\u00e4re in euren Alltag \u2013 einfach und per Sprache.\n\n---\n\nFrank Chen\n\nProduct Manager, Google Home\n\nMark Alexander\n\nGroup Product M"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-08-06",
+    "headline": "Alibaba's Qwen3.8 Max just scored a 56 on the Artificial Analysis Intelligence Index. That ties Claude Opus 4.8 and beats every model out of Google, Meta, and xAI.",
+    "url": "archive/2026-08-06.html",
+    "posts": {
+      "linkedin": [
+        "The AI you couldn't afford in January is basically free by August.\n\nAlibaba just put out a model that ties Claude Opus 4.8 on the composite intelligence score. Beats every model out of Google, Meta, and xAI outright.\n\nHere's the part that actually changes things. They're open sourcing the full weights next week. And the API price is a fifth of what Opus costs.\n\nI keep watching this same pattern all year. A lab ships something. Everyone argues over whether it's really as good as they claim. Three months later it's the default because it's basically free.\n\nThe gap between \"frontier lab\" and \"everyone else\" used to be a moat. Now it's a few months, tops.\n\nMakes you wonder what the model you're paying full price for today costs by December.",
+        "Cold email is dying. Not because email is dead. Because everyone's spraying the same slop at the same list.\n\nHeard a breakdown today of a different way in. Watch the posts your ideal customer would actually stop scrolling for. Not their demographics. Not their job title. The specific thing they liked, commented on, or reacted to this week.\n\nThat like is a hand raise. A signal hidden inside a scroll. Someone telling you, without meaning to, \"I have this problem right now.\"\n\nPull that list. Enrich it. Reach out to the people who already told you what they care about instead of guessing from a firmographic filter.\n\nNone of this is new information. Sales people have chased engagement signals forever. What's new is doing it at a scale where one person can run the whole pipeline.\n\nWould someone pay for a tool that does just this one thing well? I think someone would pay for that.",
+        "Palantir's CEO said something on the earnings call most software companies are too scared to say out loud.\n\nHe said Palantir doesn't get paid for clicks or tokens or chats. Called that whole pricing model misplaced. Then went further, saying handing AI labs the keys to your business data is a quiet way of getting replaced by whoever built the model.\n\nHowever loud he said it, the underlying point is worth sitting with. A lot of AI pricing right now rewards usage, not outcomes. More tokens burned, more revenue for the lab. Weird incentive to build a business around.\n\nThe businesses that last are the ones charging for the result, not the compute. A cleaned up inbox. A booked call. A problem that's actually gone.\n\nThat's not just a service. That's a weight removal product.\n\nWhat are you actually charging for right now? The tool, or the thing it does for someone?"
+      ],
+      "threads": [
+        "A model just came out of Alibaba that ties Claude Opus on the big benchmark. Beats Google, Meta, and xAI outright. And they're giving away the full weights next week for anyone to run themselves.\n\nI keep watching this same movie play out. Something ships, people argue if it's real, then a few months later it's just the default because it's basically free.\n\nWonder what the model you're paying full price for right now looks like in December.",
+        "Heard someone break down cold outbound today and it clicked different.\n\nSkip the demographic filter. Watch what your ideal customer actually stops scrolling for. What they liked, what they commented on this week.\n\nThat's the real signal. Not their job title, not their industry. The thing they engaged with is them telling you, without meaning to, what's bothering them right now.\n\nFind the hand raise before you reach out. That's the whole game.",
+        "Palantir's CEO said something blunt on the earnings call. Said his company doesn't get paid for tokens or clicks or chats, and called that whole pricing model misplaced.\n\nKind of a wild thing to say out loud in an industry that mostly sells you the tool and calls it a day.\n\nMade me think about what I actually charge for versus what I say I charge for. Two different things more often than I'd like to admit."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-08-06",
+    "source": "The Koerner Office",
+    "title": "Starting My First Business Broke, Most Profitable Niches, and Best Automation Tools",
+    "url": "https://www.youtube.com/watch?v=zSJVaT-oLOQ",
+    "video_id": "zSJVaT-oLOQ"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-08-06",
+    "source": "Startup Ideas Podcast",
+    "title": "These AI Marketing Agents Get You Customers",
+    "url": "https://www.youtube.com/watch?v=mD7JpNHLT70",
+    "video_id": "mD7JpNHLT70"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-08-06",
+    "source": "AI Daily Brief",
+    "title": "Why the Data Center Debate Has Little to Do with AI",
+    "url": "https://www.youtube.com/watch?v=pIbi-dYCYeU",
+    "video_id": "pIbi-dYCYeU"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-08-06",
+    "source": "AI Daily Brief",
+    "title": "Can Open Models Solve Corporate AI Washing",
+    "url": "https://www.youtube.com/watch?v=yg_ZF8pPvIE",
+    "video_id": "yg_ZF8pPvIE"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-06",
+    "topic": "model_releases",
+    "title": "Tencent Hy3 Now Available Globally, Extending Practical AI Across Products, Workflows and Cloud Services - Tencent",
+    "url": "https://www.tencent.com/tencent-hy3-now-available-globally-extending-practical-ai-across-products-workflows-and-cloud-services/",
+    "snippet": "Tencent Hy3 Now Available Globally, Extending Practical AI Across Products, Workflows and Cloud Services - Tencent Skip to main content\n\nCo-designed with Tencent products and strengthened through real-world use, Hy3 brings advanced reasoning and agent capabilities to global users through WorkBuddy, Miora and Tencent Cloud TokenHub. Try Hy3 on WorkBuddy free until 31 August 2026.\n\nTencent today ann"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-06",
+    "topic": "model_releases",
+    "title": "Qwen 3.8 Max Scores 56 On Artificial Analysis Intelligence Index, Ahead Of All US Companies Except Anthropic And OpenAI",
+    "url": "https://officechai.com/ai/qwen-3-8-max-scores-56-on-artificial-analysis-intelligence-index-ahead-of-all-us-companies-except-anthropic-and-openai/",
+    "snippet": "# Qwen 3.8 Max Scores 56 On Artificial Analysis Intelligence Index, Ahead Of All US Companies Except Anthropic And OpenAI\n...\nIt\u2019s not just [Kimi K3](https://officechai.com/ai/kimi-k3-beats-fable-5-gpt-5-6-sol-on-frontend-code-arena/)\u2014 another Chinese model is now knocking at the doors of the AI frontier.\n...\nAlibaba\u2019s Qwen3.8 Max has landed a score of 56 on the [Artificial Analysis Intelligence I"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-06",
+    "topic": "model_releases",
+    "title": "Tencent opens core Hy3 AI model free globally, first since hiring ex-OpenAI researcher",
+    "url": "https://www.digitaltoday.co.kr/en/view/89623/tencent-opens-hy3-ai-model-free-globally-first-since-hiring-ex-openai-researcher",
+    "snippet": "Tencent opens core Hy3 AI model free globally, first since hiring ex-OpenAI researcher\n\nThe key to Hy3's overseas expansion is that it was distributed not only as an open model but also with practical work tools such as WorkBuddy. [Photo: Shutterstock]\n\nTencent is pushing its next-generation artificial intelligence model Hy3 (Hunyuan 3.0) into global markets, stepping up efforts to target overseas"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-06",
+    "topic": "model_releases",
+    "title": "MiniMax Hailuo 2.3: A New Level of Complex Video Performance & Media Agent - MiniMax News | MiniMax",
+    "url": "https://www.minimax.io/news/minimax-hailuo-23",
+    "snippet": "MiniMax Hailuo 2.3: A New Level of Complex Video Performance & Media Agent - MiniMax News | MiniMax\n\nModels\n\nLLM\n\nVIDEO\n\nSPEECH & MUSIC\n\nProduct\n\nAPI\n\nToken Plan\n\nResearch\n\nMiniMax H3\n\nCompany\n\nIntelligence with everyone\n\n2025.10.28\n\n# MiniMax Hailuo 2.3: A New Level of Complex Video Performance & Media Agent\n\nToday, we are excited to introduce the MiniMax video model, Hailuo 2.3. Building upon th"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-06",
+    "topic": "model_releases",
+    "title": "Tencent rolls out Hy3 in WorkBuddy\u2019s international edition with limited-time free access \u00b7 TechNode",
+    "url": "https://technode.com/2026/08/05/tencent-rolls-out-hy3-in-workbuddys-international-edition-with-limited-time-free-access/",
+    "snippet": "Tencent rolls out Hy3 in WorkBuddy\u2019s international edition with limited-time free access \u00b7 TechNode\n\nCredit: Photo by \u5927 \u795e on Unsplash\n\nTencent has integrated its Hy3 large language model into the international edition of WorkBuddy, marking the model\u2019s first rollout in the global version of the AI workspace. Users worldwide can access Hy3 at no cost through Aug. 31, 2026, Pacific Time, under a limi"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-06",
+    "topic": "product_releases",
+    "title": "META Launches Muse Code AI Coding Agent To Challenge OpenAI And Anthropic",
+    "url": "https://www.tradingview.com/news/stocktwits:5f32c419f094b:0-meta-launches-muse-code-ai-coding-agent-to-challenge-openai-and-anthropic/",
+    "snippet": "META Launches Muse Code AI Coding Agent To Challenge OpenAI And Anthropic \u2014 TradingView News\n\nSearch\n\nEN\n\n# META Launches Muse Code AI Coding Agent To Challenge OpenAI And Anthropic\n\n1 min read\n\nKey points:\n\n- Meta introduced its initial terminal coding agent, Muse Code, engineered under AI chief Alexandr Wang.\n- The tool operates alongside the newly unveiled Muse Spark 1.2 model.\n- Developers can"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-06",
+    "topic": "product_releases",
+    "title": "Sysdig launches Secure AI for cloud security teams",
+    "url": "https://itbrief.com.au/story/sysdig-launches-secure-ai-for-cloud-security-teams",
+    "snippet": "Sysdig launches Secure AI for cloud security teams\n...\n# Sysdig launches Secure AI for cloud security teams\n...\nWed, 5th Aug 2026 (Yesterday)\n...\nSysdig has launched Secure AI, a new security product for cloud environments that is now generally available.\n...\nSecure AI is aimed at security teams struggling to keep up with attacks on cloud systems and with a surge in newly discovered software vulne"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-06",
+    "topic": "product_releases",
+    "title": "Skillsoft launches AI Coach to widen workplace access",
+    "url": "https://itbrief.com.au/story/skillsoft-launches-ai-coach-to-widen-workplace-access",
+    "snippet": "Skillsoft launches AI Coach to widen workplace access\n...\n# Skillsoft launches AI Coach to widen workplace access \n\n Wed, 5th Aug 2026 (Today) \n\n MARK TARRE News Chief \n\nSkillsoft has launched AI Coach within its Percipio platform, with the tool available to select customers in early access.\n...\nThe new coaching product is intended to give employees personalised guidance linked to their role, goal"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-06",
+    "topic": "product_releases",
+    "title": "RiskProfiler launches KnyX for automated cyber response",
+    "url": "https://securitybrief.news/story/riskprofiler-launches-knyx-for-automated-cyber-response",
+    "snippet": "RiskProfiler launches KnyX for automated cyber response\n...\n# RiskProfiler launches KnyX for automated cyber response\n...\nTue, 4th Aug 2026 (Yesterday)\n...\nRiskProfiler has launched KnyX Autonomous Investigations, a product designed to automate investigation and response for external cyber threats.\n...\nKnyX follows a workflow of alert, investigation, verdict and remediation. RiskProfiler says it u"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-06",
+    "topic": "ai_agents",
+    "title": "AWS Open Sources Kiro Crew For Autonomous AI Engineering Teams - Open Source For You",
+    "url": "https://www.opensourceforu.com/2026/08/aws-open-sources-kiro-crew-for-autonomous-ai-engineering-teams/",
+    "snippet": "AWS Open Sources Kiro Crew For Autonomous AI Engineering Teams - Open Source For You\n\nSearch\n\n- Subscribe to Print Edition\n- Write For Us\n- Contact Us\n\nSign in\n\nWelcome! Log into your account\n\nyour username\n\nyour password\n\nForgot your password? Get help\n\nPassword recovery\n\nRecover your password\n\nyour email\n\nA password will be e-mailed to you.\n\nOpen Source For You\n\nHome Content News AWS Open Source"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-06",
+    "topic": "ai_agents",
+    "title": "AWS launches Kiro Crew for autonomous engineering teams - DEV Community",
+    "url": "https://dev.to/vpodk/aws-launches-kiro-crew-for-autonomous-engineering-teams-1o7m",
+    "snippet": "AWS launches Kiro Crew for autonomous engineering teams - DEV Community\n\nAWS introduced Kiro Crew on Tuesday as a new open-source orchestration platform. This tool aims to help businesses shift from interactive AI coding assistants toward autonomous engineering workflows. The system manages tasks across various repositories and developer tools over multiple work sessions to increase overall effici"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-06",
+    "topic": "ai_agents",
+    "title": "SnapLogic introduces agentic assistant for data integration | InfoWorld",
+    "url": "https://www.infoworld.com/article/4205287/snaplogic-introduces-agentic-assistant-for-data-integration.html",
+    "snippet": "SnapLogic introduces agentic assistant for data integration | InfoWorld\n\n# SnapLogic introduces agentic assistant for data integration\n\nnews\n\nAug 4, 20262 mins\n\nSnapLogic has introduced its new SnapGPT, an agentic assistant that helps enterprise teams plan, build, understand, and operate integrations through natural language.\n\nUnveiled July 28 and described as the company\u2019s most-significant advanc"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-06",
+    "topic": "ai_agents",
+    "title": "Prime Agent: A self-improving RLM agent",
+    "url": "https://www.primeintellect.ai/blog/prime-agent",
+    "snippet": "Today, we are launching Prime Agent, our self-improving coding harness designed around two abstractions, the Recursive Language Model (RLM) [[citation](https://arxiv.org/abs/2512.24601)] and Continual Harness [[citation](https://arxiv.org/abs/2605.09998)]. Modern harness designs were built around the capabilities of earlier generations of models, and they do not reflect what frontier models can do"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-06",
+    "topic": "ai_agents",
+    "title": "Missionforce National Security \u2014 IL5-Authorized AI Agents and Apps - Salesforce",
+    "url": "https://www.salesforce.com/news/press-releases/2026/08/05/dow-agentforce-mission-readiness/",
+    "snippet": "Missionforce National Security \u2014 IL5-Authorized AI Agents and Apps - Salesforce\n\nSkip to Content\n\nSkip to Footer\n\n0%\n\nAugust 5, 2026 6 min read\n\nWith new IL5 authorization, Agentforce 360 \u2014 Salesforce\u2019s full portfolio of AI agents, data capabilities, and apps \u2014 is now embedded into the Missionforce National Security platform.\n\nThe Department of War (DOW) can now deploy autonomous AI agents to stre"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-06",
+    "topic": "ai_small_business",
+    "title": "How to Build an AI Agent Without Coding in 2026 - TechPluto - Latest Startup & Tech News",
+    "url": "https://www.techpluto.com/how-to-build-an-ai-agent-without-coding-in-2026/",
+    "snippet": "Artificial intelligence is no longer limited to large technology companies or software developers. Small businesses, marketers, students, and creators can now use visual tools to create systems that understand instructions and complete useful tasks.\n...\nThese systems are called AI agents. They can read forms, classify enquiries, prepare summaries, create content briefs, update spreadsheets, draft "
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-06",
+    "topic": "ai_small_business",
+    "title": "Amazon Ads\u2019 Cyril Clerget on how AI Is democratising advertising for small businesses",
+    "url": "https://www.performancemarketingworld.com/article/1966624/amazon-ads-cyril-clerget-ai-democratising-advertising-small-businesses",
+    "snippet": "---\n\nFor years, channels like Streaming TV and the prospect of international expansion felt like exclusive territory reserved for big budgets.\n\nHowever, new research from Amazon Ads suggests that the barrier is rapidly dissolving. Nearly 80% of UK small and medium-sized businesses (SMBs) now see AI-powered tools as a game-changer, enabling them to access high-conversion formats, reach global audie"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-06",
+    "topic": "ai_small_business",
+    "title": "Build a Brand-Governed AI Marketing Stack Before Adding More Tools \u00b7 Aethera",
+    "url": "https://aethera.ai/blog/ai-marketing-tools-brand-governed-agency-stack",
+    "snippet": "AI marketing tools are software products that use machine learning, large language models, predictive analytics, or automation to support marketing work. In agency terms, they help teams move faster on tasks like research, drafting, planning, personalization, reporting, and workflow coordination.\n...\nThat\u2019s where a brand-governed stack matters. Instead of letting every strategist, designer, or acc"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-06",
+    "topic": "ai_small_business",
+    "title": "Bolder Digital Expands AI Marketing for Australian Businesses - MarTech Cube",
+    "url": "https://www.martechcube.com/bolder-digital-expands-ai-marketing-for-australian-businesses/",
+    "snippet": "Empowering Small to Medium Enterprises with Cutting-edge Automation and AI Solutions\n...\nBolder Digital, an AI, digital marketing, and automation agency headquartered in Tasmania, Australia, today launched an integrated service model that combines AI-powered lead generation, customer nurturing, business automation, and CRM systems with coordinated SEO, paid advertising, and social media campaign d"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-06",
+    "topic": "ai_labs",
+    "title": "The next chapter of our AI momentum",
+    "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+    "snippet": "DeepMind](\n...\nEditor\u2019s note: Today, Google and Alphabet CEO Sundar Pichai shared some changes with Google DeepMind teams, including new roles for Demis Hassabis and Koray Kavukcuoglu. Below are the messages Sundar and Demis sent to employees.\n...\nWe\u2019ve made extraordinary progress to deliver on our full AI stack. We\u2019ve got amazing talent, world-class compute, and products that bring AI to more peo"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-06",
+    "topic": "ai_labs",
+    "title": "Advancing voice intelligence with new models in the API",
+    "url": "https://openai.com/es-ES/index/advancing-voice-intelligence-with-new-models-in-the-api/",
+    "snippet": "# Advancing voice intelligence with new models in the API\n\nPublished: 2026-08-05T05:11:31+00:00\nSource: openai.com (openai.com)\nLanguage: es\n\n## Story\n\nBig Bench Audio\u2060 eval\u00faa capacidades de razonamiento desafiantes en modelos de lenguaje compatibles con entrada de audio. Audio MultiChallenge\u2060(se abre en una ventana nueva) eval\u00faa la inteligencia conversacional de varios turnos en sistemas de di\u00e1lo"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-06",
+    "topic": "ai_labs",
+    "title": "Securing Android AI interoperability in Europe",
+    "url": "https://blog.google/security/android-ai-security-eu-dma/",
+    "snippet": "Over the last six months, we have been engaging closely with the European Commission (EC) after they opened [specification proceedings](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_202) related to Android interoperability for AI services, pursuant to the EU Digital Markets Act (DMA). At the center of this engagement is the EC\u2019s desire to mandate that Android provides user-downloaded"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-06",
+    "topic": "ai_labs",
+    "title": "Feature request: Generative UI for interactive, stateful workflows in ChatGPT - ChatGPT / Feature requests - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/feature-request-generative-ui-for-interactive-stateful-workflows-in-chatgpt/1389131",
+    "snippet": "Feature request: Generative UI for interactive, stateful workflows in ChatGPT - ChatGPT / Feature requests - OpenAI Developer Community\n\nWelcome back, everyone!\n\nThanks for your patience. Maintenance is now complete, and the forum is available again.\n\nIf you are having trouble signing in, please use the magic link option or try resetting your password.\n\n# Feature request: Generative UI for interac"
   }
 ]
