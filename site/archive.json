@@ -15096,5 +15096,223 @@
     "title": "Feature request: Generative UI for interactive, stateful workflows in ChatGPT - ChatGPT / Feature requests - OpenAI Developer Community",
     "url": "https://community.openai.com/t/feature-request-generative-ui-for-interactive-stateful-workflows-in-chatgpt/1389131",
     "snippet": "Feature request: Generative UI for interactive, stateful workflows in ChatGPT - ChatGPT / Feature requests - OpenAI Developer Community\n\nWelcome back, everyone!\n\nThanks for your patience. Maintenance is now complete, and the forum is available again.\n\nIf you are having trouble signing in, please use the magic link option or try resetting your password.\n\n# Feature request: Generative UI for interac"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-08-07",
+    "headline": "A standard just dropped for packaging AI skills and MCP servers.",
+    "url": "archive/2026-08-07.html",
+    "posts": {
+      "linkedin": [
+        "Every AI concierge builder hits the same wall eventually.\n\nYou build a great skill for one client. Next client, you're rebuilding the wrapper. Different manifest, different folder shape, same skill underneath.\n\nToday Amazon, Cursor, Microsoft, OpenAI, and Vercel published a standard for this. Google just joined. It's called Agent Plugins.\n\nPackage the skill once. Ship it to ChatGPT, Cursor, Copilot, VS Code, whatever the client already uses.\n\nNobody's making a reel about a manifest file. But this is the boring infrastructure move that turns \"I did this for one client\" into \"I did this for forty.\"\n\nHow many hours have you lost this year rebuilding the same thing for a new client?",
+        "The best AI service offer I heard about this week wasn't complicated. It was just priced right.\n\nA guy running an AI concierge business landed a client, a fintech CEO, sending a weekly company memo that took him 2 hours.\n\nThey built one Claude skill. Now it takes 15 minutes.\n\nThe CEO pays $2,000 a month for it. Not because of the hours worked on the call. Because of the hours he gets back every single week.\n\nThat's the whole trick nobody teaches: price the outcome, not your time. Two 45 minute calls a month at $2K is over a grand an hour, and the client still thinks it's a deal.\n\nWould someone pay for this? I think someone would pay for this.",
+        "OpenAI just shipped an update that sounds small and isn't.\n\nGPT-5.6 now offers a correction when just agreeing with you wouldn't actually help.\n\nThat's it. A model that's allowed to say \"actually, no\" instead of nodding along to whatever you typed.\n\nMost of the AI tools small business owners lean on right now are built to please. Ask if your idea is good and it'll find a way to say yes.\n\nA model that pushes back a little is worth more than one with a bigger context window. Nobody builds a business plan they can trust off a yes-man.\n\nWho's the person in your life that tells you the truth instead of what you want to hear? Your AI should work the same way."
+      ],
+      "threads": [
+        "Spent part of today reading about Agent Plugins. Amazon, Cursor, Microsoft, OpenAI, and Vercel all agreed on one way to package an AI skill so it works everywhere instead of getting rebuilt per client. Doesn't sound exciting. It's the kind of boring infrastructure that quietly makes an entire business model possible. Half the work in AI consulting right now is repackaging the same skill five different ways. That work is about to disappear.",
+        "Heard about a guy paying $2,000 a month for an AI skill that saves him 2 hours a week on one memo. Not because the build took long. Because the hours it gave back were worth way more than the fee. Most people selling AI services still price by the hour they spent instead of the hour they saved. That's the whole gap, and almost nobody closes it.",
+        "Watched a video about a woman who makes six figures a month selling porch pumpkin displays. Her whole model is four packages, pick one, no custom quotes. She said if she let people choose their own everything, that's just friction dressed up as flexibility. Feels like the same lesson every AI service builder learns eventually. A menu beats a blank page every time."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-08-07",
+    "source": "The Koerner Office",
+    "title": "She Makes $3K/Day Selling Pumpkins",
+    "url": "https://www.youtube.com/watch?v=vvtsOOGn6Io",
+    "video_id": "vvtsOOGn6Io"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-08-07",
+    "source": "Corey Ganim",
+    "title": "7 AI services boomer businesses are BEGGING to buy",
+    "url": "https://www.youtube.com/watch?v=2Lpvuue1GY4",
+    "video_id": "2Lpvuue1GY4"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-07",
+    "topic": "model_releases",
+    "title": "Improving GPT\u20115.6 Sol in ChatGPT\u2014and expanding access to GPT-5.6 Luna for free users",
+    "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
+    "snippet": "# Improving GPT\u20115.6 Sol in ChatGPT\u2014and expanding access to GPT-5.6 Luna for free users\n...\nGPT-5.6 Sol, tuned for how you use ChatGPT\n...\nFor Plus and Pro users, we\u2019re updating GPT\u20115.6 Sol in Chat to be more reliable with facts and provide more focused answers. A new slider lets you choose how much thought ChatGPT puts into each response.\n...\nEvery week, 1 billion people turn to ChatGPT for everyt"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-07",
+    "topic": "model_releases",
+    "title": "AMD Buys Taalas to Hardwire AI Models Into Silicon, Bypassing GPU Memory Wall",
+    "url": "https://www.techtimes.com/articles/323482/20260807/amd-buys-taalas-hardwire-ai-models-silicon-bypassing-gpu-memory-wall.htm",
+    "snippet": "AMD Buys Taalas to Hardwire AI Models Into Silicon, Bypassing GPU Memory Wall\n\nTaalas.com\n\nAMD agreed on August 6, 2026, to acquire Taalas, a Toronto startup whose chips hard-wire an AI model's weights permanently into transistors \u2014 eliminating the memory reads that set the speed ceiling for every GPU-based inference system in production today. The deal targets the single most expensive operation "
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-07",
+    "topic": "model_releases",
+    "title": "Sarvam is India\u2019s AI moment. What comes next counts.",
+    "url": "https://www.livemint.com/newsletters/tech-talk/sarvam-is-india-s-ai-moment-what-comes-next-counts-11786073502518.html",
+    "snippet": "Sarvam is India\u2019s AI moment. What comes next counts. | Mint\n\n# Sarvam is India\u2019s AI moment. What comes next counts.\n\n## Sarvam AI is positioning itself as India\u2019s answer to the AI world led by OpenAI and Anthropic, but the country is simultaneously the biggest challenge and opportunity for the AI startup.\n\nSarvam AI founders Vivek Raghavan (left) and Pratyush Kumar (right) with Infosys co-founder "
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-07",
+    "topic": "model_releases",
+    "title": "Ooredoo teams up with Nvidia and Nokia to launch 1 GW AI platform in Indonesia",
+    "url": "https://fortune.com/2026/08/06/qatar-ooredoo-nvidia-nokia-unveil-multi-billion-dollar-ai-compute-platformand-southeast-asia-is-their-target/",
+    "snippet": "Ooredoo teams up with Nvidia and Nokia to launch 1 GW AI platform in Indonesia | Fortune\n\n# New\n\nWatch Fortune Daily, our new video show that brings you inside the Fortune newsroom and the boardroom\n\n# Qatar\u2019s Ooredoo, Nvidia, and Nokia unveil multi-billion-dollar AI compute platform\u2014and Southeast Asia is their target\n\nBy\n\nMelissa Hancock\n\nWriter\n\nBy\n\nMelissa Hancock\n\nWriter\n\nAugust 6, 2026, 8:00 "
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-07",
+    "topic": "model_releases",
+    "title": "How Open Source Infrastructure Powers the AI Economy\uff5ca16z",
+    "url": "https://finance.biggo.com/podcast/1c921cbf05bf49e1",
+    "snippet": "# Why Every AI Company Depends on Open Source | Inferact with a16z\n\n- Source: a16z\n- Published: 2026-08-06T14:57:20.000Z\n- Duration: 45m 57s\n- Language: en\n- Topics: Open-Source AI History, Inference Engine Infrastructure, Open-Weight Model Economics, Frontier Model Gap, Guardrails and Moderation, Model Licensing and Funding, Distillation and Innovation, AI Startup Ecosystem\n\n## Quick Take\n\na16z p"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-07",
+    "topic": "product_releases",
+    "title": "Google Gemini and the FA launch England AI fan mural experience | England Football",
+    "url": "https://www.englandfootball.com/articles/2026/Jun/08/google-gemini-england-ai-fan-mural-experience-20260806",
+    "snippet": "Google Gemini and the FA launch England AI fan mural experience | England Football\n...\n# Google Gemini and the FA launch England AI fan mural experience\n...\n## Google Gemini is giving fans the superstar treatment with an England Fan Mural experience\n...\nGoogle Gemini and the FA have teamed up to give England football fans the ultimate way to show their support this summer, launching a new, \u2018Englan"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-07",
+    "topic": "product_releases",
+    "title": "Hers Adds an AI Tool to Help Women Navigate Weight Loss and GLP-1 Use",
+    "url": "https://www.cnet.com/health/medical/hers-adds-ai-tool-women-weight-loss-glp-1-use/",
+    "snippet": "# Hers Adds an AI Tool to Help Women Navigate Weight Loss and GLP-1 Use\n\nHers is testing the new feature with weight loss patients on GLP-1 medications, but plans to expand the service.\n\nGiselle Castro-Sloboda\n\nAugust 5, 2026, 9:35 am ET\n\n Hers healthcare platform now uses AI to help navigate your weight loss and health questions. Hers \n\nHers, a digital healthcare platform that provides virtual ca"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-07",
+    "topic": "product_releases",
+    "title": "Agent Plugins package your skills, tools, and more",
+    "url": "https://developers.googleblog.com/agent-plugins-package-your-skills-tools-and-more/",
+    "snippet": "Agent Plugins package your skills, tools, and more - Google Developers Blog\n\n# Agent Plugins package your skills, tools, and more\n\nAUG. 6, 2026\n\nKevin Hou Senior Staff Engineer Google DeepMind\n\nHaoyu Wang Staff Software Engineer Google Cloud Data\n\nAlan Blount Technical Product Manager Google Cloud AI\n\nShare\n\nAgent Plugins 1.0.0 is an open, vendor-neutral specification for packaging Agent Skills an"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-07",
+    "topic": "product_releases",
+    "title": "Qatar Airways and Accenture launch AI Skyways to transform aviation",
+    "url": "https://www.traveldailynews.com/aviation/qatar-airways-and-accenture-launch-ai-skyways-to-transform-aviation/",
+    "snippet": "Qatar Airways and Accenture launch AI Skyways to transform aviation\n...\nHome Aviation Qatar Airways and Accenture launch AI Skyways to transform aviation\n...\n# Qatar Airways and Accenture launch AI Skyways to transform aviation\n...\nQatar Airways partners with Accenture to launch AI Skyways, enhancing customer experience, operational efficiency, and innovation through responsible artificial intelli"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-07",
+    "topic": "product_releases",
+    "title": "Dubai Airports adopts AI-powered turnaround management",
+    "url": "https://www.traveldailynews.com/aviation/dubai-airports-adopts-ai-powered-turnaround-management/",
+    "snippet": "# Dubai Airports adopts AI-powered turnaround management\n...\nDubai Airports is introducing an AI-driven turnaround management system in collaboration with Assaia to enhance situational awareness, coordination and on-time performance across Dubai International.\n...\nDubai Airports is expanding its digital transformation efforts through a collaboration with Assaia to introduce an AI-powered turnaroun"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-07",
+    "topic": "ai_agents",
+    "title": "https://www.pinecone.io/newsroom/general-availability-of-pinecone-nexus-proves-knowledge-drives-real-outcomes-for-agentic-ai/",
+    "url": "https://www.pinecone.io/newsroom/general-availability-of-pinecone-nexus-proves-knowledge-drives-real-outcomes-for-agentic-ai/",
+    "snippet": "# General Availability of Pinecone Nexus Proves Knowledge Drives Real Outcomes for Agentic AI\n...\n**NEW YORK, August 6, 2026.** Pinecone announced today the general availability of Pinecone Nexus, a knowledge engine that transforms an enterprise's proprietary data and workflows into governed, agent-ready knowledge, delivering it to AI agents in a single call. On its debut on [\u03c4-Knowledge, Sierra's"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-07",
+    "topic": "ai_agents",
+    "title": "What are Agentic Workflows?",
+    "url": "https://www.databricks.com/blog/agentic-workflows",
+    "snippet": "As organizations move beyond single-prompt AI interactions, agentic workflows are emerging as the operational layer that allows AI agents to plan, execute, and refine multi-step tasks autonomously. Rather than producing a single output and stopping, an agentic workflow chains reasoning, tool use, and feedback into a continuous loop, enabling systems to complete complex objectives end to end with m"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-07",
+    "topic": "ai_agents",
+    "title": "Five9 Launches Breakthrough New Release of Voice AI Agents to Power the Next Generation of Agentic Self Service | Five9",
+    "url": "https://www.five9.com/news/news-releases/five9-launches-breakthrough-new-release-voice-ai-agents-power-next-generation",
+    "snippet": "Five9 Launches Breakthrough New Release of Voice AI Agents to Power the Next Generation of Agentic Self Service | Five9\n\nNews & Press| Media Resources\n\nNews Release\n\n# Five9 Launches Breakthrough New Release of Voice AI Agents to Power the Next Generation of Agentic Self Service\n\nFive9 Voice AI Agents provide human-like conversations, real-time responsiveness, enterprise-grade governance, and seam"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-07",
+    "topic": "ai_agents",
+    "title": "introducing-agent-plugins",
+    "url": "https://vercel.com/blog/introducing-agent-plugins",
+    "snippet": "# Introducing Agent Plugins\n...\n*A common format for packaging Agent Skills and MCP servers into distributable plugins*\n...\nToday, Agent Plugins 1.0.0 is publicly available. [Agent Plugins](https://agent-plugins.org/) is an open, vendor-neutral standard for plugins that extend AI agents.\n...\n[Agent Skills](https://agentskills.io/home) provide reusable instructions and resources for AI agents. [MCP"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-07",
+    "topic": "ai_agents",
+    "title": "Egnyte Launches AI-Powered Workflow Automation for Enterprise Content Management",
+    "url": "https://techafricanews.com/2026/08/06/egnyte-launches-ai-powered-workflow-automation-for-enterprise-content-management/",
+    "snippet": "Egnyte Launches AI-Powered Workflow Automation for Enterprise Content Management - TechAfrica News\n\nToday's Bulletin: August 6, 2026\n\nMore results...\n\nGeneric selectors\n\nExact matches only\n\nSearch in title\n\nSearch in content\n\nPost Type Selectors\n\nFilter by Categories\n\nAfrica CEO Forum\n\nAfricacom\n\nAfricaCom 2024\n\nAfricaCom 2025\n\nAI\n\nApps\n\nApps\n\nArabsat\n\nBanking\n\nBroadcast\n\nCABSAT\n\nCabsat\n\nCloud\n\nCo"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-07",
+    "topic": "ai_small_business",
+    "title": "How This 26-Year-Old Entrepreneur Used Genspark to Build an AI Chief of Staff With No Tech Background",
+    "url": "https://www.genspark.ai/blog/entrepreneur-builds-ai-chief-of-staff-no-tech-background",
+    "snippet": "Seve Ortale is 26. He runs three companies out of Nashville, Tennessee, manages 600 independent sales agents across the US, and pays about $4,000 a month for his most important team member.\n...\nSeve\u2019s Genspark Claw, Goose, lives in Slack, connects to Notion, integrates with Xero, monitors Seve's calendar and inbox, runs daily briefings, manages commission workflows, and distributes project tasks t"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-07",
+    "topic": "ai_small_business",
+    "title": "Na\u00efve raises $28.5M to automate the grunt work of setting up and running a company",
+    "url": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
+    "snippet": "Na\u00efve raises $28.5M to automate the grunt work of setting up and running a company | TechCrunch\n\n\u2013:\u2013:\u2013:\u2013\n\n\ud83d\udea8 Flash Sale \ud83d\udea8 Get $100 off your Disrupt 2026 ticket\n\nGet $400 off your Disrupt 2026 ticket: REGISTER NOW.\n\nImage Credits:J Studios / Getty Images\n\n# Na\u00efve raises $28.5M to automate the grunt work of setting up and running a company\n\n10:00 AM PDT \u00b7 August 6, 2026\n\nDevelopers detest drudgery. T"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-07",
+    "topic": "ai_small_business",
+    "title": "FinancialContent - Best AI automation agencies in the USA: a 2026 guide",
+    "url": "https://markets.financialcontent.com/stocks/article/globeprwire-2026-8-6-best-ai-automation-agencies-in-the-usa-a-2026-guide",
+    "snippet": "Finding a reliable AI automation agency is harder than it looks. The market is crowded, vendor claims often run well ahead of delivery capability, and the gap between a partner that measurably reduces operating costs and one that delivers a few connected bots is rarely obvious from a website or a sales call.\n...\nThis guide covers the companies US businesses are actively working with in 2026 for [A"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-07",
+    "topic": "ai_small_business",
+    "title": "Build Agentic Accounts Receivable App to Chase Invoices",
+    "url": "https://www.rocket.new/blog/how-to-build-agentic-accounts-receivable-app-chase-invoices",
+    "snippet": "Build an agentic accounts receivable app that detects overdue invoices, scores collection priority with AI, and sends automated SMS reminders, giving solo founders the same cash flow gains that enterprise AR platforms charge six figures to deliver.\n...\nWhat is agentic accounts receivable? An agentic AR system is an AI-powered application that autonomously detects overdue invoices, scores each acco"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-07",
+    "topic": "ai_labs",
+    "title": "Improving Fable 5 Safeguards \\ Anthropic",
+    "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
+    "snippet": "# Improving Fable 5 Safeguards \\ Anthropic\n...\nProductAnnouncements\n...\n# Improving Fable 5's biology safeguards\n...\nWe\u2019re making updates to Claude Fable 5\u2019s biology safeguards in a way that substantially reduces false positives. Fable 5 users will now experience many fewer \u201cfallbacks\u201d\u2014where the system switches to a less capable model after they make a biology-related query. In our testing, this u"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-07",
+    "topic": "ai_labs",
+    "title": "WeatherNext 2: AI model predictions for tropical cyclones",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/weathernext-2-cyclones/",
+    "snippet": "WeatherNext 2: AI model predictions for tropical cyclones\n\n# Our WeatherNext 2 AI model demonstrated a massive leap forward in predicting cyclones.\n\nAug 06, 2026\n\n---\n\nPredicting how hurricanes and cyclones develop is a longstanding challenge, and every hour of warning counts. Tropical cyclones are among the most destructive weather events on Earth, and for meteorologists, issuing accurate, timely"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-07",
+    "topic": "ai_labs",
+    "title": "AI model achieves breakthrough in forecasting cyclones \u2014 Google DeepMind",
+    "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+    "snippet": "# AI model achieves breakthrough in forecasting cyclones \u2014 Google DeepMind\n...\nAI model achieves breakthrough in forecasting cyclones \u2014 Google DeepMind\n...\n## Our latest AI breakthroughs and updates from the lab\n...\n[NewsDiscover our latest AI breakthroughs, projects, and updates](https://deepmind.google/blog/)\n...\n## Our latest AI breakthroughs and updates from the lab\n...\ndm-deepmind\n...\nwith-yo"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-07",
+    "topic": "ai_labs",
+    "title": "How Gemini plans custom trips with detailed itineraries",
+    "url": "https://blog.google/products-and-platforms/products/gemini/how-gemini-plans-trips/",
+    "snippet": "- - [Google DeepMind](https://blog.google/innovation-and-ai/models-and-research/google-deepmind\n...\nblog.google/innovation-and-ai\n...\nmodels-and-research\n...\ngoogle-research\n...\nGoogle Labs](\n...\n-and-research/google-labs\n...\nGoogle DeepMind blog](https://\n...\nmind.google\n...\nGoogle DeepMind](https://blog.google/innovation-and\n...\nmodels-and-research\n...\ngoogle-deepmind\n...\n-research/\n...\n? Gemini"
   }
 ]
