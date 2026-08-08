@@ -15314,5 +15314,199 @@
     "title": "How Gemini plans custom trips with detailed itineraries",
     "url": "https://blog.google/products-and-platforms/products/gemini/how-gemini-plans-trips/",
     "snippet": "- - [Google DeepMind](https://blog.google/innovation-and-ai/models-and-research/google-deepmind\n...\nblog.google/innovation-and-ai\n...\nmodels-and-research\n...\ngoogle-research\n...\nGoogle Labs](\n...\n-and-research/google-labs\n...\nGoogle DeepMind blog](https://\n...\nmind.google\n...\nGoogle DeepMind](https://blog.google/innovation-and\n...\nmodels-and-research\n...\ngoogle-deepmind\n...\n-research/\n...\n? Gemini"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-08-08",
+    "headline": "OpenAI paused their next model, Astra, because it hit \"Critical\" on their own internal safety scale. Not for writing better essays. For finding zero-day exploits and running full cyberattacks on hardened systems without a human steering it.",
+    "url": "archive/2026-08-08.html",
+    "posts": {
+      "linkedin": [
+        "Somebody just gave away the exact prompt to build a service most agencies are about to charge five figures for.\n\nWatched a video today where a guy built an app in about ten minutes that connects to Ahrefs, tells you exactly which competitors are getting cited when people ask ChatGPT or Perplexity a question in your industry, then writes the article to beat them and pushes it straight to the site.\n\nThat's it. That's the whole service.\n\nBusiness owners aren't scared because SEO died. They're scared because their competitor is showing up in the AI answer and they aren't, and nobody on their team knows why or what to do about it.\n\nIf you can hand someone one page that says here's who's winning your search terms in ChatGPT, here's the fix, that's not a pitch. That's a receipt.\n\nWould someone pay for that? I think someone would pay for that.",
+        "OpenAI just paused a model because it got too good.\n\nNot too good at writing essays. Too good at finding zero-day exploits and running full cyberattacks on its own, no human required.\n\nThat's the fourth safety pause across the big labs in three weeks. Anthropic, Meta, OpenAI's own Hugging Face stuff, now this.\n\nHere's the part that matters if you build with this stuff daily. These aren't companies discovering a bug. They're companies discovering a capability they didn't know they'd built until it showed up in testing.\n\nWe talk about AI like it's a tool you point at a task. Some of what's shipping now is closer to a coworker nobody fully vetted yet.\n\nDoesn't mean stop using it. Means the figure-out-the-guardrails-later era is ending faster than most teams realize.\n\nWhat's your plan for the version of this tool that's smarter than the person supervising it?",
+        "Airbnb didn't hire more engineers. They just shipped 80% more.\n\nChesky said it on the earnings call this week. Same headcount, six months, nearly 80% more features than the year before. Time from idea to launch dropped 60% on their biggest projects. Stock jumped 15% the next morning.\n\nThat's not a productivity hack. That's a different company running the same team.\n\nEveryone's still arguing about whether AI replaces jobs. Airbnb just showed you what it actually replaces: the twelve weeks between we should build this and we shipped this.\n\nDo more with the same. Not the same with less.\n\nMost small teams I talk to are still using AI to write emails faster. Fine start. But the gap between faster emails and 80% more output with the same team is the whole opportunity sitting right there."
+      ],
+      "threads": [
+        "Somebody built a whole client-ready service today just by connecting Ahrefs to an AI agent and asking it who's winning the ChatGPT answers in a given niche. Took about ten minutes on screen. Finds who's getting cited, writes the article to beat them, pushes it to the site.\n\nNobody's competitor did anything special. They just wrote one article before anyone else did.\n\nThat's the whole game right now.",
+        "OpenAI paused their next model today. Not because it broke. Because it got too good at finding security holes and exploiting them on its own.\n\nFourth safety pause across the big labs in three weeks.\n\nI keep hearing AI can't really do anything dangerous yet. That gap is closing faster than the headlines are keeping up with. Nobody built this on purpose. It just showed up during testing.",
+        "Airbnb shipped 80% more features this year. Same team. No new hires.\n\nChesky said the time from idea to launch dropped 60% on their biggest projects. Stock jumped 15% the next day.\n\nEveryone's debating whether AI takes jobs. Meanwhile the real story is teams doing way more with the same headcount, and nobody's talking about it because AI helped us ship faster doesn't make as good a headline as AI took my job."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-08-08",
+    "source": "Corey Ganim",
+    "title": "How to make f*ck you money SEOmaxxing boomer businesses",
+    "url": "https://www.youtube.com/watch?v=bVSiLqS9IUs",
+    "video_id": "bVSiLqS9IUs"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-08-08",
+    "source": "AI Daily Brief",
+    "title": "How Google's AI Leaders Leaving Could Lead to Better AI Models for You",
+    "url": "https://www.youtube.com/watch?v=K9mM2kWljm8",
+    "video_id": "K9mM2kWljm8"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-08",
+    "topic": "model_releases",
+    "title": "OpenAI Pauses Astra at \u2018Critical\u2019 Cyber Threshold \u2014 First Frontier Model to Trigger Highest Preparedness Framework Level \u2013 Forkast",
+    "url": "https://forkast.news/openai-pauses-astra-at-critical-cyber-threshold-first-frontier-model-to-trigger-highest-preparedness-framework-level/",
+    "snippet": "# OpenAI Pauses Astra at \u2018Critical\u2019 Cyber Threshold \u2014 First Frontier Model to Trigger Highest Preparedness Framework Level \u2013 Forkast\n...\n# OpenAI Pauses Astra at \u2018Critical\u2019 Cyber Threshold \u2014 First Frontier Model to Trigger Highest Preparedness Framework Level\n...\nInternal evaluations found Astra crossed into 'Critical' cyber capabilities \u2014 a level previous models never reached \u2014 forcing OpenAI to "
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-08",
+    "topic": "model_releases",
+    "title": "LG's Proprietary Industrial Data Tops Google, Alibaba in AI Benchmarks",
+    "url": "https://www.techtimes.com/articles/323604/20260807/lgs-proprietary-industrial-data-tops-google-alibaba-ai-benchmarks.htm",
+    "snippet": "LG AI Research announced Friday that two of its EXAONE industrial AI models have claimed global top spots on the benchmarks that matter most to factory floors, trading desks, and hospital wards \u2014 not the LLM reasoning tests that dominate headlines, but the tabular-data and time-series leaderboards where enterprise AI actually competes. EXAONE Tabular reached an ELO score of 1,760 on TabArena, the "
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-08",
+    "topic": "model_releases",
+    "title": "Airbnb Proves AI-Powered Engineering Beats Rivals: 80% More Features, Same Staff",
+    "url": "https://www.techtimes.com/articles/323585/20260807/airbnb-proves-ai-powered-engineering-beats-rivals-80-more-features-same-staff.htm",
+    "snippet": "Airbnb Proves AI-Powered Engineering Beats Rivals: 80% More Features, Same Staff\n\ngettyimages.com\n\nAirbnb's second-quarter results delivered the clearest evidence yet that the company has done something most enterprise AI rollouts only claim: it built a measurable, financial-grade productivity machine out of artificial intelligence \u2014 and is now using it to outgrow its two largest rivals without ad"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-08",
+    "topic": "model_releases",
+    "title": "Forbes 2026 AI 50 List | Top Artificial Intelligence Companies",
+    "url": "https://www.forbes.com/lists/ai50/",
+    "snippet": "Forbes 2026 AI 50 List | Top Artificial Intelligence Companies\n\n# Forbes 2026 AI 50 List | Top Artificial Intelligence Companies\n\nEdited by Rashi Shrivastava April 16, 2026 at 6:30 AM\n\nClick here for the full methodology.\n\n#### Anthropic\n\n- CEO: DARIO AMODEI\n- HQ: SAN FRANCISCO\n- FUNDING: $60 BIL\n- FOUNDED: 2021\n\nAnthropic had a busy February. First Claude Cowork, designed to automate common busin"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-08",
+    "topic": "product_releases",
+    "title": "xAI Ships Grok Imagine Image 2.0 With Precise Editing and a Top Arena Ranking",
+    "url": "https://www.unite.ai/xai-ships-grok-imagine-image-2-0-with-precise-editing-and-a-top-arena-ranking/",
+    "snippet": "xAI Ships Grok Imagine Image 2.0 With Precise Editing and a Top Arena Ranking \u2013 Unite.AI\n\nxAI shipped Grok Imagine Image 2.0 on August 7, 2026, making the new model generally available as the Quality Mode on grok.com/imagine and inside the company\u2019s iOS and Android apps, according to the company\u2019s announcement. The release lands as xAI lists its models under the SpaceXAI name, and it arrives with "
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-08",
+    "topic": "product_releases",
+    "title": "Walter AI Launches Its API Platform for AI Detection and Humanization",
+    "url": "https://tech.einnews.com/pr_news/932541230/walter-ai-launches-its-api-platform-for-ai-detection-and-humanization",
+    "snippet": "# Walter AI Launches Its API Platform for AI Detection and Humanization\n\nPublished: 2026-08-07T15:48:51+00:00\nSource: tech.einnews.com (tech.einnews.com)\nLanguage: en\n\n## Story\n\nThe unified authenticity API launches with SOC 2 Type I attestation: a production-ready way to detect, humanize, and verify AI content at scale.\n\nMONTREAL, CANADA, August 7, 2026 / EINPresswire.com / -- Walter AI (walterwr"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-08",
+    "topic": "product_releases",
+    "title": "Space and Time Launches Dreamspace Ai App Builder to Simplify Onchain Development - BitRss - Crypto World News",
+    "url": "https://bitrss.com/space-and-time-launches-dreamspace-ai-app-builder-to-simplify-onchain-development-204724",
+    "snippet": "Space and Time Launches Dreamspace Ai App Builder to Simplify Onchain Development - BitRss - Crypto World News\n...\n# Space and Time Launches Dreamspace Ai App Builder to Simplify Onchain Development\n...\nSpace and Time has launched Dreamspace, an AI-powered, no-code app builder designed to democratize blockchain development. Key Takeaways: Space and Time laun..."
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-08",
+    "topic": "product_releases",
+    "title": "Jack Dorsey Gives AI Agents Their Own Cryptographic Employee IDs",
+    "url": "https://startupfortune.com/jack-dorsey-gives-ai-agents-their-own-cryptographic-employee-ids/",
+    "snippet": "Jack Dorsey Gives AI Agents Their Own Cryptographic Employee IDs - Startup Fortune\n\n# Jack Dorsey Gives AI Agents Their Own Cryptographic Employee IDs\n\nBlock launched Buzz on July 21, an open-source Nostr-based workspace where AI agents like Claude Code and Codex get their own cryptographic identities instead of borrowing a human's login. Jack Dorsey doubled down on the project during Block's Augu"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-08",
+    "topic": "product_releases",
+    "title": "SentientX Unveils New Brand and Launches Its Most Advanced Human Identity Bank Release Yet for the AI Era | Bakersfield.com",
+    "url": "https://bakersfield.marketminute.com/article/marketersmedia-2026-8-8-sentientx-unveils-new-brand-and-launches-its-most-advanced-human-identity-bank-release-yet-for-the-ai-era",
+    "snippet": "SentientX Unveils New Brand and Launches Its Most Advanced Human Identity Bank Release Yet for the AI Era | Bakersfield.com\n...\n# SentientX Unveils New Brand and Launches Its Most Advanced Human Identity Bank Release Yet for the AI Era\n...\nSentientX unveils its new brand and launches the latest release of its Human Identity Bank platform for verified custody, licensing, and AI-powered protection o"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-08",
+    "topic": "ai_agents",
+    "title": "NVIDIA AI Releases NOOA: An Object-Oriented Python Framework That Turns an AI Agent Into a Single Python Class",
+    "url": "https://www.marktechpost.com/2026/08/07/nvidia-ai-releases-nooa-an-object-oriented-python-framework/",
+    "snippet": "NVIDIA AI Releases NOOA: An Object-Oriented Python Framework That Turns an AI Agent Into a Single Python Class - MarkTechPost\n\nSearch\n\nPremium Content\n\nRead our exclusive articles\n\nFacebook\n\nInstagram\n\nX\n\nSearch\n\nHome Editors Pick Agentic AI NVIDIA AI Releases NOOA: An Object-Oriented Python Framework That Turns an AI...\n\nNVIDIA Labs has open-sourced NOOA (NVIDIA Object-Oriented Agents), a model-a"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-08",
+    "topic": "ai_agents",
+    "title": "Agentic Infrastructure & AI Agents: Vercel Ship 2026 Insights - DEV Community",
+    "url": "https://dev.to/meghroop_tech/agentic-infrastructure-ai-agents-vercel-ship-2026-insights-422n",
+    "snippet": "Agentic infrastructure is a specialized computing environment designed to support and scale autonomous AI agents. It works by providing an end-to-end set of building blocks like the Vercel Agent Stack, Vercel Connect for secure external system access, and frameworks like eve for durable execution and sandboxed compute. Businesses use it for deploying intelligent software that can think, automate c"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-08",
+    "topic": "ai_agents",
+    "title": "Multi-Agent Systems in PRIME-RL",
+    "url": "https://www.primeintellect.ai/blog/multi-agent-systems",
+    "snippet": "Today, the Prime Intellect RL stack expands from training individual agents to multi-agent systems. You can now program arbitrary interactions between agents, choose which roles learn, and assign credit across the complete interaction.\n...\nTwo recently introduced abstractions set the stage for this development: [verifiers v1](https://www.primeintellect.ai/blog/verifiers-v1) introduced the primitiv"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-08",
+    "topic": "ai_agents",
+    "title": "MetaMask Launches Agent Wallet for Secure Autonomous AI Trading \u2013 Chain Grid News",
+    "url": "https://chaingridnews.com/2026/08/07/metamask-launches-agent-wallet-for-secure-autonomous-ai-trading/",
+    "snippet": "MetaMask Launches Agent Wallet for Secure Autonomous AI Trading \u2013 Chain Grid News\n\n# MetaMask Launches Agent Wallet for Secure Autonomous AI Trading\n\nMetaMask has officially launched Agent Wallet, a self-custodial wallet that allows artificial intelligence (AI) agents to execute on-chain transactions within user-defined security rules. The product aims to make autonomous crypto trading safer by co"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-08",
+    "topic": "ai_small_business",
+    "title": "Build the AI Operating Model Before You Add More Tools \u00b7 Aethera",
+    "url": "https://aethera.ai/blog/ai-powered-social-media-marketing-agency-operating-model",
+    "snippet": "AI won\u2019t fix a messy delivery model. If every strategist, copywriter, and account manager uses a different prompt, tool, and definition of \u201cgood,\u201d the agency gets faster at creating inconsistency.\n...\nFor a small social media marketing agency, the real advantage comes from designing how AI fits into the business before stacking more subscriptions onto the tech bill.\n...\nThat means AI supports repe"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-08",
+    "topic": "ai_small_business",
+    "title": "What AI Design Tools Are \u2014 and Where They Fit in an Agency Workflow \u00b7 Aethera",
+    "url": "https://aethera.ai/blog/ai-design-tools-agency-workflow",
+    "snippet": "AI belongs in the parts of agency work where momentum matters: turning inputs into options, compressing repetitive production steps, and helping teams move from blank page to workable direction faster.\n...\nAI design tools are software platforms that use generative AI, machine learning, or automation to support creative production. In practice, that can mean generating images, creating layout optio"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-08",
+    "topic": "ai_small_business",
+    "title": "BlackCube Labs Unveils Free AI Strategy Plan for Founders and SMEs",
+    "url": "https://www.martechcube.com/blackcube-labs-unveils-free-ai-strategy-plan-for-founders-and-smes/",
+    "snippet": "BlackCube Labs Unveils Free AI Strategy Plan\n\n# BlackCube Labs Unveils Free AI Strategy Plan for Founders and SMEs\n\nThe personalized resource helps founders assess AI readiness, prioritize five high-value use cases, and build a practical 90-day roadmap before investing in AI consulting or implementation.\n\nBlackCube Labs today announced the public availability of its new AI Strategy Plan, designed "
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-08",
+    "topic": "ai_small_business",
+    "title": "Introducing Zoho Expense MCP: Turn conversations into expense workflows - Zoho Blog",
+    "url": "https://www.zoho.com/blog/expense/introducing-zoho-expense-mcp-turn-conversations-into-expense-workflows.html",
+    "snippet": "Introducing Zoho Expense MCP: Turn conversations into expense workflows - Zoho Blog\n\n# Introducing Zoho Expense MCP: Turn conversations into expense workflows\n\nNeil Varshiney\n\nPublished on: Aug 7, 2026 Last Updated on: Aug 7, 2026\n\nArtificial intelligence (AI) has already changed how we search for information, summarize documents, and analyze data. But until recently, AI could only tell us what ne"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-08",
+    "topic": "ai_labs",
+    "title": "Responding to the next frontier of critical cyber capabilities",
+    "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+    "snippet": "# Responding to the next frontier of critical cyber capabilities\n\nPublished: 2026-08-07T15:20:00+00:00\nSource: openai.com (openai.com)\nLanguage: en\n\n## Story\n\nOpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we\u2019re taking to strengthen safeguards and security controls."
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-08",
+    "topic": "ai_labs",
+    "title": "How 5 builders are using Gemini Omni",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-builders/",
+    "snippet": "- - [Google DeepMind](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/)\n- [Google Research](https://blog.google/innovation-and-ai/models-and-research/google-research/)\n- [Google Labs](https://blog.google/innovation-and-ai/models-and-research/google-labs/)\n- [Gemini models](https://blog.google/innovation-and-ai/models-and-research/gemini-models/)\n- [Quantum computing](http"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-08",
+    "topic": "ai_labs",
+    "title": "Ask Maps is rolling out in Australia \u2013 helping you get answers, plan your trip and find inspiration",
+    "url": "https://blog.google/intl/en-au/products/explore-get-answers/ask-maps-australia/",
+    "snippet": "Ask Maps is rolling out in Australia \u2013 helping you get answers, plan your trip and find inspiration\n\n# Ask Maps is rolling out in Australia \u2013 helping you get answers, plan your trip and find inspiration\n\nAug 07, 2026\n\n|\n\n---\n\nGoogle Australia team\n\nShare\n\n---\n\nAsk Maps, Google Maps\u2019 biggest transformation in over a decade, is rolling out Australia in English. By bringing Gemini capabilities togeth"
   }
 ]
