@@ -15508,5 +15508,159 @@
     "title": "Ask Maps is rolling out in Australia \u2013 helping you get answers, plan your trip and find inspiration",
     "url": "https://blog.google/intl/en-au/products/explore-get-answers/ask-maps-australia/",
     "snippet": "Ask Maps is rolling out in Australia \u2013 helping you get answers, plan your trip and find inspiration\n\n# Ask Maps is rolling out in Australia \u2013 helping you get answers, plan your trip and find inspiration\n\nAug 07, 2026\n\n|\n\n---\n\nGoogle Australia team\n\nShare\n\n---\n\nAsk Maps, Google Maps\u2019 biggest transformation in over a decade, is rolling out Australia in English. By bringing Gemini capabilities togeth"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-08-09",
+    "headline": "Claude Code can now text itself.",
+    "url": "archive/2026-08-09.html",
+    "posts": {
+      "linkedin": [
+        "I used to be the router between my own coding sessions.\n\nThree terminal windows open. Three different problems. And me, copying error messages from one and pasting them into another like some kind of human API.\n\nAnthropic just fixed that. Claude Code sessions can message each other now. One session finds another one running on the same machine and just sends it what it needs.\n\nSmall feature. Doesn't get the headline treatment. But it's aimed at the actual bottleneck for anyone building fast. Not the model's intelligence. The coordination between the pieces you've already got running.\n\nI build in short bursts between other jobs, so I've always got a handful of half-finished threads going at once. If the tools start managing the handoffs instead of me, that's real time back, not a demo.\n\nWhat's the thing in your workflow right now where you're the router?",
+        "The \"I tried ChatGPT once and it wasn't that good\" excuse just got a lot smaller.\n\nThat excuse used to hold up. Free tier had limits, the model wasn't great, people bounced after one bad answer.\n\nOpenAI just made GPT-5.6 Luna the default for free users, and text chats are unlimited now. No cap.\n\nThat changes the conversation for anyone helping small business owners with AI. The gap used to be \"they haven't tried it yet.\" Now more of them have, and the free version is actually decent.\n\nSo the pitch has to move. It's not \"have you tried AI\" anymore. It's \"here's what's actually worth building on top of what you're already using.\"\n\nThe tool got easier to access. That doesn't make the value someone can add on top of it any less real.\n\nMakes me wonder how many \"let me show you ChatGPT\" pitches just became irrelevant overnight.",
+        "Most AI infrastructure is built to answer one question fast. Sail Research just raised $80 million betting that's the wrong shape for where this is going.\n\nEvery big provider optimizes for the same thing. Quick answer, single request, move on. Sail is building for agents that run for hours. Thousands of parallel tasks, not one prompt.\n\nTheir founder said it plain: \"Sail exists to make intelligence abundant.\" No jargon dressing it up.\n\nThink about what that actually changes. Right now most of us treat AI like a really smart search bar. Ask, get answer, ask again. A long-horizon agent is closer to handing off a job and checking back later.\n\nThat's a different relationship with the tool. Less \"let me ask this.\" More \"let me assign this.\"\n\nWhich of your weekly tasks could survive being handed off instead of asked about?"
+      ],
+      "threads": [
+        "Alibaba just put out a 2.4 trillion parameter model and next week they're handing over the weights for free. It beats Claude on some benchmarks and costs a fraction per token. This is the pattern now. Every few months something open and cheap shows up nipping at the heels of the expensive stuff. Doesn't mean drop what you're using. Means \"just pay for the best one\" has a shorter shelf life than it used to.",
+        "Vercel, Amazon, Microsoft, OpenAI and Cursor all agreed on a shared format for AI agent skills this week. Sounds huge. Standards get announced like this every few months though, and most quietly die when one company decides their version is better actually. I want to believe this one sticks because it's built on stuff that already works, MCP and Anthropic's Agent Skills. Ask me again in six months.",
+        "Cloudflare built a browser and it's not for you. It's for AI agents. No tabs, no themes, no bookmarks bar. Just something that manages context windows and token costs while an agent clicks around a website doing a task. Feels small until you remember every agent that \"browses the web\" right now is basically duct taped into a real browser built for humans. This is infrastructure finally catching up to what people are already trying to build."
+      ]
+    }
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-09",
+    "topic": "model_releases",
+    "title": "xAI's Imagine Image 2.0 lands just behind OpenAI's GPT-Image-2 in Arena benchmarks",
+    "url": "https://the-decoder.com/xais-imagine-image-2-0-lands-just-behind-openais-gpt-image-2-in-arena-benchmarks/",
+    "snippet": "xAI's Imagine Image 2.0 lands just behind OpenAI's GPT-Image-2 in Arena benchmarks\n\n# xAI's Imagine Image 2.0 lands just behind OpenAI's GPT-Image-2 in Arena benchmarks\n\nView the LinkedIn Profile of Matthias Bastian\n\nAug 8, 2026\n\nxAI releases Imagine Image 2.0 with editing tools and preconfigured templates. The model lands just behind OpenAI's GPT-Image-2 in Arena benchmarks.\n\nxAI has launched Ima"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-09",
+    "topic": "model_releases",
+    "title": "Alibaba's Qwen3.8-Max launches with 2.4T parameters | The Neural Feed",
+    "url": "https://theneuralfeed.com/article/alibaba-qwen-3-8-max-open-weights-expected-week-of-august-10/CXHH6Yh6",
+    "snippet": "Alibaba's Qwen3.8-Max launches with 2.4T parameters | The Neural Feed\n\nViral Wire\n\n# Alibaba's Qwen3.8-Max launches with 2.4T parameters\n\n\u26a1Alibaba's Qwen3.8-Max hits 2.4T parameters with a 1M token window...\n\nDeep Dive\n\nAlibaba\u2019s Qwen team launched **Qwen3.8-Max** on August 3, 2026, as its flagship model for 2026\u2014a **2.4 trillion parameter Mixture-of-Experts (MoE) model** with **95 billion active "
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-09",
+    "topic": "model_releases",
+    "title": "Alibaba's Qwen3.8-Max Signals China's Relentless Push to Close the AI Gap With the US - Innovation Village",
+    "url": "https://innovation-village.com/alibabas-qwen3-8-max-signals-chinas-relentless-push-to-close-the-ai-gap-with-the-us/",
+    "snippet": "The global artificial intelligence race is becoming increasingly difficult to frame as a contest led solely by Silicon Valley. In the space of just a few weeks, Chinese AI companies have unveiled a series of increasingly capable models, each narrowing the perceived performance gap with American rivals. Alibaba\u2019s latest release, Qwen3.8-Max, is the newest indication that China\u2019s AI ecosystem is ent"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-09",
+    "topic": "model_releases",
+    "title": "Qwen3.8-Max pushes Alibaba into the top tier | OraCore.dev",
+    "url": "https://oracore.dev/en/news/qwen38-max-top-tier-claude-comparison-en",
+    "snippet": "Qwen3.8-Max pushes Alibaba into the top tier | OraCore.dev\n\nAlibaba\u2019s Qwen3.8-Max-Preview is a 2.4T-parameter model that rivals top Claude systems.\n\nAlibaba has released Qwen3.8-Max-Preview, and the numbers are hard to ignore: 2.4 trillion parameters, stronger results in coding and agent tasks, and API pricing that undercuts several premium Western models. In the latest Arena rankings, it climbed "
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-09",
+    "topic": "model_releases",
+    "title": "xAI introduces its next generation image model, Imagine Image 2.0, on Grok - The Tech Outlook",
+    "url": "https://www.thetechoutlook.com/new-release/software-apps/xai-introduces-its-new-generation-image-model-imagine-image-2-0-on-grok/",
+    "snippet": "xAI introduces its next generation image model, Imagine Image 2.0, on Grok - The Tech Outlook\n\nSunday, August 9, 2026\n\nYesterday, xAI officially introduced its next-generation image model, Imagine Image 2.0, which comes with precise image generation and editing tools for real creative work. Image 2.0 is claimed to make images that you can use in real work.\n\nAnnouncing Imagine Image 2.0, our next g"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-09",
+    "topic": "product_releases",
+    "title": "Cloudflare launches Kitesurf, a web browser built for AI agents",
+    "url": "https://www.newsbytesapp.com/news/science/cloudflare-s-new-browser-kitesurf-is-designed-for-ai-agents/story",
+    "snippet": "Cloudflare launches Kitesurf, a web browser built for AI agents\n...\nKitesurf is a cloud-hosted browser\n...\n# Cloudflare launches Kitesurf, a web browser built for AI agents\n...\nAug 0\n...\nCloudflare has launched a new web browser called Kitesurf, but it's not your typical consumer-focused alternative to Chrome. Instead, the internet infrastructure provider has designed this cloud-hosted browser spe"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-09",
+    "topic": "product_releases",
+    "title": "Claude Code Adds Cross-Session Messaging on macOS - MacRumors",
+    "url": "https://www.macrumors.com/2026/08/08/claude-code-adds-cross-session-messaging/",
+    "snippet": "Claude Code Adds Cross-Session Messaging on macOS - MacRumors\n...\n# Claude Code Adds Cross-Session Messaging on macOS\n...\nAnthropic has updated Claude Code so that separate coding sessions can message each other directly, removing the need to manually copy context between Terminal windows.\n...\nThe company shipped the feature in Claude Code version 2.1.224, released on Friday for macOS and Linux. T"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-09",
+    "topic": "product_releases",
+    "title": "ChatGPT Gets Unlimited Text Chats for Free Users as GPT-5.6 Luna Becomes the Default Model - Tech2Geek",
+    "url": "https://www.tech2geek.net/chatgpt-gets-unlimited-text-chats-for-free-users-as-gpt-5-6-luna-becomes-the-default-model/",
+    "snippet": "ChatGPT Gets Unlimited Text Chats for Free Users as GPT-5.6 Luna Becomes the Default Model - Tech2Geek\n...\nOpenAI is making ChatGPT significantly more accessible to free users.\n...\nStarting this week, the company is rolling out a major update that brings GPT-5.6 Luna to Free and Go users as the default model while expanding access to unlimited text conversations. OpenAI is also introducing a new T"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-09",
+    "topic": "ai_agents",
+    "title": "I built AgentProdReady, an open-source TypeScript / Node.js framework for embedding AI agents into real backend apps - DEV Community",
+    "url": "https://dev.to/ameen_mari_34460765566e60/i-built-agentprodready-an-open-source-typescript-nodejs-framework-for-embedding-ai-agents-into-211h",
+    "snippet": "# I built AgentProdReady, an open-source TypeScript / Node.js framework for embedding AI agents into real backend apps - DEV Community\n...\nI built AgentProdReady, an open-source TypeScript / Node.js framework for embedding AI agents into real backend apps - DEV Community\n...\n# I built AgentProdReady, an open-source TypeScript / Node.js framework for embedding AI agents into real backend apps\n...\nQ"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-09",
+    "topic": "ai_agents",
+    "title": "AI Giants Unite on Agent Plugins 1.0 Spec for Portable Agent Skills | LavX News",
+    "url": "https://news.lavx.hu/article/ai-giants-unite-on-agent-plugins-1-0-spec-for-portable-agent-skills",
+    "snippet": "AI Giants Unite on Agent Plugins 1.0 Spec for Portable Agent Skills | LavX News\n\n#AI\n\n# AI Giants Unite on Agent Plugins 1.0 Spec for Portable Agent Skills\n\nAugust 8, 2026 at 12:33 AM\u2022\n\n\u20222 min read\n\nShare this article\n\nSave\n\nVercel, Amazon, Microsoft, OpenAI, and Cursor have released Agent Plugins 1.0, a specification that packages AI agent skills and tools into a portable directory format. The st"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-09",
+    "topic": "ai_agents",
+    "title": "Particle: Meta Launches Muse Code Beta With Persistent Coding Agents",
+    "url": "https://particle.news/story/meta-launches-muse-code-beta-with-persistent-coding-agents",
+    "snippet": "Particle: Meta Launches Muse Code Beta With Persistent Coding Agents\n\n## Overview\n\n- Muse Code is available in beta and runs on Muse Spark 1.2, using background subagents that stay active through entire work sessions and a local append\u2011only event log so interrupted runs can resume without losing edits.\n- Meta published pay\u2011as\u2011you\u2011go token prices of $1.25 per million input tokens and $4.25 per mill"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-09",
+    "topic": "ai_agents",
+    "title": "Sail Research Raises $80M for Long-Horizon AI Agents",
+    "url": "https://sentinel.ht/sail-research-80-million-long-horizon-agent-infrastructure/",
+    "snippet": "Sail Research Raises $80M for Long-Horizon AI Agents\n\n# Sail Research Raises $80 Million to Power Marathon AI Agents\n\n- Natalie Morgan\n- August 8, 2026\n\nSail Research has emerged from stealth with $80 million in combined seed and Series A funding to build inference infrastructure for AI agents that run for hours rather than seconds, the company announced on June 25. The round values the eight-mont"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-09",
+    "topic": "ai_agents",
+    "title": "nCino\u2019s Mortgage MCP: A Major shift for Lenders in AI Integration",
+    "url": "https://futurumgroup.com/insights/ncinos-mortgage-mcp-a-major-shift-for-lenders-in-ai-integration/",
+    "snippet": "---\ndescription: nCino launches Mortgage MCP, integrating AI agents into mortgage workflows. With 86.6% of buyers prioritizing autonomous agents, this addresses critical enterprise demand for agentic AI.\ntitle: nCino's Mortgage MCP: A Major shift for Lenders in AI Integration\nimage: https://futurumgroup.com/wp-content/uploads/2026/08/stock_0604.png\n---\n\n \n\n[Skip to content](#content) \n\n[Market Cov"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-09",
+    "topic": "ai_small_business",
+    "title": "Start With an AI Automation Audit, Not Another Tool \u00b7 Aethera",
+    "url": "https://aethera.ai/blog/ai-automation-audit-agency-workflows",
+    "snippet": "Before you add another subscription to the stack, find the work that is already leaking time, margin, and consistency. For most small agencies, the productivity win is not \u201cmore AI.\u201d It is knowing which parts of the workflow should be automated, which should stay human-led, and which are too brand-sensitive to treat casually.\n...\nIn an agency context, ai automation means using AI to move repeatabl"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-09",
+    "topic": "ai_small_business",
+    "title": "EQUP Bets on Saleoid and FieldServicePro as AI Operating Systems for Small Businesses - IssueWire",
+    "url": "https://www.issuewire.com/equp-bets-on-saleoid-and-fieldservicepro-as-ai-operating-systems-for-small-businesses-1872794141578202",
+    "snippet": "## The technology company behind Saleoid and FieldServicePro is building AI-powered software that helps small businesses act on their data instead of simply displaying it.\n...\nThe company believes SMEs do not need more dashboards, disconnected applications or complicated software suites. They need all in one [CRM for small businesses](https://saleoid.com/) that understand how their businesses oper"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-09",
+    "topic": "ai_small_business",
+    "title": "How to leverage low-code tools for your SG business",
+    "url": "https://www.onehealth.sg/2026/08/08/how-to-leverage-low-code-tools-for-your-sg-business/",
+    "snippet": "How to leverage low-code tools for your SG business\n\nSpread the love\n\nFor many Singapore businesses, the pressure is familiar: customers expect faster digital service, teams need to do more with less, and hiring specialist developers for every internal process is not always practical. This is where low-code tools have become relevant. They allow businesses to build applications, automate workflows"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-09",
+    "topic": "ai_labs",
+    "title": "Step into the world of tango on Google Arts & Culture",
+    "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/argentina-tango-collection/",
+    "snippet": "Step into the world of tango on Google Arts & Culture\n\n# Step into the world of tango on Google Arts & Culture\n\nDiscover the rich history, passionate dancers and enduring legacy of Argentinian tango through a new collection on Google Arts & Culture, created in partnership with local cultural institutions.\n\n---\n\nJuan Vallejo\n\nCountry Director, Google Argentina\n\nShare\n\n---\n\nYour browser does not sup"
   }
 ]
