@@ -15662,5 +15662,199 @@
     "title": "Step into the world of tango on Google Arts & Culture",
     "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/argentina-tango-collection/",
     "snippet": "Step into the world of tango on Google Arts & Culture\n\n# Step into the world of tango on Google Arts & Culture\n\nDiscover the rich history, passionate dancers and enduring legacy of Argentinian tango through a new collection on Google Arts & Culture, created in partnership with local cultural institutions.\n\n---\n\nJuan Vallejo\n\nCountry Director, Google Argentina\n\nShare\n\n---\n\nYour browser does not sup"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-08-10",
+    "headline": "Zuckerberg dropped a 6,500 word essay today. Short version: he thinks handing AI out to everyone is safer than a few labs keeping it locked up.",
+    "url": "archive/2026-08-10.html",
+    "posts": {
+      "linkedin": [
+        "Zuckerberg wrote 6,500 words today.\n\nThe short version: spread AI out to everyone instead of locking it in a few labs.\n\nHe's not just saying it. Meta open sourced a new model today called Muse Glimmer. Their flagship model opens up in a few weeks. A billion dollars going to the towns hosting their data centers.\n\nThen the part that got me. He told the White House their 30 day review window for new models is too slow. A lab asking the government to move faster, not slower.\n\nI've spent two years watching labs ask for more guardrails in public while racing each other in private. This is the opposite play.\n\nMaybe it's genuine. Maybe it's positioning. Probably both, same as everything else in this industry.\n\nEither way, a 30B model just became something you can run on your own laptop for free.\n\nWhich version protects the small business owner adopting AI more: the tool they can own, or the one they rent forever?",
+        "Harvard and MIT built 8.3 billion AI agents this week.\n\nNot to write code. To mirror actual human beings. Background, psychology, behavior, lifestyle, all the way down to a 1,290 dimension profile per agent.\n\nThen they ran them through surveys and chatbots and websites and checked how close the agents matched real people.\n\n91.5% consistency.\n\nThat number is the whole story. Market research used to mean a $5,000 invoice and three weeks of waiting on real respondents. If a synthetic panel gets you there at 91.5%, that invoice doesn't make sense anymore for a lot of businesses.\n\nWould someone pay for that? I think someone would pay for that. Probably a lot of someones.\n\nI'm not saying real customer conversations stop mattering. They don't. But the expensive middle step, the part where you pay to guess what people think before you ask them, that part's getting cheaper fast.\n\nWhat's the first research question you'd hand to a synthetic panel instead of a survey company?",
+        "Alibaba let AI agents run an online store for a full simulated year.\n\nNo humans. Just agents making the calls. Inventory, pricing, marketing, the whole thing.\n\nFinal result: 27.3% of what a human operator would've made.\n\nThat's not a failure. That's useful data. The agents were fine at the task in front of them. They struggled with the thing that isn't a task, the day after day adjusting, the noticing when the plan stopped working and needs a new plan.\n\nEvery week someone pitches a fully autonomous AI-run business like it's already here. It's not. Not this year.\n\nWhat's actually here is an agent that's great at one job, running on a loop, with a human deciding when the loop needs to change.\n\nThat's still a massive unlock. It's just not the headline version.\n\nIf you're building with agents right now, where's the line between what you'd trust the agent to decide and what still needs your eyes on it?"
+      ],
+      "threads": [
+        "Zuckerberg spent 6,500 words today arguing AI should be spread out, not locked up. Then open sourced a model to prove it. Then told the White House their review process is too slow.\n\nA lab asking the government to move faster. Not what I expected from this fight.\n\nCould be genuine. Could be positioning. It's usually both.\n\nEither way there's a free 30B model you can run on your own machine as of this morning.",
+        "Listened to a guy talk about starting an estate sale company with a price gun and some tape. Scaled it to a 32,000 square foot warehouse doing $25K weekends.\n\nThen the twist. The estate sale business isn't the real business. It's the lead gen front for something way more profitable.\n\nI keep seeing this pattern everywhere once you know to look for it. The thing people see isn't the thing making the money.\n\nWhat are you already doing for yourself that someone else would find useful? Might be closer than you think.",
+        "8.3 billion AI agents built to mirror real humans. Harvard, MIT, and every major lab had a hand in it.\n\n91.5% consistency with the personas they were assigned.\n\nThat's close enough to change what market research costs. Not close enough to replace an actual conversation with an actual customer.\n\nI don't think that gap closes as fast as people assume it will."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-08-10",
+    "source": "The Koerner Office",
+    "title": "The Most Overlooked Side Hustle You Can Start With $0",
+    "url": "https://www.youtube.com/watch?v=E9baszgY3J8",
+    "video_id": "E9baszgY3J8"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-08-10",
+    "source": "The Koerner Office",
+    "title": "The Most Overlooked Side Hustle You Can Start With $0 [NO ADS \u2022 FULL EPISODE]",
+    "url": "https://www.youtube.com/watch?v=dwEZ_ZgGDx0",
+    "video_id": "dwEZ_ZgGDx0"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-10",
+    "topic": "model_releases",
+    "title": "ByteDance Seed Introduces SeedRealtime: a Native Audio-Visual Full-Duplex LLM That Watches, Listens and Speaks in One Model",
+    "url": "https://www.marktechpost.com/2026/08/09/bytedance-seed-introduces-seedrealtime-a-native-audio-visual-full-duplex-llm-that-watches-listens-and-speaks-in-one-model/amp/",
+    "snippet": "ByteDance Seed Introduces SeedRealtime: a Native Audio-Visual Full-Duplex LLM That Watches, Listens and Speaks in One Model - MarkTechPost\n\nSearch\n\nPremium Content\n\nRead our exclusive articles\n\nFacebook\n\nInstagram\n\nX\n\nSearch\n\nHome Editors Pick Agentic AI ByteDance Seed Introduces SeedRealtime: a Native Audio-Visual Full-Duplex LLM That Watches, Listens...\n\nByteDance\u2019s Seed team has introduced Seed"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-10",
+    "topic": "model_releases",
+    "title": "Mark Zuckerberg AI essay pushes back on doomers, open source",
+    "url": "https://qz.com/mark-zuckerberg-meta-ai-essay-open-source-superintelligence-081026",
+    "snippet": "is pushing back on\n...\ndoomers in\n...\nThe Meta CEO argues for distributing AI broadly, announces a $1 billion community fund, and calls for earlier government access to models\n...\nMeta [$META](https://qz.com/quote/META) CEO Mark Zuckerberg [published a 6,500-word essay](https://about.fb.com/news/2026/08/the-future-is-for-everyone/) on Monday pushing back on what he described as a doom-laden discou"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-10",
+    "topic": "model_releases",
+    "title": "NVIDIA Releases NemotronLabs VoiceChat 11B: An Open Full-Duplex Speech-to-Speech Model with ~450 ms Turn-Taking and Live Tool Calling - MarkTechPost",
+    "url": "https://www.marktechpost.com/2026/08/09/nvidia-releases-nemotronlabs-voicechat-11b-an-open-full-duplex-speech-to-speech-model-with-450-ms-turn-taking-and-live-tool-calling/",
+    "snippet": "# NVIDIA Releases NemotronLabs VoiceChat 11B: An Open Full-Duplex Speech-to-Speech Model with ~450 ms Turn-Taking and Live Tool Calling - MarkTechPost\n...\nNVIDIA Releases NemotronLabs VoiceChat 11B: An Open Full-Duplex Speech-to-Speech Model with ~450 ms Turn-Taking and Live Tool Calling - MarkTechPost\n...\n# NVIDIA Releases NemotronLabs VoiceChat 11B: An Open Full-Duplex Speech-to-Speech Model wit"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-10",
+    "topic": "model_releases",
+    "title": "OpenAI's Unreleased Astra Model Just Solved 10 Math Problems That Stumped Experts for Decades | FrontierNews.ai",
+    "url": "https://www.frontiernews.ai/news/article/openais-unreleased-astra-model-just-solved-10-math-d4f69eb0",
+    "snippet": "OpenAI's Unreleased Astra Model Just Solved 10 Math Problems That Stumped Experts for Decades | FrontierNews.ai\n\ni\n\n\ud83d\udd0dSearch\n\n## Breaking News\n\n### Sam Altman on the Musk Rift, AI's Future, and Why OpenAI Killed Its Browser\n\n### The AI Search Problem Israel's Government Hasn't Solved: Why Perplexity and ChatGPT Are Reshaping Diplomacy\n\nLarge Language Models\u00b73h ago\n\n### Why Big Tech Is Betting on Nu"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-10",
+    "topic": "model_releases",
+    "title": "Harvard & MIT Create the 'Matrix', 8.3 Billion AI Agents Precisely Mirror All Real Humans | HTX Insights",
+    "url": "https://www.htx.com/news/harvard-mit-create-the-matrix-83-billion-ai-agents-precisely-FNTFZ92N/",
+    "snippet": "Harvard & MIT Create the 'Matrix', 8.3 Billion AI Agents Precisely Mirror All Real Humans | HTX Insights\n\n# Harvard & MIT Create the 'Matrix', 8.3 Billion AI Agents Precisely Mirror All Real Humans\n\nmarsbitPublished on 2026-08-10Last updated on 2026-08-10\n\n### Abstract\n\nHarvard and MIT, along with researchers from OpenAI, Anthropic, Google DeepMind, and xAI, have unveiled \"MatrAIx,\" a project that"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-10",
+    "topic": "product_releases",
+    "title": "Ford\u2019s new AI assistant can check your fuel levels and tire pressure",
+    "url": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app",
+    "snippet": "Ford\u2019s new AI assistant can check your fuel levels and tire pressure | The Verge\n\n# Ford\u2019s new AI assistant can check your fuel levels and tire pressure\n\nThe assistant is rolling out to the Ford mobile app now. And by 2027, it will be available through the vehicle itself.\n\nThe assistant is rolling out to the Ford mobile app now. And by 2027, it will be available through the vehicle itself.\n\nby And"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-10",
+    "topic": "product_releases",
+    "title": "Cloudflare OS Is the First AI Workspace Built Around How Companies Actually Work",
+    "url": "https://www.cloudflare.com/pt-br/press/press-releases/2026/cloudflare-os-is-the-first-ai-workspace-built-around-how-companies-actually-work/",
+    "snippet": "SAN FRANCISCO, CA, August 4, 2026 \u2014 Cloudflare, Inc. (NYSE: NET), the leading connectivity cloud company, today announced it will launch Cloudflare OS, an open source AI workspace that runs on Cloudflare's global network. Cloudflare OS will give every employee a secure workspace equipped with AI tools and access to internal company systems\u2014without requiring new infrastructure or months of custom d"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-10",
+    "topic": "product_releases",
+    "title": "Muse Glimmer from Meta Superintelligence Labs is now available on Ollama \u00b7 Ollama Blog",
+    "url": "https://ollama.com/blog/muse-glimmer",
+    "snippet": "# Muse Glimmer from Meta Superintelligence Labs is now available on Ollama \u00b7 Ollama Blog\n...\nMuse Glimmer from Meta Superintelligence Labs is now available on Ollama \u00b7 Ollama Blog\n...\n# Muse Glimmer from Meta Superintelligence Labs is now available on Ollama\n...\n## August 10, 2026\n...\nNote: Muse Glimmer is currently available via initial support via Ollama\u2019s MLX engine on Apple Silicon. Additional"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-10",
+    "topic": "product_releases",
+    "title": "Unlock Seamless Service: Introducing Five9 Fusion for ServiceNow | Five9",
+    "url": "https://www.five9.com/blog/unlock-seamless-service-introducing-five9-fusion-servicenow",
+    "snippet": "Unlock Seamless Service: Introducing Five9 Fusion for ServiceNow | Five9\n...\n# Unlock Seamless Service: Introducing Five9 Fusion for ServiceNow\n...\nCustomers don\u2019t care about your systems\u2014they care about fast, personalized solutions. Yet too often, disconnected contact center and service workflows get in the way. That\u2019s why we have introduced Five9 Fusion for ServiceNow, helping to bridge that gap"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-10",
+    "topic": "ai_agents",
+    "title": "OSL launches AgentPay for AI agent stablecoin payments",
+    "url": "https://itbrief.asia/story/osl-launches-agentpay-for-ai-agent-stablecoin-payments",
+    "snippet": "OSL launches AgentPay for AI agent stablecoin payments\n\nIT Brief Asia - Technology news for CIOs & IT decision-makers\n\nAsia Powered By\n\n# OSL launches AgentPay for AI agent stablecoin payments\n\nMon, 10th Aug 2026 (Today)\n\nKAREN JOY BACUDO Finance Editor\n\nOSL Group has launched OSL AgentPay, a stablecoin payment infrastructure for AI agents aimed at developers building autonomous payment flows betw"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-10",
+    "topic": "ai_agents",
+    "title": "Five9 Unveils AI Agents to Redefine Hyper-Personalized Self-Service CX | Five9",
+    "url": "https://www.five9.com/news/news-releases/five9-unveils-ai-agents",
+    "snippet": "Five9 Unveils AI Agents to Redefine Hyper-Personalized Self-Service CX | Five9\n\nNews & Press| Media Resources\n\nNews Release\n\n# Five9 Unveils AI Agents to Redefine Hyper-Personalized Self-Service CX\n\nFive9 AI Agents blend AI models to automate self-service while giving businesses greater control, flexibility, and trust\n\nNext-Gen Intelligent Virtual Agents combined with Generative AI to reduce inter"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-10",
+    "topic": "ai_agents",
+    "title": "Alibaba Is Teaching AI Agents to Make Money",
+    "url": "https://explainx.substack.com/p/alibaba-is-teaching-ai-agents-to",
+    "snippet": "Alibaba Is Teaching AI Agents to Make Money\n\n# Alibaba Is Teaching AI Agents to Make Money\n\n### Alibaba tests AI agents running businesses for a year Cloudflare builds a browser for AI agents and Microsoft simplifies chart creation.\n\nYash @ Explainx\n\nAug 09, 2026\n\nThis week in AI, the spotlight is on agent-native infrastructure, streamlined visualization languages, and long-horizon autonomous deci"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-10",
+    "topic": "ai_small_business",
+    "title": "Build an AI Marketing Operating System Before You Add More Tools \u00b7 Aethera",
+    "url": "https://aethera.ai/blog/ai-marketing-operating-system-for-agencies",
+    "snippet": "Another AI subscription won\u2019t fix scattered briefs, inconsistent prompts, or five different people producing five different versions of the same client\u2019s voice. Before adding more apps, agencies need a shared operating system for how AI gets used across client work.\n...\nAn AI marketing operating system is the structure behind your agency\u2019s AI usage: the workflows, brand inputs, approval rules, and"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-10",
+    "topic": "ai_small_business",
+    "title": "All-in-One Creator Platforms : Digital Creator Pro",
+    "url": "https://www.trendhunter.com/amp/trends/digital-creator-pro",
+    "snippet": "## Digital Creator Pro Brings Projects, Socialand Customers Together\n...\nRunning a solo business very often means juggling a collection of different tools for projects, social media, marketing, customers, and finances. Digital Creator Pro brings these functions together in one simple SaaS platform designed specifically for solopreneurs. Users can simply manage projects, schedule social posts, gene"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-10",
+    "topic": "ai_small_business",
+    "title": "Na\u00efve raises $28.5M to automate the grunt work of setting up and running a company - Jingletree",
+    "url": "https://www.jingletree.com/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company-246096.html",
+    "snippet": "Na\u00efve raises $28.5M to automate the grunt work of setting up and running a company - Jingletree\n\n3 days ago 37\n\nShare on Facebook Share on Twitter Send via Whatsapp\n\nDevelopers detest drudgery. The entire field of programming is proof of how hard people will work to automate away the boring tasks involved in building things. And, as vibe-coding has proved, they\u2019ve even managed to find ways to not "
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-10",
+    "topic": "ai_small_business",
+    "title": "Saga x Eurojuris Webinar: Practical AI for Small and Mid-Sized Law Firms: Eurojuris \u00d6sterreich",
+    "url": "https://www.eurojuris.at/veranstaltungen/veranstaltungen/veranstaltung/saga-x-eurojuris-webinar-practical-ai-for-small-and-mid-sized-law-firms-1312",
+    "snippet": "Saga x Eurojuris Webinar: Practical AI for Small and Mid-Sized Law Firms: Eurojuris \u00d6sterreich\n\n### Eurojuris International Congress 2026Eurojuris International Congress 2026\n\n\u00b7 08.10.2026 \u00b7 Learn more\n\nJoin us from 8 to 11 October 2026 in Porto for our annual Eurojuris International Congress!\n\nInternational\n\n### Colloquium Eurojuris Nederland \u2013 Belgi\u00eb Colloquium Eurojuris Nederland \u2013 Belgi\u00eb\n\n\u00b7 18"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-10",
+    "topic": "ai_labs",
+    "title": "Codex functions.exec: Are shell_command and apply_patch result contracts officially documented? - ChatGPT / Use cases and examples - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/codex-functions-exec-are-shell-command-and-apply-patch-result-contracts-officially-documented/1389738/1",
+    "snippet": "Codex functions.exec: Are shell_command and apply_patch result contracts officially documented? - ChatGPT / Use cases and examples - OpenAI Developer Community\n\nIf you are having trouble signing in, please use the magic link option or try resetting your password.\n\n# Codex functions.exec: Are shell_command and apply_patch result contracts officially documented? \n\n You have selected 0 posts. \n\n Aug "
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-10",
+    "topic": "ai_labs",
+    "title": "Responses API compaction silently skipped by parallel native shell-call history - API / Bugs - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/responses-api-compaction-silently-skipped-by-parallel-native-shell-call-history/1389714",
+    "snippet": "Responses API compaction silently skipped by parallel native shell-call history - API / Bugs - OpenAI Developer Community\n\nWelcome back, everyone!\n\nThanks for your patience. Maintenance is now complete, and the forum is available again.\n\nIf you are having trouble signing in, please use the magic link option or try resetting your password.\n\n# Responses API compaction silently skipped by parallel na"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-10",
+    "topic": "ai_labs",
+    "title": "GPT-5.6 Sol repeatedly hits \u201cSelected model is at capacity\u201d in Codex Desktop - Codex - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/gpt-5-6-sol-repeatedly-hits-selected-model-is-at-capacity-in-codex-desktop/1388332/40",
+    "snippet": "GPT-5.6 Sol repeatedly hits \u201cSelected model is at capacity\u201d in Codex Desktop - Codex - OpenAI Developer Community\n\nSkip to where you left off (last reply, post 40) Skip to top\n\nYou have selected 0 posts.\n\n1.7k views 52 likes 1 link 13 users\n\nread 8 min\n\nSummarize\n\n40 / 40\n\nAug 8\n\nI was able to use every model again without problems. I suppose they fixed it. Also, using it directly from the termina"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-10",
+    "topic": "ai_labs",
+    "title": "Codex rate limits reset for all paid plans on August 9 and again on Monday - Codex - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/codex-rate-limits-reset-for-all-paid-plans-on-august-9-and-again-on-monday/1389643/2",
+    "snippet": "Codex rate limits reset for all paid plans on August 9 and again on Monday - #2 by Alain_Eric - Codex - OpenAI Developer Community\n\nCodex rate limits reset for all paid plans on August 9 and again on Monday - #2 by Alain\\_Eric - Codex - OpenAI Developer Community"
   }
 ]
