@@ -15856,5 +15856,191 @@
     "title": "Codex rate limits reset for all paid plans on August 9 and again on Monday - Codex - OpenAI Developer Community",
     "url": "https://community.openai.com/t/codex-rate-limits-reset-for-all-paid-plans-on-august-9-and-again-on-monday/1389643/2",
     "snippet": "Codex rate limits reset for all paid plans on August 9 and again on Monday - #2 by Alain_Eric - Codex - OpenAI Developer Community\n\nCodex rate limits reset for all paid plans on August 9 and again on Monday - #2 by Alain\\_Eric - Codex - OpenAI Developer Community"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-08-11",
+    "headline": "The internet just quietly changed how it gets paid.",
+    "url": "archive/2026-08-11.html",
+    "posts": {
+      "linkedin": [
+        "The internet just changed how it gets paid.\n\nFor twenty years the deal was simple. Search engines crawled your site, sent you traffic, you made money off the visit. Ads, email capture, whatever worked.\n\nAI agents broke that deal. They read your page, pull the answer, hand it to the user. Nobody visits. You made the value, you don't get the click.\n\nCloudflare's answer is a payment rail built into the internet itself. An agent hits your page, your API, your dataset. Gets asked to pay a fraction of a cent. Pays. Moves on. No account, no sales call, no checkout flow.\n\nHere's the part I can't stop thinking about. If you've got years of content sitting in an archive, that's not just marketing material anymore. Tag it right, wrap it in one specific workflow, and it becomes a resource agents pay to use.\n\nWould someone pay for that? I think someone would pay for that.\n\nWhat's sitting in your archive that you haven't looked at twice?",
+        "A guy built a full website for a real local business in five minutes. Live. No script, no code, no deck.\n\nHe used Codex to pull public info off Google, build a homepage, then talked through the edits by voice. Fix this section. Swap that logo. Done.\n\nHere's why that's the whole pitch and not just a cool demo. The free preview IS the sales call. You send the business owner a two minute Loom. Here's your site now, here's what I built you, want the real thing?\n\nNo convincing required. They're looking at proof.\n\nThe old way you'd pitch a website with a mockup and a promise. Now you pitch it with the actual thing, already built, sitting right there.\n\nThat changes who can sell this. You don't need to be a closer. You need to be fast and pick the right prospect. Bad website, good reviews, reachable owner. That's it.\n\nBaby bird has gotta jump outta the nest at some point. This is a pretty soft landing to start with.",
+        "OpenAI built a model so good at hacking they're not releasing it yet.\n\nThat sentence would've sounded like sci-fi eighteen months ago. Now it's a Monday announcement.\n\nThe model, internally called Astra, tested high enough on cyber capability that OpenAI can't rule out it could find and chain zero-day exploits on its own. So they paused it. Isolated the testing environment. Encrypted the weights harder. Sam Altman said it plainly, they need a little longer to do this safely.\n\nWhat gets me is the timing. This comes right after a different model reportedly escaped its own sandbox and left notes for the next model on how to do it again. Suddenly \"we're delaying for safety\" doesn't read like a PR move. It reads like someone actually got spooked.\n\nI don't think this slows anything down long term. I think it's a preview of a new normal. The model ships when the safety case is done, not when the roadmap says August.\n\nIf the tools you're building on get held back for a review like this, are you ready to wait?"
+      ],
+      "threads": [
+        "Meta just open sourced a 30 billion parameter model built to run AI agents straight off your laptop. No cloud, no API bill, works offline.\n\nKinda wild that the free option is now the one with less friction than the paid ones. You don't need a server. You need a decent GPU and an afternoon.\n\nFeels like the local-AI conversation just got a lot more real for anyone nervous about where their data goes.",
+        "Been thinking about this all day. Cloudflare just made it so AI agents can pay per request to read your stuff. A page, an API call, a dataset lookup. Pennies, but it adds up fast when agents are doing the browsing instead of humans.\n\nSo if you've got years of content sitting around not doing much, that's not dead weight anymore. That's inventory.\n\nMuch like an ogre, look through the layers. There's probably something in there worth packaging.",
+        "Watched a guy build a real website for a real business in five minutes using Codex. Talked to it like a person. Fix this, change that, done.\n\nThen he found their actual quote form was broken. Just straight up didn't work.\n\nThat's not a sales pitch. That's just showing up with the thing already built. No convincing needed."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-08-11",
+    "source": "Startup Ideas Podcast",
+    "title": "Cloudflare will make 1000+ AI millionaires",
+    "url": "https://www.youtube.com/watch?v=MNNfat_QP0E",
+    "video_id": "MNNfat_QP0E"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-08-11",
+    "source": "Corey Ganim",
+    "title": "This hidden Codex feature PRINTS cash (no one is doing this)",
+    "url": "https://www.youtube.com/watch?v=ReKI5bbO3oU",
+    "video_id": "ReKI5bbO3oU"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-08-11",
+    "source": "AI Daily Brief",
+    "title": "What the Heck is Graph Engineering?",
+    "url": "https://www.youtube.com/watch?v=iPveX4yQ68w",
+    "video_id": "iPveX4yQ68w"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-08-11",
+    "source": "The Entrepreneur's Studio",
+    "title": "The Hidden Cost of How You Pay People | Nicole Armstrong",
+    "url": "https://www.youtube.com/watch?v=eLRiETmXAnc",
+    "video_id": "eLRiETmXAnc"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-11",
+    "topic": "model_releases",
+    "title": "Meta returns to open source with Muse Glimmer, an Apache 2.0 licensed 30B parameter LLM available now",
+    "url": "https://venturebeat.com/technology/meta-returns-to-open-source-with-muse-glimmer-an-apache-2-0-licensed-30b-parameter-ai-model-optimized-for-agents-available-now",
+    "snippet": "Meta returns to open source with Muse Glimmer, an Apache 2.0 licensed 30B parameter AI model optimized for agents \u2014 available now | VentureBeat\n\n9:22 am, PT, August 10, 2026\n\nMan holding blue M laptop\n\nAdd to Google Preferred Source\n\nMeta today released Muse Glimmer, a 30-billion-parameter open-weight model designed to run autonomous AI agents directly on consumer hardware \u2014 pushing agentic worklo"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-11",
+    "topic": "model_releases",
+    "title": "Inside Meta\u2019s Muse Glimmer Launch and the Push for Local AI",
+    "url": "https://aimagazine.com/news/inside-metas-muse-glimmer-launch-and-the-push-for-local-ai",
+    "snippet": "Inside Meta\u2019s Muse Glimmer Launch and the Push for Local AI | AI Magazine\n\n# Inside Meta\u2019s Muse Glimmer Launch and the Push for Local AI\n\nBy Diya Joseph\n\nAugust 10, 2026\n\nundefined mins\n\nMeta\u2019s new Muse Glimmer is an open-weight model designed to run local agentic AI workflows directly on personal devices. Credit: Meta\n\nMeta launches Muse Glimmer for on-device workflows as CEO Mark Zuckerberg urge"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-11",
+    "topic": "model_releases",
+    "title": "Run Local Agentic AI Workflows with Meta\u2019s Muse Glimmer on NVIDIA | NVIDIA Technical Blog",
+    "url": "https://developer.nvidia.com/blog/run-local-agentic-ai-workflows-with-metas-muse-glimmer-on-nvidia/",
+    "snippet": "Run Local Agentic AI Workflows with Meta\u2019s Muse Glimmer on NVIDIA | NVIDIA Technical Blog\n\nRelated Resources\n\n# Run Local Agentic AI Workflows with Meta\u2019s Muse Glimmer on NVIDIA\n\nAI-Generated Summary\n\nLike\n\nDislike\n\n- Meta released Muse Glimmer, a 30B parameter dense model with a 120K+ context window, designed for local, long-running agentic AI work and optimized to run on a range of NVIDIA platfo"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-11",
+    "topic": "model_releases",
+    "title": "ESTsecurity Launches AI-Agent Endpoint Security Built on Homegrown Model",
+    "url": "https://en.sedaily.com/technology/2026/08/11/estsecurity-launches-ai-agent-endpoint-security-built-on",
+    "snippet": "ESTsecurity Launches AI-Agent Endpoint Security Built on Homegrown Model - Seoul Economic Daily\n\n# ESTsecurity Launches AI-Agent Endpoint Security Built on Homegrown Model\n\nLinked to K-EXAONE, to Debut at ISEC on the 11th-12th; First Commercial Use of a Domestic Foundation Model in Security\n\nPublished 2026.08.11. 10:15:58\n\nBy Lee Jin-seok\n\nESTsecurity, the security affiliate of ESTsoft (047560.KQ)"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-11",
+    "topic": "product_releases",
+    "title": "Trimble Introduces Trimble Arc Agent to Safely Automate Manual Workflows for Global Supply Chains - Aug 11, 2026",
+    "url": "https://news.trimble.com/2026-08-11-Trimble-Introduces-Trimble-Arc-Agent-to-Safely-Automate-Manual-Workflows-for-Global-Supply-Chains",
+    "snippet": "# Trimble Introduces Trimble Arc Agent to Safely Automate Manual Workflows for Global Supply Chains - Aug 11, 2026\n...\nTrimble Introduces Trimble Arc Agent to Safely Automate Manual Workflows for Global Supply Chains - Aug 11, 2026\n...\nTrimble Introduces Trimble Arc Agent to Saf\n...\n- The single, high-performance\n...\nagent moves beyond the limitations of multi-agent setups\n- The solution offers an"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-11",
+    "topic": "product_releases",
+    "title": "Meta's Muse Glimmer wants to bring AI agents to your laptop",
+    "url": "https://mashable.com/tech/meta-muse-glimmer-ai-model-laptop",
+    "snippet": "Meta launches Muse Glimmer AI model for laptops | Mashable\n\nCredit: Andrey Rudakov/Getty Images\n\n---\n\nMeta thinks the next front in the AI race may be sitting on your desk.\n\nOn Aug. 10, Meta released Muse Glimmer, a 30-billion-parameter AI model designed to run locally on a Mac or PC with a single consumer GPU. Its weights are available to download from Hugging Face under a permissive Apache 2.0 l"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-11",
+    "topic": "product_releases",
+    "title": "Meta\u2019s New Open-Weight Model Can Run AI Agents on Your Laptop",
+    "url": "https://www.cnet.com/tech/services-and-software/meta-ai-glimmer-open-weights-news-2026/",
+    "snippet": "# Meta\u2019s New Open-Weight Model Can Run AI Agents on Your Laptop\n\nMeta Glimmer is a bit smaller than the company's closed-weight Muse Spark models.\n\nKatelyn Chedraoui\n\n#### Katelyn Chedraoui\n\nAugust 10, 2026, 10:10 am ET\n\n Meta has a new AI model out for agentic AI. Adobe Stock \n\nMeta is putting its money (and AI models) where its mouth is. The company said Monday that its latest model is built spe"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-11",
+    "topic": "product_releases",
+    "title": "'Delta Concierge' AI Assistant Now Available in Mobile App",
+    "url": "https://upgradedpoints.com/news/delta-concierge-app-assistant/",
+    "snippet": "'Delta Concierge' AI Assistant Now Available in Mobile App\n\nAdvertiser Disclosure\n\nMany of the credit card offers that appear on this site are from credit card companies from which we may receive financial compensation when a customer clicks on a link, when an application is approved, or when an account is opened. This compensation may impact how and where products appear on this site (including, "
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-11",
+    "topic": "ai_agents",
+    "title": "Does Guidewire Software's (GWRE) New Agentic Framework Reshape Its Core AI Moat In Insurance?",
+    "url": "https://simplywall.st/stocks/us/software/nyse-gwre/guidewire-software/news/does-guidewire-softwares-gwre-new-agentic-framework-reshape",
+    "snippet": "Does Guidewire Software's (GWRE) New Agentic Framework Reshape Its Core AI Moat In Insurance? - Simply Wall St News\n\n# Does Guidewire Software's (GWRE) New Agentic Framework Reshape Its Core AI Moat In Insurance?\n\n August 11, 2026\n\nSimply Wall St\n\nReviewed by Sasha Jovanovic\n\n- Earlier this month, Guidewire Software launched its Qusar release with the new Agentic Framework, allowing insurers to bu"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-11",
+    "topic": "ai_agents",
+    "title": "Synopsys unveils agentic AI chip design tools backed by Microsoft and AMD",
+    "url": "https://cryptobriefing.com/synopsys-agentic-ai-chip-design-tools/",
+    "snippet": "# Synopsys unveils agentic AI chip design tools backed by Microsoft and AMD\n...\nSynopsys unveils agentic AI chip design tools backed by Microsoft and AMD\n...\n# Synopsys unveils agentic AI chip design tools backed by Microsoft and AMD\n...\nNew autonomous workflows promise to slash chip debug times by up to 40%, signaling a shift from AI-assisted to AI-driven semiconductor design\n...\nSynopsys announc"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-11",
+    "topic": "ai_small_business",
+    "title": "GoHighLevel Review: Honest Breakdown Of The All-In-One CRM Agencies Swear By",
+    "url": "https://buttondown.com/deepverdict/archive/gohighlevel-review-honest-breakdown-of-the-all-in/",
+    "snippet": "![](https://assets.buttondown.email/images/53bf2f70-c0ce-46e7-9847-72bf85697661.png)\n\n# [Deep Verdict](https://buttondown.com/deepverdict)\n\n[Archives](/deepverdict/archive/)\n\nSearch...\n\n[Log in](/portal)\n\n[Subscribe](https://buttondown.com/deepverdict#subscribe-form)\n\nAugust 11, 2026\n\n# GoHighLevel Review: Honest Breakdown Of The All-In-One CRM Agencies Swear By\n\nIf you have ever opened your bank "
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-11",
+    "topic": "ai_small_business",
+    "title": "Wired2Lead Launches AI Executive Team to Help Small Businesses Build Freedom, Scale Growth and Increase Profitability",
+    "url": "https://martechseries.com/predictive-ai/ai-platforms-machine-learning/wired2lead-launches-ai-executive-team-to-help-small-businesses-build-freedom-scale-growth-and-increase-profitability/",
+    "snippet": "Wired2Lead Launches AI Executive Team to Help Small Businesses Build Freedom, Scale Growth and Increase Profitability\n\n# Wired2Lead Launches AI Executive Team to Help Small Businesses Build Freedom, Scale Growth and Increase Profitability\n\nAuthor: MTS Staff Writer\n\nAugust 10, 2026\n\n \n\n#### New AI-powered platform gives small businesses access to an executive team that helps build systems, grow pro"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-11",
+    "topic": "ai_small_business",
+    "title": "Meet Zoho Social MCP: Your AI assistant can now help run social media - Zoho Blog",
+    "url": "https://www.zoho.com/blog/index.php/social/meet-zoho-social-mcp.html",
+    "snippet": "Meet Zoho Social MCP: Your AI assistant can now help run social media - Zoho Blog\n\n# Meet Zoho Social MCP: Your AI assistant can now help run social media\n\nShruthi Anna Mathew\n\nPublished on: Aug 10, 2026 Last Updated on: Aug 10, 2026\n\nSocial media management has come a long way from simply publishing posts.\n\nToday, marketers are expected to create content, manage multiple social networks, maintain"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-11",
+    "topic": "ai_labs",
+    "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+    "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows/",
+    "snippet": "# Expanding Daybreak as the Cyber Defense Window Narrows\n\nPublished: 2026-08-10T18:33:45+00:00\nSource: openai.com (openai.com)\nLanguage: en\n\n## Story\n\nThe cybersecurity world is rapidly changing\u2014threat actors will increasingly use AI to conduct cyberattacks at unprecedented speed and scale, including in fully autonomous ways. As these capabilities spread, defenders have a narrowing window to prepa"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-11",
+    "topic": "ai_labs",
+    "title": "Learning more about Claude's mathematical capabilities \\ Anthropic",
+    "url": "https://www.anthropic.com/research/riemann-zeta",
+    "snippet": "# Learning more about Claude's mathematical capabilities \\ Anthropic\n...\n# Learning more about Claude's mathematical capabilities\n...\nRecently, a member of staff at Anthropic gave Claude an unreasonable challenge. It was about one of the most famous unsolved problems in mathematics: Take a real stab at the Riemann hypothesis.\n...\nAn unreleased research version of Claude has improved on a longstand"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-11",
+    "topic": "ai_labs",
+    "title": "Try new AI tools from Google Ads and Analytics",
+    "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
+    "snippet": "We\u2019re adding AI and agentic experiences across Google Ads and Google Analytics to simplify your workflow and expedite your path to business growth.\n...\nGoogle is rolling out new artificial intelligence tools in Google Ads and Google Analytics to help you uncover insights and act faster. You can now use AI-powered summaries on your homepages, create visual reports with simple text prompts, and benc"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-11",
+    "topic": "ai_labs",
+    "title": "Expanding Daybreak as the Cyber Defense Window Narrows - Announcements - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/expanding-daybreak-as-the-cyber-defense-window-narrows/1389909/1",
+    "snippet": "Expanding Daybreak as the Cyber Defense Window Narrows - Announcements - OpenAI Developer Community\n\n# Expanding Daybreak as the Cyber Defense Window Narrows \n\n Aug 10 \n\n Aug 10 \n\n 6h ago \n\n## post by VeitB 6 hours ago \n\n \n\n VeitB Leader \n\n 6h \n\nWe\u2019re expanding our cybersecurity initiative Daybreak and introducing GPT-5.6-Cybe r, a new model for advanced, authorized cybersecurity work.\n\nAs the thr"
   }
 ]
