@@ -16042,5 +16042,223 @@
     "title": "Expanding Daybreak as the Cyber Defense Window Narrows - Announcements - OpenAI Developer Community",
     "url": "https://community.openai.com/t/expanding-daybreak-as-the-cyber-defense-window-narrows/1389909/1",
     "snippet": "Expanding Daybreak as the Cyber Defense Window Narrows - Announcements - OpenAI Developer Community\n\n# Expanding Daybreak as the Cyber Defense Window Narrows \n\n Aug 10 \n\n Aug 10 \n\n 6h ago \n\n## post by VeitB 6 hours ago \n\n \n\n VeitB Leader \n\n 6h \n\nWe\u2019re expanding our cybersecurity initiative Daybreak and introducing GPT-5.6-Cybe r, a new model for advanced, authorized cybersecurity work.\n\nAs the thr"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-08-12",
+    "headline": "Grok Bot dropped yesterday and it's not another chat window.",
+    "url": "archive/2026-08-12.html",
+    "posts": {
+      "linkedin": [
+        "Grok Bot shipped yesterday. Wix shipped Symphony the same week.\n\nTwo completely different companies, same idea, same 48 hours. That's not a coincidence.\n\nFor a while \"agent\" meant a smarter chat window. Ask it something, it answers, you copy paste the rest. That's over now.\n\nAn agent now means it has its own machine. It logs into your tools. It works while you're at lunch and only taps you when it actually needs a decision.\n\nHere's the part that matters if you run a small business and not a tech company. You don't need six of these things. You need one that actually knows your business, watching one part of it well.\n\nThat's the whole shift. Not more automation stacked on top of automation. One relationship, handled properly.\n\nWhat's the one thing in your business right now that you'd actually trust an agent to just handle, no check-in required?",
+        "Corey Ganim posted the exact numbers behind a $10K a month AI services business. Free assessment, paid assessment, retainer.\n\nWhy that order matters is the part people skip.\n\nThe free call isn't free because you're generous. It's free because you don't have proof yet. You do one to three of them, get a testimonial, and stop.\n\nThe paid assessment isn't the moneymaker either. It's the trust builder. Five hundred to two grand, three to seven fixes, a real report. It's priced low enough to be a no-brainer yes.\n\nThe retainer is where the actual business lives. Two calls a month, one process automated at a time.\n\nMost people skip straight to trying to sell the retainer. Nobody buys a monthly commitment from a stranger. They buy it from someone who already fixed one small thing for them.\n\nWould someone pay for the small fix first? I think someone would.",
+        "98% of C-suite leaders say token costs are making them rethink their AI plans.\n\nOnly 64% of them are actually watching what they spend.\n\nRead that twice. Almost everyone is worried about the bill. Barely two thirds of them are even checking the meter.\n\nSame week, Ramp put out data showing the median AI-buying business spends about $11 a month per employee. The top 1% spends $7,500.\n\nThat's not a gap in ambition. That's a gap in attention. The businesses spending real money aren't smarter, they're just paying attention to what they're already doing.\n\nMost small businesses don't have an AI problem. They have a nobody's-watching-the-meter problem.\n\nWhat are you already doing for yourself, with AI, that you haven't actually looked at the cost of in the last month?"
+      ],
+      "threads": [
+        "Grok Bot and Wix Symphony launched the same week. Different companies, same idea: an agent with its own computer, logging into your tools, working while you're not looking.\n\nAgent used to mean chatbot with extra steps. Now it means something with a job.\n\nMost people don't need six of these. They need one that actually knows the business. That's the part everyone's going to get wrong first.",
+        "Corey Ganim laid out the whole path to $10K a month in AI services. Free assessment, paid assessment, retainer, in that order.\n\nThe free one isn't generosity. It's proof you don't have yet.\n\nNobody buys a monthly retainer from a stranger. They buy it from someone who already fixed one small thing.\n\nFix the small thing first.",
+        "98% of C-suite leaders are worried about AI token costs.\n\nOnly 64% are actually tracking what they spend.\n\nThat's not an AI problem. That's a nobody's-watching-the-meter problem.\n\nMost small businesses don't need more AI. They need someone to actually look at what they're already running and ask if it's doing anything."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-08-12",
+    "source": "Corey Ganim",
+    "title": "How to make $10K/month selling AI services (step by step)",
+    "url": "https://www.youtube.com/watch?v=wQjEeS7JAVg",
+    "video_id": "wQjEeS7JAVg"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-08-12",
+    "source": "AI Daily Brief",
+    "title": "41 Stats About AI Adoption",
+    "url": "https://www.youtube.com/watch?v=Laws8go7v98",
+    "video_id": "Laws8go7v98"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-12",
+    "topic": "model_releases",
+    "title": "NVIDIA Nemotron 3.5 Lightning and NeMo Switchyard Deliver Faster, Smarter, More Efficient Agentic AI",
+    "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
+    "snippet": "# NVIDIA Nemotron 3.5 Lightning and NeMo Switchyard Deliver Faster, Smarter, More Efficient Agentic AI\n...\nToday, NVIDIA is expanding its Nemotron 3 model family with Nemotron 3.5 Lightning, the highest-efficiency model in its class for long-running agentic AI workloads. This release follows Nemotron 3 Nano and reflects NVIDIA\u2019s commitment to continually improving open models for greater accuracy "
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-12",
+    "topic": "model_releases",
+    "title": "Meta Superintelligence Labs unveils on-device model Muse Glimmer",
+    "url": "https://www.verdict.co.uk/meta-superintelligence-labs-muse-glimmer/",
+    "snippet": "Meta Superintelligence Labs unveils on-device model Muse Glimmer\n\nMeta ships Muse Glimmer weights under Apache 2.0 licence. Credit: Thrive Studios ID/Shutterstock.com.\n\nMeta Platforms has released Muse Glimmer, a 30 billion-parameter model from Meta Superintelligence Labs, and published the weights under a permissive Apache 2.0 licence.\n\nThe weights are on Hugging Face now, with developer document"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-12",
+    "topic": "model_releases",
+    "title": "Qwen3.8-Max | Awesome Agents",
+    "url": "https://awesomeagents.ai/models/qwen-3-8-max/",
+    "snippet": "Qwen3.8-Max | Awesome Agents\n\n## Overview\n\nAlibaba moved Qwen3.8-Max out of preview and into general availability on August 3, 2026, two weeks after showing up at WAIC Shanghai with nothing but a slide and a claim that it trailed only Claude Fable 5. This time the model shipped with what the preview didn't: a published benchmark table, real per-token pricing, and a production API. It's a 2.4 trill"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-12",
+    "topic": "model_releases",
+    "title": "NVIDIA AI Releases Nemotron 3.5 Lightning: A 30B Open MoE with 3B Active Parameters, and NeMo Switchyard Model Router - MarkTechPost",
+    "url": "https://www.marktechpost.com/2026/08/11/nvidia-ai-releases-nemotron-3-5-lightning-and-nemo-switchyard/",
+    "snippet": "NVIDIA AI Releases Nemotron 3.5 Lightning: A 30B Open MoE with 3B Active Parameters, and NeMo Switchyard Model Router - MarkTechPost\n\nSearch\n\nPremium Content\n\nRead our exclusive articles\n\nFacebook\n\nInstagram\n\nX\n\nSearch\n\nHome Editors Pick Agentic AI NVIDIA AI Releases Nemotron 3.5 Lightning: A 30B Open MoE with 3B...\n\nNVIDIA introduced open technologies for building always-on AI agents from systems"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-12",
+    "topic": "model_releases",
+    "title": "webAI Releases TwIL-LM: A 1.7B and 3B Formal-Logic Model Family for Autoformalization on Local Hardware - MarkTechPost",
+    "url": "https://www.marktechpost.com/2026/08/10/webai-releases-twil-lm-a-1-7b-and-3b-formal-logic-model-family-for-autoformalization-on-local-hardware/",
+    "snippet": "# webAI Releases TwIL-LM: A 1.7B and 3B Formal-Logic Model Family for Autoformalization on Local Hardware - MarkTechPost\n...\nwebAI Releases TwIL-LM: A 1.7B and 3B Formal-Logic Model Family for Autoformalization on Local Hardware - MarkTechPost\n...\n# webAI Releases TwIL-LM: A 1.7B and 3B Formal-Logic Model Family for Autoformalization on Local Hardware\n...\nwebAI has released [TwIL-LM](https://huggi"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-12",
+    "topic": "product_releases",
+    "title": "Introducing Grok Bot",
+    "url": "https://x.ai/news/introducing-grok-bot",
+    "snippet": "Introducing Grok Bot | SpaceXAI\n\nAug 11, 2026\n\n# Introducing Grok BotEarly beta\n\nGrok Bot is your team of always-on agents. They have their own computer, work inside tools and apps like you do, and keep working 24/7.\n\n---\n\nDownload for macOS Contact sales\n\n0:00 / 0:00\n\nToday we\u2019re launching Grok Bot, AI teammates you can give real work to.\n\nBots have their own computer. They sign into the tools yo"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-12",
+    "topic": "product_releases",
+    "title": "SpaceXAI has released 'Grok Bot,' an AI agent that works 24/7. It is compatible with Windows, macOS, Linux, and iOS, and each agent is controlled by a dedicated cloud PC. - GIGAZINE",
+    "url": "https://gigazine.net/gsc_news/en/20260812-spacexai-grok-bot/",
+    "snippet": "# SpaceXAI has released 'Grok Bot,' an AI agent that works 24/7. It is compatible with Windows, macOS, Linux, and iOS, and each agent is controlled by a dedicated cloud PC. - GIGAZINE\n...\nSpaceXAI has released 'Grok Bot,' an AI agent that works 24/7. It is compatible with Windows, macOS, Linux, and iOS, and each agent is controlled by a dedicated cloud PC. - GIGAZINE\n...\n# SpaceXAI has released 'G"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-12",
+    "topic": "product_releases",
+    "title": "Trimble Introduces Trimble Arc Agent to Safely Automate Manual Workflows for Global Supply Chains",
+    "url": "https://www.prnewswire.com/news-releases/trimble-introduces-trimble-arc-agent-to-safely-automate-manual-workflows-for-global-supply-chains-302847531.html",
+    "snippet": "Trimble Introduces Trimble Arc Agent to Safely Automate Manual Workflows for Global Supply Chains Accessibility Statement Skip Navigation\n...\nIn the news release, Trimble Introduces Trimble Arc Agent to Safely Automate Manual Workflows for Global Supply Chains, issued 11-Aug-2026 by Trimble over PR Newswire, we are advised by the company that the link in the Availability section, should be \"https:"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-12",
+    "topic": "product_releases",
+    "title": "xAI Launches Grok Bot, Autonomous AI Agents for Business Tasks",
+    "url": "https://www.compsmag.com/news/xai-launches-grok-bot-autonomous-ai-agents-for-business-tasks/",
+    "snippet": "xAI Launches Grok Bot, Autonomous AI Agents for Business Tasks\n...\n# xAI Launches Grok Bot, Autonomous AI Agents for Business Tasks\n...\nxAI has launched Grok Bot, a system of autonomous AI agents designed to work across applications and tools without continuous user oversight. The company announced the beta release on Tuesday, positioning the product as a team of AI teammates that can handle multi"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-12",
+    "topic": "product_releases",
+    "title": "Meta Muse Code Debuts, Data Tier Cuts Price 21x [2026] \u2013 Tech Insider Ireland",
+    "url": "https://tech-insider.org/ie/meta-muse-code-launch-2026/",
+    "snippet": "Meta Muse Code Debuts, Data Tier Cuts Price 21x [2026] \u2013 Tech Insider Ireland\n...\nMeta shipped its first dedicated AI coding agent on 5 August 2026, months after rivals started asking whether the social media giant would ever show up to the coding-assistant fight. Muse Code, built on a new model called Muse Spark 1.2, went into public beta with a pricing structure that trades cheaper tokens for so"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-12",
+    "topic": "ai_agents",
+    "title": "SpaceXAI's Grok Bot turns agents into persistent digital coworkers that can operate your apps for $120-per-month | VentureBeat",
+    "url": "https://venturebeat.com/orchestration/spacexais-grok-bot-turns-agents-into-persistent-digital-coworkers-that-can-operate-your-apps-for-120-per-month",
+    "snippet": "SpaceXAI, the division of SpaceX f [ormerly known as xAI](https://mashable.com/tech/xai-spacexai-name), is [launching an early beta version of Grok Bot](https://x.ai/news/introducing-grok-bot), a new agent designed to move AI assistants beyond answering prompts and toward continuously executing work across the software employees already use.\n...\nThe central idea is straightforward: instead of open"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-12",
+    "topic": "ai_agents",
+    "title": "L&T Technology Services Launches AgenticIQTM, an End-to-End Agentic AI Platform for Engineering, Manufacturing and Customer Experience",
+    "url": "https://www.analyticsinsight.net/press-release/lt-technology-services-launches-agenticiqtm-an-end-to-end-agentic-ai-platform-for-engineering-manufacturing-and-customer-experience",
+    "snippet": "L&T Technology Services Launches AgenticIQTM, an End-to-End Agentic AI Platform for Engineering, Manufacturing and Customer Experience\n\nInsights\n\nIndustry\n\nGeography\n\nMedia\n\nInsights\n\nIndustry\n\nGeography\n\nMedia\n\n# L&T Technology Services Launches AgenticIQTM, an End-to-End Agentic AI Platform for Engineering, Manufacturing and Customer Experience\n\nWritten By:\n\nPublished on:\n\n11 Aug 2026, 5:30 am\n\n"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-12",
+    "topic": "ai_agents",
+    "title": "LTTS launches AgenticIQ to move enterprise AI from pilots to production | Company News - Business Standard",
+    "url": "https://www.business-standard.com/companies/news/ltts-launches-agenticiq-to-move-enterprise-ai-from-pilots-to-production-126081100561_1.html",
+    "snippet": "LTTS launches AgenticIQ to move enterprise AI from pilots to production | Company News - Business Standard\n\n## Buzzing :\n\nHome/ Companies/ News/ LTTS launches AgenticIQ to move enterprise AI from pilots to production\n\n# LTTS launches AgenticIQ to move enterprise AI from pilots to production\n\n## The platform is designed to help engineering and manufacturing firms move autonomous AI agents from pilo"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-12",
+    "topic": "ai_agents",
+    "title": "Oracle Adds New Fusion Agentic Applications and AI Agents to Help Organizations Improve Talent Management",
+    "url": "https://www.oracle.com/news/announcement/oracle-adds-new-fusion-agentic-applications-and-ai-agents-to-help-improve-talent-management-2026-08-11/",
+    "snippet": "Oracle Adds New Fusion Agentic Applications and AI Agents to Help Organizations Improve Talent Management\n\nPress Release\n\n# Oracle Adds New Fusion Agentic Applications and AI Agents to Help Organizations Improve Talent Management\n\nLatest AI innovations in Oracle Fusion Cloud HCM help customers accelerate employee development, guide talent decisions, and respond faster to changing business needs\n\nA"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-12",
+    "topic": "ai_small_business",
+    "title": "Wix launches Symphony, a new standalone multi-agent system built for business operations - SiliconANGLE",
+    "url": "https://siliconangle.com/2026/08/11/wix-launches-symphony-new-standalone-multi-agent-system-built-business-operations/",
+    "snippet": "Cloud-based website builder [Wix Ltd.](https://www.wix.com/) today announced the launch of Symphony, a new standalone agentic artificial intelligence platform that proactively learns business values, interests, needs, practices and goals to automate workflows and surface opportunities.\n...\nThe company said it can draw on its deep experience working with unique data accumulated through years of wor"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-12",
+    "topic": "ai_small_business",
+    "title": "7 Ways to Put AI to Work in Your Agency (Without a Tech Team)",
+    "url": "https://www.insurancejournal.com/blogs/ezlynx/2026/08/12/881124.htm",
+    "snippet": "7 Ways to Put AI to Work in Your Agency (Without a Tech Team)\n\n# 7 Ways to Put AI to Work in Your Agency (Without a Tech Team)\n\n By Rob Bourne | August 12, 2026 \n\nKey Takeaways\n\n- AI for a small agency does not require a tech team. Most of what is useful today is either already built into your software or coming soon to the system you may already use.\n- There are seven specific places AI can do re"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-12",
+    "topic": "ai_small_business",
+    "title": "How a Three-Person Company Is Using AI to Build Like a Much Larger One - Grit Daily News",
+    "url": "https://gritdaily.com/small-company-using-ai-to-build-like-a-larger-one/",
+    "snippet": "[Apostille-USA](https://apostille-usa.com/) began with about $2,500 and almost no room for inefficiency. When CEO Rugi Kavamahanga started the company in 2023 with co-founder and CTO Ralph Reijs, hiring ahead of revenue was not an option. Kavamahanga had recently come through the collapse of another startup and was helping care for his father, while the new business was entering a service category"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-12",
+    "topic": "ai_small_business",
+    "title": "siift Launches The New Business Operating System, a more Practical AI Tool for anyone Building a Business",
+    "url": "https://markets.financialcontent.com/worldnow.ktul/article/marketersmedia-2026-8-11-siift-launches-the-new-business-operating-system-a-more-practical-ai-tool-for-anyone-building-a-business",
+    "snippet": "siift Launches The New Business Operating System, a more Practical AI Tool for anyone Building a Business\n\n# siift Launches The New Business Operating System, a more Practical AI Tool for anyone Building a Business\n\n By: Press Release Distribution Service \n\nAugust 11, 2026 at 10:43 AM EDT\n\nsiift has launched its New Business OS, a patent-pending AI that helps innovators focus on the right things t"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-12",
+    "topic": "ai_small_business",
+    "title": "InstaVisible Announces AI Gap Analysis Amid Data-Driven Marketing Growth",
+    "url": "https://markets.businessinsider.com/news/stocks/instavisible-announces-ai-gap-analysis-amid-data-driven-marketing-growth-1036441605",
+    "snippet": "InstaVisible Announces AI Gap Analysis Amid Data-Driven Marketing Growth | Markets Insider\n\n# InstaVisible Announces AI Gap Analysis Amid Data-Driven Marketing Growth\n\nAug. 11, 2026, 10:10 AM\n\nAs AI adoption among small firms reaches 46%, InstaVisible Agency launches an AI-powered Marketing Gap Analysis to evaluate SMB marketing performance, identify growth opportunities, and provide personalized "
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-12",
+    "topic": "ai_labs",
+    "title": "AMIE: Advancing medical AI for video consultations",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
+    "snippet": "AMIE: Advancing medical AI for video consultations\n\n# AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.\n\nAnil Palepu\n\nResearch Lead\n\nAug 11, 2026\n\n---\n\nWhen you visit a doctor, a consultation extends far beyond words \u2014 a physician notices a cough, observes gait, or registers visible signs of discomfort. Today, Google"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-12",
+    "topic": "ai_labs",
+    "title": "In-region inference, open models, and new European infrastructure for sovereign AI.",
+    "url": "https://mistral.ai/news/regional-inference-open-models-new-compute/",
+    "snippet": "In-region inference, open models, and\n...\n[In-region inference, open models, and new European infrastructure for sovereign AI.](https://mistral.ai/news/regional-inference-open-models-new-compute)\n...\n# In-region inference, open models, and new European infrastructure for sovereign AI.\n...\nMistral is advancing AI sovereignty by offering enterprises and countries control over AI models, infrastructu"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-12",
+    "topic": "ai_labs",
+    "title": "Google's Gemini app hits 1 billion monthly active users",
+    "url": "https://blog.google/innovation-and-ai/products/gemini-app/one-billion-monthly-users/",
+    "snippet": "Google\u2019s Gemini app hits 1 billion monthly active users\n\n# More than 1 billion people are using the Gemini app every month.\n\nAug 11, 2026\n\n---\n\nThe Gemini app has officially surpassed 1 billion monthly users, making it the fastest-growing product in Google\u2019s history. Here\u2019s some data about how people are using Gemini:\n\n- Voice is transforming daily interactions: 63% percent of users now talk direc"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-12",
+    "topic": "ai_labs",
+    "title": "Google Health partners with Abbott for new health insights",
+    "url": "https://blog.google/products-and-platforms/products/google-health/abbott-google-health-partnership/",
+    "snippet": "- - [Google DeepMind](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/)\n- [Google Research](https://blog.google/innovation-and-ai/models-and-research/google-research/)\n- [Google Labs](https://blog.google/innovation-and-ai/models-and-research/google-labs/)\n...\n- [Gemini models](https://blog.google/innovation-and-ai/models-and-research/gemini-models/)\n...\n- [Quantum computi"
   }
 ]
