@@ -16260,5 +16260,215 @@
     "title": "Google Health partners with Abbott for new health insights",
     "url": "https://blog.google/products-and-platforms/products/google-health/abbott-google-health-partnership/",
     "snippet": "- - [Google DeepMind](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/)\n- [Google Research](https://blog.google/innovation-and-ai/models-and-research/google-research/)\n- [Google Labs](https://blog.google/innovation-and-ai/models-and-research/google-labs/)\n...\n- [Gemini models](https://blog.google/innovation-and-ai/models-and-research/gemini-models/)\n...\n- [Quantum computi"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-08-13",
+    "headline": "A bunch of companies shipped agent platforms this week. Grok Bot from SpaceXAI and Cursor is the loud one.",
+    "url": "archive/2026-08-13.html",
+    "posts": {
+      "linkedin": [
+        "\"Managing agents\" is already the wrong phrase.\n\nI heard this on a podcast this week and it stopped me mid-drive.\n\nAlli Miller runs a fleet of 34 AI agents. She used to think about it like being their manager. Susie go here, Betty go there. Now she says that's wrong. She's three rungs up. Setting up the infrastructure, then waiting for the escalations.\n\nHer best prompt to the whole workforce is three words. \"Do smart things.\"\n\nThat's not a hack. That's a mindset shift. You stop being the person who assigns tasks and become the person who decides what actually matters.\n\nI think about this with clients too. Nobody wants a tool. They want someone who decides what should happen with the tool.\n\nWhat are you still micromanaging that you could just trust to run?",
+        "Claude is now hiding a watermark inside every word it writes.\n\nNot images. Text. Anthropic rolled this out quietly and it's already in your code, your emails, your client deliverables if you're using Claude.\n\nIt's invisible. It's not in the metadata. It's baked into the actual word choices the model makes, so it travels when you copy and paste something out of it.\n\nA developer named Nick Dobos put it plainly. \"Claude adding invisible watermarks inside my code base? Total BS.\"\n\nHere's what got me. A watermark on a photo makes sense, deepfakes are a real problem. But a watermark on a legal quote, or a line of production code, means the model is quietly shaping its own word choices to leave a signature.\n\nI don't think this breaks anything today. I think it's worth knowing it's there before you find out the hard way.\n\nWhat would you actually do differently if you knew every output had an invisible tag on it?",
+        "Free AI isn't generosity. It's bait, and that's fine.\n\nOpenAI just made ChatGPT unlimited for free users. New model, a real reasoning button, no caps.\n\nThe internet's first reaction was \"how is that even profitable?\"\n\nIt's profitable because free was never the product. Free is the hook. Get enough people living inside your app every day and some percentage upgrades, some percentage clicks an ad, and the whole thing pays for itself on volume.\n\nSmall businesses do this too, they just don't call it that. A free consult. A free lead magnet. A free first project.\n\nThe mistake is thinking free means giving away the thing you'd normally charge for. It doesn't. Free means removing the friction of trying you at all.\n\nWould someone pay for what you're giving away for free? If the answer's no, you're not running a funnel. You're just doing free work."
+      ],
+      "threads": [
+        "Grok Bot can keep working after you close your laptop.\n\nThat's the part that got me. Not the chat interface, not the multi-agent thing. It's that you can hand something off and it doesn't stop the second you leave the room.\n\nI've been chasing that feeling for a year. The gap between telling an AI to do something and actually trusting it to keep doing it while you're at dinner is basically the whole ballgame right now.\n\nWe're not there yet for everything. But we're closer than we were last month.",
+        "Google said 63% of Gemini users talk to it instead of typing.\n\nThat number stuck with me longer than I expected.\n\nEverybody's been arguing about which chat interface wins. Turns out a lot of people already decided without waiting for the debate. They just skipped the keyboard.\n\nI still default to typing most of the time, mostly out of habit, not because it's better. Might be worth testing which one actually gets you a better answer, not just a faster one.",
+        "Zuckerberg wrote 6,500 words this week arguing AI shouldn't end up in a few hands.\n\nWhatever you think about the messenger, the question underneath it is a good one. Who ends up holding the power once this stuff gets good enough to actually matter?\n\nMost of the AI conversation right now is doom on one side and hype on the other. Not a lot of people asking who actually benefits when the dust settles.\n\nI don't know the answer yet. But I know which side of that question I want to be building on."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-08-13",
+    "source": "The Koerner Office",
+    "title": "Costco Made This Guy Millions! Can I Make $10K in 10 Days?",
+    "url": "https://www.youtube.com/watch?v=kEV86fy-Rvc",
+    "video_id": "kEV86fy-Rvc"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-08-13",
+    "source": "The Koerner Office",
+    "title": "I Tried to Make $10K in 10 Days With Costco Returns",
+    "url": "https://www.youtube.com/watch?v=Xaw2OdBUknA",
+    "video_id": "Xaw2OdBUknA"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-08-13",
+    "source": "Startup Ideas Podcast",
+    "title": "My top secrets to running an AI Agent Workforce",
+    "url": "https://www.youtube.com/watch?v=EzQAgnjTq2k",
+    "video_id": "EzQAgnjTq2k"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-08-13",
+    "source": "AI Daily Brief",
+    "title": "The Right Way to Worry About AI",
+    "url": "https://www.youtube.com/watch?v=OR7aElrW2vU",
+    "video_id": "OR7aElrW2vU"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-08-13",
+    "source": "AI Daily Brief",
+    "title": "Grok Bot Finally Makes AI Agents Easy",
+    "url": "https://www.youtube.com/watch?v=kckD1hgkYvk",
+    "video_id": "kckD1hgkYvk"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-08-13",
+    "source": "AI Daily Brief",
+    "title": "AI Optimism Has a Trust Problem",
+    "url": "https://www.youtube.com/watch?v=Gw6fGg-oO94",
+    "video_id": "Gw6fGg-oO94"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-08-13",
+    "source": "The Entrepreneur's Studio",
+    "title": "Why the Market Gets Pay Wrong | Nicole Armstrong",
+    "url": "https://www.youtube.com/watch?v=tRKLclvSO4w",
+    "video_id": "tRKLclvSO4w"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-13",
+    "topic": "model_releases",
+    "title": "Introducing Grok 4.6 | SpaceXAI",
+    "url": "https://x.ai/news/grok-4-6",
+    "snippet": "# Introducing Grok 4.6 | SpaceXAI\n...\nIntroducing Grok 4.6 | SpaceXAI\n...\nAug 12,\n...\n026\n...\n# Introducing Grok 4.6\n...\nGrok 4.6 builds on Grok 4.5 with a particular focus on long-running agents and more ambitious interactive and visual work.\n...\nToday we are releasing Grok 4.6. Grok 4.6 builds on [Grok 4.5](https://x.ai/news/grok-4-5) with a particular focus on long-running agents and more ambit"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-13",
+    "topic": "model_releases",
+    "title": "Serve Qwen3.8-2.4T-A95B, a 2.4T-Parameter Model, with Configurable Reasoning on NVIDIA GB300 NVL72 | NVIDIA Technical Blog",
+    "url": "https://developer.nvidia.com/blog/serve-qwen3-8-2-4t-a95b-a-2-4t-parameter-model-with-configurable-reasoning-on-nvidia-gb300-nvl72/",
+    "snippet": "Serve Qwen3.8-2.4T-A95B, a 2.4T-Parameter Model, with Configurable Reasoning on NVIDIA GB300 NVL72 | NVIDIA Technical Blog\n...\n# Serve Qwen3.8-2.4T-A95B, a 2.4T-Parameter Model, with Configurable Reasoning on NVIDIA GB300 NVL72\n...\nAlibaba released the open weights for Qwen3.8-2.4T-A95B (Qwen3.8-Max), its largest open-weight model, bringing near-frontier capabilities to the open ecosystem. It has "
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-13",
+    "topic": "model_releases",
+    "title": "NVIDIA releases Nemotron 3.5 Lightning 30B MoE",
+    "url": "https://datanorth.ai/news/nvidia-releases-nemotron-3-5-lightning-and-nemo-switchyard",
+    "snippet": "NVIDIA releases Nemotron 3.5 Lightning 30B MoE\n...\n# NVIDIA releases Nemotron 3.5 Lightning and NeMo Switchyard\n...\nNemotron 3.5 Lightning is NVIDIA's open 30 billion parameter mixture of experts model with 3 billion active parameters, released on 11 August 2026 for the execution layer of long running agents, with 86 percent PinchBench accuracy and an OpenMDW-1.1 licence.\n...\nNVIDIA released Nemot"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-13",
+    "topic": "model_releases",
+    "title": "Nvidia launches Nemotron 3.5 Lightning & Switchyard",
+    "url": "https://itbrief.co.uk/story/nvidia-launches-nemotron-3-5-lightning-switchyard",
+    "snippet": "Nvidia launches Nemotron 3.5 Lightning & Switchyard\n...\n# Nvidia launches Nemotron 3.5 Lightning & Switchyard\n...\nNvidia has expanded its Nemotron model family with Nemotron 3.5 Lightning and released the NeMo Switchyard routing library, targeting AI systems that use multiple models for autonomous agent tasks.\n...\nNemotron 3.5 Lightning is a 30-billion-parameter mixture-of-experts open model desig"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-13",
+    "topic": "product_releases",
+    "title": "SpaceXAI and Cursor launch Grok Bot for iPhone and Mac",
+    "url": "https://www.macobserver.com/news/spacexai-and-cursor-launch-grok-bot-for-iphone-and-mac/",
+    "snippet": "SpaceXAI and Cursor launch Grok Bot for iPhone and Mac\n...\nSpaceXAI and Cursor have introduced Grok Bot, a new AI agent app for iPhone and Mac that gives users always-on digital workers designed to handle real tasks across apps, inboxes, websites, and other services.\n...\nThe launch comes as SpaceXAI and Cursor move toward becoming a single company, while Grok Bot enters beta for a limited group of"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-13",
+    "topic": "product_releases",
+    "title": "Grok can now do work for you as a team of AI bots",
+    "url": "https://tech.yahoo.com/ai/article/grok-can-now-do-work-for-you-as-a-team-of-ai-bots-145503020.html",
+    "snippet": "Grok can now do work for you as a team of AI bots\n...\nSpaceXAI has launched Grok Bot, an AI agent platform that lets you deploy a team to get work done for you. (SpaceXAI)\n...\nSpaceXAI has announced Grok Bot, its take on AI companions that can do work for you. Occupying a similar space as OpenAI's ChatGPT Work and Anthropics Claude Cowork, Grok Bot can work across the apps and inboxes you use to c"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-13",
+    "topic": "product_releases",
+    "title": "Elon Musk launches Grok Bot, AI agent with its own computer that does things for you - India Today",
+    "url": "https://www.indiatoday.in/technology/news/story/elon-musk-launches-grok-bot-ai-agent-with-its-own-computer-that-does-things-for-you-2969267-2026-08-12",
+    "snippet": "Elon Musk launches Grok Bot, AI agent with its own computer that does things for you - India Today\n\nNews Technology News Elon Musk launches Grok Bot, AI agent with its own computer that does things for you\n\n# Elon Musk launches Grok Bot, AI agent with its own computer that does things for you\n\n## Grok Bot has launched in beta as an AI agent that can use its own computer to work across apps, websit"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-13",
+    "topic": "product_releases",
+    "title": "Introducing chestnut - comma.ai blog",
+    "url": "https://blog.comma.ai/chestnut/",
+    "snippet": "Introducing chestnut - comma.ai blog\n...\nToday, we\u2019re launching chestnut, a compute upgrade for comma four. Want to run big models? Nothing beats a desktop GPU. We\u2019re also launching the first chestnut-class model, which is bigger than all openpilot driving models we\u2019ve released combined.\n...\n#### A new 1B driving modelPermalink\n...\nWe\u2019re launching chestnut with a new 1B parameter driving model in "
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-13",
+    "topic": "ai_agents",
+    "title": "CoinFello launches Fello 2, an AI agent that builds, runs and automates DeFi strategies from plain language - Chainwire",
+    "url": "https://chainwire.org/2026/08/12/coinfello-launches-fello-2-an-ai-agent-that-builds-runs-and-automates-defi-strategies-from-plain-language/",
+    "snippet": "CoinFello launches Fello 2, an AI agent that builds, runs and automates DeFi strategies from plain language - Chainwire\n\n# CoinFello launches Fello 2, an AI agent that builds, runs and automates DeFi strategies from plain language - Chainwire\n...\n- CoinFello launches Fello 2, an AI agent that builds, runs and automates DeFi strategies from plain language\n...\n## CoinFello launches Fello 2, an AI ag"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-13",
+    "topic": "ai_small_business",
+    "title": "Wix Symphony Pricing: Plans, Costs and Credits Explained",
+    "url": "https://www.wix.com/blog/how-much-does-symphony-by-wix-cost",
+    "snippet": "Wix Symphony Pricing: Plans, Costs and Credits Explained\n\n# How much does Symphony by Wix cost? Plans, credits and what to choose\n\nSharon Hafuta \n\nAugust 12\n\n- 24 hours ago\n- 7 min read\n\nGive your business an AI team: try Symphony by Wix \u2192\n\nExpand image\n\nSymphony by Wix is one of the most accessible AI agent platforms available for independent business owners. It has a free plan, and paid tiers st"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-13",
+    "topic": "ai_small_business",
+    "title": "Best Alternative AI Tools for Small Businesses",
+    "url": "https://ximnet.medium.com/best-alternative-ai-tools-for-small-businesses-443ed2fd9790",
+    "snippet": "The challenge is that small teams usually don\u2019t have the resources to hire someone for every role. This is where AI tools can become useful, not as a replacement for people, but as a way to help businesses work faster and smarter.\n...\nWhile many people are already familiar with popular AI assistants, there are now specialised AI platforms designed to solve specific business challenges. From managi"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-13",
+    "topic": "ai_small_business",
+    "title": "Dean Graziosi and Tony Robbins Position AI Advantage as Leverage for Solopreneurs",
+    "url": "https://www.einpresswire.com/article/929157406/dean-graziosi-and-tony-robbins-position-ai-advantage-as-leverage-for-solopreneurs",
+    "snippet": "Dean Graziosi and Tony Robbins Position AI Advantage as Leverage for Solopreneurs \n\n# Dean Graziosi and Tony Robbins Position AI Advantage as Leverage for Solopreneurs\n\n mastermind.com \n\n August 12, 2026, 21:00 GMT \n\nAI Advantage | Tony Robbins & Dean Graziosi\n\nThe AI education platform led by Igor Pogany serves independent professionals who run every part of a business alone, treating AI as added"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-13",
+    "topic": "ai_small_business",
+    "title": "Superagent AI 3.0 launches as an AI business partner that works on live insurance agency data",
+    "url": "https://completeaitraining.com/news/superagent-ai-30-launches-as-an-ai-business-partner-that/",
+    "snippet": "Superagent AI 3.0 launches as an AI business partner that works on live insurance agency data\n\n# Superagent AI 3.0 launches as an AI business partner that works on live insurance agency data \n\nSUPERAGENT AI launched version 3.0, an AI business partner that completes insurance tasks-like generating renewal campaigns-directly from chat. Users approve actions with a card, and the system runs on live "
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-13",
+    "topic": "ai_labs",
+    "title": "Putting sign language AI into users' hands",
+    "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+    "snippet": "Putting sign language AI into users\u2019 hands \u2014 Google DeepMind\n...\n2, 2026 Models\n...\n# Putting sign language AI into users\u2019 hands\n...\nGoogle DeepMind Sign Language Team\n...\nIntroducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.\n...\nToday, we\u2019re introducing a massively multilingual sign-language-to-text (SL2T) translat"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-13",
+    "topic": "ai_labs",
+    "title": "New connected apps are coming to Gemini",
+    "url": "https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-services-gemini-august-2026/",
+    "snippet": "# New connected apps are coming to Gemini\n...\nNew connected apps are coming to Gemini\n...\n- - [Google DeepMind](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/)\n- [Google Research](https://blog.google/innovation-and-ai/models-and-research/google-research/)\n- [Google Labs](https://blog.google/innovation-and-ai/models-and-research/google-labs/)\n- [Gemini models](https://bl"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-13",
+    "topic": "ai_labs",
+    "title": "Introducing new Pixel 11 Phones, Pixel Watch 5, and Pixel Tag",
+    "url": "https://blog.google/products-and-platforms/devices/pixel/new-pixel-devices-2026/",
+    "snippet": "# Introducing new Pixel 11 Phones, Pixel Watch 5, and Pixel Tag\n...\nnew Pixel 11 Phones, Pixel Watch 5, and Pixel Tag\n...\n- - [Google DeepMind](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/)\n- [Google Research](https://blog.google/innovation-and-ai/models-and-research/google-research/)\n- [Google Labs](https://blog.google/innovation-and-ai/models-and-research/google-lab"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-13",
+    "topic": "ai_labs",
+    "title": "Codex in ChatGPT desktop app for Linux is now in preview \ud83d\udc27 - Codex - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/codex-in-chatgpt-desktop-app-for-linux-is-now-in-preview/1390027/14",
+    "snippet": "Codex in ChatGPT desktop app for Linux is now in preview \ud83d\udc27 - Codex - OpenAI Developer Community\n...\nWe did it, finally... Codex & ChatGPT desktop, now on Linux. Thanks for waiting and you can cancel that MacBook order if you got impatient. It\u2019s that good. \ud83d\udc40 x.com/OpenAI/status/\u2026\n...\nNow in preview: The ChatGPT desktop app for Linux. Use ChatGPT, ChatGPT Work, and Codex where you already work and b"
   }
 ]
