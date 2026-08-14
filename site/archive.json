@@ -16470,5 +16470,231 @@
     "title": "Codex in ChatGPT desktop app for Linux is now in preview \ud83d\udc27 - Codex - OpenAI Developer Community",
     "url": "https://community.openai.com/t/codex-in-chatgpt-desktop-app-for-linux-is-now-in-preview/1390027/14",
     "snippet": "Codex in ChatGPT desktop app for Linux is now in preview \ud83d\udc27 - Codex - OpenAI Developer Community\n...\nWe did it, finally... Codex & ChatGPT desktop, now on Linux. Thanks for waiting and you can cancel that MacBook order if you got impatient. It\u2019s that good. \ud83d\udc40 x.com/OpenAI/status/\u2026\n...\nNow in preview: The ChatGPT desktop app for Linux. Use ChatGPT, ChatGPT Work, and Codex where you already work and b"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-08-14",
+    "headline": "Everybody's fighting over who has the smartest model this week. Grok 4.6, Gemini 3.7 Flash, DeepSeek V4 Pro, GLM-5.3, all dropped inside like 48 hours.",
+    "url": "archive/2026-08-14.html",
+    "posts": {
+      "linkedin": [
+        "A guy built a full business idea, a website, and a list of 10 real local prospects in 30 minutes today.\n\nHe never typed a single prompt. He just talked to Codex out loud and let it steer.\n\nHere's the part people miss. The AI didn't come up with a good idea on its own. It came up with five options. He picked one, then told it to run the offer through Hormozi's framework until it was something nobody could say no to.\n\nThat's the actual skill. Not the tool. Knowing what a strong offer feels like when you see it.\n\nThe tool built the site in minutes. The list of prospects came with links to their Google Business pages, ready to walk in.\n\nYour ideas aren't bad ideas. They're just not finished ideas. Turns out you can finish one in the time it takes to eat lunch now.\n\nWhat would you build if the only cost was 30 minutes and a decent idea?",
+        "Four frontier models dropped this week. Grok 4.6, Gemini 3.7 Flash, DeepSeek V4 Pro, GLM-5.3.\n\nMost people's reaction was \"which one's smartest.\" Wrong question.\n\nThe right question is what happens when the smartest model costs half what it did three weeks ago. That's what actually happened with Gemini Flash. Half the price of the version from three weeks earlier.\n\nNobody's going to remember which model won August's benchmark. Everybody's going to remember what got built while the price kept dropping.\n\nIf it's repeatable, it's a skill. The model war is just noise around that. The skill is knowing what to build with cheap intelligence before everyone else figures it out too.\n\nWhat are you building right now that gets cheaper to run every single month?",
+        "Lovable just raised $400 million. The interesting part isn't the number.\n\nIt's how they described themselves. Not \"AI coding tool\" anymore. \"The software creation platform that gives those closest to a problem the power to solve it.\"\n\nThat's not a coding company talking anymore. That's a business-building company talking.\n\nNearly 8 in 10 of their users are building an actual business inside the tool, not a demo. More than a third are already making money from it.\n\nThe tool isn't the product. It never was. The business someone builds with it is the product.\n\nSame week DeepSeek dropped an open source coding agent that's 46 times cheaper than Claude. The barrier to building something real keeps getting lower and lower.\n\nIt's not about making millions with one idea. It's about having several profitable little ideas, built cheap and fast enough that a wrong one barely costs you anything.\n\nWhat's stopping you from testing three of them this month instead of perfecting one?"
+      ],
+      "threads": [
+        "Watched a guy talk to Codex out loud for 30 minutes today. No typed prompt. Just a conversation.\n\nBy the end he had a business idea, an offer built using real sales frameworks, a live website, and 10 actual local businesses to go pitch, links to their Google pages included.\n\nThe tool didn't have the idea. He steered it toward a good one. That's still the part nobody can skip.\n\nBaby bird has gotta jump outta the nest eventually. Turns out the nest is way lower than it used to be.",
+        "Four new AI models shipped this week. Grok, Gemini, DeepSeek, GLM. Everyone's arguing about which one's smartest.\n\nWrong thing to argue about.\n\nGemini's new model is half the price of the one from three weeks ago. That's the actual headline. Not who wins a benchmark nobody outside AI Twitter cares about.\n\nCheap intelligence compounding every month is the story. What gets built while nobody's watching the price drop, that's the part worth paying attention to.",
+        "Guy added a quote-and-payment widget to his design studio's website this week. Client picks a service, describes the project, gets an AI-priced estimate and a Stripe deposit link on the same screen.\n\nHe didn't rebuild his site. He just plugged in the one thing that was actually broken, which was the back-and-forth quoting by email.\n\nWould someone pay for that? I think someone would pay for that. He basically just built the exact tool his own business needed and shipped it in a weekend.\n\nWhat's the one annoying part of your own process you could just... fix first?"
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-08-14",
+    "source": "Corey Ganim",
+    "title": "I asked Codex to make me as much money as possible",
+    "url": "https://www.youtube.com/watch?v=Lw6lZK9ptCY",
+    "video_id": "Lw6lZK9ptCY"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-08-14",
+    "source": "AI Daily Brief",
+    "title": "Grok 4.6 Shows How Fast Your AI Options Are Expanding",
+    "url": "https://www.youtube.com/watch?v=8exG3NcsKxw",
+    "video_id": "8exG3NcsKxw"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-14",
+    "topic": "model_releases",
+    "title": "SpaceXAI releases flagship Grok 4.6 model with advanced reasoning capabilities - SiliconANGLE",
+    "url": "https://siliconangle.com/2026/08/12/spacexai-releases-flagship-grok-4-6-model-advanced-reasoning-capabilities/",
+    "snippet": "SpaceXAI releases flagship Grok 4.6 model with advanced reasoning capabilities - SiliconANGLE\n...\n### SpaceXAI releases flagship Grok 4.6 model with advanced reasoning capabilities\n...\nSpaceXAI today released Grok 4.6, a large language model that it says can outperform Anthropic PBC\u2019s Claude Fable 5 in some areas.\n...\nGrok 4.6 is rolling out only a month after SpaceXAI released its previous flagsh"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-14",
+    "topic": "model_releases",
+    "title": "Zhipu AI Launches GLM-5.3: New LLM Specs & Features",
+    "url": "https://emergent.sh/news/glm-53-officially-launched",
+    "snippet": "# Zhipu AI Launches GLM-5.3: New LLM Specs & Features\n...\nZhipu AI Launches GLM-5.3: New LLM Specs & Features\n...\n# Zhipu AI Launches GLM-5.3: New LLM Specs & Features\n...\nZhipu AI has expanded its generative AI portfolio with the release of GLM-5.3, a new large language model officially launched on August 14, 2026. The Beijing-based AI research company continues its GLM (General Language Model) s"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-14",
+    "topic": "model_releases",
+    "title": "xAI Launches Grok 4.6: New Multimodal AI Model",
+    "url": "https://emergent.sh/news/grok-46-officially-launched",
+    "snippet": "# xAI Launches Grok 4.6: New Multimodal AI Model\n...\nxAI Launches Grok 4.6: New Multimodal AI Model\n...\n# xAI Launches Grok 4.6: New Multimodal AI Model\n...\n![xAI Launches Grok 4.6: New Multimodal AI Model](\n...\nxAI has officially launched Grok 4.6, expanding its proprietary artificial intelligence lineup with enhanced multimodal capabilities. The model processes text, images, and other data forma"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-14",
+    "topic": "model_releases",
+    "title": "WeChat AI Team Details WeLM Models Scaling to 617B Parameters \u00b7 TechNode",
+    "url": "https://technode.com/2026/08/13/wechat-ai-team-details-welm-models-scaling-to-617b-parameters/",
+    "snippet": "WeChat AI Team Details WeLM Models Scaling to 617B Parameters \u00b7 TechNode\n...\nTencent\u2019s WeChat AI team has detailed a new scaling approach for its WeLM model family. The team trained WeLM-HD4-80B and WeLM-HD4-617B models using a method called Hidden Decoding, which expands each token into multiple internal computation streams without increasing the main Transformer backbone.\n...\nThe 80B model activ"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-14",
+    "topic": "model_releases",
+    "title": "DeepSeek releases official V4 Pro model; 46 times cheaper than Claude with 5 percent performance gap",
+    "url": "https://www.digitaltoday.co.kr/en/view/92711/deepseek-v4-pro-official-release-0813-build-claude-46-times-cheaper-5-percent-gap",
+    "snippet": "DeepSeek releases official V4 Pro model; 46 times cheaper than Claude with 5 percent performance gap\n...\nChina's AI company DeepSeek has swapped its flagship model, DeepSeek V4 Pro, to the official release build 0813. Since previously published performance evaluations were based on a preview version, some assessments say the official version\u2019s actual performance still needs external verification.\n"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-14",
+    "topic": "product_releases",
+    "title": "Facebook Creator Studio: Meta Launches Standalone AI App for Creators - Basic Tutorials",
+    "url": "https://basic-tutorials.com/news/facebook-creator-studio-meta-launches-standalone-ai-app-for-creators/",
+    "snippet": "Facebook Creator Studio: Meta Launches Standalone AI App for Creators - Basic Tutorials\n...\nFacebook Creator Studio has been officially available as a standalone app in the App Store since August 12, 2026. It combines an AI assistant, automatically generated comment replies, and a daily to-do list for creators who would otherwise have to switch back and forth between Facebook, analytics tools, and"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-14",
+    "topic": "product_releases",
+    "title": "Honor Launches Robot Phone with Gimbal Camera and AI Agent Features \u00b7 TechNode",
+    "url": "https://technode.com/2026/08/13/honor-launches-robot-phone-with-gimbal-camera-and-ai-agent-features/",
+    "snippet": "Honor Launches Robot Phone with Gimbal Camera and AI Agent Features \u00b7 TechNode\n...\nHonor has launched its Robot Phone, a smartphone equipped with a four-degree-of-freedom titanium gimbal and a system-level AI agent architecture. The phone measures about 9.59 millimeters thick, weighs 248 grams and includes a 7,060mAh battery and a 6.31-inch display.\n...\nThe 12GB+512GB version is priced at 9,999 yu"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-14",
+    "topic": "product_releases",
+    "title": "Fireflies.ai launches Email Assistant, bringing the AI millions rely on for meetings to the inbox | WYOW",
+    "url": "https://wyow.marketminute.com/article/gnwcq-2026-8-13-firefliesai-launches-email-assistant-bringing-the-ai-millions-rely-on-for-meetings-to-the-inbox",
+    "snippet": "Fireflies.ai launches Email Assistant, bringing the AI millions rely on for meetings to the inbox | WYOW\n...\n# Fireflies.ai launches Email Assistant, bringing the AI millions rely on for meetings to the inbox\n...\nSAN FRANCISCO, Aug. 13, 2026 (GLOBE NEWSWIRE) -- Fireflies.ai, the AI Work Assistant used by teams at 75% of Fortune 500 companies, today launched Email Assistant, an AI inbox assistant t"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-14",
+    "topic": "product_releases",
+    "title": "Phantom Realty Engine Launches Two Apps, Putting Its Real Estate AI in the Hands of Agents and Their Clients | MarketMinute",
+    "url": "https://mail.marketminute.com/article/newsfile-2026-8-13-phantom-realty-engine-launches-two-apps-putting-its-real-estate-ai-in-the-hands-of-agents-and-their-clients",
+    "snippet": "Phantom Realty Engine Launches Two Apps, Putting Its Real Estate AI in the Hands of Agents and Their Clients | MarketMinute\n...\n# Phantom Realty Engine Launches Two Apps, Putting Its Real Estate AI in the Hands of Agents and Their Clients\n...\nThe client app lets buyers swipe through live MLS listings and ask the platform's AI directly. The agent app runs comparative market analyses, MLS searches, "
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-14",
+    "topic": "product_releases",
+    "title": "Toss Securities launches open API to place stock orders with AI, integrates ChatGPT and Claude",
+    "url": "https://www.digitaltoday.co.kr/en/view/92787/toss-securities-launches-open-api-to-place-stock-orders-with-ai-chatgpt-claude-integration",
+    "snippet": "Toss Securities launches open API to place stock orders with AI, integrates ChatGPT and Claude\n...\nToss Securities on Aug. 13 officially launched an open API service that links with large language models (LLMs) to allow users to place stock orders and make inquiries without separate coding knowledge.\n...\nToss Securities said the service differs from existing open APIs in that it supports integrati"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-14",
+    "topic": "ai_agents",
+    "title": "Leah Partners with Oracle and PwC to Take Its Agentic Operating System Global",
+    "url": "https://www.oracle.com/news/announcement/leah-partners-with-oracle-and-pwc-2026-08-13/",
+    "snippet": "Leah Partners with Oracle and PwC to Take Its Agentic Operating System Global\n...\n# Leah Partners with Oracle and PwC to Take Its Agentic Operating System Global\n...\nWorking with PwC and Oracle, Leah will bring autonomous enterprise workflows to more regions and regulated industries, while expecting to improve platform performance by up to 30 percent and reduce cloud operating costs by up to 40 pe"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-14",
+    "topic": "ai_agents",
+    "title": "Introducing NAC, an Open-Source Harness for Long-Running Agent Work",
+    "url": "https://www.arcee.ai/blog/nac",
+    "snippet": "# Introducing NAC, an Open-Source Harness for Long-Running Agent Work\n...\nNac is an open-source agent harness we built for ourselves around that separation and is available under Apache-2.0 at https://github.com/arcee-ai/nac. This blog explains the implementation, the ideas it draws from, and why agent harnesses are becoming a new kind of inference runtime.\n...\nNac is an open-source agent harness "
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-14",
+    "topic": "ai_agents",
+    "title": "BESPIN Global's 'HelpNow Agentic AI Platform' Earns GS Certification Level 1 - MoneyToday",
+    "url": "https://www.mt.co.kr/en/tech/2026/08/13/2026081310033897943",
+    "snippet": "# BESPIN Global's 'HelpNow Agentic AI Platform' Earns\n...\nLevel 1\n\n 10:05 a.m. Aug 13, 2026 \n\nOn the 13th, BESPIN Global announced that its enterprise AI agent platform, 'HelpNow Agentic AI Platform v4.0', has obtained GS (Good Software) Certification Level 1 from the Korea Information and Communication Technology Association (TTA).\n...\nHelpNow is an integrated platform for building, deploying, an"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-14",
+    "topic": "ai_agents",
+    "title": "DeepSeek Harness launches as open source rival to Claude Code, alongside V4-Pro on API with higher prices",
+    "url": "https://venturebeat.com/technology/deepseek-harness-launches-as-open-source-rival-to-claude-code-alongside-v4-pro-on-api-with-higher-prices",
+    "snippet": "DeepSeek Harness launches as open source rival to Claude Code, alongside V4-Pro on API with higher prices | VentureBeat\n...\nDeepSeek is expanding beyond the model layer and deeper into the software developers use to put AI agents to work.\n...\nThe Chinese AI lab on Thursday launched the official version of DeepSeek-V4-Pro, an updated flagship model focused heavily on agentic workloads, alongside De"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-14",
+    "topic": "ai_agents",
+    "title": "Digital Garage launches DG Agentic One for Japan AI commerce | IBTimes JP",
+    "url": "https://jp.ibtimes.com/digital-garage-launches-dg-agentic-one-japan-ai-commerce-103656",
+    "snippet": "# Digital Garage launches DG Agentic One for Japan AI commerce | IBTimes JP\n...\n# Digital Garage launches DG Agentic One for Japan AI commerce\n...\n- Digital Garage and DG Business Technology launch DG Agentic One for AI-driven e-commerce optimization in Japan\n- Platform combines AI data optimization, GEO measures, UCP and ACP connectivity, and commerce functions for AI agent transactions\n- Digital"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-14",
+    "topic": "ai_small_business",
+    "title": "Mikey Gave His Design Studio Site a Way to Quote and Get Paid Automatically - DEV Community",
+    "url": "https://dev.to/momen_hq/mikey-gave-his-design-studio-site-a-way-to-quote-and-get-paid-automatically-2h4f",
+    "snippet": "Mikey, who builds tools for freelancers and service businesses, added a quote widget to his design studio's website: a visitor picks a service, a scope, and a timeline, describes the project, and gets back an AI-calculated estimate and a friendly written summary, with a Stripe deposit collected on the spot. The problem it replaces is the back-and-forth of quoting by email and phone that anyone run"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-14",
+    "topic": "ai_small_business",
+    "title": "ImpactFactory.ai Launches Revolutionary \"Digital Marketing Agency in a Box\"",
+    "url": "https://www.prnewswire.com/news-releases/impactfactoryai-launches-revolutionary-digital-marketing-agency-in-a-box-302850850.html",
+    "snippet": "ImpactFactory.ai Launches Revolutionary \"Digital Marketing Agency in a Box\" Accessibility Statement Skip Navigation\n\nNew platform integrates 25+ best in class AI engines to create and place media, generate insights and continuously optimize marketing performance\n\nCHICAGO, Aug. 13, 2026 /PRNewswire/ -- ImpactFactory.ai today announced the launch of a revolutionary AI facilitated digital marketing a"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-14",
+    "topic": "ai_small_business",
+    "title": "How to make money with OpenClaw: 6 ways to generate income",
+    "url": "https://www.hostinger.com/tutorials/how-to-make-money-with-openclaw/",
+    "snippet": "How to make money with OpenClaw: 6 strategies Summer Sale: up to 80% off Claim deal\n\nBack\n\n### Find the right learning path for you\n\n- Free resources\n- Practical tutorials\n- Helpful tools\n\n# How to make money with OpenClaw: 6 ways to generate income\n\nSummarize with:\n\nShare:\n\nCopy link\n\nCopied!\n\nShare on X Share on Facebook Share on LinkedIn\n\nYou can make money with OpenClaw by automating high-valu"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-14",
+    "topic": "ai_small_business",
+    "title": "DenwaFlow Launches Task-Completing AI Phone Agent for Business Call Automation | lifestyle.massnews.com",
+    "url": "https://lifestyle.massnews.com/story/822034/denwaflow-launches-task-completing-ai-phone-agent-for-business-call-automation/",
+    "snippet": "DenwaFlow Launches Task-Completing AI Phone Agent for Business Call Automation | lifestyle.massnews.com\n\n# DenwaFlow Launches Task-Completing AI Phone Agent for Business Call Automation\n\nWritten By: EIN Presswire\n\nDenwaFlow launches a task-completing AI phone agent for appointments, inquiries and business call automation. #AIPhone #VoiceAI\n\nDenwaFlow helps businesses complete routine phone workflo"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-14",
+    "topic": "ai_labs",
+    "title": "Gemini 3.7 Flash: our most intelligent workhorse model",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+    "snippet": "Gemini 3.7 Flash: our most intelligent workhorse model\n...\n# Introducing Gemini 3.7 Flash\n...\nAug 13, 2026\n...\nOur most intelligent workhorse model yet for coding and agents.\n...\nToday, we\u2019re building on the progress of our widely used Flash series by introducing Gemini 3.7 Flash, our most intelligent workhorse model yet for coding and agents.\n...\nThis release comes just three weeks after Gemini 3"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-14",
+    "topic": "ai_labs",
+    "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+    "url": "https://openai.com/index/previewing-ultrafast/",
+    "snippet": "# Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed\n...\nToday, we\u2019re sharing an early look at Ultrafast, a new service tier that runs GPT\u20115.6 Sol up to 14\u00d7 faster than Standard processing, launching first in the OpenAI API. Powered by Cerebras, Ultrafast generates up to 750 output tokens per second, bringing our most intelligent model to products and workflows where every second matter"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-14",
+    "topic": "ai_labs",
+    "title": "Gemini Omni experts answer key questions about the model",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-experts-roundtable/",
+    "snippet": "Gemini Omni experts answer key questions about the model\n...\n# Omni experts share what excites them most about the model.\n...\nWe recently introduced Gemini Omni, a new model that lets you create anything from any input. The model\u2019s first release, Gemini Omni Flash, makes generating and editing videos as easy as having a conversation.\n...\nTo get the inside scoop, we sat down with three Google DeepM"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-14",
+    "topic": "ai_labs",
+    "title": "Bring your spreadsheet data to life with Sheets canvas",
+    "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
+    "snippet": "Build mini-apps with Gemini in Google Sheets\n...\n# Bring your spreadsheet data to life with Sheets canvas\n...\nAug 13, 2026\n...\nA new Google Sheets feature, Sheets canvas transforms rows and columns into interactive dashboards, custom study trackers, seating charts, and more, all with a simple prompt.\n...\nDirector, Product Management\n...\nSpreadsheets are a powerful tool for organizing and understan"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-14",
+    "topic": "ai_labs",
+    "title": "7 can't-miss updates from our Pixel 11 launch",
+    "url": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-features/",
+    "snippet": "7 Pixel 11 updates you should know about\n\n# 7 can\u2019t-miss updates from our Pixel 11 launch\n\nOur 11th generation of Pixel phones is designed for Gemini Intelligence and delivers advanced camera features.\n\n---\n\nShenaz Zack\n\nSenior Director, Product Management, Pixel\n\nShare\n\n---\n\nYour browser does not support the audio element.\n\nListen to article\n\n[[duration]] minutes\n\nThis content is generated by Goo"
   }
 ]
