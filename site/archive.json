@@ -16890,5 +16890,215 @@
     "title": "Chat GPT pricing strategy - ChatGPT / Feature requests - OpenAI Developer Community",
     "url": "https://community.openai.com/t/chat-gpt-pricing-strategy/1390419",
     "snippet": "Chat GPT pricing strategy - ChatGPT / Feature requests - OpenAI Developer Community\n...\n# Chat GPT pricing strategy\n...\nThe Bodez ChatGPT Pricing Model\n...\nExecutive Proposal to OpenAI Product & Pricing\n...\nProposal: Introduce flexible, compute-based pricing between the Free and Plus tiers.\n...\nit intermittently. A fixed monthly subscription\n...\nbe difficult to\n...\na lengthy reasoning task\n...\nCre"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-08-16",
+    "headline": "The real problem isn't whether AI can do your work.",
+    "url": "archive/2026-08-16.html",
+    "posts": {
+      "linkedin": [
+        "The move most people miss when they think about AI deputization: it's not about capability anymore.\n\nCapability is table stakes. Google, OpenAI, Anthropic, SpaceX all ship capable models now. The actual question is simpler and harder: which parts of my work should I actually hand to an agent.\n\nI listened to the AI Daily Brief this morning and they landed on five dimensions. Frequency (does it happen often and take time). Teachability (can you show the agent once). Checkability (can you verify faster than you could do it). Stakes (how bad if it goes wrong). Your involvement (does it have to be you).\n\nScore 8-10 across those five, deputize it. Score 0-3, keep it. Score 4-7, split it.\n\nThat's it. That framework just answered the question that's been hanging since ChatGPT launched: which work actually moves to agents and which work stays human.",
+        "Standing authenticated access. That's the inflection.\n\nGrok Bot shipped with it. Each bot gets logged into your Gmail, Google Calendar, Google Drive, Notion. Stays logged in. Works while your laptop is closed.\n\nIn their own demo, a single bot pulled 52 Salesforce accounts, cross-referenced them against LinkedIn, pulled an analytics tool, and queued 36 outbound emails unattended.\n\nThat's not a chat experience anymore. That's an execution experience.\n\nMost AI assistants are stateless. You ask, they answer, the session ends. Grok Bot inverts that. You create a named bot, log it in once, and it keeps working.\n\nThat changes the math on which work makes sense to deputize. Before, the agent could only help with the thinking part. Now it can handle the doing part too.\n\nThat's a different category of business.",
+        "Frontier capability is now running on laptops.\n\nQwen3.8-27B just landed on LM Studio. That's Alibaba's 2.4 trillion parameter model with 95 billion active parameters. Runs locally. No server required.\n\nThe implication is the one people keep missing: you don't have to send your work to someone else's server anymore. You don't have to trust another company's infrastructure with what you're building. The capability comes to your machine.\n\nThat solves a different problem than raw speed. It solves the problem of sovereignty. Privacy. Keeping your work local.\n\nFor small teams and solo founders, that's huge. For enterprises that have been hesitant about cloud AI, that's permission granted.\n\nThe graph is decentralizing. You're looking at it happen in real time."
+      ],
+      "threads": [
+        "The bottleneck shifted.\n\nIt was never whether AI could do the work. It was always which work deserves to be handed off.\n\nAI Daily Brief dropped a framework today: score any task across five dimensions. Frequency, teachability, checkability, stakes, whether you're essential. 8-10 means deputize. 0-3 means defend it. 4-7 means you and the AI split it.\n\nThat's the hinge point everyone's been waiting for.",
+        "Grok Bot with standing logins changes the math.\n\nAgent stays logged in. Works while you sleep. In the demo it pulled 52 accounts, cross-referenced data, and queued 36 emails unattended.\n\nThat's not a thinking partner anymore. That's an execution partner.\n\nNow the question isn't just \"can the agent help me decide.\" It's \"what can the agent actually go do.\"",
+        "Frontier models now run on your laptop.\n\nQwen3.8-27B just shipped on LM Studio. You don't send your work to a server. The capability comes to your machine.\n\nThat's not just speed. That's sovereignty.\n\nThe decentralization you've been hearing about is shipping now, not later."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-08-16",
+    "source": "AI Daily Brief",
+    "title": "How to Help AI Do Your Work Better",
+    "url": "https://www.youtube.com/watch?v=GtnZzy6tERA",
+    "video_id": "GtnZzy6tERA"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-16",
+    "topic": "model_releases",
+    "title": "Grok 4.6 Matches GPT-5.6 Sol Performance at Nearly Half the Price - OnMSFT",
+    "url": "https://onmsft.com/news/grok-4-6-matches-gpt-5-6-sol-performance-at-nearly-half-the-price/",
+    "snippet": "SpaceXAI has introduced Grok 4.6, its latest AI model, with performance that puts it close to some of the strongest models currently available while keeping its API pricing significantly lower. The company says Grok 4.6 improves on Grok 4.5 without increasing the price, giving developers another high-end option for demanding AI workloads.\n...\nAccording to Artificial Analysis, Grok 4.6 scored 61 on"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-16",
+    "topic": "model_releases",
+    "title": "Google Gemini 3.7 Flash Debuts at Half Introductory Price, Targets Coding and Complex Workflows - Sangri Times English",
+    "url": "https://en.sangritimes.com/technology/google-gemini-37-flash-debuts-at-half-introductory-price-targets-coding-and-complex-workflows",
+    "snippet": "Google Gemini 3.7 Flash Debuts at\n...\n7 Flash Deb\n...\n## Google has launched its new flagship AI model, Gemini 3.7 Flash, globally. This new model offers significantly improved performance in coding, software engineering, workflow automation, and document comprehension compared to the older Gemini 3.6 Flash.\n...\nThe AI model of the Mountain View-based tech giant, named Gemini 3.7 Flash, has been i"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-16",
+    "topic": "model_releases",
+    "title": "GLM-5.3 is here with advanced cyber capabilities \u2014 and reportedly already found a 'serious vulnerability' in Cursor - mGrowTech",
+    "url": "https://mgrowtech.com/glm-5-3-is-here-with-advanced-cyber-capabilities-and-reportedly-already-found-a-serious-vulnerability-in-cursor/",
+    "snippet": "GLM-5.3 is here with advanced cyber capabilities \u2014 and reportedly already found a '\n...\nvulnerability' in\n...\n# GLM-5.3 is here with advanced cyber capabilities \u2014 and reportedly already found a 'serious vulnerability' in Cursor\n...\nChinese AI startup Z.ai, known internationally for its growing lineup of powerful, largely open source GLM series of language models, today released GLM-5.3 with substa"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-16",
+    "topic": "model_releases",
+    "title": "Alibaba open-sources Qwen3.8-Max with 2.4T params and... | The Neural Feed",
+    "url": "https://theneuralfeed.com/article/alibaba-open-sources-qwen3-8-max-weights-this-week-introduces-revenue-sharing-sc/1ERRoYZa",
+    "snippet": "Alibaba open-sources Qwen3.8-Max with 2.4T params and... | The Neural Feed\n...\n# Alibaba open-sources Qwen3.8-Max with 2.4T params and revenue-sharing\n...\n\u26a1Qwen3.8-Max's 95B active parameters and 1M context hits Hugging Face this week\n...\nAlibaba's Tongyi Qwen team officially released Qwen3.8-Max on August 3, and the open-source weights are scheduled for public download via Hugging Face and ModelS"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-16",
+    "topic": "model_releases",
+    "title": "Qwen3.8-27B puts a frontier model on your laptop \u00b7 FAV0 \u00b7 AI Daily",
+    "url": "https://fav0.com/en/2026-08-16/",
+    "snippet": "Qwen3.8-27B puts a frontier model on your laptop \u00b7 FAV0 \u00b7 AI Daily\n...\n# Qwen3.8-27B puts a frontier model on your laptop\n...\nCover Story \u00b7 Model ReleaseAlibaba's compact open model lands on LM Studio, billed as a \"laptop-sized, frontier-level jump\" that runs entirely on-device.Alibaba's open-source Qwen3.8-27B is now live on LM Studio, letting developers download, deploy, and run a 27-billion-par"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-16",
+    "topic": "product_releases",
+    "title": "New AI platform launches as Ja prepares public debate on AI rules | Business | Jamaica Gleaner",
+    "url": "https://jamaica-gleaner.com/article/business/20260816/new-ai-platform-launches-ja-prepares-public-debate-ai-rules",
+    "snippet": "New AI platform launches as Ja prepares public debate on AI rules | Business | Jamaica Gleaner\n\n Business August 16 2026 by Carolyn Guniss - Senior Business Reporter \n\n# New AI platform launches as Ja prepares public debate on AI rules \n\n 5 min read \n\n- Yale University Anu El, founder of Crimson Tide AI Limited, developer of the OpenJM, AI platform. \n- Contributed Matthew Stone, president of the J"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-16",
+    "topic": "product_releases",
+    "title": "Fireflies.ai brings its AI notetaker to the inbox with Email Assistant, now free on all plans",
+    "url": "https://timesofindia.indiatimes.com/technology/tech-news/fireflies-ai-brings-its-ai-notetaker-to-the-inbox-with-email-assistant-now-free-on-all-plans/articleshow/133258263.cms",
+    "snippet": "Fireflies.ai brings its AI notetaker to the inbox with Email Assistant, now free on all plans\n...\nTech News\n- Fireflies.ai brings its AI notetaker to the inbox with Email Assistant, now free on all plans\n...\n# Fireflies.ai brings its AI notetaker to the inbox with Email Assistant, now free on all plans\n...\nFireflies.ai, the AI meeting assistant used by more than 20 million people and teams at 75% "
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-16",
+    "topic": "product_releases",
+    "title": "Grok Bot ships with standing logins to your email and CRM - DEV Community",
+    "url": "https://dev.to/breachprotocol/grok-bot-ships-with-standing-logins-to-your-email-and-crm-593a",
+    "snippet": "Grok Bot ships with standing logins to your email and CRM - DEV Community\n...\nxAI launched Grok Bot on August 11, 2026, an early-beta desktop and iOS product that gives each agent its own computer and its own logins to a user's real accounts. The company's pitch is explicit: \"AI teammates you can give real work to. Bots can sign in to your tools, use them just like you do, and come back with finis"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-16",
+    "topic": "product_releases",
+    "title": "Deltix pairs AI app exploration with replayable iOS regression tests",
+    "url": "https://runtimewire.com/article/deltix-ai-ios-testing-exploration-replayable-regression",
+    "snippet": "Deltix pairs AI app exploration with replayable iOS regression tests\n...\n# Deltix pairs AI app exploration with replayable iOS regression tests\n...\nIts Mac agent keeps app binaries local, while screenshots and interface data still travel to Deltix's cloud and Anthropic.\n\n By RuntimeWire Staff \u00b7 Published Aug 14, 2026, 10:42pm CT \n\n## Why it matters\n...\nDeltix is testing whether AI can discover a m"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-16",
+    "topic": "ai_agents",
+    "title": "Launch of DeepSeek\u2019s Harness marks its strategic pivot towards autonomous agentic AI - EUROPE SAYS",
+    "url": "https://www.europesays.com/3197252/",
+    "snippet": "# Launch of DeepSeek\u2019s Harness marks its strategic pivot towards autonomous agentic AI - EUROPE SAYS\n\nPublished: 2026-08-16T11:18:38+00:00\nSource: europesays.com (europesays.com)\nLanguage: en\n\n## Story\n\nChinese artificial intelligence company DeepSeek is venturing into a new battleground beyond large language models, launching a developer preview of its long-anticipated Harness \u2013 a software framew"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-16",
+    "topic": "ai_agents",
+    "title": "News : L&T Technology Services Launches AgenticIQ\u2122",
+    "url": "https://www.contactcenterworld.com/view/contact-center-news/lt-technology-services-launches-agenticiq-an-end-to-end-agentic-ai-platform-for.aspx",
+    "snippet": "News : L&T Technology Services Launches AgenticIQ\u2122\n...\n# News : L&T Technology Services Launches AgenticIQ\u2122\n...\n#contactcenterworld Bengaluru, India, Aug 12, 2026 - L&T Technology Services (BSE: 540115, NSE: LTTS), a global provider in Engineering Intelligence Solutions & ER&D Consulting Services, announced the launch of AgenticIQ\u2122, an end-to-end Agentic AI platform purpose-built for engineering a"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-16",
+    "topic": "ai_agents",
+    "title": "Matimo Platform, an AI Agent Governance and Execution System, Launches Worldwide",
+    "url": "https://www.einnews.com/pr_news/934440807/matimo-platform-an-ai-agent-governance-and-execution-system-launches-worldwide",
+    "snippet": "# Matimo Platform, an AI Agent Governance and Execution System, Launches Worldwide\n...\nAI agents are moving from pilot to production faster than governance can keep up. Matimo Platform launches worldwide with identity and audit controls built in.\n...\nCA, UNITED STATES, August 15, 2026 / EINPresswire.com / -- Matimo Platform, an AI agent execution and governance system developed by ROAIQ TECHNOLOGI"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-16",
+    "topic": "ai_agents",
+    "title": "OpenJiuwen Launches WorkSwarm Multi-Agent Platform on HarmonyOS PC",
+    "url": "https://en.shuziqushi.com/new417752.html",
+    "snippet": "OpenJiuwen Launches WorkSwarm Multi-Agent Platform on HarmonyOS PC\n...\n# OpenJiuwen Launches WorkSwarm Multi-Agent Platform on HarmonyOS PC\n\n By China Digital Trends Editorial Team \u2022 2026-08-15 14:31:43 EDT \n\n## Executive Narrative\n\n Huawei-backed openJiuwen has launched its WorkSwarm multi-agent AI collaboration platform on the HarmonyOS PC application store.\n...\nOpenJiuwen, an open-source artifi"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-16",
+    "topic": "ai_agents",
+    "title": "HarnessRouter Open-Sources the World\u2019s First Unified Interface for Agent Harnesses and the Unified Harness Protocol",
+    "url": "https://mm-newsroom-459236083887.us-central1.run.app/harnessrouter-open-sources-the-worlds-first-unified-interface-for-agent-harnesses-and-the-unified-harness-protocol/89200657",
+    "snippet": "HarnessRouter Open-Sources the World\u2019s First Unified Interface for Agent Harnesses and the Unified Harness Protocol\n...\nHarnessRouter Open-Sources the World\u2019s First Unified Interface for Agent Harnesses and the Unified Harness Protocol\n...\n-- On August 14, 2026, HarnessRouter, the world\u2019s first unified interface for agent harnesses, open-sourced the Unified Harness Protocol (UHP) and HarnessRouter"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-16",
+    "topic": "ai_small_business",
+    "title": "ZenBusiness Launches AI Co-Founder to Help Entrepreneurs Start Businesses",
+    "url": "https://smallbiztrends.com/zenbusiness-launches-ai-co-founder-to-help-entrepreneurs-start-businesses/",
+    "snippet": "For many entrepreneurs, coming up with a business idea is easier than turning it into a functioning company. Building a website, creating marketing content, setting up payments and finding customers can quickly become overwhelming, especially for solo founders.\n...\nZenBusiness wants artificial intelligence to handle more of that work.\n...\nThe company announced Aug. 11 the launch of Velo Prime, an "
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-16",
+    "topic": "ai_small_business",
+    "title": "Kinetik launches AI team agent for influencer marketing campaigns",
+    "url": "https://completeaitraining.com/news/kinetik-launches-ai-team-agent-for-influencer-marketing/",
+    "snippet": "Kinetik launches AI team agent for influencer marketing campaigns\n\nBack to: All AI News\n\n# Kinetik launches AI team agent for influencer marketing campaigns\n\nKineto launched Kinetik For Teams, an AI agent that runs influencer campaigns from Slack and WhatsApp, starting at $50 per month. The tool, trusted by 10,000 creators, automates discovery, outreach, and reporting for teams of 1 to 100 people."
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-16",
+    "topic": "ai_small_business",
+    "title": "Social Media Marketing Tools : Kinetik for Teams",
+    "url": "https://www.trendhunter.com/amp/trends/kinetik-for-teams",
+    "snippet": "## Kineto Enhances Marketing Team Flow with Kinetik for Teams\n...\nKineto, an artificial intelligence startup spun out of JetBrains and backed by that company\u2019s investment and technical expertise, has launched Kinetik For Teams. This innovation presents an AI agent that is designed to operate within Slack and WhatsApp to manage the entire lifecycle of influencer and social media marketing campaigns"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-16",
+    "topic": "ai_small_business",
+    "title": "Kredily 3.0 Launches KAI, Agentic AI for Payroll and HR, and Expands into AI-Powered Managed Payroll Services \u2013 ThePrint \u2013 ANIPressReleases",
+    "url": "https://theprint.in/ani-press-releases/kredily-3-0-launches-kai-agentic-ai-for-payroll-and-hr-and-expands-into-ai-powered-managed-payroll-services/3015618/",
+    "snippet": "Kredily 3.0 Launches KAI, Agentic AI for Payroll and HR, and Expands into AI-Powered Managed Payroll Services \u2013 ThePrint \u2013 ANIPressReleases\n\n# Kredily 3.0 Launches KAI, Agentic AI for Payroll and HR, and Expands into AI-Powered Managed Payroll Services\n\n ANI PR\n\n15 August, 2026 10:30 am IST\n\nBuilt on a decade of Indian payroll expertise and experience serving 25,000+ businesses and 1 million+ empl"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-16",
+    "topic": "ai_small_business",
+    "title": "Photoroom AI photo editor (2026) review | TechRadar",
+    "url": "https://www.techradar.com/pro/software-services/photoroom-ai-photo-editor-review",
+    "snippet": "Photoroom AI photo editor (2026) review | TechRadar\n\n# Photoroom AI photo editor review: A one-click wonder for making product shots unmissable on your ecommerce store\n\n## Digitally spruce up your products with a bunch of impressive AI tools \n\n Reviews \n\n By Steve Paris \n\n Published 16 August 2026 \n\nRecommended\n\n (Image credit: \u00a9 Future) \n\n### TechRadar Verdict \n\nPhotoroom mostly does what it says"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-16",
+    "topic": "ai_labs",
+    "title": "Strategic Product Proposal \u2014 Make ChatGPT Work the World\u2019s Best AI Production Platform - ChatGPT / Feature requests - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/strategic-product-proposal-make-chatgpt-work-the-world-s-best-ai-production-platform/1390535",
+    "snippet": "Strategic Product Proposal \u2014 Make ChatGPT Work the World\u2019s Best AI Production Platform - ChatGPT / Feature requests - OpenAI Developer Community\n...\n# Strategic Product Proposal \u2014 Make ChatGPT Work the World\u2019s Best AI Production Platform \n\n Aug 15 \n\n Aug 15 \n\n 7h ago \n\n## post by hank3149 7 hours ago \n\n hank3149 \n\n 7h \n\nHello OpenAI Product, Research, ChatGPT Work, Safety, Legal, and Policy Teams,"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-16",
+    "topic": "ai_labs",
+    "title": "Codex in ChatGPT desktop app for Linux is now in preview \ud83d\udc27 - Codex - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/codex-in-chatgpt-desktop-app-for-linux-is-now-in-preview/1390027/42",
+    "snippet": "Codex in ChatGPT desktop app for Linux is now in preview \ud83d\udc27 - Codex - OpenAI Developer Community\n\n 4 \n\n 3 \n\n 2 \n\n Aug 11 \n\n Aug 14 \n\n 9h ago \n\n## post by douglarek 4 days ago \n\n## post by NY152 4 days ago \n\n## post by douglarek 4 days ago \n\n## post by yzs 3 days ago \n\n## post by yzs 3 days ago \n\n##\n...\n## post\n...\n## post\n...\n## post by\n...\n## post by\n...\nvier 3\n...\nago \n\n## post by mistertonykark\n"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-16",
+    "topic": "ai_labs",
+    "title": "Model output annotations passed back to Responses API have unexpected parser behavior - API / Bugs - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/model-output-annotations-passed-back-to-responses-api-have-unexpected-parser-behavior/1390647",
+    "snippet": "Model output annotations passed back to Responses API have unexpected parser behavior - API / Bugs - OpenAI Developer Community\n\n# Model output annotations passed back to Responses API have unexpected parser behavior \n\n Aug 15 \n\n Aug 15 \n\n 2h ago \n\n## post by ekassos 2 hours ago \n\n \n\n ekassos \n\n 2h \n\nIn the Responses API, a file citation \u201cpoisons\u201d all other annotations, and the API expects all ite"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-16",
+    "topic": "ai_labs",
+    "title": "New image editing workflow Appreciation to Chatgpt Team - ChatGPT - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/new-image-editing-workflow-appreciation-to-chatgpt-team/1390600",
+    "snippet": "New image editing workflow Appreciation to Chatgpt Team - ChatGPT - OpenAI Developer Community\n...\n# New image editing workflow Appreciation to Chatgpt Team \n\n Aug 15 \n\n Aug 15 \n\n 9h ago \n\n## post by foxworldne2024 9 hours ago \n\n \n\n foxworldne2024 \n\n 9h \n\nThis is not a complaint \u2014 it\u2019s a compliment for the ChatGPT image team.\n...\nI absolutely love the new image-editing workflow. Being able to crea"
   }
 ]
