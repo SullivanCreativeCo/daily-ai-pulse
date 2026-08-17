@@ -17100,5 +17100,207 @@
     "title": "New image editing workflow Appreciation to Chatgpt Team - ChatGPT - OpenAI Developer Community",
     "url": "https://community.openai.com/t/new-image-editing-workflow-appreciation-to-chatgpt-team/1390600",
     "snippet": "New image editing workflow Appreciation to Chatgpt Team - ChatGPT - OpenAI Developer Community\n...\n# New image editing workflow Appreciation to Chatgpt Team \n\n Aug 15 \n\n Aug 15 \n\n 9h ago \n\n## post by foxworldne2024 9 hours ago \n\n \n\n foxworldne2024 \n\n 9h \n\nThis is not a complaint \u2014 it\u2019s a compliment for the ChatGPT image team.\n...\nI absolutely love the new image-editing workflow. Being able to crea"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-08-17",
+    "headline": "Wix built a full staff out of AI agents and pointed it straight at small business.",
+    "url": "archive/2026-08-17.html",
+    "posts": {
+      "linkedin": [
+        "Wix just shipped seven AI employees for small businesses.\n\nNot a chatbot. A whole staff. One orchestrator agent runs the show. A second agent checks the first one's work before the owner ever sees it.\n\nThat checking layer is the part nobody talks about when they pitch \"AI agents for your business.\" Everyone shows the automation. Nobody shows what catches the automation's mistakes.\n\nWix built that in on day one. For free-tier retail shops and consultants who never had staff to check anything in the first place.\n\nIf you sell AI ops to small business, this isn't a threat post. It's a floor. The generic version just got built for free by a platform with hundreds of millions of businesses on it.\n\nWhat's left for you is the specific stuff. Their workflow, their tone, their edge cases, the client who needs someone to actually pick up the phone when it breaks.\n\nWould someone pay for that on top of the free version? I think someone would.",
+        "Alibaba shipped a model that runs on a MacBook and still beats Meta's competing local model on the benchmarks they compared head to head.\n\nThat sentence would've sounded made up eighteen months ago.\n\n\"Runs locally\" used to mean \"the cheap, worse option.\" Now it means \"runs locally, and it's not obviously worse.\" Qwen3.8-27B does coding and long-horizon agent tasks at a level that used to require a model ten times its size.\n\nHere's why that actually matters if you build anything: the math on what a custom AI project should cost just changed. You don't need a cloud API bill scaling with every user for a lot of use cases anymore. You need a laptop.\n\nI'm not saying rip out your API calls tomorrow. I'm saying the next client who asks \"why does this need to be so expensive\" deserves an honest answer, and the honest answer changed this month.\n\nMarried to one architecture is a great way to quote yourself out of a deal.",
+        "Google put an expiration date on their own price cut.\n\nGemini 3.7 Flash launched cheap. $0.75 per million input tokens. That rate doubles on January 1, 2027, and they printed the date in the announcement instead of quietly raising it later like everyone else does.\n\nI actually respect that. Most price changes in this industry happen the week you're not paying attention.\n\nBut here's the part that should change how you write contracts. If you quoted a client based on today's API pricing, and that pricing has a printed sunset date, you now have proof it's going to move. Put a clause in. \"Pricing reflects vendor rates as of [date], subject to change if the underlying model provider adjusts theirs.\"\n\nNobody wants to be the one eating a rate hike on a fixed-price contract six months from now because the receipt was sitting right there and nobody read it.\n\nWhat's in your contracts right now that assumes today's prices hold?"
+      ],
+      "threads": [
+        "Wix just gave small businesses a whole staff of AI agents. One runs the show, another one checks its work before the owner sees it.\n\nThat's the part that got me. Everybody demos the automation. Nobody demos the thing that catches the automation when it's wrong.\n\nIf you're selling \"AI for your business\" and it's just the automation part, you're selling half a product now. The checking layer is the actual product.",
+        "DeepSeek dropped an agent harness where literally everything is a plugin. The model, the tools, the sandbox, the loop, all swappable.\n\nMost agent frameworks hand you their opinions about how an agent should think and you build around them. This one just says configure the whole thing yourself.\n\nKinda changes what \"picking a framework\" even means. You're not choosing a philosophy anymore. You're choosing parts.",
+        "Fireflies used to just record your meetings. Now it drafts your follow-up emails using what got said on the call.\n\nThat's the actual unlock. Not another inbox tool. The assistant already knows the context, so the email writes itself instead of you re-explaining the whole conversation to yourself in a blank compose window.\n\nWould someone pay for that? I think someone would pay for that."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-08-17",
+    "source": "The Koerner Office",
+    "title": "The Best First Business for People Who Hate Selling [NO ADS \u2022 FULL EPISODE]",
+    "url": "https://www.youtube.com/watch?v=MwpjOocXpko",
+    "video_id": "MwpjOocXpko"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-17",
+    "topic": "model_releases",
+    "title": "Alibaba Unveils Qwen3.8-27B and Releases Weights of Qwen3.8 Flagship Model - Alibaba Cloud Community",
+    "url": "https://www.alibabacloud.com/blog/alibaba-unveils-qwen3-8-27b-and-releases-weights-of-qwen3-8-flagship-model_603463",
+    "snippet": "# Alibaba Unveils Qwen3.8-27B and Releases Weights of Qwen3.8 Flagship Model - Alibaba Cloud Community\n...\nAlibaba Unveils Qwen3.8-27B and Releases Weights of Qwen3.8 Flagship Model - Alibaba Cloud Community\n...\n# Alibaba Unveils Qwen3.8-27B and Releases Weights of Qwen3.8 Flagship Model\n...\nAlibaba has unveiled Qwen3.8-27B, the latest open-weight addition to its Qwen3.8 series.\n...\n- Within just "
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-17",
+    "topic": "model_releases",
+    "title": "Z.ai launches GLM-5.3 with claimed 50% gain on coding benchmark \u00b7 TechNode",
+    "url": "https://technode.com/2026/08/17/z-ai-launches-glm-5-3-with-claimed-50-gain-on-coding-benchmark/",
+    "snippet": "Z.ai launches GLM-5.3 with claimed 50% gain on coding benchmark \u00b7 TechNode\n\nZ.ai, the international brand of Chinese AI company Zhipu, has launched GLM-5.3, an update focused on coding, long-horizon tasks and cybersecurity. The model uses the same base model as GLM-5.2, with the company attributing the latest gains to post-training.\n\nZ.ai said GLM-5.3 scored 50% higher than GLM-5.2 on its internal"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-17",
+    "topic": "model_releases",
+    "title": "Meta Launches Open-Source Muse Glimmer AI Model",
+    "url": "https://beijingtimes.com/business/technology/2026/08/16/meta-open-source-muse-glimmer-zuckerberg-ai/",
+    "snippet": "Meta Launches Open-Source Muse Glimmer AI Model\n\nSearch\n\nSearch\n\n26.9 C\n\nBeijing\n\nMonday, August 17, 2026\n\nApple Heads for Strongest June-Quarter Sales Growth in Five Years\n\n### Apple Heads for Strongest June-Quarter Sales Growth in Five Years\n\nApple Heads for Strongest June-Quarter Sales Growth in Five Years\n\nApple is on track for its strongest June-quarter sales growth in five years, driven by r"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-17",
+    "topic": "model_releases",
+    "title": "Alibaba releases open-source AI model that can run on MacBook",
+    "url": "https://www.digitaltoday.co.kr/en/view/93683/alibaba-releases-open-source-qwen3-8-27b-local-multimodal-ai-model",
+    "snippet": "Alibaba releases open-source AI model that can run on MacBook\n\n[Photo: Shutterstock]\n\nAlibaba has released its open-source multimodal AI model Qwen3.8-27B, optimised for local deployment.\n\nAccording to India\u2019s Officechai on Friday, Alibaba also published the Qwen3.8-27B weights under an Apache 2.0 licence and is moving to compete with single-GPU local models released by rivals such as Meta and Goo"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-17",
+    "topic": "model_releases",
+    "title": "Google Launches Gemini 3.7 Flash but Its Low Price Has an Expiry Date - Memeburn",
+    "url": "https://memeburn.com/gemini-3-7-flash-review-pricing-benchmarks-2026/",
+    "snippet": "Google Launches Gemini 3.7 Flash but Its Low Price Has an Expiry Date - Memeburn\n\n# Google Launches Gemini 3.7 Flash but Its Low Price Has an Expiry Date\n\nGemini 3.7 Flash gives you a 65.3% DeepSWE score and introductory pricing of $0.75 per million input tokens. The discount ends on December 31, while mixed benchmark results and limited Gemini Spark availability make Google's headline more condit"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-17",
+    "topic": "product_releases",
+    "title": "Fireflies.ai launches Email Assistant for Gmail and Outlook: Features and more",
+    "url": "https://www.moneycontrol.com/technology/fireflies-ai-launches-email-assistant-for-gmail-and-outlook-features-and-more-article-14007236.html",
+    "snippet": "Fireflies.ai launches Email Assistant for Gmail and Outlook: Features and more\n...\n# Fireflies.ai launches Email Assistant for Gmail and Outlook: Features and more\n...\nFireflies.ai launches Email Assistant for Gmail and Outlook, bringing AI-powered email management, Daily Briefs and AskFred to help users organise inboxes and improve productivity.\n...\nAugust 17, 2026 / 10:32 IST\n...\nFireflies.ai ha"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-17",
+    "topic": "product_releases",
+    "title": "DeepSeek AI Releases DeepSeek Harness in Developer Preview: An MIT-Licensed Agent Harness Where Everything is a Plugin",
+    "url": "https://www.marktechpost.com/2026/08/17/deepseek-ai-releases-deepseek-harness-in-developer-preview/",
+    "snippet": "DeepSeek AI Releases DeepSeek Harness in Developer Preview: An MIT-Licensed Agent Harness Where Everything is a Plugin - MarkTechPost\n\nSearch\n\nPremium Content\n\nRead our exclusive articles\n\nFacebook\n\nInstagram\n\nX\n\nSearch\n\nHome Editors Pick Agentic AI DeepSeek AI Releases DeepSeek Harness in Developer Preview: An MIT-Licensed Agent Harness...\n\nDeepSeek released DeepSeek Harness v0.1 in developer pre"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-17",
+    "topic": "product_releases",
+    "title": "Vialto launches AI immigration tool for global mobility",
+    "url": "https://itbrief.news/story/vialto-launches-ai-immigration-tool-for-global-mobility",
+    "snippet": "Vialto launches AI immigration tool for global mobility\n...\n# Vialto launches AI immigration tool for global mobility \n\n Sun, 16th Aug 2026 (Today) \n\n JOSEPH GABRIEL LAGONSIN News Editor \n\nVialto has launched VialtoExplore, an AI-enabled immigration assessment tool for HR and corporate global mobility teams managing international hiring and employee transfers.\n...\nThe tool gives employers early an"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-17",
+    "topic": "product_releases",
+    "title": "Rimini Street launches Rimini Govern for AI \u2013 Upgrade Magazine",
+    "url": "http://www.upgrademag.com/web/2026/08/17/rimini-street-launches-rimini-govern-for-ai/",
+    "snippet": "Rimini Street launches Rimini Govern for AI \u2013 Upgrade Magazine\n...\nRimini Street, Inc. announced the immediate availability of Rimini Govern for AI, the newest offering in the company\u2019s Rimini Govern portfolio of Governance, Risk and Compliance (GRC) solutions.\n...\nThe new managed service is delivered 24/7/365 through Rimini Street\u2019s Global Command Centers by expert AI engineers to help organizati"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-17",
+    "topic": "product_releases",
+    "title": "Microsoft Merges Its Copilot Apps as It Builds an AI Super App",
+    "url": "https://startupfortune.com/microsoft-merges-its-copilot-apps-as-it-builds-an-ai-super-app/",
+    "snippet": "Microsoft Merges Its Copilot Apps as It Builds an AI Super App - Startup Fortune\n\n# Microsoft Merges Its Copilot Apps as It Builds an AI Super App\n\nMicrosoft began merging its consumer and business Copilot apps into one assistant on August 13, cutting features like Podcasts and Group Chat while pushing toward a full Copilot \"Super App.\" The move comes as Copilot's share of the paid AI subscriber m"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-17",
+    "topic": "ai_agents",
+    "title": "DeepSeek V4 Pro official version, Harness go live on China\u2019s National Supercomputing Internet \u2013 HCNTimes.com",
+    "url": "https://hcntimes.com/deepseek-v4-pro-official-version-harness-go-live-on-chinas-national-supercomputing-internet/",
+    "snippet": "DeepSeek V4 Pro official version, Harness go live on China\u2019s National Supercomputing Internet\n...\nPro official version\n...\nNational Supercomputing Internet\n...\nChina\u2019s National Supercomputing Internet announced that it had made the official version of DeepSeek V4 Pro (DeepSeek-V4-Pro-0813) and the DeepSeek Harness agent framework available on its platform, a move that a Chinese expert said could l"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-17",
+    "topic": "ai_agents",
+    "title": "L&T Technology Services Launches AgenticIQTM, an End-to-End Agentic AI Platform for Engineering, Manufacturing and Customer Experience - Press Release",
+    "url": "https://www.ltts.com/press-release/AgenticIQ",
+    "snippet": "# L&T Technology Services Launches AgenticIQTM, an End-to-End Agentic AI Platform for Engineering, Manufacturing and Customer Experience - Press Release\n...\nL&T Technology Services Launches AgenticIQTM, an End-to-End Agentic AI Platform for Engineering, Manufacturing and Customer Experience - Press Release\n...\n# L&T Technology Services Launches AgenticIQ\u2122, an End-to-End Agentic AI Platform for Eng"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-17",
+    "topic": "ai_agents",
+    "title": "Wix Symphony: AI Agents for Small Business",
+    "url": "https://witho2.com/news/wix-symphony-gives-small-businesses-a-team-of-ai-agents",
+    "snippet": "Wix Symphony: AI Agents for Small Business\n...\nWix launched Symphony on August 11, 2026, a standalone multi-agent AI platform that learns a small business\u2019s values, practices, and goals, then automates its workflows and reports back in a daily stand-up briefing. Symphony runs separately from the Wix website builder and targets small and medium-sized businesses rather than enterprises.\n...\nA single"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-17",
+    "topic": "ai_agents",
+    "title": "AWS Open-Sources Dogwood, Extending Cedar to Govern Sequences of Agent Tool Calls - InfoQ",
+    "url": "https://www.infoq.com/news/2026/08/aws-dogwood-agent-policy/",
+    "snippet": "AWS Open-Sources Dogwood, Extending Cedar to Govern Sequences of Agent Tool Calls\n...\nAWS Open-Sources Dogwood, Extending Cedar to Govern Sequences of Agent Tool Calls\n...\nAWS recently open-sourced Dogwood, a policy language for agent tool calls. What makes it different from Cedar is that its rules can look backward at what the agent already did. It ships under Apache 2.0, and AgentCore Policy sup"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-17",
+    "topic": "ai_small_business",
+    "title": "15 best AI agent builder tools in 2026",
+    "url": "https://www.hostinger.com/tutorials/best-ai-agent-builders/",
+    "snippet": "15 best AI agent builders in 2026 Summer Sale: up to 80% off Claim deal\n\nBack\n\n### Find the right learning path for you\n\n- Free resources\n- Practical tutorials\n- Helpful tools\n\n# 15 best AI agent builder tools in 2026\n\nSummarize with:\n\nShare:\n\nCopy link\n\nCopied!\n\nShare on X Share on Facebook Share on LinkedIn\n\nAI agent builders help you create software agents that can reason through tasks, access "
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-17",
+    "topic": "ai_small_business",
+    "title": "I turned a one-person company into a kanban board: 1 human + 7 AI agents - DEV Community",
+    "url": "https://dev.to/w_bushg_ee2cdfa6c771a866/i-turned-a-one-person-company-into-a-kanban-board-1-human-7-ai-agents-16bd",
+    "snippet": "# I turned a one-person company into a kanban board: 1 human + 7 AI agents\n...\nA one-person company with seven employees \u2014 and every single one of them is an AI agent. No group chat, no meetings, no office politics. Just a kanban board, seven independent profiles, and one human who only makes the \"people / money / legal\" calls.\n...\nMeet [Gavin's Lab](https://www.hermes.cc.cd/)\u2014 a company that's li"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-17",
+    "topic": "ai_small_business",
+    "title": "Reviewing The Best LLM Development Companies to Hire in 2026 | The AI Journal",
+    "url": "https://aijourn.com/reviewing-the-best-llm-development-companies-to-hire-in-2026/",
+    "snippet": "Artificial intelligence has grown fast in the last few years. In 2026, simply using a basic chat API is no longer enough for smart businesses. Many companies now need custom solutions that are built for their specific industry data. Choosing the right partner from the massive sea of LLM development companies is a difficult step.\n...\nA lot of huge agencies will charge you a fortune for simple tasks"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-17",
+    "topic": "ai_small_business",
+    "title": "Ahrefs's Letaido claims a 40-hour audit now takes 60 minutes",
+    "url": "https://ppc.land/ahrefss-letaido-claims-a-40-hour-audit-now-takes-60-minutes/",
+    "snippet": "Ahrefs's Letaido claims a 40-hour audit now takes 60 minutes\n\nAhrefs' Letaido turns a 40-hour audit into 60 minutes, one AI workspace built on 170 trillion pages\n\nAhrefs announced Letaido on August 12, 2026, an agent-powered marketing workspace that lets teams execute multi-step tasks, automate recurring workflows, and monitor websites and competitors from a single shared environment, rather than "
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-17",
+    "topic": "ai_labs",
+    "title": "New policy ideas for the Intelligence Age",
+    "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+    "snippet": "# New policy ideas for the Intelligence Age\n\nPublished: 2026-08-17T03:15:00+00:00\nSource: openai.com (openai.com)\nLanguage: en\n\n## Story\n\nOpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age."
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-17",
+    "topic": "ai_labs",
+    "title": "Google Gemini and Pixel football club partnerships",
+    "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
+    "snippet": "- - [Google DeepMind](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/)\n- [Google Research](https://blog.google/innovation-and-ai/models-and-research/google-research/)\n- [Google Labs](https://blog.google/innovation-and-ai/models-and-research/google-labs/)\n...\n- [Gemini models](https://blog.google/innovation-and-ai/models-and-research/gemini-models/)\n...\n- [Google DeepMind"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-17",
+    "topic": "ai_labs",
+    "title": "Introducing Electric Saul: A free AI tool helping households go electric and cut bills",
+    "url": "https://blog.google/intl/en-au/introducing-electric-saul-a-free-ai-tool-helping-households-go-electric-and-cut-bills/",
+    "snippet": "- [Latest stories](https://blog.google/intl/en-au/)\n- [Product updates](https://blog.google/intl/en-au/products/)\n- [Company news](https://blog.google/intl/en-au/company-news/)\n- [Feed](https://blog.google/intl/en-au/feed/)\n...\n- [Latest stories](https://blog.google/intl/en-au/)\n- [Product updates](https://blog.google/intl/en-au/products/)\n- [Company news](https://blog.google/intl/en-au/company-ne"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-17",
+    "topic": "ai_labs",
+    "title": "OpenAI removed the daily text chat limit 5.6, but i end up route to 5.5 mini. Anyone encounter this? - ChatGPT / Bugs - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/openai-removed-the-daily-text-chat-limit-5-6-but-i-end-up-route-to-5-5-mini-anyone-encounter-this/1390656",
+    "snippet": "OpenAI removed the daily text chat limit 5.6, but i end up route to 5.5 mini. Anyone encounter this? - ChatGPT / Bugs - OpenAI Developer Community\n\n# OpenAI removed the daily text chat limit 5.6, but i end up route to 5.5 mini. Anyone encounter this? \n\n## post by shaunqz950710 9 hours ago \n\n \n\n shaunqz950710 \n\n 9h \n\nAnyone dealing with this problem?\n\nMy account had no issues even after hit limit u"
   }
 ]
