@@ -17302,5 +17302,175 @@
     "title": "OpenAI removed the daily text chat limit 5.6, but i end up route to 5.5 mini. Anyone encounter this? - ChatGPT / Bugs - OpenAI Developer Community",
     "url": "https://community.openai.com/t/openai-removed-the-daily-text-chat-limit-5-6-but-i-end-up-route-to-5-5-mini-anyone-encounter-this/1390656",
     "snippet": "OpenAI removed the daily text chat limit 5.6, but i end up route to 5.5 mini. Anyone encounter this? - ChatGPT / Bugs - OpenAI Developer Community\n\n# OpenAI removed the daily text chat limit 5.6, but i end up route to 5.5 mini. Anyone encounter this? \n\n## post by shaunqz950710 9 hours ago \n\n \n\n shaunqz950710 \n\n 9h \n\nAnyone dealing with this problem?\n\nMy account had no issues even after hit limit u"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-08-18",
+    "headline": "GitHub went down for almost seven hours today. Pull requests, sign-on, Copilot, all of it.",
+    "url": "archive/2026-08-18.html",
+    "posts": {
+      "linkedin": [
+        "A 24 year old spent $20 to start his business.\n\nNow he makes $15,000 a month. Profit.\n\nNo sales background. Never coded. Self-described introvert who's never worked a room in his life.\n\nHis whole client list started as 100 people already in his phone. Friends, old coworkers, people from church. He offered free calls. No pitch attached. Just \"let me see if I can help you.\"\n\nThat's the part people skip when they talk about AI opportunity. They think it's about the tool. It's not. It's about being willing to have 100 boring conversations before you charge anyone a dollar.\n\nYour ideas aren't bad ideas. They're just not finished ideas. His wasn't either, until conversation forty or fifty turned into a client.\n\nWhat would your list of 100 look like if you wrote it down today?",
+        "GitHub went down for almost seven hours today.\n\nPull requests failing. Sign-on broken. Copilot dark. The kind of outage where half of tech just sits there refreshing a status page.\n\nRight in the middle of it, Cursor rolled out its own code hosting platform. A GitHub competitor, launching while GitHub was on fire.\n\nA guy at Cursor tweeted the line of the day: \"We were going to ship this earlier, but GitHub was down.\"\n\nNobody plans an outage. But it says something that one company going down for seven hours can knock out sign-on, code review, and CI for half the industry at once.\n\nWe've spent years consolidating everything onto a handful of platforms because it's convenient. Convenient until the one thing goes down and takes everything with it.\n\nWhat's the one tool in your stack that, if it disappeared tomorrow, would actually stop your business?",
+        "Most people are using AI agents like a search bar with extra steps.\n\nThat's not what makes them useful.\n\nA guy on the Startup Ideas Podcast broke down setting up Claude Code the same way you'd onboard a new hire. Give it a workspace. Give it memory, the actual context on what you're building and who it's for. A brief before it touches anything. A real ticket, not a vague \"make this better.\" Eyes, so it can open the app and click through like a real user would. A review step. A schedule for recurring work. Permissions, so it knows what it can decide alone and what needs you.\n\nSeven things. Same seven things a new hire needs on day one.\n\nOnce that's in place, the tool stops feeling like a chat window and starts feeling like someone actually working for you at 2am.\n\nWhat would change if the AI running in the background of your business had a real job description instead of a prompt box?"
+      ],
+      "threads": [
+        "Somebody just told me the easiest way to land your first AI client doesn't involve content or cold outreach at all.\n\nHost a free meetup. Once a month. Call it AI for Business. Invite local owners who aren't technical and are tired of feeling behind.\n\nHis first one pulled 30 people in Charlotte. Half were exactly who he wanted to work with. He got more referrals than direct leads, because people trust the guy in the room more than the guy in their DMs.\n\nNobody's claimed that seat in most towns yet.",
+        "Your website has visitors you can't see.\n\nChatGPT, Claude, Perplexity, they're all reading small business sites right now, and your analytics has no idea, because those crawlers don't run JavaScript. The visit happens. You never see it.\n\nA tool called Kymo just launched specifically to catch that. Which AI is reading you, which pages, whether any of it sends a human back.\n\nFeels like the first sign that SEO and AI visibility are about to become two very different jobs.",
+        "A woman running a bath and body business out of Brooklyn didn't want AI anywhere near her creative work.\n\nThen she set up a separate Claude project for every department she didn't have people for. Marketing. Sales. Finance. Product.\n\nShe said it felt less like outsourcing and more like finally having a partner for the parts she never learned in school.\n\nThat's the actual use case nobody's selling loud enough. Not replacing the founder. Covering the departments that never existed in the first place."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-08-18",
+    "source": "The Koerner Office",
+    "title": "This Might Be the Best 1-Person Business Right Now",
+    "url": "https://www.youtube.com/watch?v=EEBlDTEYFao",
+    "video_id": "EEBlDTEYFao"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-08-18",
+    "source": "Startup Ideas Podcast",
+    "title": "Claude Code New Features, Explained",
+    "url": "https://www.youtube.com/watch?v=SkY-tR9kf-k",
+    "video_id": "SkY-tR9kf-k"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-08-18",
+    "source": "Corey Ganim",
+    "title": "How to Sign Your First AI Client (Zero Content or Cold Outreach)",
+    "url": "https://www.youtube.com/watch?v=zcwNMv6FS38",
+    "video_id": "zcwNMv6FS38"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-08-18",
+    "source": "The Entrepreneur's Studio",
+    "title": "Why Great Employees Really Leave | Dick Finnegan",
+    "url": "https://www.youtube.com/watch?v=Wyfg9X-Y0ZM",
+    "video_id": "Wyfg9X-Y0ZM"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-18",
+    "topic": "product_releases",
+    "title": "As enterprises confront AI agent sprawl, xpander wants them to own their own control and context layer | VentureBeat",
+    "url": "https://venturebeat.com/orchestration/as-enterprises-confront-ai-agent-sprawl-xpander-wants-them-to-own-their-own-control-and-context-layer",
+    "snippet": "xpander.ai, a startup founded by three former AWS principal engineers, is the latest company trying to own that layer.\n...\nThe company is making its enterprise AI agent platform generally available today, positioning it as a vendor-neutral control plane for building, running and governing agents across different models, agent frameworks and infrastructure environments."
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-18",
+    "topic": "product_releases",
+    "title": "Cursor launches Origin code hosting platform as GitHub outage exposes opening in AI coding race | VentureBeat",
+    "url": "https://venturebeat.com/infrastructure/cursor-launches-origin-code-hosting-platform-as-github-outage-exposes-opening-in-ai-coding-race",
+    "snippet": "Cursor launches Origin code hosting platform as GitHub outage exposes opening in AI coding race | VentureBeat\n...\nCursor began rolling out Origin, its own code hosting platform, to paid users on Monday morning. Roughly three and a half hours later, GitHub's status page lit up with what became a six-hour-and-forty-two-minute global degradation \u2014 error rates near 20% across pull requests, issues and"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-18",
+    "topic": "product_releases",
+    "title": "SuperApp launches a shared space with AI models for teams to collaborate on work - SiliconANGLE",
+    "url": "https://siliconangle.com/2026/08/17/superapp-launches-shared-space-ai-models-teams-collaborate-work/",
+    "snippet": "SuperApp launches a shared space with AI models for teams to collaborate on work - SiliconANGLE Skip to content\n...\n### SuperApp launches a shared space with AI models for teams to collaborate on work\n...\nSuperApp Inc., formerly Instabase Inc., today announced the launch of its flagship product of the same name and its transition from Instabase to the new name.\n...\nThe new platform provides teams "
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-18",
+    "topic": "product_releases",
+    "title": "Alibaba launches HappyShrimp 1.0 AI music model \u00b7 TechNode",
+    "url": "https://technode.com/2026/08/18/alibaba-launches-happyshrimp-1-0-ai-music-model/",
+    "snippet": "Alibaba launches HappyShrimp 1.0 AI music model \u00b7 TechNode\n...\nAlibaba has officially launched HappyShrimp 1.0, an AI music model that can turn emotions, stories or memories into complete music tracks through natural-language prompts.\n...\nThe launch moves HappyShrimp from an earlier reported project into a publicly available product. Alibaba has not disclosed detailed information about the model\u2019s"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-18",
+    "topic": "product_releases",
+    "title": "Introducing Dropstone SDK 1.0: One Memory Across CLI, Chat, and Your Pipelines",
+    "url": "https://www.dropstone.io/blog/dropstone-sdk-1-0",
+    "snippet": "Introducing Dropstone SDK 1.0: One Memory Across CLI, Chat, and Your Pipelines\n...\nToday we are releasing Dropstone SDK 1.0, the first stable version of the TypeScript SDK for the Dropstone agent runtime.\n...\nThe SDK gives you programmatic access to the same agent that runs in the Dropstone CLI and chat, and it carries the part we think matters most: one persistent memory per account, shared acros"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-18",
+    "topic": "ai_agents",
+    "title": "Resolve Unveils the Next Generation of AgentLab, Accelerating the Enterprise Shift to Autonomous Operations",
+    "url": "https://www.prweb.com/releases/resolve-unveils-the-next-generation-of-agentlab-accelerating-the-enterprise-shift-to-autonomous-operations-302852643.html",
+    "snippet": "Resolve Unveils the Next Generation of AgentLab, Accelerating the Enterprise Shift to Autonomous Operations Accessibility Statement Skip Navigation\n...\nNew capabilities make it easier to design, test, and deploy enterprise AI agents using natural language, reusable skills, and Resolve's orchestration engine.\n...\nNEW YORK, Aug. 17, 2026 /PRNewswire-PRWeb/ -- Resolve, the leader in agentic automatio"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-18",
+    "topic": "ai_agents",
+    "title": "SpaceXAI Launches Grok Bot for Autonomous AI Agents",
+    "url": "https://www.infoq.com/news/2026/08/grok-bot-agent/",
+    "snippet": "SpaceXAI Launches Grok Bot for Autonomous AI Agents - InfoQ\n\n## InfoQ Software Architects' Newsletter\n\nA monthly overview of things you need to know as an architect or aspiring architect.\n\nClose\n\nInfoQ Homepage News SpaceXAI Launches Grok Bot for Autonomous AI Agents\n\nAI, ML & Data Engineering\n\n# SpaceXAI Launches Grok Bot for Autonomous AI Agents\n\n#### Follow us on\n\nListen to this article - 0:00\n"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-18",
+    "topic": "ai_small_business",
+    "title": "Thryv Rolls Out AI Growth Platform Built For Solo Service Firms - Self Employed",
+    "url": "https://www.selfemployed.com/news/thryv-ai-native-growth-platform-small-business-2026/",
+    "snippet": "Thryv Rolls Out AI Growth Platform Built For Solo Service Firms - Self Employed\n\n# Thryv Rolls Out AI Growth Platform Built For Solo Service Firms\n\n Last updated: August 17, 2026 \n\n Mark Paulson \n\nThryv has launched an AI-native growth platform aimed at local service businesses, bundling marketing, customer records, and payments into one system, according to the company\u2019s product announcement. The"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-18",
+    "topic": "ai_small_business",
+    "title": "Small Business Partner (SBP) Launches Front Desk, an AI Employee That Answers the Phone for Small Businesses",
+    "url": "https://www.einpresswire.com/article/934898197/small-business-partner-sbp-launches-front-desk-an-ai-employee-that-answers-the-phone-for-small-businesses",
+    "snippet": "Small Business Partner (SBP) Launches Front Desk, an AI Employee That Answers the Phone for Small Businesses\n\nWorld Media Directory\u00b7 RSS\u00b7 Email Newsletters\n\nThere were 1,802 press releases posted in the last 24 hours and 484,164 in the last 365 days.\n\n# Small Business Partner (SBP) Launches Front Desk, an AI Employee That Answers the Phone for Small Businesses\n\nNews Provided By\n\nAugust 17, 2026, 2"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-18",
+    "topic": "ai_small_business",
+    "title": "Shopify\u2019s New Flow 3.0 Automation Engine Is Reshaping Merchant Operations \u2013 Ecommerce Times",
+    "url": "https://ecommerce-times.com/shopifys-new-flow-3-0-automation-engine-is-reshaping-merchant-operations-3/",
+    "snippet": "Shopify\u2019s New Flow 3.0 Automation Engine Is Reshaping Merchant Operations \u2013 Ecommerce Times\n\nTuesday, August 18, 2026\n\nBreaking\n\nShipMonk\u2019s Rumored Rate-Hike Revolt Is Fracturing Its Merchant Base Yotpo\u2019s Rumored Meta Ads Divorce Is Rattling DTC Retention Marketers BigCommerce\u2019s Rumored Executive Exodus Is Rattling the Mid-Market Platform World Helium 10\u2019s Rumored Amazon Data Deal Is Rattling Riva"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-18",
+    "topic": "ai_small_business",
+    "title": "Kymo launches cookieless analytics that shows small websites",
+    "url": "https://www.openpr.com/news/4604995/kymo-launches-cookieless-analytics-that-shows-small-websites",
+    "snippet": "Kymo launches cookieless analytics that shows small websites\n\nPress release\n\n# Kymo launches cookieless analytics that shows small websites which AI crawlers are reading them\n\n08-17-2026 09:01 AM CET | IT, New Media & Software\n\n## Press release from: Kymo\n\narchive und pressrelease of Kymo\n\nAI crawlers read small websites every day. Kymo shows which ones, which pages, and whether traffic comes back"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-18",
+    "topic": "ai_small_business",
+    "title": "I built an AI C-suite to help me run my small business. As a creative, I was hesitant to use AI, but it\u2019s helpful for certain things. \u2013 DNYUZ",
+    "url": "https://dnyuz.com/2026/08/17/i-built-an-ai-c-suite-to-help-me-run-my-small-business-as-a-creative-i-was-hesitant-to-use-ai-but-its-helpful-for-certain-things/",
+    "snippet": "I built an AI C-suite to help me run my small business. As a creative, I was hesitant to use AI, but it\u2019s helpful for certain things. \u2013 DNYUZ\n\n# I built an AI C-suite to help me run my small business. As a creative, I was hesitant to use AI, but it\u2019s helpful for certain things.\n\n August 17, 2026 in News \n\nSara Russell uses AI to help her run her marketing, sales, finance, and product development d"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-18",
+    "topic": "ai_labs",
+    "title": "Google and UK Government  launch AI contrail avoidance trial",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/blue-skies/",
+    "snippet": "Google and UK Government launch AI contrail avoidance trial\n...\n# Operation Blue Skies: Reducing aviation climate impact with AI\n...\nWe\u2019re partnering with the UK Government and aviation leaders to use AI to help airlines avoid contrails over the North Atlantic, reducing aviation\u2019s climate impact at airspace scale.\n...\nWhen you look up at a clear sky and see thin white lines trailing behind airplan"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-18",
+    "topic": "ai_labs",
+    "title": "New policy ideas for the Intelligence Age | OpenAI",
+    "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age/",
+    "snippet": "# New policy ideas for the Intelligence Age | OpenAI\n...\nNew policy ideas for the Intelligence Age | OpenAI\n...\n# New policy ideas for the Intelligence Age\n...\nFunding independent projects to promote economic opportunity and resilience as AI advances.\n...\nOpenAI is awarding grants to 14 projects led by independent organizations to promote economic opportunity and societal resilience as AI advances"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-18",
+    "topic": "ai_labs",
+    "title": "The Defender\u2019s Window",
+    "url": "https://openai.com/index/the-defenders-window/",
+    "snippet": "The \u2060(opens in a new window) was a watershed moment for cybersecurity because it gave a peek into how the capabilities of a typical threat actor will evolve in upcoming months. I\u2019ve spoken with many organizations over the past few weeks, and one theme is clear: they know they need to fundamentally uplevel their cybersecurity practices with unprecedented speed. In this post, I\u2019ll share what we\u2019re d"
   }
 ]
