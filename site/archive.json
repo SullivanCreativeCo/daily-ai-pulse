@@ -17472,5 +17472,239 @@
     "title": "The Defender\u2019s Window",
     "url": "https://openai.com/index/the-defenders-window/",
     "snippet": "The \u2060(opens in a new window) was a watershed moment for cybersecurity because it gave a peek into how the capabilities of a typical threat actor will evolve in upcoming months. I\u2019ve spoken with many organizations over the past few weeks, and one theme is clear: they know they need to fundamentally uplevel their cybersecurity practices with unprecedented speed. In this post, I\u2019ll share what we\u2019re d"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-08-19",
+    "headline": "Agents got a real job today, not just a chat window.",
+    "url": "archive/2026-08-19.html",
+    "posts": {
+      "linkedin": [
+        "You don't need to be the smartest AI person in the room. You need to be the first credible one who shows up.\n\nEvery local business owner right now knows they need AI. They don't know where to start. That's the whole opportunity, sitting right there.\n\nHeard a number this week that stuck. Somebody ran a test in January. 90 minutes of effort, some free AI assessments offered to local businesses. Seven qualified leads. One paying client inside a week.\n\nZero ad spend. Zero audience. Just showing up as the guy who knows slightly more than the person across the table.\n\nThe bar for \"AI expert in your town\" is lower than people think. Not because AI is easy. Because most people talking about AI online aren't talking to the plumber down the street.\n\nWould someone pay for a 20 minute look at their workflow? I think someone would pay for that.\n\nWhat's the smallest version of that you could offer this week?",
+        "Every agent story this week has the same second sentence.\n\nFirst sentence is always the capability. Look what it can do now.\n\nSecond sentence is always the leash. And it asks for approval before it acts.\n\nOpenAI's new workspace agents draft the email, then wait. Amazon's agents can pay for things on their own now, but only inside guardrails somebody set up first. Two separate companies built entire products this week whose only job is catching the moment an agent needs a human and routing it fast.\n\nNobody's really selling raw capability anymore. That part got solved.\n\nWhat's actually for sale right now is the pause button. The part that lets a business owner say yes before something happens instead of finding out after.\n\nThat's not a small feature. That's the whole reason anyone lets an agent near their business in the first place.\n\nThe next wave of AI tools won't win on power. They'll win on how easy the \"no\" is.",
+        "A company this week banned lazy AI writing. Not AI writing.\n\nClay's co-founder posted their internal policy and it spread everywhere. Not \"don't use AI.\" The rule was simpler. Stand behind every sentence you publish. Writing is thinking, so if you skip the process you walk away dumber about your own topic. And longer isn't better. If a doc came from a two line prompt, just share the two lines.\n\nThat last one got me. How many decks and posts and docs out there are just a prompt wearing a costume.\n\nI still write my own hooks. Not because AI can't draft one. Because the fifteen minutes I spend fighting a sentence is the fifteen minutes I actually understand what I'm trying to say.\n\nAI can write the copy. It can't do the thinking for you, even when it looks like it did.\n\nHave you actually read the last thing you posted, or just the prompt that made it?"
+      ],
+      "threads": [
+        "Somebody made about a thousand bucks from a 90 minute afternoon this year. No ads, no audience, no funnel. Just texted people already in their contacts offering a free 20 minute look at their workflow. Six out of ten replied. One turned into a client. The whole game right now isn't being the smartest AI person online. It's being the first credible one who shows up in person. That bar is way lower than you think.",
+        "Every AI agent announcement this week has the same shape. More autonomy, plus a big obvious pause button. OpenAI's new agents draft the email then wait for you. Amazon's agents can pay for stuff now, but only inside a leash someone set first. Feels like the industry finally figured out capability was never the hard part. Trust was. And trust doesn't scale the same way tokens do.",
+        "DeepSeek's new model jumped from 72 to 88 on the agent benchmark that matters most, in one release. Not a small bump, a different tier. They open sourced the framework behind it too and it hit 23,000 GitHub stars in a few hours. Every few months somebody resets what \"good enough\" means, and most people don't notice until the tool they're already using suddenly feels slow."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-08-19",
+    "source": "The Koerner Office",
+    "title": "The Most Overlooked Businesses Making People Rich [NO ADS \u2022 FULL EPISODE]",
+    "url": "https://www.youtube.com/watch?v=PXus8lX2pVY",
+    "video_id": "PXus8lX2pVY"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-08-19",
+    "source": "Corey Ganim",
+    "title": "Laziest way to sign AI clients FAST",
+    "url": "https://www.youtube.com/watch?v=ah-6Vjqld3Y",
+    "video_id": "ah-6Vjqld3Y"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-08-19",
+    "source": "AI Daily Brief",
+    "title": "The AI Engineering Skills Map for Knowledge Workers",
+    "url": "https://www.youtube.com/watch?v=f40AKMHebrY",
+    "video_id": "f40AKMHebrY"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-08-19",
+    "source": "AI Daily Brief",
+    "title": "How People Are Fixing AI's Problems",
+    "url": "https://www.youtube.com/watch?v=Zq8e3xX02u8",
+    "video_id": "Zq8e3xX02u8"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-08-19",
+    "source": "AI Daily Brief",
+    "title": "Dario Amodei Breaks His Social Media Silence",
+    "url": "https://www.youtube.com/watch?v=_q3yhihZKSg",
+    "video_id": "_q3yhihZKSg"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-19",
+    "topic": "model_releases",
+    "title": "Qwen3.8-27B runs frontier-class coding agents and reasoning locally, no cloud API required | VentureBeat",
+    "url": "https://venturebeat.com/technology/qwen3-8-27b-runs-frontier-class-coding-agents-and-reasoning-locally-no-cloud-api-required",
+    "snippet": "Qwen3.8-27B runs frontier-class coding agents and reasoning locally, no cloud API required | VentureBeat\n...\nThe biggest AI model release of the past few days, at least among the developers and AI power users on social media, wasn't a frontier cloud model from OpenAI, Anthropic or Google.\n...\nIt was a 27-billion-parameter model from Alibaba: Qwen3.8-27B landed on Hugging Face on Friday under an en"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-19",
+    "topic": "model_releases",
+    "title": "DeepSeek V4 Pro Launches With Major Agent Upgrades and Open-Source Harness - Memeburn",
+    "url": "https://memeburn.com/deepseek-v4-pro-launches-with-major-agent-upgrades-and-open-source-harness/",
+    "snippet": "DeepSeek V4 Pro Launches With Major Agent Upgrades and Open-Source Harness - Memeburn\n...\n# DeepSeek V4 Pro Launches With Major Agent Upgrades and Open-Source Harness\n...\nDeepSeek officially launched V4 Pro 0813, ending a preview period that began in April. The 1.6T-parameter model brings huge agent benchmark improvements, native OpenAI Responses API support, and a new open-source coding framework"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-19",
+    "topic": "model_releases",
+    "title": "Z.ai launches GLM-5.3 API for coding and defensive security",
+    "url": "https://runtimewire.com/article/zai-glm-53-api-coding-cybersecurity",
+    "snippet": "Z.ai launches GLM-5.3 API for coding and defensive security\n...\nHosted access lets Z.ai monetize and monitor a model it says can chain exploits while postponing the harder-to-control open-weight release.\n...\nZ.ai opened API access to GLM-5.3 on August 18th, putting its new coding and cybersecurity model behind a hosted interface while the lab holds back the model weights for additional security wo"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-19",
+    "topic": "model_releases",
+    "title": "Qwen3.8-2.4T-A95B: Alibaba's Largest Model Launches",
+    "url": "https://emergent.sh/news/qwen3-8-2-4t-a95b-officially-launched",
+    "snippet": "# Qwen3.8-2.4T-A95B: Alibaba's Largest Model Launches\n...\nQwen3.8-2.4T\n...\nA95B: Alibaba's\n...\n# Qwen3.8-2.4T-A95B: Alibaba's Largest Model Launches\n...\nAlibaba Cloud's Qwen Team has officially launched Qwen3.8-2.4T-A95B, a massive 2.4 trillion parameter large language model released on August 12, 2026. The model leverages mixture-of-experts (MoE) architecture with 95 billion active parameters, po"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-19",
+    "topic": "model_releases",
+    "title": "China\u2019s Z.ai Says GLM-5.3 Challenges US Models | eWeek",
+    "url": "https://www.eweek.com/news/zai-glm-5-3-coding-cybersecurity-benchmarks-china-apac/",
+    "snippet": "China\u2019s Z.ai Says GLM-5.3 Challenges US Models | eWeek"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-19",
+    "topic": "product_releases",
+    "title": "Amazon Bedrock AgentCore payments is now generally available: Enabling agents to transact safely and autonomously at scale | Artificial Intelligence",
+    "url": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-payments-is-now-generally-available-enabling-agents-to-transact-safely-and-autonomously-at-scale/",
+    "snippet": "Amazon Bedrock AgentCore payments is now generally available: Enabling agents to transact safely and autonomously at scale | Artificial Intelligence Skip to Main Content\n...\n# Amazon Bedrock AgentCore payments is now generally available: Enabling agents to transact safely and autonomously at scale\n...\nAgents have evolved from simple chat applications to autonomous, long-running systems that dynami"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-19",
+    "topic": "product_releases",
+    "title": "TrendLife Announces Kaleida: The World's First Safe AI Built for Every Member of the Family - Aug 18, 2026",
+    "url": "https://newsroom.trendmicro.com/2026-08-18-TrendLife-Announces-Kaleida-The-Worlds-First-Safe-AI-Built-for-Every-Member-of-the-Family",
+    "snippet": "TrendLife Announces Kaleida: The World's First Safe AI Built for Every Member of the Family - Aug 18, 2026\n...\nTrendLife Announces Kaleida: The World's First Safe AI Built for Every Member of the Family\n...\nDesigned to address the privacy, overreliance and safety concerns that are at the top of parents' worries about AI in the home\n...\nTOKYO, Aug. 18, 2026 / PRNewswire/ -- TrendLife\u2122, the consumer"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-19",
+    "topic": "product_releases",
+    "title": "OpenAI launches ChatGPT for Teens, with content restrictions and study help | AP News",
+    "url": "https://apnews.com/article/openai-chatgpt-teens-ai-safety-650cb35591de6546054d6c4e73b3290a",
+    "snippet": "OpenAI launches ChatGPT for Teens, with content restrictions and study help | AP News\n\n# OpenAI introduces ChatGPT for Teens, promising a more age-appropriate chatbot\n...\n## OpenAI introduces ChatGPT for Teens, promising a more age-appropriate chatbot\n...\nSAN FRANCISCO (AP) \u2014 OpenAI on Tuesday introduced a version of ChatGPT designed for teenagers \u2014 the first generation to grow up with artificial "
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-19",
+    "topic": "product_releases",
+    "title": "Claude can do more with Gmail and Google Drive, and access to Claude Cowork is expanding. | The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/981739/claude-gmail-google-drive-connector-cowork-mobile-web",
+    "snippet": "Claude can do more with Gmail and Google Drive, and access to Claude Cowork is expanding. | The Verge\n...\nClaude can do more with Gmail and Google Drive, and access to Claude Cowork is expanding.\n...\nA pair of announcements from Anthropic today include the word that access to Claude Cowork on mobile and web interfaces has rolled out to all paid accounts, so you can keep an eye on what it\u2019s doing f"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-19",
+    "topic": "product_releases",
+    "title": "TestMu AI Launches Agent Assurance to Verify AI Agents Before They Ship",
+    "url": "https://www.prnewswire.com/news-releases/testmu-ai-launches-agent-assurance-to-verify-ai-agents-before-they-ship-302854190.html",
+    "snippet": "TestMu AI Launches Agent Assurance to Verify AI Agents Before They Ship Accessibility Statement Skip Navigation\n...\nThe new product verifies both the AI agents that talk to customers and the agents that act on systems, generating test scenarios directly from code, grading every action against real evidence, and reporting an assurance gap for everything it could not verify\n...\nSAN FRANCISCO and NOI"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-19",
+    "topic": "ai_agents",
+    "title": "Whistic Launches Automation Orchestrator, Handing Vendor Assessments to a Coordinated Team of Four AI Agents",
+    "url": "https://www.prnewswire.com/news-releases/whistic-launches-automation-orchestrator-handing-vendor-assessments-to-a-coordinated-team-of-four-ai-agents-302853737.html",
+    "snippet": "Whistic Launches Automation Orchestrator, Handing Vendor Assessments to a Coordinated Team of Four AI Agents Accessibility Statement Skip Navigation\n...\nRoughly 90% of legacy TPRM effort goes to workflow administration. Full AutoAssess hands that work to the agents and keeps every risk decision human.\n...\nSAN DIEGO, Aug. 18, 2026 /PRNewswire/ -- Whistic, the Agentic Risk Operations Platform, today"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-19",
+    "topic": "ai_agents",
+    "title": "ForceEquals Launches Agent Momentum, So Companies Can Finally Scale AI Agents Without Losing Control of Them",
+    "url": "https://www.prnewswire.com/news-releases/forceequals-launches-agent-momentum-so-companies-can-finally-scale-ai-agents-without-losing-control-of-them-302854107.html",
+    "snippet": "ForceEquals Launches Agent Momentum, So Companies Can Finally Scale AI Agents Without Losing Control of Them Accessibility Statement Skip Navigation\n...\nTAMPA, Fla., Aug. 18, 2026 /PRNewswire/ -- ForceEquals, the operational layer that puts business teams in control of AI agent portfolios, today announced general availability of ForceEquals Agent Momentum, comprised of Agent Control and Agent Oper"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-19",
+    "topic": "ai_agents",
+    "title": "Block\u2019s new Apache 2.0 agent workspace Berd works across models and harnesses, stores conversation history locally",
+    "url": "https://venturebeat.com/orchestration/blocks-new-apache-2-0-agent-workspace-berd-works-across-models-and-harnesses-stores-conversation-history-locally",
+    "snippet": "Block\u2019s new Apache 2.0 agent workspace Berd works across models and harnesses, stores conversation history locally | VentureBeat\n...\nBlock, the technology company founded by former Twitter CEO Jack Dorsey that owns Square, Cash App and the music streaming service Tidal, is open-sourcing Berd, a desktop application it originally built to give its own employees a single environment for working with "
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-19",
+    "topic": "ai_small_business",
+    "title": "Your Next Team Member Might Be AI: A Small Business Owner's Guide to Launching AI Employees",
+    "url": "https://patch.com/california/temecula/your-next-team-member-might-be-ai-small-business-owner-s-guide-launching-ai",
+    "snippet": "Your Next Team Member Might Be AI: A Small Business Owner's Guide to Launching AI Employees | Temecula, CA Patch\n\n# Your Next Team Member Might Be AI: A Small Business Owner\u2019s Guide to Launching AI Employees\n\n## How small businesses can use AI employees to expand their teams, automate repetitive work and improve customer follow-up.\n\nMark Lamplugh, Community Contributor\n\nPosted Tue, Aug 18, 2026 at"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-19",
+    "topic": "ai_small_business",
+    "title": "SocialPost.ai Launches MCP Social Media Scheduler",
+    "url": "https://www.accessnewswire.com/newsroom/en/computers-technology-and-internet/socialpost.ai-launches-mcp-connector-that-turns-ai-chats-into-sch-1207195",
+    "snippet": "Small business owners can now ask their AI assistant for a week's worth of posts and have them published to their social media channels with AI-generated images, platform-specific formatting, and best-time scheduling recommendations. Every post waits for the owner's approval, and the connector is included with the platform's Solo and Pro plans.\n...\nMIAMI, FL / [ACCESS Newswire](https://www.accessn"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-19",
+    "topic": "ai_small_business",
+    "title": "Matter Expands Small Business Offering for the AI Era",
+    "url": "https://www.martechcube.com/matter-expands-small-business-offering-for-the-ai-era/",
+    "snippet": "Matter Expands Small Business Offering for the AI Era - MarTech Cube\n\n# Matter Expands Small Business Offering for the AI Era\n\n- \n- By BusinessWire \n- August 19, 2026 \n\nTurnkey marketing packages help small businesses increase visibility as 45% of local customers search with AI\n\nMatter, an award-winning PR, marketing and creative agency, today relaunched its local marketing services, offering appr"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-19",
+    "topic": "ai_small_business",
+    "title": "OPERLO HELPS GROWING BUSINESSES SAVE TIME AND REDUCE MANUAL WORK WITH AI-POWERED AUTOMATION | lifestyle.forkstofeet.com",
+    "url": "https://lifestyle.forkstofeet.com/story/840523/operlo-helps-growing-businesses-save-time-and-reduce-manual-work-with-ai-powered-automation/",
+    "snippet": "OPERLO HELPS GROWING BUSINESSES SAVE TIME AND REDUCE MANUAL WORK WITH AI-POWERED AUTOMATION | lifestyle.forkstofeet.com\n\n# OPERLO HELPS GROWING BUSINESSES SAVE TIME AND REDUCE MANUAL WORK WITH AI-POWERED AUTOMATION\n\nWritten By: EIN Presswire\n\nCustom automation systems eliminate repetitive lead follow-up, CRM updates, reporting, data processing, and other time-consuming operational tasks\n\nLOS ANGEL"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-19",
+    "topic": "ai_small_business",
+    "title": "Converge AI Connects Its Specialized AI Products Into One Platform for Business Teams",
+    "url": "https://www.prnewswire.com/news-releases/converge-ai-connects-its-specialized-ai-products-into-one-platform-for-business-teams-302854232.html",
+    "snippet": "Converge AI Connects Its Specialized AI Products Into One Platform for Business Teams Accessibility Statement Skip Navigation\n\nPALO ALTO, Calif., Aug. 18, 2026 /PRNewswire/ -- Most companies now use AI. Very few operate as AI-native businesses. The gap between the two is where Converge AI is building.\n\nContinue Reading\n\nConverge Work, Enter Pro, Framia Pro, and Combos Fun now operate on a shared c"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-19",
+    "topic": "ai_labs",
+    "title": "Introducing workspace agents in ChatGPT",
+    "url": "https://openai.com/ca-ES/index/introducing-workspace-agents-in-chatgpt/",
+    "snippet": "# Introducing workspace agents in ChatGPT\n\nPublished: 2026-08-19T05:14:07+00:00\nSource: openai.com (openai.com)\nLanguage: en\n\n## Story\n\nAI has already helped people work faster on their own, but many of the most important workflows inside an organization depend on shared context, handoffs, and decisions across teams. Workspace agents are designed for that kind of work: they can gather context from"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-19",
+    "topic": "ai_labs",
+    "title": "Model Spec (2026/08/18)",
+    "url": "https://model-spec.openai.com/2026-08-18.html",
+    "snippet": "Model Spec (2026/08/18)\n...\nOpenAI Model Spec\n...\nTo deepen the public conversation about how AI models should behave, we\u2019re sharing the Model Spec, our approach to shaping desired model behavior.\n...\nThe Model Spec outlines the intended behavior for the models that power OpenAI\u2019s products, including the API platform. Our goal is to create models that are useful, safe, and aligned with the needs o"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-19",
+    "topic": "ai_labs",
+    "title": "Do more online with Gemini in Chrome for Android.",
+    "url": "https://blog.google/products-and-platforms/products/chrome/gemini-in-chrome-android-auto-browse/",
+    "snippet": "Do more online with Gemini in Chrome for Android.\n...\n# Tap into the power of Gemini in Chrome on Android.\n...\nGemini in Chrome, your browsing assistant, is now available to all Android users in the U.S., making it easier than ever to explore the web on your phone.\n...\nGemini in Chrome summarizes long articles, answers questions about web pages, and connects with your favorite Google apps \u2014 includ"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-19",
+    "topic": "ai_labs",
+    "title": "How Google uses its AI to predict floods",
+    "url": "https://blog.google/innovation-and-ai/technology/research/flood-prediction-ai/",
+    "snippet": "How Google uses its AI to predict floods\n...\n# Ask a Scientist: How can researchers use AI to predict a flood?\n...\nA Google senior staff research scientist shares how we\u2019ve used AI to evolve our flood forecasts over the last decade.\n...\nIn 2018, we piloted a flood forecasting model in India that relied on real-time river data to predict a flood. Since then, our advancements in AI have made it poss"
   }
 ]
