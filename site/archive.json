@@ -17706,5 +17706,207 @@
     "title": "How Google uses its AI to predict floods",
     "url": "https://blog.google/innovation-and-ai/technology/research/flood-prediction-ai/",
     "snippet": "How Google uses its AI to predict floods\n...\n# Ask a Scientist: How can researchers use AI to predict a flood?\n...\nA Google senior staff research scientist shares how we\u2019ve used AI to evolve our flood forecasts over the last decade.\n...\nIn 2018, we piloted a flood forecasting model in India that relied on real-time river data to predict a flood. Since then, our advancements in AI have made it poss"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-08-20",
+    "headline": "Binance just let AI agents trade with real money.",
+    "url": "archive/2026-08-20.html",
+    "posts": {
+      "linkedin": [
+        "An AI agent can trade your money now. You don't even have to be watching.\n\nBinance just opened its whole exchange up to agents built in Claude Code, Codex, Cursor, whatever you're running. Connect it, authorize it, and it can read the market and place the trade on your behalf.\n\nThat's a real jump. Six months ago the agent conversation was mostly \"it wrote my email\" or \"it built my landing page.\" Now it's \"it moved my money while I was asleep.\"\n\nHere's the part nobody's saying loud enough. The responsibility for keeping that agent in check is mostly on the person who turned it on. Not the exchange. Not the model. You.\n\nThat's not a reason to avoid it. It's a reason to actually read what permissions you're handing out before you hand them out.\n\nWhat's the first thing you'd trust an agent to do with your money, and what's the thing you wouldn't touch yet?",
+        "Small businesses using AI are pulling in almost 5x the revenue of the ones that aren't.\n\nThat number's getting thrown around a lot right now, and it's real, but it's not because AI is magic. It's because most small business owners are drowning in busywork that has nothing to do with the thing they're actually good at.\n\nHoneyBook just plugged their whole client pipeline into Claude. Invoices, contracts, lead stages, all of it, inside one conversation instead of six logins. That's not a flashy feature. That's just fewer places for a stale lead or an unpaid invoice to quietly disappear.\n\nThe businesses winning right now aren't the ones with the smartest AI strategy. They're the ones who finally got someone to translate \"AI\" into \"here's the three things eating your week, gone.\"\n\nWhat's the thing eating your week that you haven't handed off yet?",
+        "If it's repeatable, it's a skill.\n\nHeard a guy explain this on a podcast today and it clicked in a way most AI advice doesn't. He runs his whole company on Claude Code skills, basically SOPs written down as a document the AI reads before it does the task.\n\nWithout one, every time you ask for a proposal you're re-explaining your preferences from scratch. Where the price goes, what colors, what tone. You land on something good, then next week you start over.\n\nWith a skill, he typed one line, \"create a proposal for this client,\" and got the exact branded doc he wanted. First try. Nothing re-explained.\n\nThe part that actually matters isn't the tool. It's the habit underneath it. Any time you catch yourself explaining the same thing to an AI twice, that's the moment to write it down once and stop.\n\nWhat's the thing you keep re-explaining that you haven't turned into a skill yet?"
+      ],
+      "threads": [
+        "Alibaba dropped a free model that runs on a regular laptop and performs like the big cloud ones everybody's paying for. A million downloads in a few days.\n\nI keep seeing people assume good AI still means a subscription and a wait list. That gap's closing faster than the headlines make it sound.\n\nThe tools didn't get worse and cheaper. They got just as good and cheaper. That's a different problem to have.",
+        "An AI agent can trade your crypto for you now. No hand on the mouse.\n\nBinance opened its whole exchange up to agents built in Claude Code and a few other tools. Point it at the market, let it place the trade.\n\nHere's the catch nobody's saying loud enough. Keeping that thing in check is on you, not the exchange. The tools got real fast. The guardrails are still catching up.",
+        "Somebody explained why his whole company runs on Claude skills and it finally clicked.\n\nA skill's just your preferences written down once, so the AI stops asking the same three questions every time. He typed one line for a proposal and got exactly what he wanted, first try, nothing re-explained.\n\nIf it's repeatable, it's a skill. That's the whole idea. Most people are just re-teaching the AI the same lesson every week and calling it work."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-08-20",
+    "source": "The Koerner Office",
+    "title": "The Most Overlooked Path to Wealth",
+    "url": "https://www.youtube.com/watch?v=i5vD6_QspkQ",
+    "video_id": "i5vD6_QspkQ"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-08-20",
+    "source": "Startup Ideas Podcast",
+    "title": "Biggest Unlock for AI Agents in 2026: Skillsmaxxing",
+    "url": "https://www.youtube.com/watch?v=xHsftiyT9pQ",
+    "video_id": "xHsftiyT9pQ"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-20",
+    "topic": "model_releases",
+    "title": "Grok 4.6 on Amazon Bedrock | SpaceXAI",
+    "url": "https://x.ai/news/grok-4-6-amazon-bedrock",
+    "snippet": "Grok 4.6 on Amazon Bedrock | SpaceXAI\n...\n# Grok 4.6 on Amazon Bedrock\n...\nGrok 4.6 is now available via Amazon Bedrock.\n...\nToday, we\u2019re excited to announce that Grok 4.6 is now generally available on Amazon Bedrock.\n...\nGrok 4.6 is our latest flagship model, built for long-running agents and ambitious interactive and visual work. It offers 500k context window and configurable reasoning efforts ("
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-20",
+    "topic": "model_releases",
+    "title": "Alibaba\u2019s new small model runs on a laptop and scores like a cloud one",
+    "url": "https://thenextweb.com/news/alibaba-qwen3-8-27b-local-frontier-model",
+    "snippet": "Alibaba\u2019s new small model runs on a laptop and scores like a cloud one\n...\nAlibaba has released a small AI model that runs on a personal computer and scores like a cloud one. The model, Qwen3.8-27B, has been downloaded more than a million times in a few days, The Information reported. Juro Osawa wrote that it is one of the company\u2019s fastest-growing models to date.\n...\nThe model is open source and "
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-20",
+    "topic": "model_releases",
+    "title": "xAI puts Grok 4.6 on Amazon Bedrock one week after launch",
+    "url": "https://runtimewire.com/article/xai-grok-4-6-amazon-bedrock",
+    "snippet": "xAI puts Grok 4.6 on Amazon Bedrock one week after launch\n...\nBedrock gives Musk's xAI a direct route into AWS procurement\n...\ninfrastructure. The real test is whether Grok 4.6's agentic performance\n...\n4.3\n...\nmodels already sold\n...\nElon Musk (@elonmusk)'s xAI made Grok 4.6 generally available through Amazon Bedrock on Wednesday, giving AWS developers access to the model seven days after its ori"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-20",
+    "topic": "model_releases",
+    "title": "Ornith-1.5: From Self-Scaffolding to Self-Improvement \u2014 Web Pulse",
+    "url": "https://wpnews.pro/news/ornith-1-5-from-self-scaffolding-to-self-improvement",
+    "snippet": "Ornith-1.5: From Self-Sc\n...\nolding to Self-Improvement \u2014 Web Pulse\n...\n[ARTICLE \u00b7 art-103191] src= ornith.ai \u2197 pub= 2026-08-19T14:48Z topic= artificial-intelligence verified= true sentiment=\u2191 positive \n\n# Ornith-1.5: From Self-Scaffolding to Self-Improvement\n...\nOrnith-1.5, a new family of foundation models from the Ornith project, achieves state-of-the-art performance among open-source models of"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-20",
+    "topic": "product_releases",
+    "title": "UiPath Launches UiPath Maestro\u2122 Flow | UiPath",
+    "url": "https://www.uipath.com/newsroom/uipath-launches-maestro-flow",
+    "snippet": "UiPath Launches UiPath Maestro\u2122 Flow | UiPath\n...\nFUSION is coming\n...\nFUSION is coming\n...\nUiPath Introduces UiPath Maestro Flow, Delivering Developer-First Orchestration for Coding Agents\n...\n# UiPath Introduces UiPath Maestro Flow, Delivering Developer-First Orchestration for Coding Agents\n\nAugust 19, 2026\n...\nNew orchestration capability lets builders use any coding agent to build, run, and go"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-20",
+    "topic": "product_releases",
+    "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
+    "url": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
+    "snippet": "Binance now lets AI agents trade, but keeping them in check is largely up to users | TechCrunch\n\n\u2013:\u2013:\u2013:\u2013\n\n\ud83d\udea8 Flash Sale \ud83d\udea8 Get $100 off your Disrupt 2026 ticket\n\nSave $300 on your Disrupt 2026 ticket: REGISTER NOW.\n\nImage Credits:Daniel Harvey Gonzalez / Contributor / Getty Images\n\n# Binance now lets AI agents trade, but keeping them in check is largely up to users\n\n2:30 AM PDT \u00b7 August 20, 2026\n\nBi"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-20",
+    "topic": "product_releases",
+    "title": "Meta AI Now Has A Dedicated Desktop App For Mac",
+    "url": "https://www.engadget.com/2240154/meta-ai-now-has-a-dedicated-desktop-app-for-mac/",
+    "snippet": "Meta AI Now Has A Dedicated Desktop App For Mac\n...\n# Meta AI now has a dedicated desktop app for Mac\n...\nIt's part of the company's latest push to make more business-friendly AI tools.\n...\nMeta is rolling out a standalone desktop app for Meta AI. The new Mac app is part of the company's latest push to provide AI tools for business owners and creators who rely on Facebook and Instagram.\n...\nThe Ma"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-20",
+    "topic": "product_releases",
+    "title": "Adronite launches Codistry AI coding platform, claims half the token cost - SiliconANGLE",
+    "url": "https://siliconangle.com/2026/08/19/adronite-launches-codistry-ai-coding-platform-claims-half-the-token-cost/",
+    "snippet": "Adronite launches Codistry AI coding platform, claims half the token cost - SiliconANGLE Skip to content\n...\n### Adronite launches Codistry AI coding platform, claims half the token cost\n...\nAdronite Inc. today launched Codistry, an artificial intelligence coding platform for large enterprise codebases.\n...\nThe platform runs on Adronite\u2019s Context Engine, or ACE, which the company is seeking a pate"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-20",
+    "topic": "product_releases",
+    "title": "Introducing Jira Planner - Inside Atlassian",
+    "url": "https://www.atlassian.com/blog/jira/introducing-jira-planner",
+    "snippet": "Introducing Jira Planner - Inside Atlassian\n...\n# Introducing Jira Planner\n...\nAugust 19, 2026\n...\nPublished In Company News\n...\nThe missing layer between what your team decides to build and how your agents execute it.\n...\nIn a recent Atlassian survey, 60% of engineering leaders said their teams are shifting toward spec-driven development. Yet, fewer than 15% have a structured framework to actuall"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-20",
+    "topic": "ai_agents",
+    "title": "Port Workflows: Orchestrate Agents, Approvals, and Automations",
+    "url": "https://www.port.io/blog/port-workflows",
+    "snippet": "Port Workflows: Orchestrate Agents, Approvals, and Automations\n...\nOrchestrate Agentic Workflows, Approvals, and Automations Across Your SDLCRegister\n...\n# Port Workflows is generally available: Orchestrate agentic workflows, approvals, and automations across your SDLC\n...\nConnect AI agents, workflow tools, human-in-the-loop, and your business processes into one governed workflow.\n...\nIt's 2 am, a"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-20",
+    "topic": "ai_agents",
+    "title": "TrueFoundry Debuts TrueForge for Building and Managing AI Agents",
+    "url": "https://www.hpcwire.com/aiwire/2026/08/19/truefoundry-debuts-trueforge-for-building-and-managing-ai-agents/",
+    "snippet": "## TrueFoundry Debuts TrueForge for Building and Managing AI Agents\n...\nSAN FRANCISCO, Aug. 19, 2026 \u2014 TrueFoundry, an enterprise AI infrastructure platform, today launched TrueForge, an open-source agent harness that gives enterprise teams a way to build, deploy, debug, and govern production AI agents without the vendor lock-in built into most managed agent platforms. TrueForge is an alternative "
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-20",
+    "topic": "ai_agents",
+    "title": "Multi Agent Collaboration Gets Persistent Compute in Bedrock AgentCore - InfoQ",
+    "url": "https://www.infoq.com/news/2026/08/aws-bedrock-agentcore-runtime/",
+    "snippet": "Multi Agent Collaboration Gets Persistent Compute in Bedrock AgentCore - InfoQ\n...\nCollaboration Gets Persistent Compute in Bedrock\n...\n# Multi Agent Collaboration Gets Persistent Compute in Bedrock AgentCore\n...\nAmazon Web Services has introduced runtime instances in the Bedrock AgentCore news blog, adding a second compute option that runs agents on managed Amazon EC2 in a customer account while "
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-20",
+    "topic": "ai_small_business",
+    "title": "BlueFaucet Launches Autonomous AI Agent CRM for Solopreneurs and Small Merchants | The AI Journal",
+    "url": "https://aijourn.com/bluefaucet-launches-autonomous-ai-agent-crm-for-solopreneurs-and-small-merchants/",
+    "snippet": "BlueFaucet Launches Autonomous AI Agent CRM for Solopreneurs and Small Merchants | The AI Journal\n\nThe AI platform works as a 24/7 virtual employee \u2014 automating customer retention, marketing and billing \u2014 with a \u201cFree Forever\u201d tier for micro-businesses\n\nSPOKANE, Wash., Aug. 19, 2026 /PRNewswire/ \u2014 BlueFaucet Inc. today announced the launch of BlueFaucet, an autonomous AI Agent CRM built for solopr"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-20",
+    "topic": "ai_small_business",
+    "title": "AI Employees for Agencies: The Playbook Behind 200 Clients and Zero Churn",
+    "url": "https://www.vendasta.com/blog/ai-employees-for-agencies/",
+    "snippet": "AI Employees for Agencies: The Playbook Behind 200 Clients and Zero Churn\n\n# AI Employees for Agencies: The Playbook Behind 200 Clients and Zero Churn\n\n by Saman Siddiqui | Aug 19, 2026 | Agency Insights, AI & Automation\n\n\u201cNo one ever left a message before. Of course they didn\u2019t.\u201d\n\nFor most of the fifteen years he has run The Xcite Group, Klint Rudolph did not answer his own phone. Calls to the De"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-20",
+    "topic": "ai_small_business",
+    "title": "HoneyBook MCP Debuts as a Claude Connector for Client Pipelines, Invoices and Contracts\n\n | The Manila Times",
+    "url": "https://www.manilatimes.net/2026/08/19/tmt-newswire/globenewswire/honeybook-mcp-debuts-as-a-claude-connector-for-client-pipelines-invoices-and-contracts/2408526",
+    "snippet": "SAN FRANCISCO, Aug. 19, 2026(GLOBE NEWSWIRE)-- The\n...\nHoneyBook, the client relationship platform for independent businesses, today announced the release of HoneyBook MCP, a new way for members to access their account data and perform actions from wherever they're already working, covering everything from client pipelines and booking schedules to contracts, invoices, and communications.\n...\nAs pa"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-20",
+    "topic": "ai_small_business",
+    "title": "BlueFaucet Launches Autonomous AI Agent CRM for Solopreneurs and Small Merchants",
+    "url": "https://uk.advfn.com/stock-market/share-news/BlueFaucet-Launches-Autonomous-AI-Agent-CRM-for-So/99156071",
+    "snippet": "# BlueFaucet Launches Autonomous AI Agent CRM for Solopreneurs and Small Merchants\n\nPublished: 2026-08-19T13:36:00+01:00\nSource: uk.advfn.com (uk.advfn.com)\nLanguage: en\n\n## Story\n\nThe AI platform works as a 24/7 virtual employee \u2014 automating customer retention, marketing and billing \u2014 with a \"Free Forever\" tier for micro-businesses\n\nSPOKANE, Wash., Aug. 19, 2026 /PRNewswire/ -- BlueFaucet Inc. to"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-20",
+    "topic": "ai_small_business",
+    "title": "Hostinger brings the full online journey into the agentic era with AI Builder - Channel Drive",
+    "url": "https://channeldrive.in/artificial-intelligence/hostinger-brings-the-full-online-journey-into-the-agentic-era-with-ai-builder/",
+    "snippet": "Hostinger brings the full online journey into the agentic era with AI Builder - Channel Drive\n\nSearch\n\nTechnology\n\nEnterprise\n\nResource Center\n\nFacebook\n\nLinkedin\n\nTwitter\n\nYoutube\n\nSearch\n\nTechnology\n\nEnterprise\n\nResource Center\n\nMore\n\n5 min.Read\n\n# Hostinger brings the full online journey into the agentic era with AI Builder\n\nAugust 19, 2026 11:00 IST\n\n#### Hostinger is moving beyond AI-generate"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-20",
+    "topic": "ai_labs",
+    "title": "Offering Zero Data Retention for frontier models",
+    "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models/",
+    "snippet": "# Offering Zero Data Retention for frontier models\n...\nPublished: 2026-08-19T17:15:07+00:00\n...\nZero Data Retention gives eligible API customers a clear promise: OpenAI does not retain their prompts or model responses after a request is processed. Customer content is not available to OpenAI personnel for review1, and enterprise customer data is not used to train our models unless customers explici"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-20",
+    "topic": "ai_labs",
+    "title": "How Google Search, Lens, AI Mode can help you study",
+    "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
+    "snippet": "How Google Search, Lens, AI Mode can help you study\n...\n# 5 new ways to level up your learning with Search\n...\nAug 19, 2026\n...\nWe\u2019re introducing tools to help you learn new concepts, tackle tricky subjects, and organize your study sessions with AI in Search.\n...\nThis content is generated by Google AI.\n...\native AI is experimental\n...\nA new school year is the ultimate chance to upgrade your routin"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-20",
+    "topic": "ai_labs",
+    "title": "Waymo is bringing Gemini into its custom Ojai vehicles.",
+    "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-waymo/",
+    "snippet": "Waymo brings Gemini to Ojai vehicles\n...\n# Waymo is bringing Gemini into its custom Ojai vehicles.\n...\nWaymo has brought Gemini to its purpose-built Ojai vehicles to create a more helpful and personalized ride. While the Waymo Driver safely navigates the roads, you can now use Gemini as an in-car AI assistant.\n...\nJust press the Gemini icon on the screen and use your voice to control the cabin or "
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-20",
+    "topic": "ai_labs",
+    "title": "Start the semester with one year of Gemini, on us",
+    "url": "https://blog.google/innovation-and-ai/products/gemini-app/student-offer-google-ai/",
+    "snippet": "College students get 12 months of Google AI free\n...\n# Start the semester with one year of Gemini, on us\n...\nWe\u2019re offering one year of a Google AI plan free of charge for eligible college students around the world \u2014 plus new and enhanced study tools \u2014 so students can make the most of this school year.\n...\nThe beginning of a new college year is always filled with anticipation \u2014 new classes, profes"
   }
 ]
