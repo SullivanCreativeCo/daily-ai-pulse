@@ -17908,5 +17908,231 @@
     "title": "Start the semester with one year of Gemini, on us",
     "url": "https://blog.google/innovation-and-ai/products/gemini-app/student-offer-google-ai/",
     "snippet": "College students get 12 months of Google AI free\n...\n# Start the semester with one year of Gemini, on us\n...\nWe\u2019re offering one year of a Google AI plan free of charge for eligible college students around the world \u2014 plus new and enhanced study tools \u2014 so students can make the most of this school year.\n...\nThe beginning of a new college year is always filled with anticipation \u2014 new classes, profes"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-08-21",
+    "headline": "Three different companies shipped the same idea today, and none of them planned it together.",
+    "url": "archive/2026-08-21.html",
+    "posts": {
+      "linkedin": [
+        "Three companies shipped the same idea today and didn't plan it together.\n\nSlack launched Code, so you can hand a coding task to an agent right inside a channel and watch it work.\n\nNanoClaw showed up in Slack too. One message and you've got a whole team of agents with their own skills.\n\nZephyr took its own version live this week. Same pitch. Agents sitting in the room with your team instead of locked in a private chat tab.\n\nThat's the tell. When three separate companies solve the same problem the same week, it's not a coincidence, it's a signal.\n\nThe chatbot window was never the end state. It was the beginning. The real shift is agents becoming teammates you manage instead of tools you prompt.\n\nIf you run a team right now, ask yourself something. Are you still treating AI like a search bar? Or are you starting to treat it like staff?",
+        "A CRM just launched built for businesses with fewer than five people.\n\nBlueFaucet is going after solopreneurs. Home services, personal care, food and beverage. The owner who's too busy running the shop to ever follow up with a customer.\n\nHoneyBook did something similar this week. They hooked their whole system into Claude so small business owners can actually ask questions of their own data instead of digging through it.\n\nHere's the part that stood out to me. McKinsey found that almost half of companies over five billion in revenue have already moved AI past the pilot stage. Companies under a hundred million? Twenty nine percent.\n\nThat gap has been real for a while.\n\nWhat's new is companies finally building for the small end instead of trickling tools down from enterprise years later.\n\nWould a solo shop owner pay for something that runs their follow ups while they're on a job? I think they would.",
+        "Z.ai didn't train a new model this week. They just got better at teaching the one they had.\n\nGLM-5.3 uses the exact same base as the last version. Same size, same architecture. Every gain came from post-training. And the jump was big enough that one benchmark went from under five percent to over twenty eight.\n\nThey're delaying the open weight release two weeks to run more safety checks, because the same training run that made it better at coding also made it noticeably better at offensive security work. Nobody planned that part.\n\nThe lesson isn't really about this one model. It's about what \"better\" means right now.\n\nFor a while the story was bigger model, bigger gains. This week the story was the same model, better teaching, bigger gains anyway.\n\nIf it's repeatable, it's a skill. Apparently that's true for models too."
+      ],
+      "threads": [
+        "Slack launched Code today. NanoClaw showed up in Slack too. Zephyr took their whole AI platform live. Three different companies, same week, same idea: put the agent in the channel instead of a separate chat tab.\n\nThat's not random. That's the industry deciding the chatbot window was step one, not the destination.\n\nKinda makes you wonder what your team's actually managing in six months. Agents, not just apps.",
+        "A CRM launched this week built only for solopreneurs. Under five employees. Home services, salons, food trucks, that kind of business.\n\nBig companies have had AI doing real work for a while now. Small ones got left holding chatbots that answer questions and not much else.\n\nThis is the first wave of tools actually built for the person running the shop by themselves, not trickled down from some enterprise version three years later.\n\nFeels overdue.",
+        "Z.ai didn't build a new model this week. Same base as before, same size. They just got better at training it.\n\nOne benchmark went from under five percent to almost thirty. No new pretraining. Just better teaching.\n\nDo more with the same, not the same with less. Turns out that's not just a business mantra. Apparently it works on AI models too."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-08-21",
+    "source": "The Koerner Office",
+    "title": "The Simplest $10K/Month Business Most People Miss [NO ADS \u2022 FULL EPISODE]",
+    "url": "https://www.youtube.com/watch?v=KtRL29IULg8",
+    "video_id": "KtRL29IULg8"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-08-21",
+    "source": "AI Daily Brief",
+    "title": "9 AI Techniques You Probably Haven't Tried",
+    "url": "https://www.youtube.com/watch?v=o5PzgHXXjjQ",
+    "video_id": "o5PzgHXXjjQ"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-08-21",
+    "source": "AI Daily Brief",
+    "title": "The AI Backlash Is Getting Stupider But Also Smarter",
+    "url": "https://www.youtube.com/watch?v=efyXCQSu-bU",
+    "video_id": "efyXCQSu-bU"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-21",
+    "topic": "model_releases",
+    "title": "Upstage AI Unveils Solar Pro 4, Scoring 42 on Artificial Analysis Index to Rank Among Global Frontier Models",
+    "url": "https://www.prnewswire.com/news-releases/upstage-ai-unveils-solar-pro-4-scoring-42-on-artificial-analysis-index-to-rank-among-global-frontier-models-302856434.html",
+    "snippet": "Upstage AI Unveils Solar Pro 4, Scoring 42 on Artificial Analysis Index to Rank Among Global Frontier Models Accessibility Statement Skip Navigation\n...\nSP4 Delivers the Behavioral Reliability Production Agents Require at a Fraction of\n...\nBillion Tokens in\n...\nSAN JOSE, Calif., Aug. 20, 2026 /PRNewswire/ -- Upstage AI, an enterprise AI company, announced the launch of Solar Pro 4 (SP4), its close"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-21",
+    "topic": "model_releases",
+    "title": "DeepSeek V4-Pro: OpenAI API Compatibility, Peak/Off-Peak Pricing, and What Developers Actually Get | TechSifted",
+    "url": "https://techsifted.com/posts/deepseek-v4-pro-launch-2026/",
+    "snippet": "DeepSeek V4-Pro: OpenAI API Compatibility, Peak/Off-Peak Pricing, and What Developers Actually Get | TechSifted\n...\nDeepSeek V4-Pro reached general availability on August 13, 2026, adding flexible reasoning effort controls, native OpenAI Responses API support, and a new tiered pricing model that took effect August 16. It\u2019s the right call for developers running high-volume text and coding pipelines"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-21",
+    "topic": "model_releases",
+    "title": "Gemini 3.7 Flash is the fastest model on the market. Its price doubles on January 1",
+    "url": "https://www.wionews.com/world/gemini-3-7-flash-is-the-fastest-model-on-the-market-its-price-doubles-on-january-1-1787169911141",
+    "snippet": "Gemini 3.7 Flash is the fastest model on the market. Its price doubles on January 1\n...\n3.7 Flash is the fastest model on the market. Its price doubles on January 1\n...\n# Gemini 3.7 Flash is the fastest model on the market. Its price doubles on January 1\n...\nGemini 3.7 Flash is the fastest model\n...\n. Its price\n...\n## Google released Gemini 3.7 Flash on August 13, three weeks after its predecessor"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-21",
+    "topic": "model_releases",
+    "title": "GLM-5.3 Review: Z.ai's Open-Weight Coding Model Beats the Frontier - AICC - AI.cc",
+    "url": "https://www.ai.cc/blogs/glm-5-3-open-weight-coding-model-benchmarks-pricing/",
+    "snippet": "-5.3 Review:\n...\n# GLM-5.3: The Open-Weight Coding Model That Closed the Frontier Gap\n...\n# GLM-5.3: The Open-Weight Coding Model That Closed the Frontier Gap\n...\nZ.ai's GLM-5.3 reuses the GLM-5.2 base model and gained everything through scaled post-training. The result is open-weights state of the art in agentic coding, a surprise lead on CyberGym, and a price that undercuts the frontier by up to"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-21",
+    "topic": "model_releases",
+    "title": "GLM-5.3: 6x Terminal-Bench Gain From Post-Training Alone",
+    "url": "https://zenn.dev/neotechpark/articles/7003e20300d7e5",
+    "snippet": "GLM-5.3: 6x Terminal-Bench Gain From Post-Training Alone\n...\nZ.ai shipped GLM-5.3 with zero new pretraining. Post-training alone sent Terminal-Bench 3.0 from 4.6 to 28.3, and cybersecurity gains the company calls \"unexpected.\" Here is what the numbers say.\n...\nOn August 14, 2026, China's Z.ai (formerly Zhipu AI) released GLM-5.3, and the most interesting fact about this launch has nothing to do wi"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-21",
+    "topic": "product_releases",
+    "title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
+    "url": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
+    "snippet": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users | TechCrunch\n\n\u2013:\u2013:\u2013:\u2013\n\n\ud83d\udea8 Flash Sale \ud83d\udea8 Get $100 off your Disrupt 2026 ticket\n\nSave $300 on your Disrupt 2026 ticket: REGISTER NOW.\n\nImage Credits:Meta/image modified by AI\n\n# Meta brings Pocket, an app that lets you vibe-code and share games, to US users\n\n9:07 AM PDT \u00b7 August 20, 2026\n\nMeta\u2019s experimental vibe-coding ga"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-21",
+    "topic": "product_releases",
+    "title": "Meta AI's new Mac app wants you to talk to your apps | TechCrunch",
+    "url": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
+    "snippet": "Meta AI's new Mac app wants you to talk to your apps | TechCrunch\n...\n# Meta AI\u2019s new Mac app wants you to talk to your apps\n...\nMeta today announced a new Mac app for Meta AI with built-in system-wide dictation. The app can also look at the current screen and answer your questions based on the context using its Muse Spark model.\n...\nThe company said that the dictation feature works across all app"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-21",
+    "topic": "product_releases",
+    "title": "Slack Code puts Claude and ChatGPT in the same channel",
+    "url": "https://thenextweb.com/news/slack-code-ai-coding-channels-launch",
+    "snippet": "Slack launches Slack Code, where teams and AI agents build together\n\nCredit: Salesforce\n\nSlack launched a coding product on Thursday. Slack Code adds project-specific channels where teams and AI agents write, review and ship software together. The work happens inside the chat app rather than in a separate browser tab.\n\nThe mechanic is simple. Tag a coding agent from any conversation and it spins u"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-21",
+    "topic": "product_releases",
+    "title": "Thomson Reuters Launches Next Generation of CoCounsel Legal, the AI Ecosystem Built for Legal Professionals",
+    "url": "https://www.prnewswire.com/news-releases/thomson-reuters-launches-next-generation-of-cocounsel-legal-the-ai-ecosystem-built-for-legal-professionals-302855801.html",
+    "snippet": "Thomson Reuters Launches Next Generation of CoCounsel Legal, the AI Ecosystem Built for Legal Professionals Accessibility Statement Skip Navigation\n...\nNew Westlaw Brief Builder helps litigators move from legal research and issue analysis to first-draft briefs within a single AI-powered workflow\n...\nTORONTO, Aug. 20, 2026 /PRNewswire/ -- Thomson Reuters (Nasdaq/TSX: TRI), a global content and tech"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-21",
+    "topic": "product_releases",
+    "title": "Zephyr puts AI specialists inside shared team channels as The AI Platform",
+    "url": "https://business-news-today.com/zephyr-puts-ai-specialists-inside-shared-team-channels-as-the-ai-platform-reaches-general-availability/",
+    "snippet": "Zephyr puts AI specialists inside shared team channels as The AI Platform\n...\n# Zephyr puts AI specialists inside shared team channels as The AI Platform reaches general availability\n...\nZephyr has moved The AI Platform into general availability after five months of early access, combining shared channels, reusable AI specialists, model routing and mini-apps in a bid to move enterprise AI beyond i"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-21",
+    "topic": "ai_agents",
+    "title": "NanoClaw comes to Slack, letting you create persistent AI agent teams and colleagues from a single message | VentureBeat",
+    "url": "https://venturebeat.com/orchestration/nanoclaw-comes-to-slack-letting-you-create-persistent-ai-agent-teams-and-colleagues-from-a-single-message",
+    "snippet": "NanoClaw comes to Slack, letting you create persistent AI agent teams and colleagues from a single message | VentureBeat\n...\nAdding an AI agent to Slack sounds appealing to many enterprises \u2014 but, as VentureBeat has experienced ourselves first hand \u2014 the reality is often far more complex and clunkier than it first seems.\n...\nNow NanoCo., the company behind the hit open source, enterprise-friendly,"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-21",
+    "topic": "ai_agents",
+    "title": "UiPath Introduces UiPath Maestro Flow, Delivering Developer-First Orchestration for Coding Agents",
+    "url": "https://cxotoday.com/media-coverage/uipath-introduces-uipath-maestro-flow-delivering-developer-first-orchestration-for-coding-agents/",
+    "snippet": "UiPath Introduces UiPath Maestro Flow, Delivering Developer-First Orchestration for Coding Agents\n...\n# UiPath Introduces UiPath Maestro Flow, Delivering Developer-First Orchestration for Coding Agents\n...\n### New orchestration capability lets builders use any coding agent to build, run, and govern complete business processes\u2014no rewrite required to ship\n...\nUiPath, Inc. today announced UiPath Maes"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-21",
+    "topic": "ai_agents",
+    "title": "TrueFoundry's Open Source Agent Harness TrueForge Claims 75% Cost Savings Over Claude Managed Agents - The SaaS Sentinel",
+    "url": "https://saassentinel.com/2026/08/20/truefoundrys-open-source-agent-harness-trueforge-claims-75-cost-savings-over-claude-managed-agents/",
+    "snippet": "- TrueForge completed 11 of 14 tasks on DevRev\u2019s Enterprise-Bench for $2.90 using GLM-5.2, compared to $11.80 for Claude Managed Agents running Claude Opus 4.8.\n- The platform ships under an MIT license and supports OpenAI, Anthropic, Google Gemini, and more than 20 additional model providers out of the box.\n- Enterprise customers NetApp and Automatiq are already running agentic workloads on TrueF"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-21",
+    "topic": "ai_agents",
+    "title": "Zephyr Launches The AI Platform, A Multi-Agent Workspace Where Teams Work Alongside AI Specialists",
+    "url": "https://www.prnewswire.com/news-releases/zephyr-launches-the-ai-platform-a-multi-agent-workspace-where-teams-work-alongside-ai-specialists-302855949.html",
+    "snippet": "Zephyr Launches The AI Platform, A Multi-Agent Workspace Where Teams Work Alongside AI Specialists Accessibility Statement Skip Navigation\n...\nAfter five months in early access, The AI Platform reaches general availability \u2014 with Zephyr's own sales, content, and scheduling operations running on it as mini-apps.\n...\nATLANTA, Aug. 20, 2026 /PRNewswire/ -- Zephyr today announced the general availabil"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-21",
+    "topic": "ai_agents",
+    "title": "Slack launches Code with Anthropic, GitHub, Cognition and Vercel agents",
+    "url": "https://runtimewire.com/article/slack-code-anthropic-github-cognition-vercel-agents",
+    "snippet": "Slack launches Code with Anthropic, GitHub, Cognition and Vercel agents\n...\nSlack Code makes Salesforce the coordinator rather than the model provider, giving competing coding agents one team interface while Slack captures the context around their work.\n...\nMarc Benioff (@Benioff) launched Slack Code on August 20th, pitching a shared workspace where software teams can assign work to coding agents "
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-21",
+    "topic": "ai_small_business",
+    "title": "BlueFaucet Unveils Autonomous AI Agent CRM for Solopreneurs, Small Merchants - MarTech Cube",
+    "url": "https://www.martechcube.com/bluefaucet-unveils-autonomous-ai-agent-crm-for-solopreneurs-small-merchants/",
+    "snippet": "BlueFaucet Unveils AI Agent CRM for Small Merchants\n\nThe AI platform works as a 24/7 virtual employee \u2014 automating customer retention, marketing and billing \u2014 with a \u201cFree Forever\u201d tier for micro-businesses\n\nBlueFaucet Inc. today announced the launch of BlueFaucet, an autonomous AI Agent CRM built for solopreneurs and micro-businesses with fewer than five employees across local services, home serv"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-21",
+    "topic": "ai_small_business",
+    "title": "Meta Brings Business Data Into AI For Small Businesses",
+    "url": "https://www.ciol.com/news/meta-brings-business-data-into-ai-for-small-businesses-12398512",
+    "snippet": "Meta Brings Business Data Into AI For Small Businesses\n\nYou have successfully subscribed the newsletter.\n\n# Meta Brings Business Data Into AI For Small Businesses\n\n## Meta is adding Facebook, Instagram, ad and Google Workspace data to Meta AI, giving small businesses tools to analyze performance and automate routine work.\n\nNew Update\n\nMeta is now introducing new features in Meta AI that allow smal"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-21",
+    "topic": "ai_small_business",
+    "title": "HoneyBook bets on agentic AI to streamline small business operations with its new Claude connector \u2013 Physical AI News",
+    "url": "https://physicalainews.com/honeybook-bets-on-agentic-ai-to-streamline-small-business-operations-with-its-new-claude-connector/",
+    "snippet": "HoneyBook bets on agentic AI to streamline small business operations with its new Claude connector \u2013 Physical AI News\n\nAutonomous artificial intelligence agents have already penetrated the offices of large, global enterprises. Now, HoneyBook is trying to bring that same capability to independent businesses with the launch of HoneyBook MCP, recently released as a connector for Anthropic\u2019s AI assist"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-21",
+    "topic": "ai_labs",
+    "title": "Introducing Agentic Search | Mistral",
+    "url": "https://mistral.ai/news/agentic-search",
+    "snippet": "Introducing Agentic Search | Mistral\n...\n# Agentic Search. More accurate and efficient results from your AI systems.\n...\nAugust 20, 2026\n...\nBy Mistral\n...\nMistral Agentic Search delivers more accurate search results while reducing turns, token use, and latency against FinanceBench and OfficeQA Pro benchmarks. Agentic Search is the retrieval layer that enables AI systems to navigate, read, and ver"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-21",
+    "topic": "ai_labs",
+    "title": "Gemma passes 1 billion downloads",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemma-one-billion-downloads/",
+    "snippet": "Gemma passes 1 billion downloads\n...\n# Inside the Gemmaverse: Celebrating one billion Gemma downloads\n...\nFrom outer space to underwater, here's how developers are bringing a positive impact with our open models.\n...\nClement Farabet\n...\nVice President, Google DeepMind\n...\nOlivier Lacombe\n...\nProduct Director, Google DeepMind\n...\nWhen we introduced Gemma, our goal was simple: empower developers to "
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-21",
+    "topic": "ai_labs",
+    "title": "Personalize what you see on Google Search, News, Discover",
+    "url": "https://blog.google/products-and-platforms/products/search/personalize-search-discover-news/",
+    "snippet": "Personalize what you see on Google Search, News, Discover\n\n# Personalize the content you see on Search, Discover, and News\n\nAug 20, 2026\n\n|\n\nTailor the content you see, save Preferred Sources, and customize audio briefings with new features across Search, Discover, and Google News.\n\n---\n\nMrinalini Loew\n\nGeneral Manager, Google Search Ecosystem\n\nShare\n\n---\n\nYour browser does not support the audio e"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-21",
+    "topic": "ai_labs",
+    "title": "New AI Max tools can help you scale Search campaigns",
+    "url": "https://blog.google/products/ads-commerce/ai-max-testing-planning-tools/",
+    "snippet": "New AI Max tools can help you scale Search campaigns\n...\n# Make AI Max work for your business with new testing and planning tools.\n...\nBuilding on the one-click experiments in AI Max, we\u2019re now introducing a way for you to test different budgets and ROI targets across multiple Search campaigns in a single A/B test. Rolling out in September, this will help you see exactly how scaling up your campai"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-21",
+    "topic": "ai_labs",
+    "title": "Lovable's TanStack migration \ud83d\udd27, OpenAI slows model dev ...",
+    "url": "https://tldr.tech/dev/2026-08-20",
+    "snippet": "Lovable\u2019s TanStack migration \ud83d\udd27, OpenAI slows model dev \ud83d\udea6, Postgres for everything \ud83c\udfc6\n\n# TLDR Dev 2026-08-20\n\n## Lovable\u2019s TanStack migration \ud83d\udd27, OpenAI slows model dev \ud83d\udea6, Postgres for everything \ud83c\udfc6\n\n### Built by Cursor. Built on Buildkite. (Sponsor)\n\nDevs finally have a challenger to GitHub code hosting with Origin.\n\nOrigin was built on Buildkite.\n\nBuildkite is a launch partner for this new code ecos"
   }
 ]
