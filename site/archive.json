@@ -18134,5 +18134,247 @@
     "title": "Lovable's TanStack migration \ud83d\udd27, OpenAI slows model dev ...",
     "url": "https://tldr.tech/dev/2026-08-20",
     "snippet": "Lovable\u2019s TanStack migration \ud83d\udd27, OpenAI slows model dev \ud83d\udea6, Postgres for everything \ud83c\udfc6\n\n# TLDR Dev 2026-08-20\n\n## Lovable\u2019s TanStack migration \ud83d\udd27, OpenAI slows model dev \ud83d\udea6, Postgres for everything \ud83c\udfc6\n\n### Built by Cursor. Built on Buildkite. (Sponsor)\n\nDevs finally have a challenger to GitHub code hosting with Origin.\n\nOrigin was built on Buildkite.\n\nBuildkite is a launch partner for this new code ecos"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-08-22",
+    "headline": "Three different podcasts dropped this week showing the exact same business model working, and nobody's noticed the pattern yet.",
+    "url": "archive/2026-08-22.html",
+    "posts": {
+      "linkedin": [
+        "Three different podcasts dropped this week showing the same business model working across three completely different industries.\n\nRachel: Free sandwich boards in restaurants. Sells ad placement. Upsells into web dev and AI services. $225K/year business, six months in.\n\nCorey: Two calls per month plus Voxer plus a Notion hub. Hit $8K MRR in ten days from six conversations. Clients don't want courses. Don't want black-box agencies. Want a partner sitting beside them.\n\nBilly: Replaced his intern with Grok Bot agents. Runs a 6,000-person newsletter. Costs $200-300 a month.\n\nSame starting point. Same tool access. Same playbook across all three.\n\nFix what's broken in the business. Use an agent tool to solve it. Charge the owner to be the translator between the tool and their actual work.\n\nThe tool is table stakes now. The money is in the translation.",
+        "Slack Code just made AI agents multiplayer and that changes how teams ship code.\n\nUntil now, most agent work was invisible. You ask Claude Code or Devin to build something, it works in the dark, hands you something finished.\n\nSlack Code puts the agent in a channel where your whole team watches the diffs in real time, steers the work as it happens, sees the plan laid out in dedicated tabs. The work is open. The audit trail is searchable.\n\nThat sounds like a feature. It's actually a speed lever.\n\nThe moment your team can see what the agent is doing and nudge it mid-stream, the feedback loop compresses. You're not waiting for a finished thing you have to debug. You're watching it build and catching issues before they compound.\n\nFaster shipping. Better code. Teams learning what the agent is doing instead of just trusting the output.\n\nThat's worth shipping for.",
+        "Hour9 just published something that stuck with me.\n\nThey took eight clients looking for AI automation. After mapping workflows, only one actually needed AI.\n\nThe other seven needed traditional automation or structured code. Simpler. More predictable. Easier to maintain.\n\nKevin Smida said it plainly: \"AI has to earn its place. If it's not the right tool, we won't recommend it.\"\n\nThat's the take that matters right now.\n\nMost business owners are tired of \"AI solves everything.\" They don't need better AI. They need clarity on what's actually broken.\n\nOnce you map the workflow, the fix becomes obvious. And half the time that fix isn't an agent. It's a process change. Or a script. Or just writing the decision rules down clearly for the first time.\n\nThe real business opportunity isn't in tools getting smarter. It's in knowing when to use them and when not to.\n\nThat's the skill that compounds."
+      ],
+      "threads": [
+        "Three podcasts this week, three different businesses, one playbook. Fix what's broken. Use a tool. Charge to translate.\n\nRachel on sandwich board ads. Corey on AI concierge. Billy on agents running his newsletter. All hit $8K MRR the same month.\n\nTools are table stakes now. The money is in knowing what to fix and explaining it clearly.",
+        "Slack Code made agents multiplayer and that's the move.\n\nYour team watches the code build in real time. Steers it. Learns from it. No more invisible work that arrives finished.\n\nThe feedback loop compresses. Shipping gets faster. Code gets better.\n\nThat's worth paying attention to.",
+        "Hour9 just said something rare: \"AI has to earn its place.\"\n\nThey took eight clients. Only one needed AI. The rest needed process fixes and clarity.\n\nMost of the world is selling AI solutions to problems you haven't mapped yet.\n\nFlip it. Map the broken thing first. Then pick the tool.\n\nUsually the tool isn't AI. Usually it's just writing the decision down clearly for the first time."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-08-22",
+    "source": "The Koerner Office",
+    "title": "The Simplest $10K+/M Business You've Never Heard Of",
+    "url": "https://www.youtube.com/watch?v=McQucrnkSt0",
+    "video_id": "McQucrnkSt0"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-08-22",
+    "source": "Startup Ideas Podcast",
+    "title": "Making $$$ with Grok Bot",
+    "url": "https://www.youtube.com/watch?v=qQluNEfSVHk",
+    "video_id": "qQluNEfSVHk"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-08-22",
+    "source": "Corey Ganim",
+    "title": "AI Concierge Explained in 19 Minutes",
+    "url": "https://www.youtube.com/watch?v=reQSuQ8LmMc",
+    "video_id": "reQSuQ8LmMc"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-08-22",
+    "source": "AI Daily Brief",
+    "title": "Why Everyone Suddenly Hates AI Data Centers",
+    "url": "https://www.youtube.com/watch?v=-t4RC5JmnTk",
+    "video_id": "-t4RC5JmnTk"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-22",
+    "topic": "model_releases",
+    "title": "DeepSeek debuts multimodal language model competitive with Opus 4.8",
+    "url": "https://siliconangle.com/2026/08/21/deepseek-debuts-multimodal-language-model-competitive-with-opus-4-8/",
+    "snippet": "# DeepSeek debuts multimodal language model competitive with Opus 4.8\n\nPublished: 2026-08-21T20:18:15+00:00\nSource: siliconangle.com (siliconangle.com)\nLanguage: en\n\n## Story\n\nDeepSeek today debuted a new addition to its flagship V4 series of large language models.\n\nOn launch, V4 Flash Vision Exp is only available via the Chinese startup\u2019s paid developer platform. The company may release a free ve"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-22",
+    "topic": "model_releases",
+    "title": "SenseTime open-sources 8B multimodal model with native 4K image output \u00b7 TechNode",
+    "url": "https://technode.com/2026/08/21/sensetime-open-sources-8b-multimodal-model-with-native-4k-image-output/",
+    "snippet": "SenseTime open-sources 8B multimodal model with native 4K image output \u00b7 TechNode\n...\nSenseTime has open-sourced SenseNova U1.5 Lite, an 8-billion-parameter multimodal model designed to combine visual understanding, image generation and editing in one system. The model supports native 4K image output and is designed to handle constraints involving subjects, counts, spatial relationships, text, lay"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-22",
+    "topic": "model_releases",
+    "title": "Generalist AI GEN-1.5 Learns New Robot Tasks From Single Demo, No Retraining",
+    "url": "https://www.techtimes.com/articles/325174/20260821/generalist-ai-gen-15-learns-new-robot-tasks-single-demo-no-retraining.htm",
+    "snippet": "Generalist AI GEN-1.5 Learns New Robot Tasks From Single Demo, No Retraining\n...\nA robotic arm watches a human unzip a pencil pouch for roughly ten seconds \u2014 and then does it on its own, without any additional instruction and without being retrained. That is the core result of GEN-1.5, the newest robot foundation model from Generalist AI, published August 19, 2026, and it is a result the company's"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-22",
+    "topic": "model_releases",
+    "title": "New DeepSeek V4 Pro is Almost as Good as Claude Fable 5 and Super Cheap \u2014 Pehel",
+    "url": "https://pehel.com/en/article/new-deepseek-v4-pro-is-almost-as-good-as-claude-fable-5-and-super-cheap-5vh1qz",
+    "snippet": "DeepSeek has officially released DeepSeek V4 Pro 0813, moving its flagship 1.6-trillion-parameter AI model from preview to general availability. The model is now available through DeepSeek\u2019s app, website, and API under the existing deepseek-v4-pro name. DeepSeek has also released the model weights under the MIT License.\n...\nDeepSeek has officially released DeepSeek V4 Pro 0813, moving its flagship"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-22",
+    "topic": "model_releases",
+    "title": "An ab initio foundation model of wavefunctions that accurately describes chemical bond breaking | Nature Communications",
+    "url": "https://www.nature.com/articles/s41467-026-76604-2",
+    "snippet": "An ab initio foundation model of wavefunctions that accurately describes chemical bond breaking | Nature Communications\n...\nReliable description of bond breaking remains a major challenge for quantum chemistry due to the multireference character of the electronic structure in dissociating species. Multireference methods in particular suffer from large computational cost, which under the normal par"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-22",
+    "topic": "product_releases",
+    "title": "Slack wants to drag AI coding out of the terminal and into the group chat | VentureBeat",
+    "url": "https://venturebeat.com/orchestration/slack-wants-to-drag-ai-coding-out-of-the-terminal-and-into-the-group-chat",
+    "snippet": "Slack wants to drag AI coding out of the terminal and into the group chat.\n...\nThe Salesforce-owned messaging platform today announced Slack Code, a new product that embeds AI coding agents \u2014 including Anthropic's Claude Code, Cognition's Devin, GitHub Copilot, and Vercel's agent\u2014 directly into dedicated Slack channels where entire teams can watch, steer, review, and ship software together. Slack "
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-22",
+    "topic": "product_releases",
+    "title": "Meta wants to infilitrate your Mac with its new AI desktop app",
+    "url": "https://www.trustedreviews.com/news/meta-wants-to-infilitrate-your-mac-with-its-new-ai-desktop-app",
+    "snippet": "Meta wants to infilitrate your Mac with its new AI desktop app\n...\nMeta has launched a beta Meta AI app for Mac, bringing its AI assistant to the desktop with screen sharing and built-in dictation.\n...\nThe new Mac app can connect with Facebook and Instagram, allowing Meta AI to access analytics and answer questions about performance. It can also connect to Google Workspace to access documents, alt"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-22",
+    "topic": "product_releases",
+    "title": "Meta releases Pocket AI powered app to create shareable 'gizmos'",
+    "url": "https://www.newsbytesapp.com/news/science/meta-releases-pocket-ai-powered-app-to-create-shareable-gizmos/tldr",
+    "snippet": "Meta releases Pocket AI powered app to create shareable 'gizmos'\n...\nPocket is currently only available in the US\n...\n# Meta releases Pocket AI powered app to create shareable 'gizmos'\n...\nTechnology Aug 21, 2026\n...\nMeta just dropped Pocket, a new AI-powered gaming app now available for US users after a test run in Brazil.\n...\nWith Pocket, you can make and share your own minigames, called \"gizmos"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-22",
+    "topic": "product_releases",
+    "title": "Anthropic Launches Cowork: Claude Agent for Non-Coders",
+    "url": "https://emergent.sh/news/claude-cowork-officially-launched",
+    "snippet": "# Anthropic Launches Cowork: Claude Agent for Non-Coders\n...\nAnthropic Launches Cowork: Claude Agent for Non-Coders\n...\n# Anthropic Launches Cowork: Claude Agent for Non-Coders\n...\nAnthropic expanded its AI agent capabilities on Monday with the launch of Cowork, a new feature that brings Claude Desktop's autonomous file-handling power to non-technical users. The release extends the functionality o"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-22",
+    "topic": "product_releases",
+    "title": "Meta AI's Mac App Adds Screen Sharing and Dictation \u2014 AI Insiders",
+    "url": "https://aiinsiders.net/article/meta-ais-mac-app-adds-screen-sharing-and-dictation",
+    "snippet": "Meta AI's Mac App Adds Screen Sharing and Dictation \u2014 AI Insiders\n...\n# Meta AI's Mac App Adds Screen Sharing and Dictation\n...\nThe macOS build lets users feed a screen or window into a prompt and dictate system-wide, but coding and browser features still lag rivals.\n...\nMeta has shipped a dedicated Meta AI desktop app for macOS, rolling out to select regions after a period of internal testing. Te"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-22",
+    "topic": "ai_agents",
+    "title": "OpenAI Open Sources Codex Harness Framework - Open Source For You",
+    "url": "https://www.opensourceforu.com/2026/08/openai-open-sources-codex-harness/",
+    "snippet": "Powered by the Apache-2.0 licence, OpenAI\u2019s open-source Harness engine slashes AI token consumption sixfold while boosting model benchmark scores.\n...\nOn 20 August 2026, OpenAI officially open-sourced Harness, the core underlying engine and execution framework that powers its flagship coding agent, Codex. The framework was released under the Apache-2.0 licence, allowing developers to freely modify"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-22",
+    "topic": "ai_agents",
+    "title": "Anything Launches Skydive, a Platform for Building AI Coworkers",
+    "url": "https://techrseries.com/hiring/anything-launches-skydive-a-platform-for-building-ai-coworkers/",
+    "snippet": "Anything Launches Skydive, a Platform for Building AI Coworkers\n...\n# Anything Launches Skydive, a Platform for Building AI Coworkers\n...\n#### Anything\u2019s 15-person team works alongside more than 150 AI agents to serve over 1 million users. Today, the system behind those agents is available to every company to build its own AI workforce.\n...\nAnything, the AI app builder used by over 1 million peopl"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-22",
+    "topic": "ai_agents",
+    "title": "UiPath launches Maestro Flow for AI agent orchestration - GEC Newswire",
+    "url": "https://gecnewswire.com/uipath-launches-maestro-flow-to-orchestrate-ai-coding-agents/",
+    "snippet": "UiPath launches Maestro Flow for AI agent orchestration - GEC Newswire\n...\n# UiPath launches Maestro Flow to orchestrate AI coding agents\n...\nUiPath has launched Maestro Flow, a developer-first orchestration canvas designed to streamline the deployment of AI coding agents. The tool enables builders to design, run, and govern complex business processes from native environments like VS Code. By inte"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-22",
+    "topic": "ai_agents",
+    "title": "NeuBird AI Publishes Open Framework for Earned Agent Autonomy in Production Environments",
+    "url": "https://cioinfluence.com/security/neubird-ai-publishes-open-framework-for-earned-agent-autonomy-in-production-environments/",
+    "snippet": "NeuBird AI Publishes Open Framework for Earned Agent Autonomy in Production Environments\n...\nNeuBird AI Publishes Open Framework for Earned Agent Autonomy in Production Environments\n...\n#### As enterprises weigh autonomous AI in production, NeuBird AI opens its architectural principles for agent access control to the industry and invites co-signers from enterprise operators, security leaders and i"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-22",
+    "topic": "ai_small_business",
+    "title": "What I Learned Running a One-Person Business Entirely on AI",
+    "url": "https://aijourn.com/what-i-learned-running-a-one-person-business-entirely-on-ai/",
+    "snippet": "What I Learned Running a One-Person Business Entirely on AI | The AI Journal\n\nI run a one-person consulting business out of Akron, Ohio. AI drafts my emails, chases my invoices, updates my customer records, preps my meetings, and writes the first draft of almost everything I publish. The company has real customers and no employees.\n\nOver the past few months I have also built similar setups for 11 "
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-22",
+    "topic": "ai_small_business",
+    "title": "New Meta AI Features for Small Businesses",
+    "url": "https://smestreet.in/technology/new-meta-ai-features-for-small-businesses-12403395",
+    "snippet": "New Meta AI Features for Small Businesses\n\n# New Meta AI Features for Small Businesses \n\n## Across meta.ai, the Meta AI mobile app, and the new Meta AI desktop app, you can now choose to have Meta AI work directly with your Instagram and Facebook accounts, Meta ad campaigns, and Google Workspace. \n\nSMEStreet Edit Desk \n\n 21 Aug 2026 14:44 IST\n\n0.75x 1x 1.5x\n\n00:00/ 00:00\n\nToday, we're starting to "
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-22",
+    "topic": "ai_small_business",
+    "title": "Meta Wants Its AI To Run Your Business Dashboard. Here's What That Actually Means | TechTrends Africa",
+    "url": "https://techtrends.africa/meta-wants-its-ai-to-run-your-business-dashboard/",
+    "snippet": "Meta Wants Its AI To Run Your Business Dashboard. Here's What That Actually Means | TechTrends Africa\n\nMeta has begun rolling out a significant upgrade to Meta AI, one that turns the assistant from a general-purpose chatbot into something closer to a plugged-in business analyst. Announced this week, the update lets small business owners connect Meta AI directly to their Facebook and Instagram acco"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-22",
+    "topic": "ai_small_business",
+    "title": "Hour9 Launches AI Automation Agency with Process-First Approach, | Cochrane Times-Post",
+    "url": "https://www.cochranetimespost.ca/newsfile/310740-hour9-launches-ai-automation-agency-with-processfirst-approach-challenging-assumption-that-businesses-should-maximize-ai-integration",
+    "snippet": "Somerville, Massachusetts\u2013(Newsfile Corp. \u2013 August 22, 2026) \u2013 Hour9, an AI automation agency based in Somerville, Massachusetts, today announced its launch with a methodology that prioritizes process diagnosis over technology selection \u2013 an approach its founder said was shaped directly by early client work in which the majority of projects were better served by traditional automation than by arti"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-22",
+    "topic": "ai_small_business",
+    "title": "Runable Review 2026: I Tested It \u2014 Is This AI Agent Worth It?",
+    "url": "https://buttondown.com/deepverdict/archive/runable-review-2026-i-tested-it-is-this-ai-agent/",
+    "snippet": "# Deep Verdict\n\nArchives\n\nSearch...\n\nLog in\n\nSubscribe\n\nAugust 21, 2026\n\n# Runable Review 2026: I Tested It \u2014 Features, Pricing, Pros & Cons of this AI Agent\n\nMost AI tools give you words. Runable gives you deliverables. That is the single biggest difference you notice within about ten minutes of using it, and it is the reason this platform keeps showing up in conversations about AI agents that do"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-22",
+    "topic": "ai_labs",
+    "title": "Exploring new frontiers of AI and games research",
+    "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+    "snippet": "Exploring new frontiers of AI and games research \u2014 Google DeepMind\n...\nAugust 21, 2026 Research\n...\n# From Atari to EVE Online: Building on 15 Years of AI Research in Games\n...\nFrom Atari to Go to StarCraft, games have driven some of the biggest breakthroughs in AI. Now, we\u2019re partnering with game developers to prototype new gameplay experiences that push the frontiers of both gaming and AI.\n...\nS"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-22",
+    "topic": "ai_labs",
+    "title": "Claude Sonnet \\ Anthropic",
+    "url": "https://www.anthropic.com/claude/sonnet?939688b5_page=2&pfrom=home-ndtvelex_home",
+    "snippet": "# Claude Sonnet \\ Anthropic\n...\nClaude Sonnet \\ Anthropic\n...\n# Claude Sonnet 4.6\n...\nHybrid reasoning model with fast, capable intelligence for real-time agents and high-volume work, featuring a 1M context window\n...\nClaude Sonnet 5\n...\nJun 30, 2026\n...\nOur most agentic Sonnet yet. It brings performance that recently required larger, more expensive models to coding, tool use, and everyday work, a"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-22",
+    "topic": "ai_labs",
+    "title": "ChatGPT Apple Messages \ud83d\udcac, Anthropic's meeting recorder ...",
+    "url": "https://tldr.tech/ai/2026-08-21",
+    "snippet": "ChatGPT Apple Messages \ud83d\udcac, Anthropic\u2019s meeting recorder \ud83d\udcbc, Mistral Agentic Search \ud83d\udd0d\n\n# TLDR AI 2026-08-21\n\n## ChatGPT Apple Messages \ud83d\udcac, Anthropic\u2019s meeting recorder \ud83d\udcbc, Mistral Agentic Search \ud83d\udd0d\n\n### Is AI actually making developers ship faster? (Sponsor)\n\nNew data from DX's State of AI in Engineering: Q2 Report shows PR throughput increased 37% over four quarters, yet PR size nearly doubled in the s"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-22",
+    "topic": "ai_labs",
+    "title": "What full-stack development means, per an AI engineer",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/what-full-stack-development-means/",
+    "snippet": "If you\u2019ve tried your hand at vibe coding \u2014 or even full-blown web development \u2014 you\u2019ve probably heard the term \u201cfull-stack.\u201d But what does it actually mean? We asked Paige Bailey, an engineering lead at Google DeepMind, to explain the concept \u2014 and how it shows up in the Google tech you use every day.\n...\nPaige helpfully breaks down full-stack development: infrastructure, security, research, model"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-22",
+    "topic": "ai_labs",
+    "title": "Transparent backgrounds are now available in preview for GPT-Image-2 in the API - API - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/transparent-backgrounds-are-now-available-in-preview-for-gpt-image-2-in-the-api/1391541/11",
+    "snippet": "Transparent backgrounds are now available in preview for GPT-Image-2 in the API - API - OpenAI Developer Community\n\n# Transparent backgrounds are now available in preview for GPT-Image-2 in the API \n\n 3 \n\n 3 \n\n \n\n \n\n Aug 20 \n\n 11 / 11 Aug 21 \n\n 5h ago \n\n## post by VeitB 8 hours ago \n\n## post by LarisaHaster 8 hours ago \n\n## post by recursionrecursion1 8 hours ago \n\n## post by merefield 8 hours ago"
   }
 ]
