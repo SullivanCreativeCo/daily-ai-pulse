@@ -18376,5 +18376,191 @@
     "title": "Transparent backgrounds are now available in preview for GPT-Image-2 in the API - API - OpenAI Developer Community",
     "url": "https://community.openai.com/t/transparent-backgrounds-are-now-available-in-preview-for-gpt-image-2-in-the-api/1391541/11",
     "snippet": "Transparent backgrounds are now available in preview for GPT-Image-2 in the API - API - OpenAI Developer Community\n\n# Transparent backgrounds are now available in preview for GPT-Image-2 in the API \n\n 3 \n\n 3 \n\n \n\n \n\n Aug 20 \n\n 11 / 11 Aug 21 \n\n 5h ago \n\n## post by VeitB 8 hours ago \n\n## post by LarisaHaster 8 hours ago \n\n## post by recursionrecursion1 8 hours ago \n\n## post by merefield 8 hours ago"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-08-23",
+    "headline": "Synthesis hit an error today. Raw inputs saved to archive.json. Error: claude -p exit 1:",
+    "url": "archive/2026-08-23.html",
+    "posts": {
+      "linkedin": [],
+      "threads": []
+    }
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-23",
+    "topic": "model_releases",
+    "title": "DeepSeek Enters the Multimodal AI Race with Experimental Vision Model - Caixin Global",
+    "url": "https://www.caixinglobal.com/2026-08-22/deepseek-enters-the-multimodal-ai-race-with-experimental-vision-model-102476706.html",
+    "snippet": "DeepSeek Enters the Multimodal AI Race with Experimental Vision Model\n...\nDeepSeek announced the launch of DeepSeek-V4-Flash-Vision-Exp, a multimodal visual-understanding model, and opened its multimodal API service. Photo: VCG\n...\nChinese artificial intelligence startup DeepSeek has launched an experimental multimodal AI model capable of processing visual data and made it available to developers "
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-23",
+    "topic": "model_releases",
+    "title": "Qwen 3.8 Closes the Reasoning Gap, but Agentic Coding Remains a US Stronghold \u2013 Forkast",
+    "url": "https://forkast.news/qwen-3-8-closes-the-reasoning-gap-but-agentic-coding-remains-a-us-stronghold/",
+    "snippet": "Qwen 3.8 Closes the Reasoning Gap, but Agentic Coding Remains a US Stronghold \u2013 Forkast Skip to content\n...\nThe release of Qwen3.8-2.4T-A95B shifts the open-weight frontier\u2014just not in the direction the headline scores suggest. Alibaba has shipped a 2.4 trillion-parameter sparse Mixture-of-Experts model with 95 billion active parameters per token, under a custom license that locks commercial scali"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-23",
+    "topic": "model_releases",
+    "title": "Anonymous lab ships free 1M-context reasoning model on OpenRouter \u2014 AI Insiders",
+    "url": "https://aiinsiders.net/article/anonymous-lab-ships-free-1m-context-reasoning-model-on",
+    "snippet": "Anonymous lab ships free 1M-context reasoning model on OpenRouter \u2014 AI Insiders\n...\n# Anonymous lab ships free 1M-context reasoning model on OpenRouter\n...\nOx Alpha appeared on OpenRouter with a million-token context window and zero listed price, but its maker is not naming itself.\n...\nA stealth model called Ox Alpha went live on OpenRouter on August 20, and its provider has declined to say who bu"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-23",
+    "topic": "model_releases",
+    "title": "DeepSeek says its new multimodal model nears Anthropic\u2019s Opus 4.8: Here\u2019s how",
+    "url": "https://www.digit.in/features/general/deepseek-says-its-new-multimodal-model-nears-anthropics-opus-48-heres-how.html",
+    "snippet": "DeepSeek says its new multimodal model nears Anthropic\u2019s Opus 4.8: Here\u2019s how\n...\n# DeepSeek says its new multimodal model nears Anthropic\u2019s Opus 4.8: Here\u2019s how\n...\nDeepSeek just landed yet another punch in the arms race for AI\u2019s price/performance ratio \u2013 and this punch has eyes. Hangzhou-based company DeepSeek announced the release of the DeepSeek-V4-Flash-Vision-Exp \u2013 an experimental multimodal"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-23",
+    "topic": "model_releases",
+    "title": "NVIDIA Opens Alpamayo 2 Super for Commercial Autonomous Driving - Highways Today",
+    "url": "https://highways.today/2026/08/22/nvidia-alpamayo-2-super/",
+    "snippet": "NVIDIA Opens Alpamayo 2 Super for Commercial Autonomous Driving - Highways Today\n...\n# NVIDIA Opens Alpamayo 2 Super for Commercial Autonomous Driving\n...\n## NVIDIA Opens Alpamayo 2 Super for Commercial Autonomous Driving\n...\nNVIDIA has made its 34-billion-parameter Alpamayo 2 Super autonomous-driving model available for commercial use, giving vehicle developers permission to fine-tune, modify and"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-23",
+    "topic": "product_releases",
+    "title": "Anthropic ships computer use, browser tool, Skills API to GA \u2014 AI Insiders",
+    "url": "https://aiinsiders.net/article/anthropic-ships-computer-use-browser-tool-skills-api-to-ga",
+    "snippet": "Anthropic ships computer use, browser tool, Skills API to GA \u2014 AI Insiders\n...\n# Anthropic ships computer use, browser tool, Skills API to GA\n...\nThe Claude Platform update targets agents that click through software with no API and reuse versioned procedures across requests.\n...\nAnthropic pushed four Claude Platform components out of preview on August 20: computer use, a browser tool, the Skills A"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-23",
+    "topic": "product_releases",
+    "title": "Meta AI Mac App Adds Screen Sharing, Business Tools | Wow Tech Today",
+    "url": "https://wowtechtoday.com/meta-ai-mac-app-adds-screen-sharing-business-tools/",
+    "snippet": "Meta AI Mac App Adds Screen Sharing, Business Tools | Wow Tech Today\n...\n# Meta AI Mac App Adds Screen Sharing, Business Tools\n\n Last updated: August 22, 2026 12:21 am \n\n By News Room \n\nMeta wants its AI assistant closer to where people work.\n...\nThe company has launched a dedicated Meta AI app for Mac with window sharing, system-wide dictation, and quick keyboard access. Meta is also expanding th"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-23",
+    "topic": "product_releases",
+    "title": "Adobe Firefly Can Now Generate Music, Voiceovers and Sound Effects",
+    "url": "https://propakistani.pk/2026/08/22/adobe-firefly-can-now-generate-music-voiceovers-and-sound-effects/",
+    "snippet": "Adobe Firefly Can Now Generate Music, Voiceovers and Sound Effects\n...\n# Adobe Firefly Can Now Generate Music, Voiceovers and Sound Effects\n...\nBy Afaq Wajdan Malik | Published Aug 22, 2026 | 2:10 pm \n\nAdobe has made its Firefly audio-generation tools generally available, bringing AI-generated music, speech and sound effects alongside its existing image, video and design tools.\n...\nThe three tools"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-23",
+    "topic": "product_releases",
+    "title": "Binance Launches Agent OS to Connect AI With Financial Tools",
+    "url": "https://www.cointrust.com/market-news/binance-launches-agent-os-to-connect-ai-with-financial-tools",
+    "snippet": "Binance Launches Agent OS to Connect AI With Financial Tools\n...\n# Binance Launches Agent OS to Connect AI With Financial Tools\n...\n## New Platform Targets AI-Powered Trading and Payments\n...\nBinance has launched Binance Agent OS, a developer platform designed to connect artificial intelligence applications directly with its financial infrastructure. Announced on Aug. 20, 2026, the platform provid"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-23",
+    "topic": "ai_agents",
+    "title": "Nuggets Launches Authority Control Plane for Autonomous AI Agents",
+    "url": "https://thefintechtimes.com/nuggets-launches-authority-control-plane-for-autonomous-ai-agents/",
+    "snippet": "# Nuggets Launches Authority Control Plane for Autonomous AI Agents\n...\nNuggets, a London-based identity and trust technology company, has launched what it calls the Authority Control Plane (ACP), a governance layer designed to sit in the execution path between autonomous AI agents and the enterprise systems they interact with. The product is available now.\n...\nThe core proposition is a distinctio"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-23",
+    "topic": "ai_agents",
+    "title": "GitLab brings agentic AI to enterprise environments for regulated teams",
+    "url": "https://business-news-today.com/gitlab-brings-agentic-ai-to-enterprise-environments-for-regulated-teams/",
+    "snippet": "GitLab brings agentic AI to enterprise environments for regulated teams\n...\n# GitLab brings agentic AI to enterprise environments for regulated teams\n...\nGitLab 19.3 combines in-region AI processing, plain-language workflow creation and bulk security remediation, widening the company\u2019s push into governed enterprise AI.\n...\nGitLab Inc. (NASDAQ: GTLB) is moving its agentic artificial intelligence pl"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-23",
+    "topic": "ai_agents",
+    "title": "Proof\u2019s x401: The First Protocol Answering Who Is Behind the Agent \u2013 Forkast",
+    "url": "https://forkast.news/proofs-x401-the-first-protocol-answering-who-is-behind-the-agent/",
+    "snippet": "Proof\u2019s x401: The First Protocol Answering Who\n...\nAgent \u2013 Forkast Skip to content\n...\nThe naming convention is deliberate. In HTTP, 401 Unauthorized signals that a request lacks valid authentication credentials. 402 Payment Required is a reserved status code for future use, often associated with digital settlement. By naming its new protocol x401, Proof is signaling an architectural split: x401 h"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-23",
+    "topic": "ai_agents",
+    "title": "Binance Launches Agent OS: AI Agents Can Now Trade Crypto With ChatGPT, Claude and Codex",
+    "url": "https://bitcoinfoundation.org/news/ai-news/binance-launches-agent-os/",
+    "snippet": "Binance Agent OS: AI Agents Can Now Trade Crypto\n\nBinance has taken a major step toward autonomous crypto trading. The world\u2019s largest crypto exchange has launched Binance Agent OS, a developer platform that allows compatible AI applications to access market data, analyze accounts, and execute trades directly through Binance infrastructure.\n\nThe platform supports tools including ChatGPT, Claude Co"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-23",
+    "topic": "ai_small_business",
+    "title": "How To Use AI Social Media Tools To Grow Your Small Business",
+    "url": "https://www.forbes.com/sites/small-business/article/how-to-use-social-media-ai-tools-to-grow-your-business/",
+    "snippet": "How To Use AI Social Media Tools To Grow Your Small Business\n\n# 5 Ways To Use AI Social Media Tools And Where To Draw The Line\n\nBy Jodie Cook,\n\nSenior Contributor.\n\nEdited by Sophia Acevedo,\n\nAssociate Editor.\n\nFollow Authors\n\nAug 22, 2026, 07:00am EDT\n\nAdd Forbes on Google\n\n--:-- / --:--\n\nThis voice experience is generated by AI. Learn more.\n\nThis voice experience is generated by AI. Learn more.\n"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-23",
+    "topic": "ai_small_business",
+    "title": "https://www.memesita.com/7-ai-tools-running-a-one-person-business-in-2026/",
+    "url": "https://www.memesita.com/7-ai-tools-running-a-one-person-business-in-2026/",
+    "snippet": "---\ndescription: By 2026, the rise of specialized agentic workflows empowers a solitary founder to direct a full-scale enterprise by utilizing seven core AI utilities\ntitle: 7 AI Tools Running a One-Person Business in 2026 - Memesita\n...\nBy [2026, the rise](https://archyde.com/7-ai-tools-that-run-a-one-person-business-in-2026/) of specialized agentic workflows empowers a solitary founder to direct"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-23",
+    "topic": "ai_small_business",
+    "title": "AI Tool of the Week: these Gemini Gems turn recurring tasks into one-click workflows | Mint",
+    "url": "https://www.livemint.com/ai/gemini-gems-google-gemini-ai-assistants-generative-ai-productivity-ai-tools-workplace-ai-custom-ai-assistant-11787210463976.html",
+    "snippet": "AI Tool of the Week: these Gemini Gems turn recurring tasks into one-click workflows | Mint\n\n# AI Tool of the Week: these Gemini Gems turn recurring tasks into one-click workflows\n\nJaspreet Bindra, Anuj Magazine\n\n2 min read 22 Aug 2026, 07:00 AM IST\n\nThe new Pre-Built Gemini Gems from Google streamline repetitive tasks by allowing users to save specific configurations for chatbots. (Pixabay)\n\nSumm"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-23",
+    "topic": "ai_small_business",
+    "title": "Shopify\u2019s New Flow 3.0 Automation Engine Is Forcing Merchants to Rebuild Their Ops Stack \u2013 Ecommerce Times",
+    "url": "https://ecommerce-times.com/shopifys-new-flow-3-0-automation-engine-is-forcing-merchants-to-rebuild-their-ops-stack-3/",
+    "snippet": "Shopify\u2019s New Flow 3.0 Automation Engine Is Forcing Merchants to Rebuild Their Ops Stack \u2013 Ecommerce Times\n\nSunday, August 23, 2026\n\nBreaking\n\nGoogle Shopping\u2019s AI-Powered Listings Are Forcing a Feed Overhaul for DTC Brands Shopify\u2019s Hydrogen 3.0 Is Forcing a Headless Commerce Reckoning Amazon\u2019s Rufus AI Is Changing How Sellers Win the Buy Box in 2026 AutoDS and Spocket Are Quietly Winning the Sup"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-23",
+    "topic": "ai_labs",
+    "title": "Our work on the hard questions about AI | Anthropic \\ Anthropic",
+    "url": "https://www.anthropic.com/path-to-hope?939688b5_page=3",
+    "snippet": "# Our work on the hard questions about AI | Anthropic \\ Anthropic\n\nPublished: 2026-08-23T05:57:20+00:00\nSource: anthropic.com (anthropic.com)\nLanguage: en\n\n## Story\n\nOur work on the hard questions about AI | Anthropic \\ Anthropic\n\nOur work on the hard questions about AI | Anthropic \\\\ Anthropic\n[Skip to main content](#main-content)[Skip to footer](#footer)\n[\n](/)\n[Try Claude](https://claude.ai/)"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-23",
+    "topic": "ai_labs",
+    "title": "Possible GPT-5.6 Sol routing mismatch: selected GPT-5.6 but server metadata shows GPT-5.5-mini - ChatGPT / Bugs - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/possible-gpt-5-6-sol-routing-mismatch-selected-gpt-5-6-but-server-metadata-shows-gpt-5-5-mini/1391818/1",
+    "snippet": "Possible GPT-5.6 Sol routing mismatch: selected GPT-5.6 but server metadata shows GPT-5.5-mini - ChatGPT / Bugs - OpenAI Developer Community\n...\n# Possible GPT-5.6 Sol routing mismatch: selected GPT-5.6 but server metadata shows GPT-5.5-mini \n\n Aug 22 \n\n 1 / 1 Aug 22 \n\n 1h ago \n\n## post by z17538239193 1 hour ago \n\n \n\n z17538239193 \n\n 1h \n\nHello everyone,\n...\nI am a ChatGPT Plus user. When I selec"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-23",
+    "topic": "ai_labs",
+    "title": "Codex limits spark frustration among subscribers - Codex - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/codex-limits-spark-frustration-among-subscribers/1390408/233",
+    "snippet": "Codex limits spark frustration among subscribers - Codex - OpenAI Developer Community\n\n 26 \n\n19\n\n 10 \n\n 8 \n\n 8 \n\n Aug 14 \n\n 207 / 216 Aug 22 \n\n 16m ago \n\n## post by anil.c1 1 day ago \n\n anil.c1 \n\n 1d \n\n> Update:\n> \n> The feedback seems to have worked!\n> \n> Tibo posted something on X. He said that it doesn\u2019t seem to be an overly serious issue, but that they\u2019re still investigating the situation. He "
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-23",
+    "topic": "ai_labs",
+    "title": "Last Windows Codex App Update Causing error sandbox - Codex - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/last-windows-codex-app-update-causing-error-sandbox/1391757/1",
+    "snippet": "Last Windows Codex App Update Causing error sandbox - Codex - OpenAI Developer Community\n\n# Last Windows Codex App Update Causing error sandbox \n\n## post by jhsn26 4 hours ago \n\n \n\n jhsn26 \n\n 1 4h \n\nThe latest Codex desktop update is causing an error in the sandbox, this message appears. I tested a read-only operation (Get-Location and git status) and the sandbox failed before running the command,"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-23",
+    "topic": "ai_labs",
+    "title": "I need to report a model routing issue / silent downgrade - ChatGPT / Bugs - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/i-need-to-report-a-model-routing-issue-silent-downgrade/1391776/1",
+    "snippet": "I need to report a model routing issue / silent downgrade - ChatGPT / Bugs - OpenAI Developer Community\n\n# I need to report a model routing issue / silent downgrade \n\n 2 \n\n 2 \n\n 2\n...\n1\n...\nIssue: Silent model downgrade / incorrect model routing\n\nPlan:Plus\n\nDescription: I selected / requested gpt-5-6-thinking, but the system is routing the response to gpt-5-5-mini.\n...\nEvidence:\n\n- The response it"
   }
 ]
