@@ -18562,5 +18562,223 @@
     "title": "I need to report a model routing issue / silent downgrade - ChatGPT / Bugs - OpenAI Developer Community",
     "url": "https://community.openai.com/t/i-need-to-report-a-model-routing-issue-silent-downgrade/1391776/1",
     "snippet": "I need to report a model routing issue / silent downgrade - ChatGPT / Bugs - OpenAI Developer Community\n\n# I need to report a model routing issue / silent downgrade \n\n 2 \n\n 2 \n\n 2\n...\n1\n...\nIssue: Silent model downgrade / incorrect model routing\n\nPlan:Plus\n\nDescription: I selected / requested gpt-5-6-thinking, but the system is routing the response to gpt-5-5-mini.\n...\nEvidence:\n\n- The response it"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-08-24",
+    "headline": "Anthropic quietly made computer use, browser use, skills, and the files API official this week. No flashy benchmark, just four things graduating from beta on the same day.",
+    "url": "archive/2026-08-24.html",
+    "posts": {
+      "linkedin": [
+        "Anthropic made computer use, skills, and the files API official this week.\n\nSame week, Microsoft published a study on the same class of tools. Best model in the test completed a task correctly on the first try about 65% of the time.\n\nAsk it to do that same task right 20 times in a row, and it dropped to 25%.\n\nSo agents are officially production ready. And they're still flaky under repetition. Both of those are true right now, at the same time.\n\nHere's the part nobody's saying loud enough: \"it worked once\" and \"it works\" are not the same claim. If you're building anything on agents right now, the second one is the only one that matters.\n\nHow many times have you actually tested the same task before trusting it?",
+        "Z.ai has always been the lab that just ships open weights. No drama, no delay.\n\nThis week they broke that pattern. GLM-5.3 launched, you can use it through their API today, but the download page says \"Coming Soon.\"\n\nThe reason is the actual story. The model got good at offensive security faster than they expected. So they're holding the weights back for a safety review before anyone can download and run it themselves.\n\nThat's a different kind of announcement than \"we shipped a new model.\" That's a lab admitting the thing got sharper than the plan accounted for.\n\nMost people will read the headline and move on. The interesting question is what happens in two weeks when that review is done, and what they decide is safe enough to release.",
+        "For two years, \"open weights\" in AI has come with an asterisk. Good, but not that good. Open, but a step behind.\n\nKimi K3 just tied for first on one of the main intelligence benchmarks. Fully open weight. No asterisk.\n\nThat matters more than the score itself. It means the gap between \"open source\" and \"frontier\" just got a lot smaller, which changes who gets to build on top of the best tools without a subscription gating them out.\n\nMost people chase brand names in AI. Which model is the popular one, which one's trending on their feed. The better move has always been picking what actually does the job.\n\nWould someone pay for the output either way? That's the only question worth asking."
+      ],
+      "threads": [
+        "Anthropic made computer use and skills official this week. Same week, a Microsoft study found the best agent only nails a task 20 times in a row about a quarter of the time.\n\nSo agents are \"production ready\" and still flaky. Both true at once.\n\nIf you're building on these tools, test the same task more than once before you trust it. Once isn't proof. It's a coin flip that landed your way.",
+        "Z.ai launched a new model this week and then didn't release the weights. Not because they lost the file. Because it got good at offensive security faster than they planned for.\n\nThat's a weirder headline than a normal launch. A lab building something and then quietly saying \"actually, hold on\" is a different signal than a lab that's just proud of a number.\n\nCurious what they decide is safe enough in two weeks.",
+        "There's a free tool now that tells you whether an AI agent can even understand your website. No login, just a URL.\n\nRan it in my head on half the small business sites I've worked on and I already know some of them would fail.\n\nWe spent years making sites for human eyes. Now there's a second reader, and it doesn't skim, it just gives up if the structure's wrong.\n\nWorth five minutes to go check your own."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-08-24",
+    "source": "The Koerner Office",
+    "title": "Your First Customer, Testing Ideas Cheap, and Copying What Works",
+    "url": "https://www.youtube.com/watch?v=3Yi2Ir3iOM8",
+    "video_id": "3Yi2Ir3iOM8"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-08-24",
+    "source": "AI Daily Brief",
+    "title": "The Future of AI and Work",
+    "url": "https://www.youtube.com/watch?v=m8x-gYMYFCg",
+    "video_id": "m8x-gYMYFCg"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-24",
+    "topic": "model_releases",
+    "title": "Z.AI releases GLM 5.3 with 1M context window \u00b7 PulseAugur",
+    "url": "https://pulseaugur.com/cluster/214597-z-ai-releases-glm-5-3-with-1m-context-window",
+    "snippet": "Z.ai delays GLM-5.3 release for safety review amid AI security concerns \u00b7 2 sources tracked \u00b7 PulseAugur\n...\nZ.ai has launched GLM-5.3, a new open-weight model designed for complex coding, agent tasks, and cybersecurity analysis. Unlike its predecessor GLM-5.2, Z.ai is temporarily withholding GLM-5.3's weights for a two-week safety review due to its unexpectedly rapid development of offensive secu"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-24",
+    "topic": "model_releases",
+    "title": "Kimi K3: The Open-Weight Model That Finally Hit Frontier | byteiota",
+    "url": "https://byteiota.com/kimi-k3-open-weight-frontier-model/",
+    "snippet": "Open-weight models have been chasing frontier performance for two years. On July 27, 2026, Moonshot AI closed the gap. Kimi K3, a 2.8-trillion-parameter Mixture-of-Experts model, became the first open-weight model to reach the top of the Artificial Analysis Intelligence Index\u2014 tied for first with the closed-source flagships. If you have been waiting for \u201copen weights but actually good,\u201d this is th"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-24",
+    "topic": "model_releases",
+    "title": "HiDream.ai Advances Its Native Omni-Modal Roadmap with HiDream-O1-World, an Interactive World Model",
+    "url": "https://www.dagangnews.com/article/english/hidreamai-advances-its-native-omni-modal-roadmap-hidream-o1-world-interactive-world-model-73407",
+    "snippet": "BEIJING, CHINA - Media OutReach Newswire - 24 August 2026 - HiDream.ai today launched HiDream-O1-World, a native omni-modal interactive world model that lets users generate complete, explorable 3D worlds from a single text prompt, image, or interactive control.The model combines three core capabilities \u2014 roaming, editing, and interaction \u2014 and is built on HiDream.ai's self-developed UiT (Unified T"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-24",
+    "topic": "model_releases",
+    "title": "GLM-5.3 is open \u2014 except Z.ai is holding the weights back, and the reason is the story - DEV Community",
+    "url": "https://dev.to/frankchu/glm-53-is-open-except-zai-is-holding-the-weights-back-and-the-reason-is-the-story-le8",
+    "snippet": "GLM-5.3 is open \u2014 except Z.ai is holding the weights back, and the reason is the story - DEV Community\n...\nZ.ai launched GLM-5.3 on August 14, positioned for complex coding, long-running agent tasks, and \u2014 the part that caught my eye \u2014 cybersecurity analysis. It's the successor to GLM-5.2, which shipped MIT-licensed open weights and a million-token context window. And here's the detail that turned"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-24",
+    "topic": "model_releases",
+    "title": "Ox Alpha Stealth: Anonymous LLM Rivals Top Models on Benchmarks",
+    "url": "https://www.webpronews.com/ox-alpha-stealth-anonymous-llm-rivals-top-models-on-benchmarks/",
+    "snippet": "The release of Ox Alpha Stealth, an anonymous high-performing large language model available via OpenRouter, has sparked intense discussion in AI communities. It rivals top models on benchmarks while its hidden creator raises questions about origins, safety, and accountability. This unusual approach highlights growing diversity in AI development.\n...\nThe release of a new large language model calle"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-24",
+    "topic": "product_releases",
+    "title": "Introducing Slack Code: Agentic Coding for Teams",
+    "url": "https://www.salesforce.com/introducing-slack-code/",
+    "snippet": "Introducing Slack Code: Agentic Coding for Teams | Salesforce\n\nCode\n\nView\n\nCanvas\n\nComparing`master`\u2192`update-cta-button-color`\n\n1commit\n\n3 fileschanged\n\n+12\u22129\n\nstyles/cta-button.css\n\n```\n12.cta-button {13   display: inline-block;14   font-weight: 700;15   padding: 12px 22px;16    background: #7c3aed;17    background: #611f69;18   color: #ffffff;19   border-radius: 8px;20}21 22.cta-button:hover {23"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-24",
+    "topic": "product_releases",
+    "title": "Signia Introduces MaX, Powered by Acoustic Intelligence\u2122: World's First AI Hearing Aid Platform with 4 DNNs",
+    "url": "https://www.prnewswire.com/news-releases/signia-introduces-max-powered-by-acoustic-intelligence-worlds-first-ai-hearing-aid-platform-with-4-dnns-302857407.html",
+    "snippet": "# Signia Introduces MaX, Powered by Acoustic Intelligence\u2122: World's First AI Hearing Aid Platform with 4 DNNs\n...\nSignia Introduces MaX, Powered by Acoustic Intelligence\u2122: World's First AI Hearing Aid Platform with 4 DNNs Accessibility Statement Skip Navigation\n...\nLYNGE, Denmark, Aug. 24, 2026 /PRNewswire/ -- Hearing aid innovator Signia, part of WSA, today introduced Signia Multi-adaptive Xperie"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-24",
+    "topic": "product_releases",
+    "title": "Vercel Introduces 'Is Agentic', a Free Agent-Readiness Scoring Tool That Audits Public Websites Using Ora's 100+ Checks - MarkTechPost",
+    "url": "https://www.marktechpost.com/2026/08/23/vercel-introduces-is-agentic-a-free-agent-readiness-scoring-tool-that-audits-public-websites-using-oras-100-checks/",
+    "snippet": "Vercel Introduces 'Is Agentic', a Free Agent-Readiness Scoring Tool That Audits Public Websites Using Ora's 100+ Checks - MarkTechPost\n...\nHome Editors Pick Agentic AI Vercel Introduces \u2018Is Agentic\u2019, a Free Agent-Readiness Scoring Tool That Audits Public...\n...\nVercel has released Is Agentic, a public tool that scores how readily AI agents can discover, access, understand, and use a website. Scans"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-24",
+    "topic": "product_releases",
+    "title": "Claude Agent Stack Goes GA: Computer Use, Skills, Files | byteiota",
+    "url": "https://byteiota.com/claude-computer-use-skills-files-api-ga/",
+    "snippet": "Claude Agent Stack Goes GA: Computer Use, Skills, Files | byteiota\n...\nAnthropic's four agent tools move to GA on August 20, 2026\n...\nOn August 20, Anthropic quietly shipped something more durable than a model release. Computer use, browser use, the Skills API, and the Files API all moved from beta to generally available on the same day. No benchmark drops, no new reasoning scores to argue about \u2014"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-24",
+    "topic": "product_releases",
+    "title": "IBM and the USTA Introduce New AI-Powered Fan Experiences for 2026 US Open",
+    "url": "https://www.prnewswire.com/news-releases/ibm-and-the-usta-introduce-new-ai-powered-fan-experiences-for-2026-us-open-302857814.html",
+    "snippet": "IBM and the USTA Introduce New AI-Powered Fan Experiences for 2026 US Open Accessibility Statement Skip Navigation\n\nNEW YORK, Aug. 24, 2026 /PRNewswire/ -- IBM (NYSE: IBM) and the United States Tennis Association (USTA) today announced new and enhanced AI-powered fan features coming to USOpen.org and the US Open app for this year's tournament. Three new, enhanced AI-powered innovations are designe"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-24",
+    "topic": "ai_agents",
+    "title": "UiPath Introduces UiPath Maestro Flow, Delivering Developer-First Orchestration for Coding Agents",
+    "url": "https://whatech.com/og/development/blog/1017668-uipath-introduces-uipath-maestro-flow-delivering-developer-first-orchestration-for-coding-agents.html",
+    "snippet": "# UiPath Introduces UiPath Maestro Flow, Delivering Developer-First Orchestration for Coding Agents\n\nPublished: 2026-08-24T09:11:35+10:00\nSource: whatech.com (whatech.com)\nLanguage: en\n\n## Story\n\nNew orchestration capability lets builders use any coding agent to build, run, and govern complete business processes\u2014no rewrite required to ship\n\nUiPath, Inc. (NYSE: PATH), a global leader in business or"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-24",
+    "topic": "ai_agents",
+    "title": "Nutanix Gives AI Agents Controlled Access to Hybrid Cloud Ops -  HostingJournalist.com",
+    "url": "https://hostingjournalist.com/news/nutanix-gives-ai-agents-controlled-access-to-hybrid-cloud-ops",
+    "snippet": "# Nutanix Gives AI Agents Controlled Access to Hybrid Cloud Ops\n...\nNutanix released an open source MCP server connecting AI assistants to governed hybrid cloud operations through its Prism v4 APIs.\n...\nNutanix has released an open source Model Context Protocol server for its Cloud Platform, giving enterprise AI agents and coding tools a governed route into hybrid cloud operations. The software co"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-24",
+    "topic": "ai_agents",
+    "title": "Microsoft introduces ThinkingBox to assess AI agent reliability",
+    "url": "https://cryptobriefing.com/microsoft-thinkingbox-ai-agent-reliability/",
+    "snippet": "Microsoft introduces ThinkingBox to assess AI agent reliability\n...\n# Microsoft introduces ThinkingBox to assess AI agent reliability\n...\nNew open-source framework reveals a troubling gap between AI agents that can solve a task once and those that can do it consistently\n...\nMicrosoft has released ThinkingBox, an open-source sandbox framework designed to test whether AI agents can actually be trust"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-24",
+    "topic": "ai_agents",
+    "title": "Kunlun Tech Unveils TianGong 3.1 with Enhanced Canvas Interface and Advanced Multi-Agent Processing Capability - xix.ai",
+    "url": "https://xix.ai/ainews/kunlun-tech-unveils-tiangong-31-with-enhanced-canvas-interface-and-advanced-multiagent-processing-capability.html",
+    "snippet": "Kunlun Tech Unveils TianGong 3.1 with Enhanced Canvas Interface and Advanced Multi-Agent Processing Capability - xix.ai\n...\nveils Tian\n...\nong 3.1 with Enhanced Canvas Interface and Advanced Multi-Agent Processing Capability\n...\nTech Unveils Tian\n...\n.1 with Enhanced Canvas Interface and Advanced Multi\n...\nKunlun Tech has officially rolled out Skywork 3.1, which is now accessible in both domestic "
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-24",
+    "topic": "ai_small_business",
+    "title": "Inbound Marketing Automation: Examples, Best Practices and Tools",
+    "url": "https://okara.ai/blog/inbound-marketing-automation",
+    "snippet": "Inbound marketing automation is the third option. It is a system that helps you attract, engage, and retain customers without hiring a full marketing department. This guide covers 9 practical examples, best practices, and an honest look at tools.\n...\nInbound marketing automation\n...\nminimal manual intervention.\n...\nInbound marketing automation uses triggers, workflows, and AI agents to attract tra"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-24",
+    "topic": "ai_small_business",
+    "title": "Serial entrepreneur and bestselling author Ferhat Kacmaz launches HUNDREDHANDS in Dubai | ZAWYA",
+    "url": "https://www.zawya.com/en/press-release/companies-news/serial-entrepreneur-and-bestselling-author-ferhat-kacmaz-launches-hundredhands-in-dubai-464732",
+    "snippet": "Serial entrepreneur and bestselling author Ferhat Kacmaz launches HUNDREDHANDS in Dubai | ZAWYA\n\nFerhat Kacmaz, founder of HUNDREDHANDS. Image courtesy: HUNDREDHANDS/Michael Tomas\n\nCreate Bookmark\n\n# Serial entrepreneur and bestselling author Ferhat Kacmaz launches HUNDREDHANDS in Dubai\n\n## AI employees for SMEs, managed entirely through WhatsApp\n\nPress Release\n\nFollow on Google News\n\nDUBAI, Unite"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-24",
+    "topic": "ai_small_business",
+    "title": "AI Is Replacing the Agency Model: How Outcome-Based AI Is Turning Services Into Automated Businesses - Diaspora Digital Media (DDM News) - Nigeria Breaking News, Africa and World News and Updates",
+    "url": "https://diasporadigitalmedia.com/ai-is-replacing-the-agency-model-how-outcome-based-ai-is-turning-services-into-automated-businesses/",
+    "snippet": "AI Is Replacing the Agency Model: How Outcome-Based AI Is Turning Services Into Automated Businesses - Diaspora Digital Media (DDM News) - Nigeria Breaking News, Africa and World News and Updates\n\nFacebook Instagram X Vimeo Youtube\n\nSign in\n\nSign in\n\nWelcome!Log into your account\n\nyour username\n\nyour password\n\nForgot your password?\n\nPassword recovery\n\nRecover your password\n\nyour email\n\nSearch\n\n# A"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-24",
+    "topic": "ai_small_business",
+    "title": "How Nigeria\u2019s Ahavaplan is making event-planning more efficient - Disrupt Africa",
+    "url": "https://disruptafrica.com/2026/08/23/how-nigerias-ahavaplan-is-making-event-planning-more-efficient/",
+    "snippet": "How Nigeria\u2019s Ahavaplan is making event-planning more efficient - Disrupt Africa\n\nClose Menu\n\nFacebook X (Twitter) Instagram\n\nNigeria\u2019s Ahavaplan is helping event planners run their businesses from one place.\n\nFounded by Christine Imoukhuede, Ahavaplan gives event planners a permanent link that clients use to reach them, a pipeline that tracks every inquiry from first contact to booking, invoicing"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-24",
+    "topic": "ai_small_business",
+    "title": "How Uncharted Builds Braver Creative Work, Global From Day One, With Luma | Luma",
+    "url": "https://lumalabs.ai/case-studies/uncharted",
+    "snippet": "How Uncharted Builds Braver Creative Work, Global From Day One, With Luma | Luma\n\nBuilt to work with brands worldwide from day oneGlobal\n\nReplaced a scattered multi-tool workflow1 Platform\n\nChallenge\n\n## Juggling tools while trying to work global from day one\n\nUncharted set out to be a different kind of agency from the start: an independent, global creative business working with scaling brands aro"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-24",
+    "topic": "ai_labs",
+    "title": "Plus users silently routed to GPT-5.5-mini when selecting GPT-5.6 Sol (Network Payload Proof) - ChatGPT / Bugs - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/plus-users-silently-routed-to-gpt-5-5-mini-when-selecting-gpt-5-6-sol-network-payload-proof/1392077/1",
+    "snippet": "Plus users silently routed to GPT-5.5-mini when selecting GPT-5.6 Sol (Network Payload Proof) - ChatGPT / Bugs - OpenAI Developer Community\n...\n# Plus users silently routed to GPT-5.5-mini when selecting GPT-5.6 Sol (Network Payload Proof)\n...\nI wanted to bring attention to a severe backend routing issue affecting Plus users. For the past few days, whenever I select any model, the responses have b"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-24",
+    "topic": "ai_labs",
+    "title": "ChatGPT Web requests GPT-5.6 Sol but server resolves GPT-5.5-mini on Plus accounts - ChatGPT / Bugs - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/chatgpt-web-requests-gpt-5-6-sol-but-server-resolves-gpt-5-5-mini-on-plus-accounts/1391809/7",
+    "snippet": "ChatGPT Web requests GPT-5.6 Sol but server resolves GPT-5.5-mini on Plus accounts - ChatGPT / Bugs - OpenAI Developer Community\n...\nI have an independent Plus-account result that may help narrow this down.\n...\nI was also seeing a GPT-5.6 Thinking request resolve incorrectly in one browser environment. Instead of deleting chats or changing account settings, I tested the same account in a completel"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-24",
+    "topic": "ai_labs",
+    "title": "GPT-5.5 Mini Routing Issue \u2014 How to Fix It - ChatGPT / Bugs - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/gpt-5-5-mini-routing-issue-how-to-fix-it/1392047",
+    "snippet": "GPT-5.5 Mini Routing Issue \u2014 How to Fix It - ChatGPT / Bugs - OpenAI Developer Community\n\n# GPT-5.5 Mini Routing Issue \u2014 How to Fix It \n\n Aug 23 \n\n 1 / 2 Aug 23 \n\n 10m ago \n\n## post by dodarebaz2014 46 mins ago \n\n \n\n dodarebaz2014 \n\n 1h \n\nFirst, sign out of ChatGPT on all devices except your computer.\n\nThen, on your computer, follow these steps:\n...\n1. Delete all your chats.\n2. Reset your Workspac"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-24",
+    "topic": "ai_labs",
+    "title": "5.6 pro model has been automatically downgraded and routed to the 5.5 mini model since its release - ChatGPT / Bugs - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/5-6-pro-model-has-been-automatically-downgraded-and-routed-to-the-5-5-mini-model-since-its-release/1387941/47",
+    "snippet": "5.6 pro model has been automatically downgraded and routed to the 5.5 mini model since its release - ChatGPT / Bugs - OpenAI Developer Community\n...\nSame issue just happened to me, can we please get a fix\n...\nhaha time for a lawsuit. I had Extra high analyze headers when it was reverting to mini and then a moment later i actually had the real Pro.\n...\ni was able to get real Pro to work. here is th"
   }
 ]
