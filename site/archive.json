@@ -18780,5 +18780,223 @@
     "title": "5.6 pro model has been automatically downgraded and routed to the 5.5 mini model since its release - ChatGPT / Bugs - OpenAI Developer Community",
     "url": "https://community.openai.com/t/5-6-pro-model-has-been-automatically-downgraded-and-routed-to-the-5-5-mini-model-since-its-release/1387941/47",
     "snippet": "5.6 pro model has been automatically downgraded and routed to the 5.5 mini model since its release - ChatGPT / Bugs - OpenAI Developer Community\n...\nSame issue just happened to me, can we please get a fix\n...\nhaha time for a lawsuit. I had Extra high analyze headers when it was reverting to mini and then a moment later i actually had the real Pro.\n...\ni was able to get real Pro to work. here is th"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-08-25",
+    "headline": "The AI assessment ladder is the cheat code everyone's ignoring.",
+    "url": "archive/2026-08-25.html",
+    "posts": {
+      "linkedin": [
+        "Everyone shipped agent orchestration this week.\n\nLexisNexis rebuilt their legal assistant. Smartcat dropped an AI Chief of Staff. UiPath launched Maestro Flow. All the same shape: a coordination layer that picks the right AI specialist for the task, sequences their work, and reports back.\n\nAnd I kept thinking: this is just... how humans organize work.\n\nYou don't need one genius. You need one thing directing five competent people. That's team structure. We've built this pattern for decades. Now AI needs it.\n\nThe pattern everyone's launching today, we already knew worked.\n\nThe question isn't \"should we orchestrate?\" It's \"why did it take until 2026 to make it explicit?\"",
+        "Corey Ganim just made $10K/month selling AI sound boring.\n\nFree mini assessment (foot in door). $999 paid assessment (position yourself). $1-2K retainer (recurring money). Text 50 people you already know. Four paying clients later, you're there.\n\nCost? Twenty bucks a month for Claude.\n\nMargins? Ninety-eight percent.\n\nTools built? Zero.\n\nMeanwhile, everyone's shipping agent orchestration platforms, multi-step workflows, and governance layers. All real. All valuable. All solving different problems.\n\nBut Corey's solving the actual problem: business owners don't know where to start with AI. They're drowning in work. They need help now, not a platform to eventually help them.\n\nSimple wins when it solves the right problem.\n\nWhat problem are you solving, and how simple is your answer?",
+        "Thomson Reuters just proved the frontier model arms race is over.\n\nThey spent $40 million over two years building an LLM trained on Westlaw, Practical Law, and Reuters data. Not training from scratch on the internet. Training on content they own, for problems they understand.\n\nThe frontier model race costs billions. TR's defense? We own the content. We own the tools. We own the expertise no one else has.\n\nAnd they're right.\n\nThe next era isn't about who has more parameters or more compute. It's about who has the defensible data and domain knowledge to make a model actually work in their space.\n\nThat's not a scale game. That's a moat game.\n\nThe question isn't \"can I build an LLM?\" It's \"do I own something no one else does?\"\n\nIf the answer is yes, you've got something real."
+      ],
+      "threads": [
+        "Everyone launched agent orchestration this week. And I realized: this is just team structure that finally got explicit.\n\nYou don't need one genius. You need one coordinator directing five specialists who are each really good at one thing.\n\nWe built this pattern for decades. Now AI does it.\n\nThe pattern everyone's shipping today, we already knew worked.\n\nThe question is: why did it take until 2026 to make it obvious?",
+        "Corey Ganim's making $10K/month selling AI and it's almost boring how simple it is.\n\nFree assessment. $999 paid assessment. $1-2K retainer. Text 50 people you already know. Get four paying clients. That's it.\n\nNo platform. No agents. $20 cost.\n\nNinety-eight percent margins.\n\nEveryone's shipping orchestration layers and multi-model systems. All valuable. But Corey solved the actual problem: business owners are drowning and they don't know where to start.\n\nSimple wins when it's the right answer.",
+        "Small businesses already automated their entire back office and most people didn't notice.\n\nLassie just raised $35M. 800+ businesses using it. Meta's shipping AI tools for SMB advertisers. Talking Website is handling customer service. Pedal's handling growth marketing.\n\nThe adoption curve isn't smooth. It's already vertical.\n\nEnterprises are debating governance frameworks. Small businesses are running themselves with AI.\n\nBy the time big business figures out the rules, small business has already changed the game."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-08-25",
+    "source": "Corey Ganim",
+    "title": "The laziest way to make $10K/month selling AI",
+    "url": "https://www.youtube.com/watch?v=KCPR3S6Drhk",
+    "video_id": "KCPR3S6Drhk"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-08-25",
+    "source": "The Entrepreneur's Studio",
+    "title": "Building a Billion-Dollar Industry Before It Existed | Blake Lawrence",
+    "url": "https://www.youtube.com/watch?v=9Umrp4vnTKA",
+    "video_id": "9Umrp4vnTKA"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-25",
+    "topic": "model_releases",
+    "title": "OpenAI Brings GPT-5.6 Model Family to AWS\u2019s Kiro \u2013 Unite.AI",
+    "url": "https://www.unite.ai/openai-brings-gpt-5-6-model-family-to-awss-kiro/",
+    "snippet": "OpenAI Brings GPT-5.6 Model Family to AWS\u2019s Kiro \u2013 Unite.AI\n...\nOpenAI\u2019s GPT-5.6 model family is now available inside Kiro, the spec-driven development environment built by Amazon Web Services. The August 24, 2026 announcement puts all three members of OpenAI\u2019s current flagship series \u2014 Sol, Terra, and Luna \u2014 into the tool AWS pitches as its answer to prompt-and-iterate coding assistants, with the"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-25",
+    "topic": "model_releases",
+    "title": "Alibaba launches Wan3.0 video model with 30-second generation and document input \u00b7 TechNode",
+    "url": "https://technode.com/2026/08/24/alibaba-launches-wan3-0-video-model-with-30-second-generation-and-document-input/",
+    "snippet": "Alibaba launches Wan3.0 video model with 30-second generation and document input \u00b7 TechNode\n...\nAlibaba Cloud has officially launched Wan3.0, a video-generation model that can create clips of up to 30 seconds and accept files including DOC, XLS, PPT, PDF and Markdown documents as inputs.\n...\nThe model had been available in public beta since early August. Alibaba Cloud said it has continued to impr"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-25",
+    "topic": "model_releases",
+    "title": "Generalist AI Releases GEN-1.5: A Robot Foundation Model That Learns New Tasks From One 3\u201312 Second Demo - MarkTechPost",
+    "url": "https://www.marktechpost.com/2026/08/24/generalist-ai-releases-gen-1-5-a-robot-foundation-model-that-learns-new-tasks-from-one-3-12-second-demo/",
+    "snippet": "Generalist AI Releases GEN-1.5: A Robot Foundation Model That Learns New Tasks From One 3\u201312 Second Demo - MarkTechPost\n...\nHome Editors Pick Agentic AI Generalist AI Releases GEN-1.5: A Robot Foundation Model That Learns New Tasks...\n...\nGeneralist AI has released GEN-1.5, a robot foundation model that learns a new physical task from a single demonstration. Drop 3\u201312 seconds of sensorimotor data "
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-25",
+    "topic": "model_releases",
+    "title": "AI Model Ox Alpha Is Free, Beats Claude Fable, and Nobody Knows Who Built It - Decrypt",
+    "url": "https://decrypt.co/376396/mysterious-ai-model-ox-alpha",
+    "snippet": "AI Model Ox Alpha Is Free, Beats Claude Fable, and Nobody Knows Who Built It - Decrypt"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-25",
+    "topic": "model_releases",
+    "title": "Thomson Reuters Launches Thomson, Its Own Proprietary LLM Trained on Westlaw and Practical Law Content",
+    "url": "https://www.lawnext.com/2026/08/thomson-reuters-launches-thomson-its-own-proprietary-llm-trained-on-westlaw-and-practical-law-content.html",
+    "snippet": "# Thomson Reuters Launches Thomson, Its Own Proprietary LLM Trained on Westlaw and Practical Law Content\n...\nIt certainly has\n...\nno secret that Thomson Reuters has been building its own proprietary large language model. In fact, in\n...\nJune interview with TR\u2019s CEO Steve Hasker, he talked openly about it, and just a few weeks ago,\n...\nreported on TR\u2019s release of preliminary\n...\nbest general-purpos"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-25",
+    "topic": "product_releases",
+    "title": "Zide Opens Public Beta of Its Native AI Development Workspace -- Code, Git, Issues, and CI in One App",
+    "url": "https://www.prnewswire.com/news-releases/zide-opens-public-beta-of-its-native-ai-development-workspace--code-git-issues-and-ci-in-one-app-302858181.html",
+    "snippet": "Zide Opens Public Beta of Its Native AI Development Workspace -- Code, Git, Issues, and CI in One App Accessibility Statement Skip Navigation\n...\nNative desktop application brings the full development workflow \u2014 projects, git, issues, pull requests, CI, terminals, and AI agents \u2014 into one native workspace\n...\nSCOTTSDALE, Ariz., Aug. 24, 2026 /PRNewswire/ -- Zide today announced its public beta at "
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-25",
+    "topic": "product_releases",
+    "title": "Caddi Launches an AI Agent That Builds and Governs a Firm's Back-Office Agents",
+    "url": "https://www.prnewswire.com/news-releases/caddi-launches-an-ai-agent-that-builds-and-governs-a-firms-back-office-agents-302857872.html",
+    "snippet": "Caddi Launches an AI Agent That Builds and Governs a Firm's Back-Office Agents Accessibility Statement Skip Navigation\n...\nSEATTLE, Aug. 24, 2026 /PRNewswire/ -- Caddi today launched an AI agent that builds and governs a firm's AI agents, aimed at the industries with the largest back offices: wealth management firms, law firms and insurance companies.\n...\nIntroducing Caddi - the agent that builds "
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-25",
+    "topic": "product_releases",
+    "title": "Google Play Books Book Insights has launched - Good e-Reader",
+    "url": "https://goodereader.com/blog/e-book-news/google-play-books-book-insights-has-launched",
+    "snippet": "Google Play Books Book Insights has launched - Good e-Reader\n...\n# Google Play Books Book Insights has launched\n...\nGoogle Play Book Insights has launched for thousands of select English titles. Google did not say if or when the tool will expand to non-English books.\n...\nPublished on 24 August\n...\n026\n...\nBook Insights is an AI-powered reading companion built with Gemini inside Google Play Books. "
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-25",
+    "topic": "product_releases",
+    "title": "Helium 10 Launches Helium, The Commerce AI Agent that helps run your Amazon Business | Markets Insider",
+    "url": "https://markets.businessinsider.com/news/stocks/helium-10-launches-helium-the-commerce-ai-agent-that-helps-run-your-amazon-business-1036487015",
+    "snippet": "Helium 10 Launches Helium, The Commerce AI Agent that helps run your Amazon Business | Markets Insider\n\n# Helium 10 Launches Helium, The Commerce AI Agent that helps run your Amazon Business\n...\nIRVINE, Calif., Aug. 24, 2026 (GLOBE NEWSWIRE) -- Helium 10, part of the Pacvue family, announced today the launch of Helium, entering the next era of Amazon brand management where AI automates manual work"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-25",
+    "topic": "product_releases",
+    "title": "Reveal AI: Agentic AI for eDiscovery Case Building",
+    "url": "https://www.revealdata.com/blog/reveal-introduces-reveal-ai-agentic-ediscovery-from-preservation-to-case-development",
+    "snippet": "# Reveal introduces Reveal AI: agentic eDiscovery from preservation to case development\n...\nAugust 24, 2026\n...\nIf you run eDiscovery through Reveal for your team, you have been working with our AI for years. It helps you review documents, surface patterns, and speed up analysis. But the work of shaping a case still lands on you: pulling the threads together, moving between tools, directing every "
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-25",
+    "topic": "ai_agents",
+    "title": "UiPath Introduces UiPath Maestro Flow, Delivering Developer-First Orchestration for Coding Agents - Smart Solutions World",
+    "url": "https://smartsolutionsworld.com/uipath-introduces-uipath-maestro-flow-delivering-developer-first-orchestration-for-coding-agents/",
+    "snippet": "UiPath Introduces UiPath Maestro Flow, Delivering Developer-First Orchestration for Coding Agents - Smart Solutions World\n...\n# UiPath Introduces UiPath Maestro Flow, Delivering Developer-First Orchestration for Coding Agents\n...\nUiPath, Inc., a global leader in business orchestration and automation, today announced UiPath Maestro\u2122 Flow, a developer-first orchestration canvas combining the speed o"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-25",
+    "topic": "ai_agents",
+    "title": "NVIDIA AVO Boosts Autonomous AI Agent Performance on Long Tasks, TechGig",
+    "url": "https://techgig.com/news/ai/nvidia-avo-boosts-autonomous-ai-agent-performance-on-long-tasks/133458351",
+    "snippet": "NVIDIA AVO Boosts Autonomous AI Agent Performance on Long Tasks, TechGig\n...\n# NVIDIA AVO Boosts Autonomous AI Agent Performance on Long Tasks\n\n NVIDIA's Agentic Variation Operators (AVO) research project introduces a general-purpose AI agent architecture for sustained autonomous operation. It excels in complex software engineering and GPU-kernel optimization, addressing limitations of frontier la"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-25",
+    "topic": "ai_agents",
+    "title": "LexisNexis Unveils 'Legal Intelligence Engine,' Rebuilding Prot\u00e9g\u00e9 Around Dynamic Agentic Orchestration | LawSites",
+    "url": "https://www.lawnext.com/2026/08/lexisnexis-unveils-legal-intelligence-engine-rebuilding-protege-around-dynamic-agentic-orchestration.html",
+    "snippet": "LexisNexis Unveils 'Legal Intelligence Engine,' Rebuilding Prot\u00e9g\u00e9 Around Dynamic Agentic Orchestration | LawSites\n...\nLexisNexis Legal & Professional today announced what it is calling the next generation of Lexis+ with Prot\u00e9g\u00e9, its generative AI legal assistant, unveiling new agentic capabilities designed to enable legal professionals to move from an initial idea to review-ready work product in "
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-25",
+    "topic": "ai_agents",
+    "title": "Introducing the AI Chief of Staff for Enterprise Content | Smartcat",
+    "url": "https://www.smartcat.com/blog/ai-chief-of-staff/",
+    "snippet": "# Introducing the AI Chief of Staff for Enterprise Content\n...\nSmartcat is shipping its AI Chief of Staff, a single point of coordination for every AI coworker on the Smartcat platform. Enterprise teams spent the past year acquiring AI tools faster than they could operationalize them. Each tool arrived with its own interface, its own trigger, and its own position in the workflow, and the work of c"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-25",
+    "topic": "ai_small_business",
+    "title": "How Steijn Pelle built Lassie to help small businesses run themselves using AI",
+    "url": "https://a16zbuild.substack.com/p/how-steijn-pelle-built-lassie-to",
+    "snippet": "How Steijn Pelle built Lassie to help small businesses run themselves using AI\n\n# How Steijn Pelle built Lassie to help small businesses run themselves using AI\n\n### 800+ small businesses across the country are using Lassie to run themselves, and Steijn just raised another $35M to take Lassie to the next level\n\nKatie Kirsch and Cola Gahm\n\nAug 24, 2026\n\nAI is getting rapidly adopted by Fortune 500 "
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-25",
+    "topic": "ai_small_business",
+    "title": "SH Media Launches Talking Website, An AI Chatbot Service For Small Businesses Built On A One-Time Fee Model - Web And IT News",
+    "url": "https://www.webanditnews.com/2026/08/24/sh-media-launches-talking-website-an-ai-chatbot-service-for-small-businesses-built-on-a-one-time-fee-model/",
+    "snippet": "SH Media Launches Talking Website, An AI Chatbot Service For Small Businesses Built On A One-Time Fee Model - Web And IT News\n\nAI agents are a huge success for my clients, so I decided to offer it to more businesses.\n\nDigital marketing consultant Sascha Hoffmann from SH-Media.co has launched Talking-Website.com, a done-for-you AI chatbot service for small businesses that replaces the standard agen"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-25",
+    "topic": "ai_small_business",
+    "title": "Meta AI integrations give SMB advertisers a shortcut from insights to execution",
+    "url": "https://www.emarketer.com/content/meta-ai-integrations-give-smb-advertisers-shortcut-insights-execution",
+    "snippet": "Meta AI integrations give SMB advertisers a shortcut from insights to execution\n\n# Solutions\n\n# Resources\n\n# Topics\n\n# About\n\n# Meta AI integrations give SMB advertisers a shortcut from insights to execution\n\nThe news: Meta is rolling out new AI tools aimed at small- and medium-sized businesses (SMBs), pushing its AI deeper into SMB operations and positioning Meta AI as an always-on business advis"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-25",
+    "topic": "ai_small_business",
+    "title": "Pearmill Launches Pedal Performance, Extending Its AI-Native Growth Model to Small and Mid-Size Businesses",
+    "url": "https://www.prweb.com/releases/pearmill-launches-pedal-performance-extending-its-ai-native-growth-model-to-small-and-mid-size-businesses-302857985.html",
+    "snippet": "Pearmill Launches Pedal Performance, Extending Its AI-Native Growth Model to Small and Mid-Size Businesses Accessibility Statement Skip Navigation\n\nNew company brings Pearmill's performance methodology to a broader market through AI-native delivery, vertical expertise and a transparent, productized model.\n\nNEW YORK, Aug. 24, 2026 /PRNewswire-PRWeb/ -- Pearmill, the AI-native creative and performan"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-25",
+    "topic": "ai_small_business",
+    "title": "Pixel Narratives Brings AI Implementation Services to Mississippi Businesses",
+    "url": "https://www.einpresswire.com/article/934966947/pixel-narratives-brings-ai-implementation-services-to-mississippi-businesses",
+    "snippet": "Pixel Narratives Brings AI Implementation Services to Mississippi Businesses \n\n There were 940 press releases posted in the last 24 hours and 483,717 in the last 365 days. \n\n# Pixel Narratives Brings AI Implementation Services to Mississippi Businesses\n\nNews Provided By Pixel Narratives August 24, 2026, 14:00 GMT \n\nJordan Maruszak, founder of Pixel Narratives in Madison, Mississippi\n\nMadison-based"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-25",
+    "topic": "ai_labs",
+    "title": "Mistral x HUMAIN  | Mistral AI",
+    "url": "https://mistral.ai/news/mistral-x-humain",
+    "snippet": "Mistral x HUMAIN | Mistral AI\n...\n# Mistral x HUMAIN\n...\nOver the past few weeks, we have announced several important steps to expand sovereign AI by increasing access to local infrastructure capacity. Earlier this summer, we announced an expanded partnership with Microsoft to increase compute capacity in Europe. In early August, we introduced European Compute Units, a structure designed to bring "
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-25",
+    "topic": "ai_labs",
+    "title": "How developers build AI for good with Gemma 4",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/winning-entries-gemma-4-good-challenge/",
+    "snippet": "look at the winning entries from the Gemma 4 Good Challenge.\n...\n# How developers build AI for good with Gemma 4\n...\nWe\u2019re announcing the winners of the Gemma 4 Good Challenge, which asked developers to build AI solutions to challenges facing people around the world.\n...\nThis content is generated by Google AI. Generative AI is experimental\n...\nMaking the most of AI models requires brilliant engine"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-25",
+    "topic": "ai_labs",
+    "title": "[VIDEO] Tibo on What\u2019s next for OpenAI Codex - Codex - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/video-tibo-on-what-s-next-for-openai-codex/1392324",
+    "snippet": "[VIDEO] Tibo on What\u2019s next for OpenAI Codex - Codex - OpenAI Developer Community\n\n# [VIDEO] Tibo on What\u2019s next for OpenAI Codex \n\n## post by PaulBellow 1 hour ago \n\n \n\n PaulBellow \n\n 2 1h \n\n> OpenAI\u2019s Tibo joins me to break down what\u2019s next for Codex, ultra-fast AI, recursive self-improvement, and the future of personal AI agents. We also get into OpenAI vs. Anthropic, why Codex usage is explodi"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-25",
+    "topic": "ai_labs",
+    "title": "Codex limits spark frustration among subscribers - Codex - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/codex-limits-spark-frustration-among-subscribers/1390408/256",
+    "snippet": "Codex limits spark frustration among subscribers - Codex - OpenAI Developer Community\n\n 26 \n\n20\n\n 12 \n\n 10 \n\n 9 \n\n Aug 14 \n\n 227 / 229 Aug 24 \n\n 1h ago \n\n## post by merefield 2 days ago \n\n merefield Regular \n\n 2d \n\n> Has OpenAI officially said anything yet about these complaints\n\nYes:\n...\n#### Tibo\n...\n@thsottiaux\n...\nIt's me again. I come bearing great news. First of all, we have hit 20M active u"
   }
 ]
