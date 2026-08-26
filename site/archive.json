@@ -18998,5 +18998,231 @@
     "title": "Codex limits spark frustration among subscribers - Codex - OpenAI Developer Community",
     "url": "https://community.openai.com/t/codex-limits-spark-frustration-among-subscribers/1390408/256",
     "snippet": "Codex limits spark frustration among subscribers - Codex - OpenAI Developer Community\n\n 26 \n\n20\n\n 12 \n\n 10 \n\n 9 \n\n Aug 14 \n\n 227 / 229 Aug 24 \n\n 1h ago \n\n## post by merefield 2 days ago \n\n merefield Regular \n\n 2d \n\n> Has OpenAI officially said anything yet about these complaints\n\nYes:\n...\n#### Tibo\n...\n@thsottiaux\n...\nIt's me again. I come bearing great news. First of all, we have hit 20M active u"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-08-26",
+    "headline": "Two companies shipped basically the same idea today.",
+    "url": "archive/2026-08-26.html",
+    "posts": {
+      "linkedin": [
+        "Two companies shipped the same idea this week and didn't know it.\n\nWix launched Symphony, a team of AI agents that runs your business and gives you a morning rundown like a manager checking in.\n\nSabi launched an AI chief of staff you manage over text messages. No app. No login. No prompt engineering course.\n\nNeither one is a chatbot. Both are trying to be a hire.\n\nThat's the shift. For two years the pitch was here's a powerful tool, go figure out what to ask it. Now it's here's someone on your team, go delegate.\n\nSmall business owners never wanted a tool. They wanted the work off their plate. That's it. That's the whole model.\n\nWould someone pay for an employee that texts them the important stuff and handles the rest? I think a lot of people already are.\n\nIf you're building anything for small business owners right now, the question isn't what can my AI do. It's would a real employee handle it this way. If the answer's no, rebuild it.",
+        "Rocket Money's new AI agent doesn't have an app.\n\nRowan watches your spending, texts you when it finds a way to save, and you just reply like you're texting a friend. It renegotiates your bills. Cancels subscriptions. Sets up savings transfers. All from a thread you already have open.\n\nEverybody's been racing to build the better dashboard. Better charts, better AI chat window bolted onto the side.\n\nRowan skipped all of it and went straight to the interface people already trust: text messages.\n\nThat's not a small decision. A dashboard asks you to open an app and think about your money. A text meets you where you already are, mid-scroll, between everything else.\n\nThe best AI interface for most people isn't a new interface. It's the one they never had to learn.\n\nWhat's the one part of your business you'd actually want to run over text instead of another tab?",
+        "IBM gave away a reasoning model this week. Free. Apache license. Runs coding agents out of the box.\n\nThat's Granite 4.2. Three sizes, 3B up to 30B parameters, and the two bigger ones spent training time inside actual sandboxed environments. Writing code. Running a terminal. Searching the web. Getting corrected when they got it wrong.\n\nNot simulated. Actually doing the thing, then graded on whether it worked.\n\nHere's why that matters if you're not IBM's target customer. The gap between expensive frontier model and good enough open model keeps shrinking, and it's shrinking on a license that lets you build a product on top of it without asking permission.\n\nTwo years ago the moat was access to a good model. Now the moat is what you build around one.\n\nMarried to an idea is a great way to get forgotten. Same logic applies to whatever model you built your product on."
+      ],
+      "threads": [
+        "Wix's new AI system has a daily morning meeting. The agents literally summarize what they did overnight and tell you what needs your attention before you've had coffee.\n\nThat's the detail that gets copied everywhere in the next year. Not the automation. The check-in.\n\nPeople don't distrust AI because it can't do the work. They distrust it because they can't see what it did.\n\nGive it a morning meeting and suddenly it's not a black box, it's an employee.",
+        "There's a new AI chief of staff you run entirely over text. No dashboard. No app to open. You just text it like you'd text an assistant.\n\nI keep seeing the same pattern this week. Nobody's winning by building a better interface. They're winning by skipping the interface completely and going straight to the thread someone already has open.\n\nThe dashboard was never the point. The dashboard was the compromise before this was possible.",
+        "Rumor going around that OpenAI just finished pretraining a 10 trillion parameter model. Unconfirmed. Came from one X post. Might be nothing.\n\nBut sit with the fact that this counts as normal news now. A frontier lab might've just quietly finished their biggest training run since GPT-4o and the reaction is a shrug and a screenshot.\n\nWe got numb to the scale of this stuff fast. Two years ago that headline breaks the internet for a week."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-08-26",
+    "source": "The Koerner Office",
+    "title": "I Did Something Insane. Here Are the Businesses I Found in It",
+    "url": "https://www.youtube.com/watch?v=3a9wiJXt-5k",
+    "video_id": "3a9wiJXt-5k"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-08-26",
+    "source": "AI Daily Brief",
+    "title": "The AI Model Tier List",
+    "url": "https://www.youtube.com/watch?v=SHPIEDynd9I",
+    "video_id": "SHPIEDynd9I"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-26",
+    "topic": "model_releases",
+    "title": "Granite 4.2 brings native reasoning to enterprise agents - IBM Research",
+    "url": "https://research.ibm.com/blog/introducing-granite-4-2",
+    "snippet": "Granite 4.2 brings native reasoning to enterprise agents - IBM Research\n...\nLLMs are increasingly expected to complete tasks, not just generate responses. This can-do attitude is baked into IBM\u2019s latest Granite language and speech models.\n...\nToday, IBM is releasing its updated Granite 4.2 languages models. Available in 3B, 8B, and 30B parameter sizes, Granite 4.2 is purpose-built for the agentic "
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-26",
+    "topic": "model_releases",
+    "title": "IBM Releases Granite 4.2 Reasoning Models in Three Sizes | Horizon Reports",
+    "url": "https://horizonreports.org/article/ibm-releases-granite-42-reasoning-models-in-three-sizes",
+    "snippet": "IBM Releases Granite 4.2 Reasoning Models in Three Sizes | Horizon Reports\n...\n# IBM Releases Granite 4.2 Reasoning Models in Three Sizes\n...\nThe Apache 2.0-licensed models range from 3B to 30B parameters and include native tool calling plus a thinking switch.\n...\nIBM released Granite 4.2 on August 25, 2026, its first family of dense, decoder-only reasoning large language models in 3B, 8B, and 30B"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-26",
+    "topic": "model_releases",
+    "title": "Qwen3.8-27B: Max-class open VL on Hugging Face",
+    "url": "https://ccleaks.com/news/qwen3-8-27b-vision-agent-hf-aug-2026",
+    "snippet": "Qwen3.8-27B: Max-class open VL on Hugging Face\n...\n# Qwen3.8-27B: Max-class open VL on Hugging Face\n...\nHub createdAt 5 Aug 2026 08:22 UTC, lastModified and GitHub news 14 Aug: Qwen/Qwen3.8-27B, 27B dense VL, Apache 2.0, ungated, native 262,144, thinking on by default. Not DeepSeek V4 Flash, not TIPS v1.\n...\nThe Hugging Face model card for Qwen/Qwen3.8-27B is Apache 2.0, pipeline_tag image-text-to"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-26",
+    "topic": "model_releases",
+    "title": "OpenAI reportedly completes pretraining run 'Bel' with over 10 trillion parameters",
+    "url": "https://cryptobriefing.com/openai-bel-pretraining-10-trillion-parameters/",
+    "snippet": "OpenAI reportedly completes pretraining run 'Bel' with over 10 trillion parameters\n...\n# OpenAI reportedly completes pretraining run \u2018Bel\u2019 with over 10 trillion parameters\n...\nThe rumored model would represent OpenAI's first major pretraining milestone since GPT-4o and could serve as a foundation for future AGI-capable systems\n...\nOpenAI has reportedly completed a massive new pretraining run coden"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-26",
+    "topic": "model_releases",
+    "title": "IBM\u2019s Granite 4.2 Models Learn to Think and Act Inside Environments \u2013 Unite.AI",
+    "url": "https://www.unite.ai/ibms-granite-4-2-models-learn-to-think-and-act-inside-environments/",
+    "snippet": "IBM\u2019s Granite 4.2 Models Learn to Think and Act Inside Environments \u2013 Unite.AI\n...\nIBM has released Granite 4.2, its first family of dense, decoder-only reasoning language models, in three sizes: 3B, 8B, and 30B parameters. Announced on August 25, 2026 with weights published under the Apache 2.0 license, the release gives every Granite model a switchable thinking mode and sends the two larger size"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-26",
+    "topic": "product_releases",
+    "title": "Perplexity partners with Nvidia to launch Portable Computer, a fully local AI agent with zero token costs | VentureBeat",
+    "url": "https://venturebeat.com/infrastructure/perplexity-partners-with-nvidia-to-launch-portable-computer-a-fully-local-ai-agent-with-zero-token-costs",
+    "snippet": "Perplexity partners with Nvidia to launch Portable Computer, a fully local AI agent with zero token costs | VentureBeat\n...\nPerplexity is launching Portable Computer today, a version of its agentic\"Computer\" platform that runs entirely on hardware users already own \u2014 starting with Nvidia's DGX Spark desktop supercomputer and Linux machines equipped with Nvidia RTX GPUs.\n...\nThe launch, developed i"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-26",
+    "topic": "product_releases",
+    "title": "Introducing Gemini Enterprise for Financial Services | Google Cloud Blog",
+    "url": "https://cloud.google.com/blog/products/ai-machine-learning/introducing-gemini-enterprise-for-financial-services/",
+    "snippet": "Introducing Gemini Enterprise for Financial Services | Google Cloud Blog\n...\n# Now introducing Gemini Enterprise for Financial Services\n...\nAugust 25, 2026\n...\nToday, we are delivering on this vision with Gemini Enterprise for Financial Services, bringing Google\u2019s agentic AI directly into the workflows of capital markets and corporate banking.\n...\nBringing Gemini Enterprise into the workflows of c"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-26",
+    "topic": "product_releases",
+    "title": "Rocket Money's Rowan Rewrites What AI Can Do in Personal Finance",
+    "url": "https://www.prnewswire.com/news-releases/rocket-moneys-rowan-rewrites-what-ai-can-do-in-personal-finance-302859522.html",
+    "snippet": "Rocket Money's new AI financial assistant, developed with Anthropic, takes money management out of apps and dashboards and puts it into conversational texts\n...\nDETROIT, Aug. 25, 2026 /PRNewswire/ -- Rocket Money, part of Rocket Companies (NYSE: RKT), today launched Rowan, an AI agent that goes beyond analysis, monitoring consumer's finances and even acting on their behalf, all through simple text"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-26",
+    "topic": "product_releases",
+    "title": "Cursor Releases Origin as an Agent-Native Alternative to GitHub - InfoQ",
+    "url": "https://www.infoq.com/news/2026/08/cursor-origin-alternative-github/",
+    "snippet": "Cursor Releases Origin as an Agent-Native Alternative to GitHub - InfoQ\n...\nInfoQ Homepage News Cursor Releases Origin as an Agent-Native Alternative to GitHub\n...\n# Cursor Releases Origin as an Agent-Native Alternative to GitHub\n...\nAI coding agent Cursor has launched Origin, a git based code hosting platform embedded inside its AI-powered editor, positioning it as an alternative to GitHub for te"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-26",
+    "topic": "product_releases",
+    "title": "Introducing Gemini Enterprise for Legal | Google Cloud Blog",
+    "url": "https://cloud.google.com/blog/products/ai-machine-learning/introducing-gemini-enterprise-for-legal/",
+    "snippet": "Introducing Gemini Enterprise for Legal | Google Cloud Blog\n...\n# Now introducing Gemini Enterprise for Legal\n...\nAugust 25, 2026\n...\nToday we're bringing that to legal practice with Gemini Enterprise for Legal, part of our new suite of purpose-built industry solutions.\n...\nBringing Gemini Enterprise to your legal practice"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-26",
+    "topic": "ai_agents",
+    "title": "Private Preview: DigitalOcean Managed Agents Runtime Services | DigitalOcean",
+    "url": "https://www.digitalocean.com/blog/managed-agents-runtime-services-private-preview",
+    "snippet": "Private Preview: DigitalOcean Managed Agents Runtime Services | DigitalOcean\n...\n# Private Preview: DigitalOcean Managed Agents Runtime Services\n...\nAI agents are helping developers, teams, and businesses do more: writing and executing code, conducting research, and running dynamic workflows across systems. But that ability is often bounded by where they run. Close the laptop, and the work stops t"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-26",
+    "topic": "ai_agents",
+    "title": "Aderant Launches Early Access to AI Agents Built to Enhance Law Firm Operations - Aderant",
+    "url": "https://www.aderant.com/news-pr/aderant-launches-early-access-to-ai-agents/",
+    "snippet": "Law firms can now put purpose-built AI agents to work on the operational tasks that slow them down \u2014 from billing to collections \u2014 through Agent Center, built on Stridyn and powered by MADDI.\n...\nATLANTA, GA \u2014 August 25, 2026 \u2014 Aderant, a leading global provider of legal business management software, today opened Early Access to the Aderant Agent Center, giving clients the first hands-on opportuni"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-26",
+    "topic": "ai_agents",
+    "title": "hermes-agent: The New Growing AI Agent by NousResearch | AIToolly",
+    "url": "https://aitoolly.com/ai-news/article/2026-08-26-nousresearch-unveils-hermes-agent-a-new-framework-for-ai-agents-that-grow-with-users",
+    "snippet": "# NousResearch Unveils Hermes-Agent: A New Framework for AI Agents That Grow With Users\n...\nNousResearch, a prominent collective in the open-source AI space, has released a new project titled 'hermes-agent.' Described as 'an agent that grows with you,' this initiative marks a significant step toward personalized and adaptive artificial intelligence. Building on the reputation of the Hermes series "
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-26",
+    "topic": "ai_agents",
+    "title": "UiPath Maestro Flow: Your Coding Agent Can Now Go Straight to Production | byteiota",
+    "url": "https://byteiota.com/uipath-maestro-flow-your-coding-agent-can-now-go-straight-to-production/",
+    "snippet": "UiPath Maestro Flow: Your Coding Agent Can Now Go Straight to Production | byteiota\n...\nBuilding the agent is no longer the hard part. Getting it to production is. That single friction point is why 88% of enterprise AI agent pilots stall before they ever reach users\u2014 not because the model failed, but because there is no reliable path from \u201cit works in my dev environment\u201d to \u201cit runs reliably at sc"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-26",
+    "topic": "ai_small_business",
+    "title": "Wix Introduces Symphony, An Easy Way For Local Businesses To Use AI Agents",
+    "url": "https://www.searchenginejournal.com/wix-introduces-symphony-an-easy-way-for-local-businesses-to-use-ai-agents/587093/",
+    "snippet": "# Wix Introduces Symphony, An Easy Way For Local Businesses To Use AI Agents\n\nAuthor: Roger Montti\nPublished: 2026-08-26T09:17:38+00:00\nSource: searchenginejournal.com (searchenginejournal.com)\nLanguage: en\n\n## Story\n\nWix Introduces Symphony, An Easy Way For Local Businesses To Use AI Agents\n\nWix announced their new AI platform Symphony that enables small and medium-sized businesses to deploy AI a"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-26",
+    "topic": "ai_small_business",
+    "title": "Sabi Launches an AI Chief of Staff for Small-Business Founders Who Run Their Companies by Text Message | MarketMinute",
+    "url": "https://www.marketminute.com/article/acnnewswire-2026-8-25-sabi-launches-an-ai-chief-of-staff-for-small-business-founders-who-run-their-companies-by-text-message",
+    "snippet": "REDPRESSWIRE- Sabi today opened its founder waitlist for a new kind of AI personal assistant: an AI chief of staff built for small-business founders who want to delegate real work over a simple text message instead of learning another complicated software. Unlike reactive AI chat tools, Sabi is a proactive AI executive assistant that can start handling busy work in Outlook, Microsoft 365, Google W"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-26",
+    "topic": "ai_small_business",
+    "title": "Everything monday AI Can Do in 2026: The Full Guide",
+    "url": "https://monday.com/blog/ai-agents/everything-monday-ai-can-do/",
+    "snippet": "Everything monday AI Can Do in 2026: The Full Guide Skip to main content Skip to footer\n\n# Everything monday AI can do in 2026: Sidekick, Agents, Vibe and MCP\n\n\u202222 min read\n\nTry Our AI Agents Contact sales\n\nExplore article topics\n\nAI in most companies consists of single features like chatbots that function well individually but don\u2019t work across departments or act on the bigger picture. With monda"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-26",
+    "topic": "ai_small_business",
+    "title": "The 20 Best AI Receptionists for Service Businesses in 2026",
+    "url": "https://www.startuphub.ai/ai-news/insights/2026/best-ai-receptionists-service-businesses-2026",
+    "snippet": "The 20 Best AI Receptionists for Service Businesses\u2026 | StartupHub.ai\n\n- StartupHub.ai: AI Ecosystem Hub\n\nDiscover\n\nBrowse\n\nIntelligence\n\nTools\n\nContent & Video\n\nMarketing & Growth\n\nResearch & Data\n\nCompany\n\nAccount\n\n- Sign In\n\n# The 20 Best AI Receptionists for Service Businesses in 2026\n\nThe AI receptionist market has split: horizontal platforms that cover any business, and vertical specialists b"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-26",
+    "topic": "ai_small_business",
+    "title": "Neno raises \u20ac6.6m to fix Europe\u2019s broken SME accounting",
+    "url": "https://fintech.global/2026/08/26/neno-raises-e6-6m-to-fix-europes-broken-sme-accounting/",
+    "snippet": "Neno raises \u20ac6.6m to fix Europe's broken SME accounting\n\nSearch\n\n- LOG IN\n\nWelcome! Log into your account\n\nForgot your password?\n\nRecover your password\n\nNeno, the Dutch FinTech building an AI-native workspace to automate accounting for small and medium-sized enterprises, has raised \u20ac6.6m in seed funding to expand its platform across Europe.\n\nThe round was led by AlleyCorp, the New York-based early"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-26",
+    "topic": "ai_labs",
+    "title": "Funding better evaluations of AI\u2019s impact on wellbeing \\ Anthropic",
+    "url": "https://www.anthropic.com/news/wellbeing-research-grants",
+    "snippet": "# Funding better evaluations of AI\u2019s impact on wellbeing \\ Anthropic\n...\nFunding better evaluations of AI\u2019s impact on wellbeing \\ Anthropic\n...\n# Funding better evaluations of AI\u2019s impact on wellbeing\n...\nAug 25, 2026\n...\nWe\u2019re launching a $5 million grant program to fund independent research into how AI impacts users\u2019 wellbeing. The program will provide direct funding, access to our models, and t"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-26",
+    "topic": "ai_labs",
+    "title": "Jalape\u00f1o\u2019s first results show industry-leading speed and efficiency in AI inference",
+    "url": "https://openai.com/index/jalapeno-first-results/",
+    "snippet": "# Jalape\u00f1o\u2019s first results show industry-leading speed and efficiency in AI inference\n...\nSince announcing Jalape\u00f1o, OpenAI\u2019s first custom inference chip, we have been testing the chip and the system built around it. The results show a significant performance advance: Jalape\u00f1o can serve more AI work per unit of power while also returning responses more quickly. Jalape\u00f1o delivers both higher throug"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-26",
+    "topic": "ai_labs",
+    "title": "The full stack behind abundant intelligence | OpenAI",
+    "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence/",
+    "snippet": "# The full stack behind abundant intelligence | OpenAI\n...\nPublished:\n...\n14:\n...\nThe full stack behind abundant intelligence | OpenAI\n...\nAugust 25, 2026\n...\n# The full stack behind abundant intelligence\n...\nProgress in AI compounds fastest when the entire system improves together. That is how I think about OpenAI\u2019s compute strategy: one integrated system spanning data centers and chips, frontier"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-26",
+    "topic": "ai_labs",
+    "title": "The WebMCP Challenge is here - Announcements - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/the-webmcp-challenge-is-here/1392582/1",
+    "snippet": "The WebMCP Challenge is here - Announcements - OpenAI Developer Community\n...\n# The WebMCP Challenge is here\n...\nWebMCP is an experimental open standard that lets web apps expose tools that agents can use directly on the page, helping them complete tasks faster and more reliably.\n...\nOpenAI has teamed up with Google Chrome, Cloudflare, Shopify, Vercel, Render, and Netlify for a 10-day hackathon.\n."
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-26",
+    "topic": "ai_labs",
+    "title": "Build Agent Ready Websites with ChatGPT - Announcements - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/build-agent-ready-websites-with-chatgpt/1392588",
+    "snippet": "Build Agent Ready Websites with ChatGPT - Announcements - OpenAI Developer Community\n...\n# Build Agent Ready Websites with ChatGPT\n...\nUse WebMCP to give AI agents a direct way to work with your website:\n...\nBuild agent-ready sites with WebMCP\n...\nSite tools are ChatGPT\u2019s implementation of the proposed WebMCP standard. With WebMCP, a website can offer useful actions directly to an AI agent alongsi"
   }
 ]
