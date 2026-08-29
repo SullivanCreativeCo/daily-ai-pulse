@@ -19484,5 +19484,231 @@
     "title": "Expert Intelligence in Gemini Notebook",
     "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/expert-intelligence-leading-sources/",
     "snippet": "# Expert Intelligence: a new way for you to engage with trusted content\n...\nExpert Intelligence lets you incorporate insights from leading authors, publications, and domain experts, including from titles you\u2019ve purchased, directly into Gemini Notebook, with more products from across Google joining soon.\n...\nWe\u2019re committed to providing you with trusted, high-quality information. Today, we're takin"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-08-29",
+    "headline": "Anthropic just gave AI agents a way to run actual lab equipment.",
+    "url": "archive/2026-08-29.html",
+    "posts": {
+      "linkedin": [
+        "A guy walked away from $8M raised and a $500K SaaS because his side hustle beat it in six months.\n\nHe didn't build a course. He built a ladder.\n\nIn-person AI workshop first. Not because it pays the most. Because it's where he watches a room and hears what people actually get stuck on.\n\nSomebody says \"oh man, if only this could just do X for me automatically.\" That's not small talk. That's the brief for his next $25-50K build.\n\nMost people selling AI help start with the thing they want to sell. He starts with the thing the room is already frustrated by, and lets that pick the offer.\n\nWould someone pay for that? I think someone would pay for that. The workshop is basically a paid discovery call where 20 people show up instead of one.\n\nWhat's the room you're already in that you haven't turned into a ladder yet?",
+        "Stanley Druckenmiller got called out for publishing an AI-written op-ed. His response wasn't sorry.\n\nHe said \"bro, of course I used AI.\" Then compared it to using a calculator for math.\n\nThe Wall Street Journal backed him up too. Their line was that what matters is whether the argument is genuinely his, not whether he typed every word.\n\nI think that's mostly right. Not all the way right.\n\nAI is great in the middle. Research, organizing, drafting, cleaning a rough idea into something readable. Where it falls apart is the two ends. The actual idea has to come from you. And the \"is this true, do I actually believe this\" check at the end has to come from you too.\n\nDruckenmiller skipped the ending. The piece reads like AI because nobody went back through it and made it sound like a person again.\n\nThat's the real line. Not \"did you use AI.\" Did you show up at the start and the finish.",
+        "A company just raised $240 million to be the AI marketing and tech team for barbershops and local restaurants.\n\nOwner calls itself the AI CMO and CTO for local business. Goldman Sachs led the round. 100 million Americans have already ordered from a business running on it.\n\nThe idea isn't new. Small businesses have never been able to afford a marketing team, a web developer, and someone answering the phone at 9pm. That gap has existed for decades.\n\nWhat changed is the tool finally got cheap enough to fill it.\n\nTwo smaller companies launched almost the same pitch this same week. Everybody's circling the same problem right now, which usually means one of two things. Either the market's big enough for a bunch of winners, or it's about to get real crowded real fast.\n\nEither way, the owner of that shop down the street just got more options than they had six months ago. That part's good, no matter who wins."
+      ],
+      "threads": [
+        "Guy I heard about today walked away from an $8M-raised SaaS because six months of part-time AI consulting made more money than seven years of the company did.\n\nHis move wasn't a better product. It was starting with a room full of people instead of a sales call. He runs a workshop, listens for the \"oh man if only,\" and that becomes his next build.\n\nThe workshop was never the product. It was the listening.",
+        "Stanley Druckenmiller got dragged for publishing an AI-written op-ed. His response was basically \"yeah, and?\"\n\nHonestly I get it. I write with AI constantly. But there's a difference between using it to organize your thinking and using it instead of your thinking.\n\nThe tell is always the ending. Did you go back and ask \"do I actually believe this,\" or did you just hit publish because it sounded smart.\n\nThat's the part AI can't do for you.",
+        "Anthropic just taught Claude to run microscopes and robotic arms.\n\nNot talk about them. Actually adjust the lasers, actually run the experiment. One standard interface, any machine that takes commands.\n\nWe watched this exact jump happen with software already. First AI could describe the work. Then it could do the work on a screen. Now it's reaching past the screen into stuff you can touch.\n\nFeels small today. Won't feel small in a year."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-08-29",
+    "source": "Corey Ganim",
+    "title": "He made $50K teaching companies AI (full tutorial)",
+    "url": "https://www.youtube.com/watch?v=Nzy1a-IDzFA",
+    "video_id": "Nzy1a-IDzFA"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-08-29",
+    "source": "AI Daily Brief",
+    "title": "5 Rules for AI Writing",
+    "url": "https://www.youtube.com/watch?v=L3zN4nvV2rs",
+    "video_id": "L3zN4nvV2rs"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-29",
+    "topic": "model_releases",
+    "title": "Tencent Releases and Open-Sources Tencent Hy4 preview - Tencent",
+    "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
+    "snippet": "Tencent Releases and Open-Sources Tencent Hy4 preview - Tencent Skip to main content\n...\nRanked among the top tier of open-source models, Hy4 preview is built for real-world productivity tasks, delivering outstanding performance across coding, office work, and scientific research\n...\nTencent has released and open-sourced Tencent Hy4 preview, a next-generation large language model with 770B total p"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-29",
+    "topic": "model_releases",
+    "title": "Tencent open-sources Hy4 preview with 770B parameters and a 1M-token context \u00b7 TechNode",
+    "url": "https://technode.com/2026/08/28/tencent-open-sources-hy4-preview-with-770b-parameters-and-a-1m-token-context/",
+    "snippet": "Tencent open-sources Hy4 preview with 770B parameters and a 1M-token context \u00b7 TechNode\n...\nTencent Hunyuan released and open-sourced Hy4 preview on Aug. 28. The next-generation large language model has 770 billion total parameters, 49 billion activated parameters and a context window exceeding 1 million tokens. It is available through the Chinese and international versions of WorkBuddy and CodeBu"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-29",
+    "topic": "model_releases",
+    "title": "Z.ai and Alibaba Release Nearly Identical AI Models",
+    "url": "https://overcentral.com/en/z-ai-alibaba-identical-ai-models-78326/",
+    "snippet": "Z.ai and Alibaba Release Nearly Identical AI Models\n...\nZ.ai's GLM-5.3-Flash\n...\nAlibaba's Qwen\n...\nTwo frontier open-weight AI models landed within 24 hours of each other this week, and their architectural blueprints read like photocopies. Z.ai released GLM-5.3-Flash, a 320-billion-parameter multimodal mixture-of-experts (MoE) model with 18 billion active parameters. Alibaba\u2019s Qwen team followed "
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-29",
+    "topic": "model_releases",
+    "title": "Z.ai opens GLM-5.3 weights for coding and vulnerability hunting",
+    "url": "https://runtimewire.com/article/zai-releases-glm-5-3-open-weights-coding-cyber-defense",
+    "snippet": "Z.ai opens GLM-5.3 weights for coding and vulnerability hunting\n...\nGLM-5.3 turns Z.ai's claimed advances in long-running coding and exploit-chain reasoning into downloadable infrastructure, with a license that leaves most deployment controls to users.\n...\nZ.ai released the weights for GLM-5.3 on August 28th, turning its latest agentic coding and cybersecurity model into a package developers can d"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-29",
+    "topic": "model_releases",
+    "title": "Zai Releases GLM 5 3 Flash AI Model After Stealth Trial",
+    "url": "https://www.fakta.co/zai-releases-glm-53-flash-model",
+    "snippet": "Zai Releases GLM 5 3 Flash AI Model After Stealth Trial\n...\n# Zai Releases GLM 5 3 Flash AI Model After Stealth Trial\n...\nArtificial intelligence developer Z. ai officially released the code for its open-weight GLM-5.3-Flash model on August 27, 2026, following a viral stealth trial operating entirely on domestic Chinese hardware chips.\n...\nThe system previously debuted last week under the codename"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-29",
+    "topic": "product_releases",
+    "title": "The Restaurant Menu Just Got a Coach: \u201cAptite Launches the First AI That Tells You What to Order, Not Just What You Ate\u201d",
+    "url": "https://markets.financialcontent.com/malvern-online/article/getnews-2026-8-29-the-restaurant-menu-just-got-a-coach-aptite-launches-the-first-ai-that-tells-you-what-to-order-not-just-what-you-ate",
+    "snippet": "The Restaurant Menu Just Got a Coach: \u201cAptite Launches the First AI That Tells You What to Order, Not Just What You Ate\u201d\n\n# The Restaurant Menu Just Got a Coach: \u201cAptite Launches the First AI That Tells You What to Order, Not Just What You Ate\u201d\n\n By: Get News \n\nAugust 28, 2026 at 23:10 PM EDT\n...\nThat small, unglamorous moment \u2014 the gap between a nutrition goal and an actual menu \u2014 is the entire r"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-29",
+    "topic": "product_releases",
+    "title": "Nihilent Launches nSEPIA, an AI-Powered Emotion Detection and Emotional Wellness App \u2013 ThePrint \u2013 ANIPressReleases",
+    "url": "https://theprint.in/ani-press-releases/nihilent-launches-nsepia-an-ai-powered-emotion-detection-and-emotional-wellness-app/3027637/",
+    "snippet": "Nihilent Launches nSEPIA, an AI-Powered Emotion Detection and Emotional Wellness App \u2013 ThePrint \u2013 ANIPressReleases\n...\nHome ANI Press Releases Nihilent Launches nSEPIA, an AI-Powered Emotion Detection and Emotional Wellness App\n...\n# Nihilent Launches nSEPIA, an AI-Powered Emotion Detection and Emotional Wellness App\n...\n28 August, 2026 04:31 pm IST\n...\nMr.L.C.Singh ,Founder & Executive Chairman, "
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-29",
+    "topic": "product_releases",
+    "title": "Perplexity and NVIDIA Launch Portable Computer AI Tool",
+    "url": "https://www.startupresearcher.com/news/perplexity-and-nvidia-launch-portable-computer-for-local-ai",
+    "snippet": "# Perplexity and NVIDIA Launch Portable Computer AI Tool\n...\nPerplexity has launched Portable Computer, a new version of its AI agent platform designed to run primarily on local hardware rather than relying on cloud infrastructure. Developed in collaboration with NVIDIA, the system allows users to analyze files, work with private codebases, and execute complex AI workflows while keeping sensitive "
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-29",
+    "topic": "product_releases",
+    "title": "Claude in Chrome Is Now Generally Available \u2014 But a Security Flaw Still Isn't Fixed | Smart Market Insight",
+    "url": "https://smartmarketinsight.com/blog/claude-in-chrome-general-availability",
+    "snippet": "Anthropic took its browser-controlling AI agent out of beta on August 26, 2026, opening Claude in Chrome to every paid Claude plan instead of the 1,000-person Max-only pilot it launched with a year earlier. The extension can now click, type, and fill out forms across your open tabs on its own, and Anthropic says a year of red-teaming has pushed the odds of a hijack down close to zero. Independent "
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-29",
+    "topic": "ai_agents",
+    "title": "Huawei Cloud CodeArts Agent Now Available across Asia Pacific, Bringing Agentic AI to Software Development",
+    "url": "https://www.prnewswire.com/apac/news-releases/huawei-cloud-codearts-agent-now-available-across-asia-pacific-bringing-agentic-ai-to-software-development-302862642.html",
+    "snippet": "Huawei Cloud CodeArts Agent Now Available across Asia Pacific, Bringing Agentic AI to Software Development Accessibility Statement Skip Navigation\n...\nSINGAPORE, Aug. 28, 2026 /PRNewswire/ -- On August 28, Huawei Cloud CodeArts Agent was officially released for commercial use in Asia Pacific markets, with its Basic and Professional editions moving from public beta to general availability for Huawe"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-29",
+    "topic": "ai_agents",
+    "title": "Anthropic previews MHS standard for AI agents that operate machines - SiliconANGLE",
+    "url": "https://siliconangle.com/2026/08/27/anthropic-previews-mhs-standard-for-ai-agents-that-operate-machines/",
+    "snippet": "Anthropic previews MHS standard for AI agents that operate machines - SiliconANGLE\n...\n### Anthropic previews MHS standard for AI agents that operate machines\n...\nAnthropic PBC today previewed a standard that makes it easier for artificial intelligence agents to control machines such as microscopes.\n...\nThe Model Hardware Standard, or MHS, is the fruit of a collaboration between the Claude develop"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-29",
+    "topic": "ai_agents",
+    "title": "Anthropic unveils new framework allowing AI agents to operate physical devices | The Star",
+    "url": "https://www.thestar.com.my/tech/tech-news/2026/08/28/anthropic-unveils-new-framework-allowing-ai-agents-to-operate-physical-devices",
+    "snippet": "Anthropic unveils new framework allowing AI agents to operate physical devices | The Star\n...\n# Anthropic unveils new framework allowing AI agents to operate physical devices\n...\nAug 27 (Reuters) - Anthropic \u2060on Thursday rolled out a \u2060research preview of \"Model Hardware Standard\", a \u200cframework for AI agents to operate physical devices in scientific research and advanced manufacturing.\n...\nThe MHS "
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-29",
+    "topic": "ai_agents",
+    "title": "UiPath Maestro Flow: Orchestration for Coding Agents in Production | byteiota",
+    "url": "https://byteiota.com/uipath-maestro-flow-orchestration-for-coding-agents-in-production/",
+    "snippet": "Seventy-eight percent of enterprise AI agent pilots never reach production. The agents demo well, the budgets get approved, and then the project quietly stalls somewhere between \u201cit works on my machine\u201d and \u201cit needs an audit trail, role-based access, and a way to not fall over when the SAP API times out.\u201d UiPath launched Maestro Flow on August 19 to attack that gap directly \u2014 a developer-first or"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-29",
+    "topic": "ai_agents",
+    "title": "Meta and University of Illinois develop EvoHarness-RL, a self-evolving runtime layer for AI agents",
+    "url": "https://cryptobriefing.com/meta-evoharness-rl-ai-agents/",
+    "snippet": "# Meta and University of Illinois develop EvoHarness-RL, a self-evolving runtime layer for AI agents\n...\nThe new framework nearly doubles AI agent success rates on complex multi-step tasks by teaching models to build and manage their own external memory systems\n...\nResearchers from Meta AI and the University of Illinois Urbana-Champaign have published a new paper introducing EvoHarness-RL, a train"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-29",
+    "topic": "ai_small_business",
+    "title": "How to use AI tools for small businesses in 2026",
+    "url": "https://www.godaddy.com/resources/skills/how-to-use-ai-for-small-business",
+    "snippet": "AI tools for small businesses are software applications that automate tasks, generate content, analyze data, and streamline day-to-day operations. They can simplify repetitive work so you can focus your energy on serving customers and growing your business.\n...\nHowever, a long list of AI tools doesn't make choosing easier. This guide goes beyond a flat tool roundup to help you identify the right p"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-29",
+    "topic": "ai_small_business",
+    "title": "ValueStreamAI Expands AI Services for Small and Mid-Sized Businesses Across Automation, AI, and Custom Software",
+    "url": "https://www.prweb.com/releases/valuestreamai-expands-ai-services-for-small-and-mid-sized-businesses-across-automation-ai-and-custom-software-302861375.html",
+    "snippet": "ValueStreamAI Expands AI Services for Small and Mid-Sized Businesses Across Automation, AI, and Custom Software Accessibility Statement Skip Navigation\n\nThe U.S. and U.K. firm covers the full path from AI strategy to production systems, including autonomous agents, agentic systems, and custom applications, with every engagement opening with a diagnosis of where the business loses the most time and"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-29",
+    "topic": "ai_small_business",
+    "title": "GO Agency AI Launches 24/7 AI Employee Platform for SMBs Press Services",
+    "url": "https://pr.enewspf.com/article/GO-Agency-AI-Launches-247-AI-Employee-Platform-for-SMBs/6a91ade589f506000219ada2",
+    "snippet": "GO Agency AI has launched a 24/7 AI employee platform built specifically for small and medium businesses, delivering automated multi-channel engagement across phone calls, social media direct messages, and customer reviews without requiring businesses to hire additional staff.\n...\nThe platform addresses a measurable operational gap that affects service-based businesses: leads that go unanswered af"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-29",
+    "topic": "ai_small_business",
+    "title": "AI Tools for Small Business Get a Meta Upgrade",
+    "url": "https://www.under30ceo.com/ai-tools-for-small-business-meta-features/",
+    "snippet": "Meta rolled out a set of AI features aimed at small businesses that connect to Instagram and Facebook accounts, Meta ad campaigns, and Google Workspace. Owners can hand Meta AI their own business information, let it pull from the web, and get back decks, documents, spreadsheets, and other everyday work.\n...\nThe interesting part is not the writing assistant. It is the placement. These features sit "
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-29",
+    "topic": "ai_small_business",
+    "title": "Owner Raises $240 million to Build AI Agents for Small Businesses",
+    "url": "https://ventureburn.com/owner-raises-240-million-to-give-small-businesses-ai-platform/",
+    "snippet": "Owner Raises $240 million to Build AI Agents for Small Businesses\n...\n# Owner Raises $240 Million To Give Small Businesses That Can\u2019t Afford Big Tech Teams AI\n...\nOwner has raised $240M led by Goldman Sachs Alternatives to build AI agents.\n...\nThe AI agents act as marketing assistants and tech support for small businesses.\n...\nmany US restaurant locations.\n...\nThe owner of a local shop or restaura"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-29",
+    "topic": "ai_labs",
+    "title": "We're introducing flexible usage limits for Gemini Notebook.",
+    "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/new-flexible-usage-limits/",
+    "snippet": "More compute flexibility in Gemini Notebook\n\n# We\u2019re introducing flexible usage limits for Gemini Notebook.\n\nYesul Shin\n\nProduct Manager, Gemini Notebook\n\nAug 28, 2026\n\n---\n\nWe\u2019re introducing new flexible, compute-specific usage limits to Gemini Notebook \u2014 giving you more control over your workflow.\n\nYou\u2019ll continue to have access to all the features that you use and love. This change will give yo"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-29",
+    "topic": "ai_labs",
+    "title": "Gemini Omni 1.1 \ud83c\udfac, Cohere Parse \ud83d\udcc4, Codex persistent ...",
+    "url": "https://tldr.tech/ai/2026-08-28",
+    "snippet": "### Anthropic's Model Hardware Standard (4 minute read)\n...\nAnthropic opened a research preview of the Model Hardware Standard, a model-agnostic specification for letting AI agents operate scientific and manufacturing equipment.\n...\n### Introducing H3 Max by fal (5\n...\nMax is a\n...\n3 optimized for\n...\nThe model is\n...\n### Introducing Parse: Enterprise document intelligence at scale (5 minute read)"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-29",
+    "topic": "ai_labs",
+    "title": "Rosalind Workbench \u2013 New scientific workspace for life sciences research - Codex - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/rosalind-workbench-new-scientific-workspace-for-life-sciences-research/1393367",
+    "snippet": "Rosalind Workbench \u2013 New scientific workspace for life sciences research - Codex - OpenAI Developer Community\n...\n# Rosalind Workbench \u2013 New scientific workspace for life sciences research\n...\nOpenAI has introduced Rosalind Workbench, a scientific research environment that brings biological questions, specialized models, analysis tools, interactive viewers, and reviewable results into one workflow"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-29",
+    "topic": "ai_labs",
+    "title": "Supporting Thailand\u2019s next generation of AI startups",
+    "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+    "snippet": "# Supporting Thailand\u2019s next generation of AI startups\n\nPublished: 2026-08-28T02:00:00+00:00\nSource: openai.com (openai.com)\nLanguage: en\n\n## Story\n\nOpenAI and Thailand\u2019s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products."
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-29",
+    "topic": "ai_labs",
+    "title": "Our decision on Cursor following its acquisition by SpaceX | OpenAI",
+    "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
+    "snippet": "# Our decision on Cursor following its acquisition by SpaceX | OpenAI\n\nPublished: 2026-08-29T01:46:12+00:00\nSource: openai.com (openai.com)\nLanguage: en\n\n## Story\n\nOur decision on Cursor following its acquisition by SpaceX | OpenAI\n\nAugust 28, 2026\n\n# Our decision on Cursor following its acquisition by SpaceX\n\nShare\n\nToday, we notified SpaceX that we intend to wind down our contract providing Open"
   }
 ]
