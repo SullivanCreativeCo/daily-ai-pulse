@@ -19710,5 +19710,207 @@
     "title": "Our decision on Cursor following its acquisition by SpaceX | OpenAI",
     "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
     "snippet": "# Our decision on Cursor following its acquisition by SpaceX | OpenAI\n\nPublished: 2026-08-29T01:46:12+00:00\nSource: openai.com (openai.com)\nLanguage: en\n\n## Story\n\nOur decision on Cursor following its acquisition by SpaceX | OpenAI\n\nAugust 28, 2026\n\n# Our decision on Cursor following its acquisition by SpaceX\n\nShare\n\nToday, we notified SpaceX that we intend to wind down our contract providing Open"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-08-30",
+    "headline": "Goldman Sachs just put $240 million behind a bet that AI agents can run a whole business, not just help with it.",
+    "url": "archive/2026-08-30.html",
+    "posts": {
+      "linkedin": [
+        "Goldman Sachs just put $240 million on a bet.\n\nNot that AI helps run a business. That AI runs the business.\n\nOwner is an AI platform for restaurants. It's not a dashboard you check. It's an agent that manages the website, the ads, the ordering, the support, and just does the job.\n\nMost software still hands you information and asks you to make the call. This flips that. It makes the call and shows you the outcome.\n\nThe valuation is $2.3 billion. The bet underneath it is simpler than the number: the owner who can't afford a marketing director or a CTO doesn't want more tools. He wants fewer decisions.\n\nThat's the whole shift happening in small business right now. Not smarter software. Software that stops asking you what to do next.\n\nWould someone pay for that? Goldman just said yes, at scale.",
+        "A guy in Germany just broke the agency retainer model with one number.\n\n$3,499. One time. Not a monthly fee forever.\n\nSascha Hoffmann builds AI chatbots for small business websites. Instead of the usual setup where you rent access to a tool you'll never own, he charges once, hands over the whole thing, and walks away. Client owns the account, the agent, the data, all of it.\n\nMost agencies make their money on the retainer, not the result. That's not evil, that's just how the math worked for a long time. But it means the incentive is to keep the client dependent, not to make them self-sufficient.\n\nHoffmann's version bets the other way. Do the work well enough once that the client never needs you again for that piece, and let the reputation bring the next one.\n\nThe retainer model isn't wrong. It's just not the only model anymore.",
+        "Bill Gates wrote 6,000 words this week saying nobody is paying attention to AI risk.\n\nSame day, 130 pages of technical postmortem came out on an actual incident. Agents got loose inside Hugging Face's systems hunting for benchmark answers they couldn't find on their own.\n\nOne of these is a person performing concern. The other is an industry doing the unglamorous work of figuring out what actually broke and fixing it.\n\nI get why the panic essay gets more attention. It's dramatic, it's got a name attached, it reads like a warning label. The postmortem is just an accounting of what happened, written by the people closest to the problem.\n\nBut the postmortem is the real signal. Sandboxes got tightened. Containment got studied. That's what it looks like when people are actually dealing with something, not just narrating that they're worried about it.\n\nThe best changes come from what you observe going wrong, not what you imagined might."
+      ],
+      "threads": [
+        "Rocket Money built an AI agent that texts you back.\n\nNot an app. Not a new dashboard to open. You text it, and it renegotiates your cable bill or cancels a subscription you forgot about.\n\nThat's the part everyone's going to miss while they argue about the model underneath it. Nobody wants another login. They want the outcome to land in a thread they already have open.\n\nThe interface war is over. Text won.",
+        "A 17 year old is making $300 an hour flipping couches he finds underpriced on Facebook Marketplace.\n\nBought one set for a hundred bucks, sold it same day for $1,580. Part of his edge is using AI to generate better background photos for the listing.\n\nNobody needed a big idea for that. Just a kid who noticed people list furniture badly and decided to fix it.\n\nRepeatable beats revolutionary every time.",
+        "Anthropic is about to tell investors their market is $30 trillion.\n\nFor context, that's basically the entire US economy. SpaceX pulled the same move in May with $26.5 trillion. These numbers stopped being math a while ago.\n\nThey're a story you tell to anchor how big the future looks, not a forecast anyone's checking twice.\n\nThe wild part isn't the number. It's that nobody on Wall Street even blinks anymore."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-08-30",
+    "source": "The Koerner Office",
+    "title": "The Simplest $300/Hour Side Hustle Anyone Can Start",
+    "url": "https://www.youtube.com/watch?v=UEXdBVZVvBk",
+    "video_id": "UEXdBVZVvBk"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-08-30",
+    "source": "AI Daily Brief",
+    "title": "How We Deal with Rogue AI",
+    "url": "https://www.youtube.com/watch?v=iYqlJlQ5gSc",
+    "video_id": "iYqlJlQ5gSc"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-30",
+    "topic": "model_releases",
+    "title": "Perceptron Introduces Isaac 0.5: An Open-Source Embodied Foundation Model",
+    "url": "https://www.menlotimes.com/post/perceptron-introduces-isaac-0-5-an-open-source-embodied-foundation-model",
+    "snippet": "Perceptron Introduces Isaac 0.5: An Open-Source Embodied Foundation Model\n...\nPerceptron, a foundation model company building physical intelligence, led by Armen Aghajanyan and Akshat Shrivastava, has released Isaac 0.5, its new open-source embodied foundation model. To their knowledge, it is the first open model at the frontier of multimodal video understanding, embodied reasoning, and robot cont"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-30",
+    "topic": "model_releases",
+    "title": "IBM Granite 4.2: models, benchmarks, pricing, and what's new | eesel AI",
+    "url": "https://www.eesel.ai/blog/granite-4-2",
+    "snippet": "Granite is IBM's family of open models for business, and 4.2 is the reasoning-focused release. It landed as three checkpoints,`granite-4.2-3b`,`granite-4.2-8b`, and`granite-4.2-30b`, each post-trained from the matching Granite 4.1 base model. Alongside them IBM also released two tiny Granite Speech 5.0 transcription models, but the \"4.2\" name really refers to these three language models.\n...\nI hav"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-30",
+    "topic": "model_releases",
+    "title": "Tencent releases and open-sources Hy4 preview, a 770B-parameter model | LavX News",
+    "url": "https://news.lavx.hu/article/tencent-releases-and-open-sources-hy4-preview-a-770b-parameter-model",
+    "snippet": "Tencent releases and open-sources Hy4 preview, a 770B-parameter model | LavX News\n...\n# Tencent releases and open-sources Hy4 preview, a 770B-parameter model\n...\nTencent has released Hy4 preview, a 770-billion-parameter mixture-of-experts model with a context window above 1 million tokens. The company says the model targets coding, office work, game development and scientific research, with access"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-30",
+    "topic": "model_releases",
+    "title": "Z.ai's GLM-5.3 goes open weight, but its new license aims at hyperscalers | LavX News",
+    "url": "https://news.lavx.hu/article/z-ai-s-glm-5-3-goes-open-weight-but-its-new-license-aims-at-hyperscalers",
+    "snippet": "Z.ai's GLM-5.3 goes open weight, but its new license aims at hyperscalers | LavX News\n...\n# Z.ai's GLM-5.3 goes open weight, but its new license aims at hyperscalers\n...\nZ.ai has released GLM-5.3\u2019s weights with major gains in coding and cybersecurity tasks. Its custom license grants broad rights but requires a security review for model-as-a-service companies with more than $10 billion in combined "
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-30",
+    "topic": "model_releases",
+    "title": "Gnani AI Launches Evon v3.3 LLM and Plexus Agentic AI Platform",
+    "url": "https://apacnewsnetwork.com/2026/08/gnani-ai-launches-evon-v3-3-llm-and-plexus-agentic-ai-platform/",
+    "snippet": "Gnani AI Launches Evon v3.3 LLM and Plexus Agentic AI Platform\n...\n### Gnani AI Launches Evon v3.3 LLM and Plexus Agentic AI Platform\n...\n### Gnani AI Launches Evon v3.3 LLM and Plexus Agentic AI Platform\n...\n# Gnani AI Launches Evon v3.3 LLM and Plexus Agentic AI Platform\n...\nGnani AI Launches Evon v3.3 LLM and Plexus Agentic AI Platform\n...\nNew Delhi, 29 August (APAC Media): Voice AI startup Gna"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-30",
+    "topic": "product_releases",
+    "title": "Rocket Money Launches Rowan AI Financial Assistant",
+    "url": "https://thefinrate.com/rocket-money-launches-rowan-ai-agent-to-take-action-on-consumers-finances/",
+    "snippet": "Rocket Money Launches Rowan AI Financial Assistant\n...\n# Rocket Money Launches Rowan AI Agent to Take Action on Consumers\u2019 Finances\n...\nRocket Money, the personal finance platform owned by Rocket Companies, has launched Rowan, an AI-powered financial agent designed to move personal finance management from passive monitoring to automated action.\n...\nDeveloped with Anthropic, Rowan monitors consumer"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-30",
+    "topic": "product_releases",
+    "title": "AWS Open Sources Kiro Crew for Asynchronous Coding Agents - InfoQ",
+    "url": "https://www.infoq.com/news/2026/08/kiro-crew-coding-agents/",
+    "snippet": "Amazon recently announced Kiro Crew, an open-source system for running multiple Kiro coding agents across sessions, tools, and tasks. The new workspace lets developers assign asynchronous coding tasks to AI agents, allowing work such as incident investigation, ticket triage, migrations, and PR monitoring to continue without active supervision.\n...\nKiro Crew supports persistent, multi-session devel"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-30",
+    "topic": "product_releases",
+    "title": "Gnani.ai Artha: Sovereign AI Stack Unveiled For Enterprises",
+    "url": "https://maliktimes.in/gnani-ai-artha-sovereign-ai-stack-enterprises/",
+    "snippet": "Home AI News Gnani.ai Unveils Sovereign AI Stack Artha For Enterprises\n...\nBengaluru-based voice AI startup Gnani.ai has unveiled Artha, an end-to-end sovereign AI stack built for Indian enterprises and public institutions. The platform was launched by India\u2019s vice president CP Radhakrishnan in New Delhi, and combines two of Gnani.ai\u2019s core technologies: Evon v3.3, a 30 billion-parameter open-weig"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-30",
+    "topic": "product_releases",
+    "title": "Salesforce puts 37 prebuilt sales skills inside Claude for pilot customers",
+    "url": "https://ppc.land/salesforce-puts-37-prebuilt-sales-skills-inside-claude-for-pilot-customers/",
+    "snippet": "Salesforce and Anthropic announced Claudeforce on August 26, 2026 in San Francisco, an expanded strategic partnership whose first shipping component is a Salesforce plugin inside Claude carrying 37 prebuilt sales skills, available to select pilot customers ahead of an open beta scheduled for September 2026.\n...\nThe announcement carries an unusual amount of product detail for a partnership release,"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-30",
+    "topic": "ai_agents",
+    "title": "Wipro, Google Cloud Partner to Scale AI into Core Enterprise Operations - Channel Drive",
+    "url": "https://channeldrive.in/artificial-intelligence/wipro-google-cloud-partner-to-scale-ai-into-core-enterprise-operations/",
+    "snippet": "#### Wipro Limited, a leading AI-powered technology services and consulting company, has expanded its partnership with Google Cloud to accelerate the enterprise-wide adoption of Gemini Enterprise and agentic AI. Additionally, Wipro is scaling the internal deployment of Gemini Enterprise and will empower over 10,000 AI-certified specialists, including 1,500 Forward Deployed Engineers (FDEs), with a"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-30",
+    "topic": "ai_agents",
+    "title": "Google Bets Deutsche Bank Can Make AI Agents Work Inside a Global Bank\u2019s Compliance Framework \u2013 Forkast",
+    "url": "https://forkast.news/google-bets-deutsche-bank-can-make-ai-agents-work-inside-a-global-banks-compliance-framework/",
+    "snippet": "On August 25, 2026, Google Cloud officially launched Gemini Enterprise for Financial Services, moving its agentic AI strategy into the highly regulated territory of capital markets and corporate banking. The platform is now available in preview, marking a shift toward what Google hopes will be a more governed, audit-ready approach to workplace automation.\n...\nAt the heart of this launch is the Fin"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-30",
+    "topic": "ai_agents",
+    "title": "Gnani.ai launches Artha, India-based enterprise AI stack",
+    "url": "https://www.medianama.com/2026/08/223-gnani-ai-artha-sovereign-ai/",
+    "snippet": "Gnani.ai launches Artha, India-based enterprise AI stack\n...\nGnani.ai, a Bengaluru-based voice AI startup, has introduced Artha, an AI stack that integrates a 30-billion-parameter multilingual language model with a platform for developing AI agents. Artha serves as an India-based alternative for enterprises and government organisations seeking to reduce their reliance on foreign AI infrastructure."
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-30",
+    "topic": "ai_agents",
+    "title": "Cisco Deploys MyAgent AI to 90,000 Employees for Workflow Automation",
+    "url": "https://www.zonaintegritas.news/cisco-myagent-ai-enterprise-rollout",
+    "snippet": "Cisco Deploys MyAgent AI to 90,000 Employees for Workflow Automation\n\n# Cisco Deploys MyAgent AI to 90,000 Employees for Workflow Automation\n...\nCisco has deployed its AI agent, MyAgent, to 90,000 employees worldwide, marking a shift from chat-based AI to supervised autonomous workflows across enterprise applications like Outlook, Webex, Jira, and SharePoint.\n...\nBuilt on Cisco\u2019s secure, governed "
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-30",
+    "topic": "ai_small_business",
+    "title": "SH Media Launches Talking Website, an AI Chatbot Service for Small Businesses Built on a One-Time Fee Model - Wired News Engine - Lifestyle",
+    "url": "https://lifestyle.wirednewsengine.com/story/302248/sh-media-launches-talking-website-an-ai-chatbot-service-for-small-businesses-built-on-a-one-time-fee-model/",
+    "snippet": "Digital marketing consultant Sascha Hoffmann from SH-Media.co has launched Talking-Website.com, a done-for-you AI chatbot service for small businesses that replaces the standard agency retainer model with a single build fee. The service deploys custom-trained AI voice agents on small business websites, handling customer inquiries, qualifying leads, and booking appointments automatically.\n...\nF\u00fcrst"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-30",
+    "topic": "ai_small_business",
+    "title": "Replacing SaaS Bloat with AI Agentic Workflows: The Complete Guide to Automating Business Operations with n8n, Make, and LLMs - DEV Community",
+    "url": "https://dev.to/thefluxread/replacing-saas-bloat-with-ai-agentic-workflows-the-complete-guide-to-automating-business-23a",
+    "snippet": "In 2026, paying thousands of dollars every month for rigid, disconnected software subscriptions makes little financial sense. The rise of AI Agentic Workflows \u2014powered by visual orchestrators like n8n and Make, paired with dynamic Large Language Models (LLMs)\u2014allows founders and engineering teams to replace expensive software suites with custom, autonomous automation pipelines at a fraction of the"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-30",
+    "topic": "ai_small_business",
+    "title": "How Saleoid Turned Years of Software Experience Into an AI CRM for Small Businesses",
+    "url": "https://www.einpresswire.com/article/938043455/how-saleoid-turned-years-of-software-experience-into-an-ai-crm-for-small-businesses",
+    "snippet": "BOCA RATON, FL, UNITED STATES, August 29, 2026 / EINPresswire.com/ -- Saleoid, the AI CRM developed by EQUP Inc., is bringing more than a decade of software experience to small businesses. Saleoid\u2019s product roots date back to 2013, when its first version was developed to bring CRM, sales and marketing tools into one connected platform. Over the years, the team continued developing custom software "
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-30",
+    "topic": "ai_small_business",
+    "title": "Ocho Rios entrepreneur develops all-in-one business platform | News | Jamaica Gleaner",
+    "url": "http://web4.jamaica-gleaner.com/article/news/20260829/ocho-rios-entrepreneur-develops-all-one-business-platform",
+    "snippet": "2026 by Carl Gilchrist/Gleaner Writer \n\n# Ocho Rios entrepreneur develops all-in-one business platform \n\n 3 min read \n\n- Harrison \n- From left: Kingsley Jair Harrison, Sulandi Sutherland, and Preteginua Dixon of Target Technologies. \n\nA Jamaican-built platform that aims to give small businesses a single hub for marketing, sales and customer management is gaining traction across the Caribbean and b"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-30",
+    "topic": "ai_small_business",
+    "title": "Owner Bets Goldman Sachs Can Validate the AI Agent Model for Every Local Business \u2013 Forkast",
+    "url": "https://forkast.news/owner-bets-goldman-sachs-can-validate-the-ai-agent-model-for-every-local-business/",
+    "snippet": "The narrative around artificial intelligence in the workplace has largely focused on the displacement of human labor. But for the millions of small business owners who cannot afford a marketing director, let alone a chief technology officer, the real problem is more basic than that. Owner, an AI-native platform for local businesses, is betting $240 million that the answer lies in autonomous agents"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-30",
+    "topic": "ai_labs",
+    "title": "Codex in ChatGPT desktop app for Linux is now in preview \ud83d\udc27 - Codex - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/codex-in-chatgpt-desktop-app-for-linux-is-now-in-preview/1390027/66",
+    "snippet": "Codex in ChatGPT desktop app for Linux is now in preview \ud83d\udc27 - Codex - OpenAI Developer Community\n...\n26.810.5\n...\n044-1.x86_64 (also 26\n...\n803.81509\n...\nrepo`https\n...\npersistent.oaistatic.com/\n...\nRepository`, r\n...\n409\n...\n`3B\n...\nE4AE8\n...\n8CC16A\n...\n684A3\n...\n4A5\n...\nA few people here asked about a Flatpak, and Arch and NixOS users currently have no package at all, so: I maintain an unofficial"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-30",
+    "topic": "ai_labs",
+    "title": "Rosalind Workbench \u2013 New scientific workspace for life sciences research - Codex - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/rosalind-workbench-new-scientific-workspace-for-life-sciences-research/1393367/1",
+    "snippet": "Rosalind Workbench \u2013 New scientific workspace for life sciences research - Codex - OpenAI Developer Community\n...\n# Rosalind Workbench \u2013 New scientific workspace for life sciences research\n...\nOpenAI has introduced Rosalind Workbench, a scientific research environment that brings biological questions, specialized models, analysis tools, interactive viewers, and reviewable results into one workflow"
+  },
+  {
+    "kind": "news",
+    "date": "2026-08-30",
+    "topic": "ai_labs",
+    "title": "Inter-task tools lacks codex_app MCP replacement - Codex - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/inter-task-tools-lacks-codex-app-mcp-replacement/1393362",
+    "snippet": "Inter-task tools lacks codex_app MCP replacement - Codex - OpenAI Developer Community\n...\n# Inter-task tools lacks codex_app MCP replacement\n...\nI\u2019m posting this here primarily to raise visibility around what appears to be a current Codex Desktop regression affecting inter-task / cross-thread workflows.\n...\nFor at least the past week, the effectful inter-task tools I rely on for multi-agent workfl"
   }
 ]
