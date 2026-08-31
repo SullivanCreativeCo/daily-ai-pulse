@@ -19912,5 +19912,15 @@
     "title": "Inter-task tools lacks codex_app MCP replacement - Codex - OpenAI Developer Community",
     "url": "https://community.openai.com/t/inter-task-tools-lacks-codex-app-mcp-replacement/1393362",
     "snippet": "Inter-task tools lacks codex_app MCP replacement - Codex - OpenAI Developer Community\n...\n# Inter-task tools lacks codex_app MCP replacement\n...\nI\u2019m posting this here primarily to raise visibility around what appears to be a current Codex Desktop regression affecting inter-task / cross-thread workflows.\n...\nFor at least the past week, the effectful inter-task tools I rely on for multi-agent workfl"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-08-31",
+    "headline": "Quiet day in the harvest. No new podcast episodes or fresh news cleared the dedupe filter.",
+    "url": "archive/2026-08-31.html",
+    "posts": {
+      "linkedin": [],
+      "threads": []
+    }
   }
 ]
