@@ -20172,5 +20172,295 @@
     "title": "Google for Startups Accelerator: Introducing our 2026 Australia & New Zealand AI Cohort",
     "url": "https://blog.google/intl/en-au/company-news/google-for-startups-accelerator-introducing-our-2026-australia-new-zealand-ai-cohort/",
     "snippet": "Google for Startups Accelerator: Introducing our 2026 AuNZ AI Cohort\n...\n# Google for Startups Accelerator: Introducing our 2026 AuNZ AI Cohort\n...\nFollowing the success of our previous cohorts, we are thrilled to announce the 15 startups selected for the 2026 Google for Startups Accelerator: Australia & New Zealand. As part of our ongoing commitment through the Digital Future Initiative, this 10-"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-09-04",
+    "headline": "OpenAI shipped GPT-6 Astra today.",
+    "url": "archive/2026-09-04.html",
+    "posts": {
+      "linkedin": [
+        "OpenAI's president got on a call with reporters today and said it plainly.\n\nWelcome to the AGI era.\n\nNot a headline someone spun. He said it on the record.\n\nHere's the thing nobody's talking about. The model can find zero-day security holes on its own now. No human walking it through the steps. That's not a feature announcement. That's a company building new monitoring systems because they're nervous about what they shipped.\n\nI've watched five of these \"biggest model ever\" launches this year alone. Every one came with a chart proving it beats the last one.\n\nNone of them changed my Tuesday.\n\nMaybe this one's different. Maybe it's not. The test isn't the benchmark. The test is whether your actual week feels different next week.\n\nHas any AI release this year changed what you did on a random Tuesday? Or just what you talked about?",
+        "A lab most people have never heard of just did something OpenAI, Anthropic, and Google won't touch.\n\nThey released six AI models today. Not just the weights, the whole thing. Training data. Checkpoints. The actual recipe for how they built it.\n\nEvery closed lab says trust our benchmarks. This one said here's everything, go check for yourself.\n\nWhy does that matter if you're not training models? Because it changes the floor on what tools cost.\n\nWhen the open stuff is genuinely close to the closed stuff, every paid tool built on top of the closed labs has to justify its price against something free. That pressure trickles all the way down to the $20 a month app you're paying for right now.\n\nMost small business owners will never read the announcement.\n\nThey'll just notice next year when their tools get cheaper and nobody tells them why.",
+        "Somebody went two for two door knocking this week for AI consulting leads.\n\nSame week, same person, zero for fourteen on cold calls.\n\nThat's not a small gap. That's the whole story of local sales right now.\n\nEverybody's phone rings less because everybody's phone rings more. Robo calls trained your ideal customer to not pick up. Nobody's trained them to not answer their own front door yet.\n\nI think about this every time someone says cold outreach is dead. It's not dead. The channel that's dead is the one your customer already ignores fifty times a day.\n\nThe one that works is the one that requires you to actually show up somewhere.\n\nThat's not a fun answer. Showing up is slower than sending emails at scale.\n\nBut slower and working beats fast and ignored every time."
+      ],
+      "threads": [
+        "OpenAI's president said we're in the AGI era today. On a call. On the record.\n\nI've heard some version of that sentence with every major model release this year.\n\nHere's the test I actually trust. Not the benchmark chart. Whether your Tuesday feels different because of it.\n\nMost releases don't clear that bar. We'll see about this one.\n\nWhat's the last AI release that actually changed something you did that day, not just what you talked about?",
+        "The best offer in AI consulting right now isn't a fancy automation build. It's a $1,000 conversation.\n\nYou sit down with a business owner for 45 minutes. You find what's manual, what's piling up, what they already tried and gave up on. You hand them a report.\n\nThat's it. That's the whole product.\n\nIt's the easiest thing to sell because you're not selling AI. You're selling somebody finally looking at their own business with fresh eyes.\n\nWould someone pay for that? I think someone would pay for that.",
+        "A lab you've probably never heard of just released six AI models today. Not just the weights, the training data, the checkpoints, the whole recipe.\n\nEvery big lab says trust our numbers. This one said here's everything, go check yourself.\n\nYou won't feel it this week. You'll feel it next year when your tools get a little cheaper and nobody tells you why.\n\nOpen source doesn't win by being louder. It wins by being underneath everything eventually."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-09-04",
+    "source": "The Koerner Office",
+    "title": "Make Money With This New AI Agent That Works 24/7 [NO ADS \u2022 FULL EPISODE]",
+    "url": "https://www.youtube.com/watch?v=RYalbTaQPHQ",
+    "video_id": "RYalbTaQPHQ"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-09-04",
+    "source": "The Koerner Office",
+    "title": "Watch Me Build an App With AI and Make a Sale in 85 Minutes",
+    "url": "https://www.youtube.com/watch?v=UItZIyRpWSw",
+    "video_id": "UItZIyRpWSw"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-09-04",
+    "source": "Startup Ideas Podcast",
+    "title": "5 GitHub Repos: Kill AI Slop, Go Viral, Make Money",
+    "url": "https://www.youtube.com/watch?v=9_SZFIW7tus",
+    "video_id": "9_SZFIW7tus"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-09-04",
+    "source": "Corey Ganim",
+    "title": "Ranking Every Lead Gen Method for Selling AI",
+    "url": "https://www.youtube.com/watch?v=SLL6i5DGC-s",
+    "video_id": "SLL6i5DGC-s"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-09-04",
+    "source": "Corey Ganim",
+    "title": "I Ranked Every AI Offer From Worst to Best",
+    "url": "https://www.youtube.com/watch?v=8gBQqH_0nU4",
+    "video_id": "8gBQqH_0nU4"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-09-04",
+    "source": "Corey Ganim",
+    "title": "Watch Me Close My First AI Agency Client From Scratch *Hidden Mic*",
+    "url": "https://www.youtube.com/watch?v=7xfGzP64jTk",
+    "video_id": "7xfGzP64jTk"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-09-04",
+    "source": "AI Daily Brief",
+    "title": "Agentic Loops for Knowledge Workers",
+    "url": "https://www.youtube.com/watch?v=dLiXiD8hOAI",
+    "video_id": "dLiXiD8hOAI"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-09-04",
+    "source": "AI Daily Brief",
+    "title": "Why Fable 5.1 Is Worth the Upgrade",
+    "url": "https://www.youtube.com/watch?v=CDUclXojmDg",
+    "video_id": "CDUclXojmDg"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-09-04",
+    "source": "AI Daily Brief",
+    "title": "OpenClaw 2.0 Shows Where AI Agents Are Going Next",
+    "url": "https://www.youtube.com/watch?v=9IYTGvNOmLk",
+    "video_id": "9IYTGvNOmLk"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-04",
+    "topic": "model_releases",
+    "title": "GPT-6 Astra: A new generation of intelligence",
+    "url": "https://openai.com/index/gpt-6-astra/",
+    "snippet": "GPT-6 Astra: A new generation of intelligence | OpenAI\n...\nWe\u2019re introducing GPT\u20116 Astra, the world\u2019s most intelligent and aligned model.\n...\nGPT\u20116 Astra brings together years of research and big bets across pre-training, reinforcement learning, and alignment. Astra is state-of-the-art on computer use, browsing, software engineering, cybersecurity, science, and professional work. Astra saturates F"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-04",
+    "topic": "model_releases",
+    "title": "OpenAI\u2019s next big AI model has \u2018entered the AGI era\u2019 | The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+    "snippet": "# OpenAI\u2019s next big AI model has \u2018entered the AGI era\u2019\n...\nIt emphasized stronger guardrails for GPT-6\n...\nthe company\u2019s models\n...\nHugging Face.\n...\nOpenAI\u2019s next big AI model has \u2018entered the AGI era\u2019\n...\nOpenAI\u2019s next big model is here: GPT-6 Astra. The company calls it a \u201cgenerational leap in capability\u201d for areas like cybersecurity, professional work, software engineering, science, and comput"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-04",
+    "topic": "model_releases",
+    "title": "Introducing K2 Horizon: Frontier Performance, Radically Open",
+    "url": "https://ifm.ai/blog/k2/",
+    "snippet": "Today IFM is releasing K2 Horizon, a connected fleet of six models: 375B-A23B, 36B-A4B, 32B, 7B, 3.7B, and 0.9B. Across reasoning, mathematics, coding, agentic tasks, and general capabilities, K2 Horizon delivers top-tier performance in every size class\u2014with the 0.9B, 3.7B, and 7B models setting new state of the art at their respective scales.\n...\nK2 Horizon is also our most comprehensive open rel"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-04",
+    "topic": "model_releases",
+    "title": "OpenAI launches Astra, its powerful (and controversial) new model | TechCrunch",
+    "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+    "snippet": "OpenAI launches Astra, its powerful (and controversial) new model | TechCrunch\n...\n# OpenAI launches Astra, its powerful (and controversial) new model\n...\nOpenAI released Astra on Thursday, its latest AI model and \u2014 according to the company \u2014 its most powerful and capable one yet.\n...\nOpenAI claims that Astra represents \u201ca new frontier on computer and browser use,\u201d and that it handles tasks with u"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-04",
+    "topic": "model_releases",
+    "title": "K2 Horizon Press Release | Institute of Foundation Models",
+    "url": "https://ifm.ai/k2/press-release/",
+    "snippet": "K2 Horizon Press Release | Institute of Foundation Models\n...\nAbu Dhabi, UAE, September 3, 2026 \u2014 The Institute of Foundation Models(IFM) today introduced K2 Horizon, a new fleet of six AI foundation models ranging from 0.9 billion to 375 billion parameters. The new models are fully open\u2014including model weights, code, training data and methodologies\u2014allowing researchers and developers to inspect, "
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-04",
+    "topic": "product_releases",
+    "title": "Gupshup Launches Self-Serve Voice AI Platform, Extending Conversational Engagement into Phone Calls",
+    "url": "https://www.prnewswire.co.uk/news-releases/gupshup-launches-self-serve-voice-ai-platform-extending-conversational-engagement-into-phone-calls-302869137.html",
+    "snippet": "Gupshup Launches Self-Serve Voice AI Platform, Extending Conversational Engagement into Phone Calls Accessibility Statement Skip Navigation\n...\nBusinesses can now build, test, and deploy AI voice agents across support, sales, and operations - alongside WhatsApp, RCS, and SMS - from a single platform\n...\nMUMBAI, India and SAN FRANCISCO, Sept. 4, 2026 /PRNewswire/ -- Gupshup launched its Voice AI Pl"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-04",
+    "topic": "product_releases",
+    "title": "PlugClaw Now Shipping Worldwide: A Thumb-Sized Private AI Computer That Keeps AI Agents Off Your Devices",
+    "url": "https://www.prnewswire.com/news-releases/plugclaw-now-shipping-worldwide-a-thumb-sized-private-ai-computer-that-keeps-ai-agents-off-your-devices-302869321.html",
+    "snippet": "PlugClaw Now Shipping Worldwide: A Thumb-Sized Private AI Computer That Keeps AI Agents Off Your Devices Accessibility Statement Skip Navigation\n...\nSAN FRANCISCO, Sept. 4, 2026 /PRNewswire/ -- TrustKernel, an AI security and privacy computing company, today announced that PlugClaw has begun shipping worldwide, moving from pre-order to general availability. The company also opened free confidentia"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-04",
+    "topic": "product_releases",
+    "title": "OpenAI unveils GPT\u20116 Astra amid rising scrutiny and safety concerns | Business and Economy News | Al Jazeera",
+    "url": "https://www.aljazeera.com/economy/2026/9/4/openai-unveils-gpt-6-astra-amid-rising-scrutiny-and-safety",
+    "snippet": "OpenAI unveils GPT\u20116 Astra amid rising scrutiny and safety concerns | Business and Economy News | Al Jazeera\n...\n# OpenAI unveils GPT\u20116 Astra amid rising scrutiny and safety concerns\n...\nChatGPT creator\u2019s latest release comes amid heightened fears following AI-led hacking of the startup Hugging Face.\n...\nOpenAI has announced the release of what it says is its most advanced AI model, amid heightene"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-04",
+    "topic": "product_releases",
+    "title": "xAI Launches Grok Bot for Enterprise With Free Trial to Challenge Rivals - TechGolly",
+    "url": "https://techgolly.com/news/xai-launches-grok-bot-for-enterprise-with-free-trial-to-challenge-rivals",
+    "snippet": "xAI Launches Grok Bot for Enterprise With Free Trial to Challenge Rivals - TechGolly\n\n# xAI Launches Grok Bot for Enterprise With Free Trial to Challenge Rivals\n...\n- Newsroom \n- September 4, 2026 \n\nGrok chatbot enhances user interaction through conversational intelligence. [TechGolly]\n...\n- Elon Musk\u2019s xAI launched Grok Bot for enterprise workplaces, featuring a native integration for Slack and w"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-04",
+    "topic": "product_releases",
+    "title": "OpenAI launches GPT-6 Astra, claims AGI era has begun",
+    "url": "https://betanews.com/article/openai-gpt-6-astra-agi-era/",
+    "snippet": "OpenAI launches GPT-6 Astra, claims AGI era has begun Skip to content\n...\n# OpenAI Launches GPT-6 Astra, Calls It the Start of the AGI Era\n...\nOpenAI released GPT-6 Astra on Thursday, Sept. 3, 2026. The model succeeds GPT-5.6 Sol as the company's flagship AI system, and OpenAI calls it the most intelligent and aligned model it has built. President Greg Brockman told reporters on a press call, \"Wel"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-04",
+    "topic": "ai_agents",
+    "title": "Grok Bot for Enterprise | SpaceXAI",
+    "url": "https://x.ai/news/grok-bot-for-enterprise",
+    "snippet": "Grok Bot for Enterprise\n...\nGrok Bot\n...\nGrok Bot is now available for enterprises. Grok and Cursor Enterprise customers have free usage for the next two weeks, and can invite their whole organization, including people without an existing seat.\n...\nGrok Bot is your team of helpful AI teammates. You delegate real tasks to them and they carry the job through end to end, working autonomously around t"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-04",
+    "topic": "ai_agents",
+    "title": "Gearset launches Cam, the AI agent that helps Salesforce teams accelerate development without sacrificing control",
+    "url": "https://www.prweb.com/releases/gearset-launches-cam-the-ai-agent-that-helps-salesforce-teams-accelerate-development-without-sacrificing-control-302868670.html",
+    "snippet": "Gearset launches Cam, the AI agent that helps Salesforce teams accelerate development without sacrificing control Accessibility Statement Skip Navigation\n...\nCam is the only AI agent that Salesforce teams can trust to take tickets end to end, fully governed by the security and delivery guardrails that DevOps demands. Within a week of onboarding Cam, Gearset customers had it creating up to 44% of t"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-04",
+    "topic": "ai_agents",
+    "title": "iPolloWork launches the OPC Open Collaboration Platform at the 2026 Global Conference. | KuCoin",
+    "url": "https://www.kucoin.com/news/flash/ipollowork-launches-opc-open-collaboration-platform-at-2026-global-conference",
+    "snippet": "iPolloWork unveiled its OPC Open Collaboration Platform at the 2026 Global OPC Open Source Collaboration Conference in Beijing, in alignment with MetaEra. The open-source AI Work OS is designed for OPCs, entrepreneurs, and small innovation teams, transforming AI from task execution to collaborative deliverables. Over 100 representatives from technology, academia, and investment attended. The platf"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-04",
+    "topic": "ai_agents",
+    "title": "xAI Unveils Grok Bot for Enterprises with Free Trial Offer - Blockchain.News",
+    "url": "https://blockchain.news/news/xai-grok-bot-enterprise-launch",
+    "snippet": "Rongchai Wang Sep 03, 2026 22:00 \n\nxAI launches Grok Bot for enterprise clients, offering advanced AI-powered task automation and a free two-week trial for organizations.\n\n \n\nxAI, the AI venture led by Elon Musk, has officially launched Grok Bot for enterprises, expanding the scope of its AI-powered 'teammates' to business clients. The rollout, announced on September 3, includes a two-week free tr"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-04",
+    "topic": "ai_agents",
+    "title": "CIQ | Fuzzball 4.2 gives enterprises one platform to build, train, and serve their own AI | Press Release",
+    "url": "https://ciq.com/press/fuzzball-4-2-gives-enterprises-one-platform-to-build-train-and-serve-their-own",
+    "snippet": "one platform to build, train,\n...\nA new MCP server lets AI agents operate Fuzzball under explicit permission, and the workflows running inside the cluster can now direct additional work themselves.\n...\nRENO, Nev., September 3, 2026 - CIQ, the enterprise software company behind Rocky Linux, today announced Fuzzball 4.2, a release of its turnkey sovereign AI and HPC orchestration platform that helps"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-04",
+    "topic": "ai_small_business",
+    "title": "ImpactFactory.ai Launches Version 1.3, Bringing AI-Powered Website Creation and Optimization to Small Businesses",
+    "url": "https://www.einpresswire.com/article/939262131/impactfactory-ai-launches-version-1-3-bringing-ai-powered-website-creation-and-optimization-to-small-businesses",
+    "snippet": "ImpactFactory.ai Launches Version 1.3, Bringing AI-Powered Website Creation and Optimization to Small Businesses\n...\n# ImpactFactory.ai Launches Version 1.3, Bringing AI-Powered Website Creation and Optimization to Small Businesses\n...\nImpact Factory turns website creation & optimization into a conversation. You focus on running your business. Your AI marketing agency focuses on making sure people"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-04",
+    "topic": "ai_small_business",
+    "title": "Make Adds Claude Fable 5.1 for More Deliberate AI Workflows",
+    "url": "https://www.createwith.com/tool/make/updates/make-adds-claude-fable-51-for-more-deliberate-ai-workflows",
+    "snippet": "Make is adding Anthropic\u2019s Claude Fable 5.1 model to its automation platform, positioning the model for workflows where an AI system must compare substantial information before deciding what happens next. The update extends beyond basic summarization, targeting complex cases in which the correct action may not be immediately obvious.\n...\nThe company announced the integration on LinkedIn, with a co"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-04",
+    "topic": "ai_small_business",
+    "title": "Agile & Co Launches Core, a Proprietary AI Marketing Platform Built for Local Service Businesses | The AI Journal",
+    "url": "https://aijourn.com/agile-co-launches-core-a-proprietary-ai-marketing-platform-built-for-local-service-businesses/",
+    "snippet": "New system pairs AI-driven strategy with human oversight, giving contractors, clinics, auto shops and med spas a marketing partner that remembers their business and compounds results over time\n...\nST. LOUIS, Sept. 3, 2026 /PRNewswire/ \u2014 Agile & Co, a full-service marketing agency specializing in local service businesses, today announced the launch of Core, a proprietary AI-powered marketing platfo"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-04",
+    "topic": "ai_small_business",
+    "title": "AI assistants used to answer questions. Now they want to run the business | Markets Insider",
+    "url": "https://markets.businessinsider.com/news/stocks/ai-assistants-used-to-answer-questions-now-they-want-to-run-the-business-1036519034",
+    "snippet": "VILNIUS, Lithuania, Sept. 03, 2026 (GLOBE NEWSWIRE) -- Customer support AI used to have a clear job: answer the question, or send the customer to someone who could. Newer AI assistants can complete routine tasks themselves, from resetting access to updating account details. The next shift is bigger \u2013 AI that stays useful after the support issue is solved.\n...\npredicts that by\n...\n28, 60%\n...\nacros"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-04",
+    "topic": "ai_small_business",
+    "title": "How Little Plains runs a modern agency on Notion",
+    "url": "https://www.notion.com/customers/little-plains",
+    "snippet": "Little Plains is the latest studio from Emmett Shine, the founder of Gin Lane, the agency behind some of the most recognizable direct-to-consumer brands of the 2010s. With Little Plains, he\u2019s building a team that brings the same instinct for taste, story, and digital craft to companies building in a new era of AI.\n...\nThe studio builds brands, websites, product interfaces, and AI-powered tools for"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-04",
+    "topic": "ai_labs",
+    "title": "Safety overview: GPT-6 Astra",
+    "url": "https://openai.com/index/safety-overview-gpt-6-astra/",
+    "snippet": "# Safety overview: GPT-6 Astra\n...\nPublished: 2026-09-03T20:07:43+00:00\n...\nSource: openai.com (openai.com)\n...\nGPT\u20116 Astra is a significant step up in cyber capabilities and meets our Critical threshold. This means that, with the right tools and access, GPT\u20116 Astra can find previously unknown security flaws and develop new ways to exploit them across many well-protected systems without a person g"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-04",
+    "topic": "ai_labs",
+    "title": "WeatherNext 3: Our most advanced global weather AI model",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-weathernext-3/",
+    "snippet": "WeatherNext 3: Our most advanced global weather AI model\n...\n# Introducing WeatherNext 3, our most advanced and accurate global weather AI model\n...\nOur flagship AI weather forecasting model now includes real-time satellite data, hourly refreshes, higher resolution, precise precipitation forecasting, and clean energy variables. It\u2019s now integrated across Search, Gemini, Maps, Google Maps Platform,"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-04",
+    "topic": "ai_labs",
+    "title": "Introducing GPT-6-Astra: The most intelligent and aligned model in the world - Announcements - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/introducing-gpt-6-astra-the-most-intelligent-and-aligned-model-in-the-world/1394703",
+    "snippet": "Introducing GPT-6-Astra: The most intelligent and aligned model in the world - Announcements - OpenAI Developer Community\n...\n# Introducing GPT-6-Astra: The most intelligent and aligned model in the world\n...\nIntroducing GPT-6 Astra: the most intelligent and aligned model in the world.\n...\nGPT-6 Astra is the most intelligent and aligned model in the world, and sets a new state of the art for compu"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-04",
+    "topic": "ai_labs",
+    "title": "See a map of the male fruit fly brain",
+    "url": "https://blog.google/innovation-and-ai/technology/research/male-fruit-fly-brain-map/",
+    "snippet": "See a map of the male fruit fly brain\n...\n# 5 amazing visuals show how the male fruit fly\u2019s brain map is advancing neuroscience\n...\nSep 03, 2026\n\n A years-long project by HHMI Janelia, Google Research, and collaborators has built the first complete brain map for a male fruit fly, a key model organism in science. \n\nMicha\u0142 Januszewski\n\nResearch Scientist, Google Research\n\nViren Jain\n\nResearch Scient"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-04",
+    "topic": "ai_labs",
+    "title": "2026-09-03 - TLDR AI",
+    "url": "https://ai.tldr.tech/p/2026-09-03-tldr-ai",
+    "snippet": "| Muse Spark 1\n...\n) Meta released Muse Spark 1.3 with improved coding and agentic performance, alongside changes intended to\n...\nthe model easier to use in production. It has begun rolling out through Muse Code and the Meta Model API, with its highest reasoning mode awaiting additional safety testing. |\n| --- |\n...\n| Anthropic Has Some Alignment Problems (23 minute read) Anthropic is planning to "
   }
 ]
