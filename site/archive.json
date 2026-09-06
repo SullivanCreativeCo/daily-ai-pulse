@@ -20664,5 +20664,223 @@
     "title": "Introducing GPT-6-Astra: The most intelligent and aligned model in the world - Announcements - OpenAI Developer Community",
     "url": "https://community.openai.com/t/introducing-gpt-6-astra-the-most-intelligent-and-aligned-model-in-the-world/1394703/19",
     "snippet": "Introducing GPT-6-Astra: The most intelligent and aligned model in the world - Announcements - OpenAI Developer Community\n\n## post by VeitB 21 hours ago \n\n 2 21h \n\nAnything you can do on a computer, Astra can do for you. Fast.\n\n Introducing GPT-6 Astra: the most intelligent and aligned model in the world. \n\nGPT-6 Astra is the most intelligent and aligned model in the world, and sets a new state of"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-09-06",
+    "headline": "OpenAI shipped GPT-6 Astra and hit every paid ChatGPT plan in 27 hours. Fastest rollout they've ever done.",
+    "url": "archive/2026-09-06.html",
+    "posts": {
+      "linkedin": [
+        "OpenAI shipped GPT-6 Astra to every paid plan in 27 hours. Fastest rollout they've ever done.\n\nHere's the part that got buried under that headline.\n\nAstra is also the first OpenAI model to cross their own internal \"Critical\" threshold for cybersecurity risk. Not a marketing term. A real classification that changes who gets access.\n\nThey found actual zero-day vulnerabilities with it. That's why enterprise admins have to manually turn it on instead of it just showing up.\n\nSpeed and safety usually get talked about like opposites. This week they shipped both at the same time, out loud, in the same announcement.\n\nWould a company do that if it didn't have to? I don't think so. Which means the disclosure itself is the interesting part, not the benchmark score.\n\nWhat happens the next time a lab crosses a line like this and decides not to say so?",
+        "Gusto just launched an AI teammate called Cofounder, built for small business owners.\n\nMost AI tools make you start from zero. You explain your business, answer ten clarifying questions, then maybe get something useful.\n\nCofounder shows up already knowing your payroll data, your team roster, your compliance calendar. You say \"run payroll Friday, flag anything that needs approval,\" and it just does it.\n\nGusto's head of tech put it better than I could. Running payroll was never the hard part. It's everything you have to do ahead of running it. Pulling data from other systems. Chasing missing timesheets. The work before the work.\n\nThat phrase is the whole game for small business owners right now.\n\nThat's not just a feature. That's a weight removal product.\n\nIf you sell to small businesses, the question isn't what task can AI do for them. It's what's sitting in front of the task that they've never had time to name.",
+        "A Singapore team just open-sourced a 1 billion parameter model that cost about $1,500 to train.\n\nIt's holding its own against models that cost tens of millions.\n\nWeights, code, training data, all public, all free, all Apache 2.0.\n\nI keep hearing people talk about AI like it's a game only the labs with billion-dollar budgets get to play. That's true at the very top. It stops being true a few rungs down.\n\nMarried to one big idea is a great way to get left behind by someone building five small ones on a laptop budget.\n\nSame week OpenAI is rolling out a model that needed its own internal risk review, a small team proved you can still ship something real for less than a used car payment.\n\nWhich version of this story are you actually building toward?"
+      ],
+      "threads": [
+        "OpenAI's new model, Astra, rolled out to every paid plan in 27 hours. Fastest they've ever moved.\n\nIt's also the first model they've internally flagged as hitting a critical cybersecurity risk threshold. Real zero-days were found with it.\n\nSpeed and danger, disclosed in the same breath, same week. Not something I see labs admit to very often.\n\nMakes you wonder what gets shipped quietly when nobody bothers to say the quiet part.",
+        "Gusto's new AI teammate already knows your payroll, your team, your compliance calendar before you say a word to it.\n\nMost AI tools make you explain your whole business first. This one skips that.\n\nTheir head of tech said something that stuck with me. Running payroll was never the hard part. It's everything you have to do before you get to run it.\n\nEvery small business owner I know has a version of that same invisible pile of work. Feels like the tools are finally starting to notice.",
+        "A team in Singapore trained a model for about $1,500 and it's competing with ones that cost tens of millions.\n\nWeights, code, data, all free.\n\nSame week a major lab is rolling out something that needed its own internal safety review.\n\nOne of these stories is about how much money it takes to matter. The other is proof that's not actually the whole story.\n\nI know which one I'd rather be building toward."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-09-06",
+    "source": "The Koerner Office",
+    "title": "The Most Hands-Off Solo Side Hustle to Start",
+    "url": "https://www.youtube.com/watch?v=CMqOdEOiFT0",
+    "video_id": "CMqOdEOiFT0"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-09-06",
+    "source": "AI Daily Brief",
+    "title": "How to Build an AI-Native Company Today",
+    "url": "https://www.youtube.com/watch?v=Qa4juJzo0TY",
+    "video_id": "Qa4juJzo0TY"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-09-06",
+    "source": "AI Daily Brief",
+    "title": "How AI Changed This Summer",
+    "url": "https://www.youtube.com/watch?v=5MMFeibSkqc",
+    "video_id": "5MMFeibSkqc"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-06",
+    "topic": "model_releases",
+    "title": "MBZUAI K2 Horizon: Six Fully Open Models Up to 375B Parameters | AI2Work",
+    "url": "https://ai2.work/blog/mbzuai-k2-horizon-six-fully-open-models-up-to-375b-parameters",
+    "snippet": "MBZUAI's IFM released K2 Horizon: six Apache 2.0 models from 0.9B to 375B with weights, code and training data. What shipped, what's still promised, and why.\n...\n- 1 IFM released six models on September 3, 2026 \u2014 dense 0.9B, 3.7B, 7B and 32B plus sparse 36B-A4B and 375B-A23B \u2014 all under Apache 2.0 for weights and code.\n- 2 The openness claim is uneven by design: the 3.7B and 7B ship with data, rec"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-06",
+    "topic": "model_releases",
+    "title": "Fable 5.1 restarts frontier competition with fewer interruptions and new cost tradeoffs | The Rundown AI",
+    "url": "https://www.therundown.ai/news/fable-5-1-frontier-competition-workflow-safeguards",
+    "snippet": "Fable 5.1 restarts frontier competition with fewer interruptions and new cost tradeoffs | The Rundown AI\n...\n# Fable 5.1 restarts frontier competition with fewer interruptions and new cost tradeoffs\n...\nAnthropic\u2019s Fable 5.1 addresses workflow interruptions and cost concerns as frontier competition resumes, with OpenAI\u2019s Astra following days later.\n...\nAnthropic released Claude Fable 5.1 with prom"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-06",
+    "topic": "model_releases",
+    "title": "GPT-6 Astra Explained: Inside OpenAI's First 'Critical'-Threshold Model",
+    "url": "https://miraflow.ai/blog/gpt-6-astra-explained-openai-critical-cybersecurity-benchmarks-2026",
+    "snippet": "OpenAI shipped GPT-6 Astra on September 3 and disclosed it crossed a Critical cybersecurity threshold. Here is what actually shipped, the real benchmark numbers, and how it stacks up against Opus 5 and Gemini 3.1 Pro.\n...\nOn September 3, 2026, OpenAI president Greg Brockman opened the GPT-6 Astra launch livestream with four words that immediately set the tone for the coverage that followed: \"Welco"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-06",
+    "topic": "model_releases",
+    "title": "Sapient open-sources HRM-Text model, advancing recurrent reasoning on a $1,500 budget",
+    "url": "https://cryptobriefing.com/sapient-open-sources-hrm-text-recurrent-reasoning/",
+    "snippet": "Sapient open-sources HRM-Text model, advancing recurrent reasoning on a $1,500 budget\n...\n# Sapient open-sources HRM-Text model, advancing recurrent reasoning on a $1,500 budget \n\n A 1 billion parameter model trained for roughly $1,000 to $1,500 is posting benchmark scores that compete with far larger, far more expensive alternatives \n\n by Editorial Team \n\nSep. 5, 2026\n...\nA Singapore-based AGI re"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-06",
+    "topic": "product_releases",
+    "title": "OpenAI's GPT-6 Astra Is Now Live in ChatGPT, Microsoft 365, and GitHub Copilot - 9to5Windows",
+    "url": "https://9to5windows.com/openai-gpt-6-astra-chatgpt-microsoft-365-github-copilot/",
+    "snippet": "OpenAI's GPT-6 Astra Is Now Live in ChatGPT, Microsoft 365, and GitHub Copilot - 9to5Windows\n...\n# OpenAI\u2019s GPT-6 Astra Is Now Live in ChatGPT, Microsoft 365, and GitHub Copilot\n\n September 6, 2026 4 min read Editorial \n\n \n\nOpenAI has started rolling out its newest language model, GPT-6 Astra, across several of the products people use every day \u2014 including ChatGPT Work, Codex, Microsoft 365, and G"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-06",
+    "topic": "product_releases",
+    "title": "OpenAI Ships GPT-6 Astra With 1M Context And 2x Computer Use",
+    "url": "https://theroboticsmedia.com/article/openai-gpt-6-astra-rollout-1m-context-computer-use-september-2026",
+    "snippet": "OpenAI Ships GPT-6 Astra With 1M Context And 2x Computer Use\n...\n# OpenAI Rolls Out GPT-6 Astra With 1M Context, Frontier Coding And Computer Use\n...\nGPT-6 Astra begins rolling out to ChatGPT and Codex customers with a 1M token context, near-perfect FrontierMath, ARC-AGI-3 and ExploitBench scores, and 2x faster computer use.\n...\nOpenAI has begun rolling out GPT-6 Astra, the successor to July's GPT"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-06",
+    "topic": "product_releases",
+    "title": "Microsoft is ending Windows 11's web app slop era, and AI now writes native apps in 30 minutes",
+    "url": "https://www.windowslatest.com/2026/09/06/microsoft-is-ending-windows-11s-web-app-slop-era-and-ai-now-writes-native-apps-in-30-minutes/",
+    "snippet": "is ending Windows 11'\n...\nnow writes native apps in 30 minutes\n...\n# Microsoft is ending Windows 11\u2019s web app slop era, and AI now writes native apps in 30 minutes\n...\nMicrosoft turns to AI agents to bring more native WinUI apps to Windows 11.\n...\nAt a time when the consensus is that corporations do not know what to do with AI, Microsoft actually has a plan that leverages AI to bring more native W"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-06",
+    "topic": "product_releases",
+    "title": "GPT-6 Astra Reaches All Paid Plans in 27 Hours: Here's What the Speed and Safety Trade-Offs Actually Mean | FrontierNews.ai",
+    "url": "https://www.frontiernews.ai/news/article/gpt-6-astra-reaches-all-paid-plans-in-27-hours-her-0038ea8f",
+    "snippet": "GPT-6 Astra launched on September 3 and reached every paid ChatGPT plan within 27 hours, making it OpenAI's fastest model rollout to date. The model excels at computer control tasks like form-filling and software testing, but falls slightly behind Anthropic's Claude Fable 5.1 on complex reasoning benchmarks. The real story isn't which model wins on paper; it's how OpenAI is pricing reasoning effor"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-06",
+    "topic": "ai_agents",
+    "title": "AIREV Launches Harness Arena for AI Agent Benchmarking",
+    "url": "https://www.startupresearcher.com/news/airev-launches-harness-arena-to-benchmark-autonomous-agent-frameworks",
+    "snippet": "# AIREV Launches Harness Arena for AI Agent Benchmarking\n...\nAIREV Launches Harness Arena for AI Agent Benchmarking\n...\n# AIREV Launches Harness Arena to Benchmark Autonomous Agent Frameworks\n...\nOpen-source platform benchmarks agent frameworks via blind scoring and Elo rankings\n...\nUAE-headquartered AIREV has launched Harness Arena, an open-source evaluation platform designed to benchmark autonom"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-06",
+    "topic": "ai_agents",
+    "title": "Cohere North Automations: What's Actually Documented",
+    "url": "https://nextaipress.com/cohere-north-automations-capabilities/",
+    "snippet": "Cohere launched North Automations on July 27, 2026 \u2014 a no-code layer for building and running agentic workflows inside North, its private-deployable AI workspace \u2014 making it generally available to all existing North customers the same day, with no separate beta phase (see Cohere\u2019s launch announcement).\n...\nNorth Automations is not a standalone product. It\u2019s a workflow-orchestration feature built i"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-06",
+    "topic": "ai_agents",
+    "title": "Google expands Gemini line with 3.8 Flash \u2014 Arabian Post",
+    "url": "https://thearabianpost.com/google-expands-gemini-line-with-3-8-flash/",
+    "snippet": "\ud83d\udd5a Sat 5 Sep 2026 \u00b7 AP News \n\nGoogle has introduced Gemini 3.8 Flash, a general-availability artificial intelligence model aimed at long-horizon software engineering, autonomous agents and complex enterprise workflows.\n...\nThe model, released on September 2, is the latest version in Google\u2019s Gemini 3 Flash family and is designed to combine stronger reasoning and coding performance with the lower la"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-06",
+    "topic": "ai_agents",
+    "title": "UC Berkeley Researchers Release CUA-Lite, an Open Platform Unifying Sandboxes, Data, Evaluation and RL for Computer-Use Agents - The Crypto Post",
+    "url": "https://thecryptopost.io/uc-berkeley-researchers-release-cua-lite-an-open-platform-unifying-sandboxes-data-evaluation-and-rl-for-computer-use-agents/",
+    "snippet": "UC Berkeley Researchers Release CUA-Lite, an Open Platform Unifying Sandboxes, Data, Evaluation\n...\nRL for Computer-Use Agents - The Crypto Post\n\n# UC Berkeley Researchers Release CUA-Lite, an Open Platform Unifying Sandboxes, Data, Evaluation and RL for Computer-Use Agents\n\n 23 mins ago CryptoExpert \n\nA team of researchers from UC Berkeley have released CUA-Lite, an open platform for computer-use"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-06",
+    "topic": "ai_small_business",
+    "title": "7 AI Tools for Solopreneurs Running a Business in 2027",
+    "url": "https://www.analyticsinsight.net/business/7-ai-tools-that-could-power-a-solo-business-in-2027",
+    "snippet": "AI is reshaping how solo founders manage core business functions. Tools now support research, marketing, sales, customer service, voice interactions, and workflow automation. Their real value comes from connecting these functions into one coordinated system. Human judgment remains essential for strategy, relationships, and accountability.\n...\nA business once needed a full team to keep every functi"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-06",
+    "topic": "ai_small_business",
+    "title": "Gusto Just Launched an AI Teammate Cal... - The Useful Daily",
+    "url": "https://theusefuldaily.com/article/gusto-cofounder-ai-teammate-small-business-2026-06-07",
+    "snippet": "Gusto announced Cofounder today - an AI teammate built specifically for small business owners. Unlike general-purpose AI tools, it launches pre-loaded with your business's payroll data, team structure, compliance calendar, and benefits, then starts acting on your behalf through simple natural language.\n...\nMost AI tools make you start from zero. You paste in context, explain your situation, answer"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-06",
+    "topic": "ai_small_business",
+    "title": "12 AI Accounting Tools that Could Change How Small Businesses Manage Money in 2026",
+    "url": "https://www.analyticsinsight.net/ai-tools/12-ai-accounting-tools-that-could-change-how-small-businesses-manage-money-in-2026",
+    "snippet": "AI accounting tools are changing how small businesses handle bookkeeping, reporting, invoicing, and financial workflows. These platforms can reduce repetitive tasks while improving visibility into business finances. Here are 12 accounting tools worth considering.\n...\n### Overview: \n\n- AI accounting platforms are automating bookkeeping, reconciliation, invoicing, and financial reporting for small b"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-06",
+    "topic": "ai_small_business",
+    "title": "Publishberry Launches AI-Powered Platform to Automate the Entire Blogging Workflow \u2013 Press Echo 360",
+    "url": "https://pressecho360.com/publishberry-launches-ai-powered-platform-to-automate-the-entire-blogging-workflow/",
+    "snippet": "# Publishberry Launches AI-Powered Platform to\n...\nate the Entire Blogging\n...\n#### By David Thomas\n\n Sep 5, 20\n...\n6 \n\nNew SaaS platform handles keyword research, content planning, SEO writing, visuals, and CMS publishing in one automated workflow\n...\nLondon, United Kingdom, 4th September 2026, ZEX PR WIRE\u2014 Publishberry, an AI-powered blogging and content automation platform, has launched to help"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-06",
+    "topic": "ai_small_business",
+    "title": "Small businesses can now access GPT, Claude and Gemini Pro from a single plan",
+    "url": "https://www.the1news.com/article/small-businesses-can-now-access-gpt-claude-and-gemini-pro-from-a-single-plan",
+    "snippet": "Running a small business these days often means subscribing to separate AI apps \u2014 a writing assistant, an image editor, a video tool for social posts and a chatbot. Each LLS has its own strengths and weaknesses, with separate bills that add up every month. Tools like 1min.AI can help streamline those subscriptions and a lifetime license to the Advanced Business plan is on sale now.\n...\n1min.AI is "
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-06",
+    "topic": "ai_labs",
+    "title": "Introducing GPT-6-Astra: The most intelligent and aligned model in the world - Announcements - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/introducing-gpt-6-astra-the-most-intelligent-and-aligned-model-in-the-world/1394703/27",
+    "snippet": "Introducing GPT-6-Astra: The most intelligent and aligned model in the world - Announcements - OpenAI Developer Community\n\n# Introducing GPT-6-Astra: The most intelligent and aligned model in the world \n\n## post by sam.saffron 2 days ago \n\n## post by merefield 1 day ago \n\nIt\u2019s here:\n\n## post by merefield 1 day ago\n...\nAaaaaaand it\u2019s apparently landed in the API too:\n...\n## post by mere\n...\n1 day a"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-06",
+    "topic": "ai_labs",
+    "title": "Clarification Needed: GPT-6 Astra Was Announced for \u201cAll ChatGPT Plus Users,\u201d but Plus Access Is Currently Limited to Work/Codex - ChatGPT - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/clarification-needed-gpt-6-astra-was-announced-for-all-chatgpt-plus-users-but-plus-access-is-currently-limited-to-work-codex/1395038/1",
+    "snippet": "Clarification Needed: GPT-6 Astra Was Announced for \u201cAll ChatGPT Plus Users,\u201d but Plus Access Is Currently Limited to Work/Codex - ChatGPT - OpenAI Developer Community\n...\n# Clarification Needed: GPT-6 Astra Was Announced for \u201cAll ChatGPT Plus Users,\u201d but Plus Access Is Currently Limited to Work/Codex \n\n 2h ago \n\n## post by Ultramarine6 2 hours ago \n\n Ultramarine6 \n\n 2\n...\nI would like to ask Open"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-06",
+    "topic": "ai_labs",
+    "title": "Astra in Action: Share your Builds, Breakthroughs & Aha Moments - Community - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/astra-in-action-share-your-builds-breakthroughs-aha-moments/1394945/7",
+    "snippet": "Astra in Action: Share your Builds, Breakthroughs & Aha Moments - Community - OpenAI Developer Community\n\n## post by sps 19 hours ago \n\nGPT-6 Astra, our most intelligent model yet, is now available through the API, ChatGPT Work, and Codex.\n...\nHave you built something unexpectedly useful, delightful, unconventional, or ambitious with GPT-6 Astra? Perhaps you discovered a new prompting technique or"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-06",
+    "topic": "ai_labs",
+    "title": "Clarification Needed: GPT-6 Astra Was Announced for \u201cAll ChatGPT Plus Users,\u201d but Plus Access Is Currently Limited to Work/Codex - ChatGPT - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/clarification-needed-gpt-6-astra-was-announced-for-all-chatgpt-plus-users-but-plus-access-is-currently-limited-to-work-codex/1395038/5",
+    "snippet": "Clarification Needed: GPT-6 Astra Was Announced for \u201cAll ChatGPT Plus Users,\u201d but Plus Access Is Currently Limited to Work/Codex - ChatGPT - OpenAI Developer Community\n...\nbetween OpenAI\u2019s public launch announcement and the\n...\nIn the official GPT-6 Astra launch announcement, OpenAI stated that Astra would, over the coming days, become available to:\n...\n\u201call ChatGPT Plus, Pro, Business, and Enterp"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-06",
+    "topic": "ai_labs",
+    "title": "Introducing GPT-5.6 series: Sol, Terra and Luna. Coming July 9 10am PT - Announcements - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/introducing-gpt-5-6-series-sol-terra-and-luna-coming-july-9-10am-pt/1384931/69",
+    "snippet": "Introducing GPT-5.6 series: Sol, Terra and Luna. Coming July 9 10am PT - Announcements - OpenAI Developer Community\n...\n# Introducing GPT-5.6 series: Sol, Terra and Luna. Coming July 9 10am PT \n\n## post by codon1visao on Jul 9 \n\n## post by Mb on Jul 11 \n\nIs there any EU date set for Codex ?\n...\n## post by LarisaHaster on Jul 11\n...\n@Mb,\n...\nIt\u2019s already available in the EU, although availability m"
   }
 ]
