@@ -21076,5 +21076,183 @@
     "title": "Clarification Needed: GPT-6 Astra Was Announced for \u201cAll ChatGPT Plus Users,\u201d but Plus Access Is Currently Limited to Work/Codex - ChatGPT - OpenAI Developer Community",
     "url": "https://community.openai.com/t/clarification-needed-gpt-6-astra-was-announced-for-all-chatgpt-plus-users-but-plus-access-is-currently-limited-to-work-codex/1395038/6",
     "snippet": "Clarification Needed: GPT-6 Astra Was Announced for \u201cAll ChatGPT Plus Users,\u201d but Plus Access Is Currently Limited to Work/Codex - ChatGPT - OpenAI Developer Community\n...\ns public launch announcement and the\n...\navailability that is now documented\n...\nChatGPT Plus.\n...\nIn the official GPT-6 Astra launch announcement, OpenAI stated that Astra would, over the coming days, become available to:\n...\n\u201c"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-09-08",
+    "headline": "OpenAI shipped GPT-6 Astra, and buried in the benchmark flex is the number that actually matters.",
+    "url": "archive/2026-09-08.html",
+    "posts": {
+      "linkedin": [
+        "OpenAI just shipped a model that can find security vulnerabilities nobody's found yet.\n\nNot theoretically. GPT-6 Astra scored 100% on ExploitBench and crossed into what OpenAI calls \"Critical\" cybersecurity capability. Their own framework. Their own admission.\n\nHere's the part that actually matters for anyone running a small business online.\n\nFor years the pitch on AI was \"it helps you build faster.\" True. Also true now: it helps whoever's poking at your systems move faster too.\n\nThat's not a reason to panic. It's a reason to stop treating security like a line item you'll get to eventually.\n\nI've watched plenty of businesses ship a website, a form, a payment flow, and never once ask who's checking it. That gap used to be slow to find. It's not slow anymore.\n\nThe tools that build your business and the tools that could break it just got the same upgrade.\n\nWho's actually checking your stuff before someone else does?",
+        "Salesforce just built a door out of its own house.\n\nClaudeforce lets sales teams update pipeline, prep for meetings, and run CRM tasks straight from Claude. No dashboard. No logging into Salesforce for a lot of what reps do daily.\n\nThat's a strange move for a company that built its entire value on being the interface everyone lives inside.\n\nBut it tells you where this is going. The product isn't the screen anymore. The product is the data, the permissions, and the rules sitting underneath, with whichever AI you're already using as the front door.\n\nEvery piece of software your business pays for is about to have this same identity crisis. The UI they spent a decade perfecting stops being the moat. The API and the permission structure become the whole business.\n\nIf you're picking software right now, that's the question worth asking. Not \"how's the dashboard.\" How well does it play with an AI agent asking on your behalf.\n\nWould you rather own the interface, or own what's underneath it?",
+        "Three iPhone photos. That's the input.\n\nLi Fei-Fei's team just showed Atlas, a model that takes a handful of images and predicts what the scene looks like from any angle you didn't shoot. Not stitching. Predicting.\n\nOld 3D reconstruction needed hundreds of photos and a lot of patience. This needs three and a few minutes.\n\nI came up shooting weddings and product photos, so this one actually stopped me. The bottleneck in visual content has always been coverage. You can't be everywhere, can't shoot every angle, can't afford the crew for a full 3D capture.\n\nA model that fills in the angles you didn't get changes the math on what one photographer, one small crew, one phone can deliver.\n\nIt's early. Preliminary dynamic capabilities, by their own words. But the direction is clear: less capture, more prediction, and the gap between a full production shoot and a phone in your hand keeps closing.\n\nWould someone pay for a full 3D walkthrough shot on one iPhone? I think someone would pay for that."
+      ],
+      "threads": [
+        "OpenAI's president is out here saying this new model might be the AGI turning point. Maybe. Every big release gets that same sentence attached lately.\n\nHere's what's actually real, not hype: it hit a \"critical\" risk level for cybersecurity under their own safety framework. That's not marketing copy. That's an internal warning label.\n\nThe AGI debate is fun to argue about. The security label is the part that changes what you build this week.",
+        "Salesforce just made it so you barely have to open Salesforce anymore.\n\nClaudeforce lets you run CRM stuff straight from Claude. Pipeline updates, meeting prep, deal health, all from the chat window instead of the dashboard they spent twenty years building.\n\nFeels like the moment every software company quietly admits the interface was never the product. The data underneath was.\n\nMakes you look at every tool you pay for a little different.",
+        "Someone just showed a model that turns three iPhone photos into a full 3D scene you can walk around.\n\nNot stitched together. Predicted. It fills in angles nobody shot.\n\nI came up shooting weddings, so this one hit different. The whole game used to be coverage, how many angles you could physically get before the light or the moment was gone.\n\nFeels like that constraint is about to loosen a lot faster than anyone's ready for."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-09-08",
+    "source": "The Koerner Office",
+    "title": "He Gets These for Free and Makes $10K a Month From Them",
+    "url": "https://www.youtube.com/watch?v=Nn43yYgg0JE",
+    "video_id": "Nn43yYgg0JE"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-09-08",
+    "source": "AI Daily Brief",
+    "title": "The Multiplayer AI Sprint: Build Your Team\u2019s First Shared Agent",
+    "url": "https://www.youtube.com/watch?v=1BqWLLkJym0",
+    "video_id": "1BqWLLkJym0"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-09-08",
+    "source": "The Entrepreneur's Studio",
+    "title": "Why Great Leaders Tell Better Stories | Dr. J.J. Peterson",
+    "url": "https://www.youtube.com/watch?v=IqGdFEQRl74",
+    "video_id": "IqGdFEQRl74"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-08",
+    "topic": "model_releases",
+    "title": "OpenAI Launches GPT-6 Astra With Record AI Benchmarks",
+    "url": "https://breakingai.news/openai-launches-gpt-6-astra-with-record-ai-benchmarks/",
+    "snippet": "OpenAI Launches GPT-6 Astra With Record AI Benchmarks\n...\n# OpenAI Launches GPT-6 Astra With Record AI Benchmarks and New AGI Claims\n...\nBy Art Ryan September 7, 2026 Updated: September 7, 2026 No Comments 8 Mins Read\n\n \n\nOpenAI has introduced GPT-6 Astra, its newest frontier model and what the company describes as the \u201cworld\u2019s most intelligent and aligned model.\u201d\n...\nAstra arrives with eye-catchi"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-08",
+    "topic": "model_releases",
+    "title": "Li Fei-fei's Team Unveils the World Model Atlas, Which May Become a Core Primitive Toward AGI",
+    "url": "https://news.aibase.com/news/30883",
+    "snippet": "Li Fei-fei's Team Unveils the World Model Atlas, Which May Become a Core Primitive Toward AGI\n\n# Li Fei-fei's Team Unveils the World Model Atlas, Which May Become a Core Primitive Toward AGI\n\nTime : Sep 7, 2026 Read : 5 minute\n\nRecently, Li Fei-Fei, a pioneer in the field of artificial intelligence, and the core team of World Labs visited a16z, where they officially revealed their latest multi-mod"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-08",
+    "topic": "model_releases",
+    "title": "HUMAIN Unfurls humain-m3 - Arabic Language Model Developed by MiniMax - TelecomDrive",
+    "url": "https://telecomdrive.com/humain-unfurls-humain-m3-arabic-language-model-developed-by-minimax/",
+    "snippet": "HUMAIN Unfurls humain-m3 - Arabic Language Model Developed by MiniMax - TelecomDrive\n\n# HUMAIN Unfurls humain-m3 \u2013 Arabic Language Model Developed by MiniMax\n...\nSeptember 7, 2026 IST 3:00 PM\n\n \n\n#### HUMAIN, a PIF company delivering full-stack artificial intelligence capabilities globally, at LEAP 2026 announced humain-m3, a frontier Arabic-language model commissioned by HUMAIN and delivered by M"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-08",
+    "topic": "model_releases",
+    "title": "Introducing GPT-6 Astra: the most intelligent and aligned model in the world. | JAPAN AI NEWS",
+    "url": "https://japan-ai-news.com/introducing-gpt-6-astra-the-most-intelligent-and-aligned-model-in-the-world/",
+    "snippet": "Introducing GPT-6 Astra: the most intelligent and aligned model in the world. | JAPAN AI NEWS\n\n# Introducing GPT-6 Astra: the most intelligent and aligned model in the world.\n\n 2026 9/07 \n\n Science & Technology 2026\u5e749\u67087\u65e5\n\nGPT-6 Astra achieves state-of-the-art results on benchmarks for long-running computer-use tasks across professions and desktop apps, which means anything you can do on a computer"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-08",
+    "topic": "product_releases",
+    "title": "Buzzably launches AI content engine that puts creators in control of how they work with AI",
+    "url": "https://ca.finance.yahoo.com/news/buzzably-launches-ai-content-engine-010000303.html",
+    "snippet": "# Buzzably launches AI content engine that puts creators in control of how they work with AI\n...\nBuzzably launches AI content engine that puts creators in control of how they work with AI\n...\n# Buzzably launches AI content engine that puts creators in control of how they work with AI\n...\nNew platform integrates ideas, research, writing, fact checking and publishing in one workflow, with creators d"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-08",
+    "topic": "product_releases",
+    "title": "Berlin Psychologists Launch Mindflex, a 'Psychological AI' for the 73 Percent of Young Adults Who Overthink - Hong Kong Tribune",
+    "url": "https://hongkongtribune.com/berlin-psychologists-launch-mindflex-a-psychological-ai-for-the-73-percent-of-young-adults-who-overthink/",
+    "snippet": "Berlin Psychologists Launch Mindflex, a 'Psychological AI' for the 73 Percent of Young Adults Who Overthink - Hong Kong Tribune\n...\n# Berlin Psychologists Launch Mindflex, a \u2018Psychological AI\u2019 for the 73 Percent of Young Adults Who Overthink\n...\nBERLIN, GERMANY, September 7, 2026 \u2013 Mindflex, a Berlin-based company founded by psychologists, today announced the expanded launch of its psychological A"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-08",
+    "topic": "product_releases",
+    "title": "Foxit launches PDF editor with on-device AI workspace",
+    "url": "https://itbrief.co.uk/story/foxit-launches-pdf-editor-with-on-device-ai-workspace",
+    "snippet": "Foxit launches PDF editor with on-device AI workspace\n...\n# Foxit launches PDF editor with on-device AI workspace \n\n Mon, 7th Sep 2026 (Today) \n\n SOFIAH NICHOLE SALIVIO News Editor \n\nFoxit has launched PDF Editor 2026.2, adding on-device AI tools and a new document workspace.\n...\nThe release makes it the first mainstream PDF editor to run supported AI document tasks directly on a user's device rat"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-08",
+    "topic": "ai_agents",
+    "title": "Google Cloud Debuts Gemini Enterprise for Financial Services to Power Agentic Workflows",
+    "url": "https://thefintechtimes.com/google-cloud-debuts-gemini-enterprise-for-financial-services-to-power-agentic-workflows/",
+    "snippet": "by The Fintech Times September 8, 2026 September 4, 2026 \n\n#### As artificial intelligence shifts rapidly from passive conversational tools to autonomous, multi-step execution agents, regulated financial institutions face a crucial balancing act: deploying high-velocity AI capabilities while satisfying strict security, governance, and audit requirements. Addressing this operational challenge, Goog"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-08",
+    "topic": "ai_agents",
+    "title": "Syspro Launches Torque AI Platform for Manufacturing | Industry EMEA",
+    "url": "https://industryemea.com/news/114413-syspro-launches-torque-ai-platform-for-manufacturing",
+    "snippet": "Syspro Launches Torque AI Platform for Manufacturing | Industry EMEA\n\n 07 {{ \"2026-09-07T00:00:00+00:00\" | date \"MMM\" }} '26 \n\n Written on {{ \"2026-09-07T00:00:00+00:00\" | date \"longDate\" }} Modified on {{ \"2026-09-07T00:00:00+00:00\" | date \"longDate\" }}\n\n## The industrial AI platform automates complex shop-floor decisions while maintaining full auditability and operator control.\n\n##### www.syspro"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-08",
+    "topic": "ai_agents",
+    "title": "Salesforce Puts Its CRM Inside Claude: Claudeforce Aims to Transform the Marketing Stack",
+    "url": "https://www.portada-online.com/latest-news/salesforce-agentic-ai-claudeforce-marketing-stack/",
+    "snippet": "- Editorial Staff @portada_online \n- September 7, 2026 \n\n Salesforce and Anthropic launch Claudeforce, discover how agentic AI transforms martech and CRM data management.\n...\nSalesforce and Anthropic have launched Claudeforce to connect Claude directly with CRM data and workflows. What changes for marketing, first-party data, martech, and AdTech?\n...\nSalesforce has just executed a move far more si"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-08",
+    "topic": "ai_agents",
+    "title": "ServiceNow\u2019s Autonomous CRM Pitch: From Intent To Fulfillment, Not Another CRM UI",
+    "url": "https://www.cxtoday.com/event-news/servicenows-autonomous-crm-pitch-from-intent-to-fulfillment-not-another-crm-ui/",
+    "snippet": "ServiceNow Otto, Autonomous CRM: Inside The Shift\n...\n# ServiceNow\u2019s Autonomous CRM Pitch: From Intent To Fulfillment, Not Another CRM UI\n...\nServiceNow's Michael Ramsey says agentic workflows must stay deterministic when money and compliance are on the line.\n\n \n\nPublished: May 6, 2026\n...\nFor enterprise buyers, ServiceNow\u2019s pitch is simple. CRM can\u2019t stay a passive database. It has to orchestrate"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-08",
+    "topic": "ai_small_business",
+    "title": "AI Workflow Pro \u2014 Industry Workflows, Rebuilt with AI Agents",
+    "url": "https://aiworkflowpro.com/",
+    "snippet": "AI Workflow Pro \u2014 Industry Workflows, Rebuilt with AI Agents\n...\n## How to Add Voice Mode to Your AI Agent: CLI, Telegram, and Discord Setup Guide\n\n Gloves on, tape measure in hand \u2014 nobody types a query. Three voice surfaces for ai automation tools (terminal, Telegram, Discord), 10 TTS and 6 STT providers compared on cost and latency, plus a setup that costs nothing. \n\nLeo Kane Sep 15, 2026\n...\n#"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-08",
+    "topic": "ai_small_business",
+    "title": "Instant Web Tools Helps Digital Agencies Scale Without Expanding Their In-House Teams",
+    "url": "https://www.einpresswire.com/article/940233984/instant-web-tools-helps-digital-agencies-scale-without-expanding-their-in-house-teams",
+    "snippet": "Digital agency has built more than 400 websites through agency partnerships while providing ongoing hosting, management, SEO, and digital marketing fulfillment \n\nRICHMOND, IN, UNITED STATES, September 7, 2026 / EINPresswire.com/ -- Instant Web Tools, LLC, a digital marketing and web services company founded by Dennis Alejo, is expanding its private-label fulfillment partnerships with digital agenc"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-08",
+    "topic": "ai_small_business",
+    "title": "AI Startup Velents Expands Regional Footprint into Bahrain via Strategic Partnership with stc Bahrain at LEAP 2026",
+    "url": "https://www.fintechgate.net/251077",
+    "snippet": "AI Startup Velents Expands Regional Footprint into Bahrain via Strategic Partnership with stc Bahrain at LEAP 2026\n\n# AI Startup Velents Expands Regional Footprint into Bahrain via Strategic Partnership with stc Bahrain at LEAP 2026 \n\n Finteck Gate: Mohamed Badwi \n\n \u0627\u0644\u0625\u062b\u0646\u064a\u0646 07/\u0633\u0628\u062a\u0645\u0628\u0631/2026 - 10:57 \u0635 \n\n \n\n\u200b RIYADH, SAUDI ARABIA \u2013 l September 7, 2026 \u2013 \n\nBuilding on its rapid regional expansion acros"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-08",
+    "topic": "ai_labs",
+    "title": "Introducing Claude Design by Anthropic Labs \\ Anthropic",
+    "url": "https://www.anthropic.com/news/claude-design-anthropic-labs?from=mergeek.com&from=mergeek.com&from=mergeek.com&from=mergeek.com",
+    "snippet": "# Introducing Claude Design by Anthropic Labs \\ Anthropic\n...\nIntroducing Claude Design by Anthropic Labs \\ Anthropic\n...\nProductAnnouncements\n...\n# Introducing Claude Design by Anthropic Labs\n...\nApr 17, 2026\n...\nToday, we\u2019re launching Claude Design, a new Anthropic Labs product that lets you collaborate with Claude to create polished visual work like designs, prototypes, slides, one-pagers, and "
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-08",
+    "topic": "ai_labs",
+    "title": "How does GPT-6 actually generate 3D models in Release Demo? Via Codex + Local Blender or MCPs/APIs? - Codex - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/how-does-gpt-6-actually-generate-3d-models-in-release-demo-via-codex-local-blender-or-mcps-apis/1395391",
+    "snippet": "How does GPT-6 actually generate 3D models in Release Demo? Via Codex + Local Blender or MCPs/APIs? - Codex - OpenAI Developer Community\n\n# How does GPT-6 actually generate 3D models in Release Demo? Via Codex + Local Blender or MCPs/APIs? \n\n## post by deepnlp 50 mins ago \n\n deepnlp \n\nHi everyone! I\u2019m trying to understand how the GPT-6 demo generates home design 3d in Blender / Unreal Engine, and "
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-08",
+    "topic": "ai_labs",
+    "title": "Jakub Pachocki, Chief Scientist at OpenAI: An Alien Mind - Community - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/jakub-pachocki-chief-scientist-at-openai-an-alien-mind/1395522",
+    "snippet": "Jakub Pachocki, Chief Scientist at OpenAI: An Alien Mind - Community - OpenAI Developer Community\n\n# Jakub Pachocki, Chief Scientist at OpenAI: An Alien Mind \n\n## post by PaulBellow 1 hour ago \n\n PaulBellow Leader \n\n> In mid-2023, within the \u201cRLSlow\u201d research project, we saw the first results that gave us confidence that we will be able to scale the training of reasoning models, unlocking the capa"
   }
 ]
