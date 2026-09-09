@@ -21254,5 +21254,207 @@
     "title": "Jakub Pachocki, Chief Scientist at OpenAI: An Alien Mind - Community - OpenAI Developer Community",
     "url": "https://community.openai.com/t/jakub-pachocki-chief-scientist-at-openai-an-alien-mind/1395522",
     "snippet": "Jakub Pachocki, Chief Scientist at OpenAI: An Alien Mind - Community - OpenAI Developer Community\n\n# Jakub Pachocki, Chief Scientist at OpenAI: An Alien Mind \n\n## post by PaulBellow 1 hour ago \n\n PaulBellow Leader \n\n> In mid-2023, within the \u201cRLSlow\u201d research project, we saw the first results that gave us confidence that we will be able to scale the training of reasoning models, unlocking the capa"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-09-09",
+    "headline": "OpenAI has a model nobody's touched yet.",
+    "url": "archive/2026-09-09.html",
+    "posts": {
+      "linkedin": [
+        "OpenAI solved a problem mathematicians couldn't crack since 1822 this week.\n\nNot with a model you can use. With one they haven't released yet. It resolved Navier-Stokes, one of seven Millennium Prize problems, in about four days.\n\nSame week, Meta shipped Muse. An agent that reads your email, books your travel, pays for things. Reuters got their internal test results. It stalled out and leaked sensitive data it shouldn't have touched.\n\nTwo headlines, one story. The smart part of AI is sprinting. The safe-to-trust-it-with-your-life part is still walking.\n\nEverybody's chasing the first number. Nobody's asking hard enough about the second one.\n\nI don't think that gap closes on its own. I think somebody has to build the boring stuff in between, the checks, the guardrails, the \"wait, are you sure\" layer.\n\nWhich side of that gap are you building on right now?",
+        "Every AI pitch to a small business owner eventually hits the same wall.\n\nWhere does my data go? Who else sees it? What happens if that company gets bought or shuts down?\n\nMistral just raised three billion euros answering that exact question, at a valuation over 21 billion. Their pitch isn't the smartest model. It's sovereignty. Your data stays inside your walls, on infrastructure you control.\n\nThere's a smaller version of the same idea any of us can use today. Local AI. A model that runs on your own machine instead of someone else's cloud.\n\nListened to a breakdown this week that made it click for me: local does the private first pass on anything sensitive, cloud handles the heavy reasoning after, and a human checks anything that matters. Not either/or. Both, in the right order.\n\nFor a business owner who's nervous about AI touching customer records or financials, that's the whole pitch. Their stuff never leaves the building until they say so.\n\nWould someone pay for that peace of mind? I think someone would pay for that peace of mind.",
+        "A new tool launched this week that does something small and kind of important.\n\nFimo takes code written by Claude or Codex and keeps working on it after you close the laptop. Fixing SEO. Refreshing pages that went stale. Translating content into other languages overnight.\n\nHere's the part that actually matters. Everybody's solved \"write the code fast.\" Almost nobody's solved \"keep it alive once it's live.\"\n\nI see this constantly. Somebody builds a beautiful site or app with AI, launches it, and then it just sits there. No updates. No one watching the metrics. No one asking why traffic dropped in March.\n\nThe building part got easy. The tending part is still a job. A real one, that somebody has to actually do.\n\nThat's not a knock on the tools. It's the opportunity sitting right next to them.\n\nIf you can build fast now, what are you doing with the time you used to spend building?"
+      ],
+      "threads": [
+        "OpenAI's unreleased model solved a 200 year old math problem this week. Meta shipped a consumer AI agent that leaked data in its own internal tests. Same week, both real.\n\nEveryone's watching the intelligence number go up. Almost nobody's watching the trust number keep it company.\n\nThose are two different races. The second one is way behind, and it's the one that decides whether people actually use this stuff for anything that matters.",
+        "Local AI just means the model runs on your own machine instead of somebody else's server.\n\nThat's it. That's the whole idea people keep making complicated.\n\nHeard a good breakdown this week: let the local model handle anything private first, send it to the cloud for the heavy thinking, and keep a human checking anything that actually matters.\n\nMistral just raised three billion euros on basically that same pitch, just for enterprises instead of your laptop. Same instinct, different size.",
+        "Everybody's chasing how fast you can build something with AI now.\n\nAlmost nobody's talking about who keeps it alive after you ship it.\n\nA new tool launched this week whose whole job is refreshing stale pages and fixing SEO on autopilot after the site goes live. Which honestly tells you where the real work moved.\n\nBuilding got easy. Tending it didn't."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-09-09",
+    "source": "The Koerner Office",
+    "title": "He Turns Free Stuff Into $10K+/Month",
+    "url": "https://www.youtube.com/watch?v=a8P2K9DYJp4",
+    "video_id": "a8P2K9DYJp4"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-09-09",
+    "source": "Startup Ideas Podcast",
+    "title": "I'm Obsessed With Local AI. Here's Why",
+    "url": "https://www.youtube.com/watch?v=UtFo1ZNC2ns",
+    "video_id": "UtFo1ZNC2ns"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-09-09",
+    "source": "Corey Ganim",
+    "title": "How I Fulfill $999 AI Assessments (step by step)",
+    "url": "https://www.youtube.com/watch?v=j8TE1zl_ZI8",
+    "video_id": "j8TE1zl_ZI8"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-09",
+    "topic": "model_releases",
+    "title": "On the Navier\u2013Stokes Millennium Prize Problem | OpenAI",
+    "url": "https://openai.com/index/navier-stokes-solution/",
+    "snippet": "On the Navier\u2013Stokes Millennium Prize Problem | OpenAI\n...\nWe\u2019re sharing a solution to the Navier\u2013Stokes existence and smoothness problem, one of the Millennium Prize Problems. This proof, produced by an internal OpenAI system, shows that the dynamics of the Navier-Stokes equations for fluid motion can develop a singularity in finite time. We\u2019re sharing both a writeup of the proof and a formalizat"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-09",
+    "topic": "model_releases",
+    "title": "Introducing Muse: The World\u2019s First Personal AI Agent Built for Everyone",
+    "url": "https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/",
+    "snippet": "Introducing Muse: The World\u2019s First Personal AI Agent Built for Everyone\n...\n# Introducing Muse: The World\u2019s First Personal AI Agent Built for Everyone \n\nSeptember 8, 2026 September 8, 2026\n...\nMeta built Muse from\n...\nAI agent.\n...\nToday, Meta is introducing Muse, a secure, private personal AI agent that proactively helps with people\u2019s goals and suggests ideas. Because personal agents need a new "
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-09",
+    "topic": "model_releases",
+    "title": "OpenAI GPT-6 Astra is now generally available on Amazon Bedrock - AWS",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/openai-gpt-6-astra-on-amazon-bedrock/",
+    "snippet": "# OpenAI GPT-6 Astra is now generally available on Amazon Bedrock - AWS\n\nPublished: 2026-09-08T22:49:00+00:00\nSource: aws.amazon.com (aws.amazon.com)\nLanguage: en\n\n## Story\n\nOpenAI GPT-6 Astra is now generally available on Amazon Bedrock - AWS Skip to main content\n\n# OpenAI GPT-6 Astra is now generally available on Amazon Bedrock\n\nPosted on: Sep 8, 2026\n\nToday, AWS announces the general availabili"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-09",
+    "topic": "model_releases",
+    "title": "Inception Launches Mercury 2.5, the Next Tier of Intelligence for Diffusion LLMs",
+    "url": "https://www.businesswire.com/news/home/20260908593295/en/Inception-Launches-Mercury-2.5-the-Next-Tier-of-Intelligence-for-Diffusion-LLMs",
+    "snippet": "# Inception Launches Mercury 2.5, the Next Tier of Intelligence for Diffusion LLMs\n...\nInception Launches Mercury 2.5, the Next Tier of Intelligence for Diffusion LLMs\n...\n# Inception Launches Mercury 2.5, the Next Tier of Intelligence for Diffusion LLMs\n...\n- Founded by the Stanford, UCLA, and Cornell\n...\nthe first diffusion LLM, Inception now ships Mercury 2.5 with more intelligence\n...\nlower co"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-09",
+    "topic": "model_releases",
+    "title": "Google launches Gemini 3 across Search and developer tools \u2013 DailySynapse",
+    "url": "https://dailysynapse.com/news/google-launches-gemini-3-across-search-and-developer-tools/",
+    "snippet": "Google launches Gemini 3 across Search and developer tools \u2013 DailySynapse\n\nTuesday 8 September 2026\n\n# Google launches Gemini 3 across Search and developer tools\n\n4 August 2026, 16:51\u00b7 1 min read\n\nGoogle launched Gemini 3, describing it as its \u201cmost intelligent model\u201d and positioning it as a stronger contender among top AI systems. The new LLM is designed to improve reasoning, understand more nuan"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-09",
+    "topic": "product_releases",
+    "title": "Meta launches AI agent that can access other apps to send emails, make payments",
+    "url": "https://www.reuters.com/business/meta-launches-ai-agent-that-can-access-other-apps-send-emails-make-payments-2026-09-08/",
+    "snippet": "Meta launches AI agent that can access other apps to send emails, make payments | Reuters\n[Skip to main content](#main-content)\n[Exclusive news, data and analytics for financial market professionalsLearn more aboutRefinitiv\n](https://www.reuters.com/differentiator/)\n[](https://www.reuters.com/)\n[Subscribe](https://www.reuters.com/account/subscribe/offer/&journeyStart=navigation)\n# Meta launches AI"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-09",
+    "topic": "product_releases",
+    "title": "Meta Introduces Muse, an A.I. Agent That Can Send Your Emails and Book Your Travel",
+    "url": "https://www.nytimes.com/2026/09/08/technology/meta-muse-ai-agent.html",
+    "snippet": "Meta Introduces Muse, an A.I. Agent That Can Send Your Emails and Book Your Travel - The New York Times\n...\nhttps://www.nytimes.com/)\nAdvertisement\n[SKIP ADVERTISEMENT](#after-top)\nSupported by\n[SKIP ADVERTISEMENT](#after-sponsor)\n# Meta Rolls Out A.I. Agent That Can Send Your Emails and Book Your Travel\nMuse, Meta\u2019s new A.I. agent, acts as a personal digital assistant that connects to Facebook an"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-09",
+    "topic": "product_releases",
+    "title": "Meta Releases Muse, a Personal AI Agent With Privacy \u2018Built Into It\u2019 | WIRED",
+    "url": "https://www.wired.com/story/meta-releases-muse-a-personal-ai-agent-with-privacy-built-into-it/",
+    "snippet": "Meta Releases Muse, a Personal AI Agent With Privacy \u2018Built Into It\u2019 | WIRED\n...\n# Meta Releases Muse, a Personal AI Agent With Privacy \u2018Built Into It\u2019\n...\nMeta announced Tuesday the release of Muse, a personal AI agent that people can message to automate digital tasks in a secure cloud environment, all while relying on security and privacy that the company says is \u201cbuilt into it\u201d from the start.\n"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-09",
+    "topic": "product_releases",
+    "title": "Meta pushes into personal AI agents as company faces public reckoning over privacy and safety",
+    "url": "https://www.cnbc.com/2026/09/08/meta-personal-ai-agents-public-reckoning-privacy-safety.html",
+    "snippet": "Meta pushes into\n...\n# Meta pushes into personal AI agents as company faces public reckoning over privacy and safety\n...\n- Meta unveiled its Muse personal agent app that comes in a free tier or a monthly subscription costing $20 or $100 depending on usage.\n- The debut comes during a particularly fraught time for the company and the broader tech and AI industry. \n- Meta AI chief Alexandr Wang said "
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-09",
+    "topic": "ai_agents",
+    "title": "Fimo launches autonomous websites, making AI code editable and self-improving",
+    "url": "https://www.einpresswire.com/article/940398146/fimo-launches-autonomous-websites-making-ai-code-editable-and-self-improving",
+    "snippet": "Fimo launches autonomous websites, making AI code editable and self-improving \n\n# Fimo launches autonomous websites, making AI code editable and self-improving\n\nNews Provided By Fimo.ai September 08, 2026, 13:45 GMT\n...\nTurn AI code from any coding agent, like Claude Cod, into an autonomous website with agents working 24/7 to drive SEO, translations, and content marketing.\n\nFor enterprises, Fimo t"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-09",
+    "topic": "ai_agents",
+    "title": "Alphio AI Financial Agent Is Now Available on AWS Marketplace",
+    "url": "https://www.prnewswire.com/news-releases/alphio-ai-financial-agent-is-now-available-on-aws-marketplace-302872272.html",
+    "snippet": "# Alphio AI Financial Agent Is Now Available on AWS Marketplace\n...\nAlphio brings natural-language market intelligence, structured financial analysis, and agentic workflow automation to fintech and financial product teams through AWS Marketplace.\n...\nNEW YORK, Sept. 8, 2026 /PRNewswire/ -- Alphio.AI today announced the launch of its AI Financial Agent on AWS Marketplace, giving AWS customers direc"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-09",
+    "topic": "ai_agents",
+    "title": "New agentic AI platform sounds death knell for manual presentation tools",
+    "url": "https://www.prnewswire.com/news-releases/new-agentic-ai-platform-sounds-death-knell-for-manual-presentation-tools-302869916.html",
+    "snippet": "New agentic AI platform sounds death knell for manual presentation tools\n\nSep 08, 2026, 07:00 ET\n\nSembly AI launches Sembly 3.0 in biggest evolution since 2019\n\nNEW YORK, Sept. 8, 2026 /PRNewswire/ -- Today, Sembly AI launches Sembly 3.0, an agentic AI platform that transforms an organisation's documents, meetings, and CRM content into finished, fully branded presentations, proposals, case studies"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-09",
+    "topic": "ai_small_business",
+    "title": "NiteShyft Announces October Launch Of AI Business Operating Platform For Small Companies | Markets Insider",
+    "url": "https://markets.businessinsider.com/news/stocks/niteshyft-announces-october-launch-of-ai-business-operating-platform-for-small-companies-1036530656",
+    "snippet": "NiteShyft Announces October Launch Of AI Business Operating Platform For Small Companies | Markets Insider\n\n# NiteShyft Announces October Launch Of AI Business Operating Platform For Small Companies\n\nPRESS RELEASE Plentisoft \n\nSep. 8, 2026, 11:07 PM\n\nNiteShyft will open its AI business operating platform to the public in October 2026, following private testing in which AI agents completed more tha"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-09",
+    "topic": "ai_small_business",
+    "title": "AI platform FndrOS wants to keep startup founders organised - Startup Daily",
+    "url": "https://www.startupdaily.net/advice/business-strategy/ai-platform-fndros-wants-to-keep-startup-founders-organised/",
+    "snippet": "AI platform FndrOS wants to keep startup founders organised - Startup Daily\n\n# AI platform FndrOS wants to keep startup founders organised\n\n FndrOS turns founder chaos into one AI command deck for planning, research, fundraising and milestones. \n\n Simon Thomsen \n\nSep 9, 2026 2 min read\n\n FndrOS founder Geoff Gourley \n\n##### Entrepreneur Geoff Gourley has launched FndrOS, an AI platform helping fou"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-09",
+    "topic": "ai_small_business",
+    "title": "AgentCX Labs Launches Agent Builder Studio: Agencies and BPOs Can Now Build, Brand and Sell AI Agents Without Code",
+    "url": "https://www.einpresswire.com/article/940697126/agentcx-labs-launches-agent-builder-studio-agencies-and-bpos-can-now-build-brand-and-sell-ai-agents-without-code",
+    "snippet": "GMT \n\nAgentCX Labs launches Agent Builder Studio: white-label AI agents for agencies and BPOs.\n...\nAgencies and BPOs describe an agent in plain language. Studio builds it on their own AI infrastructure and delivers it under their brand. Founding Beta open.\n...\nNEW YORK, NY, UNITED STATES, September 8, 2026 / EINPresswire.com/ -- AgentCX Labs, the white-label AI agent platform for agencies and busi"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-09",
+    "topic": "ai_small_business",
+    "title": "Amwhiz Delivers HubSpot CRM Services to Businesses Across Global Markets \u2013 The News Cartel Daman",
+    "url": "https://daman.thenewscartel.com/amwhiz-delivers-hubspot-crm-services-to-businesses-across-global-markets/",
+    "snippet": "Chennai (Tamil Nadu) [India], September 8: Amwhiz provides comprehensive HubSpot CRM services to businesses across India and international markets, helping organizations improve sales, marketing, customer service, automation, and operational processes through structured CRM solutions.\n...\nThe company offers end-to-end HubSpot implementation services, onboarding, custom integrations, CRM migration,"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-09",
+    "topic": "ai_labs",
+    "title": "Introducing AlphaGenome Atlas",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
+    "snippet": "# Introducing AlphaGenome Atlas\n\nPublished: 2026-09-08T14:00:00+00:00\nSource: blog.google (blog.google)\nLanguage: en\n\n## Story\n\nIntroducing AlphaGenome Atlas\n\n# AlphaGenome Atlas: a high-resolution map of human DNA\n\nSep 08, 2026\n\n|\n\nAlphaGenome Atlas is the most comprehensive catalogue of how genetic mutations affect molecular biology.\n\n---\n\nPushmeet KohliVP Science, Google DeepMind & Chief Scient"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-09",
+    "topic": "ai_labs",
+    "title": "Making sovereign, open-weight AI the technology frontier | Mistral",
+    "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+    "snippet": "# Making sovereign, open-weight AI the technology frontier | Mistral\n\nPublished: 2026-09-09T07:43:39+00:00\nSource: mistral.ai (mistral.ai)\nLanguage: en\n\n## Story\n\nMaking sovereign, open-weight AI the technology frontier | Mistral\n\nCompany\n\nMistral raises \u20ac3B to make sovereign, open-weight AI the technology frontier\n\nMistral today announced that it has raised \u20ac3 billion in a Series D funding round "
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-09",
+    "topic": "ai_labs",
+    "title": "AlphaGenome Atlas: Molecular predictions for 9 Billion human DNA ...",
+    "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+    "snippet": "AlphaGenome Atlas: Molecular predictions for 9 Billion human DNA variants \u2014 Google DeepMind\n\n September 8, 2026 Science\n...\n# AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome\n...\nToday, we are introducing AlphaGenome Atlas: a platform containing predictions for the effects of 9 billion single-nucleotide variants \u2014 every single-letter change possible \u2014 in "
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-09",
+    "topic": "ai_labs",
+    "title": "Funding grants for new research into AI and teen development | OpenAI",
+    "url": "https://openai.com/index/teen-development-research-grants",
+    "snippet": "# Funding grants for new research into AI and teen development | OpenAI\n...\nFunding grants for new research into AI and teen development | OpenAI\n...\n# Funding grants for new research into AI and teen development\n...\nOpenAI is committing $5 million to support independent research on how generative AI affects the lives and development of young people ages 13\u201317.\n...\nOpenAI is committing $5 million "
   }
 ]
