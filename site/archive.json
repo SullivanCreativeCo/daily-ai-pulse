@@ -21456,5 +21456,183 @@
     "title": "Funding grants for new research into AI and teen development | OpenAI",
     "url": "https://openai.com/index/teen-development-research-grants",
     "snippet": "# Funding grants for new research into AI and teen development | OpenAI\n...\nFunding grants for new research into AI and teen development | OpenAI\n...\n# Funding grants for new research into AI and teen development\n...\nOpenAI is committing $5 million to support independent research on how generative AI affects the lives and development of young people ages 13\u201317.\n...\nOpenAI is committing $5 million "
+  },
+  {
+    "kind": "digest",
+    "date": "2026-09-10",
+    "headline": "OpenAI shipped GPT-6 Astra last week and this week they told us what it's supposed to mean.",
+    "url": "archive/2026-09-10.html",
+    "posts": {
+      "linkedin": [
+        "OpenAI's chief scientist just described their own model as something they don't fully understand.\n\nHe called Astra an \"Alien Mind.\" Said AI is grown, not designed.\n\nThat sounds humble. It's not humble. It's a pricing strategy.\n\nIf nobody, including the people who built it, can explain exactly how it works, you can't really argue with the results it gives you. You just trust it or you don't use it.\n\nI've seen this move before, just in a smaller room. A guy who wants a testimonial without evidence, or a contractor who says \"trust me\" instead of showing the estimate. Same energy, different scale.\n\nThe companies I trust are the ones that show their work. Not the ones telling me the work is too mysterious to show.\n\nWhat's the actual benchmark here? Not the vibes, the number.",
+        "The same week OpenAI released its flagship model, DeepSeek released one that costs a quarter as much to run.\n\nEverybody's watching the intelligence race. The real race is the cost race.\n\nDeepSeek's new model cut the memory it needs down to a fraction of the last version. Same ballpark smarts, way less compute. That number matters more than any benchmark chart.\n\nBecause think about what happens next. The frontier labs keep pushing the ceiling up. The open models keep pushing the floor down. And the floor is where most small businesses actually live.\n\nYou don't need the smartest model. You need the one that gets the job done without eating your margin.\n\nDo more with the same, not the same with less.\n\nWhich one are you actually chasing right now, the ceiling or the floor?",
+        "HoneyBook just got picked into ChatGPT's small business collection, and that's a bigger deal than it sounds.\n\nSixteen tools got the invite. Stripe, Shopify, Slack, Canva, and HoneyBook, sitting next to each other inside ChatGPT.\n\nConnect it and ChatGPT stops giving you generic advice. It starts answering from your actual account. Who's overdue. What worked at that venue last time. Whether you should raise your prices, backed by your own bookings instead of a blog post.\n\nI spent years helping small business owners tell their story because nobody else was going to do it for them. This is the same fight in a new outfit. The business of one, doing the job of five, finally getting a tool built for exactly that person instead of a department that doesn't exist.\n\nBe what you need. That's basically what OpenAI just built a feature around.\n\nHow many places does your business's memory currently live?"
+      ],
+      "threads": [
+        "OpenAI's new model just hit their own \"Critical\" cybersecurity threshold. That's not a marketing line, that's their own safety framework saying this thing can do real offensive security work. They built new blocking systems just to ship it anyway.\n\nEvery launch used to be about who's smartest. This one's about who can be trusted with the keys. Different question. Bigger stakes.",
+        "Most AI tools that \"build\" something for you stop the second they generate it. n8n's new assistant actually runs the workflow it built, reads the real execution logs, and fixes what broke before it hands it back to you.\n\nThat's the whole bar, honestly. Would someone pay for a tool that just makes something? Or one that makes it, tests it, and proves it works? I think we know the answer.",
+        "Coding agents write the code now. So somebody built an agent whose only job is reviewing the first agent's work before a human ever sees it.\n\nThat's not a gimmick, that's just management. Every fast worker needs a second set of eyes, human or not. We just moved the org chart into the software.\n\nFeels less like AI replacing a job and more like AI finally admitting it needs a manager too."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-09-10",
+    "source": "AI Daily Brief",
+    "title": "Why Astra Is the Most Significant and Confounding Model in a Very Long Time",
+    "url": "https://www.youtube.com/watch?v=Wqz2yyUCtiw",
+    "video_id": "Wqz2yyUCtiw"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-10",
+    "topic": "model_releases",
+    "title": "China's DeepSeek launches V4.1-Flash model | Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/chinas-deepseek-launches-v41-flash-model-2026-09-10/",
+    "snippet": "China's DeepSeek launches V4.1-Flash model | Reuters\n[Skip to main content](#main-content)\n[Exclusive news, data and analytics for financial market professionalsLearn more aboutRefinitiv\n](https://www.reuters.com/differentiator/)\n[](https://www.reuters.com/)\n[Subscribe](https://www.reuters.com/account/subscribe/offer/&journeyStart=navigation)\n# China's DeepSeek launches V4.1-Flash model\nBy Reuters"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-10",
+    "topic": "model_releases",
+    "title": "GPT-6 Astra: The next generation in intelligence for work",
+    "url": "https://openai.com/index/gpt-6-astra-next-generation-work/",
+    "snippet": "GPT-6 Astra: The next generation in intelligence for work | OpenAI\n...\n# GPT\u20116 Astra: The next generation in intelligence for work\n...\nLast week we introduced GPT\u20116 Astra, the world\u2019s most intelligent and aligned model, now available in ChatGPT Work, Codex, and the API. Astra is state-of-the-art on computer use, browsing, professional work, software engineering, cybersecurity, and science, so team"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-10",
+    "topic": "model_releases",
+    "title": "OpenAI claims GPT-6 Astra is an ethereal 'Alien Mind' with AGI-like qualities \u2014 company warns of alignment challenges as new frontier leader emerges | Tom's Hardware",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-claims-gpt-6-astra-is-an-ethereal-alien-mind-with-agi-like-qualities-company-warns-of-alignment-challenges-as-new-frontier-leader-emerges",
+    "snippet": "By Jon Martindale\n...\nSeptember 2026\n...\nMeanwhile,\n...\n, intelligent-\n...\n.\n\n (Image credit: Al Drago/Bloomberg via Getty Images) \n\n\"AI is grown, more than designed,\" OpenAI's chief scientist, Jakub Pachocki, said in a new blog post on the company's latest GPT-6 Astra release. Titling the piece \"An Alien Mind,\" Pachocki portrays the latest large language model as something more ethereal and harde"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-10",
+    "topic": "model_releases",
+    "title": "DeepSeek V4.1 Flash Officially Released: 552B MoE New Architecture, Fully Exceeds V4 Pro",
+    "url": "https://news.aibase.com/news/30957",
+    "snippet": "DeepSeek V4.1 Flash Officially Released: 552B MoE New Architecture, Fully Exceeds V4 Pro\n\n# DeepSeek V4.1 Flash Officially Released: 552B MoE New Architecture, Fully Exceeds V4 Pro\n\nTime : Sep 10, 2026 Read : 4 minute\n\nDeepSeek V4.1 Flash model is released. It is the smallest model in its new series of model structures, with native multi-modal visual understanding capabilities. The design of the n"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-10",
+    "topic": "product_releases",
+    "title": "Shipt becomes the latest delivery app with an AI shopping assistant",
+    "url": "https://techcrunch.com/2026/09/09/shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant/",
+    "snippet": "Shipt becomes the latest delivery app with an AI shopping assistant | TechCrunch\n\nPosted:\n\n7:51 AM PDT \u00b7 September 9, 2026\n\nImage Credits: Shipt /\n\n- Aisha Malik\n\n# Shipt becomes the latest delivery app with an AI shopping assistant\n\nShipt, the same-day delivery platform owned by Target, is the latest delivery app to join the AI cart race. The company announced on Wednesday that its new \u201cAsk Shipt"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-10",
+    "topic": "product_releases",
+    "title": "Spice Money launches Ojas, a human-like Agentic AI Executive for financial services",
+    "url": "https://cxotoday.com/media-coverage/spice-money-launches-ojas-a-human-like-agentic-ai-executive-for-financial-services/",
+    "snippet": "Spice Money launches Ojas, a human-like Agentic AI Executive for financial services\n...\n# Spice Money launches Ojas, a human-like Agentic AI Executive for financial services\n...\nSpice Money today announced the launch of Ojas, a human-like Agentic AI Executive for financial services that allows users to interact through natural voice and face-to-face video conversations, much like speaking to anoth"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-10",
+    "topic": "product_releases",
+    "title": "\"Aura 1.0 Launches Today, Pushing the Frontier of Agentic AI in Game Development\" - Games Press",
+    "url": "https://www.gamespress.com/en-US/Aura-10-Launches-Today-Pushing-the-Frontier-of-Agentic-AI-in-Game-Deve",
+    "snippet": "Out Best-in-Class Multi\n...\nagent AI Assistant with Unlimited Usage in\n...\nMode, Robust Features, New Partnerships and Additional Platform Support\n...\nSAN FRANCISCO \u2013 Sept. 9, 2026 \u2013 Ramen announced today the launch of Aura 1.0, its AI development agent for game developers building on Unity and Unreal Engine. The release brings a redesigned interface, frontier-level performance with its Verificati"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-10",
+    "topic": "product_releases",
+    "title": "Lynote.ai Launches Integrated Platform for AI Content Detection and Productivity",
+    "url": "https://www.prnewswire.com/news-releases/lynoteai-launches-integrated-platform-for-ai-content-detection-and-productivity-302873460.html",
+    "snippet": "Lynote.ai Launches Integrated Platform for AI Content Detection and Productivity\n\n Lynote.ai \n\nSep 10, 2026, 04:00 ET\n\nSINGAPORE, Sept. 10, 2026 /PRNewswire/ -- According to McKinsey's 2026 Global Service Industry AI Adoption Report, which surveyed 9,100 professionals across the legal, financial, healthcare, and consulting sectors, 74% now use AI in their content creation and communications. Again"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-10",
+    "topic": "ai_agents",
+    "title": "Announcing ADK for Kotlin 1.0: Building Production-Ready AI Agents in Kotlin, Android, and Beyond\n            \n            \n            - Google Developers Blog",
+    "url": "https://developers.googleblog.com/announcing-adk-for-kotlin-10-building-production-ready-ai-agents-in-kotlin-android-and-beyond/",
+    "snippet": "Today, we're thrilled to announce the 1.0 general availability release of the Agent Development Kit (ADK) for Kotlin! Check out the GitHub repository to dive into the code and build your first agent today, and explore the documentation.\n...\nWhen we introduced ADK for Kotlin 0.1.0, our mission was to bring idiomatic, lightweight, and composable AI agent development to Kotlin, Java, and Android deve"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-10",
+    "topic": "ai_agents",
+    "title": "Qodo Launches the First Agent-to-Agent Code Review and",
+    "url": "https://www.globenewswire.com/news-release/2026/09/09/3358726/0/en/qodo-launches-the-first-agent-to-agent-code-review-and-governance.html",
+    "snippet": "## New agent-first toolbox integrates independent adversarial code review directly into AI coding workflows uplifting humans to focus on standards and risk control\n...\nSeptember 09, 2026 09:00 ET | Source: Qodo \n\nNEW YORK, Sept. 09, 2026 (GLOBE NEWSWIRE) -- Qodo, the AI Code Quality and Governance Platform, today announced the launch of its Agentic Toolbox, a unified suite of agent tools and skill"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-10",
+    "topic": "ai_agents",
+    "title": "Introducing n8n Assistant \u2013 n8n Blog",
+    "url": "https://blog.n8n.io/introducing-n8n-assistant/",
+    "snippet": "Introducing n8n Assistant \u2013 n8n Blog\n...\n# Introducing n8n Assistant\n\n Paul Gordon, n8n September 9, 2026 \u2219 5 minutes read \n\n \n\nIf you've built anything in n8n, you know the gap: you can describe what you want to automate in a sentence, but that's not the same as knowing which nodes to use, in what order, configured how, and connected to which accounts. And when the first execution fails with an e"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-10",
+    "topic": "ai_agents",
+    "title": "Aziro Launches Aziron, Bringing Real Execution to Enterprise AI Agents \u2013 Express Press Release Distribution",
+    "url": "https://express-press-release.net/news/2026/09/09/1769758",
+    "snippet": "Aziro Launches Aziron, Bringing Real Execution to Enterprise AI Agents \u2013 Express Press Release Distribution\n\n# Aziro Launches Aziron, Bringing Real Execution to Enterprise AI Agents\n\nPosted on 2026-09-09 by Aziro (Formerly MSys Technologies) in Technology // 0 Comments\n\nAlpharetta, Georgia, 2026-09-09 \u2014 / EPR Network/ \u2014 Aziron is Aziro\u2019s enterprise agent execution platform for organizations that n"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-10",
+    "topic": "ai_agents",
+    "title": "Automation Anywhere's New Agentic Procure-to-Pay Solution Extends Autonomous Finance Across the Procurement Lifecycle",
+    "url": "https://www.prnewswire.com/news-releases/automation-anywheres-new-agentic-procure-to-pay-solution-extends-autonomous-finance-across-the-procurement-lifecycle-302873084.html",
+    "snippet": "s New Agentic Procure-to-Pay Solution Extends Autonomous Finance Across the Procurement Lifecycle\n...\nConfigurable and ready-to-deploy, the AI-powered solution orchestrates the full procurement lifecycle across existing teams, systems, and tools \u2014 helping finance leaders govern spend and address exceptions earlier.\n...\nSAN JOSE, Calif., Sept. 9, 2026 /PRNewswire/ -- Automation Anywhere, the leadin"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-10",
+    "topic": "ai_small_business",
+    "title": "HoneyBook ChatGPT Plugin: Connect Your Account and Just Ask",
+    "url": "https://www.honeybook.com/blog/honeybook-chatgpt-plugin",
+    "snippet": "Yesterday, HoneyBook was picked by OpenAI as one of sixteen tools in the new Small Business collection in ChatGPT, alongside Stripe, Shopify, Slack, Canva, Dropbox and Docusign, a collection built for the people who run the whole business themselves. A huge thank you to the OpenAI team for featuring HoneyBook.\n...\nYou can now connect your HoneyBook account to ChatGPT, and once you do, ChatGPT answ"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-10",
+    "topic": "ai_small_business",
+    "title": "Campaign Monitor Launches Marketing Studio, Bringing",
+    "url": "https://www.globenewswire.com/news-release/2026/09/09/3358981/0/en/campaign-monitor-launches-marketing-studio-bringing-campaign-creation-design-translation-and-social-publishing-into-a-unified-smart-workflow.html",
+    "snippet": "September 09, 2026 13:16 ET | Source: Marigold \n\nNASHVILLE, Tenn., Sept. 09, 2026 (GLOBE NEWSWIRE) -- Marigold, a global marketing intelligence company focused on helping growing businesses build stronger customer relationships, today announced the launch of Marketing Studio, a new campaign creation experience inside Campaign Monitor. Marketing Studio brings five smart capabilities together in a s"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-10",
+    "topic": "ai_small_business",
+    "title": "NiteShyft Announces October Launch Of AI Business Operating Platform For Small Companies - Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/companies/press-release/8e4aab5f18918016971df1be901957abad3661812c0ea6937ef7fe1755121520",
+    "snippet": "NiteShyft Announces October Launch Of AI Business Operating Platform For Small Companies - Nikkei Asia\n\n# NiteShyft Announces October Launch Of AI Business Operating Platform For Small Companies\n\nSeptember 9, 2026 12:07 JST| Provided by Plentisoft\n\nNiteShyft will open its AI business operating platform to the public in October 2026, following private testing in which AI agents completed more than "
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-10",
+    "topic": "ai_labs",
+    "title": "Mapping the Code of Life: How AlphaGenome Atlas is Helping Australian Researchers",
+    "url": "https://blog.google/intl/en-au/company-news/technology/alphagenome-atlas-helping-australian-researchers/",
+    "snippet": "# Mapping the Code of Life: How AlphaGenome Atlas is Helping Australian Researchers\n...\nThis week, Google DeepMind launched AlphaGenome Atlas \u2013 a free, open platform powered by AI that maps and predicts the effects of all 9 billion single-letter DNA changes across the entire human genome. It is the most comprehensive catalogue of how genetic mutations affect human biology, and Australian researche"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-10",
+    "topic": "ai_labs",
+    "title": "An alignment assessment of recent cybersecurity incidents \\ Anthropic",
+    "url": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents",
+    "snippet": "An alignment assessment of recent cybersecurity incidents \\ Anthropic\n...\n# An alignment assessment of recent cybersecurity incidents\n...\nhave internet access\n...\nBeyond these specific incidents, we are establishing\n...\nprocess for publishing what we learn about model behavior and alignment beyond what has been reported in our system cards, with clear criteria for what we report and when we report"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-10",
+    "topic": "ai_labs",
+    "title": "AI maps global methane emissions from space",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/mapping-global-methane-emissions-from-space/",
+    "snippet": "AI maps global methane emissions from space\n\n# A new deep learning model maps global methane emissions from space.\n\nVishal Batchu\n\nResearch Engineer, Google Research\n\nSep 09, 2026\n\nIn a new study published in PNAS, Google and NASA\u2019s Jet Propulsion Laboratory (JPL) introduced MAPL-EMIT, an AI model that tracks methane emissions globally from space using NASA\u2019s EMIT instrument.\n\nMethane is a potent "
   }
 ]
