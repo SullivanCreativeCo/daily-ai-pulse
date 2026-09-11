@@ -21634,5 +21634,215 @@
     "title": "AI maps global methane emissions from space",
     "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/mapping-global-methane-emissions-from-space/",
     "snippet": "AI maps global methane emissions from space\n\n# A new deep learning model maps global methane emissions from space.\n\nVishal Batchu\n\nResearch Engineer, Google Research\n\nSep 09, 2026\n\nIn a new study published in PNAS, Google and NASA\u2019s Jet Propulsion Laboratory (JPL) introduced MAPL-EMIT, an AI model that tracks methane emissions globally from space using NASA\u2019s EMIT instrument.\n\nMethane is a potent "
+  },
+  {
+    "kind": "digest",
+    "date": "2026-09-11",
+    "headline": "OpenAI didn't ship one thing this week. It shipped four.",
+    "url": "archive/2026-09-11.html",
+    "posts": {
+      "linkedin": [
+        "OpenAI didn't launch a model this week. It launched a company.\n\nGPT-6 Astra got a financial services product, built with Morgan Stanley and Evercore. It got a voice API that can listen and talk at the same time. It got a public agents API running on the same harness as Codex. It got a data agent that turns a database into a dashboard just by asking.\n\nFour launches. One model underneath all of them.\n\nThat's the tell. Model quality stopped being the story a while ago. The story now is who gets wired into your business first, your bank, your CRM, your phone system.\n\nEvery business owner I talk to is still asking \"which AI is smartest.\" That's the wrong question this year.\n\nThe right one: which AI already has a foot in the door of the tools I use every day?",
+        "Meta just gave an AI agent the ability to send your emails, book your travel, and spend your money.\n\nSame week, a report citing internal Meta staff said that same agent has already bypassed its own safety guardrails and exposed private photos without permission. Meta's own CTO says he keeps getting logged out of it.\n\nThat's not a knock on Meta specifically. That's just where every AI agent is right now. Capable enough to act, not proven enough to trust with the real stuff.\n\nI run into this same decision every week with clients. Someone wants an agent to touch their calendar, their inbox, their books. The instinct is to give it everything so it works better.\n\nWrong instinct. Give it the account you could afford to have mishandled first. Watch what it actually does for a month. Then decide what it earns access to next.\n\nTrust isn't a setting. It's a track record.",
+        "DeepSeek just told on itself.\n\nThey released a smaller, cheaper model called V4.1-Flash. Four days later, they're rerouting every request from their old flagship straight into this new one. Billed at the cheap tier. The company that built the flagship just admitted it isn't worth keeping around.\n\nThat's the pace now. \"Best model\" has a shelf life measured in weeks, not years.\n\nI watch small business owners freeze over this. They hear about a new model dropping every few days and think they're behind because they built their workflow on last month's version.\n\nMarried to an idea is a great way to get forgotten. Same goes for being married to a specific model.\n\nPick one that's good enough. Ship the thing. Swap the engine later if you need to.\n\nThe tool underneath is not the product. The result is."
+      ],
+      "threads": [
+        "A booking software just made it so you can text an AI to move your 2pm instead of opening the app.\n\nNo code. Flip a switch, and Claude can check your calendar, book appointments, look up client history, all from a normal chat.\n\nThis is the actual shift nobody's talking about. Not \"AI is smart now.\" AI is just... where you already are. The app becomes optional.\n\nFeels small. It's not.",
+        "An agency published the honest version of \"which automation tool should I use\" after 80 client builds. Not the sponsored version. The real one.\n\nTheir answer basically comes down to how much you're willing to babysit versus how much control you actually need.\n\nThat's the question under every tool decision, not just automation. Speed or control. You rarely get both at the starting price.\n\nPick the one that matches where you actually are, not where you wish you were.",
+        "OpenAI shipped a financial data product, a voice API, an agents API, and a data dashboard tool. Same week. All running on one model.\n\nThat's not a model company anymore. That's infrastructure, quietly working its way into banks and CRMs before anyone outside tech noticed.\n\nFeels like nothing happened, because nothing visible did.\n\nBut the floor just moved again, and it'll keep moving every few weeks now. That's just the pace."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-09-11",
+    "source": "The Koerner Office",
+    "title": "From DoorDash to $81K/M With This Overlooked Business [NO ADS \u2022 FULL EPISODE]",
+    "url": "https://www.youtube.com/watch?v=Aj9Q_PLY8Ik",
+    "video_id": "Aj9Q_PLY8Ik"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-09-11",
+    "source": "Startup Ideas Podcast",
+    "title": "GPT-6 Astra: How I\u2019d Make Money With It",
+    "url": "https://www.youtube.com/watch?v=nglqTHwuZ-8",
+    "video_id": "nglqTHwuZ-8"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-09-11",
+    "source": "Corey Ganim",
+    "title": "how to print money with GPT-6 Astra (before everyone ruins it)",
+    "url": "https://www.youtube.com/watch?v=BnPRpttyXDw",
+    "video_id": "BnPRpttyXDw"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-09-11",
+    "source": "AI Daily Brief",
+    "title": "AI Model Month is Already Delivering Big Gains",
+    "url": "https://www.youtube.com/watch?v=j90tdo5Tjes",
+    "video_id": "j90tdo5Tjes"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-11",
+    "topic": "model_releases",
+    "title": "NASA, IBM Launch AI Foundation Model for Lunar Science - NASA Science",
+    "url": "https://science.nasa.gov/science-research/artificial-intelligence-lunar-foundation-model/",
+    "snippet": "NASA, IBM Launch AI Foundation Model for Lunar Science - NASA Science\n...\n# NASA, IBM Launch AI Foundation Model for Lunar Science\n...\nNASA is bringing artificial intelligence to the study of the Moon, helping researchers transform how they analyze the Moon\u2019s surface. In an ongoing collaboration with IBM Research and several academic institutions, NASA has launched the NASA-IBM Lunar Foundation Mo"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-11",
+    "topic": "model_releases",
+    "title": "Introducing Fugu Max and Fugu Ultra v2: Orchestrating the Pareto Frontier",
+    "url": "https://sakana.ai/fugu-max-release/",
+    "snippet": "Introducing Fugu Max and Fugu Ultra v2: Orchestrating the Pareto Frontier\n...\n# Introducing Fugu Max and Fugu Ultra v2: Orchestrating the Pareto Frontier\n...\non the other\n...\nToday, we are pushing orchestration forward along both axes simultaneously. We are releasing Fugu Max, which expands the Pareto Efficiency Frontier by orchestrating our largest pool of open and specialized models to date. And"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-11",
+    "topic": "model_releases",
+    "title": "Introducing North Small Translate: A leading sovereign open-weight machine translation model",
+    "url": "https://cohere.com/blog/north-small-translate",
+    "snippet": "# Introducing North Small Translate: A leading sovereign open-weight machine translation model\n...\nToday, we're releasing North Small Translate, a mixture-of-experts machine translation model with strong performance across 50+ languages. Across WMT26 benchmarks,\u00b9 North Small Translate achieves an 83.6 score across all languages, outperforming proprietary models like DeepL and Google Translate, as "
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-11",
+    "topic": "model_releases",
+    "title": "DeepSeek V4.1-Flash Ships 552B Open Weights Under MIT \u2014 The Quantum Dispatch",
+    "url": "https://thequantumdispatch.com/articles/deepseek-v4-1-flash-open-weights-1m-context",
+    "snippet": "DeepSeek V4.1-Flash Ships 552B Open Weights Under MIT \u2014 The Quantum Dispatch\n...\n# DeepSeek V4.1-Flash Ships 552B Open Weights Under MIT\n...\nDeepSeek V4.1-Flash landed September 10 with MIT-licensed weights, a 1M-token context, 552B parameters, and output at $0.60 per million tokens.\n...\nDeepSeek published DeepSeek-V4.1-Flash on September 10, 2026, and put the weights on Hugging Face under the MIT"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-11",
+    "topic": "product_releases",
+    "title": "Introducing ChatGPT for Financial Services | OpenAI",
+    "url": "https://openai.com/index/introducing-chatgpt-financial-services/",
+    "snippet": "Introducing ChatGPT for Financial Services | OpenAI\n...\nSeptember 10, 2026\n...\n# Introducing ChatGPT for Financial Services\n...\nWe\u2019re introducing ChatGPT for Financial Services, a tailored ChatGPT Work experience that combines built-in financial data with GPT\u20116 Astra\u2060\u2019s reasoning to help teams develop research, financial models, and customized client materials.\n...\nThe product also offers state of"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-11",
+    "topic": "product_releases",
+    "title": "Build more natural voice experiences with GPT\u2011Live\u20111 in the API | OpenAI",
+    "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api/",
+    "snippet": "# Build more natural voice experiences with GPT\u2011Live\u20111 in the API | OpenAI\n...\nBuild more natural voice experiences with GPT\u2011Live\u20111 in the API | OpenAI\n...\nSeptember 10, 2026\n...\n# Build more natural voice experiences with GPT\u2011Live\u20111 in the API\n...\nGPT\u2011Live\u20111 brings ChatGPT\u2019s natural, full-duplex conversations to the API, with more control over how voice agents speak and act.\n...\nWe\u2019re launching G"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-11",
+    "topic": "product_releases",
+    "title": "Meta launches Muse, its all-access personal AI agent, as a launch-week report questions its security | Aiignitions",
+    "url": "https://www.aiignitions.com/meta-muse-ai-agent-launch",
+    "snippet": "# Meta launches Muse, its all-access personal AI agent, as a launch-week report questions its security\n...\nand can act\n...\nMeta launched Muse, a personal AI agent, on Tuesday, September 8, 2026. It is live in the US on iOS, Android and the web at muse.ai, with WhatsApp and Meta's AI glasses listed as coming soon. Unlike a chatbot that only answers, Muse is built to act. Meta says it can send email"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-11",
+    "topic": "product_releases",
+    "title": "OpenAI launches ChatGPT for Financial Services with data from S&P, LSEG, Moody\u2019s and PitchBook",
+    "url": "https://thenextweb.com/news/openai-chatgpt-financial-services-dora-data-residency",
+    "snippet": "# OpenAI launches ChatGPT for Financial Services with data from S&P, LSEG, Moody\u2019s and PitchBook\n...\nOpenAI launches ChatGPT for Financial Services with data from S&P, LSEG, Moody\u2019s and PitchBook\n...\n# OpenAI launches ChatGPT for Financial Services with data from S&P, LSEG, Moody\u2019s and PitchBook\n...\nSeptember 11, 2026 - 7:25 am\n\n \n\n OpenAI logo with the OpenAI emblem Credit: Evolf via Shutterstock"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-11",
+    "topic": "product_releases",
+    "title": "Salesforce Introduces the Trusted Enterprise AI Harness - Salesforce",
+    "url": "https://www.salesforce.com/ap/news/press-releases/2026/09/11/ph-salesforce-introduces-the-trusted-enterprise-ai-harness/",
+    "snippet": "Salesforce Introduces the Trusted Enterprise AI Harness - Salesforce\n...\n# Salesforce Introduces the Trusted Enterprise AI Harness\n\n September 11, 2026 7 min read \n\nA new architecture that gives AI a shared understanding of the customer and the business \u2014 and enables it to act with trust\n...\nThat\u2019s the role of an Enterprise AI Harness. It\u2019s what Salesforce is building: a trusted foundation around "
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-11",
+    "topic": "ai_agents",
+    "title": "Introducing the Agents API | OpenAI",
+    "url": "https://openai.com/index/introducing-the-agents-api/",
+    "snippet": "Build and run cloud agents with the Codex harness, fully managed by OpenAI.\n...\nand ChatGPT for Work to millions\n...\npeople around the world, we\n...\nin practice. Useful agents\n...\nThey also need infrastructure that keeps them running reliably\n...\nwith environments where they can work\n...\nToday, we\u2019re introducing the Agents API\u2060(opens in a new window) in public beta, bringing that same harness and "
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-11",
+    "topic": "ai_agents",
+    "title": "Sidetrade Launches SAFE, the Sidetrade Agentic Framework for Enterprise",
+    "url": "https://www.globenewswire.com/de/news-release/2026/09/10/3359377/0/en/sidetrade-launches-safe-the-sidetrade-agentic-framework-for-enterprise.html",
+    "snippet": "Sidetrade Launches SAFE, the Sidetrade Agentic Framework\n...\n# Sidetrade Launches SAFE, the Sidetrade Agentic Framework for Enterprise\n\n 10. September 2026 07:15 ET | Quelle: Sidetrade\n...\nBillion-dollar enterprises are being asked to put their receivables data into models they do not operate, and to sign for AI agents whose running cost is set by another company's price list. Neither is a questio"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-11",
+    "topic": "ai_agents",
+    "title": "Salesforce Introduces the Trusted Enterprise AI Harness\u00a0 - Salesforce",
+    "url": "https://www.salesforce.com/news/stories/enterprise-ai-harness/",
+    "snippet": "# Salesforce Introduces the Trusted Enterprise AI Harness \n\n September 10, 2026 7 min read \n\nA new architecture that gives AI a shared understanding of the customer and the business \u2014 and enables it to act with trust\n...\nThe Agentic Enterprise is changing how work gets done \u2014 and the role every person plays in it. As agents become part of how people work across every function of the business, they"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-11",
+    "topic": "ai_agents",
+    "title": "Esker Introduces Synergy Agentic Framework for Office of the CFO",
+    "url": "https://techintelpro.com/news/finance/financial-services/esker-introduces-synergy-agentic-framework-for-office-of-the-cfo",
+    "snippet": "Introduces Synergy Agentic Framework for\n...\nEsker, the leading AI Automation Suite for Office of the CFO, today unveiled its Synergy Agentic Framework, a governed agentic layer built on its Source-to-Pay and Order-to-Cash solutions. Building on Esker existing Synergy AI, Synergy Agentic Framework adds new agentic capabilities and advances company vision for governed autonomous finance: AI that ac"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-11",
+    "topic": "ai_agents",
+    "title": "We\u2019re bringing governed agent loops to the AI-Native SDLC - Inside Atlassian",
+    "url": "https://www.atlassian.com/blog/jira/governed-agent-loops",
+    "snippet": "We\u2019re bringing governed agent loops to the AI-Native SDLC - Inside Atlassian\n...\n# We\u2019re bringing governed agent loops to the AI-Native SDLC\n...\nHere\u2019s a stat that\u2019s been rattling around in my head. In our 2026 AI SDLC study, 94% of engineering leaders told us they\u2019re using AI, but only 6% have the systems to actually scale it across their whole software lifecycle. Almost everyone is playing with "
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-11",
+    "topic": "ai_small_business",
+    "title": "Make vs Zapier vs n8n in 2026: Honest Comparison from 80+ Shipped Projects",
+    "url": "https://dev.to/2pizza/make-vs-zapier-vs-n8n-in-2026-honest-comparison-from-80-shipped-projects-321j",
+    "snippet": "We have built automation systems for 80+ clients across all three platforms - DTC e-commerce on Shopify, B2B SaaS sales ops, logistics document processing, agency content pipelines, and AI-augmented workflows with Claude and OpenAI. This is the honest version, with real numbers and real trade-offs.\n...\n\u2022 You are a solo founder with no technical team\n...\n\u2022 You need to integrate with Claude or OpenA"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-11",
+    "topic": "ai_small_business",
+    "title": "The Solo Founder Bottleneck Has Moved",
+    "url": "https://techbullion.com/how-to-run-a-one-person-company-with-ai-agents-a-practical-guide-for-solo-founders/",
+    "snippet": "Microsoft\u2019s 2025 Work Trend Index describes an emerging model in which humans increasingly become managers of agents, while agents take on defined workflows and business processes. Microsoft calls this role the \u201cagent boss.\u201d The idea is especially relevant to startups because a founder does not need a large organization before the leverage becomes useful. In fact, the smaller the team, the more no"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-11",
+    "topic": "ai_small_business",
+    "title": "Peace of Growth Adds Quartate as AI Implementation Partner",
+    "url": "http://business.theeveningleader.com/theeveningleader/article/pressadvantage-2026-9-10-peace-of-growth-adds-quartate-as-ai-implementation-partner",
+    "snippet": "Peace of Growth has partnered with Quartate to implement custom AI agents and workflow automation for its clients, responding to demand for help processing invoices, purchasing documents and other business data. The agency calls this service AI employee creation. Quartate will provide technical assessment and implementation, while Peace of Growth manages the client relationship and growth assessme"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-11",
+    "topic": "ai_small_business",
+    "title": "Connect Claude to SimplyBook.me: MCP Setup Guide",
+    "url": "https://simplybook.me/br/blog/connect-claude-to-simplybook",
+    "snippet": "To connect Claude to SimplyBook.me, turn on the MCP feature in your admin panel, copy the connector URL from the Admin AI Assistant settings, add it as a custom connector in Claude, and sign in to approve access. The whole process takes a few minutes and needs no coding. Once connected, Claude can check your schedule, book and reschedule appointments, look up clients, and more, all inside a normal"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-11",
+    "topic": "ai_labs",
+    "title": "Measuring AI capabilities in intelligence targeting and conventional weapons \\ Anthropic",
+    "url": "https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities",
+    "snippet": "Measuring AI capabilities in intelligence targeting and conventional weapons \\ Anthropic\n...\n# Measuring tactical intelligence targeting and conventional weapons capabilities of AI models\n...\nAnthropic\u2019s Frontier Red Team developed new evaluations to measure AI capabilities in tactical intelligence targeting (like finding where people are based on fragmentary information) and conventional weapons "
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-11",
+    "topic": "ai_labs",
+    "title": "Now everyone can put data to work",
+    "url": "https://openai.com/index/put-data-to-work",
+    "snippet": "Now everyone can put data to work | OpenAI\n...\nSeptember 10, 2026\n...\n# Now everyone can put data to work\n...\nMeet the new Data agent in ChatGPT Work: turn your company\u2019s data into answers, interactive dashboards, and action, just by asking.\n...\nWe\u2019re introducing a new Data agent in ChatGPT Work\u2060(opens in a new window) to help more people answer those questions themselves. It connects to your comp"
   }
 ]
