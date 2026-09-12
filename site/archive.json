@@ -21844,5 +21844,207 @@
     "title": "Now everyone can put data to work",
     "url": "https://openai.com/index/put-data-to-work",
     "snippet": "Now everyone can put data to work | OpenAI\n...\nSeptember 10, 2026\n...\n# Now everyone can put data to work\n...\nMeet the new Data agent in ChatGPT Work: turn your company\u2019s data into answers, interactive dashboards, and action, just by asking.\n...\nWe\u2019re introducing a new Data agent in ChatGPT Work\u2060(opens in a new window) to help more people answer those questions themselves. It connects to your comp"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-09-12",
+    "headline": "Meta shipped Muse this week. It can read your email, book your travel, buy things online, and keep working after you close the app.",
+    "url": "archive/2026-09-12.html",
+    "posts": {
+      "linkedin": [
+        "Meta just shipped an AI that can read your email, book your travel, and buy things online. And then keep working after you close the app.\n\nWall Street loved it. Cybersecurity people had a different reaction.\n\nHere's the thing nobody's saying out loud. The interesting question was never \"can the AI do the task.\" It's \"do you trust it enough to walk away while it does.\"\n\nEvery small business I talk to is somewhere on this spectrum already. Somebody's got an assistant answering DMs unsupervised. Somebody's got a bot booking their calendar. Nobody thinks of it as handing over the keys, because it started small.\n\nMuse just made that spectrum visible. A digital worker with your email, your calendar, and your credit card, running in the background.\n\nSo before you add the next agent to your stack, ask the boring question first. Not what can it do. What happens if it does the wrong thing while you're not looking?",
+        "DeepSeek shipped a model this week with 763 billion parameters that needs way less GPU memory than a model that size should need.\n\nThe trick isn't magic. About a quarter of those parameters just sit in cheap memory doing lookups instead of heavy computation. Alibaba's Qwen team landed on almost the identical idea days later.\n\nThat's the tell. When two labs solve the same problem the same way in the same week, it's not a coincidence. It's the new default showing up.\n\nHere's why this matters if you're not training models. The whole industry has been selling bigger is better, and bigger costs more. This week two labs proved that's a choice, not a law.\n\nDo more with the same. Not the same with less.\n\nIf your AI budget keeps climbing every time you want more capability, that's not the only path anymore. Somebody just showed a cheaper one.",
+        "Salesforce just gave an AI agent a name, Hunter, and a job. Rescue at-risk deals before the quarter ends. Not answer a question. Not summarize an email. Run the whole thing for days, build its own plan, and only come back when it actually needs a human to decide something.\n\nThat's not a chatbot anymore. That's a job description.\n\nFor years the pitch on AI tools was it saves you time on a task. The pitch just changed. Now it's it holds a goal and works it while you're doing something else.\n\nSmall businesses feel this shift last, usually. But the tools trickling down from Salesforce's playbook always do, eventually, at a fraction of the price.\n\nSo the real question isn't whether you'll get an agent like Hunter someday. It's what job you'd actually trust one to run without checking in every hour."
+      ],
+      "threads": [
+        "Meta's new AI can read your email, book your flights, and buy stuff online. Then it keeps working after you close the app.\n\nWall Street's excited. I'm stuck on a simpler question. Would I actually walk away and let it run?\n\nMost of us already gave some AI tool a little bit of that trust without noticing. Muse just made the whole thing visible at once. Digital worker, your calendar, your card.\n\nWorth sitting with before you add the next one.",
+        "OpenAI packaged the whole \"AI agent that runs itself\" stack into one API call this week. Orchestration, memory, sandbox, all of it, hosted by them.\n\nAnalysts are already saying the quiet part. Less engineering work, way more lock-in.\n\nThat trade shows up everywhere, not just AI. The tool that's easiest to start with is usually the hardest one to leave.\n\nIf you're picking what to build your business on right now, ask how easy the exit is before you ask how easy the entry is.",
+        "Two AI labs shipped almost the same architecture trick this week. DeepSeek and Alibaba's Qwen team, days apart. Both figured out how to make a huge model need way less expensive memory to run.\n\nWhen two labs land on the same idea in the same week, that's not luck. That's the new baseline showing up.\n\nDo more with the same, not the same with less. Somebody just proved bigger doesn't have to mean pricier."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-09-12",
+    "source": "The Koerner Office",
+    "title": "From DoorDash to $81K/M With This Overlooked Business",
+    "url": "https://www.youtube.com/watch?v=9U4MCbfL8MQ",
+    "video_id": "9U4MCbfL8MQ"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-09-12",
+    "source": "Corey Ganim",
+    "title": "Watch Me Sell Then Fulfill a Real AI Assessment (i show everything)",
+    "url": "https://www.youtube.com/watch?v=xJXG40tixRA",
+    "video_id": "xJXG40tixRA"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-09-12",
+    "source": "AI Daily Brief",
+    "title": "Anthropic Researcher Says 10% Chance AI Kills All Humans",
+    "url": "https://www.youtube.com/watch?v=gzMQtm-cIiY",
+    "video_id": "gzMQtm-cIiY"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-12",
+    "topic": "model_releases",
+    "title": "DeepSeek V4.1 Flash bets on efficiency at massive scale | NeoTeo",
+    "url": "https://www.neoteo.com/en/deepseek-v41-flash-bets-on-efficiency-at-massive-scale",
+    "snippet": "# DeepSeek\n...\n# DeepSeek V4.1 Flash bets on efficiency at massive scale \n\n September 12, 2026 \n\n \n\nDeepSeek V4.1 Flash brings 552B parameters, selective activation, a 1M-token context and compressed KV cache. Here\u2019s what it changes.\n...\nDeepSeek launched DeepSeek V4.1 Flash on September 10, 2026 as an open-weight, multimodal mixture-of-experts model with a 552-billion-parameter backbone. Its cent"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-12",
+    "topic": "model_releases",
+    "title": "DeepSeek's new model sets a template for powerful LLMs that run lean",
+    "url": "https://www.theregister.com/ai-and-ml/2026/09/11/deepseeks-new-model-sets-a-template-for-powerful-llms-that-run-lean/5295715",
+    "snippet": "DeepSeek's new model sets a template for powerful LLMs that run lean\n...\n# DeepSeek's new model sets a template for powerful LLMs that run lean \n\n DeepSeek V4.1 Flash proves that just because you build a bigger model doesn't mean you need more GPUs to serve it \n\n \n\n Tobias Mann Tobias Mann SYSTEMS EDITOR \n\n Published fri 11 Sep 2026 // 08:15 UTC \n\n### READ MORE\n...\nChinese AI darling DeepSeek unve"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-12",
+    "topic": "model_releases",
+    "title": "Ling-3.0-flash-VL: Ant Group ships 124B MIT open weights",
+    "url": "https://datanorth.ai/news/ant-group-releases-ling-3-0-flash-vl",
+    "snippet": "Ling-3.0-flash-VL: Ant Group ships 124B MIT open weights\n...\n# Ant Group releases Ling-3.0-flash-VL\n...\nAnt Group's inclusionAI lab released Ling-3.0-flash-VL on 10 September 2026, a 124 billion parameter open-weights model that activates 5.5 billion per token.\n...\nAnt Group\u2019s inclusionAI lab published Ling-3.0-flash-VL on 10 September 2026, a model with 124 billion parameters that switches on onl"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-12",
+    "topic": "model_releases",
+    "title": "IBM and NASA launch open-source lunar AI model",
+    "url": "https://technode.global/2026/09/12/ibm-nasa-open-source-lunar-ai-model/",
+    "snippet": "IBM and NASA launch open-source lunar AI model\n...\n## IBM and NASA release open-source AI model for lunar mapping\n...\nSeptember 12, 2026\u2022 [\n...\n](https://technode.global/category/industry/ai/), [Deep Tech](https://technode.global/category/industry/deep-tech/), [News](https://technode.global/category/news/)\u2022By [TNGlobal](https://technode.global/\n...\n/tngbot\n...\n**\nIBM and NASA have released an open"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-12",
+    "topic": "product_releases",
+    "title": "Meta\u2019s Muse Wants the Keys to Your Digital Life. The Locks Are Still Coming",
+    "url": "https://www.cybernewscentre.com/metas-muse-wants-the-keys-to-your-digital-life-the-locks-are-still-coming/",
+    "snippet": "Meta\u2019s Muse is more than a chatbot. It is a digital worker that can read email, make purchases across the web, and act after users close the app. Wall Street sees a return on Meta\u2019s vast AI spending. Cybersecurity experts see a more urgent question: should it hold the keys to our digital lives yet?\n...\nMeta is no longer selling another chatbot. With Muse, it is selling a digital worker that can re"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-12",
+    "topic": "product_releases",
+    "title": "OpenAI Launches ChatGPT for Financial Services | Chain Articles",
+    "url": "https://chainarticles.news/openai-launches-chatgpt-for-financial-services/",
+    "snippet": "OpenAI Launches ChatGPT for Financial Services | Chain Articles\n...\n# OpenAI Launches ChatGPT for Financial Services\n...\n12, 2026\n...\nOpenAI is turning ChatGPT into a Wall Street workhorse, giving financial professionals an AI platform designed to retrieve market data, build models and produce presentation materials.\n...\nOpenAI on Thursday launched ChatGPT for Financial Services, a version of its "
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-12",
+    "topic": "product_releases",
+    "title": "OpenAI launches ChatGPT for Financial Services",
+    "url": "https://technode.global/2026/09/12/openai-chatgpt-financial-services/",
+    "snippet": "OpenAI launches ChatGPT for Financial Services\n...\n## OpenAI launches ChatGPT for Financial Services\n...\nSeptember 12, 2026\u2022 [AI](https://technode.global/category/industry/ai/), [FinTech](https://technode.global/category/industry/fintech/), [News](https://technode.global/category/news/)\u2022By [TNGlobal](https://technode.global/author/tngbot/)\n**\nOpenAI has launched ChatGPT for Financial Services, a s"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-12",
+    "topic": "product_releases",
+    "title": "NVIDIA Personal AI Router Distributes AI Tasks Across Local Compute - InfoQ",
+    "url": "https://www.infoq.com/news/2026/09/nvidia-pair-ai-task-router/",
+    "snippet": "NVIDIA Personal AI Router Distributes AI Tasks Across Local Compute - InfoQ\n\n# NVIDIA Personal AI Router Distributes AI Tasks Across Local Compute \n\nSep 11, 2026 2 min read \n\nby\n\n- Sergio De Simone\n...\nNVIDIA Personal AI Router (PAIR), now available in beta, lets you combine the inference capacity of multiple computers on your local network and automatically distribute AI requests among them. It i"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-12",
+    "topic": "product_releases",
+    "title": "Gemini App for Windows: Alt+Space Launch [2026]",
+    "url": "https://shattered.io/gemini-app-windows-launch-alt-space-2026/",
+    "snippet": "Gemini App for Windows: Alt+Space Launch [2026]\n...\n# Gemini App Lands on Windows: Alt+Space, 1B+ PCs [2026]\n...\nGoogle shipped a dedicated Gemini app for Windows on September 10, 2026, closing a gap that had pushed millions of PC users toward browser tabs and third-party wrappers just to reach the company\u2019s flagship AI assistant. The app installs like any other Windows program, sits in the system"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-12",
+    "topic": "ai_agents",
+    "title": "Sidetrade launches SAFE agentic framework with owned GPU and private | The Datatech Times",
+    "url": "https://datatech.disruptsmedia.com/ai-ml/sidetrade-launches-safe-agentic-framework-owned-gpu-and-private",
+    "snippet": "Sidetrade launches SAFE agentic framework with owned GPU and private | The Datatech Times\n...\n# Sidetrade launches SAFE agentic framework with owned GPU and private \n\nSidetrade's SAFE framework runs autonomous Order-to-Cash agents on owned compute, private data centres, and proprietary models, bypassing hyperscaler token costs.\n\n By The Datatech Times Editorial Team Fri, 11 September 2026\n...\nSide"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-12",
+    "topic": "ai_agents",
+    "title": "OpenAI launches managed Agents API to simplify enterprise AI agent development | InfoWorld",
+    "url": "https://www.infoworld.com/article/4221163/openai-launches-managed-agents-api-to-simplify-enterprise-ai-agent-development.html",
+    "snippet": "OpenAI launches managed Agents API to simplify enterprise AI agent development | InfoWorld\n\n by Anirban Ghoshal Senior Writer \n\n# OpenAI launches managed Agents API to simplify enterprise AI agent development\n\n news Sep 11, 2026 5 mins\n...\n## The new service packages orchestration, context management, and execution infrastructure into a single API, aiming to speed production deployments while rais"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-12",
+    "topic": "ai_agents",
+    "title": "Salesforce Expands Agentforce With New Agents - Salesforce",
+    "url": "https://www.salesforce.com/news/stories/agentforce-job-ready-ai-agents/",
+    "snippet": "# Salesforce Expands Agentforce With a New Portfolio of AI Agents Built for High-Value Work\n\n September 11, 2026 5 min read\n...\nNew job-ready agents help companies get to business outcomes faster across sales, service, commerce, and the workforce \u2014 driving revenue, reducing costs, and improving customer experiences Advances across Agentforce enable these agents to take on more complex work \u2014 pursu"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-12",
+    "topic": "ai_agents",
+    "title": "TrueFoundry",
+    "url": "https://www.truefoundry.com/pt/press-room/truefoundry-launches-trueforge-to-break-vendor-lock-in-and-slash-enterprise-ai-agent-costs-by-50",
+    "snippet": "# TrueFoundry launches TrueForge to break vendor lock-in and slash enterprise AI agent costs by 50%\n...\nAI agents have officially graduated. Once confined to the laptops of developers and experimental coding sandboxes, they are rapidly shifting into customer-facing products and mission-critical enterprise workflows. But as agents move into production, enterprises are discovering a new headache: cr"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-12",
+    "topic": "ai_small_business",
+    "title": "5 Solopreneur Tools For the Lone Business Ranger",
+    "url": "https://www.salesforce.com/blog/small-business/solopreneur-tools/",
+    "snippet": "Feeling like the lone business ranger out there in\n...\nwild west? The\n...\nis that you and thousands of other business owners are in\n...\nsoloprenuer out there wrangling\n...\n. Which is\n...\nit\u2019s\n...\nto suit up.\n...\nyour solopreneuer toolkit and\n...\nto face any challenge that crosses your path\n...\non solopreneur\n...\nwhy they can\n...\n- Sales and marketing: Build and engage your leads list with easy-to-"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-12",
+    "topic": "ai_small_business",
+    "title": "WebtrixPro Launches AI Agents Development Practice to Eliminate Manual Work for Scaling Businesses",
+    "url": "https://prwireindia.com/press-release/webtrixpro-launches-ai-agents-development-practice-to-eliminate-manual-work-for-scaling-businesses",
+    "snippet": "## WebtrixPro Launches AI Agents Development Practice to Eliminate Manual Work for Scaling Businesses\n\nWebtrixPro press-release graphic announcing its AI Agents Development practice. The visual shows a custom AI agent connected to scheduling, customer messaging, phone response, dispatch, reporting, and e-commerce workflows.\n\nCustom AI agents for scheduling, customer response, and operational workf"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-12",
+    "topic": "ai_small_business",
+    "title": "AdAI Launches to Automate Digital Ad Creation with AI Agents - The Globe and Mail",
+    "url": "https://www.theglobeandmail.com/investing/markets/markets-news/Newsfile/4552215/adai-launches-to-automate-digital-ad-creation-with-ai-agents/",
+    "snippet": "New York, New York--(Newsfile Corp. - September 11, 2026) - AdAI, a New York-based startup incubated by Revolution Venture Studios, has launched a platform that uses AI agents to remake digital advertisements in seconds, giving marketers and agencies a way to produce finished image and video ads using their existing brand assets and guidelines.\n...\nThe company is targeting a persistent bottleneck "
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-12",
+    "topic": "ai_labs",
+    "title": "Cognition helps Devin test its own work with GPT\u20116 Astra | OpenAI",
+    "url": "https://openai.com/index/cognition-devin-testing-with-astra/",
+    "snippet": "# Cognition helps Devin test its own work with GPT\u20116 Astra | OpenAI\n\nPublished: 2026-09-12T00:17:46+00:00\nSource: openai.com (openai.com)\nLanguage: en\n\n## Story\n\nCognition helps Devin test its own work with GPT\u20116 Astra | OpenAI\n\nSeptember 11, 2026\n\n# Cognition helps Devin test its own work with GPT\u20116 Astra\n\nGPT\u20116 Astra improves Devin\u2019s ability to test software and show that it works, with the goal"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-12",
+    "topic": "ai_labs",
+    "title": "Rethinking skills and prompts for GPT-6 Astra | OpenAI Developers",
+    "url": "https://developers.openai.com/blog/rethinking-skills-and-prompts-for-gpt-6-astra",
+    "snippet": "Rethinking skills and prompts for GPT-6 Astra | OpenAI Developers\n\n Sep 11, 2026 Codex \n\n# Rethinking skills and prompts for GPT-6 Astra\n...\nRevisit skill descriptions, AGENTS.md, and task prompts to avoid bloated context.\n\n Author: Eric Provencher \n\n \n\nCoding agents have come a long way, and best practices are changing fast. With more capable models, what used to require a lot of handholding and "
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-12",
+    "topic": "ai_labs",
+    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one/",
+    "snippet": "# Rapidly scaling online storage to serve over 1 billion ChatGPT users\n\nPublished: 2026-09-11T17:00:07+00:00\nSource: openai.com (openai.com)\nLanguage: en\n\n## Story\n\nBuilding and operating infrastructure at this scale is no easy feat, but also not particularly challenging. What made our situation unique is the unprecedented rate at which we\u2019ve had to scale to support staggering user growth and prod"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-12",
+    "topic": "ai_labs",
+    "title": "Google at this year's Venice Film Festival",
+    "url": "https://blog.google/innovation-and-ai/technology/xr-ar/three-google-supported-projects-premiere-during-the-83rd-venice-international-film-festival/",
+    "snippet": "Google at this year\u2019s Venice Film Festival\n\n# Three Google supported projects premiere during the 83rd Venice International Film Festival.\n\nSep 11, 2026\n\nDuring this year\u2019s Venice International Film Festival, Google\u2019s 100 ZEROS team \u2014 which partners with filmmakers to explore emerging tech \u2014 supported three groundbreaking Extended Reality (XR) projects. They\u2019re all meant to be experienced on Andro"
   }
 ]
