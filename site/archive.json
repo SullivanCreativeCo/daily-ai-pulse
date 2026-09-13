@@ -22046,5 +22046,199 @@
     "title": "Google at this year's Venice Film Festival",
     "url": "https://blog.google/innovation-and-ai/technology/xr-ar/three-google-supported-projects-premiere-during-the-83rd-venice-international-film-festival/",
     "snippet": "Google at this year\u2019s Venice Film Festival\n\n# Three Google supported projects premiere during the 83rd Venice International Film Festival.\n\nSep 11, 2026\n\nDuring this year\u2019s Venice International Film Festival, Google\u2019s 100 ZEROS team \u2014 which partners with filmmakers to explore emerging tech \u2014 supported three groundbreaking Extended Reality (XR) projects. They\u2019re all meant to be experienced on Andro"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-09-13",
+    "headline": "OpenAI just handed every developer the same agent plumbing that runs Codex internally.",
+    "url": "archive/2026-09-13.html",
+    "posts": {
+      "linkedin": [
+        "Four different companies just shipped the same product.\n\nOpenAI opened their Agents API to every developer this week. It's the plumbing behind Codex, now something anyone with an API key can call.\n\nHere's the thing nobody's saying out loud. Anthropic did this in April. Google did it in April too. Microsoft's version lives inside Azure. Four labs, one year, basically identical infrastructure.\n\nThat tells you something. When everyone converges on the same layer at the same time, the layer stops being the advantage.\n\nThe advantage moves up a level. It's not who has agents anymore. It's what you actually build with one, and whether it solves a problem someone's willing to pay to have solved.\n\nI've watched this pattern before. The tool gets commoditized fast. The idea built on top of it is what survives.\n\nSo if you're waiting for 'the right agent platform' before you start, ask yourself something. Which platform even matters anymore?",
+        "DeepSeek just retired their own flagship model. On purpose.\n\nV4 Pro was their big model. Bigger parameter count, more compute, the flagship.\n\nThen V4.1 Flash shipped. Smaller, cheaper, and it beat V4 Pro on their own benchmarks. So DeepSeek did something most companies won't do. They routed all the V4 Pro traffic to the cheaper model and started charging Flash pricing for it.\n\nNobody made them do that. They looked at their own product line and admitted the expensive one wasn't earning its price anymore.\n\nThat's rare. Most of us keep the bigger, more expensive version around because we built it, because it took months, because killing it feels like admitting something.\n\nDo more with the same. Not the same with less.\n\nWorth asking about your own stack, your own service tiers, your own offer. Is there something you're keeping alive because you built it, not because it's still the best answer?",
+        "Meta's new AI agent can spend your money.\n\nMuse shipped this week. It's a personal agent that can browse the web, manage apps, and finish financial transactions on your behalf. Book the flight. Buy the thing. Handle it.\n\nMeta knows the trust problem here is real, so they built it inside something called a Secure VM, sandboxed per user, with the browsing logic kept separate from the decision logic. Next up is a 'Confidential VM' tier built with Moxie Marlinspike, the guy who built Signal, where even Meta can't see what the agent does.\n\nHere's what I keep coming back to. The technology to let an agent act for you is basically here now. The bottleneck was never capability. It's trust.\n\nThat's true for a company shipping to a billion phones. It's just as true for a small business owner deciding whether to let AI touch their calendar, their inbox, their client replies.\n\nWould you let it? At what point does the convenience outweigh the discomfort of not watching?"
+      ],
+      "threads": [
+        "OpenAI opened up the same agent infrastructure that runs Codex to every developer this week. No subscription, pay for what you use. Cool on its own, but here's the part that got me: Anthropic, Google, and Microsoft all shipped basically the same thing in the last year. When four labs converge on identical infrastructure at the same time, that infrastructure isn't the moat anymore. It's just the price of entry now.",
+        "Went down a rabbit hole on workflow automation tools today. Zapier, Make, n8n, Power Automate, Relevance AI, all doing some version of the same thing now: describe what you want in plain English, get a working automation. The gap between having an idea and it actually running keeps shrinking. Wild watching tools that used to need a developer turn into something you just talk to.",
+        "DeepSeek shipped a smaller, cheaper model and it beat their own bigger, more expensive one. So they killed the expensive one. Just retired it, rerouted the traffic, dropped the price. No ego about it, no quarter of denial first. Most companies keep the thing they spent the most building, even after it stops being the best answer. This was the opposite, and it's the part worth remembering."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-09-13",
+    "source": "The Koerner Office",
+    "title": "$15K/Month With Zero Employees [NO ADS \u2022 FULL EPISODE]",
+    "url": "https://www.youtube.com/watch?v=IQp_cGOJO9c",
+    "video_id": "IQp_cGOJO9c"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-09-13",
+    "source": "AI Daily Brief",
+    "title": "What to Use the Latest AI Tools For",
+    "url": "https://www.youtube.com/watch?v=Y2hE6kYZPg0",
+    "video_id": "Y2hE6kYZPg0"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-13",
+    "topic": "model_releases",
+    "title": "xAI Unveils Trained Grok V9-Medium, a 1.5 Trillion Parameter Model Aimed at AI Programming - xix.ai",
+    "url": "https://www.xix.ai/ainews/xai-unveils-trained-grok-v9medium-a-15-trillion-parameter-model-aimed-at-ai-programming.html",
+    "snippet": "xAI Unveils Trained Grok V9-Medium, a 1.5 Trillion Parameter Model Aimed at AI Programming - xix.ai\n\n# xAI Unveils Trained Grok V9-Medium, a 1.5 Trillion Parameter Model Aimed at AI Programming\n\nSeptember 13, 2026\n\nPaulThomas\n\nThe global AI computing race is heating up once more. On May 25, Elon Musk confirmed that xAI\u2019s latest flagship model, Grok V9-Medium, has finished its training phase. This "
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-13",
+    "topic": "model_releases",
+    "title": "[AINews] DeepSeek v4.1-Flash: 763B-P8B-D16B novel causal Encoder\u2013Decoder architecture with vision marks the Return of the Whale \u2014 Web Pulse",
+    "url": "https://wpnews.pro/news/ainews-deepseek-v4-1-flash-763b-p8b-d16b-novel-causal-encoder-decoder-with-marks",
+    "snippet": "DeepSeek released DeepSeek v4.1-Flash, a 763B-parameter model with a novel causal encoder-decoder architecture that splits 8B parameters to prefill and 16B to decode, per the model's tech report on Hugging Face. The release retires DeepSeek V4 Pro and adds vision without a separate model, with DeepSeek claiming a KV cache footprint up to 1/8 that of V4 Flash through Sliding-Window Attention Bounde"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-13",
+    "topic": "model_releases",
+    "title": "Meituan Unveils 56B-Parameter LongCat, Setting New Benchmark in Open Source Mathematical Reasoning - xix.ai",
+    "url": "https://www.xix.ai/ainews/meituan-unveils-56bparameter-longcat-setting-new-benchmark-in-open-source-mathematical-reasoning.html",
+    "snippet": "Meituan Unveils 56B-Parameter LongCat, Setting New Benchmark in Open Source Mathematical Reasoning - xix.ai\n\n# Meituan Unveils 56B-Parameter LongCat, Setting New Benchmark in Open Source Mathematical Reasoning\n\nSeptember 13, 2026\n\nLarryHern\u00e1ndez\n\nAs large language models expand into specialized domains, Meituan has delivered a standout solution that has captured the interest of both academia and i"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-13",
+    "topic": "model_releases",
+    "title": "IIT Madras\u2019 Bodhan AI Partners with NVIDIA to Launch Open-Weight Indic Language AI Suite for Education | Education News - Jagran Josh",
+    "url": "https://www.jagranjosh.com/news/iit-madras-bodhan-ai-partners-with-nvidia-to-launch-open-weight-indic-language-ai-suite-for-education-187363",
+    "snippet": "Bodhan AI IIT Madras: IIT Madras-incubated Bodhan AI has partnered with NVIDIA and AI4Bharat to release open-weight Indic language AI models for education. Covering speech recognition, text-to-speech, translation, and OCR across up to 27 languages, the initiative forms part of India's sovereign digital public infrastructure to personalize regional-language learning.\n...\nBodhan AI IIT Madras: The B"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-13",
+    "topic": "product_releases",
+    "title": "Google Launches the Gemini App for Windows, Summoned Over Your Work with Alt + Space | claypier",
+    "url": "https://claypier.com/en/gemini-app-windows-launch/",
+    "snippet": "Google Launches the Gemini App for Windows, Summoned Over Your Work with Alt + Space | claypier\n...\n# Google Launches the Gemini App for Windows, Summoned Over Your Work with Alt + Space\n...\nGoogle released a Gemini desktop app for Windows on September 10 [1]. Instead of hunting for a browser tab, you press Alt + Space and Gemini appears on top of whatever you are working on. The app covers Window"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-13",
+    "topic": "product_releases",
+    "title": "OpenAI Opens Agents API in Public Beta; Developers Can Now Build Long-Running AI Agents | Gate News",
+    "url": "https://www.gate.com/news/detail/openai-opens-agents-api-in-public-beta-developers-can-now-build-long-24235679",
+    "snippet": "OpenAI Opens Agents API in Public Beta; Developers Can Now Build Long-Running AI Agents | Gate News\n\n# OpenAI Opens Agents API in Public Beta; Developers Can Now Build Long-Running AI Agents\n\n2026-09-13 10:16:17\n\nOpenAI announced that Agents API is now available in public beta for all developers. The framework, previously used internally for Codex and enterprise ChatGPT, allows developers to build"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-13",
+    "topic": "product_releases",
+    "title": "Stravito Launches AI PersonStravito Launches AI Persona Builder: Teams Can Now Build Their Own AI Personas in Minutesa Builder: Teams Can Now Build Their Own AI Personas in Minutes | CustomerThink",
+    "url": "https://customerthink.com/stravito-launches-ai-personstravito-launches-ai-persona-builder-teams-can-now-build-their-own-ai-personas-in-minutesa-builder-teams-can-now-build-their-own-ai-personas-in-minutes/",
+    "snippet": "Stravito Launches AI PersonStravito Launches AI Persona Builder: Teams Can Now Build Their Own AI Personas in Minutesa Builder: Teams Can Now Build Their Own AI Personas in Minutes | CustomerThink\n...\n# Stravito Launches AI PersonStravito Launches AI Persona Builder: Teams Can Now Build Their Own AI Personas in Minutesa Builder: Teams Can Now Build Their Own AI Personas in Minutes\n...\n9th Septembe"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-13",
+    "topic": "product_releases",
+    "title": "AutoN unveils ABot-World Studio, a general world model workshop enabling real-time interaction for AI digital worlds - xix.ai",
+    "url": "https://www.xix.ai/ainews/auton-unveils-abotworld-studio-a-general-world-model-workshop-enabling-realtime-interaction-for-ai-digital-worlds.html",
+    "snippet": "AutoN unveils ABot-World Studio, a general world model workshop enabling real-time interaction for AI digital worlds - xix.ai\n\n# AutoN unveils ABot-World Studio, a general world model workshop enabling real-time interaction for AI digital worlds\n\nSeptember 13, 2026\n\nLawrenceRodriguez\n\nAutonavi has officially unveiled the General World Model Workshop, known as ABot-World Studio. This platform\u2019s sta"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-13",
+    "topic": "product_releases",
+    "title": "Easyspecs.ai Launches A Spec Review Platform So Engineering Teams Can Trust AI-generated Code Nobody Has Time To Read",
+    "url": "https://ohsem.me/2026/09/easyspecs-ai-launches-a-spec-review-platform-so-engineering-teams-can-trust-ai-generated-code-nobody-has-time-to-read/",
+    "snippet": "# Easyspecs.ai Launches A Spec Review Platform So Engineering Teams Can Trust AI-generated Code Nobody Has Time To Read\n...\nEasyspecs.ai Launches A Spec Review Platform So Engineering Teams Can Trust AI-generated Code Nobody Has Time To Read\n...\n# easyspecs.ai launches a spec review platform so engineering teams can trust AI-generated code nobody has time to read\n...\nSpain, September 12, 2026 \u2014 Pu"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-13",
+    "topic": "ai_agents",
+    "title": "OpenAI Agents API: Codex Harness Opens to All Developers in Public Beta",
+    "url": "https://easternherald.com/2026/09/13/openai-agents-api-public-beta-developer-cloud/",
+    "snippet": "# OpenAI Agents API: Codex Harness Opens to All Developers in Public Beta\n...\nSAN FRANCISCO \u2014 Until this week, building an AI agent capable of working autonomously for hours (running code, managing files, calling external tools, spawning subagents) required either a team of engineers or a sprawl of custom scaffolding assembled from libraries that broke whenever a model provider updated a parameter"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-13",
+    "topic": "ai_agents",
+    "title": "Artemis: Google's new AI agent framework for mobile test automation \u2014 Web Pulse",
+    "url": "https://wpnews.pro/news/artemis-google-s-new-ai-agent-framework-for-mobile-test-automation",
+    "snippet": "# Artemis: Google's new AI agent framework for mobile test automation\n...\nGoogle released Artemis, an open-source AI agent framework that automates Android testing by driving real phones from natural-language instructions, achieving 99%+ task completion on Google Research's AndroidWorld benchmark of 100+ multi-step tasks. Artemis integrates a native Model Context Protocol (MCP) server so AI IDEs i"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-13",
+    "topic": "ai_agents",
+    "title": "Meta Enters the Agentic AI Race with the Launch of Muse and Advanced Secure VM Architecture",
+    "url": "https://desireo.net/meta-enters-the-agentic-ai-race-with-the-launch-of-muse-and-advanced-secure-vm-architecture/",
+    "snippet": "Meta officially entered the competitive landscape of agentic artificial intelligence on Tuesday with the public release of Muse, a personal digital assistant designed to automate complex tasks within a highly secured cloud environment. The rollout marks a significant pivot for the social media giant, moving from traditional content-based AI models to autonomous systems capable of executing actions"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-13",
+    "topic": "ai_agents",
+    "title": "HolaOS releases open-source agentic workspace with 100+ integrations \u2014 Web Pulse",
+    "url": "https://wpnews.pro/news/holaos-releases-open-source-agentic-workspace-with-100-integrations",
+    "snippet": "HolaOS releases open-source agentic workspace with 100+ integrations \u2014 Web Pulse\n\n# HolaOS releases open-source agentic workspace with 100+ integrations\n\nHolaOS released an open-source agentic workspace platform that connects to more than 100 integrations, Model Context Protocol tools, and multiple agent frameworks including Claude Code and Codex. According to the project's GitHub repository, Hola"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-13",
+    "topic": "ai_small_business",
+    "title": "5 AI Workflow Automation Apps For Smarter Workflows",
+    "url": "https://www.analyticsinsight.net/artificial-intelligence/5-ai-workflow-automation-apps-to-help-professionals-work-smarter",
+    "snippet": "AI workflow automation apps can simplify repetitive professional tasks. Here are five platforms that help connect apps, automate processes, use AI agents and improve workplace productivity.\n...\n- Automate repetitive workplace tasks while reducing manual effort and administrative workload for professionals.\n- Connect multiple workplace applications and streamline complex processes using AI-powered "
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-13",
+    "topic": "ai_small_business",
+    "title": "AI Solutions to Supercharge Solopreneur Efficiency and Business Growth",
+    "url": "https://www.blogarama.com/internet-blogs/1389990-tech-tools-blog/80185571-solutions-supercharge-solopreneur-efficiency-business-growth",
+    "snippet": "# AI Solutions to Supercharge Solopreneur Efficiency and Business Growth\n\nPublished: 2026-09-12T00:00:00\nSource: blogarama.com (blogarama.com)\nLanguage: en\n\n## Story\n\nAI Solutions to Supercharge Solopreneur Efficiency and Business Growth \n\n# AI Solutions to Supercharge Solopreneur Efficiency and Business Growth \n\nSeptember 12th 2026\n\n# AI Solutions to Supercharge Solopreneur Efficiency and Busines"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-13",
+    "topic": "ai_small_business",
+    "title": "Skopx (@skopx) | Skopx",
+    "url": "https://skopx.com/feed/@skopx",
+    "snippet": "? That's where most AI assistants reach their limits. Skopx works differently. Skopx is built on a straightforward idea: you shouldn't need to learn a new visual language or spend hours configuring nodes to create an automation. You should be able to describe what you want to happen, and let the system build it for you. ## How It Actually Works The process is remarkably direct. You write one sente"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-13",
+    "topic": "ai_small_business",
+    "title": "AI platform FndrOS wants to keep startup founders organised \u2013 Finance News",
+    "url": "https://financepressa.com/ai-platform-fndros-wants-to-keep-startup-founders-organised/",
+    "snippet": "In a groundbreaking move for entrepreneurs, Geoff Gourley has unveiled FndrOS, an innovative AI platform designed to assist founders in navigating the multifaceted landscape of business creation. From conceptualizing an idea to preparing for critical funding rounds, FndrOS consolidates essential tasks into a single, cohesive solution. This platform integrates business planning, customer research, "
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-13",
+    "topic": "ai_labs",
+    "title": "Making sovereign, open-weight AI the technology frontier",
+    "url": "https://mistral.ai/",
+    "snippet": "Frontier AI LLMs, assistants, agents, services | Mistral\n\n# Frontier AI. In your hands.\n\ntailored AI systems to solve the \n\nworld\u2019s hardest problems.\n\nMistral raises \u20ac3B to make sovereign, open-weight AI the technology frontier\n\nIn-region inference, open models, and new European infrastructure for sovereign AI.\n\nIntroducing Shieldstral.\n\nIntroducing Mistral OCR 4\n\nworld\u2019s hardest problems.\n\nMistra"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-13",
+    "topic": "ai_labs",
+    "title": "Introducing GPT Images 2.5 in the API and ChatGPT - Announcements - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/introducing-gpt-images-2-5-in-the-api-and-chatgpt/1395897/20",
+    "snippet": "Introducing GPT Images 2.5 in the API and ChatGPT - Announcements - OpenAI Developer Community\n\n# Introducing GPT Images 2.5 in the API and ChatGPT \n\n## post by EricGT 3 days ago \n\n## post by _j 3 days ago \n\n> Could that same idea be applied when image generation produces a warning?\n\nI added this block to ChatGPT custom instructions to test:\n\n> ### Imagegen skill\n> \n> If an image creation call res"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-13",
+    "topic": "ai_labs",
+    "title": "Introducing GPT Images 2.5 in the API and ChatGPT - Announcements - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/introducing-gpt-images-2-5-in-the-api-and-chatgpt/1395897/21",
+    "snippet": "Introducing GPT Images 2.5 in the API and ChatGPT - Announcements - OpenAI Developer Community\n\n# Introducing GPT Images 2.5 in the API and ChatGPT \n\n## post by KDD 4 hours ago \n\nHow to make sure the desktop ChatGPT/Codex app is using GPT Images 2.5?\n\nCan we choose Sunburst from the desktop app?\n\nI\u2019d like to use it for UI etc but when I asked Codex to make sure to use 2.5, it said the generated PN"
   }
 ]
