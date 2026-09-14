@@ -22240,5 +22240,199 @@
     "title": "Introducing GPT Images 2.5 in the API and ChatGPT - Announcements - OpenAI Developer Community",
     "url": "https://community.openai.com/t/introducing-gpt-images-2-5-in-the-api-and-chatgpt/1395897/21",
     "snippet": "Introducing GPT Images 2.5 in the API and ChatGPT - Announcements - OpenAI Developer Community\n\n# Introducing GPT Images 2.5 in the API and ChatGPT \n\n## post by KDD 4 hours ago \n\nHow to make sure the desktop ChatGPT/Codex app is using GPT Images 2.5?\n\nCan we choose Sunburst from the desktop app?\n\nI\u2019d like to use it for UI etc but when I asked Codex to make sure to use 2.5, it said the generated PN"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-09-14",
+    "headline": "Siri AI is live. Not a keynote promise, not a \"coming next year.\" Apple flipped it on today, in beta.",
+    "url": "archive/2026-09-14.html",
+    "posts": {
+      "linkedin": [
+        "An AI agent can run an entire business now. Not draft emails for it. Run it.\n\nAndon Labs opened up Pion this week. It's the same stack that's been running their vending machines, a cafe, and a few radio stations internally, and now they're handing it to outside operators. The agent gets email, banking, cards, a browser, its own computer. A second agent watches the first one and reports back to you.\n\nThe model is revenue share, not a subscription. They make money when your business makes money.\n\nHere's the part that made me stop. This isn't a chatbot with a business idea bolted on. It's infrastructure for someone who already has a business and wants an agent doing the day to day running of it.\n\nWould someone hand over the keys for a cut of the upside? I think some people would. Not for everything. But for the boring repeatable parts, maybe.\n\nWhat's the most boring, most repeatable part of what you run today?",
+        "OpenAI launched ChatGPT for financial services last week. Anthropic answered today with Claude for Financial Advisors, plugged into BlackRock, Schwab, and Addepar.\n\nTwo labs, same tiny vertical, four days apart.\n\nThat's not a coincidence and it's not really about financial advisors. It's about what financial advisors have that most jobs don't: a workflow you can actually wrap AI around. Prep for a client meeting. Review a portfolio. Handle the follow up. Same shape, every week, every client.\n\nGeneral chatbots are the demo. Specific workflows are the product. That's the move both labs just made in public, on the same week, at the same vertical.\n\nSo the real question isn't will AI come for financial advisors. It already did, twice.\n\nThe question is what your version of that workflow looks like. The thing you do the same way, for every client, every time.\n\nIf it's repeatable, it's a skill. And repeatable is exactly what gets automated first.",
+        "Apple shipped Siri AI today. Not a preview. Not a keynote promise. It's rolling out in beta right now.\n\nIt reads your messages, your photos, your emails, for context. It sees what's on your screen. It can take actions across your apps, not just answer questions about them. Image Playground in the same app now generates photorealistic images too.\n\nHere's why that matters more than the feature list. Every AI product you've built or bought now competes with something already installed on the phone, already logged into the accounts, already free.\n\nThat's not a reason to panic. It's a reason to get specific. The assistant that knows everything about everyone is generic by design. The tool that knows one narrow thing really well still has a job.\n\nIt's not about changing the whole world. It's about changing someone's specific world, in a way the giant thing in their pocket isn't built to do.\n\nWhat's the narrow thing you know better than Siri ever will?"
+      ],
+      "threads": [
+        "Andon Labs just opened Pion to outside businesses. An AI agent that runs your business. Email, banking, cards, a browser, the whole operational stack. Not drafting for you, doing it.\n\nThey're not charging a subscription either. They take a cut of what the business makes. So they only win if the agent actually works.\n\nWild part is this isn't a demo. It's already been running their vending machines and a cafe for real.\n\nWould you hand it the keys for a piece of the upside?",
+        "OpenAI opened up the actual harness behind Codex today. Not the model. The stuff around the model. Context management, tool search, subagents running in parallel, all the plumbing that makes an agent usable instead of just smart.\n\nThat's the unglamorous part nobody posts about, and it's the part that decides if an agent works in production or just in a demo.\n\nEverybody's obsessed with which model is smartest. The harness is the whole job.",
+        "Siri AI is live today. Beta, English only for now, but it's real. It reads your messages and photos for context, sees your screen, can act inside your apps.\n\nSat with this for a minute. Every assistant app I've used or built now competes with something already on the phone, already signed in, already free.\n\nDoesn't mean build less. Means build narrower. The giant generic thing was never going to know your specific problem better than you do."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-09-14",
+    "source": "The Koerner Office",
+    "title": "Forget Snack Machines. This One Refills Itself",
+    "url": "https://www.youtube.com/watch?v=qkPQCqrEhtg",
+    "video_id": "qkPQCqrEhtg"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-09-14",
+    "source": "Startup Ideas Podcast",
+    "title": "Building a Software Factory that actually works (Full Course)",
+    "url": "https://www.youtube.com/watch?v=_LCeJZFIsd4",
+    "video_id": "_LCeJZFIsd4"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-09-14",
+    "source": "Corey Ganim",
+    "title": "copy my Claude skills template, it makes me $8,000 every 30 days",
+    "url": "https://www.youtube.com/watch?v=Kbz1nhL69io",
+    "video_id": "Kbz1nhL69io"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-14",
+    "topic": "model_releases",
+    "title": "Why DeepSeek-V4.1-Flash Is Such an Exciting Open Model Release - KDnuggets",
+    "url": "https://www.kdnuggets.com/why-deepseek-v4-1-flash-is-such-an-exciting-open-model-release",
+    "snippet": "Why DeepSeek-V4.1-Flash Is Such an Exciting Open Model Release - KDnuggets\n...\n# Why DeepSeek-V4.1-Flash Is Such an Exciting Open Model Release\n\n DeepSeek-V4.1-Flash shows how Causal Encoder-Decoder architecture, MoE, KV cache compression, CSA2, cheaper prefill, and efficient decoding can make powerful open-source AI models far more efficient to run.\n...\nDeepSeek has released DeepSeek-V4.1-Flash, "
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-14",
+    "topic": "model_releases",
+    "title": "Tencent Unveils Open-Source Hunyuan Hy4preview, Flagship Model Boasting 770B Parameters and 1M Context Window - xix.ai",
+    "url": "https://www.xix.ai/ainews/tencent-unveils-opensource-hunyuan-hy4preview-flagship-model-boasting-770b-parameters-and-1m-context-window.html",
+    "snippet": "Tencent Unveils Open-Source Hunyuan Hy4preview, Flagship Model Boasting 770B Parameters and 1M Context Window - xix.ai\n\n# Tencent Unveils Open-Source Hunyuan Hy4preview, Flagship Model Boasting 770B Parameters and 1M Context Window\n\nSeptember 14, 2026\n\nKevinPerez\n\nTencent Hunyuan launched its new open-source flagship large model, Hy4preview, on August 28. Featuring 770B total parameters and 49B ac"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-14",
+    "topic": "model_releases",
+    "title": "Atria Dawn Preview: InternLM's 744B Agentic MoE Ships Quietly",
+    "url": "https://www.orcarouter.ai/blog/atria-dawn-preview-quiet-release",
+    "snippet": "Shanghai AI Laboratory's InternLM organization quietly published Atria Dawn Preview on Hugging Face this week \u2014 a preview of a 744B-parameter MoE agentic model that arrives with MIT-licensed weights, a 1M-token context window, and a benchmark table measured against DeepSeek V4 Pro, Kimi K3, Qwen3.8-Max, GLM-5.3, GPT-5.6 Sol, and Claude Opus 5. The repository went live on September 11, 2026 \u2014 three"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-14",
+    "topic": "model_releases",
+    "title": "HUMAIN Launches humain-m3 Frontier Arabic Mixture-of-Experts Model | Tech Pulse | TheNextGenTechInsider",
+    "url": "https://www.thenextgentechinsider.com/pulse/humain-launches-humain-m3-frontier-arabic-mixture-of-experts-model",
+    "snippet": "# HUMAIN Launches humain-m3 Frontier Arabic Mixture-of-Experts Model\n\nSaudi Arabia's HUMAIN has unveiled humain-m3, a 428-billion-parameter MoE model developed with MiniMax. The model features extensive Arabic-native pre-training and outperforms several frontier models in key benchmarks.\n\nHiren Dave\n\nFounder\n\nSep 14, 2026\u2022 4 min read\n\nA 428-billion-parameter Mixture-of-Experts (MoE) model source.\n"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-14",
+    "topic": "model_releases",
+    "title": "SpaceXAI says Grok 4.8 will start reinforcement learning this week",
+    "url": "https://runtimewire.com/article/spacexai-grok-4-8-reinforcement-learning-cpp-stack",
+    "snippet": "SpaceXAI says Grok 4.8 will start reinforcement learning this week\n...\n# SpaceXAI says Grok 4.8 will start reinforcement learning this week\n...\n2.5\n...\na 2.1T\n...\na 3T successor is already planned.\n...\nth, 2\n...\nElon Musk (@elonmusk) said in a two-post thread on X on September 14th that Grok 4.8 will finish its current training stage during the week of September 14th and move into reinforcement le"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-14",
+    "topic": "product_releases",
+    "title": "Siri AI, a profoundly more capable and personal assistant, is here - Apple",
+    "url": "https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here/",
+    "snippet": "# Siri AI, a profoundly more capable and personal assistant, is here - Apple\n...\nThe next generation of Apple Intelligence is available today, powering Siri AI and making the apps and experiences users rely on every day more personal and helpful than ever.\n...\nApple today released the next generation of Apple Intelligence, powering Siri AI, an entirely new version of Siri, and capabilities that ma"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-14",
+    "topic": "product_releases",
+    "title": "Anthropic targets financial advisers with new Claude tool | Reuters",
+    "url": "https://www.reuters.com/business/anthropic-targets-financial-advisers-with-new-claude-tool-2026-09-14/",
+    "snippet": "Anthropic targets financial advisers with new Claude tool | Reuters\n...\n# Anthropic targets financial advisers with new Claude tool\n...\nSeptember 14, 20265:10 PM UTCUpdated ago\n...\nSept 14 (Reuters) - AI lab Anthropic on Monday launched a set of tools for financial advisers, \u200bconnecting its Claude chatbot to investment \u200canalytics and wealth-management software from firms including BlackRock [(BLK."
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-14",
+    "topic": "product_releases",
+    "title": "Inductive Bio launches Indy, an AI chemistry assistant, to double the capacity of every medicinal chemist",
+    "url": "https://www.prnewswire.com/news-releases/inductive-bio-launches-indy-an-ai-chemistry-assistant-to-double-the-capacity-of-every-medicinal-chemist-302877082.html",
+    "snippet": "Inductive Bio launches Indy, an AI chemistry assistant, to double the capacity of every medicinal chemist\n...\n# Inductive Bio launches Indy, an AI chemistry assistant, to double the capacity of every medicinal chemist\n\n Inductive Bio, Inc. \n\nSep 14, 2026, 11:00 ET\n...\nIndy is the world's first medicinal chemistry agent. Indy outperforms Claude Opus 5 and GPT-5.6 Sol in head-to-head benchmarks that"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-14",
+    "topic": "product_releases",
+    "title": "Sesame, AI Startup by Oculus Founders, Debuts on iOS - xix.ai",
+    "url": "https://www.xix.ai/ainews/sesame-ai-startup-by-oculus-founders-debuts-on-ios.html",
+    "snippet": "Sesame, AI Startup by Oculus Founders, Debuts on iOS - xix.ai\n\n# Sesame, AI Startup by Oculus Founders, Debuts on iOS\n\nSeptember 14, 2026\n\nAndrewHern\u00e1ndez\n\nOn Thursday, Sesame, an AI startup founded by the creators of Oculus and other former Meta VR team members, unveiled a public preview of its conversational AI agents, which have been in development for over a year. Through its new iOS applicati"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-14",
+    "topic": "product_releases",
+    "title": "Collective Launches Compass, the AI Platform Built to Research, Plan and Execute in the Private Market",
+    "url": "https://www.prnewswire.com/news-releases/collective-launches-compass-the-ai-platform-built-to-research-plan-and-execute-in-the-private-market-302877204.html",
+    "snippet": "Collective Launches Compass, the AI Platform Built to Research, Plan and Execute in the Private Market\n...\n# Collective Launches Compass, the AI Platform Built to Research, Plan and Execute in the Private Market\n\n Collective \n\nSep 14, 2026, 08:57 ET\n...\nadvisors private company intelligence,\n...\nand anonymous execution support\n...\nHUNTINGTON BEACH, Calif., Sept. 14, 2026 /PRNewswire/ -- Collective"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-14",
+    "topic": "ai_agents",
+    "title": "FutureVault Launches AI Agents, Bringing Governed End-to-End Workflow Execution to the Document Layer",
+    "url": "https://www.prnewswire.com/news-releases/futurevault-launches-ai-agents-bringing-governed-end-to-end-workflow-execution-to-the-document-layer-302877663.html",
+    "snippet": "FutureVault Launches AI Agents, Bringing Governed End-to-End Workflow Execution to the Document Layer\n...\nPurpose-built AI Agents orchestrate compliance-driven and operational document workflows end to end across a firm's connected systems, operating inside its existing permission structure and escalating missing documents and exceptions for human review\n...\nTORONTO, Sept. 14, 2026 /PRNewswire/ --"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-14",
+    "topic": "ai_agents",
+    "title": "Salesforce Expands Agentforce With a New Portfolio of AI Agents Built for High-Value Work - Salesforce",
+    "url": "https://www.salesforce.com/ap/news/press-releases/2026/09/14/sg-salesforce-expands-agentforce-with-a-new-portfolio-of-ai-agents-built-for-high-value-work/",
+    "snippet": "Salesforce Expands Agentforce With a New Portfolio of AI Agents Built for High-Value Work - Salesforce\n...\nWith a New Portfolio of AI Agents Built for High-Value Work\n\n September 14, 2026 5\n...\nNew job-ready agents help companies get to business outcomes faster across sales, service, commerce, and the workforce \u2014 driving revenue, reducing costs, and improving customer experiences Advances across A"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-14",
+    "topic": "ai_agents",
+    "title": "Akuity Launches Agentic Control Plane for Software Delivery, Bringing Operational Context and Governance to AI Agents",
+    "url": "https://www.globenewswire.com/news-release/2026/09/14/3361377/0/en/akuity-launches-agentic-control-plane-for-software-delivery-bringing-operational-context-and-governance-to-ai-agents.html",
+    "snippet": "# Akuity Launches Agentic Control Plane for Software Delivery, Bringing Operational Context and Governance to AI Agents\n...\nSUNNYVALE, Calif., Sept. 14, 2026 (GLOBE NEWSWIRE) -- Akuity, the provider of the software delivery platform built by the creators of Argo CD and Kargo, today introduced its Agentic Control Plane and MCP Server. Akuity's Agentic Control Plane lets AI agents accelerate softwar"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-14",
+    "topic": "ai_agents",
+    "title": "Salesforce Introduces the Trusted Enterprise AI Harness\u00a0 - Salesforce",
+    "url": "https://www.salesforce.com/in/news/stories/enterprise-ai-harness/",
+    "snippet": "# Salesforce Introduces the Trusted Enterprise AI Harness \n\n September 13, 2026 7 min read \n\nA new architecture that gives AI a shared understanding of the customer and the business \u2014 and enables it to act with trust\n...\nThe Agentic Enterprise is changing how work gets done \u2014 and the role every person plays in it. As agents become part of how people work across every function of the business, they"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-14",
+    "topic": "ai_agents",
+    "title": "Andon Labs opens Pion for handing an entire business to AI",
+    "url": "https://runtimewire.com/article/andon-labs-opens-pion-ai-agent-run-company",
+    "snippet": "Andon Labs opens Pion for handing an entire business to AI\n...\nson and Axel Backlund are turning Andon's internal agent stack into a waitlisted preview with revenue-share economics.\n\n By RuntimeWire Staff \u00b7 Published Sep 14th, 2026, 12:54pm CT\n...\nPion moves autonomous-business agents from isolated Andon experiments into outside companies, creating a larger real-world test of whether persistent ag"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-14",
+    "topic": "ai_labs",
+    "title": "Perplexity trusts GPT-6 Astra with end-to-end systems | OpenAI",
+    "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra/",
+    "snippet": "Perplexity trusts GPT-6 Astra with end-to-end systems | OpenAI\n\nSeptember 14, 2026\n\n# Perplexity trusts GPT\u20116 Astra with end-to-end systems\n\nPerplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.\n\nAs an AI-powered answer engine, Perplexity is deeply focused on search and accuracy. Its ability to p"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-14",
+    "topic": "ai_labs",
+    "title": "Introducing the Agents API | OpenAI",
+    "url": "https://openai.com/es-419/index/introducing-the-agents-api/",
+    "snippet": "# Introducing the Agents API | OpenAI\n...\nIntroducing the Agents API | OpenAI\n...\n# Introducing the Agents API\n...\nBuild and run cloud agents with the Codex harness, fully managed by OpenAI.\n...\nToday, we\u2019re introducing the Agents API\u2060(se abre en una nueva ventana) in public beta, bringing that same harness and infrastructure that powers Codex to developers through a simple, flexible API.\n...\nOpen"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-14",
+    "topic": "ai_labs",
+    "title": "How Fyxer built an AI executive assistant people trust | OpenAI",
+    "url": "https://openai.com/index/fyxer/",
+    "snippet": "# How Fyxer built an AI executive assistant people trust | OpenAI\n...\nHow Fyxer built an AI executive assistant people trust | OpenAI\n...\nAugust 13, 2026\n...\n# How Fyxer built an AI executive assistant people trust\n...\nFyxer pairs OpenAI models with 500,000+ hours of EA workflows and real user feedback to draft replies in each person\u2019s voice.\n...\nFyxer built an AI executive assistant that follows "
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-14",
+    "topic": "ai_labs",
+    "title": "Build Agent Ready Websites with ChatGPT - Announcements - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/build-agent-ready-websites-with-chatgpt/1392588/6",
+    "snippet": "Build Agent Ready Websites with ChatGPT - Announcements - OpenAI Developer Community\n\n 6h ago \n\n## post by VeitB on Aug 25 \n\n VeitB Leader \n\nUse WebMCP to give AI agents a direct way to work with your website:\n\n Build agent-ready sites with WebMCP \n\nSite tools are ChatGPT\u2019s implementation of the proposed WebMCP standard. With WebMCP, a website can offer useful actions directly to an AI agent along"
   }
 ]
