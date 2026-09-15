@@ -22434,5 +22434,103 @@
     "title": "Build Agent Ready Websites with ChatGPT - Announcements - OpenAI Developer Community",
     "url": "https://community.openai.com/t/build-agent-ready-websites-with-chatgpt/1392588/6",
     "snippet": "Build Agent Ready Websites with ChatGPT - Announcements - OpenAI Developer Community\n\n 6h ago \n\n## post by VeitB on Aug 25 \n\n VeitB Leader \n\nUse WebMCP to give AI agents a direct way to work with your website:\n\n Build agent-ready sites with WebMCP \n\nSite tools are ChatGPT\u2019s implementation of the proposed WebMCP standard. With WebMCP, a website can offer useful actions directly to an AI agent along"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-09-15",
+    "headline": "Three different companies shipped basically the same feature this week and didn't seem to notice they were copying each other.",
+    "url": "archive/2026-09-15.html",
+    "posts": {
+      "linkedin": [
+        "Agoda, Bol, and Zendesk all shipped the same idea this week.\n\nThree companies, three completely different businesses, same play. An AI assistant that lives inside the app you already have open. Not a new tab. Not a new login. It just does the thing.\n\nBooks the trip. Finds the product. Closes the ticket.\n\nThat's the tell that a technology moved from novelty to normal. Nobody announces \"we added a chatbot\" anymore. They quietly put an agent inside the product and let it work.\n\nSmall businesses are behind on this mostly because what gets marketed to them is a $500 replatform. The actual opportunity is smaller than that. Find the one task your customers already do inside your site or app, and let AI finish it for them right there.\n\nWould someone pay to skip five steps instead of doing all five themselves? I think someone would.",
+        "There's a new 35 billion parameter AI model out and almost nobody outside AI Twitter noticed.\n\nIt's called Occamy. Built by a small lab, trained on top of an existing open model, tuned specifically for agent work. Research, coding, file handling, the long multi-step stuff that takes a hundred moves instead of one.\n\nHere's the part that matters if you build anything. The weights are free. The training code is free. The whole stack used to train it is free.\n\nThat's not charity. That's a bet that the next wave of agent products gets built by people who don't want to pay per token to a closed API forever.\n\nDoesn't mean you rip out what's working today.\n\nMeans you've got an out if the pricing on your current stack ever turns on you.",
+        "Zendesk says its new AI agents automate up to 80% of workflows. I want to see whose workflows.\n\nBig automation numbers get thrown around constantly right now, and most of them describe the easiest 20% of the job, not the whole thing.\n\nThe more useful number came from a smaller story buried the same week. A hormone therapy practice called SottoPelle put their provider communication into one system and it saved them about 100 hours a month, same lean team, no new hires.\n\nNotice the difference. One is a headline percentage. The other is a specific team, a specific bottleneck, a specific number of hours back.\n\nNext time you're deciding if an AI tool is worth it, skip the vendor's big claim and ask the boring question instead. What exact task ate an hour last week, and does the tool do that task, start to finish, without you checking its work behind it?\n\nThat's the whole evaluation. Everything else is marketing."
+      ],
+      "threads": [
+        "Three companies shipped the same feature this week and didn't seem to notice they were copying each other.\n\nAgoda, Bol, Zendesk. All of them put an AI agent inside the app you already have open instead of building a new one.\n\nThat's the actual signal. Not the model specs, not the funding round. When three unrelated companies converge on the same move in the same week, that's the market telling you where it's headed.\n\nWorth paying attention to which task disappears next.",
+        "There's a new open AI model out called Occamy. 35 billion parameters, built specifically to do multi-step agent work, and the whole thing including the training code is free to download.\n\nNobody's talking about it because it doesn't have a flashy chat interface. It's infrastructure, not a product.\n\nBut infrastructure is usually where the real advantage sits. The demo gets the headlines. The thing under the demo gets built on for years.",
+        "Everyone's calling these things digital teammates now. Slack's version, Salesforce's version, whatever a company wants to name their bot.\n\nIt's not a teammate. It's a very fast intern that read all your company's messages and never gets tired of summarizing them.\n\nCall it what it is. A tool that saves you the boring five minutes so you spend it on the actual decision instead.\n\nWould you pay for five minutes back, fifty times a day? I think you would."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-09-15",
+    "source": "AI Daily Brief",
+    "title": "AI Companies Begin to Align Around Slowdown",
+    "url": "https://www.youtube.com/watch?v=5Wivm4gd9YQ",
+    "video_id": "5Wivm4gd9YQ"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-09-15",
+    "source": "The Entrepreneur's Studio",
+    "title": "Why Story Works: The Science Behind Memorable Brands | Dr. J.J. Peterson",
+    "url": "https://www.youtube.com/watch?v=42DLzHkmBM4",
+    "video_id": "42DLzHkmBM4"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-15",
+    "topic": "model_releases",
+    "title": "Accio-Lab releases Occamy-1.0 \u2014 a 35B open agent-focused model with weights, code and deployment tools",
+    "url": "https://agentictribune.com/article/20260914-accio-lab-releases-occamy-1-0-a-35b-open-agent-focused-model-with-weights-code-and-deployment-tools",
+    "snippet": "Accio-Lab releases Occamy-1.0 \u2014 a 35B open agent-focused model with weights, code and deployment tools\n...\n# Accio-Lab releases Occamy-1.0 \u2014 a 35B open agent-focused model with weights, code and deployment tools \n\n By ChatGPT \u2014 AI-generated \u00b7 Published:\n...\nAccio-Lab has publicly released Occamy-1.0, an open-weight 35 billion-parameter AI model aimed at long, tool-using workflows, along with code "
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-15",
+    "topic": "product_releases",
+    "title": "Agoda Begins Limited Public Beta of New AI Assistant That Turns Travel Ideas into Bookable Trips",
+    "url": "https://www.prnewswire.com/apac/news-releases/agoda-begins-limited-public-beta-of-new-ai-assistant-that-turns-travel-ideas-into-bookable-trips-302878306.html",
+    "snippet": "Agoda Begins Limited Public Beta of New AI Assistant That Turns Travel Ideas into Bookable Trips\n\n# Agoda Begins Limited Public Beta of New AI Assistant That Turns Travel Ideas into Bookable Trips\n\n Agoda \n\n15 Sep, 2026, 11:00 CST\n\nSINGAPORE, Sept. 15, 2026 /PRNewswire/ -- Digital travel platform Agoda has begun the beta rollout of its new AI Assistant, designed to help travelers turn their travel"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-15",
+    "topic": "product_releases",
+    "title": "Zendesk Introduces Specialized AI Agents Purpose-built for Your Business",
+    "url": "https://www.zendesk.com/newsroom/articles/specialized-agents/",
+    "snippet": "Zendesk Introduces Specialized AI Agents Purpose-built for Your Business\n...\n## Zendesk Introduces Specialized AI Agents Purpose-built for Your Business\n...\nPublished September 14, 2026\n...\nToday, Zendesk introduced Specialized AI Agents, purpose-built for the work that matters most to a specific business or industry. They combine industry expertise with each company\u2019s unique knowledge, workflows "
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-15",
+    "topic": "product_releases",
+    "title": "Bol introduces Shopper Agent: a personal AI assistant for easier online shopping",
+    "url": "https://over.bol.com/en/news/bol-introduces-shopper-agent-a-personal-ai-assistant-for-easier-online-shopping/",
+    "snippet": "Bol introduces Shopper Agent: a personal AI assistant for easier online shopping - Over bol.com\n...\nBol introduces Shopper Agent: a personal AI assistant for easier online shopping\n...\nbeta version available to everyone in the app and on the web from today\n...\nBol is introducing Shopper Agent: a personal AI shopping assistant that helps customers navigate bol\u2019s platform in a new way by asking ques"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-15",
+    "topic": "ai_agents",
+    "title": "Peak3 launches the first global insurance AI-DLC, alongside its AI-native core system",
+    "url": "https://www.prnewswire.com/news-releases/peak3-launches-the-first-global-insurance-ai-dlc-alongside-its-ai-native-core-system-302877472.html",
+    "snippet": "Graphene Harness turns insurance software delivery into an AI production line. Graphene v4 gives agents a governed core to run and change the business.\n...\nSINGAPORE, Sept. 14, 2026 /PRNewswire/ -- Peak3, a global provider of digital and AI-driven insurance software, today announced Graphene v4, the AI-native evolution of its insurance core platform, and Graphene Harness, an end-to-end AI-driven d"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-15",
+    "topic": "ai_small_business",
+    "title": "Meet Your Digital Teammate, Slackbot: Spotlight on Productivity Agent",
+    "url": "https://www.salesforce.com/blog/small-business/meet-your-digital-teammate-for-slack/",
+    "snippet": "Meet Slackbot. Slackbot is a new kind of digital teammate for growing businesses \u2014 an AI assistant that works inside your conversations around the clock, so your team can spend its time on strategic work. Here\u2019s a look at what Slackbot does, how it fits into your day, and why it matters for team productivity.\n...\nAn AI digital teammate isn\u2019t just a basic chatbot \u2014 it\u2019s digital labor that takes on "
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-15",
+    "topic": "ai_small_business",
+    "title": "AI Tool Workflows - Step-by-Step AI Tutorials & Automation Guides",
+    "url": "https://aitoolworkflows.com/",
+    "snippet": "AI Tool Workflows - Step-by-Step AI Tutorials & Automation Guides\n\n## How to Start a Faceless YouTube Channel with AI: 5 Amazing Steps\n\n September 14, 2026 by AI Tool Workflows Team \n\n \n\nAuthor\u2019s Note: I remember the exact moment I realized I didn\u2019t want to be on camera. I wanted to share \u2026 \n\n## Grok Bots Review: How to Build an AI Team in 2026\n\n September 12, 2026 by AI Tool Workflows Team \n\n \n\nA"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-15",
+    "topic": "ai_small_business",
+    "title": "SottoPelle Automates 100+ Hours/Month | Salesforce",
+    "url": "https://www.salesforce.com/customer-stories/sottopelle-pro-suite/",
+    "snippet": "## Summary \n\n SottoPelle uses Salesforce Pro Suite to centralize provider communications, automate onboarding and follow-up, and scale support for thousands of physicians, saving over 1.5 hours per lead and over 100 hours a month, with its lean team.\n...\n, marketing emails somewhere else entirely \u2014 and every handoff between systems was a chance for something to fall through\n...\nMicayla Walker, Sot"
   }
 ]
