@@ -22532,5 +22532,207 @@
     "title": "SottoPelle Automates 100+ Hours/Month | Salesforce",
     "url": "https://www.salesforce.com/customer-stories/sottopelle-pro-suite/",
     "snippet": "## Summary \n\n SottoPelle uses Salesforce Pro Suite to centralize provider communications, automate onboarding and follow-up, and scale support for thousands of physicians, saving over 1.5 hours per lead and over 100 hours a month, with its lean team.\n...\n, marketing emails somewhere else entirely \u2014 and every handoff between systems was a chance for something to fall through\n...\nMicayla Walker, Sot"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-09-16",
+    "headline": "Anthropic spent the summer asking 900,000 small business owners what they actually wanted from AI.",
+    "url": "archive/2026-09-16.html",
+    "posts": {
+      "linkedin": [
+        "Anthropic spent the summer asking 900,000 small business owners what they wanted from AI.\n\nA third of them said the same thing. Help me sell.\n\nNot bookkeeping. Not scheduling. Not the stuff everyone assumed AI would fix first for a small business.\n\nSell.\n\nThat tells you something about where the actual pain lives. Owners aren't drowning in admin as much as they're drowning in leads they never followed up on and marketing they never got around to.\n\nSo Anthropic shipped 43 new workflows and 27 integrations this week. Shopify, Salesforce, TikTok Ads, the works.\n\nHere's the thing worth sitting with though. You don't need Anthropic's tool to act on this insight. You need the insight.\n\nWhat's the one follow-up your business keeps dropping? What are you already doing for yourself that a customer would pay for if you just packaged it?",
+        "There's a new AI model out this week called Jev. It doesn't chat with you. It doesn't write essays. It just makes decisions.\n\nFeed it structured data, it spits out a typed answer. That's it. No conversation, no personality, no chat window.\n\nThe guy who built it used to help invent RLHF, the technique that made ChatGPT talk like a person in the first place. Now he's building the opposite bet on purpose.\n\nMost of us think of AI as a thing you talk to. That's the ChatGPT mental model and it's stuck in everyone's head.\n\nBut a huge chunk of the AI that's actually going to run your business quietly in the background doesn't need to say a word. It just needs to sort the ticket, route the call, flag the weird transaction.\n\nWould someone pay for a tool like that? I think someone would pay for that. The best automations are usually invisible.\n\nWhat's a decision in your business that gets made the same way, every single time, and nobody's automated it yet?",
+        "Meta just rolled out a subscription ladder for creators and small businesses. $2.99 a month at the bottom. $499 at the top.\n\nScheduling. Shared logins. An AI agent that answers your WhatsApp Business messages while you sleep.\n\nNone of it is a bad idea on its own. The problem is nobody adds up the total.\n\nA year ago \"using AI in your business\" mostly meant a free ChatGPT account and a little curiosity. Now it means a stack of monthly subscriptions creeping toward a real number, and most owners aren't tracking it because each individual charge feels small.\n\nThis isn't a scolding post. I'm not here to tell you you're behind.\n\nI'm saying: before you add the next tool, ask what it's actually replacing. Do more with the same, not the same with less. If a $50 tool doesn't remove a task you were paying someone (including yourself) to do, it's not a tool, it's a subscription you forgot about.\n\nWhat's on your stack right now that you couldn't explain the ROI on if someone asked?"
+      ],
+      "threads": [
+        "Anthropic asked 900,000 small business owners what they wanted from AI. A third said the same thing. Help me sell.\n\nNot save me time on paperwork. Sell.\n\nEverybody building AI for small business assumed the pain point was admin. It's revenue. It was always revenue.\n\nMakes you wonder how many tools got built solving the wrong problem this year.",
+        "Firefox's new AI browsing assistant runs on Mistral now, not the usual big three.\n\nNothing saved by default. Zero data retention from Mistral's side.\n\nAI is about to be baked into everything you open, whether you asked for it or not. The only question left is who's building the version you can actually trust with what's on your screen.",
+        "There's a new AI model that doesn't talk. It just decides.\n\nFeed it data, it hands back a structured answer. No chat, no personality, no \"as an AI language model.\"\n\nIt can play Doom as a party trick. The real use is sorting support tickets and routing decisions without a human ever reading a transcript.\n\nWe think of AI as something you talk to because that's the only version most people have used. The version that actually runs quietly in the background doesn't need a voice at all."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-09-16",
+    "source": "The Koerner Office",
+    "title": "The Side Hustle AI Was Supposed to Kill Is Booming [NO ADS \u2022 FULL EPISODE]",
+    "url": "https://www.youtube.com/watch?v=vmZ_IegqU14",
+    "video_id": "vmZ_IegqU14"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-09-16",
+    "source": "The Koerner Office",
+    "title": "The Most Useful AI Tool You\u2019ve Never Heard Of",
+    "url": "https://www.youtube.com/watch?v=CpgW6LYIEHw",
+    "video_id": "CpgW6LYIEHw"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-09-16",
+    "source": "Startup Ideas Podcast",
+    "title": "Instinct AI is For Real. What You Need to Know.",
+    "url": "https://www.youtube.com/watch?v=mUAsaprJ66s",
+    "video_id": "mUAsaprJ66s"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-09-16",
+    "source": "Corey Ganim",
+    "title": "how i'd start a $10K/month AI business with claude in 30 days",
+    "url": "https://www.youtube.com/watch?v=63Wsa5lBNzA",
+    "video_id": "63Wsa5lBNzA"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-16",
+    "topic": "model_releases",
+    "title": "Gemini 3.8 Live & Gemini 3.8 Live Extended Thinking",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+    "snippet": "Gemini 3.8 Live & Gemini 3.8 Live Extended Thinking\n...\n# Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking\n\nSep 15, 2026\n\n Gemini 3.8 Live and Gemini 3.8 Live Extended Thinking are our most advanced live dialogue models yet. Major upgrades in intelligence and parallel reasoning make them more intuitive to collaborate with and use to execute complex tasks using your voice. \n\nTom Ouyang\n.."
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-16",
+    "topic": "model_releases",
+    "title": "TypeSafe AI debuts model for machines that plays Doom",
+    "url": "https://www.theregister.com/ai-and-ml/2026/09/16/typesafe-ai-debuts-model-for-machines-that-plays-doom/5296711",
+    "snippet": "TypeSafe AI debuts model for machines that plays Doom\n...\n# TypeSafe AI debuts model for machines that plays Doom \n\n 'Jev' doesn't chat. It produces typed probabilistic decisions \n\n Thomas Claburn Thomas Claburn AI AND SOFTWARE REPORTER \n\n Published wed 16 Sep 2026 // 02:35 UTC \n\n### READ MORE\n...\nTypeSafe AI, a startup bestowed with $40 million in funding, on Tuesday declared itself a maker of fr"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-16",
+    "topic": "model_releases",
+    "title": "Shanghai AI Lab Open-Sources Multimodal Foundation Large Model Shueng-S2: Plug-and-Play Memory, Scientific Long-Term Tasks Benchmarking Top-Tier Closed-Source Models",
+    "url": "https://news.aibase.com/news/31056",
+    "snippet": "Shanghai AI Lab Open-Sources Multimodal Foundation Large Model Shueng-S2: Plug-and-Play Memory, Scientific Long-Term Tasks Benchmarking Top-Tier Closed-Source Models\n\n# Shanghai AI Lab Open-Sources Multimodal Foundation Large Model Shueng-S2: Plug-and-Play Memory, Scientific Long-Term Tasks Benchmarking Top-Tier Closed-Source Models\n\nTime : Sep 15, 2026 Read : 2 minute\n\nShanghai AI Laboratory has "
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-16",
+    "topic": "model_releases",
+    "title": "Salesforce and NVIDIA Announce Koa - Salesforce",
+    "url": "https://www.salesforce.com/news/press-releases/2026/09/15/koa-reasoning-model/",
+    "snippet": "# Salesforce and NVIDIA Announce Koa - Salesforce\n...\nSalesforce and NVIDIA Announce Koa - Salesforce\n\n# Announcing Koa: Salesforce\u2019s First CRM Reasoning Model, Built on NVIDIA Nemotron\n\n September 15, 2026 5 min read \n\nKoa is trained with 27 years of Salesforce CRM intelligence to enable agents to reason through the complex, multistep tasks required for enterprise work \n\nThe collaboration also br"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-16",
+    "topic": "model_releases",
+    "title": "Xiaomi open-sources the Robotics-U0 embodied model; FlashAR+ makes it 83x faster | Gate News",
+    "url": "https://www.gate.com/news/detail/xiaomi-open-sources-the-robotics-u0-embodied-model-with-flashar-achieving-24303688",
+    "snippet": "Xiaomi open-sources the Robotics-U0 embodied model; FlashAR+ makes it 83x faster | Gate News\n...\n# Xiaomi open-sources the Robotics-U0 embodied model, with FlashAR+ achieving an 83x speedup\n...\n- Xiaomi open-sourced Xiaomi-Robotics-U0 in 4B and 38B parameter versions on Hugging Face by early September.\n- FlashAR+ achieves 1024\u00d71024 image generation speed improvement of approximately 82.9 times wit"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-16",
+    "topic": "product_releases",
+    "title": "Introducing Fotor Agent: Create Fully Editable AE-Quality Motion Graphics and Long-Form Videos - PR Newswire APAC",
+    "url": "https://en.prnasia.com/releases/global/introducing-fotor-agent-create-fully-editable-ae-quality-motion-graphics-and-long-form-videos-548019.shtml",
+    "snippet": "Introducing Fotor Agent: Create Fully Editable AE-Quality Motion Graphics and Long-Form Videos - PR Newswire APAC\n...\n# Introducing Fotor Agent: Create Fully Editable AE-Quality Motion Graphics and Long-Form Videos \n\n Fotor 2026-09-16 01:15 \n\nFotor Agent, ranked No. 1 Product of the Day on Product Hunt, turns ideas and raw assets into complete, editable video projects through an intelligent end-to"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-16",
+    "topic": "product_releases",
+    "title": "RWS launches Tridion agentic platform, bringing governed AI agents into enterprise content workflows",
+    "url": "https://www.prnewswire.com/news-releases/rws-launches-tridion-agentic-platform-bringing-governed-ai-agents-into-enterprise-content-workflows-302879421.html",
+    "snippet": "RWS launches Tridion agentic platform, bringing governed AI agents into enterprise content workflows\n...\n# RWS launches Tridion agentic platform, bringing governed AI agents into enterprise content workflows\n\n RWS \n\nSep 16, 2026, 04:01 ET\n...\nTridion Agent and Tridion Connect now in public preview, enabling enterprises to build, deploy and orchestrate AI agents within governed content workflows\n.."
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-16",
+    "topic": "product_releases",
+    "title": "Anthropic launches new Claude AI finance tool: What traders, analysts need to know | Technology News - The Indian Express",
+    "url": "https://indianexpress.com/article/technology/artificial-intelligence/anthropic-launches-new-claude-ai-finance-tool-what-traders-bankers-need-to-know-10879137/",
+    "snippet": "# Anthropic launches new Claude AI finance tool: What traders, analysts need to know | Technology News - The Indian Express\n\nPublished: 2026-09-15T17:35:57+05:30\nSource: Indian Express (indianexpress.com)\nLanguage: en\n\n## Story\n\nAnthropic launches new Claude AI finance tool: What traders, analysts need to know | Technology News - The Indian Express\n\nskip to content\n\n# Anthropic launches new Claude"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-16",
+    "topic": "ai_agents",
+    "title": "Huwise launches Agentic AI Framework to build powerful AI agents that address business needs",
+    "url": "https://www.einpresswire.com/article/942375522/huwise-launches-agentic-ai-framework-to-build-powerful-ai-agents-that-address-business-needs",
+    "snippet": "Huwise launches Agentic AI Framework to build powerful AI agents that address business needs\n...\nBOSTON, MA, UNITED STATES, September 15, 2026 / EINPresswire.com/ -- Huwise, the leading provider of data product marketplace solutions, today launched its Agentic AI framework, designed to accelerate enterprise-wide usage of data and increase the effectiveness of its data product marketplace solution."
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-16",
+    "topic": "ai_agents",
+    "title": "Salesforce Unveils the Future of Enterprise Software: AIforce - Salesforce",
+    "url": "https://www.salesforce.com/news/stories/aiforce-announcement/",
+    "snippet": "AIforce unlocks tremendous value by enabling agents anywhere to reason and take action across all the data, workflows, and logic inside Salesforce\n...\nToday at Dreamforce, Salesforce, the #1 AI CRM, is unveiling AIforce, a live interface layer that brings the full power of Salesforce to wherever people and agents work. With AIforce, Salesforce is bringing all the enterprise knowledge inside Salesf"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-16",
+    "topic": "ai_agents",
+    "title": "Peak3 launches the first global insurance AI-DLC, alongside its AI-native core system",
+    "url": "https://www.prnewswire.com/apac/news-releases/peak3-launches-the-first-global-insurance-ai-dlc-alongside-its-ai-native-core-system-302877513.html",
+    "snippet": "Peak3 launches the first global insurance AI-DLC, alongside its AI-native core system\n...\nGraphene Harness turns insurance software delivery into an AI production line. Graphene v4 gives agents a governed core to run and change the business.\n...\nSINGAPORE, Sept. 15, 2026 /PRNewswire/ -- Peak3, a global provider of digital and AI-driven insurance software, today announced Graphene v4, the AI-native"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-16",
+    "topic": "ai_small_business",
+    "title": "Anthropic Puts Claude On Small Business Sales After 900,000 Installs",
+    "url": "https://www.forbes.com/sites/boazsobrado/2026/09/15/anthropic-puts-claude-on-small-business-sales-after-900000-installs/",
+    "snippet": "Anthropic has significantly upgraded its Claude for Small Business plugin, adding 43 new workflows and 27 integrations to address user demand, especially for sales and marketing. The plugin, installed over 900,000 times since May, now connects to 37 partners like Shopify, Salesforce, and TikTok Ads, expanding beyond bookkeeping to lead follow-up and marketing campaigns. Anthropic's Lina Ochman des"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-16",
+    "topic": "ai_small_business",
+    "title": "Hancom to launch AI workforce platform targeting US solo entrepreneurs - The Korea Times",
+    "url": "https://www.koreatimes.co.kr/business/tech-science/20260915/hancom-to-launch-ai-workforce-platform-targeting-us-solo-entrepreneurs",
+    "snippet": "Hancom plans to launch Nomadian, an AI workforce platform for solo entrepreneurs and small businesses in the U.S., with a beta release planned for December. The SaaS platform lets users assign tasks to multiple AI agents in roles such as data analysis and email marketing, and a full subscription service is planned for 2027. Hancom said the platform will use its proprietary agentic operating system"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-16",
+    "topic": "ai_small_business",
+    "title": "FluenceOS Launches Free-Forever Pipeline OS for Freelancers Tired of Managing CRM Software",
+    "url": "https://www.einpresswire.com/article/942487526/fluenceos-launches-free-forever-pipeline-os-for-freelancers-tired-of-managing-crm-software",
+    "snippet": "PHOENIX, AZ, UNITED STATES, September 15, 2026 / EINPresswire.com/ -- FluenceOS has launched the public beta of Pipeline OS, a free-forever business operating system designed for freelancers, virtual assistants, consultants, and solo service businesses that need a simpler way to keep client opportunities moving. Many software platforms for independent professionals are expanding into all-in-one sy"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-16",
+    "topic": "ai_small_business",
+    "title": "Meta One bundles creator and business tools \u2014 for a monthly fee",
+    "url": "https://sea.mashable.com/tech/54918/meta-one-bundles-creator-and-business-tools-for-a-monthly-fee",
+    "snippet": "Scheduling, shared account access and customer-service AI could save time. Paid discovery adds another consideration for creators.\n...\nMeta wants creators and small businesses to spend less time juggling tools \u2014 and pay a monthly fee for the convenience.\n...\nAt its Sept. 14 launch event in New York City, the company introduced Meta One, a subscription service bringing publishing, analytics, custom"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-16",
+    "topic": "ai_labs",
+    "title": "Introducing Claude Fable 5.1 and Claude Mythos 5.1 - Anthropic",
+    "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+    "snippet": "Introducing Claude Fable 5.1 and Claude Mythos 5.1 \\ Anthropic\n...\n# :Claude: Fable 5.1 and Mythos 5.1\n...\nWe\u2019re introducing Claude Fable 5.1 and Claude Mythos 5.1. They\u2019re the world\u2019s most advanced models for coding and knowledge work\u2014and their research capabilities offer an early glimpse of how AI models will contribute to scientific progress.\n...\nClaude Fable 5.1 and Claude Mythos 5.1 are the s"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-16",
+    "topic": "ai_labs",
+    "title": "Gemini 3.8 Audio (Live, Live Extended Thinking) - Model Card \u2014 Google DeepMind",
+    "url": "https://deepmind.google/models/model-cards/gemini-3-8-audio/",
+    "snippet": "Gemini 3.8 Audio (Live, Live Extended Thinking) - Model Card \u2014 Google DeepMind\n...\nPublished 15 September 2026\n...\n# Gemini 3.8 Audio (Live, Live Extended Thinking)\n...\nModel Cards are intended to provide essential information on Gemini models, including known limitations, mitigation approaches, and safety performance. Model cards may be updated from time to time; for example, to include updated e"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-16",
+    "topic": "ai_labs",
+    "title": "New Gemini Audio models for developers",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-real-time-voice-applications-gemini-audio/",
+    "snippet": "# New Gemini Audio models for developers\n\nPublished: 2026-09-15T17:00:00+00:00\nSource: blog.google (blog.google)\nLanguage: en\n\n## Story\n...\nNew Gemini Audio models for developers\n\n# Build real-time voice applications with Gemini 3.8 Live and 3.5 Transcribe\n\nSep 15, 2026\n\n New Gemini Audio models are available for developers to build more intelligent conversational experiences via the Gemini API an"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-16",
+    "topic": "ai_labs",
+    "title": "Mistral x Mozilla: Private, Multilingual AI Browsing",
+    "url": "https://mistral.ai/news/mistral-x-mozilla/",
+    "snippet": "# Mistral x Mozilla: Private, Multilingual AI Browsing\n\nPublished: 2026-09-16T08:00:23+00:00\nSource: mistral.ai (mistral.ai)\nLanguage: en\n\n## Story\n\nMistral x Mozilla: Private, Multilingual AI Browsing\n\n# Mistral and Mozilla are bringing open, private and multilingual AI to your web browser\n\nSeptember 16, 2026\n\nBy Mistral and Mozilla\n\nToday, we are announcing a partnership with Mozilla to bring pr"
   }
 ]
