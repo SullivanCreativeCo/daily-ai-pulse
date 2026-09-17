@@ -22734,5 +22734,223 @@
     "title": "Mistral x Mozilla: Private, Multilingual AI Browsing",
     "url": "https://mistral.ai/news/mistral-x-mozilla/",
     "snippet": "# Mistral x Mozilla: Private, Multilingual AI Browsing\n\nPublished: 2026-09-16T08:00:23+00:00\nSource: mistral.ai (mistral.ai)\nLanguage: en\n\n## Story\n\nMistral x Mozilla: Private, Multilingual AI Browsing\n\n# Mistral and Mozilla are bringing open, private and multilingual AI to your web browser\n\nSeptember 16, 2026\n\nBy Mistral and Mozilla\n\nToday, we are announcing a partnership with Mozilla to bring pr"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-09-17",
+    "headline": "OpenAI just gave a model a warning label they've never used before.",
+    "url": "archive/2026-09-17.html",
+    "posts": {
+      "linkedin": [
+        "OpenAI just gave a model a warning label they've never used before.\n\n\"Critical\" cyber classification. First time ever.\n\nGPT-6 Astra can reason through exploits well enough that OpenAI's own safety framework put it in the same danger tier as bio and chem weapons capability.\n\nThen Microsoft made it generally available. Same day.\n\nNot after a review period. Not next quarter. Same day.\n\nThat gap used to matter. \"We're worried about this\" and \"here's the API key\" used to be separated by months of hand wringing.\n\nNow they're separated by nothing.\n\nIf your agents touch code, email, or a browser, this isn't background noise. It's the new ceiling on what your stack can already reach.\n\nWhat's your plan for the day your tools get scarier than your guardrails?",
+        "An early tester ran 5,000 requests through a new AI model. Total cost: two dollars.\n\nThat's the number that matters, not the launch video.\n\nThe guy who built it co-invented ChatGPT. His bet is that the next unlock isn't a bigger chat model. It's a faster, cheaper \"decision\" model that sits next to your big one instead of replacing it.\n\nThink about every tiny call your product makes that doesn't need a genius. Did this reply contradict something the user said earlier? Should we follow up now or wait? Which tool actually handles this request?\n\nMost teams skip those checks today because a full LLM call is slow and expensive. So they write crude rules instead and eat the mistakes.\n\nAt this speed and price, you can run the check on every single turn and it still feels instant.\n\nDo more with the same, not the same with less. This is what that looks like when someone actually builds it.",
+        "Every AI company just discovered the small business owner.\n\nAlignable shipped an AI assistant this week that tells you which of your contacts to actually follow up with. Jio Haptik shipped one that runs your social posts, your ad spend, and your DM follow ups without you touching any of it.\n\nDifferent companies. Same insight. The owner doing everything themselves is the customer, not the marketing department at a fifty person company.\n\nI've been saying this for a while. The busiest person in any small business is the one who needs the help most and has the least time to go find it.\n\nNone of this replaces the fundamentals. One founder in the space said it plainly: your product, your delivery, your service is still the thing people come back for. The tools just keep changing.\n\nWould someone pay for an assistant that hands them the three things worth doing today instead of forty options? I think someone would pay for that."
+      ],
+      "threads": [
+        "OpenAI just labeled a model \"Critical\" for cybersecurity risk. First time they've ever used that tag. Then Microsoft shipped it the same day, no waiting period, no review window. Used to be a gap between \"this scares us\" and \"here's access.\" Now there isn't one. If your agents touch code or email, that closing gap is the actual story, not the model.",
+        "Someone ran 5,000 requests through a brand new AI model for two dollars. Built by a guy who helped invent ChatGPT, and it's not trying to chat with you at all. It's built for the tiny decisions your product makes a hundred times a day that don't need a genius, just an answer. Most teams skip those checks because a real model call is slow. Not anymore.",
+        "Two different AI companies shipped the same idea this week. One helps you know which of your contacts to actually call. The other runs your social posts and your ad follow ups while you sleep. Neither one is chasing enterprise. Both landed on the same customer: the owner doing everything alone with zero time to figure any of it out. That's the whole market right now."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-09-17",
+    "source": "The Koerner Office",
+    "title": "This AI Finds the Idea, Customers, and Does the Work",
+    "url": "https://www.youtube.com/watch?v=GZbjmWNmIkc",
+    "video_id": "GZbjmWNmIkc"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-09-17",
+    "source": "Corey Ganim",
+    "title": "5 Github repos that print $$$",
+    "url": "https://www.youtube.com/watch?v=LxHeTQWqDjE",
+    "video_id": "LxHeTQWqDjE"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-09-17",
+    "source": "AI Daily Brief",
+    "title": "Why a New Class of AI \"Judgement Models\" Could Have Big Business Implications",
+    "url": "https://www.youtube.com/watch?v=sdR7FZ0SeqA",
+    "video_id": "sdR7FZ0SeqA"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-09-17",
+    "source": "AI Daily Brief",
+    "title": "Trump Rails Against AI Slowdown \"Hoax\"",
+    "url": "https://www.youtube.com/watch?v=5vh1Vr3QSCY",
+    "video_id": "5vh1Vr3QSCY"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-17",
+    "topic": "model_releases",
+    "title": "GPT-6 Astra Is the First Model OpenAI Classifies as Critical for Cybersecurity - InfoQ",
+    "url": "https://www.infoq.com/news/2026/09/gpt-6-astra-critical-cyber/",
+    "snippet": "GPT-6 Astra Is the First Model OpenAI Classifies as Critical for Cybersecurity - InfoQ\n\n# GPT-6 Astra Is the First Model OpenAI Classifies as Critical for Cybersecurity \n\nSep 17, 2026 4 min read \n\nby\n\n- Steef-Jan Wiggers \n\nOpenAI has classified GPT-6 Astra at the Critical level for cybersecurity capability under its Preparedness Framework, the first model to reach that threshold. Microsoft made th"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-17",
+    "topic": "model_releases",
+    "title": "Why We Post-Trained Our Own Reasoning Model - Salesforce",
+    "url": "https://www.salesforce.com/news/stories/why-we-post-trained-our-own-reasoning-model/",
+    "snippet": "A general model reasons about a refund policy the same way it reasons about a physics problem. So we trained one specifically for enterprise work. \n\n Jayesh Govindarajan EVP, Software Engineering, Salesforce AI \n\n \n\n Silvio Savarese Executive Vice President and Chief Scientist, Salesforce AI Research \n\n September 16, 2026 6 min read\n...\nFor most of Agentforce\u2019s history, one general model did the r"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-17",
+    "topic": "model_releases",
+    "title": "Z.ai Launches GLM-5.3 Model for Complex Software Engineering",
+    "url": "https://newsaiclubz.com/articles/z-ai-unveils-glm-5/",
+    "snippet": "Z.ai Launches GLM-5.3 Model for Complex Software Engineering\n\n September 16, 2026 LIVE \n\nNews August 19, 06:33\n\n# Z.ai Unveils GLM-5.3 Reasoning Model with Enhanced Cyber Security Capabilities\n\nAccording to VentureBeat, Chinese AI startup Z.ai has released GLM-5.3, a new flagship reasoning model aimed at complex software engineering and long-horizon agent tasks \u2014 and it wasted no time making headl"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-17",
+    "topic": "model_releases",
+    "title": "Salesforce and NVIDIA Announce Koa - Salesforce",
+    "url": "https://www.salesforce.com/in/news/stories/koa-reasoning-model/",
+    "snippet": "Salesforce and NVIDIA Announce Koa - Salesforce\n...\n# Announcing Koa: Salesforce\u2019s First CRM Reasoning Model, Built on NVIDIA Nemotron\n\n September 16, 2026 5 min read \n\nKoa is trained with 27 years of Salesforce CRM intelligence to enable agents to reason through the complex, multistep tasks required for enterprise work\n...\nSAN FRANCISCO, September 15, 2026 \u2014 Salesforce and NVIDIA today announced "
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-17",
+    "topic": "model_releases",
+    "title": "ChatGPT co-inventor Diogo Almeida launches Jev, a decision model he says is 20\u2013200x faster than frontier LLMs | AI Socratic",
+    "url": "https://aisocratic.org/news/chatgpt-co-inventor-diogo-almeida-launches-jev-a-decision-model-he-says-is-20200x-faster-than-frontier-llms",
+    "snippet": "ChatGPT co-inventor Diogo Almeida launches Jev, a decision model he says is 20\u2013200x faster than frontier LLMs | AI Socratic\n...\n# ChatGPT co-inventor Diogo Almeida launches Jev, a decision model he says is 20\u2013200x faster than frontier LLMs\n...\nDiogo Almeida, who co-invented ChatGPT, spent two years in stealth on a new training method (RLCD) and a new kind of model, Jev: a fast, cheap \"decision\" mo"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-17",
+    "topic": "product_releases",
+    "title": "Introducing SPECS Intelligence",
+    "url": "https://newsroom.snap.com/introducing-specs-intelligence",
+    "snippet": "Introducing SPECS Intelligence\n\nSeptember 16, 2026\n\nSeptember 16, 2026\n\nIntroducing SPECS Intelligence\n\nToday, we introduced SPECS Intelligence, a new anticipatory AI service designed to work across iPhone, Mac, and SPECS augmented reality (AR) glasses. SPECS Intelligence helps you manage what needs attention today, so you can make progress toward your longer-term goals.\n\nSPECS Intelligence builds"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-17",
+    "topic": "product_releases",
+    "title": "SimScale Engineering AI Agent opens up physics simulation accessibility - Engineer Live",
+    "url": "https://engineerlive.com/simscale-engineering-ai-agent-opens-up-physics-simulation-accessibility/",
+    "snippet": "SimScale Engineering AI Agent opens up physics simulation accessibility - Engineer Live\n\n# SimScale Engineering AI Agent opens up physics simulation accessibility\n\n By Hayley Everett Published: 17 September 2026 \n\n \n\nWithin Onshape, the software acts as a reasoning agent on top of SimScale\u2019s full physics platform\n\nSimScale, an AI-native cloud platform for engineering simulation, has launched its S"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-17",
+    "topic": "product_releases",
+    "title": "Meet Vector: Autonomous Red Teaming That Doesn't Stop at Exposed | Tuskira",
+    "url": "https://www.tuskira.ai/blog/meet-vector-autonomous-red-teaming",
+    "snippet": "Meet Vector: Autonomous\n...\nTeaming That Doesn't Stop\n...\nExposed | Tuskira\n...\nToday we are shipping Vector, Tuskira\u2019s autonomous red team agent, to give that work a heartbeat.\n...\n## Available today\n...\nVector is available now for Tuskira customers, operating strictly within customer-approved scope."
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-17",
+    "topic": "product_releases",
+    "title": "Insider One Introduces Agent One\u2122, the Self-Optimizing Intelligence System for Autonomous Customer Engagement",
+    "url": "https://www.prnewswire.com/news-releases/insider-one-introduces-agent-one-the-self-optimizing-intelligence-system-for-autonomous-customer-engagement-302881519.html",
+    "snippet": "# Insider One Introduces Agent One\u2122, the Self-Optimizing Intelligence System for Autonomous Customer Engagement\n...\nInsider One Introduces Agent One\u2122, the Self-Optimizing Intelligence System for Autonomous Customer Engagement\n...\n# Insider One Introduces Agent One\u2122, the Self-Optimizing Intelligence System for Autonomous Customer Engagement\n\n Insider One \n\nSep 17, 2026, 01:31 ET\n...\nNEW YORK, Sept."
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-17",
+    "topic": "product_releases",
+    "title": "Pervaziv AI Unveils Cortex Discover, an Agentic AI Browser Built for Governed Enterprise Work | Pervaziv AI",
+    "url": "https://pervaziv.com/news-pervaziv-ai-unveils-cortex-discover-an-agentic-ai-browser-built-for-governed-enterprise-work/",
+    "snippet": "Pervaziv AI Unveils Cortex Discover, an Agentic AI Browser Built for Governed Enterprise Work | Pervaziv AI\n...\n# Pervaziv AI Unveils Cortex Discover, an Agentic AI Browser Built for Governed Enterprise Work\n...\nNews, Press Release / By Pervaziv AI / September 16, 2026\n...\nNew agentic AI browser gives Cortex page awareness, multi tab reasoning, visual understanding, controlled action and continuit"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-17",
+    "topic": "ai_agents",
+    "title": "Esker introduces agentic AI framework for governed autonomous finance",
+    "url": "https://completeaitraining.com/news/esker-introduces-agentic-ai-framework-for-governed/",
+    "snippet": "Esker introduces agentic AI framework for governed autonomous finance\n\n# Esker introduces agentic AI framework for governed autonomous finance \n\nEsker launched the Synergy Agentic Framework on September 15 to automate repetitive finance tasks under human control. It aims to improve working capital and productivity without adding headcount.\n\n Categorized in: AI News Finance Published on: Sep 17, 20"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-17",
+    "topic": "ai_agents",
+    "title": "Komodor Launches Agentic Operations Platform Combining Ready-to-Run Automation With a Comprehensive Backbone for Custom Agents",
+    "url": "https://www.tmcnet.com/usubmit/2026/09/16/10446824.htm",
+    "snippet": "Komodor Launches Agentic Operations Platform Combining Ready-to-Run Automation With a Comprehensive Backbone for Custom Agents\n...\nKomodor Launches Agentic Operations Platform Combining Ready-to-Run Automation With a Comprehensive Backbone for Custom Agents\n...\n||**[September 16, 2026]**||\n...\n# Komodor Launches Agentic Operations Platform Combining Ready\n...\nto-Run Automation With a Comprehensive"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-17",
+    "topic": "ai_agents",
+    "title": "Atlassian Launches Agent Loops: AI Agents Automate Full Software Development in Jira",
+    "url": "https://www.webpronews.com/atlassian-launches-agent-loops-ai-agents-automate-full-software-development-in-jira/",
+    "snippet": "# Atlassian Launches Agent Loops: AI Agents Automate Full Software Development in Jira \n\n Atlassian has launched agent loops, a coordinated system of autonomous AI agents that handle entire software development workflows inside Jira. Powered by the Teamwork Graph\u2014a live map of team knowledge, code patterns, and ownership\u2014the agents autonomously plan, code, test, and create reviewed pull requests w"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-17",
+    "topic": "ai_small_business",
+    "title": "Aroopa Apps Adds AI-Powered Page Generation to Its No-Code Website Builder and Automation Platform",
+    "url": "https://www.einpresswire.com/article/942519671/aroopa-apps-adds-ai-powered-page-generation-to-its-no-code-website-builder-and-automation-platform",
+    "snippet": "By Aroopa Inc September 16, 2026, 15:50 GMT \n\nAroopa Apps adds generative AI layout tools to its website builder, linking no-code page design with native CRM, workflows, and automated campaign channels.\n\n MONROE, NJ, UNITED STATES, September 16, 2026 / EINPresswire.com/ -- Aroopa Inc, a software engineering and digital transformation firm, today announced the introduction of generative AI website "
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-17",
+    "topic": "ai_small_business",
+    "title": "Alignable - Alignable Launches Allie, a Personal Networking Assistant Built on 14 Years of Small Business Relationship Data",
+    "url": "https://alignable.reportablenews.com/pr/alignable-launches-allie-a-personal-networking-assistant-built-on-14-years-of-small-business-relationship-data",
+    "snippet": "- Alignable launches Allie, an AI networking assistant that helps small business members act on the relationships they have already built by showing which connections to prioritize and when to reach out.\n- Allie leverages Alignable\u2019s connection graph and 14 years of real relationship signals across 12 million small businesses to identify high-potential relationships, draft outreach, and flag the r"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-17",
+    "topic": "ai_small_business",
+    "title": "Jio Haptik's Solo is betting that AI can hand India's smallest merchants a 4.5x ROAS - Storyboard18",
+    "url": "https://www.storyboard18.com/amp/brand-marketing/jio-haptiks-solo-ai-helps-small-businesses-thrive-with-45x-roas-ws-l-110782.htm",
+    "snippet": "## Jio Haptik's Solo, an AI product, helps small businesses with marketing and sales, achieving up to 4.5x return on ad spend.\n...\nThe product behind that claim is called Solo, built by Jio Haptik, Reliance Jio's conversational, agentic and voice AI company, and its premise is almost provocatively simple. Give every small business owner, the home baker, the boutique tailor, the neighbourhood gym, "
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-17",
+    "topic": "ai_small_business",
+    "title": "Meet Retainly: The Simple CRM I Built for Service-Based Business Owner \u2014 The Legal Paige",
+    "url": "https://thelegalpaige.com/blogs/blog/meet-retainly-the-simple-crm-i-built-for-service-based-business-owners",
+    "snippet": "Retainly is a client management platform built for creative entrepreneurs and service-based business owners who need a straightforward way to manage:\n...\n- Leads and clients\n- Projects\n- Proposals\n- Contracts\n- Invoices and payments\n...\nI built it because so many business owners I talked to were overwhelmed by bloated software, complicated workflows, expensive subscriptions, and platforms they wer"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-17",
+    "topic": "ai_small_business",
+    "title": "TotalCtrl Launches All-in-One Business Operations Platform, Replacing Dozens of Point Solutions With One Connected System",
+    "url": "https://www.prnewswire.com/news-releases/totalctrl-launches-all-in-one-business-operations-platform-replacing-dozens-of-point-solutions-with-one-connected-system-302879822.html",
+    "snippet": "TotalCtrl Launches All-in-One Business Operations Platform, Replacing Dozens of Point Solutions With One Connected System\n\nSep 16, 2026, 08:34 ET\n\nNEW YORK, Sept. 16, 2026 /PRNewswire/ -- TotalCtrl today announced the availability of its business platform, built so a company can adopt one app to solve a single problem, or run its entire business \u2014 sales, projects, support, HR, product, and finance"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-17",
+    "topic": "ai_labs",
+    "title": "Reimagining advertising with AI | OpenAI",
+    "url": "https://openai.com/index/reimagining-advertising-with-ai/",
+    "snippet": "# Reimagining advertising with AI | OpenAI\n...\nReimagining advertising with AI | OpenAI\n...\nSeptember 16, 2026\n...\n# Reimagining advertising with AI\n...\nIntroducing new AI-powered experiences for ChatGPT Ads.\n...\nToday, we\u2019re introducing new AI-powered experiences to make ads more useful for people and advertising easier for businesses.\n...\nWe\u2019re testing Sponsored Agents, which let people start a "
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-17",
+    "topic": "ai_labs",
+    "title": "How workers are unlocking new ways of working | OpenAI",
+    "url": "https://openai.com/index/unlocking-new-ways-of-working/",
+    "snippet": "How workers are unlocking new ways of working | OpenAI\n...\nHow workers are unlocking new ways of working | OpenAI\n\nSeptember 16, 2026\n...\n# How workers are unlocking new ways of working\n...\nNew OpenAI Economic Research shows how workers use AI to do tasks outside their typical occupation and which new tasks they build into their workflow.\n...\nOur latest research suggests the importance of how task"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-17",
+    "topic": "ai_labs",
+    "title": "Introducing the Agents API and hosted sandboxes - Announcements - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/introducing-the-agents-api-and-hosted-sandboxes/1396481/8",
+    "snippet": "Introducing the Agents API and hosted sandboxes - Announcements - OpenAI Developer Community\n...\nGo from idea to a working agent faster with the Agents API.\n...\nBuild and run cloud agents with the Codex harness, fully managed by OpenAI.\n...\nWe handle orchestration, long-running sessions, and context management. You focus on what makes your agent unique.\n...\nAgents API is available in public beta t"
   }
 ]
