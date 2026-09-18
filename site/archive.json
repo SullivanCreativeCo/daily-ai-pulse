@@ -22952,5 +22952,15 @@
     "title": "Introducing the Agents API and hosted sandboxes - Announcements - OpenAI Developer Community",
     "url": "https://community.openai.com/t/introducing-the-agents-api-and-hosted-sandboxes/1396481/8",
     "snippet": "Introducing the Agents API and hosted sandboxes - Announcements - OpenAI Developer Community\n...\nGo from idea to a working agent faster with the Agents API.\n...\nBuild and run cloud agents with the Codex harness, fully managed by OpenAI.\n...\nWe handle orchestration, long-running sessions, and context management. You focus on what makes your agent unique.\n...\nAgents API is available in public beta t"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-09-18",
+    "headline": "Quiet day in the harvest. No new podcast episodes or fresh news cleared the dedupe filter.",
+    "url": "archive/2026-09-18.html",
+    "posts": {
+      "linkedin": [],
+      "threads": []
+    }
   }
 ]
