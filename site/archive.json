@@ -22962,5 +22962,87 @@
       "linkedin": [],
       "threads": []
     }
+  },
+  {
+    "kind": "digest",
+    "date": "2026-09-19",
+    "headline": "No fresh launches hit the wire today. But three different podcasts landed on the same idea from different angles, and it's worth catching.",
+    "url": "archive/2026-09-19.html",
+    "posts": {
+      "linkedin": [
+        "Most of what people call AI doesn't write a single word.\n\nI watched a demo this week of a tool called Jev. You feed it an email, and instead of asking it to \"read this and tell me what to do,\" you give it a set of choices. Spam or not. Urgent or not. Worth a reply or not.\n\nIt doesn't generate text. It just picks, with a confidence score attached.\n\n1,700 real emails, sorted by category, priority, and spam score, in a few minutes. Total cost: 18 cents.\n\nThat's the part that stuck with me. Every chatbot wrapper I've seen this year is trying to have a conversation. Most business problems aren't conversations. They're sorting problems. Is this lead hot or cold. Is this review a real complaint or noise. Does this invoice need a human or not.\n\nYou don't need a chatty model for that. You need something fast, cheap, and boring that just decides.\n\nWhat in your business is actually a sorting problem wearing an AI costume?",
+        "Nobody pays for a GitHub repo. They pay for what stops happening once it's running.\n\nSaw a breakdown this week of an open source DocuSign alternative. Free to run. Costs about a fifth of what DocuSign charges at scale. The guy selling it isn't pitching \"open source contract software.\" He's pitching \"your leases get signed in minutes instead of days, and your DocuSign bill disappears.\"\n\nSame software. Completely different sale.\n\nThis is the part people skip when they get excited about AI tools. The tool was never the hard part. Explaining why someone's life gets easier because of it, that's the hard part. That's the actual product.\n\nI think about this every time I look at a piece of free infrastructure and assume nobody would pay for it. Wrong question. The question is: what pain does this quietly remove, and would someone pay to never think about that pain again?\n\nI think someone would pay for that.",
+        "Claude just deleted a decision nobody wanted to make.\n\nUp until this week, you had to pick: am I chatting with Claude, or am I co-working with Claude. Two different modes, two different mental models, before you'd even typed anything.\n\nNow it's just one box.\n\nMeta did the same thing with Muse. Someone showed their 70-year-old dad the product and he had it draft a contract, update it, and text it to a customer, no tutorial needed.\n\nNeither company made the model smarter. They fixed the fork in the road you hit before you could use it.\n\nThat's the part I keep coming back to when I build anything for small business owners. It's never the intelligence that's missing. It's the extra step where they have to guess which button starts the thing they actually want.\n\nSimple isn't the feature. Simple is what happens once you stop making people choose."
+      ],
+      "threads": [
+        "Watched a demo of an AI that doesn't write a single word. You give it an email and some choices (spam or not, urgent or not) and it just picks one, with a confidence score. 1,700 emails sorted in minutes for 18 cents. No chat, no paragraphs, just decisions.\n\nMost business problems aren't conversations. They're sorting problems wearing a fancy costume. Wonder how many hours get burned every week because we keep asking a chatbot to do a filing cabinet's job.",
+        "Nobody pays for free software. They pay for what stops being a headache once it's running.\n\nOpen source DocuSign alternative, costs a fifth of the real thing. The pitch isn't \"open source contract tool.\" It's \"your leases get signed in minutes and your bill disappears.\"\n\nSame code. Completely different sale.\n\nThe tool was never the hard part. Explaining why someone's day gets easier, that's the whole product.",
+        "Claude just merged its two products into one box. No more picking a mode before you even start.\n\nMeta did the same with Muse, someone's 70-year-old dad used it to draft and send a contract with no tutorial.\n\nNeither company made the AI smarter this week. They just stopped making people choose first.\n\nThat's the whole unlock, most of the time. Not more intelligence. One less decision standing between someone and the thing they actually want."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-09-19",
+    "source": "The Koerner Office",
+    "title": "The Car Lot Idea, Cheap Businesses Anyone Can Start, And More Q&A",
+    "url": "https://www.youtube.com/watch?v=WufCRTiTnyo",
+    "video_id": "WufCRTiTnyo"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-09-19",
+    "source": "The Koerner Office",
+    "title": "The $7K/Month Side Hustle Most People Think AI Killed",
+    "url": "https://www.youtube.com/watch?v=tK5Ivv_3sEA",
+    "video_id": "tK5Ivv_3sEA"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-09-19",
+    "source": "Startup Ideas Podcast",
+    "title": "Jev is HERE. How to use it",
+    "url": "https://www.youtube.com/watch?v=4mTLpuQpB80",
+    "video_id": "4mTLpuQpB80"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-09-19",
+    "source": "Corey Ganim",
+    "title": "7 github repos that print $$$",
+    "url": "https://www.youtube.com/watch?v=tGdo3i9MBZk",
+    "video_id": "tGdo3i9MBZk"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-09-19",
+    "source": "Corey Ganim",
+    "title": "making $2K in 4 weeks BRAND NEW to AI (case study)",
+    "url": "https://www.youtube.com/watch?v=CHzEWi3WM_0",
+    "video_id": "CHzEWi3WM_0"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-09-19",
+    "source": "AI Daily Brief",
+    "title": "7 Ways How We Use AI Is Changing",
+    "url": "https://www.youtube.com/watch?v=HNFhXFZxMYQ",
+    "video_id": "HNFhXFZxMYQ"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-09-19",
+    "source": "AI Daily Brief",
+    "title": "Why Everyone is Now Getting Excited About Personal AI Agents",
+    "url": "https://www.youtube.com/watch?v=NmXhFS39ad0",
+    "video_id": "NmXhFS39ad0"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-09-19",
+    "source": "AI Daily Brief",
+    "title": "10 Ways to Think Bigger with Opportunity AI",
+    "url": "https://www.youtube.com/watch?v=XsOoumeXtm4",
+    "video_id": "XsOoumeXtm4"
   }
 ]
