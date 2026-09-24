@@ -23472,5 +23472,199 @@
     "title": "New AI Max features: Build ad campaigns more efficiently",
     "url": "https://blog.google/products/ads-commerce/ai-max-language-reporting-features/",
     "snippet": "New AI Max features: Build ad campaigns more efficiently\n\n# We\u2019re bringing AI Brief to more languages and adding a new AI Max reporting feature.\n\nSep 23, 2026\n\nWe\u2019re rolling out new AI Max features that provide advertisers with greater control and new reporting to understand performance.\n\nFirst, we\u2019re bringing the closed beta of AI Brief to more languages: Dutch, French, German, Italian, Japanese,"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-09-24",
+    "headline": "Two funded companies launched the exact same pitch today. AI that runs your entire small business, no dashboard required.",
+    "url": "archive/2026-09-24.html",
+    "posts": {
+      "linkedin": [
+        "Two companies launched the same product this week.\n\nZmode builds the website, books the job, sends the invoice, takes the payment. No dashboard.\n\naskotter.ai does the same thing over text message. Their agent is literally named Whiskers. It texts the owner a recommendation, waits for a yes, then does the work.\n\nBoth funded. Both live with real customers already.\n\nHere's the thing about two teams building the same bet in the same week. It's not a coincidence. It means the timing finally clicked for everyone at once.\n\nI've been saying for a while that small business owners don't want another tool to learn. They want someone, or something, to just run it for them.\n\nTurns out I wasn't the only one who noticed.\n\nWhat would you build if you knew the timing was right and you just had to move first?",
+        "A guy in our world landed his first paid AI clients by cold calling co-working spaces.\n\nNot LinkedIn ads. Not a funnel. A phone call.\n\nThe pitch was simple. Free lunch and learn for your community, an hour on what AI can actually do for a small business.\n\nAt the end, one slide. We normally charge a grand for a full AI assessment, but if anyone here wants one, come find me.\n\nOut of every 10 to 15 people in the room, two to four raise their hand.\n\nWhat gets me is how unglamorous this is. No viral post. No perfect funnel. Just a room, a value give, and a clear ask at the end.\n\nYour ideas aren't bad ideas. They're just not finished ideas. This guy finished his by picking up the phone.\n\nWould someone pay for a free hour of your expertise if you asked at the end? I think someone would.",
+        "Anthropic built a real biology lab and let Claude go looking through DNA for anomalies.\n\nIt found something. A repeat pattern nobody had flagged, the same kind of odd signature CRISPR had before anyone knew what CRISPR was.\n\nThey don't fully know what it does yet. But the shape of the discovery is the part that matters.\n\nA scientist didn't point Claude at this. Claude noticed it was weird and kept pulling the thread.\n\nI keep hearing the same objection from business owners. AI can write an email, sure, but it can't actually think. It can't notice things.\n\nThis is the counterexample. Not a chatbot answering a question you already knew to ask. A system flagging something nobody asked about, because it was paying attention.\n\nThat's the shift worth sitting with. Not what AI can generate. What it can notice."
+      ],
+      "threads": [
+        "Two companies launched the same idea this week. AI that runs your whole small business, no dashboard, no learning curve. One does it over text message with an agent named Whiskers. The other handles the site, the bookings, the invoices, the payment, all in one place. Both are funded. Both already have real customers. When two teams build the exact same bet in the same week, that's not a coincidence, that's a timing signal. The market just told on itself.",
+        "Somebody in our world landed his first paid AI clients by cold calling co-working spaces and offering a free lunch and learn. No funnel, no ad spend. Just a room and one slide at the end offering a paid assessment. Two to four people out of every dozen raise their hand. It's not fancy. It's just finished. Your ideas aren't bad ideas, they're just not finished ideas, and this guy finished his with a phone call nobody else was willing to make.",
+        "Anthropic let Claude loose in an actual biology lab to look for weird patterns in DNA. It found one that looks like CRISPR did before anyone knew what CRISPR was. Nobody pointed it there. It noticed the pattern on its own and kept pulling the thread. Everyone's still arguing about whether AI can really think. Meanwhile it's flagging discoveries nobody asked it to look for. That's the part worth sitting with, not what it can generate, what it can notice."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-09-24",
+    "source": "The Koerner Office",
+    "title": "The Boring $1M/Year Business That Almost Never Fails",
+    "url": "https://www.youtube.com/watch?v=-S2DPfEDRU4",
+    "video_id": "-S2DPfEDRU4"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-09-24",
+    "source": "Startup Ideas Podcast",
+    "title": "The $3,000/Day Solo AI business with Astra + Upwork",
+    "url": "https://www.youtube.com/watch?v=e7s7jRgHWsg",
+    "video_id": "e7s7jRgHWsg"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-09-24",
+    "source": "Corey Ganim",
+    "title": "overlooked way to sell $2,500 AI workshops to SMBs (full breakdown)",
+    "url": "https://www.youtube.com/watch?v=0cBw5B0qVGo",
+    "video_id": "0cBw5B0qVGo"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-24",
+    "topic": "model_releases",
+    "title": "Gemini 4 is almost ready, says new Google DeepMind chief | The Verge",
+    "url": "https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu",
+    "snippet": "# Gemini 4 is almost ready, says new Google DeepMind chief | The Verge\n\nAuthor: Jess Weatherbed\nPublished: 2026-09-24T09:04:18+00:00\nSource: theverge.com (theverge.com)\nLanguage: en\n\n## Story\n\nGemini 4 is almost ready, says new Google DeepMind chief | The Verge\n\n# Gemini 4 is almost ready, says new Google DeepMind chief\n\n\ufeffThe new frontier AI model should arrive long before the end of 2026.\n\n\ufeffThe n"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-24",
+    "topic": "model_releases",
+    "title": "Light Origins Launches Light-O1: Cross-Embodiment Transfer Improves as Human-Action Pretraining Scales",
+    "url": "https://www.prnewswire.com/news-releases/light-origins-launches-light-o1-cross-embodiment-transfer-improves-as-human-action-pretraining-scales-302887959.html",
+    "snippet": "Light Origins Launches Light-O1: Cross-Embodiment Transfer Improves as Human-Action Pretraining Scales\n...\n# Light Origins Launches Light-O1: Cross-Embodiment Transfer Improves as Human-Action Pretraining Scales\n...\nSINGAPORE, Sept. 23, 2026 /PRNewswire/ -- Light Origins this week launched Light-O1, its first general-purpose embodied foundation model, as part of its work to build foundation models"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-24",
+    "topic": "model_releases",
+    "title": "Introducing SWE-2: Pushing the Pareto Frontier",
+    "url": "https://cognition.com/blog/swe-2",
+    "snippet": "Introducing SWE-2: Pushing the Pareto Frontier | Cognition\n...\n# Introducing SWE-2: Pushing the Pareto Frontier\n...\nBy The Cognition Team 09.10\n...\nToday we\u2019re introducing SWE-2, our most advanced coding model yet. It pushes the Pareto frontier of capability and cost, achieving 50.0% on FrontierCode 1.1 Main 1, within one point of Fable 5.1 while being 64% cheaper.\n...\nWith SWE-2, we scaled RL to "
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-24",
+    "topic": "product_releases",
+    "title": "Avalara Ushers in New Era of Agentic Tax and Compliance with Avalara Aviator",
+    "url": "https://www.prnewswire.com/apac/news-releases/avalara-ushers-in-new-era-of-agentic-tax-and-compliance-with-avalara-aviator-302886911.html",
+    "snippet": "# Avalara Ushers in New Era of Agentic Tax and Compliance with Avalara Aviator\n\n Avalara, Inc. \n\n24 Sep, 2026, 07:00 CST\n...\nAvalara's new agent hub brings together specialized AI agents to execute complex tax and compliance workflows while keeping people in control of the decisions that matter\n...\nSYDNEY, Sept. 24, 2026 /PRNewswire/ -- Avalara, Inc., the agentic AI leader in global tax and compli"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-24",
+    "topic": "product_releases",
+    "title": "Colb Launches Colbee, a Digital Financial AI Agent That Turns Conversation into Onchain Transactions - Decrypt",
+    "url": "https://decrypt.co/379166/colb-launches-colbee-a-digital-financial-ai-agent-that-turns-conversation-into-onchain-transactions",
+    "snippet": "Colb Launches Colbee, a Digital Financial AI Agent That Turns Conversation into Onchain Transactions - Decrypt\n...\n# Colb Launches Colbee, a Digital Financial AI Agent That Turns Conversation into Onchain Transactions\n\n## Geneva, Switzerland, 24th September 2026\n\nBy PressRelease\n\nSep 24, 2026\n...\nGeneva, Switzerland, September 24th, 2026, \n\nColb today announced the launch of Colbee, its digital fi"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-24",
+    "topic": "product_releases",
+    "title": "UiPath maps the missing layer for enterprise AI with Cartographer",
+    "url": "https://diginomica.com/uipath-maps-missing-layer-enterprise-ai-cartographer",
+    "snippet": "# UiPath maps the missing layer for enterprise AI with Cartographer \n\n By Alyx MacQueen September 24, 2026 Audio mode toggler \n\nSummary: \n: UiPath launched Cartographer at FUSION 2026 to capture the process knowledge that enterprises can't currently give their AI agents \u2014 the rules, exceptions and judgment calls that only experienced employees know. \n\n \n\nCEO Daniel Dines speaking at UiPath FUSION "
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-24",
+    "topic": "product_releases",
+    "title": "Mark Zuckerberg debuts $1,299 Meta VR Glasses and Muse Charm pendant as part of AI agent push",
+    "url": "https://www.cnbc.com/2026/09/23/mark-zuckerberg-1299-meta-vr-glasses-ai-agent.html",
+    "snippet": "Mark Zuckerberg debuts $1,299 Meta VR Glasses and Muse Charm pendant amid AI agent push\n\n# Mark Zuckerberg debuts $1,299 Meta VR Glasses and Muse Charm pendant amid AI agent push\n\nPublished Wed, Sep 23 2026 8:45 PM EDT Updated 10 Min Ago\n\nJonathan Vanian@in/jonathan-vanian-b704432/\n\nKey Points\n\n- Meta CEO Mark Zuckerberg is continuing his metaverse bet centering on virtual reality while pushing fo"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-24",
+    "topic": "product_releases",
+    "title": "YouTube releases new AI features for creators within its Studio app",
+    "url": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
+    "snippet": "YouTube releases new AI features for creators within its Studio app | TechCrunch\n\nImage Credits: YouTube\n\n# YouTube releases new AI features for creators within its Studio app\n\n Ivan Mehta \n\n7:30 AM PDT \u00b7 September 23, 2026\n\nAt its Made on YouTube annual event, YouTube announced new tools for YouTube Studio, the app creators use to manage their channels, aimed at helping them analyze their videos "
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-24",
+    "topic": "ai_agents",
+    "title": "Driven Tech Introduces Lasius to Govern and Orchestrate Enterprise AI Workflows",
+    "url": "https://www.prnewswire.com/news-releases/driven-tech-introduces-lasius-to-govern-and-orchestrate-enterprise-ai-workflows-302887713.html",
+    "snippet": "Driven Tech Introduces Lasius to Govern and Orchestrate Enterprise AI Workflows\n...\nNew agent operating environment helps enterprises securely orchestrate AI agents, models, knowledge and tools\n...\nNEW YORK, Sept. 23, 2026 /PRNewswire/ -- Driven Tech, Inc., an AI and Cloud Native Platform systems integrator, today announced the general availability of Lasius, an agent orchestration environment des"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-24",
+    "topic": "ai_agents",
+    "title": "UiPath Enhances and Strengthens UiPath Platform\u2122 | UiPath",
+    "url": "https://www.uipath.com/newsroom/uipath-platform-updates-fusion",
+    "snippet": "LAS VEGAS \u2013 Sept. 23, 2026 \u2013 UiPath, Inc. (NYSE: PATH), a leader in agentic business orchestration and automation, today announced updated and enhanced capabilities across the UiPath Platform\u2122.\n...\nThe new capabilities strengthen the platform's control plane across governance, data, connectivity, and deployment, so agents, processes, and workflows stay aligned to business outcomes and inside enter"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-24",
+    "topic": "ai_agents",
+    "title": "UiPath Launches UiPath Cartographer, Helping Enterprises Turn Scattered Process Knowledge into an Actionable View of How Their Business Runs :: UiPath, Inc. (PATH)",
+    "url": "https://ir.uipath.com/news/detail/467/uipath-launches-uipath-cartographer-helping-enterprises-turn-scattered-process-knowledge-into-an-actionable-view-of-how-their-business-runs",
+    "snippet": "# UiPath Launches UiPath Cartographer, Helping Enterprises Turn Scattered Process\n...\ninto an Action\n...\nBusiness Runs\n\n September 23, 2026 8:30am EDT Download as PDF \n\n Builds the Map of Work, a living and governed artifact unique to every enterprise process, generating design documents and build-ready specs that reflect the real-world context of how work gets done \n\n LAS VEGAS--(BUSINESS WIRE)--"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-24",
+    "topic": "ai_agents",
+    "title": "Brain launches the company memory that makes every AI in",
+    "url": "https://www.globenewswire.com/news-release/2026/09/23/3367805/0/en/brain-launches-the-company-memory-that-makes-every-ai-in-the-business-worth-using.html",
+    "snippet": "Brain gives people and AI agents a shared, persistent company memory, alongside tools for deploying agents and controlling what each person and agent can see and do.\n...\nBrain is built to solve that. It is a new AI platform that brings persistent memory, company knowledge, AI agents and governance into a single environment.\n...\nAt the center of the product is a simple idea: a company should be abl"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-24",
+    "topic": "ai_small_business",
+    "title": "askotter.ai Launches AI Agents That Run Small Business Websites by Text Message",
+    "url": "https://www.einpresswire.com/article/944574539/askotter-ai-launches-ai-agents-that-run-small-business-websites-by-text-message",
+    "snippet": "Whiskers, askotter.ai's AI agent, texts a small business owner a recommendation to shift ad\n...\nPlatform watches business data 24/7; AI agents handle SEO, AEO, GEO and PPC while owners manage everything by text message with an optional human in the loop.\n...\nBOSTON, MA, UNITED STATES, September 23, 2026 / EINPresswire.com/ -- FOR IMMEDIATE RELEASE askotter.ai Launches AI Agents That Manage Small B"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-24",
+    "topic": "ai_small_business",
+    "title": "Can AI give small businesses the marketing muscle of big companies? \u2013 The Irish Times",
+    "url": "https://www.irishtimes.com/business/innovation/2026/09/24/can-ai-give-small-businesses-the-marketing-muscle-of-big-companies/",
+    "snippet": "## Dublin start-up MarkGo aims to make big agency marketing expertise available to SMEs on a budget\n...\nSharon Mooney and Peter McPartlin, co-founders of MarkGo, a human-verified AI platform that provides enterprise-level strategic marketing plans for SMEs. Photograph: Fergal Phillips\n...\nThe problem with such \u201crandom acts of marketing\u201d is that they seldom deliver results, according to Sharon Moon"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-24",
+    "topic": "ai_small_business",
+    "title": "From Website to Revenue in Seconds: Zmode\u2019s Autonomous AI Takes On Wix and Shopify, With Payments and Banking Built In",
+    "url": "https://press.central-chart.com/press-release/2026-09-23/36935/from-website-to-revenue-in-seconds-zmode-s-autonomous-ai-takes-on-wix-and-shopify-with-payments-and-banking-built-in",
+    "snippet": "From Website to Revenue in Seconds: Zmode\u2019s Autonomous AI Takes On Wix and Shopify, With Payments and Banking Built In \n\n- info@press.central-chart.com\n\n- info@press.central-chart.com\n\n## Press Release \n\n Brand News 24 | September 23, 2026 \n\n# From Website to Revenue in Seconds: Zmode\u2019s Autonomous AI Takes On Wix and Shopify, With Payments and Banking Built In\n\nNew York-based, Techstars-backed Zmo"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-24",
+    "topic": "ai_labs",
+    "title": "Claude discovers a novel enzyme system \\ Anthropic",
+    "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+    "snippet": "# Claude discovers a novel enzyme system \\ Anthropic\n...\n# Claude discovers a novel enzyme system with CRISPR-like repeats\n...\nWe\u2019re introducing a new life sciences research group and laboratory at Anthropic. Our focus is on fundamental biology research using Claude: exploring datasets of DNA to identify uncharacterized protein families, generating hypotheses at scale, and testing them through exp"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-24",
+    "topic": "ai_labs",
+    "title": "Advancing confidential AI with secure memory \u2014 Google DeepMind",
+    "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+    "snippet": "# Advancing confidential AI with secure memory \u2014 Google DeepMind\n\nAuthor: Google Private AI Compute Team\nPublished: 2026-09-23T16:00:57.674000+00:00\nSource: deepmind.google (deepmind.google)\nLanguage: en\n...\nAdvancing confidential AI with secure memory \u2014 Google DeepMind\n\n September 23, 2026 Responsibility & Safety\n...\n# Advancing Private AI Compute with secure, server-side memory\n...\nA technical u"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-24",
+    "topic": "ai_labs",
+    "title": "Measurements for understanding the pace of AI development inside frontier labs \\ Anthropic",
+    "url": "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
+    "snippet": "# Measurements for understanding the pace of AI development inside frontier labs \\ Anthropic\n...\nMeasurements for understanding the pace of AI development inside frontier labs \\ Anthropic\n...\n# Measurements for understanding the pace of AI development inside frontier labs\n...\nTo do that, we\u2019re sharing three measurements that will help the public track AI development inside frontier AI labs: how mu"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-24",
+    "topic": "ai_labs",
+    "title": "New connected apps roll out to Gemini",
+    "url": "https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-gemini/",
+    "snippet": "New connected apps roll out to Gemini\n\n# A new wave of Connected Apps is rolling out to Gemini.\n\nMai Lowe\n\nGroup Product Manager, Gemini App\n\nSep 23, 2026\n\nWe are bringing more of your favorite apps directly into Gemini. Instead of switching between tabs, you can now manage projects, design creative assets, and plan your workouts all in one place.\n\nBeginning to roll out today, you can connect new "
   }
 ]
