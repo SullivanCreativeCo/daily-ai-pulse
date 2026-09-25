@@ -23666,5 +23666,199 @@
     "title": "New connected apps roll out to Gemini",
     "url": "https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-gemini/",
     "snippet": "New connected apps roll out to Gemini\n\n# A new wave of Connected Apps is rolling out to Gemini.\n\nMai Lowe\n\nGroup Product Manager, Gemini App\n\nSep 23, 2026\n\nWe are bringing more of your favorite apps directly into Gemini. Instead of switching between tabs, you can now manage projects, design creative assets, and plan your workouts all in one place.\n\nBeginning to roll out today, you can connect new "
+  },
+  {
+    "kind": "digest",
+    "date": "2026-09-25",
+    "headline": "Anthropic and OpenAI both dropped new models on the same day this week.",
+    "url": "archive/2026-09-25.html",
+    "posts": {
+      "linkedin": [
+        "Meta just opened the door and most people are going to miss it.\n\nBack in 2008, Apple opened the App Store. Outside developers could build something useful for people who already owned an iPhone and get paid for it. Two years in, Apple had paid developers a billion dollars.\n\nMeta just did the same thing with Muse, their AI agent. It's called connectors. Any business can plug into Muse, so when someone asks it to book a room or buy something, your service can be the one that answers.\n\n1,500 developers applied in under a week. Stripe, Shopify, Best Buy and Sephora are already wired in.\n\nHere's the part I keep coming back to. The opportunity isn't the big brands. It's the small, specific service that shows up at exactly the right moment in someone's request. A paddle court with an open slot Tuesday night. A studio with two free hours.\n\nWould someone pay for that? I think someone would pay for that.\n\nWhat's the version of that for your business?",
+        "Anthropic shipped a model nobody liked, then fixed it.\n\nOpus 5 landed and people were not into it. Not politely lukewarm, genuinely annoyed. Then this week Opus 5.5 came out and the same people are calling it a comeback.\n\nSomeone made a meme for it. A horse drawn beautifully, then scribbled into a mess for the bad versions, then back to a clean, detailed horse for 5.5. That's basically the whole story in one image.\n\nNobody talks about the version that flopped first. We only see the fixed one and call it genius.\n\nYour ideas aren't bad ideas. They're just not finished ideas. Anthropic didn't scrap Opus and start over. They took the feedback and kept building the same thing until it worked.\n\nWhat are you sitting on right now that just needs one more pass?",
+        "Every AI agent headline this week said the same thing in different words.\n\nSalesforce rolled out agents that hold context for weeks instead of one chat. AutonomyAI shipped one that researches why your signups dropped and hands engineers a pull request. Different companies, same sentence underneath: stop making the human do the part a machine can do faster.\n\nSalesforce's own line was that the plumber should be plumbing, not answering phones between jobs. That's not a tagline. That's the whole model.\n\nDo more with the same, not the same with less. Every one of these tools exists so a five-person business can operate like a fifteen-person one, not so the five people get replaced by three.\n\nThe businesses that get this now are going to look scary capable in six months. The ones waiting for permission are going to look confused about why everyone else got faster.\n\nWhich task on your desk this week is a machine's job and not yours?"
+      ],
+      "threads": [
+        "Meta just opened its AI agent to outside developers. It's called connectors. When you ask Muse to book something or buy something, a small business's service can be the one that actually answers.\n\n1,500 developers applied in a week. This is the app store moment, except you don't need a million dollars and a dev team to build the thing this time. You need a coding agent and an afternoon.\n\nThat's the part that should keep you up tonight, in a good way.",
+        "Anthropic released a model this week that people are genuinely excited about. Last release, nobody liked it.\n\nSame team. Same lab. A few months apart.\n\nNobody remembers the flop once the fix ships. We just call the second version genius and move on.\n\nMarried to an idea is a great way to get forgotten. Married to fixing the idea, that's the whole job.",
+        "GitHub just open-sourced an AI agent whose entire job is finding bugs by breaking your code on purpose. Writes the test harnesses, runs the attack, files the report. No human until the bug's already found.\n\nEverybody's racing to build agents that ship code faster. This one exists to slow that down in the one place it should. Speed without someone checking the work is just a faster way to be wrong."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-09-25",
+    "source": "The Koerner Office",
+    "title": "Credit Card Strategies Most People Never Learn",
+    "url": "https://www.youtube.com/watch?v=6Pwx4ovSHzQ",
+    "video_id": "6Pwx4ovSHzQ"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-09-25",
+    "source": "Startup Ideas Podcast",
+    "title": "Meta Muse AI Connectors: The Next App Store Moment?",
+    "url": "https://www.youtube.com/watch?v=84q4WA3kA8Q",
+    "video_id": "84q4WA3kA8Q"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-09-25",
+    "source": "AI Daily Brief",
+    "title": "Opus 5.5 vs GPT-6-Sol and Luna",
+    "url": "https://www.youtube.com/watch?v=KYGscdtRS1Y",
+    "video_id": "KYGscdtRS1Y"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-25",
+    "topic": "model_releases",
+    "title": "Light Origins Launches Light-O1: Cross-Embodiment Transfer Improves as Human-Action Pretraining Scales - PR Newswire APAC",
+    "url": "https://en.prnasia.com/releases/global/light-origins-launches-light-o1-cross-embodiment-transfer-improves-as-human-action-pretraining-scales-549310.shtml",
+    "snippet": "Light Origins Launches Light-O1: Cross-Embodiment Transfer Improves as Human-Action Pretraining Scales - PR Newswire APAC\n...\n# Light Origins Launches Light-O1: Cross-Embodiment Transfer Improves as Human-Action Pretraining Scales \n\n Light Origins 2026-09-24 00:10\n...\nSINGAPORE, Sept. 24, 2026 /PRNewswire/ -- Light Origins this week launched Light-O1, its first general-purpose embodied foundation "
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-25",
+    "topic": "model_releases",
+    "title": "High-performance AI models 'MiMo-V2.6-Pro' and 'MiMo-V2.6-Flash' are being released free of charge, offering performance close to GPT-5.6 Sol. - GIGAZINE",
+    "url": "https://gigazine.net/gsc_news/en/20260924-mimo-v2-6-pro-flash/",
+    "snippet": "High-performance AI models 'MiMo-V2.6-Pro' and 'MiMo-V2.6-Flash' are being released free of charge, offering performance close to GPT-5.6 Sol. - GIGAZINE\n...\n# High-performance AI models 'MiMo-V2.6-Pro' and 'MiMo-V2.6-Flash' are being released free of charge, offering performance close to GPT-5.6 Sol.\n\n Xiaomi, a major Chinese technology company, released its AI models ' MiMo-V2.6-Pro ' and ' MiMo"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-25",
+    "topic": "model_releases",
+    "title": "VeriLoop E2 Release: 27B Post-Trained Model and Full GGUF Precision Ladder from BF16 to IQ1_M - Models - Hugging Face Forums",
+    "url": "https://discuss.huggingface.co/t/veriloop-e2-release-27b-post-trained-model-and-full-gguf-precision-ladder-from-bf16-to-iq1-m/180723",
+    "snippet": "VeriLoop E2 Release: 27B Post-Trained Model and Full GGUF Precision Ladder from BF16 to IQ1_M - Models - Hugging Face Forums\n...\n# VeriLoop E2 Release: 27B Post-Trained Model and Full GGUF Precision Ladder from BF16 to IQ1_M \n\n 20m ago\n...\nVeriLoop E2 is now publicly available: a 27B post-trained model built on Qwen3.8-27B for verifiable code, mathematics, scientific reasoning, and long-horizon ag"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-25",
+    "topic": "product_releases",
+    "title": "Docker Launches Cloud Sandboxes, Extending Secure AI Agent Isolation Beyond the Laptop | Docker",
+    "url": "https://www.docker.com/press-release/cloud-sandboxes-extending-secure-ai-agent-isolation-beyond-the-laptop/",
+    "snippet": "Docker Launches Cloud Sandboxes, Extending Secure AI Agent Isolation Beyond the Laptop | Docker\n...\n# Docker Launches Cloud Sandboxes, Extending Secure AI Agent Isolation Beyond the Laptop \n\n New solution gives developers a trusted, elastic environment to run complex agentic workflows at scale\n...\nPALO ALTO, Calif. \u2013 September 24, 2026 \u2013 Docker, Inc.\u00ae, the trusted platform for building software in"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-25",
+    "topic": "product_releases",
+    "title": "New in LangSmith Engine: red teaming and automated testing",
+    "url": "https://www.langchain.com/blog/langsmith-engine-v2-redteam",
+    "snippet": "New in LangSmith Engine: red teaming and automated testing\n...\n# LangSmith Engine v2: Red teaming and automated testing\n...\nSeptember 24, 2026\n...\n- Red team your agents: Engine proactively finds issues in your agent before they emerge in production.\n- Detect more issue types: Engine detects inefficient agent paths and trends in error rate, latency, and cost.\n- Automatically test proposed fixes: E"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-25",
+    "topic": "product_releases",
+    "title": "Google Launches Gemini 3.8 Live with Live Avatar That Can Speak 97 languages",
+    "url": "https://gadgetsnow.indiatimes.com/tech-news/google-launches-gemini-3-8-live-with-live-avatar-that-can-speak-97-languages/articleshow/134479987.cms",
+    "snippet": "Google Launches Gemini 3.8 Live with Live Avatar That Can Speak 97 languages\n...\n# Google Launches Gemini 3.8 Live with Live Avatar That Can Speak 97 languages\n...\nGemini has launched the Live Avatar feature in Gemini 3.8 Live, enabling interactive conversations with an animated AI model in 97 languages. This tool allows for synchronized lip movements and expressions, enhancing real-time communica"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-25",
+    "topic": "product_releases",
+    "title": "Meta launches Horizon Create and Studio to build AI games on mobile \u2014 AI Chat Daily",
+    "url": "https://www.aichatdaily.com/ai-tools/meta-launches-horizon-create-studio-build-ai-games",
+    "snippet": "Meta launches Horizon Create and Studio to build AI games on mobile \u2014 AI Chat Daily\n...\n# Meta launches Horizon Create and Studio to build AI games on mobile\n...\nThe Horizon platform gets two AI-prompt game builders, with published titles surfacing inside Facebook and Instagram feeds.\n...\nM eta announced Horizon Create and Horizon Studio at Meta Connect 2026 on September 24, two AI-driven tools th"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-25",
+    "topic": "product_releases",
+    "title": "AutonomyAI Launches Autonomous Product Delivery: From Product Question to Review-Ready Pull Request",
+    "url": "https://www.prnewswire.com/news-releases/autonomyai-launches-autonomous-product-delivery-from-product-question-to-review-ready-pull-request-302888994.html",
+    "snippet": "AutonomyAI Launches Autonomous Product Delivery: From Product Question to Review-Ready Pull Request\n...\n# AutonomyAI Launches Autonomous Product Delivery: From Product Question to Review-Ready Pull Request\n...\n24,\n...\n00 ET\n...\nAutonomyAI's new Discover Mode finds what a product needs next, then takes it through planning and build without a handoff, opening pull requests that fit how the codebase "
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-25",
+    "topic": "ai_agents",
+    "title": "GitHub Security Lab releases autonomous fuzzing pipeline that writes harnesses, chases coverage, and triages crashes | LavX News",
+    "url": "https://news.lavx.hu/article/github-security-lab-releases-autonomous-fuzzing-pipeline-that-writes-harnesses-chases-coverage-and-triages-crashes",
+    "snippet": "GitHub Security Lab releases autonomous fuzzing pipeline that writes harnesses, chases coverage, and triages crashes | LavX News\n...\nThe GitHub Security Lab has open-sourced a Taskflow Agent that automates the entire fuzzing lifecycle for C and C++ projects, from harness generation through crash triage, using an LLM to make coverage decisions while keeping execution in deterministic tools.\n...\nGit"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-25",
+    "topic": "ai_agents",
+    "title": "Salesforce launches job-ready AI agents for SMBs",
+    "url": "https://www.asbn.com/articles/salesforce/",
+    "snippet": "Salesforce launches job-ready AI agents for SMBs\n\n# Salesforce launches job-ready AI agents for SMBs\n\nBy Jaelyn Campbell\n\nSeptember 24, 2026\n\n \n\nSalesforce is expanding its Agentforce platform with job-ready AI agents designed to automate complex, longer-term tasks across sales, customer service, HR and other business functions.\n\nUnlike basic chatbots that handle simple questions, Salesforce\u2019s new"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-25",
+    "topic": "ai_agents",
+    "title": "BAND Partners With Docker to Bring Sandboxed Local Execution to Multi-Agent Teams",
+    "url": "https://www.prnewswire.com/news-releases/band-partners-with-docker-to-bring-sandboxed-local-execution-to-multi-agent-teams-302889566.html",
+    "snippet": "New integration lets developers run coding agents inside Docker Sandboxes while keeping them connected to the broader agent team through BAND's collaboration layer\n...\nSAN FRANCISCO, Sept. 24, 2026 /PRNewswire/ -- BAND, pioneers of the agentic collaboration platform for multi-agent systems, today announced its integration with Docker Sandboxes, enabling developers to run local and cloud agents saf"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-25",
+    "topic": "ai_small_business",
+    "title": "AI Alchemist",
+    "url": "https://aialchemist.store/",
+    "snippet": "AI Alchemist\n\nLearn how to write refund replies that protect your time, calm unhappy customers, and use ChatGPT safely without sounding cold or scripted every time.\n\nChatGPT Memory can cut repeated instructions from your day. Learn what it remembers, what to protect, and how small businesses can use it more wisely, too.\n\nLearn how to write Google review replies with ChatGPT that sound human, prote"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-25",
+    "topic": "ai_small_business",
+    "title": "Servegalo Launches AI-Native Operations Platform for Service Businesses",
+    "url": "https://martechseries.com/predictive-ai/ai-platforms-machine-learning/servegalo-launches-ai-native-operations-platform-for-service-businesses/",
+    "snippet": "#### New platform unifies AI reception, CRM, scheduling, dispatch, estimates, invoicing, payments and automation for service businesses.\n...\nServegalo today announced the launch of its AI-native business operations platform, designed to help service companies automate administrative work while keeping owners and employees focused on serving customers.\n...\nThe platform brings together customer rela"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-25",
+    "topic": "ai_small_business",
+    "title": "Everything new coming to Meta's AI agent Muse | TechCrunch",
+    "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+    "snippet": "The Muse agent (the physical avatar is named Jolly, according to Zuckerberg) is designed to handle everyday tasks by connecting to users\u2019 apps and services, including email and calendars. At Connect, Zuckerberg introduced a slew of new capabilities and integrations to make Muse more useful and more deeply woven into users\u2019 daily lives. Muse will be everywhere, if the user chooses, including on the"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-25",
+    "topic": "ai_small_business",
+    "title": "Plainly |",
+    "url": "https://www.webdisclosure.com/article/plainly-etr-plainly-introduces-plainly-flows-for-creative-team-automation-Rf8Zd69ZqDR",
+    "snippet": "Plainly | \n\npublished on 09/24/2026 at 10:10 on Plainly\n\n# Plainly Introduces Plainly Flows for Creative Team Automation\n\nOn September 24, 2026, Plainly launched Plainly Flows, a platform aimed at automating workflows for creative teams. This product enables teams to transform repetitive tasks into simple automated workflows, accessible to any team member.\n\nMarketing teams, branches, and agency cl"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-25",
+    "topic": "ai_labs",
+    "title": "Introducing Gemini 3.8 Live with Live Avatar",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-with-live-avatar/",
+    "snippet": "Introducing Gemini 3.8 Live with Live Avatar\n\n# Introducing Gemini 3.8 Live with Live Avatar\n\nSep 24, 2026\n\n Gemini 3.8 Live with Live Avatar brings real-time visual presence to Gemini\u2019s conversational AI. By natively coupling our live dialogue capabilities with low-latency streaming video, Live Avatar enables a more natural and intuitive conversational experience for enterprises and their users. "
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-25",
+    "topic": "ai_labs",
+    "title": "Prompt caching with Claude | Claude by Anthropic",
+    "url": "https://www.anthropic.com/news/prompt-caching",
+    "snippet": "Prompt caching with Claude | Claude by Anthropic\n...\n# Prompt caching with Claude\n...\nClaude caches frequently used context between API calls, reducing costs and latency for long prompts.\n...\nhttps://claude.com/blog/prompt-caching\n...\nUpdate: Prompt caching is Generally Available on the Anthropic API. Prompt caching is also available in preview in Amazon Bedrock and on Google Cloud\u2019s Vertex AI. (D"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-25",
+    "topic": "ai_labs",
+    "title": "Project Swap: What happens when agents trade for us? \\ Anthropic",
+    "url": "https://www.anthropic.com/research/project-swap",
+    "snippet": "Project Swap: What happens when agents trade for us? \\ Anthropic\n...\n# Project Swap: What happens when agents trade for us?\n...\n- To see what works and what breaks when agents are sent into a market, we made a miniature market of Claudes\u2014a more controlled sequel to Project Deal, our first experiment with agents interacting in a marketplace on people's behalf. Anthropic employees across six offices"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-25",
+    "topic": "ai_labs",
+    "title": "Behind Project Suncatcher, our moonshot to put AI in space",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
+    "snippet": "Learn about Google\u2019s Project Suncatcher to put ML infrastructure in space\n...\n# Behind Project Suncatcher, our moonshot to put AI in space\n...\nSep 24, 2026\n\n Learn about our early test to scale AI compute in space. In a new video series, the Project Suncatcher team explores the science behind this moonshot, what they've found, and the engineering challenges that remain to be solved.\n...\n- Project "
   }
 ]
