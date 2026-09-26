@@ -23860,5 +23860,223 @@
     "title": "Behind Project Suncatcher, our moonshot to put AI in space",
     "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
     "snippet": "Learn about Google\u2019s Project Suncatcher to put ML infrastructure in space\n...\n# Behind Project Suncatcher, our moonshot to put AI in space\n...\nSep 24, 2026\n\n Learn about our early test to scale AI compute in space. In a new video series, the Project Suncatcher team explores the science behind this moonshot, what they've found, and the engineering challenges that remain to be solved.\n...\n- Project "
+  },
+  {
+    "kind": "digest",
+    "date": "2026-09-26",
+    "headline": "GPT-6 Astra just put up 99.9% on the reasoning benchmark that had beaten every AI model before it.",
+    "url": "archive/2026-09-26.html",
+    "posts": {
+      "linkedin": [
+        "A model can score 99.9% on a test, and 62.7% on the exact same test, on the exact same day.\n\nThat's what happened with GPT-6 Astra this week. OpenAI ran it through their own custom harness and got 99.9% on a reasoning benchmark that had beaten every AI model before it. The people who built the actual benchmark ran their standard version and got 62.7%.\n\nSame model. Same day. Two totally different headlines depending on who's holding the stopwatch.\n\nI see this same thing anytime someone hands me a case study. The number is real. The conditions that produced it are the part that never makes the slide.\n\nSo when a tool, a model, or a vendor throws a big number at you, the first question isn't \"is that true.\" It's \"who ran the test, and would I get the same one.\"\n\nWould someone pay for the 99.9% version, or the 62.7% version? Depends which one they actually experience.",
+        "A guy wrote a Facebook post at 3:30 in the morning. No photos. No price. No plan for what happens if someone actually says yes.\n\nMike got laid off after 20 years. Sat in his garage one night and posted: woodworking birthday parties for kids. That's it. He didn't even know what age range to allow. Someone asked in the comments and he made it up on the spot.\n\nFirst two parties were free, because he had zero pictures, zero reviews, nothing to point to yet. Five months later he'd cleared $50,000. This fall he signed a $30,000 contract for two hours a week teaching a homeschool co-op.\n\nThe whole thing started before it looked like a real business. That's usually the order it happens in, not the other way around.\n\nYour ideas aren't bad ideas. They're just not finished ideas yet. Mike's wasn't finished either. He posted it anyway.",
+        "60% of small business owners are already using AI. Almost none of them are using it on the boring part.\n\nFreshBooks surveyed 600 of their customers this week. AI shows up everywhere in marketing, design, customer service. It barely shows up in the books. Most owners still export a report, paste it into a chatbot, and hope nothing important got left out.\n\nFreshBooks just plugged straight into Claude instead. Ask a plain question about cash flow or open invoices, get an actual answer, no spreadsheet detour.\n\nHere's what I keep noticing with the small business owners I work with. The flashy stuff, the content and the graphics, gets the AI treatment first because it's fun and visible. The stuff that actually eats a Tuesday afternoon, invoicing, reconciling, chasing a payment, gets ignored because it feels boring and technical.\n\nBoring is exactly where the hours are. It's just waiting for someone to notice it's a job too."
+      ],
+      "threads": [
+        "Guy gets laid off after 20 years. Writes one Facebook post from his garage at 3:30am. No photos, no price, didn't even know what age kids to allow. Made it up in the comments as people asked. First two classes were free because he had nothing to show yet. Five months later, $50,000. This fall, a $30K contract for two hours a week. The business existed before it looked like one. Most of them do.",
+        "There's a new kind of AI model going around called Jev and it doesn't write anything. All it does is answer fast yes-no-or-pick-one questions, thousands at a time. Someone ran an SEO audit on 586 pages in 45 seconds for 21 cents. Someone else built an inbox that reorders itself by importance instead of by time. None of it is flashy. All of it is the stuff that actually eats your day. Feels like the boring version of AI is about to be the useful one.",
+        "Watched a guy build a full brand kit in Claude Design in about 20 minutes. Logo, colors, fonts, a one-pager, a landing page. No designer, no code. The part that actually matters isn't the logo, it's the design system step, it locks in your colors and fonts so everything you make after that stays on brand without you explaining yourself again. That used to be the expensive part. Now it's a setting."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-09-26",
+    "source": "The Koerner Office",
+    "title": "The Most Overlooked $1K/Hour Business Anyone Can Start",
+    "url": "https://www.youtube.com/watch?v=qUORStgkuzc",
+    "video_id": "qUORStgkuzc"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-09-26",
+    "source": "Corey Ganim",
+    "title": "I built my whole brand with claude design in 20 minutes (no designer)",
+    "url": "https://www.youtube.com/watch?v=s9_VlHdTN2Q",
+    "video_id": "s9_VlHdTN2Q"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-09-26",
+    "source": "AI Daily Brief",
+    "title": "How People Are Actually Using Jev",
+    "url": "https://www.youtube.com/watch?v=uV6h3Uo4Nh8",
+    "video_id": "uV6h3Uo4Nh8"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-26",
+    "topic": "model_releases",
+    "title": "GPT-6 Astra hit 99.9 percent on the reasoning benchmark that had defeated every previous model, and its 1.05 million-token workspace is the largest a flagship chat model from this lab has ever carried",
+    "url": "https://gcn.com/gpt-6-astra-hit-percent-reasoning/21940/",
+    "snippet": "# GPT-6 Astra hit 99.9 percent on the reasoning benchmark that had defeated every previous model, and its 1.05 million-token workspace is the largest a flagship chat model from this lab has ever carried\n...\nGPT-6 Astra hit 99.9 percent on the reasoning benchmark that had defeated every previous model, and its 1.05 million-token workspace is the largest a flagship chat model from this lab has ever "
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-26",
+    "topic": "model_releases",
+    "title": "MiMo-V2.6-Pro-RL: Xiaomi's Trillion-Parameter Open-Weight Model - Mervin Praison",
+    "url": "https://mer.vin/news/mimo-v2-6-pro-rl-xiaomis-trillion-parameter-open-weight-model/",
+    "snippet": "Xiaomi just open-sourced a 1.02-trillion-parameter model under an MIT license, along with the reinforcement-learning framework, 7,000+ task environments, and technical report it took to train it \u2014 and the whole run was livestreamed.\n...\nMiMo-V2.6 is a family of open-weight AI models released by Xiaomi\u2019s MiMo research team on September 21, 2026. It ships in three sizes \u2014 `Pro-RL`, `Flash-RL`, and a"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-26",
+    "topic": "model_releases",
+    "title": "A new, blazing-fast version of the lightweight visual language model 'LFM2.5-VL-3B' has been released, 'LFM2.5-VL-3B-DSpark,' which applies the DSpark draft model to the LFM2.5-VL-3B. - GIGAZINE",
+    "url": "https://gigazine.net/gsc_news/en/20260925-lfm2-5-vl-dspark/",
+    "snippet": "A new, blazing-fast version of the lightweight visual language model 'LFM2.5-VL-3B' has been released, 'LFM2.5-VL-3B-DSpark,' which applies the DSpark draft model to the LFM2.5-VL-3B. - GIGAZINE\n\nSep 25, 2026 13:49:00\n\n# A new, blazing-fast version of the lightweight visual language model 'LFM2.5-VL-3B' has been released, 'LFM2.5-VL-3B-DSpark,' which applies the DSpark draft model to the LFM2.5-VL"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-26",
+    "topic": "product_releases",
+    "title": "Introducing the new Copilot with Home, Code and Autopilot",
+    "url": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
+    "snippet": "Introducing the new Copilot with Home, Code and Autopilot - The Official Microsoft Blog\n\n# Introducing the new Copilot with Home, Code and Autopilot\n\n Sep 25, 2026 | Jared Spataro - Chief Marketing Officer, AI at Work \n\nWe\u2019re reimagining Microsoft Copilot to enable work as it evolves and to help expand what every individual and every organization can accomplish in the flow of human ambition. Today"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-26",
+    "topic": "product_releases",
+    "title": "Microsoft revamps Copilot with code generation, agentic AI tools",
+    "url": "https://www.reuters.com/technology/microsoft-revamps-copilot-with-code-generation-agentic-ai-tools-2026-09-25/",
+    "snippet": "Microsoft revamps Copilot with code generation, agentic AI tools | Reuters\nSkip to main content\nExclusive news, data and analytics for financial market professionalsLearn more aboutRefinitiv\n\nSubscribe\n# Microsoft revamps Copilot with code generation, agentic AI tools\nBy Deborah Mary Sophia\nSeptember 25, 202612:01 PM UTCUpdated ago\nText\n*\nSmall Text\n*\nMedium Text\n*\nLarge Text\n*\nX\n*\nFacebook\n*\nLink"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-26",
+    "topic": "product_releases",
+    "title": "Tencent Music launches MusicBuddy, an AI tool for musicians - News - Cocoloop",
+    "url": "https://news.cocoloop.cn/en/2026/09/tencent-music-musicbuddy/",
+    "snippet": "Tencent Music launches MusicBuddy, an AI tool for musicians - News - Cocoloop\n\n AI music 2026-09 English \n\n# Tencent Music launches MusicBuddy, an AI tool for musicians\n...\nTencent Music has launched MusicBuddy, an AI creation platform aimed at musicians. The official site, musicbuddy.cn, is now live, positioned as an \"intelligent creation platform for musicians.\" According to the site, everything"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-26",
+    "topic": "product_releases",
+    "title": "AutonomyAI Launches Autonomous Product Delivery: From Product Question to Review-Ready Pull Request",
+    "url": "https://aithority.com/machine-learning/autonomyai-launches-autonomous-product-delivery-from-product-question-to-review-ready-pull-request/",
+    "snippet": "AutonomyAI Launches Autonomous Product Delivery: From Product Question to Review-Ready Pull Request\n\n# AutonomyAI Launches Autonomous Product Delivery: From Product Question to Review-Ready Pull Request\n\n By PRNewswire On Sep 25, 2026 \n\n#### AutonomyAI\u2019s new Discover Mode finds what a product needs next, then takes it through planning and build without a handoff, opening pull requests that fit how"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-26",
+    "topic": "product_releases",
+    "title": "TestMu AI Launches Test Deduplication Agent to Clean Up",
+    "url": "https://www.globenewswire.com/news-release/2026/09/25/3369152/0/en/testmu-ai-launches-test-deduplication-agent-to-clean-up-test-repositories-bloated-by-ai-generated-test-cases.html",
+    "snippet": "TestMu AI Launches Test Deduplication Agent to Clean Up\n\n## New Test Manager capability reads test cases semantically, scores every match, and puts a human in front of every deletion; ships alongside archiving, cross-project sharing, and bulk test run actions\n\n September 25, 2026 09:30 ET | Source: LambdaTest Inc d/b/a TestMu \n\nSAN FRANCISCO and NOIDA, Sept. 25, 2026 (GLOBE NEWSWIRE) -- TestMu AI "
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-26",
+    "topic": "ai_agents",
+    "title": "Introducing n8n Agents \u2013 n8n Blog",
+    "url": "https://blog.n8n.io/introducing-n8n-agents/",
+    "snippet": "n8n now has a new type of Agent. Describe what an agent should do, choose a model, the tools and workflows it can use, and it's ready to go!\n\n Ophir Prusak September 25, 2026 \u2219 8 minutes read \n\n \n\nn8n now has Agents. You describe what an agent should do, give it a model and the tools and workflows it can use, and it works out the steps itself. You can talk to it in Slack, run it on a schedule, or "
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-26",
+    "topic": "ai_agents",
+    "title": "AWS Launches Strands Open-Source Agent Harness to Simplify AI Development | Tech Pulse | TheNextGenTechInsider",
+    "url": "https://www.thenextgentechinsider.com/pulse/aws-launches-strands-open-source-agent-harness-to-simplify-ai-development",
+    "snippet": "# AWS Launches Strands Open-Source Agent Harness to Simplify AI Development\n\nAWS has released Strands, an open-source agent harness designed to streamline the deployment of autonomous AI agents. The framework offers model-agnostic support and demonstrated a 28% reduction in token consumption during benchmarks.\n...\n## AWS Launches Open-Source Strands Agent Harness\n\nAmazon Web Services (AWS) has rel"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-26",
+    "topic": "ai_agents",
+    "title": "Strands Ships a Harness SDK So You Stop Writing Agent Loops \u2014 Tessera",
+    "url": "https://thetesserapress.com/articles/strands-agentsharness-sdk",
+    "snippet": "Strands Agents' harness-sdk bundles the agent loop, memory, guardrails, and evals into one Apache-2.0 SDK for Python and TypeScript, with create_harness() as the default.\n\n Tessera Newsroom \u00b7 4 min read \u00b7 September 25, 2026\n...\n- Strands published harness-sdk, an Apache-2.0 monorepo packaging the agent loop teams hand-roll, running in-process with no hosted control plane.\n- Two layers: create_harn"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-26",
+    "topic": "ai_agents",
+    "title": "WSO2 Agent Manager Brings Sovereign AI Governance to Enterprise Agent Sprawl - IT News Africa | South Africa",
+    "url": "https://za.headtopics.com/news/wso2-agent-manager-brings-sovereign-ai-governance-to-88128872",
+    "snippet": "WSO2 today announced the general availability of WSO2 Agent Manager, an open control plane that governs AI agents across any framework, model, or deployment, helping enterprises put agents in production with confidence and regain control of agent sprawl.\n\nFully open source and deployable anywhere, Agent Manager gives enterprises complete sovereignty over how they manage their own agents, regardles"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-26",
+    "topic": "ai_small_business",
+    "title": "Connect FreshBooks with Claude's MCP Connector,",
+    "url": "https://www.freshbooks.com/press/releases/freshbooks-anthropicmcpconnector",
+    "snippet": "Connect FreshBooks with Claude's MCP Connector,\n\n# FreshBooks Empowers Solopreneurs and Small Businesses with AI Optionality, connecting with Anthropic\u2019s MCP \n\nUpdated on September 25, 2026 | 3 min. read\n\n\u201cYour Books, Your Call\": Small business management software leader empowers solopreneurs the choice to bring AI into their financial workflows on their own terms. \n\nTORONTO, CANADA \u2013 September 25"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-26",
+    "topic": "ai_small_business",
+    "title": "Kixik Wants to Give Every Small Business the Data Team Only Billion-Dollar Companies Could Afford | lifestyle.brickvest.com",
+    "url": "https://lifestyle.brickvest.com/story/828430/kixik-wants-to-give-every-small-business-the-data-team-only-billion-dollar-companies-could-afford/",
+    "snippet": "A data team costs $1.1 million a year in-house. Kixik digitally reconstructs a business from its own data and runs one on top, for less than one employee.\n\nBusiness owners are data-rich but intelligence-poor. The answers are already in their business. They just can\u2019t afford to find it. So we built it. They were never too small to have a data team.\u201d\n...\nThat team is a data team: 7 people in-house, "
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-26",
+    "topic": "ai_small_business",
+    "title": "Lawzana Flow brings case management and AI document review to small law firms - Storytelling Co - Lifestyle",
+    "url": "https://lifestyle.storytellingco.com/story/360774/lawzana-flow-brings-case-management-and-ai-document-review-to-small-law-firms/",
+    "snippet": "United States \u2013 25th September, 2026 \u2013 Small law firms often manage enquiries, case documents and deadlines across separate tools. As a practice grows, keeping those records connected becomes an administrative task of its own.\n\nLawzana Flow brings those activities into a shared workspace for solo practitioners and small legal teams. The platform combines lead intake, matter tracking, document orga"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-26",
+    "topic": "ai_small_business",
+    "title": "Workato Adds AI Governance Tools at WOW 2026",
+    "url": "https://www.reworked.co/digital-workplace/workato-debuts-airo-interface-ai-governance-suite/",
+    "snippet": "At WOW 2026, Workato made AIRO its main interface and launched tools to monitor, test and govern AI agents after they go live.\n...\n- AIRO interface launch \u2014 Workato makes AIRO the main interface for its platform.\n- New governance tools \u2014 Features include AI Control Plane, AI Registry and Agent Evals.\n- Cross platform reach \u2014 The new governance tools cover AI built on outside platforms as well as o"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-26",
+    "topic": "ai_small_business",
+    "title": "Microsoft\u2019s new Copilot app adds coding and an always-on Autopilot agent",
+    "url": "https://thenextweb.com/news/microsoft-copilot-super-app-code-autopilot",
+    "snippet": "The Copilot super app brings Chat, Cowork, Code and Word, Excel and PowerPoint into one place. Its Autopilot agent, formerly Scout, and the other agentic tools are billed by usage.\n...\nMicrosoft has launched a new version of its Copilot app that puts AI chat, coding and long-running agents in one place for work. Jared Spataro, its chief marketing officer for AI at Work, announced it in a blog post"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-26",
+    "topic": "ai_labs",
+    "title": "Claude gives us N=4 super Yang-Mills to nine loops \\ Anthropic",
+    "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
+    "snippet": "Claude gives us N=4 super Yang-Mills to nine loops \\ Anthropic\n\n# Yes, Claude can do Nine Loops\n...\nI posted challenges for two of those toy models. The one the folks at Anthropic chose to tackle was to go up to nine loops with a particular toy model theory, called N=4 super Yang-Mills.\n...\nAt the end of August, Liam Fitzpatrick and Siddharth Mishra-Sharma, two physicists at Anthropic, reached out"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-26",
+    "topic": "ai_labs",
+    "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+    "url": "https://openai.com/index/proaction",
+    "snippet": "# Proaction boosts sales 60% and saves 75+ hours with Codex\n\nPublished: 2026-09-25T19:00:00+00:00\nSource: openai.com (openai.com)\nLanguage: en\n\n## Story\n\nWith Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster."
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-26",
+    "topic": "ai_labs",
+    "title": "Coden, KI und Inklusion",
+    "url": "https://blog.google/intl/de-de/unternehmen/inside-google/ki-inklusion-hackathon-aktion-mensch/",
+    "snippet": "Coden, KI und Inklusion\n\n# Coden, KI und Inklusion\n\n25 Sep 2026\n\n Beim ersten \u201eAccessibility Hackathon\u201c von Aktion Mensch und Google im Berliner AI Center entstanden zehn innovative KI-Tools f\u00fcr weniger Barrieren im Alltag. \n\nRalf Bremer\n\nCommunications Senior Manager & Site Lead Google Berlin\n\n \n\nWas passiert, wenn Menschen mit unterschiedlichen Behinderungen, Software-Entwickler*innen und KI-Fac"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-26",
+    "topic": "ai_labs",
+    "title": "Google's space datacenter \ud83d\udef0\ufe0f, Bezos $30B bet \ud83d\ude80, CPU shortage \ud83d\udcbb",
+    "url": "https://tldr.tech/tech/2026-09-25",
+    "snippet": "Google's space datacenter \ud83d\udef0\ufe0f, Bezos $30B bet \ud83d\ude80, CPU shortage \ud83d\udcbb\n...\nProject Suncatcher is a moonshot effort by Google to design orbital AI data centers. Its first experimental satellite will launch on October 1. Its aim will be to validate Google's vision for a constellation of AI satellites. The satellite, about the size of a refrigerator, has four custom TPU AI accelerators and solar panels that "
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-26",
+    "topic": "ai_labs",
+    "title": "ChatGPT gets 403 fetching my public JSON endpoint, while Claude and Mistral can access it - ChatGPT / Bugs - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/chatgpt-gets-403-fetching-my-public-json-endpoint-while-claude-and-mistral-can-access-it/1400806",
+    "snippet": "ChatGPT gets 403 fetching my public JSON endpoint, while Claude and Mistral can access it - ChatGPT / Bugs - OpenAI Developer Community\n\n# ChatGPT gets 403 fetching my public JSON endpoint, while Claude and Mistral can access it \n\n 1h ago \n\n## post by urital83 49 mins ago \n\n urital83 \n\n'm developing a public JSON API specifically intended to provide context to AI assistants.\n\nI\u2019ve created a minima"
   }
 ]
