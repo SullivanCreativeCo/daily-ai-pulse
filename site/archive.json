@@ -24078,5 +24078,207 @@
     "title": "ChatGPT gets 403 fetching my public JSON endpoint, while Claude and Mistral can access it - ChatGPT / Bugs - OpenAI Developer Community",
     "url": "https://community.openai.com/t/chatgpt-gets-403-fetching-my-public-json-endpoint-while-claude-and-mistral-can-access-it/1400806",
     "snippet": "ChatGPT gets 403 fetching my public JSON endpoint, while Claude and Mistral can access it - ChatGPT / Bugs - OpenAI Developer Community\n\n# ChatGPT gets 403 fetching my public JSON endpoint, while Claude and Mistral can access it \n\n 1h ago \n\n## post by urital83 49 mins ago \n\n urital83 \n\n'm developing a public JSON API specifically intended to provide context to AI assistants.\n\nI\u2019ve created a minima"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-09-27",
+    "headline": "Notion just shipped Agent Skills, and they export as SKILL.md files any agent can read.",
+    "url": "archive/2026-09-27.html",
+    "posts": {
+      "linkedin": [
+        "Notion just shipped a feature I've been doing by hand for six months.\n\nI keep a folder of instructions. One file per repeatable task. Voice rules, contract templates, how I want a digest formatted.\n\nNotion just built that into the product. They're calling it Agent Skills. Write the instructions once, save it as a file, any agent can run it.\n\nHere's the part that actually matters. Those files export as SKILL.md. Same format Claude Code uses. Same format Cursor and Codex can read.\n\nThat means the skill isn't stuck inside one app anymore. Write it once, use it everywhere.\n\nIf it's repeatable, it's a skill. I've said that for a while. Feels less like a saying now and more like where every tool is headed.\n\nWhat's the one thing you keep re-explaining to a chatbot that you could just write down once and be done with?",
+        "Two companies shipped AI models this week built to never leave your machine.\n\nMeta released one. Liquid AI released another, small enough to run on a Raspberry Pi.\n\nWhy does that matter more than the size number? Because right now, every time you type something into ChatGPT, it's leaving your building.\n\nFor a small business owner that's client names, pricing, half-finished proposals. All of it going somewhere you don't control.\n\nA model that runs locally changes that math. Your code, your customer notes, your pricing sheet, they stay on the machine. No server round trip.\n\nWould someone pay for that? I think someone would pay for that. Especially the business owner who's been quietly nervous about where their data actually goes.\n\nThe AI conversation has been about \"how smart\" for two years. This week a few labs started answering \"how private\" instead.",
+        "Anthropic released two models this week. You can only use one of them.\n\nFable 5.1 is live for everyone. Cheaper, faster, open API.\n\nMythos 5.1 does the same job better, and it's locked behind a verification program. Cyber teams and life sciences labs only, and only in the US for now.\n\nThe logic makes sense. The thing that finds a vulnerability faster for you finds it faster for someone trying to do damage too.\n\nBut step back and look at the pattern. The most capable AI in the world isn't going to be the thing you download. It's going to be the thing you get vetted for.\n\nThat's a real shift, from \"everyone gets the same model\" to \"who are you, and can we trust you with this.\"\n\nWorth asking who ends up on the wrong side of that verification wall, and whether it's who you'd expect."
+      ],
+      "threads": [
+        "Notion just built the thing I've had running in a folder for six months. Write your instructions once, save it, let any agent run it. And the files export in the same format Claude Code and Cursor already use. So the skill isn't stuck in Notion. It travels.\n\nIf it's repeatable, it's a skill. That's been true for a while. Now the tools are just catching up to it.",
+        "Cursor shipped something where an agent keeps working after you close your laptop. Not a script. An actual coordinator that plans the work and hands pieces to other agents, running on its own machine somewhere.\n\nNo pricing on any of it yet. Which usually means they're still figuring out what to charge for.\n\nStill. The idea that work keeps moving while you're at dinner is the part that's gonna change how a lot of us plan our day.",
+        "Everyone shipped a giant model this week. Except Liquid AI, who went the other direction and built one small enough to run on a Raspberry Pi.\n\nThat's the bet I'd take. Agentic AI doesn't need a data center behind it. It needs to fit in the box you already own.\n\nBaby bird has gotta jump outta the nest eventually. Feels like this is that, for AI that doesn't need the cloud's permission to work."
+      ]
+    }
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-27",
+    "topic": "model_releases",
+    "title": "Stanford and Nvidia release CLM-8B, a contrastive language model that runs agent decisions up to 9x faster than Jev",
+    "url": "https://completeaitraining.com/news/stanford-and-nvidia-release-clm-8b-a-contrastive-language/",
+    "snippet": "Stanford and Nvidia release CLM-8B, a contrastive language model that runs agent decisions up to 9x faster than Jev\n\n# Stanford and Nvidia release CLM-8B, a contrastive language model that runs agent decisions up to 9x faster than Jev \n\nStanford and Nvidia's CLM-8B turns agent decision-making into a matching problem, running up to 9x faster than TypeSafe's Jev in zero-shot tests.\n\nPublished on: Se"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-27",
+    "topic": "model_releases",
+    "title": "Meta Releases Muse Glimmer 30B AI Model for Local Hardware",
+    "url": "https://ai-newspaper.com/articles/meta-launches-muse-glimmer-a/",
+    "snippet": "Meta Releases Muse Glimmer 30B AI Model for Local Hardware\n\nSeptember 27, 2026\n\n# Meta Launches Muse Glimmer: A 30B Parameter AI Model for Local Hardware\n\nAccording to reports from Startup Fortune and NVIDIA's developer blog, Meta on Monday released Muse Glimmer, a 30-billion-parameter open-weight model designed to run locally on consumer hardware.\n\nNews August 12, 03:17 News desk\n\nThe dense archi"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-27",
+    "topic": "model_releases",
+    "title": "OpenRouter launches anonymous LLM Space Bunny Alpha, supporting 1 million token context and free to use | PANews English",
+    "url": "https://www.panews.io/articles/01a0db46-ee93-74fa-95b0-266e20ec183e",
+    "snippet": "OpenRouter launches anonymous LLM Space Bunny Alpha, supporting 1 million token context and free to use | PANews English\n\n# OpenRouter launches anonymous LLM Space Bunny Alpha, supporting 1 million token context and free to use\n\nPA\u4e00\u7ebf\u00b7 1 min read Follow\n\nPANews reported on September 26 that, according to the OpenRouter model page, the anonymous large language model Space Bunny Alpha went live in pr"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-27",
+    "topic": "product_releases",
+    "title": "Meta debuts tools for building games from text prompts \u2013 DailySynapse",
+    "url": "https://dailysynapse.com/news/meta-debuts-tools-for-building-games-from-text-prompts/",
+    "snippet": "Meta debuts tools for building games from text prompts \u2013 DailySynapse\n\nSunday 27 September 2026\n\n# Meta debuts tools for building games from text prompts\n\n27 September 2026, 03:36\u00b7 1 min read\n\nMeta has detailed Horizon Create and Horizon Studio, two generative AI tools designed to help people build playable 2D and 3D games from text prompts. Both products run on the Meta Horizon Engine and support"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-27",
+    "topic": "product_releases",
+    "title": "Meta Unveils Muse Connector Platform to Enable Third-Party AI Integrations | Tech Pulse | TheNextGenTechInsider",
+    "url": "https://www.thenextgentechinsider.com/pulse/meta-unveils-muse-connector-platform-to-enable-third-party-ai-integrations",
+    "snippet": "# Meta Unveils Muse Connector Platform to Enable Third-Party AI Integrations\n\nMeta has launched the Muse Connector Platform, allowing developers to integrate third-party APIs into the Muse personal AI agent. This platform utilizes the Muse Spark model to enable agentic workflows for real-world tasks.\n\nHiren Dave\n\nFounder\n\nSep 27, 2026\u2022 4 min read\n\nIntegration Mechanism\n\nConnectors convert existing"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-27",
+    "topic": "product_releases",
+    "title": "Anthropic ships Claude Fable 5.1 and Mythos 5.1 \u2014 sharper on science, cheaper to run \u2014 On The Wire",
+    "url": "https://onthewire.ai/article/anthropic-ships-claude-fable-5-1-and-mythos-5-1-sharper-on-science-cheaper-to-ru",
+    "snippet": "Anthropic ships Claude Fable 5.1 and Mythos 5.1 \u2014 sharper on science, cheaper to run \u2014 On The Wire\n...\n# Anthropic ships Claude Fable 5.1 and Mythos 5.1 \u2014 sharper on science, cheaper to run\n\nA point release with an outsized jump: Fable 5.1 more than doubles a key science benchmark, cuts prices about 25%, and goes generally available \u2014 while its locked-down twin Mythos 5.1 stays behind verification"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-27",
+    "topic": "product_releases",
+    "title": "The Cognitive Launches AI Recruiting Platform That Finds, Reaches and Interviews Candidates in One Workflow - pasfait",
+    "url": "https://pasfait.com/launches-recruiting-platform-finds-reaches-interviews-teams-hiring/",
+    "snippet": "The Cognitive Launches AI Recruiting Platform That Finds, Reaches and Interviews Candidates in One Workflow - pasfait\n\n# The Cognitive Launches AI Recruiting Platform That Finds, Reaches and Interviews Candidates in One Workflow\n...\nSeptember 26, 2026\n\nToronto company folds candidate sourcing across ~900M profiles, verified outreach and live two-way AI interviews into a single recruiting platform "
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-27",
+    "topic": "product_releases",
+    "title": "Liquid AI Releases LFM2.5 2.6B Model for Edge Devices",
+    "url": "https://ai-newspaper.com/articles/liquid-ai-launches-lfm2-5/",
+    "snippet": "Liquid AI Releases LFM2.5 2.6B Model for Edge Devices\n...\n# Liquid AI Launches LFM2.5-2.6B Model Optimized for Edge Computing\n\nThe release, announced via MarkTechPost, positions a sub-3B-parameter checkpoint against models nearly four times its size on instruction-following and tool-use benchmarks, while shipping open\u2026\n...\nLiquid AI has shipped LFM2.5-2.6B, a 2.69-billion-parameter agentic model a"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-27",
+    "topic": "ai_agents",
+    "title": "Notion 3.7 Launches Agent Skills to Standardize AI Workflows and Enable Portability | Tech Pulse | TheNextGenTechInsider",
+    "url": "https://www.thenextgentechinsider.com/pulse/notion-37-launches-agent-skills-to-standardize-ai-workflows-and-enable-portability",
+    "snippet": "# Notion 3.7 Launches Agent Skills to Standardize AI Workflows and Enable Portability\n\nNotion 3.7 introduces Agent Skills, allowing teams to transform manual processes into reusable instructions for AI agents. The update features portable SKILL.md files and sub-agent orchestration to standardize workflows.\n\nHiren Dave\n\nFounder\n\nSep 27, 2026\u2022 4 min read\n\nSkills Library and Database\n\nSkills are main"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-27",
+    "topic": "ai_agents",
+    "title": "Cursor Projects and Origin: what the beta actually ships",
+    "url": "https://www.seventnews.com/en/articles/cursor-wants-to-run-your-agents-and-host-the-code-they-write",
+    "snippet": "Cursor shipped Projects and Origin, a code host that can be the source of truth for repositories created inside it. Both arrive in beta, and the gaps in the ... matter as much as the features.\n...\nCursor's release notes usually read like feature lists. This one reads like a claim on territory. In an announcement published today, the company launched Projects, a layer where a coordinator agent plan"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-27",
+    "topic": "ai_agents",
+    "title": "AWS Launches AgentCore Gateway for Multi-Account AI Agents via MCP | GRID THE GREY",
+    "url": "https://gridthegrey.com/posts/aws-launches-agentcore-gateway-for-multi-account-ai-agents-via-mcp/",
+    "snippet": "AWS Launches AgentCore Gateway for Multi-Account AI Agents via MCP | GRID THE GREY\n...\n# AWS Launches AgentCore Gateway for Multi-Account AI Agents via MCP\n...\n- What shipped: AWS ships AgentCore Gateway, enabling AI agents to span multiple AWS accounts via MCP with centralised tool brokering.\n...\n- Next steps: Audit existing cross-account agent credential patterns and map them against AgentCore G"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-27",
+    "topic": "ai_agents",
+    "title": "Sapiens says new AI platform embeds agents in insurers' core... | Pivot News",
+    "url": "https://pivotnews.ai/insurance/sapiens-says-new-ai-platform-embeds-agents-in-insurers",
+    "snippet": "Sapiens says new AI platform embeds agents in insurers' core... | Pivot News\n\n# Sapiens says new AI platform embeds agents in insurers' core systems\n\nContinental General, a Texas third-party administrator and life and health carrier, is the first customer evaluating the tools, aiming to move books of business onto the platform faster and at lower cost.\n\nClaire Donovan September 26, 2026\n\nSapiens h"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-27",
+    "topic": "ai_agents",
+    "title": "KT Unveils Agentic On, Platform Linking AI Agents to Company Systems - Seoul Economic Daily",
+    "url": "https://en.sedaily.com/technology/2026/09/27/kt-unveils-agentic-on-platform-linking-ai-agents-to-company",
+    "snippet": "# KT Unveils Agentic On, Platform Linking AI Agents to Company Systems - Seoul Economic Daily\n\nAuthor: Kim Gi-Hyeok\nPublished: 2026-09-27T17:27:19+09:00\nSource: en.sedaily.com (en.sedaily.com)\nLanguage: en\n\n## Story\n\nKT Unveils Agentic On, Platform Linking AI Agents to Company Systems - Seoul Economic Daily\n\n# KT Unveils Agentic On, Platform Linking AI Agents to Company Systems\n\nAI Connected to Ex"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-27",
+    "topic": "ai_small_business",
+    "title": "Best AI Tools for One-Person Business",
+    "url": "https://www.blogarama.com/business-blogs/1458534-passive-freelancer-blog/80679696-best-tools-for-one-person-business",
+    "snippet": "Could a solo founder handle work that once required a small team? In the United States and Europe, modern AI tools for one-person business owners can reduce busywork across research, writing, customer service, and daily operations. The goal is not to chase flashy demos. It is to gain useful hours and make sound decisions.\n...\nThis guide takes a function-based approach. It covers writing, research,"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-27",
+    "topic": "ai_small_business",
+    "title": "Autonomous Websites Open a New Managed Growth Layer for Small Agencies \u2013 The PionAIrs",
+    "url": "https://thepionairs.com/marketing/autonomous-websites-open-a-new-managed-growth-layer-for-small-agencies/",
+    "snippet": "Autonomous Websites Open a New Managed Growth Layer for Small Agencies \u2013 The PionAIrs\n\n Saturday, September 26, 2026 News \u00b7 Playbooks \u00b7 Momentum \n\n# Autonomous Websites Open a New Managed Growth Layer for Small Agencies\n\nFimo has launched an AI content-management platform that lets agents continuously maintain and improve websites generated by coding tools such as Claude Code and Codex. For smalle"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-27",
+    "topic": "ai_small_business",
+    "title": "MAITVIER Develops AI Growth Framework for U.S. Small Businesses \u2013 Juneau News Updates",
+    "url": "http://news.juneaunewsupdates.com/story/634194/maitvier-develops-ai-growth-framework-for-us-small-businesses.html",
+    "snippet": "September 26, 2026 \u2013 HOUSTON \u2013 MAITVIER LLC is working on an AI-based growth framework to enable small and medium-sized enterprises (SMEs) to identify commercial bottlenecks and transform their business data into actionable plans. The tools will facilitate structured diagnosis to help owners make the best decision on where to direct their resources, be it new initiatives or systems.\n\nThe program i"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-27",
+    "topic": "ai_small_business",
+    "title": "Coderblock: AI-Powered Full-Stack Web Development",
+    "url": "https://dynamicbusiness.com/ai-tools/coderblock-ai-powered-full-stack-web-development.html",
+    "snippet": "Coderblock is an AI-powered development platform designed to let anyone\u2014from founders to SMBs and enterprise teams\u2014build full-stack web applications simply by description. It bridges the gap between idea and product by offering a chat-first interface where users can generate frontend, backend, database, and deployment components in minutes. Its core philosophy: no coding required for production-re"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-27",
+    "topic": "ai_small_business",
+    "title": "Jonathan Kyle Breaks Down AI\u2019s Revolution and Who Benefits - Revelence",
+    "url": "https://revelence.com/2026/09/26/jonathan-kyle-ten-sparrows-ai-small-business-responsible-technology/",
+    "snippet": "Ten Sparrows is not chasing enterprise contracts or building the flashiest product. Its focus is on making artificial intelligence practical, secure, and genuinely accessible especially for the small businesses, nonprofits, churches, and underserved communities that the AI boom is currently passing by. Kyle, who has been programming since he was eight years old watching his mother write code on a "
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-27",
+    "topic": "ai_labs",
+    "title": "With the recent pauses on training, misaligned headlines and etc. Is there any research venue to pursue improving it? - ChatGPT - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/with-the-recent-pauses-on-training-misaligned-headlines-and-etc-is-there-any-research-venue-to-pursue-improving-it/1401119",
+    "snippet": "With the recent pauses on training, misaligned headlines and etc. Is there any research venue to pursue improving it? - ChatGPT - OpenAI Developer Community\n\n# With the recent pauses on training, misaligned headlines and etc. Is there any research venue to pursue improving it? \n\n## post by PaperScarecrow 37 mins ago \n\n PaperScarecrow \n\n 37m \n\nHey, Indie AI researcher and Dev here. I have some appa"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-27",
+    "topic": "ai_labs",
+    "title": "Codex in ChatGPT desktop app for Linux is now in preview \ud83d\udc27 - Codex - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/codex-in-chatgpt-desktop-app-for-linux-is-now-in-preview/1390027/78",
+    "snippet": "Codex in ChatGPT desktop app for Linux is now in preview \ud83d\udc27 - Codex - OpenAI Developer Community\n\n# Codex in ChatGPT desktop app for Linux is now in preview\n...\nhappened after updating ... the latest ChatGPT ... ? I cannot continue\n...\nthe newest ChatGPT Linux version 26.924.22138 still has the mentioned bug on my Ubuntu 24.04.05. cannot send message and select model within codex mode, well, work &"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-27",
+    "topic": "ai_labs",
+    "title": "Custom GPT \u2192 Skills migration: Why does editing simple instructions now require a deployment workflow? - ChatGPT / Feature requests - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/custom-gpt-skills-migration-why-does-editing-simple-instructions-now-require-a-deployment-workflow/1401203",
+    "snippet": "Custom GPT \u2192 Skills migration: Why does editing simple instructions now require a deployment workflow? - ChatGPT / Feature requests - OpenAI Developer Community\n\n# Custom GPT \u2192 Skills migration: Why does editing simple instructions now require a deployment workflow? \n\n 36m ago \n\n## post by Goyko 36 mins ago\n...\nI\u2019ve spent the last couple of days testing the migration of one of my existing Custom G"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-27",
+    "topic": "ai_labs",
+    "title": "ChatGPT Web tool-enabled turns regress to ~25\u201326 min since Aug 20; Work lacks custom MCP - ChatGPT / Bugs - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/chatgpt-web-tool-enabled-turns-regress-to-25-26-min-since-aug-20-work-lacks-custom-mcp/1397358/19",
+    "snippet": "ChatGPT Web tool-enabled turns regress to ~25\u201326 min since Aug 20; Work lacks custom MCP - ChatGPT / Bugs - OpenAI Developer Community\n\n 2\n...\nPersonally, I still have not been able to get past the ~25\u201326 minute boundary even once since this regression started. I have not hit the previous 100+ minute execution path again, and so far I have seen no evidence on my affected Chat sessions that this lo"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-27",
+    "topic": "ai_labs",
+    "title": "Latest ChatGPT update completely destroyed \"high effort\" thinking UX - ChatGPT - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/latest-chatgpt-update-completely-destroyed-high-effort-thinking-ux/1401043/1",
+    "snippet": "Latest ChatGPT update completely destroyed \"high effort\" thinking UX - ChatGPT - OpenAI Developer Community\n\n# Latest ChatGPT update completely destroyed \u201chigh effort\u201d thinking UX \n\n Sep 26 \n\n 6h ago \n\n## post by matthias.schoenebeck 9 hours ago \n\n matthias.schoenebeck \n\nThanks OpenAI for yet another update that made things a lot worse. High Thinking effort is now basically impossible if the task "
   }
 ]
