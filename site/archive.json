@@ -24280,5 +24280,183 @@
     "title": "Latest ChatGPT update completely destroyed \"high effort\" thinking UX - ChatGPT - OpenAI Developer Community",
     "url": "https://community.openai.com/t/latest-chatgpt-update-completely-destroyed-high-effort-thinking-ux/1401043/1",
     "snippet": "Latest ChatGPT update completely destroyed \"high effort\" thinking UX - ChatGPT - OpenAI Developer Community\n\n# Latest ChatGPT update completely destroyed \u201chigh effort\u201d thinking UX \n\n Sep 26 \n\n 6h ago \n\n## post by matthias.schoenebeck 9 hours ago \n\n matthias.schoenebeck \n\nThanks OpenAI for yet another update that made things a lot worse. High Thinking effort is now basically impossible if the task "
+  },
+  {
+    "kind": "digest",
+    "date": "2026-09-28",
+    "headline": "Agents stopped answering and started doing.",
+    "url": "archive/2026-09-28.html",
+    "posts": {
+      "linkedin": [
+        "The boring part of Meta's new agent is the part that matters.\n\nMuse can schedule meetings, order groceries, and track sales numbers. Fine. Every agent says that now.\n\nWhat caught me is the guardrails. It runs in an isolated virtual machine. Logins sit in a credential store the agent can't read. At checkout it makes a one-time card number, so the merchant never sees your real one. You approve the big stuff before it fires. And there's an audit trail of everything it did.\n\nThat's the product. Not the model.\n\nThink about who's on the other end of an agent like this. A business owner who has never once handed a stranger their login. The pitch to them isn't \"it's smart.\" It's \"here's what it can touch, here's what it can't, and here's the receipt.\"\n\nAvalara's new agent hub is the same idea. Every action leaves a record an auditor can read.\n\nWould you hand a new hire the company card on day one? Probably not. So why would anyone hand it to an agent with no receipt?",
+        "A Canadian insurer just put a travel insurance quote inside ChatGPT.\n\nManulife says it's their first ChatGPT plugin anywhere. You turn it on, answer questions about your trip, and get a quote. To actually buy, it sends you over to CoverMe.com.\n\nRead that last part again. The sale still happens on their site. ChatGPT is just where the shopping starts.\n\nThat's the shift. People don't always open a website to figure out what to buy. They ask something they already have open, and whoever shows up in that answer gets the first look.\n\nI'm not saying every plumber needs a ChatGPT plugin. Manulife is a giant.\n\nBut the small version of this is real. When someone asks an AI about your kind of business in your town, what does it have to work with? It can only use what's written down clearly. Hours. Services. Prices. What you're good at.\n\nMost small businesses have that scattered across five places, or nowhere.\n\nHow would I fix this? I'd write it down once, in plain words, in one place.",
+        "Chris Koerner did something in his latest video that stuck with me.\n\nHe connected a product he'd never opened to Claude, on camera, and asked it to build the thing. He says up front he had zero experience with it.\n\nThat's the permission slip most people are waiting for.\n\nYou don't have to be the expert before you start. You have to be willing to sit with the tool and figure it out in front of someone who needs it.\n\nHis pitch is that a lot of business owners have an email list and no plan for it. His math is a plumber's list turning into $12,000 a month, with you charging $1,000 of that. Take the numbers as his, not gospel.\n\nThe part I'd actually steal is who it's for. Not you. Someone you already know who has a list sitting there.\n\nWhat are you already doing for yourself that someone else would find useful?\n\nI think most of us have one of those. We just don't count it because it only took a Tuesday afternoon."
+      ],
+      "threads": [
+        "An ex-Apple Siri engineer is launching an AI agent that lives in iMessage. It has its own name, its own email, its own phone number. It can browse, buy stuff, and talk to vendors for you.\n\nOctober launch, per Mark Gurman.\n\nSo now your vendor might get a text from your agent instead of from you.\n\nApple has restricted third-party stuff in iMessage before. Nobody knows yet how that goes.\n\nI keep wondering who the vendor thinks they're talking to.",
+        "Cactus Compute put out a 121M parameter model that does one job. Tool calling, on the device, no internet.\n\nThe binaries are 8MB to 29MB. That's small enough for wearables.\n\nThey say it beat a 1.2B model on a mobile actions test, 86.0% to 82.4%. Their numbers, so grain of salt.\n\nEveryone's watching the giant models. Meanwhile a narrow little one is learning to work offline in your pocket.\n\nHow many of your workflows actually need a giant model?",
+        "Alibaba's new phone agent tries the API first. If an app has a clean way to be called, the agent uses it. Tapping around the screen is the backup.\n\nThink about what that means for a small business. If your booking software has an API, an agent can book. If it's a PDF and a phone number, the agent has to guess.\n\nThat's a real difference in who gets picked.\n\nIs your stuff readable by something that isn't a person?"
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-09-28",
+    "source": "The Koerner Office",
+    "title": "The Easiest $10K/Month AI Business Nobody Talks About",
+    "url": "https://www.youtube.com/watch?v=zEmmeIWMNvQ",
+    "video_id": "zEmmeIWMNvQ"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-28",
+    "topic": "model_releases",
+    "title": "Holo4: powering generalist computer-use agents",
+    "url": "https://huggingface.co/blog/Hcompany/holo4",
+    "snippet": "# Holo4: powering generalist computer-use agents \n\nPublished September 28, 2026\n...\nHolo4 is our new series of agentic models. It comes in two sizes: 27B dense and 35B-A3B Mixture of Experts. Both are available on the H Models API. We are also releasing an updated version of Holotron 3: Holotron4 Nano.\n\nHolo4 builds on our previous model and interacts with software through any available interface:"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-28",
+    "topic": "model_releases",
+    "title": "Cactus Compute Launches Needle 3 Specialized Automation Foundation Model | Tech Pulse | TheNextGenTechInsider",
+    "url": "https://www.thenextgentechinsider.com/pulse/cactus-compute-launches-needle-3-specialized-automation-foundation-model",
+    "snippet": "# Cactus Compute Launches Needle 3 Specialized Automation Foundation Model\n\nCactus Compute has released Needle 3, a 121M-parameter model optimized for on-device automation tasks. The model specializes in tool calling, structured data extraction, and text embedding for mobile and wearable devices.\n...\n## Cactus Compute Releases Needle 3: A Specialized Automation Foundation Model\n\nCactus Compute has"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-28",
+    "topic": "model_releases",
+    "title": "NaiveAI Open-Weights 309B Naive-N0.5-Flash With No Full Attention | AI Weekly",
+    "url": "https://aiweekly.co/alerts/naiveai-open-weights-309b-naive-n05-flash-with-no-full-attention",
+    "snippet": "NaiveAI Open-Weights 309B Naive-N0.5-Flash With No Full Attention | AI Weekly\n\n# NaiveAI Open-Weights 309B Naive-N0.5-Flash With No Full Attention \n\n By Alexis Dufresne \u00b7 Published September 27, 2026 at 22:57 UTC \u00b7 Updated September 28, 2026 at 01:17 UTC \n\n## TL;DR\n\n- Naive-N0.5-Flash runs 39 sliding-window attention layers plus 9 DeepSeek Sparse Attention layers with zero full-attention layers ac"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-28",
+    "topic": "model_releases",
+    "title": "HUMAIN Launches humain-m3 428B Parameter Arabic Language Model | Tech Pulse | TheNextGenTechInsider",
+    "url": "https://www.thenextgentechinsider.com/pulse/humain-launches-humain-m3-428b-parameter-arabic-language-model",
+    "snippet": "# HUMAIN Launches humain-m3 428B Parameter Arabic Language Model\n\nHUMAIN has unveiled humain-m3, a massive 428B parameter Arabic language model developed with MiniMax. The MoE architecture is currently available for research preview via the HUMAIN Node platform.\n\nHiren Dave\n\nFounder\n\nSep 28, 2026\u2022 4 min read\n\nModel Scale\n\n428 billion total parameters, with approximately 23 billion parameters activ"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-28",
+    "topic": "product_releases",
+    "title": "Manulife Becomes the First in Canada to Offer Travel Insurance Quotes in ChatGPT",
+    "url": "https://www.newswire.ca/news-releases/manulife-becomes-the-first-in-canada-to-offer-travel-insurance-quotes-in-chatgpt-892493999.html",
+    "snippet": "Manulife Becomes the First in Canada to Offer Travel Insurance Quotes in ChatGPT\n\n# Manulife Becomes the First in Canada to Offer Travel Insurance Quotes in ChatGPT\n\n Manulife Financial Corporation \n\nSep 28, 2026, 06:00 ET\n\n Canadians can now explore CoverMe Travel insurance with a plugin in ChatGPT, making it easier to discover coverage options and plan their travels\n\nTORONTO, Sept. 28, 2026 /CNW"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-28",
+    "topic": "product_releases",
+    "title": "Former Apple Intelligence engineer launches AI agent that can act on your behalf in iMessage on iPhone, iPad and Mac",
+    "url": "https://www.moneycontrol.com/technology/former-apple-intelligence-engineer-launches-ai-agent-that-can-act-on-your-behalf-in-imessage-on-iphone-ipad-and-mac-article-14039852.html",
+    "snippet": "Former Apple Intelligence engineer launches AI agent that can act on your behalf in iMessage on iPhone, iPad and Mac\n\n# Former Apple Intelligence engineer launches AI agent that can act on your behalf in iMessage on iPhone, iPad and Mac\n\nThe szn AI agent can browse websites, make purchases and coordinate vendors through an iMessage conversation\n\n MC Tech Desk September 28, 2026 / 11:46 IST \n\n \n\nA "
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-28",
+    "topic": "product_releases",
+    "title": "Scatter Lab's Zeta launches visual novel mode, AI generates characters and backgrounds in real time",
+    "url": "https://www.digitaltoday.co.kr/en/view/107877/scatter-lab-zeta-launches-visual-novel-mode-ai-generates-characters-and-backgrounds-in-real-time",
+    "snippet": "Scatter Lab's Zeta launches visual novel mode, AI generates characters and backgrounds in real time\n\n Updated 9:20 AM KST, Mon September 28, 2026 | Mobile Web \n\n Scatter Lab launched a new play option called \"visual novel mode\" for its AI character chat service Zeta, it said on Sept. 28. The feature changes a character's expressions and actions and the background in real time based on conversation"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-28",
+    "topic": "product_releases",
+    "title": "NVIDIA Launches Open Agent Safety Platform to Secure Agents",
+    "url": "https://www.globenewswire.com/news-release/2026/09/28/3369606/0/en/nvidia-launches-open-agent-safety-platform-to-secure-agents-from-testing-to-deployment.html",
+    "snippet": "NVIDIA Launches Open Agent Safety Platform to Secure Agents\n\n## Open Software Platform and Reference System Design Brings Together Industry, Researchers and Public-Sector Organizations to Set Safer Boundaries for AI Agents, Share Best Practices and Foster International Cooperation to Raise the Bar for Safer AI Agent Deployment\n\n September 28, 2026 05:00 ET | Source: NVIDIA\n...\nSANTA CLARA, Calif.,"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-28",
+    "topic": "ai_agents",
+    "title": "Claude has launched Managed Agents, allowing for the rapid construction and deployment of AI agents | WEEX Crypto News",
+    "url": "https://www.weex.com/news/detail/claude-has-launched-managed-agents-allowing-for-the-rapid-construction-and-deployment-of-ai-agents-636004",
+    "snippet": "Claude has launched Managed Agents, allowing for the rapid construction and deployment of AI agents | WEEX Crypto News\n\n# Claude has launched Managed Agents, allowing for the rapid construction and deployment of AI agents\n\nBy: www.chaincatcher.com| 04/09/2026 02:49:31\n\nClaude announced the launch of Managed Agents, a feature that helps developers quickly build and deploy large-scale AI agents on t"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-28",
+    "topic": "ai_agents",
+    "title": "Alibaba launches Qwen Intelligence with mobile agents for cross-app tasks and agentic smartphones",
+    "url": "https://www.datastudios.org/post/alibaba-launches-qwen-intelligence-with-mobile-agents-for-cross-app-tasks-and-agentic-smartphones",
+    "snippet": "Alibaba launches Qwen Intelligence with mobile agents for cross-app tasks and agentic smartphones\n...\nAlibaba has launched Qwen Intelligence, a full-stack mobile AI platform designed to let smartphone manufacturers build agents that can plan complex tasks, operate across applications, use APIs and graphical interfaces, retain context, and continue workflows that extend beyond a single assistant re"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-28",
+    "topic": "ai_agents",
+    "title": "Avalara launches Aviator agent hub for tax and compliance workflows | The Datatech Times",
+    "url": "https://datatech.disruptsmedia.com/enterprise-software/avalara-launches-aviator-agent-hub-tax-and-compliance-workflows",
+    "snippet": "Avalara launches Aviator agent hub for tax and compliance workflows | The Datatech Times\n\n# Avalara launches Aviator agent hub for tax and compliance workflows \n\nAvalara's new AI agent hub promises to reduce days of manual compliance work to minutes, with an audit-defensible record for every action taken.\n\n By The Datatech Times Editorial Team Sun, 27 September 2026\n\n \n\nAvalara has unveiled Aviato"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-28",
+    "topic": "ai_agents",
+    "title": "Pervaziv AI Adds Collections, Chat Forks and Governed Workflows, Advancing Cortex from Chat to Verified Work",
+    "url": "https://aithority.com/machine-learning/pervaziv-ai-adds-collections-chat-forks-and-governed-workflows-advancing-cortex-from-chat-to-verified-work/",
+    "snippet": "Pervaziv AI Adds Collections, Chat Forks and Governed Workflows, Advancing Cortex from Chat to Verified Work\n...\nPervaziv AI today announced new capabilities in Cortex that connect the way users organize and explore AI conversations with the way engineering work is coordinated, reviewed, and completed.\n\nThe release introduces Chat Collections, Fork a Chat, and governed workflows for eligible engin"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-28",
+    "topic": "ai_small_business",
+    "title": "Best AI Tools to Make Money in 2026: ChatGPT, Claude, AI Agents and Automation",
+    "url": "https://finchannel.com/the-ai-freelancers-new-business-stack-which-ai-tools-can-power-a-100k-a-month-business/136504/personal-finance/2026/09/",
+    "snippet": "The most powerful AI tools for freelancers in 2026, from ChatGPT and Claude to Codex, Cursor, n8n and Zapier. See costs, use cases and business models capable of reaching $100,000 in monthly revenue.\n...\nsoftware development, automation, AI agents, research and AI-powered media production. Upwork\u2019s 2026 marketplace data ... AI increased 109% year over year ... grew 178%, AI chatbot ... 71%, AI ima"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-28",
+    "topic": "ai_small_business",
+    "title": "Almanac: AI-Powered Workspace for Business Efficiency \u2014 Dynamic Business",
+    "url": "https://dynamicbusiness.com/ai-tools/almanac-ai-powered-workspace-for-business-efficiency.html",
+    "snippet": "Almanac - an AI-powered workspace consolidating tasks, knowledge, and projects, optimizing workflows for better outcomes with autonomy.\n...\nAlmanac is a business productivity tool designed to unite tasks, knowledge, and project context into one AI-powered workspace. The platform's standout feature is its autonomous \u201ccompany brain,\u201d a continuously updating wiki that aggregates data from connected a"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-28",
+    "topic": "ai_small_business",
+    "title": "Hatch introduces Muse, an AI agent that manages everyday tasks across work and life",
+    "url": "https://completeaitraining.com/news/hatch-introduces-muse-an-ai-agent-that-manages-everyday/",
+    "snippet": "# Hatch introduces Muse, an AI agent that manages everyday tasks across work and life \n\nMeta's new AI agent Muse handles scheduling, orders, and sales tracking across work and personal life, running in a secure isolated environment with one-time purchase cards.\n\nPublished on: Sep 27, 2026\n\n \n\nMeta has introduced Muse, an AI agent designed to handle tasks across work and personal life while users f"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-28",
+    "topic": "ai_labs",
+    "title": "Announcing GPT-6 Sol and GPT-6 Luna in the API, Codex and ChatGPT - Announcements - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/announcing-gpt-6-sol-and-gpt-6-luna-in-the-api-codex-and-chatgpt/1399925/16",
+    "snippet": "Announcing GPT-6 Sol and GPT-6 Luna in the API, Codex and ChatGPT - Announcements - OpenAI Developer Community\n\n## post by LarisaHaster on Sep 22 \n\n## post by VeitB on Sep 22 \n\n## post by _j on Sep 22 \n\n## post by Joao_Martins 5 days ago \n\n## post by merefield 5 days ago \n\nIt\u2019s a \u201cbanked reset\u201d - you have the choice to apply it if you wish before it expires.\n\nIt\u2019s not an across the board reset app"
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-28",
+    "topic": "ai_labs",
+    "title": "Clarification Needed: GPT-6 Astra Was Announced for \u201cAll ChatGPT Plus Users,\u201d but Plus Access Is Currently Limited to Work/Codex - ChatGPT - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/clarification-needed-gpt-6-astra-was-announced-for-all-chatgpt-plus-users-but-plus-access-is-currently-limited-to-work-codex/1395038/23",
+    "snippet": "Clarification Needed: GPT-6 Astra Was Announced for \u201cAll ChatGPT Plus Users,\u201d but Plus Access Is Currently Limited to Work/Codex - ChatGPT - OpenAI Developer Community\n...\n@KrishnaV There is no mention I can find of ChatGPT-6 in the release notes.\n\nhttps://help.openai.com/en/articles/6825453-chatgpt-release-notes\n\nIn the help documentation I could find about GPT-6 Astra located at the below link, "
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-28",
+    "topic": "ai_labs",
+    "title": "OpenAI fix for GPT-6 Luna/Sol image understanding - ChatGPT - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/openai-fix-for-gpt-6-luna-sol-image-understanding/1401333",
+    "snippet": "OpenAI fix for GPT-6 Luna/Sol image understanding - ChatGPT - OpenAI Developer Community\n\n# OpenAI fix for GPT-6 Luna/Sol image understanding \n\n## post by platypus 52 mins ago \n\nAccording to OpenAI devs, they\u2019ve fixed a bug that led to degradation in image understanding on GPT-6 Luna and Sol. The improvements should be visible on both API and Codex/ChatGPT Desktop APP, including also computer use."
+  },
+  {
+    "kind": "news",
+    "date": "2026-09-28",
+    "topic": "ai_labs",
+    "title": "Deprecation Reminder: DALL\u00b7E will be shut down on May 12, 2026 - API / Deprecations - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/deprecation-reminder-dall-e-will-be-shut-down-on-may-12-2026/1378754/2",
+    "snippet": "Deprecation Reminder: DALL\u00b7E will be shut down on May 12, 2026 - API / Deprecations - OpenAI Developer Community\n\n## post by PaulBellow on Apr 9 \n\n PaulBellow \n\n 2 Apr 9 \n\n> As part of our continuous upgrade process, we are deprecating the following models on May 12, 2026:\n> \n> - Dall-e-2\n> - Dall-e-3\n> \n> Ahead of the shutdown timeline, we encourage you to explore gpt-image-1.5 or gpt-image-1- mi"
   }
 ]
