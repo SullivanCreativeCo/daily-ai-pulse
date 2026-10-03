@@ -24896,5 +24896,279 @@
       "linkedin": [],
       "threads": []
     }
+  },
+  {
+    "kind": "digest",
+    "date": "2026-10-03",
+    "headline": "Agents that keep working after you close the app went mainstream this week. OpenAI shipped Dots, Meta pushed Muse into small business, and Anthropic put Cowork on web and mobile.",
+    "url": "archive/2026-10-03.html",
+    "posts": {
+      "linkedin": [
+        "Three companies shipped an agent in the last few days that keeps working after you close the app.\n\nOpenAI has Dots. Meta pushed Muse into small business, with QuickBooks, Shopify, Stripe and Slack connectors. Anthropic put Cowork on web and mobile.\n\nHere's what stuck with me. None of them work if you can't say what the job is.\n\nHand an agent \"help with my books\" and you get mush. Hand it \"check the accounts software every morning, send the first polite reminder, stop before anything big\" and now you've got something.\n\nThat's the actual work. Not the tool. Writing down what's been living in the owner's head.\n\nMost small businesses I talk to have never written it down. The follow-up rules. The \"we always do it this way\" stuff. It's one person's memory and a lot of vibes.\n\nThe agent just makes you finally do it.\n\nSo if you got a Dot tomorrow, what's the one job you could describe in five sentences?",
+        "Corey Ganim made a video called \"AI Automation Sucks, Actually.\"\n\nHis argument is that the build is getting cheap. Freelancers overseas will do for $500 what people charged five to twenty-five grand for a couple years ago. And the model companies keep building that stuff into the models.\n\nI don't love the title. But the pricing part is hard to argue with.\n\nIf you charge for the build, you're racing the 19-year-old with an n8n account. You lose that race. Every time.\n\nWhat doesn't get cheaper is knowing which job to automate. Or who checks the output. Or who picks up the phone when something breaks on a Tuesday.\n\nThat's not a build. That's a weight removal product.\n\nThe owner doesn't want a workflow. They want their afternoon back.\n\nSo what are you actually selling, the workflow or the afternoon?",
+        "Chris Koerner emailed about 1,000 people offering five minutes of consulting for five bucks.\n\n39% opened it. 35 people clicked. He ended up with 16 calls and $80.\n\nOn paper that's nothing. About 8 cents per recipient, from one plain text email. But he barely spent any time on it, because Claude ran Omnisend and Stripe through MCP.\n\nHere's the part I keep thinking about. He says charging five bucks can do more harm than good. A 25 cent hot dog makes you wonder what's wrong with the hot dog.\n\nFive dollars told people the advice was worth five dollars.\n\nNow he wants to try $1,000 for an hour. Same kind of list.\n\nI think about this every time a small business owner tells me they can't charge more. Cheap doesn't feel like a deal. It feels like a question.\n\nWould someone pay for this? I think someone would pay more than you're asking."
+      ],
+      "threads": [
+        "Google announced Gemini 4 Argon this week. Benchmarks look great. Half the internet posted \"Google is so back.\"\n\nThen you read the fine print. Nobody outside a small group of trusted cyber defenders can use it yet.\n\nA model you can't open is basically a press release with good numbers.\n\nI'll get excited when I can actually type into it.",
+        "Aaron Fuks was a part-time receptionist at a siding company. He noticed a bigger company sent his boss hundreds of free leads a year.\n\nSo he started making those intros himself. $150 each. Now it's $6,000 for ten.\n\nHe didn't invent anything. He just noticed who was already sending who work.\n\nWhat are you already noticing that somebody else would pay to have noticed for them?",
+        "Meta says nothing publishes, sends or spends without your approval. Good.\n\nBut that makes the approval step the actual job. Someone still has to look at the offer, the audience, the budget and say yes.\n\nThe agent drafts the campaign in minutes. Knowing your customers isn't something you can hand off.\n\nSo who on your team is the approver, and do they know that's their job now?"
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-10-03",
+    "source": "The Koerner Office",
+    "title": "I Tried to Make $10K/Month on Autopilot With AI",
+    "url": "https://www.youtube.com/watch?v=guJiTrw9qV4",
+    "video_id": "guJiTrw9qV4"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-10-03",
+    "source": "The Koerner Office",
+    "title": "He Makes $27K/Month Sending Text Messages",
+    "url": "https://www.youtube.com/watch?v=69eN9vRtWB8",
+    "video_id": "69eN9vRtWB8"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-10-03",
+    "source": "Startup Ideas Podcast",
+    "title": "Masterclass: How FDEs make $1M/yr deploying AI agents",
+    "url": "https://www.youtube.com/watch?v=1a5HxU52vCQ",
+    "video_id": "1a5HxU52vCQ"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-10-03",
+    "source": "Corey Ganim",
+    "title": "How to reinvent yourself as an AI consultant in 90 days (with zero tech background)",
+    "url": "https://www.youtube.com/watch?v=J5LjHs4E2-M",
+    "video_id": "J5LjHs4E2-M"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-10-03",
+    "source": "Corey Ganim",
+    "title": "AI Automation Sucks, Actually",
+    "url": "https://www.youtube.com/watch?v=blg-OJc68U0",
+    "video_id": "blg-OJc68U0"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-10-03",
+    "source": "AI Daily Brief",
+    "title": "The Rise of the AI Moderates",
+    "url": "https://www.youtube.com/watch?v=0fZTguKX9xM",
+    "video_id": "0fZTguKX9xM"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-10-03",
+    "source": "AI Daily Brief",
+    "title": "Gemini 4 Argon, Sonnet 5.5 and What Models You Should Be Using Right Now",
+    "url": "https://www.youtube.com/watch?v=K9gwvAcz1do",
+    "video_id": "K9gwvAcz1do"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-10-03",
+    "source": "AI Daily Brief",
+    "title": "The Biggest AI Announcements from OpenAI Dev Day",
+    "url": "https://www.youtube.com/watch?v=SGKEIsN2-nY",
+    "video_id": "SGKEIsN2-nY"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-03",
+    "topic": "model_releases",
+    "title": "Kolibri Has Landed: A Sovereign Open-Weight Model \u2014 Aleph Alpha",
+    "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
+    "snippet": "Kolibri Has Landed: A Sovereign Open-Weight Model \u2014 Aleph Alpha\n\n \n\n 03/10/2026 \n\n# Kolibri Has Landed: A Sovereign Open-Weight Model \n\n On the Day of German Reunification, we are releasing our new model: Kolibri. \n\n Kolibri is an English-German Mixture-of-Experts Transformer with 78B total parameters, 3B active. It supports context lengths of up to 1M tokens. The model can be downloaded with the "
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-03",
+    "topic": "model_releases",
+    "title": "OpenAI Launches GPT-6 Model Family and New Agentic Frameworks for Advanced Automation | Tech Pulse | TheNextGenTechInsider",
+    "url": "https://www.thenextgentechinsider.com/pulse/openai-launches-gpt-6-model-family-and-new-agentic-frameworks-for-advanced-automation",
+    "snippet": "# OpenAI Launches GPT-6 Model Family and New Agentic Frameworks for Advanced Automation\n\nOpenAI has released the GPT-6 model family, featuring high-performance Astra and efficient Sol and Luna models. The rollout includes new agentic infrastructure like Dots and an Agents API to support autonomous workflows.\n\nHiren Dave\n\nFounder\n\nOct 3, 2026\u2022 4 min read\n\nThe flagship model designed for high-comple"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-03",
+    "topic": "model_releases",
+    "title": "Apertus: Switzerland ships a foundation model with the t... \u2014 top10.dev",
+    "url": "https://top10.dev/story/apertus-switzerland-ships-a-foundation-model-with-the-training-data-attached-2014",
+    "snippet": "# Apertus:\n...\n# Apertus ... foundation model with\n...\n- EPFL, ETH Zurich, and CSCS released Apertus \u2014 an 8B/70B open-weights LLM trained on 15T tokens of fully documented data, Apache 2.0.\n- Unlike Llama or Mistral, the release includes training data recipes, intermediate checkpoints, and reproduction scripts \u2014 the artifact most 'open' models still withhold.\n- If you need an EU-AI-Act-compliant m"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-03",
+    "topic": "model_releases",
+    "title": "Meta returns to open weights with Muse Glimmer \u2013 DailySynapse",
+    "url": "https://dailysynapse.com/news/meta-returns-to-open-weights-with-muse-glimmer/",
+    "snippet": "Meta returns to open weights with Muse Glimmer \u2013 DailySynapse\n\nSaturday 3 October 2026\n\n# Meta returns to open weights with Muse Glimmer\n\n12 August 2026, 07:05\u00b7 1 min read\n\nMeta has launched Muse Glimmer, a 30 billion-parameter LLM distilled from its larger proprietary Muse Spark model, marking its first open weights release in more than a year. The move follows criticism that Meta had drifted fro"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-03",
+    "topic": "model_releases",
+    "title": "Ai2 releases Olmo-core 3 to make developing large mixture-of-experts LLMs more efficient - SiliconANGLE",
+    "url": "https://siliconangle.com/2026/10/02/ai2-releases-olmo-core-3-to-make-developing-large-mixture-of-experts-llms-more-efficient/",
+    "snippet": "Ai2 releases Olmo-core 3 to make developing large mixture-of-experts LLMs more efficient - SiliconANGLE\n\n UPDATED 12:15 EDT / OCTOBER 02 2026 \n\n### Ai2 releases Olmo-core 3 to make developing large mixture-of-experts LLMs more efficient\n\n by Kyt Dotson \n\nSeattle-based artificial intelligence research firm Allen Institute for AI announced a development framework for large language models Thursday t"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-03",
+    "topic": "product_releases",
+    "title": "Anthropic launches web and mobile Claude Cowork across all devices",
+    "url": "https://www.newsbytesapp.com/news/science/anthropic-launches-web-and-mobile-claude-cowork-across-all-devices/tldr",
+    "snippet": "Anthropic launches web and mobile Claude Cowork across all devices\n\n# Anthropic launches web and mobile Claude Cowork across all devices\n\nTechnology\n\nOct 03, 2026\n\nAnthropic just rolled out web and mobile versions of Claude Cowork, its agentic helper.\n\nNow you can start, track, and let tasks run on their own from any device: no more being tied to your desktop or babysitting every step.\n\n### Claude"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-03",
+    "topic": "product_releases",
+    "title": "OpenAI Introduces Dots Always-On AI Agents for Proactive Workflow Management | Tech Pulse | TheNextGenTechInsider",
+    "url": "https://thenextgentechinsider.com/pulse/openai-introduces-dots-always-on-ai-agents-for-proactive-workflow-management",
+    "snippet": "# OpenAI Introduces Dots Always-On AI Agents for Proactive Workflow Management\n\nOpenAI has released dots, a new category of autonomous AI agents powered by the GPT-6 Astra model. These always-on agents manage complex workflows and connect to over 4,000 applications to act as persistent digital extensions.\n\nHiren Dave\n\nFounder\n\nOct 3, 2026\u2022 4 min read\n\nThe agents are powered by the GPT-6 Astra mode"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-03",
+    "topic": "product_releases",
+    "title": "Anthropic launches Claude Security to scan code in enterprise beta",
+    "url": "https://www.newsbytesapp.com/news/science/anthropic-launches-claude-security-to-scan-code-in-enterprise-beta/tldr",
+    "snippet": "# Anthropic launches Claude Security to scan code in enterprise beta\n\nPublished: 2026-10-03T04:18:45Z\nSource: newsbytesapp.com\nLanguage: en\n\n## Story\n\nAnthropic launches Claude Security to scan code in enterprise beta\n\n# Anthropic launches Claude Security to scan code in enterprise beta\n\nTechnology\n\nOct 03, 2026\n\nAnthropic just dropped Claude Security, an AI-powered tool that scans code for securi"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-03",
+    "topic": "product_releases",
+    "title": "OpenAI launches GPT-5.3-Codex 25% faster on long tasks, self-debugging self-deploying",
+    "url": "https://www.newsbytesapp.com/news/science/openai-launches-gpt-53-codex-25-faster-on-long-tasks-self-debugging-self-deploying/tldr",
+    "snippet": "OpenAI launches GPT-5.3-Codex 25% faster on long tasks, self-debugging self-deploying\n\n# OpenAI launches GPT-5.3-Codex 25% faster on long tasks, self-debugging self-deploying\n\nTechnology\n\nOct 03, 2026\n\nOpenAI just launched GPT-5.3-Codex, its latest AI model that's 25% faster on long tasks and it actually pitched in to help debug and deploy itself during development.\n\nDays before the new model, Ope"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-03",
+    "topic": "ai_agents",
+    "title": "New in IBM watsonx Orchestrate: Expanded third-party agent management and Agent Identities",
+    "url": "https://www.ibm.com/new/announcements/new-in-ibm-watsonx-orchestrate-expanded-third-party-agent-management-and-agent-identities",
+    "snippet": "New in IBM watsonx Orchestrate: Expanded third-party agent management and Agent Identities \n\n# New in IBM watsonx Orchestrate: Expanded third-party agent management and Agent Identities \n\nDiscover and manage agents built on Microsoft Foundry and Google Gemini Enterprise Agent Platform from inside watsonx Orchestrate, and give every agent a verifiable identity of its own with Agent Identity, now in"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-03",
+    "topic": "ai_agents",
+    "title": "UFO launches an open-source agent platform for whole teams",
+    "url": "https://runtimewire.com/article/ufo-ai-launches-open-source-agent-platform-for-teams",
+    "snippet": "UFO launches an open-source agent platform for whole teams\n\n# UFO launches an open-source agent platform for whole teams\n\nFounder Marshall Kiely is building a shared runtime for company work, with hosted and self-managed options and agents that can act on files and connected tools.\n\n By Ryan Merket \u00b7 Published Oct 2nd, 2026, 4:02pm CT \n\nPrimary source: X\n...\nUFO's bet is that teams will adopt agen"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-03",
+    "topic": "ai_agents",
+    "title": "n8n 2.41.4 Is Out: Stability Fixes Now, and the 2.42 Beta Shows n8n Is Rebuilding Around AI Agents | CortexFlow",
+    "url": "https://cortexflow.tech/blog/n8n-2414-stable-242-beta-agents-mcp/",
+    "snippet": "n8n shipped 2.41.4 on September 30, 2026 \u2014 the current stable release \u2014 and it is exactly what it looks like: four bug fixes, no new features. But the companion 2.42.0 beta is where the interesting work is happening: an Agent Builder overhaul, nested agent tools, deeper MCP integration, and tighter credential authorization. Taken together, the two releases tell one story \u2014 n8n is quietly rebuildin"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-03",
+    "topic": "ai_agents",
+    "title": "Comfy Agent launches in Comfy Cloud as the first agent for ComfyUI workflows",
+    "url": "https://completeaitraining.com/news/comfy-agent-launches-in-comfy-cloud-as-the-first-agent-for/",
+    "snippet": "Comfy Agent launches in Comfy Cloud as the first agent for ComfyUI workflows\n\n# Comfy Agent launches in Comfy Cloud as the first agent for ComfyUI workflows \n\nComfyUI now has an AI agent that builds image and video workflows from text descriptions, eliminating manual node-wiring. It runs directly on the canvas, handles up to five parallel chats, and is free to try with Comfy Credits.\n...\nComfyUI n"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-03",
+    "topic": "ai_agents",
+    "title": "Cua launches desktop Spaces for agents, with user-approved app access",
+    "url": "https://runtimewire.com/article/cua-spaces-desktop-agents-launch",
+    "snippet": "Cua launches desktop Spaces for agents, with user-approved app access\n...\nThe free Mac app can connect agents to local or user-owned computers; Cua says Pro and Teams plans with shared machines and admin controls are planned.\n\n By Ryan Merket \u00b7 Published Oct 2nd, 2026, 4:03pm CT\n...\nCua is packaging desktop access and supervision as agent infrastructure. Teleportation could remove repeated sign-in"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-03",
+    "topic": "ai_small_business",
+    "title": "OpenAI Dots Are Here. Should Solopreneurs Pay for an Always-On AI Agent?",
+    "url": "https://www.nobossai.com/2026/10/openai-dots-for-solopreneurs.html",
+    "snippet": "### Essential Guides\n\n Start with these practical guides if you want to use AI to automate work, choose better tools, build repeatable systems, and grow a one-person business. \n\n Document Before Automation Prepare your solo business for better AI automation by documenting workflows, inputs, review points, and quality standards first. Automate the Right Tasks Learn which AI tasks freelancers should"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-03",
+    "topic": "ai_small_business",
+    "title": "What Can Meta Muse Actually Do for Your Small Business? \u00b7 AI For Business",
+    "url": "https://aiforbusiness.network/articles/meta-muse-smb-agent-launch-real-use-cases/",
+    "snippet": "Meta's Muse agent connects to your existing SMB apps and runs tasks autonomously. Here's what it does today, what's still limited, and whether it's worth your attention.\n...\nMeta Muse is an agentic AI built specifically for small businesses that connects to your existing tools and runs tasks without constant hand-holding. It can help find new customers, manage workflows, and coordinate across apps"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-03",
+    "topic": "ai_small_business",
+    "title": "Best AI Agent Platforms in 2026 | Inferse",
+    "url": "https://www.inferse.com/best/ai-agent-platforms/",
+    "snippet": "Agent platforms differ in how they connect to apps, support human approvals and hand off work to people. These ranked options are compared on those features as well as deployment model, knowledge grounding, multi-agent support, visual building tools, run limits, scheduled runs, included agents, free plans and starting paid prices. Relevance AI, Botpress and Workato Agentic are among the entries yo"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-03",
+    "topic": "ai_small_business",
+    "title": "Meta\u2019s Muse moves into small business, from ad campaigns to suspicious expenses",
+    "url": "https://websitebuildingnow.com/metas-muse-moves-into-small-business-from-ad-campaigns-to-suspicious-expenses/",
+    "snippet": "Meta has expanded Muse, its personal AI agent, with new skills and connectors aimed specifically at small businesses. The September 29 update adds business-focused workflows and a wider set of connections to the services small businesses already use.\n\nOne example in Meta\u2019s announcement is reviewing advertising and content performance, then drafting a campaign for the following week. Other suggeste"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-03",
+    "topic": "ai_small_business",
+    "title": "Always-on AI agents and agent swarms are about to rebuild work around AI | Good Transformer",
+    "url": "https://goodtransformer.ai/insights/agent-swarms-rewrite-work/",
+    "snippet": "Since August, OpenAI, Meta and SpaceXAI have launched AI agents that each have their own computer in the cloud, so they keep working after you close the app. Firms will get the most from them by handing an agent a whole job and setting its rules in writing.\n...\nThese agents are built to take a whole job off your hands, so firms will have to change how work is organised to get the most from them. Y"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-03",
+    "topic": "ai_labs",
+    "title": "September 2026 AI Updates",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+    "snippet": "# The latest AI news we announced in September 2026\n\nOct 02, 2026\n\n Here\u2019s a recap of some of our biggest AI updates from September, including Gemini 4 Argon, new Connected Apps in the Gemini App, and WeatherNext 3. \n\nBlog Team\n\nGoogle just released a bunch of new AI updates, including the powerful Gemini 4 Argon model for solving complex problems. They\u2019ve added cool features like better voice too"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-03",
+    "topic": "ai_labs",
+    "title": "GPT-6.1 Sol in the API: a meaningful step up in cost-performance - Announcements - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/gpt-6-1-sol-in-the-api-a-meaningful-step-up-in-cost-performance/1402388/6",
+    "snippet": "GPT-6.1 Sol in the API: a meaningful step up in cost-performance - Announcements - OpenAI Developer Community\n\n# GPT-6.1 Sol in the API: a meaningful step up in cost-performance \n\n## post by proflead 45 mins ago \n\nIt\u2019s super strange. I see only 2 models in the ChatGPT Chat (website). I see more models in ChatGPT Work (website). I don\u2019t see Sol-6.1 in the ChatGPT Desktop App on Linux (version 26.91"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-03",
+    "topic": "ai_labs",
+    "title": "60-Second Triage Is the Easy Part",
+    "url": "https://signup.tldr.tech/blog/60-second-triage-agentic-soc",
+    "snippet": "Google says its triage agent has investigated more than five million alerts, taking a typical thirty-minute manual analysis down to about sixty seconds. I believe it, and it's a big deal. But I think speed is the easy part of the agentic SOC. The hard part is whether anyone can check what the agent concluded, because a conclusion nobody can verify is a suggestion, and a SOC runs on findings. Turni"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-03",
+    "topic": "ai_labs",
+    "title": "Who\u2019s using Dots? Are they connecting the dots for you? - Community - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/who-s-using-dots-are-they-connecting-the-dots-for-you/1402360/14",
+    "snippet": "Who\u2019s using Dots? Are they connecting the dots for you? - Community - OpenAI Developer Community\n\n# Who\u2019s using Dots? Are they connecting the dots for you?\n...\nThe part of Dots that caught my attention is that they\u2019re designed to stay around.\n\nGive a Dot a project, a few things to watch, or something you want to move forward, and it can keep that context instead of starting over every time you ope"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-03",
+    "topic": "ai_labs",
+    "title": "Since yesterday Codex is insanely slow - Codex - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/since-yesterday-codex-is-insanely-slow/1403057/2",
+    "snippet": "Since yesterday Codex is insanely slow - Codex - OpenAI Developer Community\n\n Watch the Recap \u2197 Complete side quests \u2197\n\n## post by dpolivaev 1 hour ago \n\n dpolivaev \n\nIt was working 3 hours on a task what would never took more than 30 minutes before. I observe it with Codex CLI and with Pi I am on the 100 pro plan. It is no longer usable. I use Sol 6.1\n\nIt feels like I have to start coding myself "
   }
 ]
