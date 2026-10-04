@@ -25170,5 +25170,199 @@
     "title": "Since yesterday Codex is insanely slow - Codex - OpenAI Developer Community",
     "url": "https://community.openai.com/t/since-yesterday-codex-is-insanely-slow/1403057/2",
     "snippet": "Since yesterday Codex is insanely slow - Codex - OpenAI Developer Community\n\n Watch the Recap \u2197 Complete side quests \u2197\n\n## post by dpolivaev 1 hour ago \n\n dpolivaev \n\nIt was working 3 hours on a task what would never took more than 30 minutes before. I observe it with Codex CLI and with Pi I am on the 100 pro plan. It is no longer usable. I use Sol 6.1\n\nIt feels like I have to start coding myself "
+  },
+  {
+    "kind": "digest",
+    "date": "2026-10-04",
+    "headline": "Every big lab shipped an agent with its own computer this week.",
+    "url": "archive/2026-10-04.html",
+    "posts": {
+      "linkedin": [
+        "Every big lab shipped an agent with its own computer this week.\n\nOpenAI has Dots. xAI has Grok Bot. Manus has Cue. Anthropic put Claude Tag in Slack.\n\nHere's why that matters before the how.\n\nA chatbot waits for you to type. An agent with its own computer doesn't. It has a browser, a terminal, a memory, and it keeps going after you close the laptop.\n\nThink about a small business owner. They don't need a smarter answer box. They need somebody to chase the invoice, pull the report, and follow up with the lead who went quiet.\n\nThat's the job these products are aiming at. Not answers. Chores.\n\nThe catch is trust. Most of these are still beta, and the hard part isn't the demo. It's whether the agent only touches what it's allowed to touch.\n\nSo if an agent could take one chore off your plate today, which one would you hand it first?",
+        "OpenAI shipped a Decisions API this week and nobody's talking about it.\n\nIt runs on a small, cheap model (GPT-6 Luna) built for one thing: making quick calls. Route this request. Sort that message. Pick the next step.\n\nThe big model only shows up when the work is actually hard.\n\nThat's the same point the AI Daily Brief made about the businesses getting the most out of AI. They build model routers.\n\nPicture a front desk. The person at the desk doesn't do surgery. They figure out who needs to see the doctor, and how fast.\n\nMost teams I see run everything through the most expensive model, then wonder why the bill looks like that.\n\nOne cheap model deciding. One strong model working. Boring setup, big difference.\n\nWhere in your workflow are you paying surgeon rates for front desk work?",
+        "A $66 a month stack can run a five person company.\n\nChatGPT Plus at $20. Make around $12. Fireflies $10. Canva around $15. Brevo $9.\n\nThat's the lineup from one roundup this week. Writing, automation, meeting notes, design, email.\n\nNone of it is flashy. That's the point.\n\nMeanwhile, Mega is selling managed AI marketing to small businesses. Search, ads, websites, lead follow-up, with humans behind the agents. Pricing goes through a sales call now.\n\nSo you've got two ends. Cheap tools you wire together yourself, or a service that does it for you.\n\nIn between sits the real work. Somebody has to know what a good lead looks like before software can sort one.\n\nWould someone pay to have that part done for them? I think someone would pay for that."
+      ],
+      "threads": [
+        "Four labs shipped an agent with its own computer this week.\n\nBrowser. Terminal. Memory. Always on.\n\nThe chatbot era was you typing and waiting. This one is you handing off a chore and walking away.\n\nI keep wondering what the first chore people hand over will be. For me it's the follow-up emails I always say I'll do tomorrow.",
+        "Manus gave its agents a phone number, an email and a wallet.\n\nYou set a spending limit, which is smart.\n\nBut a limit stops how much it spends. It doesn't stop it from buying the wrong thing.\n\nI'd happily let an agent order printer paper. I'm not sure I'm ready to let it pick a vendor.",
+        "OpenAI's new Decisions API runs a cheap model for the quick calls and saves the big model for the hard stuff.\n\nThat's just a front desk. The person up front doesn't do surgery, they figure out who needs the doctor.\n\nMost of us run everything through the expensive model out of habit. Funny how long a habit can cost real money before anyone checks."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-10-04",
+    "source": "AI Daily Brief",
+    "title": "What the Best Business AI Users Are Doing Different",
+    "url": "https://www.youtube.com/watch?v=Rx7G-8myrd8",
+    "video_id": "Rx7G-8myrd8"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-04",
+    "topic": "model_releases",
+    "title": "OpenAI Launches GPT-6 Astra Featuring Advanced Agentic Intelligence and Computer Use | Tech Pulse | TheNextGenTechInsider",
+    "url": "https://www.thenextgentechinsider.com/pulse/openai-launches-gpt-6-astra-featuring-advanced-agentic-intelligence-and-computer-use",
+    "snippet": "# OpenAI Launches GPT-6 Astra Featuring Advanced Agentic Intelligence and Computer Use\n\nOpenAI has introduced GPT-6 Astra, a flagship model designed for high-level reasoning and autonomous agentic tasks. The model features advanced computer-use capabilities to manage software and professional workflows with minimal intervention.\n...\n## OpenAI Launches GPT-6 Astra: A New Frontier in Agentic Intelli"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-04",
+    "topic": "model_releases",
+    "title": "Anthropic launches Claude Opus 4.6 for complex work projects",
+    "url": "https://www.newsbytesapp.com/news/science/anthropic-launches-claude-opus-46-for-complex-work-projects/tldr",
+    "snippet": "Anthropic launches Claude Opus 4.6 for complex work projects\n\n# Anthropic launches Claude Opus 4.6 for complex work projects\n\nTechnology\n\nOct 04, 2026\n\nAnthropic just dropped Claude Opus 4.6, its newest AI made to help with big work projects and knowledge tasks.\n\nIt builds on the last version by getting things right more often on the first try and can handle complicated workflows: think making doc"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-04",
+    "topic": "model_releases",
+    "title": "Gemini 4 Argon: Price, Benchmarks and Release Details | Pandromeda",
+    "url": "https://pandromeda.com/ai/gemini-4-argon-googles-new-flagship-ai-model-explained",
+    "snippet": "'s new flagship model adds a 1-million-token output limit, a staged Fairwind cyber-defense rollout, and introductory pricing ... $2/$10\n...\nGoogle DeepMind introduced Gemini 4 Argon on September 30, 2026, positioning it as the company's new frontier flagship model for long, complex workflows in software engineering, enterprise knowledge work, and cybersecurity defense. Argon ships with an industry"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-04",
+    "topic": "model_releases",
+    "title": "Upstage launches Solar Mini 4 for efficient enterprise deployments \u2013 DailySynapse",
+    "url": "https://dailysynapse.com/news/upstage-launches-solar-mini-4-for-efficient-enterprise-deployments/",
+    "snippet": "Upstage launches Solar Mini 4 for efficient enterprise deployments \u2013 DailySynapse\n\nSunday 4 October 2026\n\n# Upstage launches Solar Mini 4 for efficient enterprise deployments\n\n2 October 2026, 07:17\u00b7 1 min read\n\nUpstage has introduced Solar Mini 4, a compact large language model that activates only 3 billion (3B) of its total 35 billion (35B) parameters during inference. The South Korean AI startup"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-04",
+    "topic": "product_releases",
+    "title": "DeepSeek Harness v0.2 Brings Official Desktop Apps to Its Open-Source Agent Harness - MarkTechPost",
+    "url": "https://www.marktechpost.com/2026/10/03/deepseek-harness-v0-2-brings-official-desktop-apps-to-its-open-source-agent-harness/",
+    "snippet": "DeepSeek Harness v0.2 Brings Official Desktop Apps to Its Open-Source Agent Harness - MarkTechPost\n...\nDeepSeek has released an official desktop app for DeepSeek Harness (dsh), its open-source agent harness. The app ships with the v0.2 preview. Installers cover macOS (Apple silicon) and Windows (64-bit).\n\nIs it deployable? Yes, today, as a preview. Download it from deepseek.com/harness or run `npx"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-04",
+    "topic": "product_releases",
+    "title": "Anthropic launches Claude Tag assistant for Slack in beta",
+    "url": "https://www.newsbytesapp.com/news/science/anthropic-launches-claude-tag-assistant-for-slack-in-beta/tldr",
+    "snippet": "Anthropic launches Claude Tag assistant for Slack in beta\n\n# Anthropic launches Claude Tag assistant for Slack in beta\n\nTechnology\n\nOct 04, 2026\n\nAnthropic just rolled out Claude Tag, an AI assistant built for Slack channels.\n\nThink of it as a smart coworker that can automate tasks and chat with your team right where you work.\n\nAnthropic says 65% of its product team's code is now created by its in"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-04",
+    "topic": "product_releases",
+    "title": "Grok Team Bots enter public beta for shared workplace agents | AI Provider Index",
+    "url": "https://aiproviderindex.com/news/grok-team-bots-public-beta-shared-workplace-agents",
+    "snippet": "Grok Team Bots enter public beta for shared workplace agents | AI Provider Index\n...\n# Grok Team Bots enter public beta for shared workplace agents\n\nxAI has launched Team Bots in public beta for Teams and Enterprise customers. The shared Grok Bots combine team context, plugins, credentials and memory while keeping individual conversations private. xAI describes deployments spanning account briefin"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-04",
+    "topic": "product_releases",
+    "title": "Cohere launches Embed 5 Pro and Fast for enterprise retrieval | AI Provider Index",
+    "url": "https://aiproviderindex.com/news/cohere-embed-5-pro-fast-enterprise-retrieval",
+    "snippet": "Cohere launches Embed 5 Pro and Fast for enterprise retrieval | AI Provider Index\n...\n# Cohere launches Embed 5 Pro and Fast for enterprise retrieval\n\nCohere has released Embed 5 in Pro and Fast tiers for multilingual, multimodal enterprise retrieval. Both models support 128,000-token inputs and share an embedding space, allowing organisations to index with Pro and query with Fast. General availab"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-04",
+    "topic": "product_releases",
+    "title": "OpenAI updates Codex desktop with browser, image generation and automation",
+    "url": "https://www.newsbytesapp.com/news/science/openai-updates-codex-desktop-with-browser-image-generation-and-automation/tldr",
+    "snippet": "OpenAI updates Codex desktop with browser, image generation and automation\n\n# OpenAI updates Codex desktop with browser, image generation and automation\n\nTechnology\n\nOct 04, 2026\n\nOpenAI just gave Codex Desktop a big glow-up. It's no longer just for coding. Now, you get an in-app browser, image generation, and smart task automation right inside your chats.\n\nFor now, it works on Mac and Windows, al"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-04",
+    "topic": "ai_agents",
+    "title": "Strands Launches Open-Source AI Agent Harness to Boost Token Efficiency | Tech Pulse | TheNextGenTechInsider",
+    "url": "https://www.thenextgentechinsider.com/pulse/strands-launches-open-source-ai-agent-harness-to-boost-token-efficiency",
+    "snippet": "# Strands Launches Open-Source AI Agent Harness to Boost Token Efficiency\n\nStrands has released an open-source AI agent harness for Python and TypeScript. The framework optimizes context management to reduce token consumption by 28% while providing secure, model-agnostic tool integration.\n\nHiren Dave\n\nFounder\n\nOct 3, 2026\u2022 3 min read\n\nIncludes built-in shell access, web tools, and file manipulatio"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-04",
+    "topic": "ai_agents",
+    "title": "XAI Launches Grok Bot Suite of Autonomous AI Agent Ecosystem | Tech Pulse | TheNextGenTechInsider",
+    "url": "https://thenextgentechinsider.com/pulse/xai-launches-grok-bot-suite-of-autonomous-ai-agent-ecosystem",
+    "snippet": "# XAI Launches Grok Bot Suite of Autonomous AI Agent Ecosystem\n\nxAI has released Grok Bot, a public beta suite of persistent AI agents designed for complex workflows. These agents operate 24/7 within a dedicated cloud environment featuring a browser, file system, and terminal.\n\nHiren Dave\n\nFounder\n\nOct 3, 2026\u2022 4 min read\n\nEach agent operates within a shared cloud computer provided by Cursor, gran"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-04",
+    "topic": "ai_agents",
+    "title": "OpenAI Launches New Agentic Ecosystem with Dots and Specialized APIs | Tech Pulse | TheNextGenTechInsider",
+    "url": "https://thenextgentechinsider.com/pulse/openai-launches-new-agentic-ecosystem-with-dots-and-specialized-apis",
+    "snippet": "# OpenAI Launches New Agentic Ecosystem with Dots and Specialized APIs\n\nOpenAI has introduced Dots, the Agents API, and the Decisions API in public beta. These tools aim to transition AI from reactive chatbots into autonomous, goal-oriented agents.\n\nHiren Dave\n\nFounder\n\nOct 4, 2026\u2022 4 min read\n\nAlways-on agents powered by GPT-6 Astra that feature their own cloud computers and can connect to over 4"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-04",
+    "topic": "ai_agents",
+    "title": "Manus launches Cue with identities and spending wallets for personal AI agents | AI Market Watch",
+    "url": "https://www.ai-market-watch.com/news/manus-launches-cue-giving-ai-agents-phone-numbers-and-wallets-tya61f",
+    "snippet": "Manus launches Cue with identities and spending wallets for personal AI agents | AI Market Watch\n\nOctober 3, 2026\n\n## The AMW Read\n\n> Cue adds execution and spending capabilities to a known general-purpose agent provider, but prior launch coverage and limited early access constrain novelty and demonstrated impact.\n\nManus launches Cue with identities and spending wallets for personal AI agents\n\nSin"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-04",
+    "topic": "ai_small_business",
+    "title": "Practical AI for Small Business Operators | Splice Work",
+    "url": "https://splicework.ai/blog/",
+    "snippet": "Practical AI for Small Business Operators | Splice Work\n...\n## How to Automate Data Extraction from Invoices\n\nLearn how to automate data extraction from supplier invoices: field maps, validation rules, a sample walkthrough, and a cost worksheet for small businesses.\n...\n## Who owns the next move?\n\nUse this handoff email template to transfer customer context, name the next owner, ... a handoff nobo"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-04",
+    "topic": "ai_small_business",
+    "title": "Best AI Tools for Small Business in 2026 (A Lean Stack Under $100/mo) - DEV Community",
+    "url": "https://dev.to/stimlau/best-ai-tools-for-small-business-in-2026-a-lean-stack-under-100mo-eai",
+    "snippet": "ChatGPT Plus ($20/mo) is the best single AI tool for small business, and the best stack is five: ChatGPT Plus $20 + Make ~$12 + Fireflies $10 + Canva ~$15 + Brevo $9 \u2248 $66/mo for writing, automation, meetings, design and CRM/email. Publish daily? Swap in Jasper ($59/mo annual) for ~$83/mo.\n\nThis is the best AI tools for small business question as we actually saw it: one five-person company, one we"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-04",
+    "topic": "ai_small_business",
+    "title": "Mega - Managed AI Marketing Agents | YesPress",
+    "url": "https://yespress.io/mega",
+    "snippet": "A gaming team built AI tools to find its own customers. Now Mega sells the same proposition to small businesses: search, ads, websites and lead follow-up, with fewer jobs left on the owner\u2019s desk.\n...\nMega provides managed AI marketing for small and mid-sized businesses, combining agents and human support to execute SEO and GEO, paid advertising, website work and lead conversion. It targets owners"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-04",
+    "topic": "ai_small_business",
+    "title": "The Useful Daily - AI News for Small Business Owners",
+    "url": "https://theusefuldaily.com/",
+    "snippet": "AI-Monitored Workflow\n\nBizUp says its relaunched platform combines LLC formation, annual report tracking, document storage, and an AI copilot named Astra in one small-business workflow.\n...\ns Nova launch ... sales teams an ... they already use ... with review controls before data\n...\nAI Automation Into a Trust Test for Small Business\n...\nSmallBiz.ai Launches a Bigger Bet on AI for Small Businesses"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-04",
+    "topic": "ai_small_business",
+    "title": "Systeme.io Review: All-in-One Marketing on a Shoestring",
+    "url": "https://mailtoolfinder.com/reviews/systeme-io/",
+    "snippet": "Systeme.io is a budget all-in-one platform that combines email, funnels, courses, and affiliate management for solopreneurs. This review covers where the value is real, where the product feels basic, and who should use it instead of separate best-in-class tools.\n...\n.8/5 Founded 20 ... \u00b7 from $17/ ... Verified October 2026\n...\n-in-One Tool\n...\n95% deliver\n...\nSysteme.io is an all-in-one marketing "
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-04",
+    "topic": "ai_labs",
+    "title": "OpenAI DevDay is going global - Announcements - OpenAI Developer Community",
+    "url": "https://community.openai.com/t/openai-devday-is-going-global/1391106/27",
+    "snippet": "OpenAI DevDay is going global - Announcements - OpenAI Developer Community\n\n# OpenAI DevDay is going global \n\n## post by VeitB on Aug 28 \n\n## post by adeluamary on Sep 4 \n\n## post by Acoufelt-Eddie on Sep 9 \n\n## post by platypus on Sep 10 \n\n## post by Chrissie on Sep 15 \n\n## post by ThatGuySam on Sep 15 \n\n## post by adeluamary on Sep 15 \n\n## post by ThatGuySam on Sep 15 \n\n## post by platypus on Se"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-04",
+    "topic": "ai_labs",
+    "title": "ChatGPT Rate Card (Enterprise token-based pricing)",
+    "url": "https://help.openai.com/en/articles/20001415-chatgpt-rate-card-enterprise-token-based-pricing",
+    "snippet": "ChatGPT Rate Card (Enterprise token-based pricing) | OpenAI Help Center\n\n# ChatGPT Rate Card (Enterprise token-based pricing)\n\nLearn how token rates work for ChatGPT models and features across Chat, ChatGPT Work, and Codex.\n...\nThis rate card covers model and feature pricing across Chat, Work, and Codex. For the billing model and comparison with credit-based agreements, see: Token-based billing fo"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-04",
+    "topic": "ai_labs",
+    "title": "ChatGPT Enterprise admin quickstart | OpenAI Help Center",
+    "url": "https://help.openai.com/en/articles/20001264-chatgpt-enterprise-admin-quickstart",
+    "snippet": "ChatGPT Enterprise admin quickstart | OpenAI Help Center\n\n# ChatGPT Enterprise admin quickstart\n\nSet up a new ChatGPT Enterprise workspace with recommended setup guidance for identity, access, workspace settings, roles and permissions, security controls, and monitoring.\n\nUpdated: yesterday\n...\nUse this quickstart to prepare a new ChatGPT Enterprise workspace before inviting users broadly. It gives"
   }
 ]
