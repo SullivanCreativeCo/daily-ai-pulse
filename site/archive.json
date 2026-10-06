@@ -25374,5 +25374,247 @@
       "linkedin": [],
       "threads": []
     }
+  },
+  {
+    "kind": "digest",
+    "date": "2026-10-06",
+    "headline": "Agents are going after small business now, and two of the biggest names did it in the same stretch.",
+    "url": "archive/2026-10-06.html",
+    "posts": {
+      "linkedin": [
+        "Two of the biggest AI companies pointed their agents at small business in the same week.\n\nMeta shipped Muse for Small Business. OpenAI shipped Dots. Both work in the background, both plug into the tools you already pay for, both come back when they need a yes.\n\nThe tech isn't the hard part anymore. Connecting Shopify and Stripe and QuickBooks takes about ten minutes.\n\nThe hard part is deciding what the agent gets to touch.\n\nThe smartest advice I saw this week was the boring kind. Start read-only. One task. Let it summarize your week across ads, sales and Instagram before it sends anything or spends anything.\n\nThat's low risk, and you find out fast whether it's any good.\n\nHand over every login on day one because the demo looked slick, and one wrong email later the whole thing gets unplugged.\n\nEarn the trust in small steps. Same way you would with a new hire.\n\nWhat's the first task you'd give an agent with zero write access?",
+        "Can the agent do it and should the agent do it are two different questions.\n\nLogistics Reply just put out a framework for warehouse AI that I think applies way past warehouses. Five levels of authority. Inform. Recommend. Act. Coordinate. Governed autonomy.\n\nNobody starts at the top.\n\nAn agent that tells you a dock door is double booked is Inform. One that suggests a new slot is Recommend. One that rebooks it on its own is Act. Same agent. Very different amount of trust.\n\nMost owners jump straight to the scary question. Will it replace someone?\n\nThe better one is what level does this task get today?\n\nInvoice reminders? Probably Act. Refunds over a hundred bucks? Recommend, and a human clicks the button.\n\nThen you move it up when the evidence says to. Not when the vendor says to.\n\nYou're not deciding whether to trust AI. You're deciding how much, for which job, this month.\n\nWhat's one task you'd move up a level right now?",
+        "Not every decision needs a genius.\n\nAWS just open-sourced a model called Strands Decider 2B. About 1.9 billion parameters. It doesn't write anything. It picks between options you give it and tells you how confident it is.\n\nThat's it. Route A or route B, plus a confidence score.\n\nThink about how much of your automation is exactly that. Is this lead qualified? Does this email need a human? Is this invoice a duplicate?\n\nA lot of us have been paying frontier model prices for questions a much smaller model can answer.\n\nOpenAI is testing a similar Decisions API, so the idea is showing up from both sides. Big model for the thinking, small model for the sorting.\n\nIf you build for small businesses, that matters. Cheaper per decision means more workflows that actually pencil out. Nobody pays a monthly fee for something that costs more to run than the problem it solves.\n\nWhat's the most boring decision in your business that an agent could make all day?"
+      ],
+      "threads": [
+        "OpenAI's new Dots get their own cloud computer and browser. You name them. They work toward goals around the clock and connect to over 4,000 apps.\n\nThey're rolling out on Pro, Business Premium and Enterprise at no extra cost. That last part is the whole story. When the agent is included in what you already pay for, nobody has to justify buying it. They just try it.\n\nCurious which task people hand over first.",
+        "ChatGPT now has a visual ad format, plus a pile of new measurement partners.\n\nSo the place people go to ask questions is also becoming a place that sells to them. OpenAI says answers stay independent and conversations stay private. Fine.\n\nI'm still going to watch how it feels the first time an ad shows up next to something I actually asked. That's where trust gets tested.",
+        "Reflection says Beam, a 501 billion parameter open model, matches leading Chinese open models while using a lot less compute. Weights are coming this month under Apache 2.0.\n\nThose claims aren't independently verified yet, so I'm waiting for people to actually run it.\n\nBut a Western open model anyone can build on is the kind of news that changes what a small shop can afford."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-10-06",
+    "source": "The Koerner Office",
+    "title": "He Rented Out 300 Trailers and Didn't Own a Single One",
+    "url": "https://www.youtube.com/watch?v=U2JHRBLNdMU",
+    "video_id": "U2JHRBLNdMU"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-10-06",
+    "source": "The Koerner Office",
+    "title": "I Let Strangers Pitch Me Their Business Live",
+    "url": "https://www.youtube.com/watch?v=a8qQzY3a1us",
+    "video_id": "a8qQzY3a1us"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-10-06",
+    "source": "Corey Ganim",
+    "title": "How I deliver a $999 AI assessment w/ claude (beginner proof)",
+    "url": "https://www.youtube.com/watch?v=N8hGjPEXQyI",
+    "video_id": "N8hGjPEXQyI"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-10-06",
+    "source": "AI Daily Brief",
+    "title": "How to Choose Your Personal Agent",
+    "url": "https://www.youtube.com/watch?v=WloeFbIX7PU",
+    "video_id": "WloeFbIX7PU"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-10-06",
+    "source": "AI Daily Brief",
+    "title": "AI Agents Are Moving Into the Real World",
+    "url": "https://www.youtube.com/watch?v=ft3psYNsdO0",
+    "video_id": "ft3psYNsdO0"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-06",
+    "topic": "model_releases",
+    "title": "Introducing Beam: Reflection's 501B open-weight model \u2014 Reflection",
+    "url": "https://reflection.ai/blog/introducing-beam",
+    "snippet": "Introducing Beam: Reflection\u2019s 501B open-weight model \u2014 Reflection\n\n# Introducing Beam: Reflection\u2019s 501B open-weight model\n...\nWe are introducing Beam, Reflection\u2019s first open-weight model. Beam is a sparse Mixture-of-Experts model with 501 billion total parameters, 23 billion active, built for coding, reasoning, and agentic workloads.\n...\nBeam is undergoing final red-teaming and evaluations. You"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-06",
+    "topic": "model_releases",
+    "title": "Reflection debuts Beam, a open-weight AI model to rival Chinese models at lower compute cost | TechCrunch",
+    "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+    "snippet": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost | TechCrunch\n\nImage Credits: Reflection AI\n\n# Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost\n\n Rebecca Bellan \n\n12:33 PM PDT \u00b7 October 5, 2026\n\nReflection AI is officially unveiling Beam, its first frontier, open-weight AI model. The two-year-old startup clai"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-06",
+    "topic": "model_releases",
+    "title": "Amazon launches open-source AI model designed to make fast decisions | Qatar Living",
+    "url": "https://www.qatarliving.com/en/article/amazon-launches-open-source-ai-model-designed-to-make-fast-decisions",
+    "snippet": "Amazon launches open-source AI model designed to make fast decisions | Qatar Living\n\n# Amazon launches open-source AI model designed to make fast decisions\n...\nAmazon Web Services has released Strands Decider 2B, an open-source artificial intelligence model designed to make fast, low-cost decisions within automated AI workflows.\n\nUnlike conventional large language models that generate open-ended t"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-06",
+    "topic": "model_releases",
+    "title": "Inception Labs launches Mercury 2.5 diffusion LLM at 1,107 tokens/sec \u00b7 1 source tracked \u00b7 PulseAugur",
+    "url": "https://pulseaugur.com/cluster/281859-inception-labs-launches-mercury-2-5-diffusion-llm-at-1-107-tokens-sec-1-source",
+    "snippet": "Inception Labs launches Mercury 2.5 diffusion LLM at 1,107 tokens/sec \u00b7 1 source tracked \u00b7 PulseAugur\n\n LIVE 02:24:46 \n\n22\n\nraw 22.1\n\n# Inception Labs launches Mercury 2.5 diffusion LLM at 1,107 tokens/sec \u00b7 1 source tracked\n\n By PulseAugur Editorial \u00b7 [1 sources] \u00b7 2026-10-05 21:54 \n\n Inception Labs has unveiled Mercury 2.5, a diffusion language model that achieves 1,107 tokens per second on NVID"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-06",
+    "topic": "product_releases",
+    "title": "ServiceNow launches AI Workflow Factory to turn workflow improvement into a continuous, agentic AI-powered loop",
+    "url": "https://www.prnewswire.com/in/news-releases/servicenow-launches-ai-workflow-factory-to-turn-workflow-improvement-into-a-continuous-agentic-ai-powered-loop-302899427.html",
+    "snippet": "ServiceNow launches AI Workflow Factory to turn workflow improvement into a continuous, agentic AI-powered loop\n\n# ServiceNow launches AI Workflow Factory to turn workflow improvement into a continuous, agentic AI-powered loop\n\n06 Oct, 2026, 11:55 IST\n...\nMUMBAI, India, Oct. 6, 2026 /PRNewswire/ -- ServiceNow (NYSE: NOW), the Super Intelligence Control Tower for business reinvention, today announc"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-06",
+    "topic": "product_releases",
+    "title": "[PRNewswire] Binance Launches AI 'Binance Intelligence' Stack | Yonhap News Agency",
+    "url": "https://en.yna.co.kr/view/RPR20261005002100353?section=press-release%2Findex",
+    "snippet": "# [PRNewswire] Binance Launches AI 'Binance Intelligence' Stack\n\n Press Releases 13:20 October 06, 2026 \n\nThis will let Google show Yonhap news articles that match or are related to your search\n\n \n\n logo \n\n -- The new product stack brings together Binance AI, Binance AI Pro, and Binance Agent OS to help people understand financial information, turn ideas into strategies, and build on Binance - Bin"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-06",
+    "topic": "product_releases",
+    "title": "OpenAI Released New Autonomous AI Agents Named \"Dots\" | AI in Education, Industry, and Government",
+    "url": "https://iblnews.org/story/openai-released-its-chatgpt-dots-agentic-workflows",
+    "snippet": "OpenAI Released New Autonomous AI Agents Named \"Dots\" | AI in Education, Industry, and Government\n\n# OpenAI Released New Autonomous AI Agents Named \"Dots\"\n\nOctober 6, 2026\n\nIBL News | New York\n\nOpenAI introduced its agentic product Dots, powered by GPT\u20116 Astra.\n\nThese autonomous AI agents, known as Dots, have their own cloud computers and browser, and can also use connected apps. This means agents"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-06",
+    "topic": "product_releases",
+    "title": "Flagship Pioneering Launches iris labs to Transform Human Wellbeing Through AI",
+    "url": "https://www.prnewswire.com/news-releases/flagship-pioneering-launches-iris-labs-to-transform-human-wellbeing-through-ai-302898865.html",
+    "snippet": "Flagship Pioneering Launches iris labs to Transform Human Wellbeing Through AI\n\n# Flagship Pioneering Launches iris labs to Transform Human Wellbeing Through AI\n\n Flagship Pioneering \n\nOct 06, 2026, 06:30 ET\n\nFirst product, iris chat\u2122, is an AI thought partner designed to help people build meaningful relationships, develop a stronger sense of self, and live with greater purpose and fulfillment\n\nCo"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-06",
+    "topic": "product_releases",
+    "title": "Zineps launches AI connection via MCP: ask your AI assistant your shipping questions",
+    "url": "https://www.zineps.com/blog/zineps-launches-ai-connection-via-mcp?lang=en",
+    "snippet": "Zineps launches AI connection via MCP: ask your AI assistant your shipping questions\n\n# Zineps launches AI connection via MCP\n\nProduct October 5, 2026\n\nFrom today, you can connect Zineps to the AI tool of your choice. With the new MCP connection (Model Context Protocol), you ask questions about your shipments, orders and invoices in plain language and let your AI assistant do the digging. You can "
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-06",
+    "topic": "ai_agents",
+    "title": "Introducing workspace agents in ChatGPT | OpenAI",
+    "url": "https://openai.com/so-DJ/index/introducing-workspace-agents-in-chatgpt/",
+    "snippet": "## Workspace agents are now generally available in ChatGPT Business, Enterprise, and Edu, helping teams turn their knowledge, best practices, and repeatable workflows into shared agents that can move work forward across your tools.\n...\nToday, we\u2019re introducing workspace agents in ChatGPT. Teams can now create shared agents that handle complex tasks and long-running workflows, all while operating w"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-06",
+    "topic": "ai_agents",
+    "title": "North 2: Enterprise AI Without Compromises",
+    "url": "https://cohere.com/blog/introducing-north-2",
+    "snippet": "North 2 is Cohere\u2019s biggest upgrade yet \u2014 unifying enterprise\u2011grade security, intelligence, cost governance, and full\u2011stack control into a single agentic AI platform that runs wherever your data lives.\n...\n- New agent harness: North 2 has a redesigned orchestration system enabling more sophisticated, reliable, multi-step automations and agents across the enterprise.\n- Increased intelligence: Build"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-06",
+    "topic": "ai_agents",
+    "title": "ServiceNow launches AI Workflow Factory to turn workflow improvement into a continuous, agentic AI-powered loop - ServiceNow Newsroom",
+    "url": "https://newsroom.servicenow.com/press-releases/details/2026/ServiceNow-launches-AI-Workflow-Factory-to-turn-workflow-improvement-into-a-continuous-agentic-AI-powered-loop/default.aspx",
+    "snippet": "# ServiceNow launches AI Workflow Factory to turn workflow improvement into a continuous, agentic AI-powered loop - ServiceNow Newsroom\n...\n, agentic AI-powered loop\n...\nMUMBAI, INDIA, 06 October 2026 \u2014 ServiceNow (NYSE: NOW), the Super Intelligence Control Tower for business reinvention, today announced AI Workflow Factory and Autonomous Engineer solutions that discover where AI can improve work "
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-06",
+    "topic": "ai_agents",
+    "title": "SAP Puts the Autonomous Enterprise to Work",
+    "url": "https://www.prnewswire.com/news-releases/sap-puts-the-autonomous-enterprise-to-work-302899688.html",
+    "snippet": "Joule Work, Joule Assistants and SAP Business AI Platform help organizations turn business AI into trusted outcomes across every core function. \n\nLAS VEGAS, Oct. 6, 2026 /PRNewswire/ -- SAP SE (NYSE: SAP) today showcased the Autonomous Enterprise in action at SAP Connect, demonstrating how Joule Work and Joule Assistants generate value for customers across every line of business.\n\n\"This is a break"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-06",
+    "topic": "ai_agents",
+    "title": "Logistics Reply introduces the LEA AI Agent Authority Model - bringing governed agentic AI into warehouse execution with LEA Dynamic Intelligence | Reply",
+    "url": "https://www.reply.com/en/newsroom/news/logistics-reply-introduces-the-lea-ai-agent-authority-model",
+    "snippet": "Logistics Reply introduces the LEA AI Agent Authority Model - bringing governed agentic AI into warehouse execution with LEA Dynamic Intelligence | Reply\n...\n# Logistics Reply introduces the LEA AI Agent Authority Model - bringing governed agentic AI into warehouse execution with LEA Dynamic Intelligence\n...\nLogistics Reply, the Reply group company specializing in innovative solutions for supply c"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-06",
+    "topic": "ai_small_business",
+    "title": "Connect Claude or ChatGPT to Your Agency Data (MCP) | CrewDriven",
+    "url": "https://crewdriven.com/resources/ai-assistant",
+    "snippet": "Every CrewDriven workspace has its own MCP server \u2014 a standard connection that AI apps such as Claude, Claude Code, Cursor, and ChatGPT use to read data from other software. Connect it once, and you can ask in plain language what last month\u2019s margin was, which clients owe you money, or who has room for another project, and get answers from your live numbers instead of a spreadsheet export. It is r"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-06",
+    "topic": "ai_small_business",
+    "title": "Meta Muse for Small Business: What It Can Do and Who Can Use It - Money Making AI Hub",
+    "url": "https://www.moneymakingaihub.com/2026/10/05/meta-muse-for-small-business-what-it-can-do-and-who-can-use-it/",
+    "snippet": "Most AI assistants still wait for you to ask a question. Meta\u2019s new Muse is pitched differently: you give it a goal, connect the tools you already use, and it works on the task in the background, coming back to you when it needs a decision. On 29 September 2026 Meta extended that idea to small businesses with Muse for Small Business, a set of new skills and connectors aimed at owners who are, in M"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-06",
+    "topic": "ai_small_business",
+    "title": "Agence MAO Launches Its AI Virtual Assistance Suite Internationally for French-Speaking Tradespeople and Small Business Owners",
+    "url": "https://www.globenewswire.com/news-release/2026/10/05/3374872/0/en/agence-mao-launches-its-ai-virtual-assistance-suite-internationally-for-french-speaking-tradespeople-and-small-business-owners.html",
+    "snippet": "Pointe-\u00c0-Pitre, GUADELOUPE, Oct. 05, 2026 (GLOBE NEWSWIRE) -- Pointe-\u00e0-Pitre, Guadeloupe \u2014 (September 2026) \u2014 Agence MAO (Mon Activit\u00e9 Optimis\u00e9e), a Guadeloupe-based company specializing in AI-powered virtual assistance and the automation of administrative tasks, today announced the international launch of its software suite. Designed for tradespeople, independent professionals, and owners of very"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-06",
+    "topic": "ai_small_business",
+    "title": "Hancom Targets U.S. Solo Founders With AI Workforce Platform - Seoul Economic Daily",
+    "url": "https://en.sedaily.com/technology/2026/10/06/hancom-targets-us-solo-founders-with-ai-workforce-platform",
+    "snippet": "Hancom (030520.KS) is moving into the U.S. market with an AI workforce platform that lets users assemble AI workers into a single team. Users pick AI workers by job function, such as data analysis or marketing, and the agents divide the work among themselves and produce finished output including documents, spreadsheets and presentation materials. Hancom has identified the 31.99 million businesses "
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-06",
+    "topic": "ai_small_business",
+    "title": "Alternativa a Kimi: gestiona tu negocio sin sorpresas | Stunning",
+    "url": "https://stunning.so/es/blog/alternativa-a-kimi-moonshot-para-tu-negocio-es",
+    "snippet": "Para un negocio peque\u00f1o \u2014una cl\u00ednica, una tienda, un despacho contable\u2014 este tipo de ... es un inconveniente menor. Cada hora que pierdes ... informaci\u00f3n sobre tu plan o alternando entre ... es una hora que no dedicaste a atender clientes o cerrar ventas.\n...\nfacturaci\u00f3n electr\u00f3nica ... Espa\u00f1a y Colombia\n...\nStunning \u2014la plataforma donde los due\u00f1os de negocios crean sitios web y sistemas de gesti\u00f3"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-06",
+    "topic": "ai_labs",
+    "title": "Building advertising for the way people use AI | OpenAI",
+    "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement/",
+    "snippet": "# Building advertising for the way people use AI | OpenAI\n\nPublished: 2026-10-05T10:04:58Z\nSource: openai.com\nLanguage: en\n...\nBuilding advertising for the way people use AI | OpenAI\n\nOctober 5, 2026\n\n# Building advertising for the way people use AI\n\nA new visual ad format helps people explore products and services, with expanded measurement to help businesses understand ad impact.\n\nWe\u2019re introduc"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-06",
+    "topic": "ai_labs",
+    "title": "Prime Inference \ud83d\udcc8, agent population \ud83d\udcc8, Claude academy \ud83c\udf93",
+    "url": "https://tldr.tech/ai/2026-10-05",
+    "snippet": "### Prime Inference: Fast, Reliable Serving for Frontier Open Models (18 minute read)\n\nPrime Inference covers both serverless endpoints and reserved capacity. It offers resilient serving of frontier open-source models on Prime Intellect's GPU infrastructure across multiple data centers. The serving platform has powered large-scale RL rollouts, synthetic data generation, evaluations, and long-runni"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-06",
+    "topic": "ai_labs",
+    "title": "Provenance signals in OpenAI-generated content",
+    "url": "https://help.openai.com/en/articles/8912793-provenance-signals-in-openai-generated-content",
+    "snippet": "Learn how Content\n...\nAs part of a commitment to a safer, more transparent AI ecosystem, OpenAI uses provenance signals to help people understand whether content was generated with an OpenAI model.\n...\nSynthID is an invisible watermarking technology developed by Google DeepMind that embeds a signal directly into generated media. Unlike metadata, the signal is part of the content itself and may per"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-06",
+    "topic": "ai_labs",
+    "title": "Making AI training available to UK and Ireland educators",
+    "url": "https://blog.google/products-and-platforms/products/education/making-ai-training-available-to-uk-and-ireland-educators/",
+    "snippet": "# Making AI training available to UK and Ireland educators\n\nAuthor: Fiona Law\nPublished: 2026-10-05T07:00:00Z\nSource: blog.google\nLanguage: en\n\n## Story\n\nMaking AI training available to UK and Ireland educators\n\n# Making AI training available to UK and Ireland educators\n\n We\u2019re expanding the Google AI Educator Series to the UK and Ireland \u2014 an initiative to equip educators with comprehensive digit"
   }
 ]
