@@ -25616,5 +25616,239 @@
     "title": "Making AI training available to UK and Ireland educators",
     "url": "https://blog.google/products-and-platforms/products/education/making-ai-training-available-to-uk-and-ireland-educators/",
     "snippet": "# Making AI training available to UK and Ireland educators\n\nAuthor: Fiona Law\nPublished: 2026-10-05T07:00:00Z\nSource: blog.google\nLanguage: en\n\n## Story\n\nMaking AI training available to UK and Ireland educators\n\n# Making AI training available to UK and Ireland educators\n\n We\u2019re expanding the Google AI Educator Series to the UK and Ireland \u2014 an initiative to equip educators with comprehensive digit"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-10-07",
+    "headline": "A US open-weight model finally showed up. Reflection AI dropped Beam, 501 billion parameters, and it's the first open model from a US startup that holds its own against the Chinese ones.",
+    "url": "archive/2026-10-07.html",
+    "posts": {
+      "linkedin": [
+        "A new model dropping used to feel like a threat.\n\nNow it's the best excuse to text a client.\n\nHere's why. If you sell the output, the model eats you. Prompt packs, thin wrappers, one-off automations. Gone by the next release.\n\nIf you sell the decision about what to fix, the model helps you. It makes the fix faster.\n\nCorey Ganim laid this out this week. His assessments and ongoing AI help get stronger every time something ships, because clients can't tell the signal from the noise.\n\nMistral drops a trillion-parameter model at the end of the month. A business owner doesn't care. They care what it does for their Tuesday.\n\nThat's the job. Knowing their business well enough to say \"this one thing just got easier, want me to walk you through it?\"\n\nWould someone pay for that? I think someone would pay for that.\n\nSo what are you actually selling, the output or the call?",
+        "One in seven people in the US speaks Spanish at home.\n\nThat's 44 million people.\n\nNow think about the last plumber, dentist or roofer you saw with a Spanish version of their video. Yeah. Me neither.\n\nChris Koerner walked through this on his channel. AI can now dub a video into Spanish and match the mouth to the audio. He says it takes about 20 minutes and charges around $300 a video.\n\nThe why is the whole story. The tech used to look like a bad kung fu movie, so nobody bothered. Now it looks real and the gap is just sitting there.\n\nYour ideas aren't bad ideas. They're just not finished ideas. This one is finished. Somebody just has to knock on the door.\n\nWhat's a thing you already do that a local business has never even been offered?",
+        "Meta's new small business agent can read your Shopify orders, your QuickBooks, and your ad account.\n\nIt can also flag weird expenses and draft your customer replies.\n\nBut here's the part I'd read twice. Nothing publishes, sends or spends without you saying yes.\n\nThat approval step is the whole product. Meta even admits the agent can still get things wrong.\n\nSo the opportunity isn't the agent. It's the person who sets it up. Which tools connect, what it's allowed to touch, who checks the output.\n\nStart with one workflow. Measure the time saved after the cleanup, not before. Then add the next one.\n\nDo more with the same, not the same with less.\n\nWhat's the one job you'd let an agent do without checking it first?"
+      ],
+      "threads": [
+        "Two big open models landed this week. Reflection's Beam and Mistral Large 4, with weights coming this month.\n\nFor a while the model was the thing everyone fought over. Now you can download a near-frontier one.\n\nSo the model isn't the scarce part anymore. The person who understands the business using it is.\n\nI keep wondering what that does to the price of knowing a client's Tuesday.",
+        "Claude now lives inside Google Docs, Sheets and Slides.\n\nNot a new app. A sidebar in the files people already have open.\n\nMost small businesses aren't moving their whole life into a new tool for an AI feature. They never were.\n\nThe tools that win show up where the work already is. It's a boring answer, and it usually works.",
+        "OpenAI's new always-on agents can only run the apps you already have.\n\nThat sounds obvious until you picture a small business owner with a notebook, a text thread and a spreadsheet from 2019.\n\nThere's nothing to hand off yet.\n\nSo the first job isn't the agent. It's the boring software underneath it. That might be the real business."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-10-07",
+    "source": "The Koerner Office",
+    "title": "Copy This Simple AI Setup That Makes Me $8K/Month",
+    "url": "https://www.youtube.com/watch?v=XBAR_cbfjPQ",
+    "video_id": "XBAR_cbfjPQ"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-10-07",
+    "source": "Startup Ideas Podcast",
+    "title": "13 Businesses for the Age of AI",
+    "url": "https://www.youtube.com/watch?v=bQPU6UJ4iCw",
+    "video_id": "bQPU6UJ4iCw"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-10-07",
+    "source": "Corey Ganim",
+    "title": "The kind of AI business that makes you immune to new model releases",
+    "url": "https://www.youtube.com/watch?v=2I8yCHqEuhE",
+    "video_id": "2I8yCHqEuhE"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-10-07",
+    "source": "AI Daily Brief",
+    "title": "America's Open Model Comeback Is Starting",
+    "url": "https://www.youtube.com/watch?v=nXKbGxi5tOg",
+    "video_id": "nXKbGxi5tOg"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-07",
+    "topic": "model_releases",
+    "title": "Introducing Mistral Large 4 | Mistral",
+    "url": "https://mistral.ai/news/mistral-large-4/",
+    "snippet": "Introducing Mistral Large 4 | Mistral\n\nOctober 6, 2026\n\nBy Mistral\n...\nToday, we\u2019re launching a public preview of Mistral Large 4. Unofficially ML4, very officially: le Chonk. ML4 pushes the frontier of open-weight performance. You can try the preview API today on Mistral Studio. Weights drop end of this month.\n...\nML4 is a 1 trillion-parameter natively multimodal model with 49 billion active para"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-07",
+    "topic": "model_releases",
+    "title": "Reflection AI debuts open-source Beam model with 501B parameters - SiliconANGLE",
+    "url": "https://siliconangle.com/2026/10/05/reflection-ai-debuts-open-source-beam-model-with-501b-parameters/",
+    "snippet": "Reflection AI debuts open-source Beam model with 501B parameters - SiliconANGLE\n\n UPDATED 20:46 EDT / OCTOBER 05 2026 \n\n### Reflection AI debuts open-source Beam model with 501B parameters\n\n by Maria Deutscher \n\nReflection AI Inc. today introduced Beam, an open-source large language model with 501 billion parameters.\n\nThe launch comes a few months after the startup raised funding at a $25 billion "
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-07",
+    "topic": "model_releases",
+    "title": "Mistral launches open-source Mistral Large 4, details AI roadmap - SiliconANGLE",
+    "url": "https://siliconangle.com/2026/10/06/mistral-launches-open-source-mistral-large-4-details-ai-roadmap/",
+    "snippet": "Mistral launches open-source Mistral Large 4, details AI roadmap - SiliconANGLE\n\n UPDATED 16:28 EDT / OCTOBER 06 2026 \n\n### Mistral launches open-source Mistral Large 4, details AI roadmap\n\n by Maria Deutscher \n\nMistral AI SAS today opened access to Mistral Large 4, its most capable large language model to date.\n\nOn launch, the LLM is available in public preview through the company\u2019s cloud platfor"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-07",
+    "topic": "model_releases",
+    "title": "Tencent Hy4 Preview: 770B Model vs GLM-5.3, Kimi K3",
+    "url": "https://shattered.io/tencent-hy4-770b-model-beats-glm-5-3-2026/",
+    "snippet": "Tencent has quietly put one of the biggest open-weight language models of 2026 into the hands of any developer who wants it, and the numbers behind the release are only now getting widespread attention outside China. The model, Hy4 preview, carries 770 billion total parameters but activates just 49 billion of them for any given request. Built by the Tencent Hunyuan team and shipped under an Apache"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-07",
+    "topic": "model_releases",
+    "title": "Reflection AI launches Beam | UXC News",
+    "url": "https://uxc.news/p/reflection-ai-launches-beam-a-501-billion-parameter-open-source-llm-with-lower-hardware-demands",
+    "snippet": "Reflection AI launches Beam | UXC News\n\n# Reflection AI launches Beam, a 501\u2011billion\u2011parameter open\u2011source LLM with lower hardware demands\n\nUXC October 6, 2026 at 7:35 AM Listen \n\nReflection AI\u2019s new Beam model packs 501 billion parameters, delivering performance comparable to leading proprietary systems while requiring fewer compute resources, marking a significant step for U.S. open\u2011source AI de"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-07",
+    "topic": "product_releases",
+    "title": "The iFixit App Is Here",
+    "url": "https://www.ifixit.com/News/114706/the-ifixit-app-is-here",
+    "snippet": "- December 9, 2025\n- Filed under ... Fixit, Site News\n- 18 Comments\n\nWe\u2019ve got big news: Today, you can download the iFixit app from the App Store and Google Play Store. All the repair guides you know and love, streamlined for mobile. A workbench that keeps track of your repairs. And some awesome app-only features, including a battery lifespan predictor and voice control with our brand-new AI repa"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-07",
+    "topic": "product_releases",
+    "title": "Anthropic launches Claude Security public beta on Claude Opus 4.7",
+    "url": "https://www.newsbytesapp.com/news/science/anthropic-launches-claude-security-public-beta-on-claude-opus-47/tldr",
+    "snippet": "Anthropic launches Claude Security public beta on Claude Opus 4.7\n\n# Anthropic launches Claude Security public beta on Claude Opus 4.7\n\nTechnology\n\nOct 07, 2026\n\nAnthropic just rolled out Claude Security, a new AI-powered tool designed to help spot and fix security flaws in software.\n\nRight now, it's in public beta for enterprise users and runs on the Claude Opus 4.7 model.\n\nThis launch follows it"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-07",
+    "topic": "product_releases",
+    "title": "Claude Is Coming to Google Docs, Sheets, and Slides: Anthropic Launches Sidebar Integration - Basic Tutorials",
+    "url": "https://basic-tutorials.com/news/claude-is-coming-to-google-docs-sheets-and-slides-anthropic-launches-sidebar-integration/",
+    "snippet": "# Claude Is Coming to Google Docs, Sheets, and Slides: Anthropic Launches Sidebar Integration\n\n Philipp Briel 07. October 2026 \u00b7 6 min. read \n\nClaude is now available for use directly within Google Docs, Google Sheets, and Google Slides. Anthropic launched the integration as a public beta on October 6, 2026: A new sidebar add-on opens within the three Google apps and handles text, formulas, and sl"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-07",
+    "topic": "product_releases",
+    "title": "Ernest, Lighthouse's AI Teammate for Hotel Commercial Teams, Is Now Generally Available |\n                                    Newswire",
+    "url": "https://www.newswire.com/news/ernest-lighthouses-ai-teammate-for-hotel-commercial-teams-is-now-22871630",
+    "snippet": "Ernest, Lighthouse's AI Teammate for Hotel Commercial Teams, Is Now Generally Available | Newswire \n\n# Ernest, Lighthouse's AI Teammate for Hotel Commercial Teams, Is Now Generally Available\n\n Press Release \u2022 Oct 7, 2026 10:10 BST \n\nAfter four months of live customer deployments, Ernest gives hotels the first enterprise-grade AI built specifically for hospitality, not adapted from a generic model\n"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-07",
+    "topic": "product_releases",
+    "title": "Silicon Valley AI Startup Launches Underdog to Rival Muse",
+    "url": "https://beingguru.com/silicon-valleys-ai-wunderkind-launches-underdog-a-new-muse-competitor/",
+    "snippet": "Silicon Valley AI Startup Launches Underdog to Rival Muse\n\n# Silicon Valley\u2019s AI Wunderkind Launches Underdog, a New Muse Competitor\n...\nNow a Thiel Fellow, Wen has taken on a new project. The Thiel Fellowship, backed by investor Peter Thiel, invites young founders to pursue projects instead of attending college. On Monday, Wen launched an invite-only beta. The product is called Underdog.\n\nIt\u2019s on"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-07",
+    "topic": "ai_agents",
+    "title": "ServiceNow launches AI Workflow Factory to turn workflow improvement into a continuous, agentic AI-powered loop - ServiceNow Newsroom",
+    "url": "https://newsroom.servicenow.com/press-releases/details/2026/ServiceNow-launches-AI-Workflow-Factory-to-turn-workflow-improvement-into-a-continuous-agentic-AI-powered-loop/",
+    "snippet": "ServiceNow launches AI Workflow Factory to turn workflow improvement into a continuous, agentic AI-powered loop - ServiceNow Newsroom \n\n### ServiceNow launches AI Workflow Factory to turn workflow improvement into a continuous, agentic AI-powered loop \n\n 10/06/2026\n...\nMUMBAI, INDIA, 06 October 2026 \u2014 ServiceNow (NYSE: NOW), the Super Intelligence Control Tower for business reinvention, today anno"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-07",
+    "topic": "ai_agents",
+    "title": "CXAI Launches Beat, New Agentic AI Product That Turns Work Queues Into Action",
+    "url": "https://cxapp.com/news/cxai-launches-beat-new-agentic-ai-product-that-turns-work-queues-into-action",
+    "snippet": "CXAI Launches Beat, New Agentic AI Product That Turns Work Queues Into Action\n...\nNew AI agent identifies stalled work, prepares the next step and executes approved actions across everyday workflows; live demonstrations planned for SF Tech Week on October 6 and LA Tech Week on October 13\n\nPALO ALTO, CA / ACCESS Newswire / October 6, 2026 / CXApp Inc. (NASDAQ:CXAI), an enterprise agentic AI platfor"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-07",
+    "topic": "ai_agents",
+    "title": "GoodData.AI Launches the Agentic Serving Plane, a New Category of Enterprise Data Infrastructure for AI Agents | GoodData.AI",
+    "url": "https://www.gooddata.ai/press-releases/gooddata-ai-launches-the-agentic-serving-plane-a-new-category-of-enterprise-data-infrastructure-for-ai-agents/",
+    "snippet": "GoodData.AI Launches the Agentic Serving Plane, a New Category of Enterprise Data Infrastructure for AI Agents | GoodData.AI\n...\nSAN FRANCISCO, CA - October 6, 2026: GoodData.AI, the open agentic analytics platform, today launched the Agentic Serving Plane, a governed execution layer designed for the high-concurrency, context-rich data workloads created by AI agents.\n\nThe Agentic Serving Plane sit"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-07",
+    "topic": "ai_agents",
+    "title": "OnX Launches Forge Agents to Deliver Custom AI Agents in Days",
+    "url": "https://www.onx.com/newsroom/onx-launches-forge-agents-to-deliver-custom-ai-agents-in-days",
+    "snippet": "OnX Launches Forge Agents to Deliver Custom AI Agents in Days\n\n October 06, 2026 \n\n# OnX Launches Forge Agents to Deliver Custom AI Agents in Days \n\n Author: OnX Team \n\n## New platform moves mid-market companies from stalled AI pilots to agents doing real work, with the security and governance regulated industries require. \n\nToronto \u2013 Oct. 6, 2026 \u2013 OnX, a leading Canadian technology services comp"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-07",
+    "topic": "ai_agents",
+    "title": "AlphaSense Launches Next-Generation AI Agent SuperAnalyst to Power High-Value Financial and Strategic Workflows",
+    "url": "https://www.alpha-sense.com/press/alphasense-launches-next-generation-ai-agent-superanalyst/",
+    "snippet": "AlphaSense Launches Next-Generation AI Agent SuperAnalyst to Power High-Value Financial and Strategic Workflows\n...\nSuperAnalyst operates 24/7, planning, executing, monitoring, and updating complex workflows using AlphaSense intelligence, customer context, ... built AI infrastructure\n...\nLaunch: SuperAnalyst, an always-on, autonomous AI agent that executes high-value financial and strategic workfl"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-07",
+    "topic": "ai_small_business",
+    "title": "Meta Adds Small Business Workflows to Muse AI Agent",
+    "url": "https://www.channelinsider.com/ai/news-meta-muse-ai-agent-small-business-workflows/",
+    "snippet": "Meta Adds Small Business Workflows to Muse AI Agent\n\n# Meta Adds Small Business Workflows to Muse AI Agent\n\nMeta adds small business workflows to Muse AI agent. Learn what MSPs should assess about app integrations, access permissions, costs, and oversight. \n\nWritten By\n\n Eric Mboizi \n\n Oct 6, 2026 \n\nSmall businesses often have limited staff to handle marketing, customer service, and financial anal"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-07",
+    "topic": "ai_small_business",
+    "title": "Meta Muse For Small Business: What Shopify Merchants Should Hand It, And What To Keep | Ecommerce Fastlane",
+    "url": "https://ecommercefastlane.com/meta-muse-for-small-business-shopify/",
+    "snippet": "- Who This Is For: Shopify founders and small teams doing $10K to $200K a month who run their own ads, email, and books, and want to know whether Meta\u2019s new agent deserves a place in their week.\n...\nMuse for Small Business is a set of new skills and connectors added inside Meta\u2019s Muse agent that let it work across the tools a small business already runs, so you give it a goal and it does the work "
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-07",
+    "topic": "ai_small_business",
+    "title": "OpenAI Dots: What They Are, How They Work, and What They Can't Do Yet",
+    "url": "https://emergent.sh/learn/openai-dots",
+    "snippet": "- OpenAI Dots are always-on agents inside ChatGPT. Each dot runs on its own cloud computer, connects to your apps, and keeps working on goals you set when you are not in the chat.\n...\n- A dot runs the apps you already have. If the software your business needs does not exist yet, a dot has nothing to operate.\n...\nA dot combines four things a regular chat does not have: its own computer, access to y"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-07",
+    "topic": "ai_small_business",
+    "title": "Agentic SEO Agency Synscribe Launches AI Agent for SEO & GEO That Automates Your Workflow Without Being A Black Box | Synscribe",
+    "url": "https://www.synscribe.com/blog/synscribe-launches-ai-seo-geo-agent",
+    "snippet": "- Mole is a human-in-the-loop AI SEO & GEO agent that unifies traditional search, AI answer engine visibility, and Agentic Discovery into one execution layer, spanning 18 capabilities across four phases.\n...\nMole is now live. Built by Synscribe, a leading SEO & GEO agency, it is an AI SEO & GEO agent for marketing teams and agencies that want to scale execution without handing over strategic contr"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-07",
+    "topic": "ai_labs",
+    "title": "Expanding the Cyber Verification Program \\ Anthropic",
+    "url": "https://www.anthropic.com/news/cyber-verification-program",
+    "snippet": "# Expanding the Cyber Verification Program \\ Anthropic\n...\nExpanding the Cyber Verification Program \\ Anthropic\n\n# Expanding the Cyber Verification Program\n...\nWe\u2019re launching a new, expanded version of our Cyber Verification Program (CVP), which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals. The program now consists of three acce"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-07",
+    "topic": "ai_labs",
+    "title": "Advancing computer use with Ironclad",
+    "url": "https://openai.com/index/advancing-computer-use-with-ironclad/",
+    "snippet": "# Advancing computer use with Ironclad\n...\nWhen we introduced GPT\u20116 Astra, we demonstrated how far our models have come in using computers for professional work, from preparing documents to testing websites. Our next goal is to make agents more capable and efficient at using specialized software to solve complex business problems. We\u2019re exploring how to train models to understand a company\u2019s busin"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-07",
+    "topic": "ai_labs",
+    "title": "EmbeddingGemma 2 is a best-in-class open model for natively multimodal embeddings",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
+    "snippet": "# EmbeddingGemma 2 is a best-in-class open model for natively multimodal embeddings\n\nAuthor: Sahil Dua\nPublished: 2026-10-06T16:00:00Z\nSource: blog.google\nLanguage: en\n\n## Story\n\nEmbeddingGemma 2 is a best-in-class open model for natively multimodal embeddings\n\n# EmbeddingGemma 2: an open, lightweight multimodal embedding model\n\nOct 06, 2026\n\n EmbeddingGemma 2 is the most capable model for on-devi"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-07",
+    "topic": "ai_labs",
+    "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action | OpenAI",
+    "url": "https://openai.com/index/atlassian-partnership",
+    "snippet": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work."
   }
 ]
