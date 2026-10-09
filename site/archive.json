@@ -25860,5 +25860,255 @@
       "linkedin": [],
       "threads": []
     }
+  },
+  {
+    "kind": "digest",
+    "date": "2026-10-09",
+    "headline": "Google's new Gemini agent can be set up as a coworker with its own email address, calendar, Drive storage and a spot in the company directory.",
+    "url": "archive/2026-10-09.html",
+    "posts": {
+      "linkedin": [
+        "Google's new work agent gets its own email address.\n\nNot your login. Its own. Calendar, Drive storage, a spot in the company directory. Its edits show up under its name in version history.\n\nThat's the part I keep thinking about.\n\nWhen an agent sends mail as you, nobody can tell later what you did and what the software did. When it has its own account and its own permissions, you can treat it like a new hire. Give it a role. Limit what it can touch. Read the log when something looks off.\n\nIt's in private preview, so most of us can't try it yet. But the prep is boring and doable. Write down the jobs that repeat every week. Quote follow-ups. The Monday report. Sorting the shared inbox.\n\nThen ask of each one: what would I let a new hire touch on day one?\n\nWould I hand over the whole Drive? Because that's what a lot of small companies are about to find out they did.",
+        "Two numbers from this week that don't fit together.\n\nThe top 1% of AI buyers spend $903 a month. The median paying customer spends $25. And only 2.2% of US households pay for AI at all.\n\nSo 98% haven't bought. Either they're early or they're never going to.\n\nI think it's neither. I think nobody has shown them the boring thing.\n\nNobody wakes up wanting an agent. But picture a cleaning company owner who exports the schedule every Friday to work out payroll in a spreadsheet. That person wants Friday afternoon back.\n\nThat's not an AI product. That's a weight removal product.\n\nLook at what the 1% actually pay for. Tools that build, automate and create. Things that remove work.\n\nThe other 98% might pay for exactly the same thing. They just won't call it AI.\n\nWould someone pay to make that Friday disappear? I think someone would pay for that.",
+        "A new frontier model lands roughly every 11 days now.\n\nThat's the number from the AI Daily Brief this week, and it matches what my feed looks like.\n\nPublished benchmarks won't help you much here. A lot of them are in the training data by now. And even the clean ones can't tell you how a model feels on your work.\n\nSo build a small one. Five or six tasks you actually do. A LinkedIn post. A pricing pushback reply. A weekly plan. Write down what a good answer looks like before you run anything.\n\nThen run every new model through the same tasks, blind, and score them yourself.\n\nNufar Gaspar did this live and was surprised by which models won her LinkedIn task. She'd guessed wrong, and that's the point. Your gut about the logo on the model is not data.\n\nWhat are the five tasks you'd put in yours?"
+      ],
+      "threads": [
+        "Meta shipped an agent for small business. Google shipped one a week later.\n\nMeta's connects to QuickBooks, Stripe and Shopify, and won't post, send or spend without approval. Google's can have its own email address.\n\nOwners are about to get this pitched from every direction. Somebody still has to sit next to them and actually set it up.",
+        "Anthropic's new Haiku is cheap enough that the price is the story. JetBrains put out a 12B open model you can run on your own hardware.\n\nSmall models are turning into the sub-agents that do the clicking while a bigger one plans.\n\nSo how much of your workflow actually needs the big model?",
+        "There's a skill called Brag that turns a website into a launch video.\n\nThe idea I liked: find a Product Hunt launch with no video, make one, and send it unasked. \"Hey, I made you a launch video.\"\n\nThey might love it. They might ignore it. The no hurts less when you're not emotionally invested."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-10-09",
+    "source": "The Koerner Office",
+    "title": "The Most Profitable Business You Can Run From a Phone",
+    "url": "https://www.youtube.com/watch?v=PuogTln9CZw",
+    "video_id": "PuogTln9CZw"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-10-09",
+    "source": "Startup Ideas Podcast",
+    "title": "8 GitHub Repos To Go Viral and Make Money",
+    "url": "https://www.youtube.com/watch?v=rkK8ZyzYyEA",
+    "video_id": "rkK8ZyzYyEA"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-10-09",
+    "source": "Corey Ganim",
+    "title": "The $50k/month managed AI agent business (full course)",
+    "url": "https://www.youtube.com/watch?v=qjwi_fdM9DU",
+    "video_id": "qjwi_fdM9DU"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-10-09",
+    "source": "AI Daily Brief",
+    "title": "The Best New AI Products and the Key Trends They Represent",
+    "url": "https://www.youtube.com/watch?v=thO4Y5RYfHo",
+    "video_id": "thO4Y5RYfHo"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-10-09",
+    "source": "AI Daily Brief",
+    "title": "The Best Way To Test New AI Models",
+    "url": "https://www.youtube.com/watch?v=HX8Zr1kmLEQ",
+    "video_id": "HX8Zr1kmLEQ"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-10-09",
+    "source": "AI Daily Brief",
+    "title": "Consumers Will Never Pay for AI",
+    "url": "https://www.youtube.com/watch?v=J3n4IUwmuOM",
+    "video_id": "J3n4IUwmuOM"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-09",
+    "topic": "model_releases",
+    "title": "Mellum2.1 Gets to Work: A Fast Open Model for Coding Agents - The JetBrains Blog",
+    "url": "https://blog.jetbrains.com/ai/2026/10/mellum2-1-gets-to-work-a-fast-open-model-for-coding-agents/",
+    "snippet": "# Mellum2.1 Gets to Work: A Fast Open Model for Coding Agents - The JetBrains Blog\n\nAuthor: Bulat Salimzianov\nPublished: 2026-10-08T12:00:00Z\nSource: blog.jetbrains.com\nLanguage: en\n\n## Story\n\nMellum2.1 Gets to Work: A Fast Open Model for Coding Agents - The JetBrains Blog\n\n# Mellum2.1 Gets to Work: A Fast Open Model for Coding Agents\n\n \n\n Bulat Salimzianov \n\nTrained with reinforcement learning in"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-09",
+    "topic": "model_releases",
+    "title": "Google Cloud launches Gemini agent",
+    "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-at-work/",
+    "snippet": "Google Cloud launches Gemini agent\n\n# Google Cloud introduces the Gemini agent.\n\nOct 08, 2026\n\nToday at Gemini at Work 2026, Google Cloud announced the Gemini agent, a universal agent for work.\n\nWith Gemini, work now starts in the prompt window:\n\n- Gemini has all of an organization\u2019s business context and can be used for everything from knowledge work to answering questions, and content creation to"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-09",
+    "topic": "model_releases",
+    "title": "OpenAI GPT-6 launched Oct 8 2026: 10M token context + Codex + agentic workflows (full specs + pricing) \u00b7 TechPulse",
+    "url": "https://techpulse.press/news/openai-gpt-6-launch-october-8-2026/",
+    "snippet": "OpenAI GPT-6 launched Oct 8 2026: 10M token context + Codex + agentic workflows (full specs + pricing) \u00b7 TechPulse\n...\nOpenAI GPT-6 launched Oct 8, 2026: 10M token context + Codex + persistent memory. $5/$25 pricing, ChatGPT Pro $200/mo. EU rollout Q1 2027. vs Claude Opus 5.5 + Gemini 4 Argon.\n...\nOpenAI launched GPT-6 on October 8, 2026 \u2014 the company's flagship next-generation language model, wit"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-09",
+    "topic": "model_releases",
+    "title": "Odyssey unveils Odyssey-3 world model for robots, cars - Updater News",
+    "url": "https://updater.news/odyssey-unveils-odyssey-3-world-model-for-robots-cars/",
+    "snippet": "Odyssey unveils Odyssey-3 world model for robots, cars - Updater News\n\n# Odyssey unveils Odyssey-3 world model for robots, cars\n...\n- Odyssey released Odyssey-3 on Thursday and says the world model can run robot arms, humanoids, drones and cars, according to the company's announcement`businesswire`.\n- Odyssey says a driving policy trained on about 20 hours of simulated data drove on roads in India"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-09",
+    "topic": "model_releases",
+    "title": "Liquid AI releases two open-weight d1 decision models for\u2026 | Pivot News",
+    "url": "https://pivotnews.ai/five/liquid-ai-releases-two-open-weight-d1-decision-models-for",
+    "snippet": "Liquid AI releases two open-weight d1 decision models for\u2026 | Pivot News\n\n# Liquid AI releases two open-weight d1 decision models for edge hardware\n\nLiquid AI says d1-3B answers a question in 8 ms on an RTX 4090 and 50 ms on a Jetson Orin Nano, while the smaller d1-omni-600M, which also handles audio, ships as an experimental checkpoint with no published speed numbers.\n\nJames Okafor October 9, 2026"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-09",
+    "topic": "product_releases",
+    "title": "No Coding Needed: Google's New AI Tool Builds Games From Your Ideas",
+    "url": "https://www.techrepublic.com/article/news-google-playground-ai-game-builder-no-code/",
+    "snippet": "Google launches Playground, an AI game-building platform that turns text prompts into playable games without coding. Here\u2019s how it works and who can use it. \n\nWritten By\n\n Aminu Abdullahi \n\n Oct 9, 2026 \n\n \n\nGoogle\u2019s new Playground lets anyone create games with a few prompts ... Image: Google\n...\nThe company announced Playground on Wednesday, an experimental AI platform that lets users create brow"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-09",
+    "topic": "product_releases",
+    "title": "Google has released 'Google AI Edge Foresight,' a macOS note-taking app that uses AI assistants like Gemma 2 and Gemma 4 to record meetings. - GIGAZINE",
+    "url": "https://gigazine.net/gsc_news/en/20261009-google-ai-edge-foresight/",
+    "snippet": "Google has released 'Google AI Edge Foresight,' a macOS note-taking app that uses AI assistants like Gemma 2 and Gemma 4 to record meetings. - GIGAZINE\n...\n# Google has released 'Google AI Edge Foresight,' a macOS note-taking app that uses AI assistants like Gemma 2 and Gemma 4 to record meetings.\n\n Google has released ' Google AI Edge Foresight, ' a note-taking app for macOS that uses AI to recor"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-09",
+    "topic": "product_releases",
+    "title": "Google has announced 'Gemini Agent,' an AI that automates tasks, handling everything from information research and document creation to programming. - GIGAZINE",
+    "url": "https://gigazine.net/gsc_news/en/20261009-gemini-agent/",
+    "snippet": "Google has announced 'Gemini Agent,' an AI that automates tasks, handling everything from information research and document creation to programming. - GIGAZINE\n...\n# Google has announced 'Gemini Agent,' an AI that automates tasks, handling everything from information research and document creation to programming.\n\n At its 'Gemini at Work 2026' event held on October 8, 2026, Google announced 'Gemin"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-09",
+    "topic": "product_releases",
+    "title": "Natura\u2019s $99 smart ring puts AI agents on your finger | TechCrunch",
+    "url": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
+    "snippet": "Natura\u2019s $99 smart ring puts AI agents on your finger | TechCrunch\n\n# Natura\u2019s $99 smart ring puts AI agents on your finger\n\n Aisha Malik \n\n9:00 AM PDT \u00b7 October 8, 2026\n\nMeet Interface, a new $99 smart ring from AI and hardware startup Natura that\u2019s designed for the era of AI agents. With a press of your finger, you can ask an AI agent to complete a task, capture thoughts, and get things done wit"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-09",
+    "topic": "product_releases",
+    "title": "OpenAI Launches GPT-5.6 and ChatGPT Work Following Federal Clearance",
+    "url": "https://www.ai.cm/article/openai-launches-gpt-56-and-chatgpt-work-following-federal-clearance/",
+    "snippet": "OpenAI Launches GPT-5.6 and ChatGPT Work Following Federal Clearance\n\n# OpenAI Launches GPT-5.6 and ChatGPT Work Following Federal Clearance\n\n Chat Gpt By Noah Brooks Oct 09, 2026 00:32 \n\nOpenAI has officially released its GPT-5.6 model suite and launched ChatGPT Work, targeting autonomous enterprise execution after clearing federal regulatory review.\n\nFollowing a two-week regulatory holding patte"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-09",
+    "topic": "ai_agents",
+    "title": "Announcing Genkit Dart 1.0: Build production-ready agentic apps with Dart and Flutter | The Flutter Blog",
+    "url": "https://flutter.dev/blog/announcing-genkit-dart-1-0",
+    "snippet": "Announcing Genkit Dart 1.0: Build production-ready agentic apps with Dart and Flutter | The Flutter Blog \n\n# Announcing Genkit Dart 1.0: Build production-ready agentic apps with Dart and Flutter\n\n Announcing the stable 1.0 release of Genkit Dart, an open-source framework for building AI-powered features and agentic workflows with Dart and Flutter. \n\n \n\n### Chris Gill \n\nOct 8, 2026 \u00b7 6 min read\n\n D"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-09",
+    "topic": "ai_agents",
+    "title": "Docker Launches docker-agent, an Open-Source AI Agent Framework | LavX News",
+    "url": "https://news.lavx.hu/article/docker-launches-docker-agent-an-open-source-ai-agent-framework",
+    "snippet": "Docker Launches docker-agent, an Open-Source AI Agent Framework | LavX News\n\n# Docker Launches docker-agent, an Open-Source AI Agent Framework\n...\nDocker is betting that AI agents belong in containers. Its new docker-agent CLI plugin lets developers define, run, and share AI agents with declarative YAML config and multi-agent orchestration.\n\nDocker is betting that AI agents belong in containers. ."
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-09",
+    "topic": "ai_agents",
+    "title": "IndiaAI-Backed Soket AI Launches LOOP For Long-Running AI Agents",
+    "url": "https://www.ciol.com/news/indiaai-backed-soket-ai-launches-loop-for-long-running-ai-agents-12659054",
+    "snippet": "IndiaAI-Backed Soket AI Launches LOOP For Long-Running AI Agents\n\n# IndiaAI-Backed Soket AI Launches LOOP For Long-Running AI Agents \n\n## IndiaAI Mission-backed Soket AI has introduced LOOP, an open-source agent harness designed for long-running AI tasks, with support for multiple models, shared memory and session management \n\nManisha Sharma\n\n 09 Oct 2026 11:28 IST\n\nBengaluru-based Soket AI, a res"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-09",
+    "topic": "ai_agents",
+    "title": "OutSystems Agent Experience Is Now Generally Available, Bringing Governed AI Development to Any Coding Agent - PR Newswire APAC",
+    "url": "https://en.prnasia.com/releases/apac/outsystems-agent-experience-is-now-generally-available-bringing-governed-ai-development-to-any-coding-agent-550894.shtml",
+    "snippet": "SINGAPORE, Oct. 8, 2026 /PRNewswire/ -- OutSystems, a leading Agentic Systems Platform for the enterprise, today announced the general availability of the Agent Experience at OutSystems World Tour Las Vegas. Agent Experience opens the OutSystems platform to any AI coding agent including Claude Code, Cursor, Codex, and Kiro.\n...\nOutSystems Agent Experience means even the most regulated enterprises "
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-09",
+    "topic": "ai_small_business",
+    "title": "Meta turns Muse into a working agent for small businesses | AI Provider Index",
+    "url": "https://aiproviderindex.com/news/meta-turns-muse-working-agent-small-businesses",
+    "snippet": "Meta has launched Muse for Small Business, extending its personal AI agent with business context, connectors and proactive workflows. Owners can link common commerce, finance, productivity and social tools, while approval gates are intended to stop Muse from publishing, sending messages or spending money without consent.\n...\nMeta has launched Muse for Small Business, positioning its personal AI ag"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-09",
+    "topic": "ai_small_business",
+    "title": "Empowering SMBs to do more with Gemini \u2014 Web Pulse",
+    "url": "https://wpnews.pro/news/empowering-smbs-to-do-more-with-gemini",
+    "snippet": "Today, we announced the new Gemini agent, your single, universal agent for work. For small and midsize businesses, with lean teams and margins, Gemini will be a critical tool for you to operate efficiently, deliver excellent customer experiences, and grow.\n\nMillions of small and midsize businesses, or SMBs, already trust Google AI across multiple services, like Gemini Enterprise, Google Ads, and G"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-09",
+    "topic": "ai_small_business",
+    "title": "The AI Visibility Tool Built for Main Street, Not the Fortune 500 | TRESTLEWIRE",
+    "url": "https://www.trestlewire.com/article/optimize-my-geo-ai-visibility-small-business",
+    "snippet": "Optimize My GEO started as a hands-on agency for local clients and became software that measures how often AI assistants recommend a business, then writes the fixes. It is aimed at the small and mid-sized businesses enterprise tools skip.\n...\n- \u2022 OMG is built for small and mid-sized businesses, a group the SBA counts at 36.2 million in the U.S.\n- \u2022 The platform covers six AI engines. Starter is $9"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-09",
+    "topic": "ai_small_business",
+    "title": "Gemini agent: what it is and how coworker agents work",
+    "url": "https://newfacedesign.com/blog/gemini-agent",
+    "snippet": "Gemini agent is Google Cloud's new work assistant. It answers questions, does knowledge work, makes images and writes code, and it keeps running in the cloud after you close your laptop. You can also set it up as a \"coworker agent\" with its own Google Workspace account: an email address, a calendar, Drive storage and a listing in your company directory.\n\nGoogle Cloud CEO Thomas Kurian announced it"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-09",
+    "topic": "ai_small_business",
+    "title": "ImpactFactory.ai Version 1.8 Introduces MIA, a Virtual Chief Marketing Officer to Coordinate AI-Powered Marketing - EIN Presswire",
+    "url": "https://www.einnews.com/pr_news/947872280/impactfactory-ai-version-1-8-introduces-mia-a-virtual-chief-marketing-officer-to-coordinate-ai-powered-marketing",
+    "snippet": "CHICAGO, IL, UNITED STATES, October 8, 2026 / EINPresswire.com/ -- ImpactFactory.ai today announced the release of Version 1.8, introducing a new generation of AI agents designed to make sophisticated marketing management easier and more accessible for small businesses. At the center of the release is MIA \u2014 short for Marketing Intelligence Advisor \u2014 Impact Factory\u2019s new Virtual Chief Marketing Off"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-09",
+    "topic": "ai_labs",
+    "title": "2026 Usage Policy update \\ Anthropic",
+    "url": "https://www.anthropic.com/news/2026-usage-policy-update",
+    "snippet": "2026 Usage Policy update \\ Anthropic\n\n# 2026 Usage Policy update\n\nOct 8, 2026\n\nEach year, Anthropic updates its Usage Policy in response to the evolving capabilities of our models, and the feedback we\u2019ve received from our customers. We're publishing a new version of the policy today. In this post, we summarize the changes we\u2019ve made.\n\nMost of the updates in the latest version are intended to clari"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-09",
+    "topic": "ai_labs",
+    "title": "An opt-in vulnerability-finding service for open-source software \\ Anthropic",
+    "url": "https://www.anthropic.com/research/launching-opt-in-vuln-finding-service-for-open-source",
+    "snippet": "# An opt-in vulnerability-finding service for open-source software \\ Anthropic\n...\n# Launching an opt-in vulnerability-finding service for open-source software\n...\nWe\u2019re launching OSS Scanner, an opt-in vulnerability scanner for the open-source ecosystem informed by our experience using Claude to find vulnerabilities during Project Glasswing. Projects that join will receive thorough, periodic secu"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-09",
+    "topic": "ai_labs",
+    "title": "Introducing the Anthropic Cyber Mission \\ Anthropic",
+    "url": "https://www.anthropic.com/news/anthropic-cyber-mission",
+    "snippet": "Introducing the Anthropic Cyber Mission \\ Anthropic\n\n# Introducing the Anthropic Cyber Mission\n...\nToday we\u2019re launching the Anthropic Cyber Mission, a long-term commitment to securing the systems everyone depends on. The Cyber Mission is a new effort to support defenders with tools, research, and resources to secure their software and systems. We\u2019re starting with two areas:\n\n- Critical infrastruc"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-09",
+    "topic": "ai_labs",
+    "title": "Gemini 4 Argon: our next era of frontier intelligence - Google Blog",
+    "url": "https://blog.google/intl/en-in/products/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+    "snippet": "Gemini 4 Argon: our next era of frontier intelligence\n\n# Gemini 4 Argon: our next era of frontier intelligence\n\n Gemini 4 Argon delivers frontier performance in complex workflows across real-world software engineering, enterprise knowledge work like legal and finance, and cybersecurity defense. \n\nKoray Kavukcuoglu\n\nSVP, Google DeepMind and Chief AI Architect, Google\n\n \n\nToday, we\u2019re announcing our"
   }
 ]
