@@ -26110,5 +26110,215 @@
     "title": "Gemini 4 Argon: our next era of frontier intelligence - Google Blog",
     "url": "https://blog.google/intl/en-in/products/gemini-4-argon-our-next-era-of-frontier-intelligence/",
     "snippet": "Gemini 4 Argon: our next era of frontier intelligence\n\n# Gemini 4 Argon: our next era of frontier intelligence\n\n Gemini 4 Argon delivers frontier performance in complex workflows across real-world software engineering, enterprise knowledge work like legal and finance, and cybersecurity defense. \n\nKoray Kavukcuoglu\n\nSVP, Google DeepMind and Chief AI Architect, Google\n\n \n\nToday, we\u2019re announcing our"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-10-10",
+    "headline": "Small business AI agents showed up all at once this week. Meta's Muse for Small Business is free, Town is going after the inbox, and Traddie's Jodie handles trade admin.",
+    "url": "archive/2026-10-10.html",
+    "posts": {
+      "linkedin": [
+        "Meta just made an AI agent for small businesses, and it's free.\n\nIt plugs into Shopify, QuickBooks, Canva, Stripe, Slack. You ask what you're missing on your Instagram and it tells you. It can look at sales, build ad campaigns, review cash flow.\n\nSo the agent is no longer the hard part.\n\nThe hard part is permissions.\n\nAn analyst at Coresight said it plainly. Using one of these without thinking through what you're giving it permission to do could cause a disaster.\n\nWho sees the books? Can it spend ad money on its own? Can it email a customer before you read it?\n\nMost owners won't ask until something goes sideways. They'll click connect, connect, connect.\n\nThat's the gap. Not building the agent. Sitting next to an owner and deciding what it's allowed to touch.\n\nWould someone pay for that? I think someone would pay for that.",
+        "Asana's browser agent got 76x cheaper and 5x faster in their tests.\n\nNo magic model. The agent was resending its entire history at full price on every request. The instructions were cached. The growing pile of page text and screenshots wasn't.\n\nThe workflow fix alone was about 29x. Switching models got the rest.\n\nHere's the part I like more than the savings. With a bigger memory budget, one setup went from finishing 3 of 18 runs to all 18. Same model. It was just forgetting what it was doing.\n\nWhen an agent is slow, expensive or flaky, the model is rarely the first suspect. Look at what you're feeding it, and how many times you're paying to feed it the same thing.\n\nBefore you swap models, read what each call actually sent.\n\nWhat's the part of your stack you've never actually looked at?",
+        "A guy on Corey Ganim's podcast says his company tracked a million dollars in its first month brokering company data to AI labs.\n\nAverage deal around $300K. One reportedly hit $10 million. Those are his numbers, and he's selling this, so take them that way.\n\nBut here's what stuck with me. The labs don't want a pile of files. They want to watch how work moves. A client email comes in, the team talks it through in Slack, they pick a fix, it goes back to the client.\n\nHis own business mostly ran on phone calls. Pick up the phone, call the homeowner. None of it was recorded. To an AI it just looked like ticket created, ticket closed.\n\nA lot of small businesses run exactly like that. The real process lives in people's heads and on their phones.\n\nWhich means the stuff worth money, to a buyer or to your own AI, is usually the stuff nobody wrote down.\n\nWhat are you already doing every day that nobody's captured?"
+      ],
+      "threads": [
+        "There's a UK app for tradespeople called Traddie with an AI agent named Jodie. She chases overdue invoices, drafts invoices for finished jobs, fills a Screwfix basket.\n\nThe part I like is the rule. She shows you what she's about to do and waits for your yes.\n\nThat's the whole trick with agents for small business. Not smarter. Just asks first. A plumber will hand off the paperwork way sooner than he'll hand off the send button.",
+        "Anthropic put out a report on things Claude did that nobody meant it to do during evals and internal use. All of it touched the live internet.\n\nTheir fixes are mostly plumbing. Evals rebuilt so they don't hit real sites, tighter limits on the web fetch tool, and a monitor that blocked every case in the report when they tested it.\n\nI'm still reading it. But a lab saying here's what our model did beats finding out later.",
+        "ChatGPT ads have an official help page now. They show below the answer, and not for Plus, Pro or Business users. It's a second-price auction, and OpenAI suggests starting around $3 to $5 a click.\n\nFor a local business, someone asking ChatGPT who can fix something is already mid-decision.\n\nI'm not saying go buy it. I'm saying watch it, because everyone not on those paid plans is who'll see the ads."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-10-10",
+    "source": "Corey Ganim",
+    "title": "he made $1,000,000 in 30 days as an AI data broker",
+    "url": "https://www.youtube.com/watch?v=8DAyeNK6VOg",
+    "video_id": "8DAyeNK6VOg"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-10",
+    "topic": "model_releases",
+    "title": "Microsoft-Decision-1: Our model for fast decision-making",
+    "url": "https://commandline.microsoft.com/microsoft-decision-1-model-foundry/",
+    "snippet": "# Microsoft-Decision-1: Our model for fast decision-making\n...\nMicrosoft-Decision-1: Our model for fast decision-making\n\n# Introducing Microsoft-Decision-1, our model for fast decision-making\n\nOur new decision-scoring model delivers top performance in latency and quality on structured decision tasks to outperform both LLMs and other decision models.\n...\nToday we\u2019re introducing Microsoft-Decision-1"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-10",
+    "topic": "model_releases",
+    "title": "Google's First Gemini 4 Model, Argon, Avoids Hallucinations and Shines at Knowledge Work",
+    "url": "https://www.deeplearning.ai/the-batch/argon-a-low-hallucination-model-build-for-knowledge-work",
+    "snippet": "Google's First Gemini 4 Model, Argon, Avoids Hallucinations and Shines at Knowledge Work\n\n# Argon, A Low-Hallucination Model Build for Knowledge Work Google's first Gemini 4 Model, Argon, avoids hallucinations and shines at knowledge work\n...\nGoogle took over half a year before it replaced its flagship AI model, Gemini 3.1 Pro Preview. Now as then, the company\u2019s latest release is among the leaders"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-10",
+    "topic": "model_releases",
+    "title": "Introducing Beam: Reflection's 501B open-weight model",
+    "url": "https://news.puhulab.com/raw/feeds/2026-10-05-reflection-beam-official-blog",
+    "snippet": "Introducing Beam: Reflection's 501B open-weight model\n\n# Introducing Beam: Reflection's 501B open-weight model\n\n09 Eki 2026 1 dakika okuma s\u00fcresi\n\nReflection AI introduced Beam on October 5, 2026 \u2014 its first open-weight model. Beam is a sparse Mixture-of-Experts model with 501 billion total parameters and 23 billion active, built for coding, reasoning, and agentic workloads.\n\nBeam was pretrained o"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-10",
+    "topic": "model_releases",
+    "title": "Mellum2.1 Is 2.5B Active. SWE-bench Is Self-Reported - TechPulse",
+    "url": "https://thefocusdigital.com/posts/mellum21-25b-active-swe-self-reported-2026/",
+    "snippet": "Mellum2.1 Is 2.5B Active. SWE- ... Is Self-Reported - TechPulse\n\n AI Tools & Prompts October 10, 2026 9 min read \n\n# Mellum2.1 Is 2.5B Active. SWE-bench Is Self-Reported\n\nJetBrains shipped Mellum2.1 on Oct 8 on the same 12B MoE. The Hugging Face card lists 47% SWE-Verified. GGUF is still coming soon.\n\n \u270d\ufe0f Written by TechPulse Editorial \n\n \n\nJetBrains posted Mellum2.1 as the next 12B mixture-of-exp"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-10",
+    "topic": "product_releases",
+    "title": "Unbiased Chat is live | Unbiased AI",
+    "url": "https://unbiased.ai/blog/unbiased-chat/",
+    "snippet": "Unbiased Chat is live | Unbiased AI\n\n# Unbiased Chat is live\n\nPareto in a chat window. Several models on every question, one answer, $10 a month.\n\nBy The Unbiased team \u00b7 October 9, 2026\n\nIncluded with Personal and Personal Max. Sign in with your Unbiased account.\n\nChat saves conversations and is not the zero-data-retention tier.\n\nMost people who pay for AI chat pay for one company's opinion. ChatG"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-10",
+    "topic": "product_releases",
+    "title": "Introducing Datology Curation Studio",
+    "url": "https://www.datologyai.com/blog/introducing-datology-curation-studio",
+    "snippet": "Introducing Datology Curation Studio\n\n# Introducing Datology Curation Studio\n\nDatology Curation Studio makes frontier data curation available to every AI team, packaging our data research into a product you configure to refine your data into high-quality fuel for training frontier-level models at scale.\n\nDatologyAI\u00b7 09 Oct, 2026\n...\nToday we are proud to launch the Datology Curation Studio. Curati"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-10",
+    "topic": "product_releases",
+    "title": "Wren AI Is Now Live in the ChatGPT App Directory \u2014 Web Pulse",
+    "url": "https://wpnews.pro/news/wren-ai-is-now-live-in-the-chatgpt-app-directory",
+    "snippet": "Wren AI Is Now Live in the ChatGPT App Directory \u2014 Web Pulse\n\n# Wren AI Is Now Live in the ChatGPT App Directory\n\nWren AI launched in the ChatGPT app directory on Oct 10, 2026, letting users connect company databases and ask business questions in plain language inside ChatGPT, with answers returned from live data alongside the generated SQL, visuals, and business context. Wren AI said the integrat"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-10",
+    "topic": "product_releases",
+    "title": "OpenAI Launches Composer Predictions Beta in Codex \u2014 METAL",
+    "url": "https://metallab.ai/en/2026/10/openai-codex-composer-predictions",
+    "snippet": "OpenAI Launches Composer Predictions Beta in Codex \u2014 METAL\n\n# OpenAI Launches Composer Predictions Beta in Codex\n\nOpenAI has added composer predictions, which suggest a user's next message, to the Codex desktop app in beta. Accepting a suggestion with Tab does not send it automatically, and generating predictions does not count toward usage limits during the beta.\n...\n- On October 9, OpenAI launch"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-10",
+    "topic": "product_releases",
+    "title": "Pine AI Introduces Pine Computer, a Computer Built for AI - TNGlobal",
+    "url": "https://technode.global/prnasia/pine-ai-introduces-pine-computer-a-computer-built-for-ai/",
+    "snippet": "Pine AI Introduces Pine Computer, a Computer Built for AI - TNGlobal\n\n# Pine AI Introduces Pine Computer, a Computer Built for AI\n...\nSAN FRANCISCO, Oct. 10, 2026 /PRNewswire/ \u2014 Pine AI today introduced Pine Computer, a computer built for AI, now in private beta for developers. Through an SDK, a developer\u2019s product creates a Pine Computer when a job needs one and hands it the job. Pine Computer ca"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-10",
+    "topic": "ai_agents",
+    "title": "Cohere Launches North 2 AI Agent Platform with Enhanced Orchestration | Tech Pulse | TheNextGenTechInsider",
+    "url": "https://www.thenextgentechinsider.com/pulse/cohere-launches-north-2-ai-agent-platform-with-enhanced-orchestration",
+    "snippet": "# Cohere Launches North 2 AI Agent Platform with Enhanced Orchestration\n\nCohere Inc. has launched North 2, a platform designed for deploying enterprise AI agents. It introduces a rebuilt orchestration engine and administrative tools to manage token consumption and security.\n\nHiren Dave\n\nFounder\n\nOct 10, 2026\u2022 4 min read\n\nThe system manages multi-step tasks autonomously while incorporating human-in"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-10",
+    "topic": "ai_agents",
+    "title": "Use OpenJev as the evaluator for... (Oct 9, 2026)",
+    "url": "https://releases.fru.dev/releases/agent-bricks-2026-10-09-use-openjev-as-the-evaluator-for-llm-as-a-judge-service-policies-beta",
+    "snippet": "## More Agent Bricks and Mosaic AI releases\n...\n### Agent Bricks documentation for code-first agent development\n\nThe Agent Bricks documentation now centers on building, deploying, and running custom agents in code. See Develop agents on Databricks : Agent compute stack : New pages describe how a deployed agent's framework or harness, agent server, and agent runtime fit together. See Deploy agents "
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-10",
+    "topic": "ai_agents",
+    "title": "openJiuwen Releases Enterprise-Grade AgentOS as Open Source to Scale Agent Adoption | AI News Feed",
+    "url": "https://ainewsfeed.tech/articles/openjiuwen-releases-enterprise-grade-agentos-as-open-source-to-scale-agent-adoption-27612-en-us-v1/",
+    "snippet": "openJiuwen has released and open-sourced an enterprise-grade AgentOS that brings multi-agent collaboration, self-evolution, compute affinity, and enterprise security into one foundation for large-scale agent deployment. The platform is part of an open ecosystem and an all-in-one acceleration offering announced at Huawei Connect 2026.\n...\nopenJiuwen has released and open-sourced an enterprise-grade"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-10",
+    "topic": "ai_agents",
+    "title": "Pervaziv AI turns Cortex into an always-on enterprise workhorse, not just a chatbot",
+    "url": "https://cbherald.net/ai-business/pervaziv-ai-turns-cortex-into-an-always-on-enterprise-workhorse-not-just-a-chatbot/",
+    "snippet": "The gap between asking an AI a question and actually getting enterprise work done has always been where productivity goes to die. Pervaziv AI\u2019s latest Cortex expansion directly targets that dead zone, promising a platform that doesn\u2019t just answer but follows an objective through interruptions, tool changes, and team handoffs.\n\nCortex Pulse, workflow automation, multi agent worktrees, long horizon "
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-10",
+    "topic": "ai_small_business",
+    "title": "Town Wants To Turn Office Busywork Into Bot Work",
+    "url": "https://www.forbes.com/sites/annatong/2026/10/09/town-wants-to-turn-office-busywork-into-bot-work/",
+    "snippet": "Town Wants To Turn Office Busywork Into Bot Work\n\n# Town Wants To Turn Office Busywork Into Bot Work\n\nBy Richard Nieva,\n\nSenior Writer\n\nand Anna Tong,\n\nForbes Staff.\n\nOct 09, 2026, 06:30am EDT\n\nM ost small business owners do not need an AI assistant to dream bigger. They need one that can read the calendar, summarize the inbox, prep the next meeting and know when to ask permission before messing w"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-10",
+    "topic": "ai_small_business",
+    "title": "How Meta\u2019s Muse AI Agent Is Helping Small Businesses Save Time",
+    "url": "https://www.uschamber.com/co/good-company/the-leap/meta-muse-small-business-ai",
+    "snippet": "As AI shifts from emerging tech to everyday business infrastructure, Meta\u2019s Muse for Small Business, an AI agent built to work across the digital tools owners already use, points to a more practical phase of adoption. The benefit is not simply automation; it\u2019s designed to give lean teams access to capabilities they often lack, from campaign analysis and customer follow-up to financial review and i"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-10",
+    "topic": "ai_small_business",
+    "title": "The Tech Big Companies Take for Granted: How Ex-Bain Founder Aarohi K. Is Bringing AI to India\u2019s Small Businesses - The Business Stories",
+    "url": "https://thebusinessstories.com/the-tech-big-companies-take-for-granted-how-ex-bain-founder-aarohi-k-is-bringing-ai-to-indias-small-businesses/",
+    "snippet": "Aarohi K., Founder of Yuvaco (yuvaco.com), built her company to fix exactly that.\n...\n\u00b7 The gap: MSMEs generate roughly 30 per cent of India\u2019s GDP, yet few get enterprise-grade tools.\n\n\u00b7 The fix: Yuvaco\u2019s AI assistants answer, qualify and book customers around the clock.\n...\n\u00b7 What\u2019s next: An AI project management platform, launching in the coming months.\n...\nFor a clinic, a developer or a local s"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-10",
+    "topic": "ai_small_business",
+    "title": "10 Hours to 10 Seconds V2 Review (AI Automation)",
+    "url": "https://www.swarmdigital.io/blog/10-hours-to-10-seconds-v2-review-does-it-work/",
+    "snippet": "\"10 Hours to 10 Seconds V2\" is an AI automation training course created by Nate Herk, built around a simple pitch: businesses waste hours on manual, repetitive tasks that AI tools can now compress into seconds, and you can sell that transformation as a packaged service. The course walks through identifying automation opportunities inside a business (usually workflows involving lead intake, follow-"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-10",
+    "topic": "ai_small_business",
+    "title": "Jodie: AI Assistant for Tradesmen That Does Admin | Traddie",
+    "url": "https://www.gettraddie.com/blog/jodie-ai-assistant-for-tradesmen",
+    "snippet": "Jodie is the AI agent inside Traddie for UK trades. She orders materials, chases late payers and invoices finished jobs, and nothing goes until you say yes.\n...\n- Jodie is an AI agent built into the Traddie app for UK tradespeople. You type what you need in plain English and she does the work inside your Traddie account: chasing overdue invoices, drafting invoices for finished jobs, moving jobs, s"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-10",
+    "topic": "ai_labs",
+    "title": "Investigating unintended model actions in our evaluations and internal use \\ Anthropic",
+    "url": "https://www.anthropic.com/research/investigating-unintended-model-actions",
+    "snippet": "# Investigating unintended model actions in our evaluations and internal use \\ Anthropic\n...\nSource: anthropic.com\n...\nInvestigating unintended model actions in our evaluations and internal use \\ Anthropic\n\n# Investigating unintended model actions in our evaluations and internal use\n...\nThis report describes examples of unintended model actions we\u2019ve observed during evaluations and internal use of"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-10",
+    "topic": "ai_labs",
+    "title": "Composer predictions in Codex  | OpenAI Help Center",
+    "url": "https://help.openai.com/en/articles/20001601-composer-predictions-in-codex",
+    "snippet": "Composer predictions in Codex | OpenAI Help Center\n\n# Composer predictions in Codex \n\nGet suggestions for your next message.\n...\nComposer predictions is in beta for users aged 18 and older on personal ChatGPT Pro plans in all supported regions. It\u2019s available in local and SSH threads in the Codex desktop app with GPT-6 Astra and GPT-6.1 Sol.\n...\nComposer predictions is a beta feature that suggests"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-10",
+    "topic": "ai_labs",
+    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol | OpenAI",
+    "url": "https://openai.com/index/asana-browser-agent/",
+    "snippet": "# Asana cuts model costs 76x in browser tests with GPT-6.1 Sol | OpenAI\n...\nAsana cuts model costs 76x in browser tests with GPT-6.1 Sol | OpenAI\n...\n# Asana cuts model costs 76x in browser tests with GPT\u20116.1 Sol\n\nUsing GPT\u20116 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.\n...\nWith GPT\u20116 Astra in Codex running experiments, Asa"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-10",
+    "topic": "ai_labs",
+    "title": "2026-10-09 - TLDR AI",
+    "url": "https://ai.tldr.tech/p/2026-10-09-tldr-ai",
+    "snippet": "09 -\n...\nGPT-6.1 Ultrafast \u26a1, Gemini universal agent \ud83e\udd16, speculative decoding \ud83e\udde0\n...\n| Gemini Agent (18 minute read) Google introduced a universal Gemini agent that could autonomously handle knowledge work, media creation, coding, and multi-step workflows across Workspace and other enterprise tools. It also added persistent context, multi-agent orchestration, model routing, governance, and cost cont"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-10",
+    "topic": "ai_labs",
+    "title": "Ads in ChatGPT: The Basics | OpenAI Help Center",
+    "url": "https://help.openai.com/en/articles/20001207-ads-in-chatgpt-the-basics",
+    "snippet": "Ads in ChatGPT: The Basics | OpenAI Help Center\n\n# Ads in ChatGPT: The Basics\n\nAn introduction to the ChatGPT Ads experience for advertisers, including ad format, delivery, pricing, and measurement.\n\nUpdated: 24 hours ago\n\nAds in ChatGPT help advertisers reach users as they explore, compare, and decide within a single conversational experience. By considering the context of the current conversatio"
   }
 ]
