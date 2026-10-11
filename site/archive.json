@@ -26320,5 +26320,167 @@
     "title": "Ads in ChatGPT: The Basics | OpenAI Help Center",
     "url": "https://help.openai.com/en/articles/20001207-ads-in-chatgpt-the-basics",
     "snippet": "Ads in ChatGPT: The Basics | OpenAI Help Center\n\n# Ads in ChatGPT: The Basics\n\nAn introduction to the ChatGPT Ads experience for advertisers, including ad format, delivery, pricing, and measurement.\n\nUpdated: 24 hours ago\n\nAds in ChatGPT help advertisers reach users as they explore, compare, and decide within a single conversational experience. By considering the context of the current conversatio"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-10-11",
+    "headline": "Gusto let owners run payroll by talking to Claude. Claude prepares everything, and the owner approves before anything executes.",
+    "url": "archive/2026-10-11.html",
+    "posts": {
+      "linkedin": [
+        "Gusto just let you run payroll by talking to Claude.\n\nAdd a bonus. Update hours. Pull labor costs into a budget sheet.\n\nHere's the part I care about. Claude prepares all of it, and the owner has to approve before anything actually runs.\n\nDraft by the AI. Decision by the human.\n\nA guy at Ox Asphalt is pulling timesheets into Claude to see which crew ran long, then using that to fix his scheduling. Real data instead of gut feeling.\n\nSame week, another tool launched as an \"AI coworker\" for quotes, emails and posts. The best take I read on it was boring on purpose. Nothing sends, posts, pays or quotes without a human approval trail.\n\nThat's the move for anybody selling AI to small businesses too.\n\nStart with drafts. Keep a log of what it prepared, what it used, who approved it, and what changed.\n\nAnd if reviewing the draft takes longer than doing the task yourself, the tool isn't ready yet.\n\nSo before you connect AI to anything that touches customers or money, what's the one thing it's never allowed to do on its own?",
+        "Anthropic opened a beta where one agent writes the plan and hands pieces to up to 1,000 sub-agents.\n\nTheir test: 116,000 lines of code with 70 bugs planted in it. The multi-agent setup found 66 across three runs. A single agent found somewhere between 14 and 27 per run.\n\nSame model family. Different setup.\n\nThat's the part that sticks with me. The gap wasn't a smarter brain. It was a better division of labor.\n\nWhich, if you've ever run a small team, isn't news. One person doing everything misses stuff. Five people with clear lanes catch it.\n\nNow the honest caveat. They didn't share cost or time. It bills on tokens plus eight cents an hour of session time, and hundreds of agents burning tokens could get expensive fast. So I don't know yet if it's practical for everyday work.\n\nBut I'd watch it. The interesting shift is the AI designing the workflow instead of me drawing the flowchart.\n\nWould someone pay for a checker that never gets tired? I think someone would pay for that.",
+        "OpenAI's revenue was about 50 billion annualized. Not 68.\n\nThe 68 number floated around last month. Turns out it came from an investor, not OpenAI. The investor was trying to compare apples to apples with Anthropic.\n\nHere's why the numbers don't match. Anthropic quotes gross revenue, including what gets passed to partners like Amazon and Microsoft. OpenAI reports net, after the split.\n\nNeither one is lying. They're counting different things.\n\nAnd Wall Street reacted like OpenAI missed an earnings report. Nvidia down 3%. Oracle down 5.5%. On a number the company never published.\n\nI keep coming back to the boring lesson. When somebody hands you a number, ask what's inside it.\n\nGross or net. A day or a month. Booked or collected.\n\nSame goes for \"traffic is up 40%.\" Up from what, measured how?\n\nAnthropic's audited numbers are coming, and the same question lands on them.\n\nWhat's the number in your world nobody's ever asked the definition of?"
+      ],
+      "threads": [
+        "Reported, not confirmed: Meta dropped Llama 4 Scout. 105B parameters, 24B active, a million-token context, and it supposedly runs on one 4090 in 4-bit.\n\nIf that holds, a small business could run a serious model on a box in the office. No per-token bill. No data leaving the building.\n\nThe catch is it all comes from one community post, not Meta.\n\nI'll wait for somebody to replicate it before I tell a client anything.",
+        "ElevenLabs shipped Architect. It reads your voice agent's failed calls, finds the cause, proposes a fix, and tests it with simulated calls.\n\nNothing goes live until you approve it, and you can roll back.\n\nTheir example was repeat calls caused by a mistake in a payment script.\n\nThat's the maintenance nobody budgets for. Building the agent is the easy part. Who's watching it on week six?",
+        "The Information surveyed its readers on AI spend. 35% say they're getting multiples back. 8% say it's been a net negative.\n\nThose readers work in tech, so it's not your corner bakery.\n\nBut a year ago 59% of them had never used an agent. Now Claude Code is at 45% and Cursor doubled to 23%.\n\nNobody announced it. People just started using it."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-10-11",
+    "source": "The Koerner Office",
+    "title": "$83K/Month Selling AI Chatbots to Businesses [NO ADS \u2022 FULL EPISODE]",
+    "url": "https://www.youtube.com/watch?v=wcPlVndIi1c",
+    "video_id": "wcPlVndIi1c"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-10-11",
+    "source": "AI Daily Brief",
+    "title": "OpenAI Just Solved 90 of Math\u2019s Hardest Problems",
+    "url": "https://www.youtube.com/watch?v=GoTIt8aPG0Y",
+    "video_id": "GoTIt8aPG0Y"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-11",
+    "topic": "model_releases",
+    "title": "Meta releases Llama 4 Scout with native\u2026 \u00b7 Deniz Genc",
+    "url": "https://deniz.in/meta-releases-llama-4-scout-with-native-1m-token-context-and-mixture-of-depths-r",
+    "snippet": "# Meta releases Llama 4 Scout with native 1M-token context and Mixture-of-Depths routing\n\nMeta's FAIR team has reportedly released Llama 4 Scout, an open-weights model with 105B total parameters, 24B active per token, and a native 1M-token context window.\n...\nMeta's Fundamental AI Research team has released Llama 4 Scout, according to a post on dev.to, which describes it as the first frontier-clas"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-11",
+    "topic": "model_releases",
+    "title": "Meta Releases Llama 4 Scout: Frontier Open-Weights Mixture-of-Depths Architecture with Native 1M-Token Context Window - DEV Community",
+    "url": "https://dev.to/techboss/meta-releases-llama-4-scout-frontier-open-weights-mixture-of-depths-architecture-with-native-cgl",
+    "snippet": "# Meta Releases Llama 4 Scout: Frontier Open-Weights Mixture-of-Depths Architecture with Native 1M-Token Context Window - DEV Community\n...\nMeta Releases Llama 4 Scout: Frontier Open-Weights Mixture-of-Depths Architecture with Native 1M-Token Context Window - DEV Community\n...\n# Meta Releases Llama 4 Scout: Frontier Open-Weights Mixture-of-Depths Architecture with Native 1M-Token Context Window\nMe"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-11",
+    "topic": "model_releases",
+    "title": "Google Gemini 3.5 Flash: 4x Speed, Coding Agent Benchmarks \u2014 DiffVibe",
+    "url": "https://diffvibe.com/articles/google-ships-gemini-3-5-flash-claims-4x-frontier-speed-1b8699c1",
+    "snippet": "# Google ships Gemini 3.5 Flash, claims 4x frontier speed\n\nGoogle's Gemini 3.5 Flash landed today with 76.2% on Terminal-Bench 2.1, 1656 Elo on GDPval-AA, and 4x faster output than rival frontier models. It's the new default in the Gemini app and Search.\n...\n- * Gemini 3.5 Flash is generally available today in the Gemini app, Search AI Mode, Antigravity, the Gemini API, and Gemini Enterprise.\n- * "
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-11",
+    "topic": "model_releases",
+    "title": "Gemini 3 Pro lands at 1501 Elo, ships alongside Antigravity dev platform \u2014 DiffVibe",
+    "url": "https://diffvibe.com/articles/gemini-3-pro-lands-at-1501-elo-ships-alongside-antigravity-dev-platform-1078e5b9",
+    "snippet": "Gemini 3 Pro lands at 1501 Elo, ships alongside Antigravity dev platform \u2014 DiffVibe\n...\n# Gemini 3 Pro lands at 1501 Elo, ships alongside Antigravity dev platform\n\nGemini 3 Pro posts a record 1501 Elo on LMArena and ships in Search on day one. Google also launches Antigravity, an agent-first dev platform, alongside Deep Think mode.\n...\n- * Gemini 3 Pro scores 1501 Elo on LMArena, the highest recor"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-11",
+    "topic": "product_releases",
+    "title": "Anthropic launches Claude Managed Agents dynamic workflow beta",
+    "url": "https://aiunderstanding.org/news/anthropic-launches-claude-managed-agents-dynamic-workflow-beta",
+    "snippet": "Anthropic launches Claude Managed Agents dynamic workflow beta\n\n# Anthropic launches Claude Managed Agents dynamic workflow beta\n\nAnthropic has opened public beta access to Claude Managed Agents, a dynamic workflow feature allowing a main agent to orchestrate up to 1,000 sub-agents. In internal testing, this multi-agent approach detected 66 out of 70 embedded bugs in 116,000 lines of code, signifi"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-11",
+    "topic": "product_releases",
+    "title": "ElevenLabs Debuts Architect, an AI That Fixes Voice Agents | Reveo",
+    "url": "https://reveo.news/elevenlabs-architect-voice-agents-ai-assistant",
+    "snippet": "ElevenLabs Debuts Architect, an AI That Fixes Voice Agents | Reveo\n\n# ElevenLabs Debuts Architect, an AI That Fixes Voice Agents\n\nElevenLabs has launched Architect, an AI assistant that works on voice agents on its own, according to the update.\n\nRB Ryan Blake\u00b7 AI-drafted\u00b7 October 11, 2026\u00b7 1 min read\u00b7 AI Audio\n\nElevenLabs has launched Architect, an AI assistant that works on voice agents on its ow"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-11",
+    "topic": "product_releases",
+    "title": "Anthropic Launches Free AI-Powered Vulnerability Scanner For Open Source Projects",
+    "url": "https://www.lemon-web.net/lemon-blog/cybersecurity/anthropic-launches-free-ai-powered-vulnerability-scanner-for-open-source-projects",
+    "snippet": "Anthropic Launches Free AI-Powered Vulnerability Scanner For Open Source Projects\n\n# Anthropic Launches Free AI-Powered Vulnerability Scanner For Open Source Projects \n\n Sunday, 11 October 2026 Cybersecurity \n\n \n\nAnthropic has introduced a new free service called OSS Scanner, designed to help open source developers identify potential security vulnerabilities in their projects using artificial inte"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-11",
+    "topic": "ai_agents",
+    "title": "OpenAI Agents SDK Adds Native Sandboxes and Model-Native Harness \u2014 DiffVibe",
+    "url": "https://diffvibe.com/articles/openai-gives-agents-sdk-native-sandboxes-and-a-model-native-harness-92c81946",
+    "snippet": "# OpenAI Gives Agents SDK Native Sandboxes and a Model-Native Harness\n\nOpenAI's Agents SDK update adds native sandbox execution and a model-native harness, aiming at developers building secure, long-running agents across files and tools.\n...\n- * OpenAI updated its Agents SDK with native sandbox execution\n- * The update introduces a model-native harness for orchestration\n- * The changes target secu"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-11",
+    "topic": "ai_agents",
+    "title": "Google Research and Virginia Tech Launch WikiSkill to Enhance AI Agent Skill Evolution | Tech Pulse | TheNextGenTechInsider",
+    "url": "https://thenextgentechinsider.com/pulse/google-research-and-virginia-tech-launch-wikiskill-to-enhance-ai-agent-skill-evolution",
+    "snippet": "# Google Research and Virginia Tech Launch WikiSkill to Enhance AI Agent Skill Evolution\n\nGoogle Research and Virginia Tech have introduced WikiSkill, a framework that converts AI agent experiences into structured skills. This system prevents agents from repeating past failures by maintaining an external knowledge layer.\n\nHiren Dave\n\nFounder\n\nOct 10, 2026\u2022 4 min read\n\n### KEY TAKEAWAYS\n\nThe Raw La"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-11",
+    "topic": "ai_agents",
+    "title": "Cohere Releases North 2 with Advanced Budget Controls and Persistent Memory for AI Agents | Tech Pulse | TheNextGenTechInsider",
+    "url": "https://thenextgentechinsider.com/pulse/cohere-releases-north-2-with-advanced-budget-controls-and-persistent-memory-for-ai-agents",
+    "snippet": "# Cohere Releases North 2 with Advanced Budget Controls and Persistent Memory for AI Agents\n\nCohere has released North 2, an updated enterprise agent platform featuring advanced budget controls and persistent memory. The update aims to solve issues regarding AI spending and context retention in large organizations.\n\nHiren Dave\n\nFounder\n\nOct 10, 2026\u2022 4 min read\n\nRedesigned Agent Harness\n\nAn orches"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-11",
+    "topic": "ai_agents",
+    "title": "llmhive launches patented multi agent ai orchestration platform t",
+    "url": "https://forpressrelease.com/forpressrelease/675481/21/llmhive-launches-patented-multi-agent-ai-orchestration-platform-that-makes-specialized-ai-models-work-together-as-one-system",
+    "snippet": "2026-10-11 09:39:56 Technology \n\n Built through a family effort during a loved one\u2019s neurological condition, LLMHive delivers benchmark-leading results using shared memory, tools, and multi-model verification to reduce hallucinations and AI costs. Miami, August 7, 2026 \u2014 LLMHive today announced the public availability of LLMHive, a patented multi-agent AI orchestration platform built to move beyon"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-11",
+    "topic": "ai_small_business",
+    "title": "FuseBase Review for Solopreneurs: $79 Lifetime Deal on AppSumo",
+    "url": "https://www.andrewmurrayhq.com/fusebase/",
+    "snippet": "FuseBase is an AI-powered workspace that combines three things most solopreneurs pay for separately: an internal knowledge base like Notion, branded client portals, and AI agents and automations.\n\nOn top of that, it now lets you build your own apps with AI coding tools like Claude Code and Cursor, and it can host open-source tools like n8n for you.\n\nFor a solopreneur with clients, the client porta"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-11",
+    "topic": "ai_small_business",
+    "title": "Dean Keating: AI Consultant Behind Folkestone.co | Folkestone.co",
+    "url": "https://www.folkestone.co/guides/dean-keating-ai-automation-folkestone",
+    "snippet": "Dean Keating is an AI automation consultant based in Horndean, Hampshire, who builds AI agents for small businesses and installs them in the tools the business already uses. He also publishes Folkestone.co, so his profile here is labelled and is not ranked.\n...\nDean Keating builds AI agents for small businesses. An agent is a piece of software that does one repetitive job in the background: answer"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-11",
+    "topic": "ai_small_business",
+    "title": "Mpire Solutions Offers AI Automation to Help SMEs Scale Without Enterprise Costs",
+    "url": "https://smarter-trading.net/press-release/2026-04-20/31777/mpire-solutions-offers-ai-automation-to-help-smes-scale-without-enterprise-costs",
+    "snippet": "Mpire Solutions Offers AI Automation to Help SMEs Scale Without Enterprise Costs \n\n By Newswire October 10, 2026 \n\n# Mpire Solutions Offers AI Automation to Help SMEs Scale Without Enterprise Costs\n\nMpire Solutions has launched AI automation services for SMEs, helping growing businesses improve efficiency, reduce manual work, and access enterprise-level automation without high costs. The new servi"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-11",
+    "topic": "ai_small_business",
+    "title": "Vorker's AI Coworker Pitch Needs One O... - The Useful Daily",
+    "url": "https://theusefuldaily.com/article/vorker-ai-coworker-approval-log-small-business-2026-10-10",
+    "snippet": "Vorker launched on Product Hunt as an AI coworker for small businesses. The useful question is not whether it can do tasks, but whether owners can approve, review, and trace the work before it reaches customers.\n...\nVorker, which launched on Product Hunt as an \"AI coworker running your small business,\" is the cleanest example. The product page says Vorker can support everyday work like email, rese"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-11",
+    "topic": "ai_small_business",
+    "title": "Gusto Enhances Claude Connector to Simplify Small Business Management",
+    "url": "https://smallbiztrends.com/gusto-enhances-claude-connector-to-simplify-small-business-management/",
+    "snippet": "In an era where efficiency is paramount, Gusto has unveiled its enhanced connector for Claude, which aims to simplify payroll management for small business owners. This innovation is not just a step forward in streamlining administrative tasks; it\u2019s a leap toward integrating artificial intelligence into daily operations for those juggling multiple responsibilities. By leveraging AI tools, small bu"
   }
 ]
