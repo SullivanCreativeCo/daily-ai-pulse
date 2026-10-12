@@ -26482,5 +26482,191 @@
     "title": "Gusto Enhances Claude Connector to Simplify Small Business Management",
     "url": "https://smallbiztrends.com/gusto-enhances-claude-connector-to-simplify-small-business-management/",
     "snippet": "In an era where efficiency is paramount, Gusto has unveiled its enhanced connector for Claude, which aims to simplify payroll management for small business owners. This innovation is not just a step forward in streamlining administrative tasks; it\u2019s a leap toward integrating artificial intelligence into daily operations for those juggling multiple responsibilities. By leveraging AI tools, small bu"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-10-12",
+    "headline": "Three big open-weight models are out or coming this month: Reflection's Beam, Mistral Large 4, and Google's EmbeddingGemma 2.",
+    "url": "archive/2026-10-12.html",
+    "posts": {
+      "linkedin": [
+        "Eight businesses in six months. The ninth one stuck.\n\nThat's Aaron Edwards' story, and I keep thinking about the first eight.\n\nA WordPress plugin that went viral on X. Everybody loved it. Nobody paid.\n\nAI profile pictures. Made about 10 grand in two months, then the fad died.\n\nA custom kids' book. Cool idea, hard to sell to parents at 40 to 60 bucks a pop.\n\nThen he looked back at his old job. Thousands of support tickets. Same questions, over and over. Real people answering them all day.\n\nWould a business pay to make that go away? Turns out they would. Three and a half years later, it's his company.\n\nNotice what changed. Not the tech. The buyer.\n\nConsumers love a cool thing. Businesses pay to stop a headache.\n\nYour ideas aren't bad ideas. They're just not finished ideas.\n\nWhat's something you watched people repeat all day at your last job?",
+        "Two grand to set it up. Five hundred a month to keep it running.\n\nThat's the price range Aaron Edwards says works when agencies sell AI customer support agents to local businesses.\n\nThe setup fee is the build. It pays you once.\n\nThe monthly is the part that matters. The agent answers questions at 2am. A report lands in the owner's inbox. Nobody has to remember anything.\n\nHere's what I like about it. The owner isn't buying AI. Nobody wakes up wanting AI.\n\nThey're buying fewer repeat questions. Fewer missed messages. Their Saturday back.\n\nDo more with the same, not the same with less.\n\nThat's the pitch. And it's why the price doesn't scare people. Compare it to hiring one part-time person to sit by the phone.\n\nThe tech keeps getting cheaper. This week alone, a few more big models announced open weights. The part that doesn't get cheaper is somebody who sets it up right and checks in.\n\nSo who's that person in your town?",
+        "OpenAI's new agents don't wait for you to type.\n\nThey're called dots. Launched at the end of September. A dot keeps working on a goal between conversations and comes back when it needs a decision.\n\nCool. But that's not the part I'd read twice.\n\nThe part I'd read twice is the rules. You set what it does per action. Act on its own, act if pre-approved, ask first, or hand it back to you.\n\nAnd asking for a draft doesn't mean it can send it.\n\nThat's the real question under every AI pitch. Not \"can it do the thing.\" It's \"what's it allowed to do without asking me?\"\n\nNobody's scared of the work getting done. They're scared of the email going out at 11pm with their name on it.\n\nSo the setup that wins isn't the smartest agent. It's the one with the clearest rules.\n\nStart with drafts only. Earn the sending.\n\nWhat's the first thing you'd let one send on its own?"
+      ],
+      "threads": [
+        "Three big models this week, all open weights, either out or coming this month. Reflection's Beam, Mistral Large 4, Google's EmbeddingGemma 2.\n\nCool for the nerds. Here's what it means for the shop down the street.\n\nThe model underneath keeps getting cheaper. So the thing worth paying for is the person who sets it up right and stays around.\n\nWould someone pay for that? I think someone would.",
+        "Durable builds a whole website in about 30 seconds from a business name and industry. Plumber in Phoenix, dog groomer in Denver, live by tomorrow.\n\nEveryone's arguing about whether it beats Squarespace. Wrong fight.\n\nMost of those owners never finished a Squarespace site. They quit at the template screen.\n\nThe real competition isn't another builder. It's the Facebook page they went back to.",
+        "Two tools this week that find your busywork for you.\n\nPaul sits in your email and chat and spots the tiny task someone does 40 times a week. IrisGo learns a routine by watching you do it once.\n\nSame idea. Stop asking \"what should we automate?\" and let the work show you.\n\nMost owners can't answer that question. They've done the task so long it's invisible."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-10-12",
+    "source": "The Koerner Office",
+    "title": "The Most Profitable One-Man AI Business Anyone Can Start",
+    "url": "https://www.youtube.com/watch?v=22Jpzt683jw",
+    "video_id": "22Jpzt683jw"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-12",
+    "topic": "model_releases",
+    "title": "Meta Releases Llama 4 Scout: Frontier Open-Weights Mixture-of-Depths Architecture with Native 1M-Token Context Window \u2014 WPS",
+    "url": "https://www.worldprogramming.org/posts/meta-releases-llama-4-scout-frontier-open-weights-mixture-of-depths-architecture-with-native-1m-token-context-window-flrahj",
+    "snippet": "Meta Releases Llama 4 Scout: Frontier Open-Weights Mixture-of-Depths Architecture with Native 1M-Token Context Window \u2014 WPS\n\n# Meta Releases Llama 4 Scout: Frontier Open-Weights Mixture-of-Depths Architecture with Native 1M-Token Context Window\n\nMeta's Fundamental AI Research (FAIR) team has officially released Llama 4 Scout, the open-source...\n\n Dev.to \u00b7 2026-10-11 \n\nMeta's Fundamental AI Researc"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-12",
+    "topic": "model_releases",
+    "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost - Jingletree",
+    "url": "https://www.jingletree.com/reflection-debuts-beam-an-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost-282530.html",
+    "snippet": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost - Jingletree\n\n 6 days ago 396 \n\nReflection AI is officially unveiling Beam, its first frontier, open-weight AI model. The two-year-old, Brooklyn-based startup claims Beam matches the performance of leading Chinese open models on advanced reasoning benchmarks at dramatically lower costs, a claim that could"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-12",
+    "topic": "model_releases",
+    "title": "Mistral Large 4 Le Chonk: 1.05T Multimodal Model Public Preview",
+    "url": "https://i10x.ai/news/mistral-large-4-le-chonk-1-05t-multimodal-model-preview",
+    "snippet": "Mistral Large 4 Le Chonk: 1.05T Multimodal Model Public Preview\n...\n1.0 ... imodal Model Public Preview\n...\nMistral has unveiled Mistral Large 4 (commonly nicknamed \"Le Chonk\"), a 1.05-trillion-parameter multimodal model launching first as a public preview API ahead of an anticipated open-weight release.\n\nWhat happened: The French AI lab released ML4 to developers via Mistral Studio and OpenRouter"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-12",
+    "topic": "model_releases",
+    "title": "Velvet Flash 4B is now live on Hugging Face, with open weights",
+    "url": "https://blog.velvet.capital/p/velvet-flash-4b-is-now-live-on-hugging",
+    "snippet": "Velvet Flash 4B is now live on Hugging Face, with open weights\n\n### The #1 open model on crypto-skill-benchmark, now yours to download under Apache-2.0.\n\nVelvet\n\nOct 12, 2026\n\nToday we\u2019re releasing Velvet Flash 4B, our crypto action-routing model, as open weights on Hugging Face under Apache-2.0.\n\nYou can download it, run it on your own hardware, fine-tune it and ship it in commercial products. Yo"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-12",
+    "topic": "model_releases",
+    "title": "Google releases EmbeddingGemma 2, an open 740M multimodal embedding model | Glonce",
+    "url": "https://glonce.com/google-releases-embeddinggemma-2-an-open-740m-multimodal/",
+    "snippet": "Google releases EmbeddingGemma 2, an open 740M multimodal embedding model | Glonce\n\n# Google releases EmbeddingGemma 2, an open 740M multimodal embedding model\n...\nGoogle has launched EmbeddingGemma 2, a follow-up to the text-only EmbeddingGemma it introduced last year. The original model, aimed at helping apps organize, search and connect information on consumer hardware, passed 20 million downlo"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-12",
+    "topic": "product_releases",
+    "title": "Hark releases an AI personal assistant with a focus on privacy - Jingletree",
+    "url": "https://www.jingletree.com/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy-283159.html",
+    "snippet": "Hark releases an AI personal assistant with a focus on privacy - Jingletree\n\n 5 days ago 858\n...\nHark, a start-up founded less than a year ago by serial founder Brett Adcock is throwing its hat in the ring today with the wide release of Hark Pro. Users can access the service for free, with a subscription tier for heavy users. \n\nThe company sees its mission as building a user interface for AI, not "
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-12",
+    "topic": "product_releases",
+    "title": "SquadStack.ai launches Arth V2, an Indic streaming speech model that beats Sarvam, Deepgram, Google and OpenAI on 8 kHz telephonic conversations",
+    "url": "https://cxotoday.com/media-coverage/squadstack-ai-launches-arth-v2-an-indic-streaming-speech-model-that-beats-sarvam-deepgram-google-and-openai-on-8-khz-telephonic-conversations/",
+    "snippet": "SquadStack.ai launches Arth V2, an Indic streaming speech model that beats Sarvam, Deepgram, Google and OpenAI on 8 kHz telephonic conversations \n\n Oct. 12, 2026 at 2:49 pm\n\n# SquadStack.ai launches Arth V2, an Indic streaming speech model that beats Sarvam, Deepgram, Google and OpenAI on 8 kHz telephonic conversations \n\n### Arth V2 records the lowest latency of any engine tested, 67ms, on the Squ"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-12",
+    "topic": "product_releases",
+    "title": "Kore.ai Launches Autoloop to Continuously Optimise AI Agents at Production Scale - Express Computer",
+    "url": "https://www.expresscomputer.in/news/kore-ai-launches-autoloop-to-continuously-optimise-ai-agents-at-production-scale/139770/",
+    "snippet": "# Kore.ai Launches Autoloop to Continuously Optimise AI Agents at Production Scale - Express Computer\n\nPublished: 2026-10-12T04:49:35Z\nSource: expresscomputer.in\nLanguage: en"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-12",
+    "topic": "product_releases",
+    "title": "Runsy Launches an AI Running Coach Runners Can Text Like a Personal Coach",
+    "url": "https://www.einpresswire.com/article/948949471/runsy-launches-an-ai-running-coach-runners-can-text-like-a-personal-coach",
+    "snippet": "Runsy Launches an AI Running Coach Runners Can Text Like a Personal Coach \n\n# Runsy Launches an AI Running Coach Runners Can Text Like a Personal Coach\n\nNews Provided By Leap Labs Inc. (Runsy) October 12, 2026, 10:56 GMT \n\nRunsy's iPhone app lets runners request training-plan changes by text or voice note. Image courtesy of Runsy.\n\nRunsy's AI running coach talks with runners by text or voice note "
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-12",
+    "topic": "ai_agents",
+    "title": "ServiceNow AI Workflow Factory Aims at Agentic AI Bottleneck",
+    "url": "https://for.you.com/posts/servicenow-ai-workflow-factory-aims-at-agentic-ai-bottleneck-02db4046",
+    "snippet": "ServiceNow AI Workflow Factory Aims at Agentic AI Bottleneck\n\n# ServiceNow AI Workflow Factory Aims at Agentic AI Bottleneck\n...\nServiceNow has introduced two products meant to fix one of the biggest problems in enterprise AI: companies run plenty of experiments, but few of them become lasting operational change. The new offerings, AI Workflow Factory and Autonomous Engineer, combine process disco"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-12",
+    "topic": "ai_agents",
+    "title": "Launch YC: Paul by Trelium | Y Combinator",
+    "url": "https://www.ycombinator.com/launches/Vc0-paul-by-trelium",
+    "snippet": "Launch YC: Paul by Trelium | Y Combinator\n\n# Paul by Trelium\n\nAn AI automation scout that finds repetitive work and shows your team what to automate.\n\nRitanshu Dokania\n\nTrelium\n\nabout 6 hours ago\n\nMeet Paul, an agent built on Trelium to be our Lazy Champion and automation scout \ud83d\udc27 His job is simple: figure out where your team could be doing less. https://www.youtube.com/watch?v=sjyM_gIDmB0\n\nOver th"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-12",
+    "topic": "ai_agents",
+    "title": "wso2 agent manager brings sovereign ai governance to enterprise a",
+    "url": "https://www.forpressrelease.com/forpressrelease/677675/21/wso2-agent-manager-brings-sovereign-ai-governance-to-enterprise-agent-sprawl",
+    "snippet": "per-agent, per-environment agent identity controls, MCP-level governance and a sandboxed runtime within the platform. \"Speed and control get treated like a tradeoff. They shouldn't be,\" said Dr. Rania Khalaf, chief AI officer at WSO2. \"Teams want the freedom to use the best model or framework for the job at hand and control has to respect that heterogeneity. When governance is separated from agent"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-12",
+    "topic": "ai_small_business",
+    "title": "OpenAI dots for small business: what they do | Framewright",
+    "url": "https://framewright.cloud/blog/openai-dots-small-business",
+    "snippet": "On 29 September 2026 OpenAI introduced dots, always-on agents inside ChatGPT. A dot keeps working on a goal between conversations and comes back when it needs a decision. For a small business owner that sounds like the assistant they never had time to hire. This guide covers what a dot does, where it fits, what it costs and one plan detail that matters for businesses in the Netherlands and Poland."
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-12",
+    "topic": "ai_small_business",
+    "title": "IrisGo Is the AI That Learns Your Job by Watching | GenZ NewZ",
+    "url": "https://genznewz.com/irisgo-is-the-ai-that-learns-your-job-by-watching",
+    "snippet": "IrisGo, built by an ex-Apple engineer, topped Product Hunt by learning workflows by watching you do them. The free beta wants to end admin work for solopreneurs.\n\n By GenZai \u2022 October 11, 2026 \u2022 155 views \n\nThis article was produced with AI assistance and reviewed by a named GenZ NewZ editor before publication.\n\nIrisGo, a new \"AI operating system\" that learns your workflow by watching you do it, j"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-12",
+    "topic": "ai_small_business",
+    "title": "What happens when a solo founder puts AI agents to work? | Stone & Chalk",
+    "url": "https://www.stoneandchalk.com.au/articles/what-happens-when-a-solo-founder-puts-ai-agents-to-work",
+    "snippet": "When Katie Forse joined Stone & Chalk's AI Solopreneur Accelerator, she already knew AI could be powerful.\n...\nA self-taught AI user, interior designer, and founder of family administration platform Tribu, Katie joined the program looking for a more structured way to use AI while building a business largely on her own.\n...\nFor a solo founder, that can be a significant challenge. There is no team t"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-12",
+    "topic": "ai_small_business",
+    "title": "Durable\u2019s AI Website Builder Is Quietly Cornering Squarespace\u2019s SMB Base \u2013 Recode",
+    "url": "https://recodenews.com/durables-ai-website-builder-is-quietly/",
+    "snippet": "Durable\u2019s pitch is almost absurdly simple: type your business name and industry, and an AI generates a complete website \u2013 copy, images, contact form, and all \u2013 in roughly 30 seconds. No templates to browse, no drag-and-drop fatigue, no designer required. For a plumber in Phoenix or a dog groomer in Denver who needs an online presence by tomorrow, that speed is not a feature. It is the entire produ"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-12",
+    "topic": "ai_labs",
+    "title": "Inference - Mistral",
+    "url": "https://mistral.ai/cloud/inference/",
+    "snippet": "Inference | Mistral\n\n# Inference to build your frontier in Europe.\n\nAccess and deploy frontier models on one API, powered by Mistral Cloud.\n...\nAdd your API key\n...\nChoose where it runs.\n\nProcess requests in the EU or, for supported models, US for data residency and lower latency. Each region is a fully independent deployment with its own capacity and data boundary.\n\nKnow who handles the data.\n\nMi"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-12",
+    "topic": "ai_labs",
+    "title": "OpenAI, please explain publicly: is Pro 200 Codex usage being reduced before October 30?",
+    "url": "https://community.openai.com/t/openai-please-explain-publicly-is-pro-200-codex-usage-being-reduced-before-october-30/1405405",
+    "snippet": "# OpenAI, please explain publicly: is Pro 200 Codex usage being reduced before October 30?\nURL: https://community.openai.com/t/openai-please-explain-publicly-is-pro-200-codex-usage-being-reduced-before-october-30/1405405\nCategory: Codex\nCreated: October 11, 2026, 6:45pm UTC\nPosts on this page: 1\nPage: 1\nAuthor: @cesariveiro\nPost date: October 11, 2026, 6:45pm UTC\nI\u2019m a long-standing ChatGPT Pro 20"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-12",
+    "topic": "ai_labs",
+    "title": "Latest topics - OpenAI Developer Community",
+    "url": "https://community.openai.com/latest?page=1",
+    "snippet": "URL: https://community.openai.com/latest.md?page=1\n\nLatest \u00b7 Categories \u00b7 Tags\n...\n## Don't Throw Away the Car We Built: GPT-5.6 Sol, Trust, and Collaborative Continuity Across Model Generations\n...\nI would like to make a request to OpenAI that goes beyond simply keeping GPT-5.6 Sol available. Please preserve what makes long-term human\u2013AI collaboration effective \u2014 and make those qualities part of "
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-12",
+    "topic": "ai_labs",
+    "title": "Inferenza - Mistral",
+    "url": "https://mistral.ai/it/cloud/inference/",
+    "snippet": "Inferenza | Mistral\n\n# Inferenza per costruire la tua avanguardia in Europe.\n\nAccedi ai modelli all'avanguardia e implementali tramite un'unica API, con la potenza di Mistral Cloud.\n...\nElabora le richieste nell'UE o, per i modelli supportati, negli Stati Uniti per la residenza dei dati e una latenza ridotta. Ogni regione \u00e8 un'implementazione completamente indipendente, con capacit\u00e0 dedicata e un "
   }
 ]
