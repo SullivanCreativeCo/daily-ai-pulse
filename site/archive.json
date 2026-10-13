@@ -26668,5 +26668,231 @@
     "title": "Inferenza - Mistral",
     "url": "https://mistral.ai/it/cloud/inference/",
     "snippet": "Inferenza | Mistral\n\n# Inferenza per costruire la tua avanguardia in Europe.\n\nAccedi ai modelli all'avanguardia e implementali tramite un'unica API, con la potenza di Mistral Cloud.\n...\nElabora le richieste nell'UE o, per i modelli supportati, negli Stati Uniti per la residenza dei dati e una latenza ridotta. Ogni regione \u00e8 un'implementazione completamente indipendente, con capacit\u00e0 dedicata e un "
+  },
+  {
+    "kind": "digest",
+    "date": "2026-10-13",
+    "headline": "Small businesses aren't just buying AI anymore. They're building it.",
+    "url": "archive/2026-10-13.html",
+    "posts": {
+      "linkedin": [
+        "Two-thirds of small businesses using AI have built their own tools now.\n\nNot bought. Built. Workflows, agents, custom connections to an AI provider's API.\n\nThat's from a Pax8 survey of 1,150 business leaders. In most markets they surveyed, those builds got no formal, documented review.\n\nAnd 49% of the businesses paying for AI got a bill higher than they expected.\n\nSo the owner built a thing, nobody checked it, and the invoice showed up bigger than planned.\n\nMeanwhile 55% of decision-makers spend three or more hours a week editing and fact-checking what the AI produced.\n\nNobody's saying stop building. Building is the good news.\n\nBut somebody has to ask \"what does this touch, and what does it cost when it runs all day?\"\n\nFor most small shops that person is the owner, on a Tuesday night, after close.\n\nWho's that person at your place?",
+        "Everyone's building AI products for each other.\n\nMeanwhile a roofer is paying $228 a lead to send people to a page of leaks.\n\nThat's from The Boring Marketer's latest episode. There are 36.2 million small businesses in the US. Only 19.8% use AI at all, and not the way we do.\n\nThey don't want automation. They want the phone to ring.\n\n57% say reaching customers is their biggest problem. Nobody's asking the septic guy about agents. They're asking how to get booked.\n\nSo the pitch doesn't have the word AI in it. It says more booked jobs.\n\nThe AI is how you build the funnel in days instead of weeks. The client never needs to hear that part.\n\nHis math: a $3,000 install and a $1,500 monthly retainer, against jobs worth $15,000 to $20,000.\n\nWould a roofer pay for more booked jobs? I think a roofer would pay for more booked jobs.",
+        "Corey Ganim laid out a 90 day plan for small business owners using Claude. One workflow a week. Admin first, then sales follow-up, then delivery.\n\nThe part I keep thinking about is weeks 3 to 7.\n\nBy week 3 you've shipped three workflows and gotten maybe 10 or 15 minutes back a week. Week 4, maybe 20.\n\nThat's where people quit. It feels like nothing's working.\n\nHis point: workflows shipped is the lead measure. Time back is the lag measure. The hours show up later, like a hockey stick.\n\nHis math lands around 15 hours a week by day 90 if you get 10 to 12 workflows live. He also says it might only be 5 for you. That's still an hour a day.\n\nThe human stays in the loop. AI drafts, you approve. Pricing and key client relationships stay yours.\n\nThe pit is the part nobody posts about.\n\nWhat's one thing you do every week that shouldn't need you?"
+      ],
+      "threads": [
+        "Great employees don't come to you with a problem. They come with the problem and what they already did about it.\n\nThat's how Koerner described his AI agents when they hit snags building a rental setup for his ranch. They told him what broke and that they fixed it.\n\nThree minutes. An inquiry form, five social posts, a Google Business Profile guide.\n\nThe ranch isn't the point. It acted like a good hire.",
+        "Two guys. Three years. More than $2 million in revenue. No retainers.\n\nBaD Mktg asks AI for 100 headlines. Most of them are bad, he says. Worse than a human would write.\n\nBut there's 100 to look at, and one of them sparks something. Concepting went from six weeks to six days or less.\n\nThe tool doesn't have to be good. It has to give you a lot to react to.",
+        "OpenAI says 1.2 billion people use it every week.\n\n2.2% of US households pay for any AI.\n\nEither it's already good enough free, or it isn't doing enough to be worth paying for. Both answers are interesting.\n\nA16Z says the top 1% of spenders outspend the bottom 50% combined.\n\nI think most people just haven't been shown what to do with it yet."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-10-13",
+    "source": "The Koerner Office",
+    "title": "This Tool Makes AI Agents Stupid Simple",
+    "url": "https://www.youtube.com/watch?v=y33ecMVHxNU",
+    "video_id": "y33ecMVHxNU"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-10-13",
+    "source": "Corey Ganim",
+    "title": "How to reinvent your small business with AI in 90 days (without hiring anyone)",
+    "url": "https://www.youtube.com/watch?v=as2RHM5NdyI",
+    "video_id": "as2RHM5NdyI"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-10-13",
+    "source": "AI Daily Brief",
+    "title": "The 5 Debates Shaping AI",
+    "url": "https://www.youtube.com/watch?v=w7SmNJxUHLc",
+    "video_id": "w7SmNJxUHLc"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-10-13",
+    "source": "The Boring Marketer",
+    "title": "How I'd Start an AI Services Business for Local Businesses",
+    "url": "https://www.youtube.com/watch?v=-JienW-k_1o",
+    "video_id": "-JienW-k_1o"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-13",
+    "topic": "model_releases",
+    "title": "Muse Wonder | Meta AI Research",
+    "url": "https://research.meta.ai/blog/muse-wonder",
+    "snippet": "Today, we\u2019re excited to introduce the Muse Wonder series with Muse Wonder and Muse Wonder Full, our most capable models that deliver state-of-the-art performance on personal and professional agentic tasks. Together, they mark the next step on our scaling ladder and a major leap toward personal superintelligence. Muse Wonder brings together Active Memory and Active Focus to keep track of what matte"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-13",
+    "topic": "model_releases",
+    "title": "Put your ideas to work with Muse Wonder and Muse Wonder Full",
+    "url": "https://dev.meta.ai/resources/blog/build-with-muse-wonder",
+    "snippet": "most critical workflows\n...\nToday we\u2019re excited to launch Muse Wonder on Muse Code and Meta Model API at $4 input / $20 output per million tokens (USD).\n\nMuse Wonder Full, available exclusively by subscription in Muse Code, gives developers a frontier model for their most complex workflows. Developers can start building with Muse Wonder Full on both the Power Usage plan and new Maximum Usage plan,"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-13",
+    "topic": "model_releases",
+    "title": "Subquadratic Launches SubQ Snap, the First Long-Context Decision Model Purpose-Built for Enterprise",
+    "url": "https://business.times-online.com/observerreporter/article/bizwire-2026-10-12-subquadratic-launches-subq-snap-the-first-long-context-decision-model-purpose-built-for-enterprise",
+    "snippet": "Subquadratic Launches SubQ Snap, the First Long-Context Decision Model Purpose-Built for Enterprise\n\n# Subquadratic Launches SubQ Snap, the First Long-Context Decision Model Purpose-Built for Enterprise\n\n By: Subquadratic via Business Wire \n\nOctober 12, 2026 at 12:07 PM EDT\n\n Powered by Subquadratic Sparse Attention (SSA), SubQ Snap has a 12x larger context window than Jev, and outperforms the cat"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-13",
+    "topic": "model_releases",
+    "title": "JetBrains Mellum2.1 lifts SWE-bench from 2.0 to 47.0 via RL \u2014 AI In Context",
+    "url": "https://aiincontext.com/articles/jetbrains-mellum2-1-lifts-swe-bench-score-from-2-0-to-47-0-with-pure-rl-b5e2c28e",
+    "snippet": "Mellum2.1 lifts SWE- ... from 2 ... 0 to 47\n...\nJetBrains released Mellum2.1, a 12B mixture-of-experts coding model that activates just 2.5B parameters per token. Reinforcement learning in real repositories lifted its SWE-bench Verified score from 2.0 to 47.0.\n...\n- JetBrains released Mellum2.1 on October 8, 2026, as a 12B MoE model with 2.5B active parameters under Apache 2.0.\n- SWE-bench Verifie"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-13",
+    "topic": "product_releases",
+    "title": "Urbantz launches Milo: AI agents for last-mile delivery",
+    "url": "https://urbantz.com/press/urbantz-launches-milo/",
+    "snippet": "Urbantz launches Milo: AI agents for last-mile delivery\n\nPress release/ 13 October 2026\n\n# Urbantz Launches Milo and Puts AI Agents at the Heart of Last\u2011Mile Delivery Operations\n\nPlanners, dispatchers and delivery operations managers now hand routine delivery management to AI agents that act on the live plan, freeing hours every week and keeping deliveries on track, inside the rules their teams se"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-13",
+    "topic": "product_releases",
+    "title": "Factory launches FactoryAI introduces Environments \u2014 generally available \u2014 Oct 2026 | Launch Archive",
+    "url": "https://launcharchive.ai/launches/factoryai-introduces-environments-generally-available--x_2109723187563184493",
+    "snippet": "Factory launches FactoryAI introduces Environments \u2014 generally available \u2014 Oct 2026 | Launch Archive\n\n# FactoryAI introduces Environments \u2014 generally available\n\nFactory@FactoryAI Oct 12, 2026\n\nThis week we're shipping our vision for the best cloud agent experience. We\u2019re starting with an often-overlooked but critical foundation for any agent: the sandbox where it runs. Today, we\u2019re introducing Env"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-13",
+    "topic": "product_releases",
+    "title": "Guideline Announced the Launch of New AI Ingestion Agent - MarTech Cube",
+    "url": "https://www.martechcube.com/guideline-announced-the-launch-of-new-ai-ingestion-agent/",
+    "snippet": "Guideline Announced the Launch of New AI Ingestion Agent - MarTech Cube\n\n# Guideline Announced the Launch of New AI Ingestion Agent\n\n- \n\n By PRNewswire \n- October 12, 2026 \n\n \n\n \n\n \n\n###### AI Crawler Blocking Rises, Raising Risks... \n\n- By GlobeNewswire \n- October 12, 2026 \n\n \n\n###### myKaarma Brings AI Lead Management to... \n\n- By PRNewswire \n- October 12, 2026 \n\nThe new agent reads media plan s"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-13",
+    "topic": "product_releases",
+    "title": "Mistlabs Launches Ambi, an Ambient AI That Works in Real-Time",
+    "url": "https://nerdbot.com/2026/10/13/mistlabs-launches-ambi-an-ambient-ai-that-works-in-real-time-across-your-mac-and-iphone/",
+    "snippet": "# Mistlabs Launches Ambi, an Ambient AI That Works in Real-Time\n\nAuthor: Paul Williams\nPublished: 2026-10-13T10:52:13Z\nSource: nerdbot.com\nLanguage: en"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-13",
+    "topic": "product_releases",
+    "title": "Crit Space Is Now Open: AI Rendering on One Shared Canvas",
+    "url": "https://www.fenestra.app/blog/introducing-crit-space",
+    "snippet": "Crit Space Is Now Open: AI Rendering on One Shared Canvas\n\n# Crit Space is now open to everyone\n...\nOctober 13, 2026\n\nThe infinite canvas we opened to a small group in September is now on for every Fenestra account, on every plan.\n\nCrit Space is now on for every Fenestra account. Open a project, choose Crit Space instead of Studio, and the whole project lives on one board: renders, variations, cam"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-13",
+    "topic": "ai_agents",
+    "title": "Flozic Launches Autonomous AI Agents and Agentic Workflows Across Thousands of Apps",
+    "url": "https://www.prnewswire.com/news-releases/flozic-launches-autonomous-ai-agents-and-agentic-workflows-across-thousands-of-apps-302905565.html",
+    "snippet": "# Flozic Launches Autonomous AI Agents and Agentic Workflows Across Thousands of Apps\n\nAuthor: Snappy LLC\nPublished: 2026-10-12T12:06:00Z\nSource: prnewswire.com\nLanguage: en"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-13",
+    "topic": "ai_agents",
+    "title": "NTT DATA Business Solutions launches \"Elevate\", its Agentic AI-powered delivery framework, to help accelerate SAP transformations",
+    "url": "https://www.tmcnet.com/usubmit/2026/10/12/10460859.htm",
+    "snippet": "# NTT DATA Business Solutions launches \"Elevate\", its Agentic AI-powered delivery framework, to help accelerate SAP transformations\n...\nBIELEFELD, Germany, Oct. 12, 2026 /PRNewswire/ -- NTT DATA Business Solutions, a leading global IT service provider and specialist in SAP solutions, today announces the launch of \"Elevate\", its next-generation Agentic AI-powered delivery framework. Elevate brings "
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-13",
+    "topic": "ai_agents",
+    "title": "Pervaziv AI Brings Continuous, Coordinated Work to Cortex, Extending Enterprise AI Across Time and Tools -- Pervaziv AI | PRLog",
+    "url": "https://www.prlog.org/13176276-pervaziv-ai-brings-continuous-coordinated-work-to-cortex-extending-enterprise-ai-across-time-and-tools.html",
+    "snippet": "Pervaziv AI Brings Continuous, Coordinated Work to Cortex, Extending Enterprise AI Across Time and Tools -- Pervaziv AI | PRLog\n# Pervaziv AI Brings Continuous, Coordinated Work to Cortex, Extending Enterprise AI Across Time and Tools\n**Cortex Pulse, workflow automation, multi agent worktrees, long horizon execution and browser interaction create a more persistent Enterprise AI experience.**\n*By: "
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-13",
+    "topic": "ai_agents",
+    "title": "Subquadratic \u2014 Introducing SubQ Snap: A Long-Context Decision Model for Enterprise Agents",
+    "url": "https://subq.ai/introducing-subq-snap",
+    "snippet": "Subquadratic \u2014 Introducing SubQ Snap: A Long-Context Decision Model for Enterprise Agents\n\n# Introducing SubQ Snap: A Long-Context Decision Model for Enterprise Agents\n...\nToday we're releasing SubQ Snap, a decision model for agentic workflows built on the same foundational research. Our decision model is built to take the data-intensive but structured decisions inside an agentic workflow, like ch"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-13",
+    "topic": "ai_small_business",
+    "title": "AI Technology Kit - for Small Businesses and Creative Entrepreneurs",
+    "url": "https://aitechnologykit.com/",
+    "snippet": "AI Technology Kit - for Small Businesses and Creative Entrepreneurs\n...\nAI meeting notes tools record your calls, transcribe them automatically, and generate a summary with action items so you don\u2019t have to split your attention between listening and typing. Tools like Otter.ai, Fireflies.ai, and Fathom connect to Zoom, Google Meet, or Teams, join the call as a silent bot or\u2026\n...\nYou can use AI spr"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-13",
+    "topic": "ai_small_business",
+    "title": "Two-thirds of small firms using AI now build their own tools, Pax8 finds",
+    "url": "https://thenextweb.com/news/shadow-ai-small-businesses-pax8-survey",
+    "snippet": "Two-thirds of small firms using AI now build their own tools, Pax8 finds\n...\nSmall and mid-sized businesses have moved from buying AI tools to building their own. In every market surveyed, most do it without a formal, documented review, Pax8 found in a survey published on Monday.\n\nPax8 is a Denver-based marketplace. It sells AI and cloud software to small businesses through IT service providers. I"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-13",
+    "topic": "ai_small_business",
+    "title": "How many people does it take to run an agency? According to Bad Mktg, just two if you're using AI - Digiday",
+    "url": "https://digiday.com/marketing/how-many-people-does-it-take-to-run-an-agency-according-to-bad-mktg-just-two-if-youre-using-ai/",
+    "snippet": "Ian Buck and Yotem Dor have been working together for at least the last 15 years, but for the most recent three years, have operated a two-man independent agency they dubbed BaD Mktg.\n\nWorking with a coterie of freelance help crafting content for a variety of clients, the pair also put several LLMs to use to run most of the agency\u2019s back office operations, and even devised their own proprietary AI"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-13",
+    "topic": "ai_small_business",
+    "title": "Echo7 Launches AI Platform That Turns Business Knowledge and Data into Action | MarketMinute",
+    "url": "https://kqtv.marketminute.com/article/marketersmedia-2026-10-12-echo7-launches-ai-platform-that-turns-business-knowledge-and-data-into-action",
+    "snippet": "Custom AI assistants, natural-language business intelligence, integrations, AI agents and no-code workflows help businesses find information, analyse data and automate tasks using the tools they already rely on.\n\nLondon, United Kingdom, October 12, 2026 -- Echo7 today announces the launch of its artificial intelligence platform, enabling businesses to create custom assistants grounded in their own"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-13",
+    "topic": "ai_labs",
+    "title": "Strengthening our defenses against distillation attacks \\ Anthropic",
+    "url": "https://www.anthropic.com/research/distillation-defenses",
+    "snippet": "# Strengthening our defenses against distillation attacks \\ Anthropic\n...\nStrengthening our defenses against distillation attacks \\\\ Anthropic\n# Strengthening our defenses against distillation attacks\n...\nIn recent months, we\u2019ve made substantial progress on reducing the effectiveness of distillation attacks on Claude using new methods, as we outline in this blog. Early evidence suggests that these"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-13",
+    "topic": "ai_labs",
+    "title": "AI models may be capable of self-replicating without access to a datacenter \\ Anthropic",
+    "url": "https://www.anthropic.com/research/self-replicating-ai",
+    "snippet": "# AI models may be capable of self-replicating without access to a datacenter \\ Anthropic\n...\nAI models may be capable of self-replicating without access to a datacenter \\\\ Anthropic\n# AI models may be capable of self-replicating without access to a datacenter\n...\nOur experiments suggest that small AI models may be months away from being capable enough to self-replicate on commercial IoT devices, "
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-13",
+    "topic": "ai_labs",
+    "title": "2026-10-12 - TLDR AI",
+    "url": "https://ai.tldr.tech/p/2026-10-12-tldr-ai",
+    "snippet": "# 2026-10-12 - TLDR AI \n\nGemini 4 Carbon \ud83e\udde0, Nvidia weighs Reflection acquihire \ud83d\udcb0, decision model race \ud83e\udd16\n\nMatt Lee\n\nOct 12, 2026\n\n Last week, Google Cloud unveiled the Gemini agent\u2014a single, universal agent for work that answers questions, handles knowledge work, creates images and media, and writes and runs code:\n\n- \u2705 Multi-agent orchestration: Create sub-agents or coworker agents with dedicated i"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-13",
+    "topic": "ai_labs",
+    "title": "Google is using AI to help scientists understand diseases",
+    "url": "https://blog.google/innovation-and-ai/technology/health/ai-health-research/",
+    "snippet": "# Google is using AI to help scientists understand diseases\n...\nGoogle is using AI to help scientists understand diseases\n# Applying technology to understand and treat disease\n...\nIn collaboration with scientists and research partners, Google is helping to make disease more detectable, treatable, and preventable \u2014 with the goal of improving health outcomes.\n...\nPushmeet Kohli\nVP Science, Google De"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-13",
+    "topic": "ai_labs",
+    "title": "Google Health: Evolving so you can focus on living better",
+    "url": "https://blog.google/products-and-platforms/products/google-health/google-health-updates/",
+    "snippet": "Google Health: Evolving so you can focus on living better\n\nOct 12, 2026\n\n# Google Health: Evolving so you can focus on living better\n\nWhen we introduced the new Google Health app, Health Coach, and Fitbit Air just a few months ago, we set out on an ambitious journey: to shift health technology from a fragmented, reactive data-tracking ecosystem to a proactive, personalized companion for your every"
   }
 ]
