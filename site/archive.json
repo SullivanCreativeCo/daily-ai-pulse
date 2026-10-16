@@ -26914,5 +26914,279 @@
       "linkedin": [],
       "threads": []
     }
+  },
+  {
+    "kind": "digest",
+    "date": "2026-10-16",
+    "headline": "Meta put out the weights for Muse Spark Open. That's 816B parameters (42B active), a 1M-token context window, and built for agentic coding.",
+    "url": "archive/2026-10-16.html",
+    "posts": {
+      "linkedin": [
+        "Here's a pricing idea I wish I'd heard sooner.\n\nDon't charge for hours. Charge for the savings.\n\nDanny Laflamme sells a small business an AI setup. If it saves them $10,000 a month, that's $120,000 a year. He takes 10% of that. $12,000.\n\nBut he spreads it over four months, not twelve. Half down. A weekly 45-minute call. After four months they own the system and he's done.\n\nWhy that works: a monthly subscription means you owe them something every month, forever. A four-month project is concentrated work, and people churn way less when the end is in sight.\n\nAnd by month four, he's found a dozen other things they need. That's the next proposal.\n\nThe number isn't magic. The reason is. You can point at the savings and say \"this is why.\"\n\nWould a small business pay for that? I think a small business would pay for that.\n\nWhat's the one task your clients complain about most?",
+        "Stop saying you sell AI employees.\n\nNobody wants one. They want the thing they hate doing to stop landing on their desk.\n\nCorey Ganim laid this out well. Take a roofer who gets 40 leads a week. Most take a day or more to answer. If an agent drafts the reply in 5 minutes, that roofer makes money immediately.\n\nThat's the pitch. Not the tool. The 5 minutes.\n\nHere's what people skip, though. The hard part isn't the agent. It's loading the context. The SOPs, the examples of what good looks like, the brand voice. Without that it sounds like AI and it breaks.\n\nSo the real work is writing down how the job gets done. Boring. Also the reason clients keep paying every month.\n\nThat's not just a service, that's a weight removal product.\n\nWhat's a task in your business that happens five times a week and nobody likes doing?",
+        "A new model drops and the benchmarks look great.\n\nThen people try it on real work and the story changes.\n\nMeta's Muse Wonder is a good example. On paper it's right up near the top. Then Riley Brown used it for five hours and went back to Codex and Claude Code. Meta's own Alexander Wang said it plainly: try it on your actual coding work, not the 3D game demos.\n\nI like that. It's the honest version.\n\nThe question has shifted. It's not \"which model is best.\" It's \"where does this one fit in what I already do.\"\n\nSo here's what I'd do. Take one real task you do every week. Run it through whatever's new. Compare the output to what you already get.\n\nTen minutes. Way more useful than a leaderboard.\n\nWhat's the one task you'd use as your test?"
+      ],
+      "threads": [
+        "A 20-year-old makes about $2,000 every Saturday morning from her parents' front porch.\n\nBread, cookies, cinnamon rolls. A cart her family built from a $15 plan. A QR code. Sold out by 9.\n\nNo agency. No funnel. She posted what she was doing and people showed up.\n\nIf it's repeatable, it's a skill.\n\nI keep thinking about how small a good idea can be.",
+        "Every team has one person everybody pings when something new drops in AI.\n\nThey didn't get a title. They just got curious first.\n\nTurns out that's one of the highest ROI things a company can have. Someone a step ahead who shows the rest how it works.\n\nIf that's you, you're already doing the job.\n\nWho's that person on your team?",
+        "Most small businesses aren't short on AI tools.\n\nThey're short on a starting point.\n\nNobody tells them where to look. So they try a few things, get tired, and go back to the spreadsheet.\n\nThe move is to watch how the work actually gets done for a week. The repeat stuff will show itself.\n\nStart there. Skip the tool list.\n\nWhat's the thing you do on repeat that you've stopped noticing?"
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-10-16",
+    "source": "The Koerner Office",
+    "title": "She Makes $2K Every Saturday From Her Parents' Front Porch",
+    "url": "https://www.youtube.com/watch?v=4dlE1X84usg",
+    "video_id": "4dlE1X84usg"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-10-16",
+    "source": "The Koerner Office",
+    "title": "She Makes $2K/Hour From Her Parents' Front Porch",
+    "url": "https://www.youtube.com/watch?v=IlN3sDpPnrY",
+    "video_id": "IlN3sDpPnrY"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-10-16",
+    "source": "Startup Ideas Podcast",
+    "title": "Make cool things with AI that people buy (Gemini 4 Argon)",
+    "url": "https://www.youtube.com/watch?v=jEOUUAPC1sc",
+    "video_id": "jEOUUAPC1sc"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-10-16",
+    "source": "Corey Ganim",
+    "title": "He made $100K in his first year selling AI services (CASE STUDY)",
+    "url": "https://www.youtube.com/watch?v=-H31CMN4xpI",
+    "video_id": "-H31CMN4xpI"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-10-16",
+    "source": "Corey Ganim",
+    "title": "How to build AI employees with claude that clients pay monthly for (this feels illegal)",
+    "url": "https://www.youtube.com/watch?v=sc-PP1-URss",
+    "video_id": "sc-PP1-URss"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-10-16",
+    "source": "AI Daily Brief",
+    "title": "How to Go from AI Power User to AI Leader",
+    "url": "https://www.youtube.com/watch?v=wdXF-5nn-T4",
+    "video_id": "wdXF-5nn-T4"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-10-16",
+    "source": "AI Daily Brief",
+    "title": "Where Gemini 4 Argon Fits",
+    "url": "https://www.youtube.com/watch?v=SX9LQD3yINg",
+    "video_id": "SX9LQD3yINg"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-10-16",
+    "source": "AI Daily Brief",
+    "title": "How Muse Wonder Shifts the AI Landscape",
+    "url": "https://www.youtube.com/watch?v=Gzys8aXT8rs",
+    "video_id": "Gzys8aXT8rs"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-16",
+    "topic": "model_releases",
+    "title": "Introducing Muse Spark Open, The Most Capable US Open\u2011Weight Model to Date | Meta AI Research",
+    "url": "https://research.meta.ai/blog/muse-spark-open",
+    "snippet": "# Introducing Muse Spark Open, The Most Capable US Open\u2011Weight Model to Date | Meta AI Research\n...\nIntroducing Muse Spark Open, The Most Capable US Open\u2011Weight Model to Date | Meta AI Research\n# Introducing Muse Spark Open,\nThe Most Capable US Open\u2011Weight Model to Date\n...\nMuse Spark Open is available today and brings leading agentic capabilities to your desktop for the first time on Apple M5 Ult"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-16",
+    "topic": "model_releases",
+    "title": "Jais 3 Press Release | Institute of Foundation Models",
+    "url": "https://ifm.ai/jais3/press-release/",
+    "snippet": "# Institute of Foundation Models and Inception42 Launch Jais 3: the World\u2019s Leading Arabic-native AI for Speech, Writing and Agents \n\nBuilt on IFM\u2019s K2 Horizon Fleet, Jais 3 Combines Leading Arabic AI Performance with Deep Cultural Understanding to Power Speech, Writing, and Agents\n\n October 15, 2026 \u00b7 Institute of Foundation Models and Inception42\n...\nAbu Dhabi, UAE, October 15, 2026 \u2014 The Instit"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-16",
+    "topic": "model_releases",
+    "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+    "url": "https://huggingface.co/blog/meta-muse-spark-open",
+    "snippet": "# Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta\n...\n# Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta\nPublished October 15, 2026\n...\nMuse Spark Open is an open-weight model from Meta. The mixture of experts model brings text, images, audio, and video into a model with approximately 816 billion parameters, aro"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-16",
+    "topic": "model_releases",
+    "title": "\u30ea\u30b3\u30fc\u3001\u9ad8\u901f\u30fb\u7701\u30ea\u30bd\u30fc\u30b9\u3092\u7279\u5fb4\u3068\u3059\u308bMoE\u578b\u30de\u30eb\u30c1\u30e2\u30fc\u30c0\u30ebLLM\u300c\u30ea\u30b3\u30fcLMM_35B-A3B\u300d\u3092\u958b\u767a | TECH+\uff08\u30c6\u30c3\u30af\u30d7\u30e9\u30b9\uff09",
+    "url": "https://news.mynavi.jp/techplus/article/20261015-5132583/",
+    "snippet": "\u30ea\u30b3\u30fc\u3001\u9ad8\u901f\u30fb\u7701\u30ea\u30bd\u30fc\u30b9\u3092\u7279\u5fb4\u3068\u3059\u308bMoE\u578b\u30de\u30eb\u30c1\u30e2\u30fc\u30c0\u30ebLLM\u300c\u30ea\u30b3\u30fcLMM_35B-A3B\u300d\u3092\u958b\u767a | TECH+\uff08\u30c6\u30c3\u30af\u30d7\u30e9\u30b9\uff09\n\n# \u30ea\u30b3\u30fc\u3001\u9ad8\u901f\u30fb\u7701\u30ea\u30bd\u30fc\u30b9\u3092\u7279\u5fb4\u3068\u3059\u308bMoE\u578b\u30de\u30eb\u30c1\u30e2\u30fc\u30c0\u30ebLLM\u300c\u30ea\u30b3\u30fcLMM_35B-A3B\u300d\u3092\u958b\u767a \n\n\u63b2\u8f09\u65e5 2026/10/15 12:26 \n\n\u8457\u8005\uff1a \u718a\u8c37\u77e5\u6cf0 \n\n\u30ea\u30b3\u30fc\u306f10\u670815\u65e5\u3001\u65e5\u672c\u8a9e\u306e\u6587\u66f8\u3084\u56f3\u8868\u306b\u5bfe\u5fdc\u3057\u9ad8\u901f\u30fb\u7701\u30ea\u30bd\u30fc\u30b9\u3067\u52d5\u4f5c\u3059\u308b\u30de\u30eb\u30c1\u30e2\u30fc\u30c0\u30ebLLM\uff08Large Language Models\uff1a\u5927\u898f\u6a21\u8a00\u8a9e\u30e2\u30c7\u30eb\uff09\u300c\u30ea\u30b3\u30fcLMM_35B-A3B\u300d\u3092\u958b\u767a\u3057\u305f\u3053\u3068\u3092\u767a\u8868\u3057\u305f\u3002\n\n\u3053\u306e\u30e2\u30c7\u30eb\u306f\u30a2\u30ea\u30d0\u30d0\u30af\u30e9\u30a6\u30c9\u304c\u63d0\u4f9b\u3059\u308bMoE\uff08Mixture of Experts\uff09\u69cb\u9020\u3092\u63a1\u7528\u3057\u305f\u300cQwen3.6-35B-A3B\u300d\u3092\u30d9\u30fc\u30b9\u306b\u3001\u30ea\u30b3\u30fc\u72ec\u81ea\u306e\u5f37\u5316\u5b66\u7fd2\u304a\u3088\u3073\u30ab\u30ea\u30ad\u30e5\u30e9\u30e0\u5b66\u7fd2\u6280\u8853\u3092\u6d3b\u7528\u3057\u3066\u3001\u65e5\u672c\u8a9e\u3067\u306e\u30ea\u30fc\u30ba\u30cb\u30f3\u30b0\u6027\u80fd\u3092\u9ad8\u3081\u305f\u3082\u306e\u3002\n\n\u958b\u767a\u3057\u305f\u30e2\u30c7\u30eb\u306f"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-16",
+    "topic": "model_releases",
+    "title": "NVIDIA Releases Nemotron 3.5 Super VL, a 120B Open Multimodal Agent Model - MarkTechPost",
+    "url": "https://www.marktechpost.com/2026/10/15/nvidia-nemotron-3-5-super-vl-release/",
+    "snippet": "NVIDIA Releases Nemotron 3.5 Super VL, a 120B Open Multimodal Agent Model - MarkTechPost\n\n# NVIDIA Releases Nemotron 3.5 Super VL, a 120B Open Multimodal Agent Model\n...\nNVIDIA just released Nemotron 3.5 Super VL, an open vision-language model built for always-on enterprise agents. Nemotron 3.5 Super VL is a 120B-parameter mixture-of-experts model from NVIDIA that activates 12B parameters per toke"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-16",
+    "topic": "product_releases",
+    "title": "Google's Universal Cart Launches New Shopping Tool Powered by Gemini AI\u2014What Are Its Features?",
+    "url": "https://www.techtimes.com/articles/329147/20261016/googles-universal-cart-launches-new-shopping-tool-powered-gemini-ai-what-are-its-features.htm",
+    "snippet": "Google's Universal Cart Launches New Shopping Tool Powered by Gemini AI\u2014What Are Its Features?\n...\nyou with your shopping needs.\n...\n## Google Launches the Universal Cart AI Shopping Tool\n\nGoogle has officially launched Universal Cart in the United States, rolling the new AI-powered shopping tool out across Google Search and the Gemini app. The feature was first announced during Google I/O 2026 in"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-16",
+    "topic": "product_releases",
+    "title": "Xenon launches GenA AI agent portal",
+    "url": "https://www.digitaltoday.co.kr/en/view/114810/xenon-launches-gena-ai-agent-portal",
+    "snippet": "Xenon launches GenA AI agent portal\n\n Updated 6:20 PM KST, Fri October 16, 2026 | Mobile Web \n\n Generative AI solutions company Xenon has officially launched GenA, an integrated portal for AI agents, and released an Android app. The service lets users access multiple AI agents on a single platform without switching between services. GenA currently offers six agents, including slide creation, resea"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-16",
+    "topic": "product_releases",
+    "title": "MacPaw launches Eney, the proactive AI assistant that lives on your Mac and iPhone and handles everyday tasks",
+    "url": "https://www.prnewswire.com/news-releases/macpaw-launches-eney-the-proactive-ai-assistant-that-lives-on-your-mac-and-iphone-and-handles-everyday-tasks-302909010.html",
+    "snippet": "MacPaw launches Eney, the proactive AI assistant that lives on your Mac and iPhone and handles everyday tasks\n\n# MacPaw launches Eney, the proactive AI assistant that lives on your Mac and iPhone and handles everyday tasks\n\n MacPaw \n\nOct 15, 2026, 08:03 ET\n...\nBOSTON, Oct. 15, 2026 /PRNewswire/ -- MacPaw, a global AI technology company, today launched Eney, a proactive AI assistant that lives on M"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-16",
+    "topic": "product_releases",
+    "title": "OpenAI Rolls Out GPT-Live-1.1 to All Users With 13 New Voices Across Six Non-English Languages | AI Weekly",
+    "url": "https://aiweekly.co/alerts/openai-rolls-out-gpt-live-11-to-all-users-with-13-new-voices-across-six-non",
+    "snippet": "OpenAI Rolls Out GPT-Live-1.1 to All Users With 13 New Voices Across Six Non-English Languages | AI Weekly\n\n# OpenAI Rolls Out GPT-Live-1.1 to All Users With 13 New Voices Across Six Non-English Languages \n\n By Alexis Dufresne \u00b7 Published October 16, 2026 at 00:31 UTC \n\n## Summary\n\n OpenAI began rolling out GPT-Live-1.1 across ChatGPT, Codex and dots on October 15, adding 13 new voices and markedl"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-16",
+    "topic": "ai_agents",
+    "title": "Agent Native beta connects AI agents and app interfaces",
+    "url": "https://bytefwd.com/builder-agent-native-beta-shared-app-actions/",
+    "snippet": "Agent Native beta connects AI agents and app interfaces\n\n# Builder.io launches Agent Native beta for apps shared with AI\n\n- Maya Chen\n- October 15, 2026\n- AI Agents, Tools\n- 2 mins\n\nIllustrative developer workstation. Photo by Bijay Yadav, WordPress Photo Directory, CC0. This does not show Agent Native.\n\nBuilder.io launched Agent Native in beta on October 14, offering a TypeScript framework for ap"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-16",
+    "topic": "ai_agents",
+    "title": "Delegate shared business processes to agents that are more persistent and proactive | Microsoft Copilot Blog",
+    "url": "https://www.microsoft.com/en-us/copilot/blog/copilot-studio/delegate-shared-business-processes-to-agents-that-are-more-persistent-and-proactive-with-microsoft-copilot-studio/",
+    "snippet": "# Delegate shared business processes to agents that are more persistent and proactive with Microsoft Copilot Studio \n\n By Jason Moore, view all posts by this author, Vice President of Product, Microsoft Copilot Studio\n...\nIn September 2026, Microsoft announced the next evolution of Copilot, designed to be more personalized and proactive for each person. Process transformation can benefit from some"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-16",
+    "topic": "ai_agents",
+    "title": "ServiceNow introduces the third generation of its employee-centric AI harness so the workforce can build and use the AI their jobs demand - ServiceNow Newsroom",
+    "url": "https://newsroom.servicenow.com/press-releases/details/2026/ServiceNow-introduces-the-third-generation-of-its-employee-centric-AI-harness-so-the-workforce-can-build-and-use-the-AI-their-jobs-demand/default.aspx",
+    "snippet": "### ServiceNow introduces the third generation of its employee-centric AI harness so the workforce can build and use the AI their jobs demand \n\n 10/15/2026 \n\n ServiceNow EmployeeWorks empowers every employee to build and customize AI agents, no code required \n\n With ToolSmith, developers can quickly and securely vibe code enterprise AI tools for ServiceNow EmployeeWorks enterprise assistants \n\nSAN"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-16",
+    "topic": "ai_agents",
+    "title": "AWS Introduces Strands Decider 2B and Strands Box for AI Agent Development - InfoQ",
+    "url": "https://www.infoq.com/news/2026/10/aws-strands-agents/",
+    "snippet": "AWS Introduces Strands Decider 2B and Strands Box for AI Agent Development -\n...\n# AWS Introduces Strands Decider 2B and Strands Box for AI Agent Development \n\nOct 16, 2026 3 min read\n...\nAWS has introduced two open-source projects for AI agent development: Strands Decider 2B, a small model designed to make decisions within agent workflows, and Strands Box, a sandbox for controlling agent executio"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-16",
+    "topic": "ai_agents",
+    "title": "Benchling launches Science Foundries, a new way for scientists and agents to work together",
+    "url": "https://www.prnewswire.com/news-releases/benchling-launches-science-foundries-a-new-way-for-scientists-and-agents-to-work-together-302909974.html",
+    "snippet": "Benchling launches Science Foundries, a new way for scientists and agents to work together\n...\nSAN FRANCISCO, Oct. 15, 2026 /PRNewswire/ -- Benchling today launched Science Foundries, a new way to run scientific processes end-to-end with agents and scientists working together.\n\nWith Science Foundries, R&D teams pick a process or a goal, such as produce proteins, optimize a promising lead, or impro"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-16",
+    "topic": "ai_small_business",
+    "title": "MemoryLane Launches AI Process Discovery Tool That Shows Small Teams What to Automate",
+    "url": "https://www.einpresswire.com/article/949815044/memorylane-launches-ai-process-discovery-tool-that-shows-small-teams-what-to-automate",
+    "snippet": "MemoryLane Launches AI Process Discovery Tool That Shows Small Teams What to Automate \n\n# MemoryLane Launches AI Process Discovery Tool That Shows Small Teams What to Automate\n\nNews Provided By SenseFlow, Inc. October 15, 2026, 13:21 GMT \n\nFind, build, automate loop\n\nMemoryLane shared dashboard showing team patterns\n\nRuns in the background, maps how your team really works and ranks repetitive task"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-16",
+    "topic": "ai_small_business",
+    "title": "Vilnius-based Holo raises \u20ac5M to bring AI-powered marketing to small businesses - Tech.eu",
+    "url": "https://tech.eu/2026/10/15/vilnius-based-holo-raises-eur5m-to-bring-ai-powered-marketing-to-small-businesses/",
+    "snippet": "Vilnius-based Holo raises \u20ac5M to bring AI-powered marketing to small businesses - Tech.eu\n\n# Vilnius-based Holo raises \u20ac5M to bring AI-powered marketing to small businesses\n\n Holo develops an AI-powered platform that helps small businesses plan, create and automate marketing campaigns, combining content generation, campaign management and performance optimisation in a single solution. \n\n Tamara Dj"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-16",
+    "topic": "ai_small_business",
+    "title": "Cogya Releases the AI Canvas Framework to Help Small and Mid-Sized Businesses Plan AI Projects",
+    "url": "https://www.einpresswire.com/article/949825938/cogya-releases-the-ai-canvas-framework-to-help-small-and-mid-sized-businesses-plan-ai-projects",
+    "snippet": "AMI, FL, UNITED STATES, October 15, 2026 / EINPresswire.com/ -- Presented at conferences in Dubai, Abu Dhabi, Lisbon, Chicago and Miami, the free framework helps small and mid-sized businesses pinpoint the operational bottleneck worth fixing first. Cogya then builds the AI software to fix it, starting with a proof of concept on the client's own data. Cogya, a Miami-based company that designs and b"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-16",
+    "topic": "ai_small_business",
+    "title": "He was spending P50,000 a month on apps and agencies. Now he teaches business owners to build their own | Philstar.com",
+    "url": "https://www.philstar.com/lifestyle/lifestyle-features/2026/10/15/2563199/he-was-spending-p50000-month-apps-and-agencies-now-he-teaches-business-owners-build-their-own",
+    "snippet": "# He was spending P50,000 a month on apps and agencies. Now he teaches business owners to build their own\n\nPhilstar.com October 15, 2026 | 4:30pm\n\nBossLabs AI founder Michael Manago runs weekend retreats that send non-technical owners home with a working app\n\nMANILA, Philippines \u2014 Michael \u201cMikey\u201d Manago ran businesses in car detailing, logistics, construction, real estate and healthcare, and each "
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-16",
+    "topic": "ai_small_business",
+    "title": "Agency Leverages Grok Bot for 21 Weekly AI-Powered Workflows | marketerintel",
+    "url": "https://www.marketerintel.com/article/agency-leverages-grok-bot-for-21-weekly-ai-powered-workflows-mvaeafql",
+    "snippet": "Agency Leverages Grok Bot for 21 Weekly AI-Powered Workflows | marketerintel\n\n# Agency Leverages Grok Bot for 21 Weekly AI-Powered Workflows\n\nSingle Grain 5h ago\u00b7 1 min read AI Tools\n\nAI Summary\n\nAn agency has implemented over twenty weekly use cases for Grok Bot, automating tasks across SEO, content, paid media, sales, hiring, and operations. These AI agents handle drafting, scoring, and flagging"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-16",
+    "topic": "ai_labs",
+    "title": "Anthropic update on independent evaluators \\ Anthropic",
+    "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+    "snippet": "Anthropic update on independent evaluators \\ Anthropic\n\n# An update on independent evaluators\n\nOct 15, 2026\n\nLast month, we committed to stronger independent, third-party assessment of our models and safety practices. We also signed the White House Accord on Super Intelligence, in which companies pledged to partner with independent external auditors or evaluators. Today, we\u2019re announcing that we\u2019v"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-16",
+    "topic": "ai_labs",
+    "title": "Google Antigravity: Accelerating Antimicrobial Peptide Search \u2014 Google DeepMind",
+    "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+    "snippet": "# Google Antigravity: Accelerating Antimicrobial Peptide Search \u2014 Google DeepMind\n...\nGoogle Antigravity: Accelerating Antimicrobial Peptide Search \u2014 Google DeepMind\n...\n# Accelerating the search for antimicrobial peptides with Google Antigravity\n...\nNew antibiotics are urgently needed to help with rising levels of antimicrobial resistance, but searching for new therapeutics is often a slow, labor"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-16",
+    "topic": "ai_labs",
+    "title": "Bringing GPT-Rosalind to academic research labs | OpenAI",
+    "url": "https://openai.com/index/introducing-the-rosalind-academic-plan/",
+    "snippet": "# Bringing GPT-Rosalind to academic research labs | OpenAI\n\nPublished: 2026-10-15T00:00:00Z\nSource: openai.com\nLanguage: en"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-16",
+    "topic": "ai_labs",
+    "title": "Timestral: Mistral's time-series foundation models | Mistral",
+    "url": "https://mistral.ai/news/timestral/",
+    "snippet": "Timestral: Mistral's time-series foundation models | Mistral\n\n# Introducing Timestral\n\nOctober 15, 2026\n...\nTimestral, Mistral\u2019s first family of time-series foundation models, delivers state-of-the-art probabilistic, multivariate forecasts with just 209M parameters, outperforming larger models on key benchmarks while supporting past and future covariates. Available in four sizes (5M to 209M parame"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-16",
+    "topic": "ai_labs",
+    "title": "AI Mode and AI Overviews updates to explore the web",
+    "url": "https://blog.google/products-and-platforms/products/search/updates-ai-mode-overviews-explore-web/",
+    "snippet": "AI Mode and AI Overviews updates to explore the web\n\n# More ways to connect with the web from Search\n\nOct 15, 2026\n\n We\u2019re updating AI Mode and AI Overviews with clearer inline links, context about sources, timely articles and more to help you explore the best of the web. \n\nHema Budaraju\n\nVP, Product Management\n\n \n\n- \"More ways to connect with the web from Search\" makes finding information easier "
   }
 ]
