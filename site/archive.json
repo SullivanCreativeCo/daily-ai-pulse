@@ -27188,5 +27188,247 @@
     "title": "AI Mode and AI Overviews updates to explore the web",
     "url": "https://blog.google/products-and-platforms/products/search/updates-ai-mode-overviews-explore-web/",
     "snippet": "AI Mode and AI Overviews updates to explore the web\n\n# More ways to connect with the web from Search\n\nOct 15, 2026\n\n We\u2019re updating AI Mode and AI Overviews with clearer inline links, context about sources, timely articles and more to help you explore the best of the web. \n\nHema Budaraju\n\nVP, Product Management\n\n \n\n- \"More ways to connect with the web from Search\" makes finding information easier "
+  },
+  {
+    "kind": "digest",
+    "date": "2026-10-17",
+    "headline": "Open weights had a week. Meta shipped Muse Spark Open, Reflection shipped Beam, and StepFun opened up Step 5 Preview. That's three huge models you can download, and Beam is Apache 2.0.",
+    "url": "archive/2026-10-17.html",
+    "posts": {
+      "linkedin": [
+        "Three big models dropped in about 48 hours, and you can download all of them.\n\nMeta put out Muse Spark Open. Reflection shipped Beam under Apache 2.0. StepFun opened up Step 5 Preview.\n\nHere's why a small business owner should care. Not because they'll run one. Meta's needs about a terabyte of memory. Nobody's putting that on a laptop.\n\nIt matters because being locked in just got cheaper to escape. The people building your tools have more doors to walk through now.\n\nSo when a vendor says this only works with one model, that's a fair question to ask. Why?\n\nI think the owners I talk to need a simpler way to see it. You don't pick the model. You pick the job. Somebody else worries about the engine under the hood.\n\nWould someone pay for that? I think someone would pay for that. That's not just a service, that's a weight removal product.\n\nWho's actually asking their vendor which models run under the hood?",
+        "A video came across my feed today about feeling behind on AI.\n\nThe part that stuck: a lot of the people who look like they've automated everything are posting for views. Corey Ganim even admits he's been guilty of it himself.\n\nThe real work is way smaller.\n\nUse Claude or ChatGPT on one real task. Get the output to where it sounds like you. Then save that as a skill, so you never argue with it about the same email again.\n\nThat's it. That's the whole first rung.\n\nThen comes the part people skip. Sit with a business owner for 15 minutes. Listen to what's annoying them. Point at one tool that helps. Free. No build.\n\nCorey says he has five clients on the paid version, about $8,000 a month. I can't verify that number. But the free 15 minutes? That costs nothing to test.\n\nIf it's repeatable, it's a skill. And skills are what people pay for.\n\nWhat's one thing you did twice this week that you could write down?",
+        "Someone at Anthropic asked a model where the NIST elliptic curve seeds came from. Under half an hour later, it had an answer.\n\nPeople have wondered about this for years. The rumor was that the seeds were a hash of a joke phrase. Several people at Anthropic chased that and got nowhere.\n\nClaude dropped the rumor. It guessed how a 1990s program would have made random numbers, scanned the seeds for that fingerprint, and found it. An old C library generator, started from the clock.\n\nNo backdoor. No attack. Anthropic says it makes them more confident the curves are clean.\n\nHere's what I keep thinking about. The win wasn't a smarter answer. It was a different question. Stop looking for the phrase. Ask how the machine that made it would have worked.\n\nHow would I fix this? Sometimes that starts with how it was built in the first place.\n\nAnyone got a problem that's been stuck because everybody keeps chasing the same clue?"
+      ],
+      "threads": [
+        "A missed call is a lost sale for a lot of small businesses. Cleaning company, HVAC, insurance office.\n\nA startup called Dapta just raised $6 million to answer those calls and WhatsApp messages with an AI agent. Plans start at $99 a month.\n\nI don't know if theirs is the one. But the problem is real.\n\nSomebody's phone rang at 6pm yesterday and nobody picked up.\n\nWould someone pay to fix that? I think someone would.",
+        "Kiro shipped Workflows this week. You write a recipe once: plan, build, two reviewers check the work, open a pull request. It runs in the background while you do something else.\n\nDifferent tool, same idea as everything else this week. Write the steps down once so you stop re-explaining them.\n\nIf it's repeatable, it's a skill.\n\nThe boring part of your week is probably the most useful thing you could package up. What do you re-explain every Monday?",
+        "Anthropic asked its own staff and regular US adults the same questions about AI.\n\nBoth groups agree on what it can do today. They split on how fast it gets better. 91% of staff expect a Nobel-level discovery from AI by 2030. 39% of US adults do.\n\nSame facts, different calendars.\n\nYour customers are making buying decisions on their clock, not yours.\n\nWhere's your client's clock set?"
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-10-17",
+    "source": "Corey Ganim",
+    "title": "This video will find you when you feel behind on AI (it's not too late)",
+    "url": "https://www.youtube.com/watch?v=s5SHKihWLIU",
+    "video_id": "s5SHKihWLIU"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-10-17",
+    "source": "AI Daily Brief",
+    "title": "The Most Important AI Model Announcements This Week",
+    "url": "https://www.youtube.com/watch?v=pmuGWJte_EY",
+    "video_id": "pmuGWJte_EY"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-10-17",
+    "source": "AI Daily Brief",
+    "title": "AI Is Rebuilding Photoshop and Games From Scratch",
+    "url": "https://www.youtube.com/watch?v=xIFMwhvvUUo",
+    "video_id": "xIFMwhvvUUo"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-17",
+    "topic": "model_releases",
+    "title": "Beam is now available \u2014 Reflection",
+    "url": "https://reflection.ai/blog/beam-is-available",
+    "snippet": "Beam is now available \u2014 Reflection\n\n# Beam is now available\n\nOctober 16, 2026| 6 min read\n\nBeam is our first open-weight model, built for advanced coding, reasoning, and long-horizon agentic workloads with frontier reasoning efficiency. Today, we have released Beam\u2019s model weights on Hugging Face under an Apache 2.0 license. Our model card includes final benchmarks, and the Beam Safety Technical R"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-17",
+    "topic": "model_releases",
+    "title": "Microsoft reveals cutting-edge MAI-Base-2 model with 2T parameters - SiliconANGLE",
+    "url": "https://siliconangle.com/2026/10/16/microsoft-reveals-cutting-edge-mai-base-2-model-with-2t-parameters/",
+    "snippet": "Microsoft reveals cutting-edge MAI-Base-2 model with 2T parameters - SiliconANGLE\n\n UPDATED 20:39 EDT / OCTOBER 16 2026 \n\n### Microsoft reveals cutting-edge MAI-Base-2 model with 2T parameters\n\n by Maria Deutscher \n\nMicrosoft Corp. has developed a new large language model that it says is significantly more efficient than leading open-source alternatives. \n\nThe company\u2019s artificial intelligence res"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-17",
+    "topic": "model_releases",
+    "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+    "url": "https://huggingface.co/blog/reflection-beam",
+    "snippet": "# Welcome Beam: a 501B open model you can own, customize, and scale\n...\n# Welcome Beam: a 501B open model you can own, customize, and scale\n...\nBeam by Reflection is out on Hugging Face! It is the first model from the new US lab, Reflection, and it\u2019s open! It's a mixture-of-experts (MoEs) model with 501B parameters (23B active per token), supports text as input, has a **context window of 1M tokens"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-17",
+    "topic": "model_releases",
+    "title": "StepFun Releases Step 5 Preview Open Weights: 600B MoE, 27B Active, 1M Context - MarkTechPost",
+    "url": "https://www.marktechpost.com/2026/10/16/stepfun-releases-step-5-preview-open-weights-600b-moe-27b-active-1m-context/",
+    "snippet": "StepFun Releases Step 5 Preview Open Weights: 600B MoE, 27B Active, 1M Context - MarkTechPost\n\n# StepFun Releases Step 5 Preview Open Weights: 600B MoE, 27B Active, 1M Context\n...\nStepFun has released Step 5 Preview as open weights. FP8 and BF16 checkpoints are live on Hugging Face and ModelScope. Step 5 Preview is a sparse Mixture-of-Experts model from StepFun built for long-horizon agentic work."
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-17",
+    "topic": "model_releases",
+    "title": "Meta Releases Muse Spark Open: 816B Open-Weight MoE With 1M Context - MarkTechPost",
+    "url": "https://www.marktechpost.com/2026/10/15/meta-muse-spark-open-816b-open-weight-model/",
+    "snippet": "# Meta Releases Muse Spark Open: 816B Open-Weight MoE With 1M Context - MarkTechPost\n\nAuthor: Asif Razzaq\nPublished: 2026-10-16T02:26:04Z\nSource: marktechpost.com\nLanguage: en"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-17",
+    "topic": "product_releases",
+    "title": "Meta Muse Wonder and Muse Wonder Full launch",
+    "url": "https://aiholics.com/meta-muse-wonder-muse-wonder-full-agent-models/",
+    "snippet": "Meta Muse Wonder: new frontier models built for agents\n...\nMeta has released Muse Wonder and Muse Wonder Full, agent-focused models with persistent memory, available today through its API and the Muse Code coding product.\n...\nMeta has introduced Muse Wonder and Muse Wonder Full, which it calls its most capable models to date. According to the official announcement, they are built for personal and "
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-17",
+    "topic": "product_releases",
+    "title": "GMT EIGHT - Latest - Tencent AI assistant Marvis HarmonyOS version officially launched.",
+    "url": "https://gmteight.com/flash/detail/1557172",
+    "snippet": "GMT EIGHT - Latest - Tencent AI assistant Marvis HarmonyOS version officially launched.\n\n# Tencent AI assistant Marvis HarmonyOS version officially launched.\n\n17/10/2026\n\nTencent's OS-level personal AI assistant Marvis HarmonyOS version has officially launched on the HarmonyOS app market. According to the introduction, the Marvis HarmonyOS version maintains feature parity with the Android and iOS "
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-17",
+    "topic": "product_releases",
+    "title": "OpenAI Adds Parallel Agents to GPT-6 Pro and Updates Codex Usage | TokenPost",
+    "url": "https://www.tokenpost.com/news/technology/33923",
+    "snippet": "OpenAI Adds Parallel Agents to GPT-6 Pro and Updates Codex Usage | TokenPost\n\n# OpenAI Adds Parallel Agents to GPT-6 Pro and Updates Codex Usage\n\nThe GPT-6 Pro feature is rolling out to eligible ChatGPT Pro accounts. A separate Oct. 17 update changes context handling in Codex and ChatGPT Work.\n\nBy Simon Yoon\n\nPublished Oct 17, 2026, 6:41 AM EDT\n\nA phone screen displays several blank tiles in paral"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-17",
+    "topic": "product_releases",
+    "title": "Sparkian Launches $19 AI Workspace Offering 100+ Models, Versus About $60 for Three Separate Chatbot Subscriptions - USA Today",
+    "url": "https://www.usatoday.com/press-release/story/51241/sparkian-launches-19-ai-workspace-offering-100-models-versus-about-60-for-three-separate-chatbot-subscriptions/",
+    "snippet": "# Sparkian Launches $19 AI Workspace Offering 100+ Models, Versus About $60 for Three Separate Chatbot Subscriptions - USA Today\n\nAuthor: Sparkian's\nPublished: 2026-10-17T08:38:14Z\nSource: usatoday.com\nLanguage: en"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-17",
+    "topic": "product_releases",
+    "title": "Meta releases Muse Spark Open, a new \u2018open-weight\u2019 AI model | AI (artificial intelligence) | The Guardian",
+    "url": "https://www.theguardian.com/technology/2026/oct/16/meta-releases-muse-spark-open-a-new-open-weight-ai-model",
+    "snippet": "Meta releases Muse Spark Open, a new \u2018open-weight\u2019 AI model | AI (artificial intelligence) | The Guardian\n\nMeta says its new open-weight AI model rivals and in some cases outperforms Chinese equivalents. Photograph: Dado Ruvi\u0107/Reuters\n\nView image in fullscreen\n\nMeta says its new open-weight AI model rivals and in some cases outperforms Chinese equivalents. Photograph: Dado Ruvi\u0107/Reuters\n\n# Meta re"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-17",
+    "topic": "ai_agents",
+    "title": "Builder.io Launches Open-Source Agent-Native TypeScript Framework in Beta | NeuralStack",
+    "url": "https://www.neuralstack.network/article/2026-10-16-builderio-agent-native-typescript-framework-beta",
+    "snippet": "Builder.io Launches Open-Source Agent-Native TypeScript Framework in Beta | NeuralStack\n\n \ud83d\udee0\ufe0f Tools / October 16, 2026 / via agentry.news / updated 22h ago \n\n# Builder.io Launches Open-Source Agent-Native TypeScript Framework in Beta\n\nBuilder.io has launched Agent-Native, a free, open-source TypeScript framework that lets AI agents and interactive interfaces share actions, data, and application sta"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-17",
+    "topic": "ai_agents",
+    "title": "Pi Launches Durable Framework and Native MCP Support for Agents | Today for AI",
+    "url": "https://todayforai.com/en/items/art-64e3d2ac-eb4",
+    "snippet": "Pi has upgraded to version 1.0, launching the new Pi Durable infrastructure framework and officially integrating the Model Context Protocol (MCP). Pi Durable handles state management, crash recovery, and task scheduling, significantly reducing boilerplate code for long-running agents. Additionally, Pi reversed its previous stance on MCP, adopting a progressive disclosure mechanism to balance token"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-17",
+    "topic": "ai_agents",
+    "title": "Kiro Workflows brings reusable multi-agent graphs to its IDE | Augmenter.dev",
+    "url": "https://augmenter.dev/articles/kiro-workflows-brings-reusable-multi-agent-graphs-to-its-ide-1792133384931/",
+    "snippet": "Kiro has just rolled out Workflows, bringing reusable graph-based recipes to orchestrate multi-agent work across its IDE, CLI, and Web. Runs happen in the background with independent step sessions, plus loops and parallel branches to reduce repetitive prompting.\n...\n- Workflows: Reusable multi-agent graphs with sequential steps, loops, and parallel branches; reduces repeated prompting via coordina"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-17",
+    "topic": "ai_agents",
+    "title": "Introducing the next generation of Agents in Profound",
+    "url": "https://www.tryprofound.com/blog/introducing-the-next-generation-of-marketing-agents",
+    "snippet": "Introducing the next generation of Agents in Profound\n\n16 Oct, 2026/ Product\n\n# Introducing the next generation of Agents in Profound\n\nJack Traina, Member of Technical Staff, Product\n\nGarrett Gomez, Manager, Product Marketing\n\nMost marketing work resists automation by nature.\n\nTake something as simple as a weekly visibility report. Pulling the numbers is mechanical. Deciding which movement is wort"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-17",
+    "topic": "ai_agents",
+    "title": "Process and Control Today | Poka launches no-code AI Studio to bring Industrial AI agents to every shop floor to help manage human processes",
+    "url": "https://www.pandct.com/news/poka-launches-no-code-ai-studio-to-bring-industrial-ai-agents-to-every-shop-floor-to-help-manage-human-processes/",
+    "snippet": "Process and Control Today | Poka launches no-code AI Studio to bring Industrial AI agents to every shop floor to help manage human processes\n\n# Poka launches no-code AI Studio to bring Industrial AI agents to every shop floor to help manage human processes\n\n16/10/2026 IFS UK Ltd \n\n- Manufacturers can now design, build, and deploy their own agents for connected work within weeks\n- Built on twelve y"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-17",
+    "topic": "ai_small_business",
+    "title": "JP Urban Digital Launches AI Workflow Automation Services to Help Businesses Streamline Operations",
+    "url": "https://www.newsfilecorp.com/release/319202/JP-Urban-Digital-Launches-AI-Workflow-Automation-Services-to-Help-Businesses-Streamline-Operations",
+    "snippet": "Brooklyn, New York--(Newsfile Corp. - October 16, 2026) - JP Urban Digital, a Brooklyn-based Marketing & AI Agency, is introducing an expanded focus on AI workflow automation to help businesses connect their existing software, reduce repetitive manual tasks, and improve how information moves across marketing, sales, and internal operations.\n\n To view an enhanced version of this graphic, please vis"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-17",
+    "topic": "ai_small_business",
+    "title": "Dapta: Colombian-Founded Startup Raises US$6M to Put AI Sales Agents in Small Businesses",
+    "url": "https://www.theinvestorsociety.com/dapta-colombian-founded-startup-raises-us-6m-to-put-ai-sales-agents-in-small-businesses/",
+    "snippet": "Dapta, an AI sales startup founded by Colombian entrepreneur Nicol\u00e1s Rojas, announced on October 13, 2026, a US$6 million seed round led by Chingona Ventures. New investors Crew Capital, Broom Ventures and Cometa joined, along with returning pre-seed backers 500 Global and Fen Ventures. The round follows a US$1.4 million pre-seed in 2024, bringing total funding to US$7.4 million. Coverage places t"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-17",
+    "topic": "ai_small_business",
+    "title": "Cogya Releases the AI Canvas Framework to Help Small and Mid-Sized Businesses Plan AI Projects",
+    "url": "https://aithority.com/machine-learning/cogya-releases-the-ai-canvas-framework-to-help-small-and-mid-sized-businesses-plan-ai-projects/",
+    "snippet": "# Cogya Releases the AI Canvas Framework to Help Small and Mid-Sized Businesses Plan AI Projects\n\nAuthor: EIN Presswire\nPublished: 2026-10-16T08:31:50Z\nSource: aithority.com\nLanguage: en"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-17",
+    "topic": "ai_small_business",
+    "title": "A baker's week with AI: 4 small-business workflows you can copy - DEV Community",
+    "url": "https://dev.to/roarworkflows/a-bakers-week-with-ai-4-small-business-workflows-you-can-copy-1h8k",
+    "snippet": "# A baker's week with AI: 4 small-business workflows you can copy - DEV Community\n\nAuthor: Roar Workflows\nPublished: 2026-10-17T03:05:51Z\nSource: dev.to\nLanguage: en"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-17",
+    "topic": "ai_small_business",
+    "title": "Omada.ai Launches the World's First AI Marketing Team for SMBs -- a Growth Engine Built to Power Main Street",
+    "url": "https://www.streetinsider.com/Press+Releases/Omada.ai+Launches+the+Worlds+First+AI+Marketing+Team+for+SMBs+--+a+Growth+Engine+Built+to+Power+Main+Street/25479472.html",
+    "snippet": "Omada launches the first fully autonomous AI marketing team for SMBs\u2014replacing agencies, tools, and burnout with a proactive system that drives growth for under $9 a day.\n...\nSmall businesses don't need another tool or copilot\u2014they need a proactive Team that understands their business, keeps them visible across every channel, and drives growth. At less than $9 a day, it's now within reach. \u2014 Pete "
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-17",
+    "topic": "ai_labs",
+    "title": "Designing more efficient quantum circuits with Claude \\ Anthropic",
+    "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+    "snippet": "# Designing more efficient quantum circuits with Claude \\ Anthropic\n\nPublished: 2026-10-16T17:2 ... :00Z\nSource: anthropic.com\n...\nDesigning more efficient quantum circuits with Claude \\\\ Anthropic\n# Designing more efficient quantum circuits with Claude\n...\n*Quantum computers will need carefully designed circuits to run useful algorithms on limited hardware. We gave Claude plain-language specifica"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-17",
+    "topic": "ai_labs",
+    "title": "3 new study features in Gemini Notebook",
+    "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/three-tips-study-gemini-notebook/",
+    "snippet": "3 new study features in Gemini Notebook\n\n# We\u2019re sharing 3 tips to study smarter with Gemini Notebook.\n\nLisa Oguike\n\nEducation team\n\nOct 16, 2026\n\nStudying for exams can feel overwhelming. To help you prepare, we recently launched three new features in Gemini Notebook to make your learning more structured and engaging.\n\n1. Short Video Overviews: If you\u2019re trying to quickly grasp a tricky concept, "
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-17",
+    "topic": "ai_labs",
+    "title": "Claude reveals ECDSA curve origins \\ Anthropic",
+    "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+    "snippet": "Claude reveals ECDSA curve origins \\ Anthropic\n\n# Claude reveals ECDSA curve origins\n...\nSeveral Anthropic employees had unsuccessfully chased the seeds following the tip about it being a hash of a humorous phrase. That turned out to be wrong. In October 2026, a curious Anthropic employee asked an internal research model if it could figure out how those seeds were generated without pointing at the"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-17",
+    "topic": "ai_labs",
+    "title": "The AI expectations gap \\ Anthropic",
+    "url": "https://www.anthropic.com/research/ai-expectations-gap",
+    "snippet": "# The AI expectations gap \\ Anthropic\n\nPublished: 2026-10-16T16:45:00Z\nSource: anthropic.com\n...\nThe AI expectations gap \\\\ Anthropic\n# The AI expectations gap\nOct 16\n...\nThis note presents new survey evidence on these questions. In August 2026, we surveyed two groups: a sample of US adults that was nationally representative and Anthropic staff. 1 The questions covered, among other things, AI\u2019s ca"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-17",
+    "topic": "ai_labs",
+    "title": "Gemini 4 Argon ist jetzt f\u00fcr alle verf\u00fcgbar - Google Blog",
+    "url": "https://blog.google/intl/de-de/produkte/suchen-entdecken/gemini-4/",
+    "snippet": "Gemini 4 Argon ist jetzt f\u00fcr alle verf\u00fcgbar\n\n# Gemini 4 Argon: Entwickelt, um eure schwierigsten Probleme zu l\u00f6sen\n\n Entwickler*innen, Unternehmen, Wissenschaftler*innen und Nutzer*innen haben jetzt Zugang zu Gemini 4 Argon, unserem neuesten Spitzenmodell. \n\nKoray Kavukcuoglu\n\nSVP, Google DeepMind and Chief AI Architect, Google\n\nGemini 4 Argon ist ab heute weltweit f\u00fcr Entwickler*innen und Unterne"
   }
 ]
