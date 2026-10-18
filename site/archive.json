@@ -27430,5 +27430,167 @@
     "title": "Gemini 4 Argon ist jetzt f\u00fcr alle verf\u00fcgbar - Google Blog",
     "url": "https://blog.google/intl/de-de/produkte/suchen-entdecken/gemini-4/",
     "snippet": "Gemini 4 Argon ist jetzt f\u00fcr alle verf\u00fcgbar\n\n# Gemini 4 Argon: Entwickelt, um eure schwierigsten Probleme zu l\u00f6sen\n\n Entwickler*innen, Unternehmen, Wissenschaftler*innen und Nutzer*innen haben jetzt Zugang zu Gemini 4 Argon, unserem neuesten Spitzenmodell. \n\nKoray Kavukcuoglu\n\nSVP, Google DeepMind and Chief AI Architect, Google\n\nGemini 4 Argon ist ab heute weltweit f\u00fcr Entwickler*innen und Unterne"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-10-18",
+    "headline": "Everybody shipped an agent that logs into your tools and does the work. Grok Bot, ChatGPT agents in Slack, Cohere North 2, FPT's digital worker.",
+    "url": "archive/2026-10-18.html",
+    "posts": {
+      "linkedin": [
+        "Every agent launch this week hides the same feature.\n\nxAI shipped Grok Bot. It logs into your tools and does the work. In the demo it drafts 36 outbound emails overnight. The user approves 10. The rest wait.\n\nFPT showed a digital worker that preps quotes and contracts. A human still signs. Cohere's new platform has autonomy policies that cap what an agent can do without sign-off.\n\nThree companies. Same move.\n\nSo the selling point isn't how much the agent can do alone. It's that it stops and asks.\n\nThink about the owner of a 12-person shop. They will never hand over the send button. But they'd pay to wake up to 36 drafts and a yes or no.\n\nThat's not a chatbot. That's a weight removal product.\n\nWould someone pay for an agent that does 90 percent of the work and leaves the last click to them? I think someone would.\n\nWhat's the last click in your week that you'd never hand off?",
+        "Two numbers from this week stuck with me.\n\n$472 and $4.87.\n\nAnchor ran 300 web tasks two ways. A frontier model did 93 percent of them for $472. A small model with their new Action Index did 93.3 percent for $4.87.\n\nThe trick is boring. It remembers the workflows that already worked and replays them as code. The model only steps in when a page changes.\n\nThis is the reason I care. The first time you do a task, it's expensive. The hundredth time should be nearly free.\n\nIf it's repeatable, it's a skill. And a skill that gets cheaper every run is something you can build a business around.\n\nIf you're doing automation work for local businesses, that changes how you think about pricing. You're not selling the model. You're selling the memory of what already worked.\n\nWhat's a task you've explained to a tool more than three times?",
+        "Three giant open models dropped in a few days.\n\nMeta's Muse Spark Open is 816B parameters. Reflection's Beam is 501B. Microsoft announced a 2T one.\n\nHere's the honest part. Reflection suggests four B200 GPUs to run Beam well. Microsoft says its model needs your own fine-tuning before it does anything useful.\n\nSo no, your client with the HVAC company isn't running these.\n\nBut here's why I still watch. Every time a lab gives away something this big, the price of the models people rent has to move. Google's new Gemini 4 Argon launches at $2 per million input tokens, and that doubles after November 30.\n\nThe cost of the thinking keeps dropping. The part that doesn't drop is knowing which task to hand it.\n\nThat part is still yours.\n\nWhich task in your business would you hand to a model if it cost almost nothing?"
+      ],
+      "threads": [
+        "Grok Bot, FPT's digital worker, Cohere's new platform. Three launches, same feature.\n\nThe agent does the work, then asks before it sends anything.\n\nIn the Grok demo it drafts 36 emails overnight and the person approves 10. That's it. That's the whole pitch.\n\nI keep thinking the real product isn't the agent. It's the part where it stops and waits for you.",
+        "Anchor ran 300 web tasks with a frontier model and spent $472.\n\nThen they ran them with a small model plus a memory of workflows that already worked. $4.87. Same ballpark on results.\n\nIt just remembers what worked last time.\n\nMakes me wonder how much of what I pay for is a model re-solving something it already solved yesterday.",
+        "ChatGPT can now answer you with a calculator instead of a paragraph.\n\nAsk about a bill split and it hands you a working bill splitter. Right there in the chat.\n\nI think that's a bigger deal for small businesses than any benchmark this week. Nobody wants an explanation of how to estimate a job. They want the estimator.\n\nWhat would you ask it to build?"
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-10-18",
+    "source": "The Koerner Office",
+    "title": "He Stole $5K From Me + Selling Leads + Free AI Workshops",
+    "url": "https://www.youtube.com/watch?v=dHBY3MV_LLU",
+    "video_id": "dHBY3MV_LLU"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-18",
+    "topic": "model_releases",
+    "title": "Microsoft Unveils 2-Trillion-Parameter MAI-Base-2 Foundation Model",
+    "url": "https://www.codeandchain.com/en/articles/2026-10-18/article-3052e9e9fdb4",
+    "snippet": "Microsoft Unveils 2-Trillion-Parameter MAI-Base-2 Foundation Model\n\n# Microsoft Unveils 2-Trillion-Parameter MAI-Base-2 Foundation Model\n\n2026-10-18 AI Latest Last updated: 17 Oct 2026, 11:35 pm UTC\n\n## Summary\n\nMicrosoft announced MAI-Base-2, a 2-trillion-parameter foundation model that is significantly more efficient than leading open-source reference models on internal science, coding and math "
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-18",
+    "topic": "model_releases",
+    "title": "Reflection Releases Beam, a 501B Open AI Model",
+    "url": "https://aistify.com/reflection-beam-501b-open-model-coding-ai-agents/",
+    "snippet": "Reflection Releases Beam, a 501B Open AI Model\n\n# Reflection Releases Beam, a 501B Open Model for Coding and AI Agents\n\nReflection\u2019s Apache 2.0 Beam model has 501B total parameters, 23B active per token and a 1M-token context window for coding and agentic work.\n\n By Daniel Mercer Edited by Samantha Reed Published: Oct 17, 2026 at 8:36 am UTC Updated: Oct 17, 2026 at 8:37 am UTC \n\nReflection's new "
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-18",
+    "topic": "model_releases",
+    "title": "Meta Launches Muse Spark Open 816B Multimodal MoE Model",
+    "url": "https://ainewsround.com/blog/welcome-muse-spark-open-open-weight-frontier-multimodal-mixture-of-experts-model-from-met",
+    "snippet": "Meta ... Muse Spark Open ... 1 ... Multimodal Mo\n\n...\n\nWire 18 Oct 2026 \u00b7 11:02 UTC 1 filed today 17 this week Full wire \u2192 \n\n# Meta Releases Muse Spark Open: 816B Parameter Open-Weight Multimodal MoE Model\n\nMeta Superintelligence Labs has launched Muse Spark Open, an 816-billion-parameter open-weight Mixture-of-Experts model featuring 42 billion active parameters and a 1-million-token context wind"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-18",
+    "topic": "product_releases",
+    "title": "xAI Launches Grok Bot, an Autonomous Agent That Logs Into Your Tools and Does the Work | The Beat | The Beat",
+    "url": "https://thebeat.tech/articles/xai-launches-grok-bot-an-autonomous-agent-that-logs-into-your-tools-and-does-the-work",
+    "snippet": "# xAI Launches Grok Bot, an Autonomous Agent That Logs Into Your Tools and Does the Work\n\nThe Engineer\n\n18 Oct 2026 \u00b7 5 min read\n\nxAI's new Grok Bot doesn't just chat, it signs into Zendesk, Salesforce, and your inbox to actually complete tasks. Here's what's under the hood, what it costs, and why the shared-computer architecture matters.\n\nxAI just shipped Grok Bot, and the pitch is pretty direct:"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-18",
+    "topic": "product_releases",
+    "title": "ChatGPT\u2019s \u2018Intelligent UI\u2019 update fills its responses with pictures, charts, and buttons - Jingletree",
+    "url": "https://www.jingletree.com/chatgpt-s-intelligent-ui-update-fills-its-responses-with-pictures-charts-and-buttons-283904.html",
+    "snippet": "ChatGPT\u2019s \u2018Intelligent UI\u2019 update fills its responses with pictures, charts, and buttons - Jingletree\n\n 1 week ago 344 \n\nEmma Roth\n\nis a news writer who covers the streaming wars, consumer tech, crypto, social media, and much more. Previously, she was a writer and editor at MUO.\n\nOpenAI is launching a new Intelligent UI feature in ChatGPT that allows the chatbot to answer your questions with inter"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-18",
+    "topic": "product_releases",
+    "title": "Keung To Goes AI | HKT.AI Launches with Over 80 Localised AI Assistants and Business Plans from HK$88 a Month - Breezy.today",
+    "url": "https://breezy.today/hk_en/hkt-ai-launch-2026-en/",
+    "snippet": "Keung To Goes AI | HKT.AI Launches with Over 80 Localised AI Assistants and Business Plans from HK$88 a Month - Breezy.today\n\n# Keung To Goes AI | HKT.AI Launches with Over 80 Localised AI Assistants and Business Plans from HK$88 a Month \n\nAnthony Jacob Updated 4 hours Ago 2 Mins read 45 Views\n\nHKT has officially launched HKT.AI, its proprietary artificial intelligence platform, with MIRROR\u2019s Keun"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-18",
+    "topic": "product_releases",
+    "title": "OpenAI's Sora: Unveiling the Android Experience (2026)",
+    "url": "https://miraitalk.com/article/openai-s-sora-unveiling-the-android-experience",
+    "snippet": "OpenAI's Sora: Unveiling the Android Experience (2026)\n\n# OpenAI's Sora: Unveiling the Android Experience (2026) \n\nAndroid users, rejoice! The highly anticipated Sora app by OpenAI has finally landed on your devices, offering a creative playground for video generation. But here's the twist: it's not just for iOS anymore! \n\nSora's release on Android marks a significant expansion, now accessible to "
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-18",
+    "topic": "ai_agents",
+    "title": "Cohere Launches North 2 Agentic AI Platform",
+    "url": "https://www.brocker.org/cohere-launches-north-2-agentic-ai-platform-enterprise",
+    "snippet": "Cohere Launches North 2 Agentic AI Platform\n\n Technology 17 October 2026 \n\n# Cohere Launches North 2 Agentic AI Platform for Enterprises\n\nCohere launched North 2, an upgrade to its agentic AI platform with new orchestration, connectors, and cost and security controls. It supports on-premises and air-gapped deployment.\n\n Air-gapped deployment \n\nA deployment mode Cohere offers for North 2 where the "
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-18",
+    "topic": "ai_agents",
+    "title": "Google Open-Sources Harness2, a Recursive Agent Harnessing Framework - MarkTechPost",
+    "url": "https://www.marktechpost.com/2026/10/18/google-harness2-recursive-agent-harnessing-framework/",
+    "snippet": "# Google Open-Sources Harness2, a Recursive Agent Harnessing Framework - MarkTechPost\n\nAuthor: Asif Razzaq\nPublished: 2026-10-18T08:15:04Z\nSource: marktechpost.com\nLanguage: en"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-18",
+    "topic": "ai_agents",
+    "title": "FPT Launches Three Solutions to Help Enterprises Deploy and Operate AI | FPT",
+    "url": "https://fpt.com/en/news/article-2",
+    "snippet": "FPT Launches Three Solutions to Help Enterprises Deploy and Operate AI | FPT\n\n# FPT Launches Three Solutions to Help Enterprises Deploy and Operate AI\n\n10/17/2026\n\nHanoi, October 17, 2026 \u2013 FPT Corporation organized FPT TRANSFORM 2026, an international technology event dedicated to artificial intelligence (AI), cloud computing, and data. At the event, FPT introduced three new solutions: FPT AI EOS"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-18",
+    "topic": "ai_agents",
+    "title": "Anchor Launches Action Index for AI Agent Web Workflows",
+    "url": "https://www.startupresearcher.com/news/anchor-launches-action-index-for-ai-agent-web-workflows",
+    "snippet": "# Anchor Launches Action Index for AI Agent Web Workflows\n\nPublished: 2026-10-17T02:49:30+00:00\nSource: startupresearcher.com (startupresearcher.com)\nLanguage: en\n\n## Story\n\nAnchor Launches Action Index for AI Agent Web Workflows\nAnchor, a browser infrastructure company for AI agents, announced the launch of Action Index on October 15, 2026. The new offering acts as a shared memory of web workflow"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-18",
+    "topic": "ai_small_business",
+    "title": "7 AI Tools That Actually Save a Small Business Time in 2026 - DEV Community",
+    "url": "https://dev.to/toolpilotpro/7-ai-tools-that-actually-save-a-small-business-time-in-2026-4og3",
+    "snippet": "7 AI Tools That Actually Save a Small Business Time in 2026 - DEV Community\nPosted on Oct 17 \u2022 Originally published at toolpilotpro.com\n# 7 AI Tools That Actually Save a Small Business Time in 2026\nOriginally published at: https://toolpilotpro.com/best-ai-tools-small-business\nIf you run a small business, you already know the problem. Before lunch you have been the marketer, the support desk, the d"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-18",
+    "topic": "ai_small_business",
+    "title": "Adobe Marketo Adds AI Agents to Clean Lead Data in Campaigns",
+    "url": "https://smallbiztrends.com/adobe-marketo-adds-ai-agents-to-clean-lead-data-in-campaigns/",
+    "snippet": "A misspelled job title or suspicious form submission can send a promising prospect to the wrong salesperson\u2014or cause a marketing team to ignore a legitimate lead. Adobe says new AI-powered capabilities in Marketo Engage are designed to catch those problems before they disrupt a campaign.\n\nThe company announced new \u201cagentic\u201d features in Smart Campaigns, its workflow automation tool within Adobe Mar"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-18",
+    "topic": "ai_small_business",
+    "title": "De automatizar facturas a responder consultas en cualquier idioma: as\u00ed ayuda la IA a las pymes a ahorrar tiempo, reducir errores y captar clientes",
+    "url": "https://www.lavanguardia.com/empresas-de-vanguardia/historias-de-exito/20261018/11653591/automatizar-facturas-responder-consultas-idioma-asi-ayuda-ia-pymes-ahorrar-reducir-errores-captar-clientes.html",
+    "snippet": "Muchas peque\u00f1as y medianas empresas son conscientes de que la inteligencia artificial est\u00e1 transformando la forma de trabajar, pero todav\u00eda la perciben como una tecnolog\u00eda compleja, dif\u00edcil de dimensionar y excesivamente t\u00e9cnica. Saben que deber\u00edan incorporarla, aunque no siempre tienen claro por d\u00f3nde empezar, cu\u00e1nto costar\u00e1 ni qu\u00e9 retorno obtendr\u00e1n de la inversi\u00f3n. Jordi Prats detect\u00f3 esta dista"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-18",
+    "topic": "ai_labs",
+    "title": "ChatGPT Agents App in Slack | OpenAI Help Center",
+    "url": "https://help.openai.com/en/articles/20001199-chatgpt-agents-app-in-slack",
+    "snippet": "ChatGPT Agents App in Slack | OpenAI Help Center\n\n# ChatGPT Agents App in Slack\n\nInstall and use ChatGPT workspace agents in Slack, including channel access, agent setup, and enterprise administration.\n\nUpdated: yesterday\n\nNote: Admins need to set up Slack before workspace members can create workspace agents.\n\nThe ChatGPT Agents app brings the power of ChatGPT workspace agents to Slack. This allow"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-18",
+    "topic": "ai_labs",
+    "title": "Gemini 4 Argon: stworzony do najtrudniejszych zada\u0144",
+    "url": "https://blog.google/intl/pl-pl/nowosci-produktowe/sztuczna-inteligencja/gemini-4-argon-stworzony-do-najtrudniejszych-zadan/",
+    "snippet": "Gemini 4 Argon jest ju\u017c dost\u0119pny dla ka\u017cdego\n\n# Gemini 4 Argon: stworzony do najtrudniejszych zada\u0144\n\n Udost\u0119pniamy deweloperom, przedsi\u0119biorstwom, naukowcom i konsumentom nasz najnowszy model. \n\nKoray Kavukcuoglu\n\nSVP, Google DeepMind and Chief AI Architect, Google\n\nGemini 4 Argon jest ju\u017c dzi\u015b dost\u0119pny na ca\u0142ym \u015bwiecie dla deweloper\u00f3w i przedsi\u0119biorstw za po\u015brednictwem interfejsu API w AI Studio "
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-18",
+    "topic": "ai_labs",
+    "title": "Argon Gemini 4 : Con\u00e7u pour r\u00e9soudre vos probl\u00e8mes les plus ...",
+    "url": "https://blog.google/intl/fr-ca/produits/explorez-obtenez-des-reponses/gemini-4/",
+    "snippet": "Gemini 4 Argon est maintenant disponible pour tous\n\n# Argon Gemini 4 : Con\u00e7u pour r\u00e9soudre vos probl\u00e8mes les plus difficiles\n\n Nous offrons aux d\u00e9veloppeurs, aux entreprises, aux scientifiques et aux consommateurs un acc\u00e8s \u00e0 notre tout dernier mod\u00e8le de pointe. \n\nKoray Kavukcuoglu\n\nSVP, Google DeepMind and Chief AI Architect, Google\n\nGemini 4 Argon est maintenant disponible dans le monde entier au"
   }
 ]
