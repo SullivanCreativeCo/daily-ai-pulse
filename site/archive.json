@@ -27592,5 +27592,199 @@
     "title": "Argon Gemini 4 : Con\u00e7u pour r\u00e9soudre vos probl\u00e8mes les plus ...",
     "url": "https://blog.google/intl/fr-ca/produits/explorez-obtenez-des-reponses/gemini-4/",
     "snippet": "Gemini 4 Argon est maintenant disponible pour tous\n\n# Argon Gemini 4 : Con\u00e7u pour r\u00e9soudre vos probl\u00e8mes les plus difficiles\n\n Nous offrons aux d\u00e9veloppeurs, aux entreprises, aux scientifiques et aux consommateurs un acc\u00e8s \u00e0 notre tout dernier mod\u00e8le de pointe. \n\nKoray Kavukcuoglu\n\nSVP, Google DeepMind and Chief AI Architect, Google\n\nGemini 4 Argon est maintenant disponible dans le monde entier au"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-10-19",
+    "headline": "Pax8 launched 8os and 8bot today. It's a control panel for the AI already running inside small businesses, plus a packaged AI coworker partners can resell.",
+    "url": "archive/2026-10-19.html",
+    "posts": {
+      "linkedin": [
+        "Nine out of ten small businesses are using or testing AI. Fewer than one in four wrote down a rule for it.\n\nThat's from Pax8's latest SMB survey. Pax8 sells to these folks, so take it with a grain of salt. But the gap feels right.\n\nNobody sat down and decided to use AI. Somebody pasted a customer email into ChatGPT on a Tuesday. Then another person did. Now it's just how the place runs.\n\nAnd nearly half of them found tools in the business they never approved. In six months. That's all it took.\n\nHere's why that matters. The owner isn't asking for a platform. They're asking two things. Is this safe? What's it costing me?\n\nRight now nobody's answering either one.\n\nSo the work isn't building another bot. It's walking in, finding out what's already running, writing one page of rules, and putting a cap on the bill.\n\nThat's not just a service, that's a weight removal product.\n\nWho in a small business is actually supposed to own this?",
+        "Automating a bad process just gives you a faster bad process.\n\nIrene Becker wrote that this week, and she learned it running 99aupairs.\n\nHere's what I like about her story. She didn't start with the AI. She started with a problem.\n\nCandidates apply from Europe while her team in Australia is asleep. Onboarding used to take three to seven days. Forms, interviews, follow-ups, everybody hunting for a time that works.\n\nSo they built an interview flow where candidates answer one question at a time, whenever they want. Now it takes under 24 hours. Someone can apply overnight and be ready to meet a family by the time the team logs on.\n\nNobody lost a job. The waiting just went away.\n\nMost people start with \"what can AI do?\" That's the wrong end of it. Start with \"where is somebody waiting?\"\n\nThen ask if AI is even the answer. Sometimes the process is just broken.\n\nWhere's the waiting in your business?",
+        "A new tool called MemoryLane watches your screen, writes a short note on what you're doing, and deletes the screenshot. After a few days it ranks your repetitive work by hours saved.\n\n$100 a month for one person. The company says the notes stay on your laptop unless you choose to share them. That's their claim, and I haven't tried it.\n\nBut the idea is the part I care about.\n\nMost owners can't tell you what's repetitive. They're too deep in it. The invoice reminder, the copy-paste from email into the CRM, the same three questions answered every week. It all just feels like work.\n\nIf it's repeatable, it's a skill. And if it's repeatable, somebody can probably automate it.\n\nThe hard part was never building the automation. It was knowing which task deserved one.\n\nSo here's a fun exercise. Guess how many hours a week you spend on stuff you could write down as steps.\n\nThen go find out how wrong you were."
+      ],
+      "threads": [
+        "ChatGPT can now click around your open Chrome tabs and fill out the forms for you. Reimbursement sites. Inventory sheets. Pulling receipts out of Gmail.\n\nNobody's gonna brag about that one.\n\nBut the boring forms are exactly where this wins. The person who gets two hours back every week from expense reports isn't scrolling for the next headline. They're just done early.",
+        "Two giant open-weight coding models dropped in two days. 816 billion parameters. 501 billion.\n\nCool.\n\nNow think about the bakery owner down the street. She doesn't care about any of it. She cares whether somebody can set up the thing that answers her customer emails.\n\nThe model race is loud. The part that actually changes her week is small, quiet, and still needs a person to set it up.",
+        "Meta says the most common thing small business owners ask its Muse agent is what's working in their ads. Not write me a poem. Not build me an app.\n\nJust, what's working and what's not?\n\nThat's the whole ask. A lot of AI help for small businesses is somebody finally looking at the numbers with them.\n\nWhich is a pretty human thing to want."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-10-19",
+    "source": "The Koerner Office",
+    "title": "The $16K/Month Business He Runs Without Quitting His Job [NO ADS \u2022 FULL EPISODE]",
+    "url": "https://www.youtube.com/watch?v=of0GXf_tOx4",
+    "video_id": "of0GXf_tOx4"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-19",
+    "topic": "model_releases",
+    "title": "Mistral AI Releases Timestral: A 209M Forecasting Model Family That Outperforms Google\u2019s TimesFM-3 - MarkTechPost",
+    "url": "https://www.marktechpost.com/2026/10/18/mistral-timestral-time-series-foundation-model/",
+    "snippet": "Mistral AI Releases Timestral ... A 209M Forecasting Model Family That Outperforms Google\u2019s TimesFM-3 - MarkTechPost\n\n# Mistral AI Releases Timestral: A 209M Forecasting Model Family That Outperforms Google\u2019s TimesFM-3\n\nBy\n\nAsif Razzaq\n\nOctober 18, 2026\n\nMistral AI has released Timestral, its first family of time series foundation models. Timestral is a set of 4 zero-shot forecasting models from M"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-19",
+    "topic": "model_releases",
+    "title": "Meta releases Muse Spark Open, an 816B open-weight multimodal model for coding",
+    "url": "https://thelatentdaily.com/news/meta-muse-spark-open-weights/",
+    "snippet": "Meta releases Muse Spark Open, an 816B open-weight multimodal model for coding\n\n# Meta releases Muse Spark Open, an 816B open-weight multimodal model for coding\n\nMeta published Muse Spark Open, a mixture-of-experts model with roughly 816B parameters, 42B active per token, multimodal input and a 1M-token context window.\n\nBy thelatentdaily.com Editorial Team \u00b7 October 18, 2026 \u00b7 1 min read\n\nMeta rel"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-19",
+    "topic": "model_releases",
+    "title": "Hugging Face Releases Beam, a 501B Parameter Open Model | aiPressHQ",
+    "url": "https://aipresshq.com/posts/hugging-face-releases-beam-a-501b-parameter-open-model-668ee1/",
+    "snippet": "Hugging Face Releases Beam, a 501B Parameter Open Model | aiPressHQ\n\n# Hugging Face Releases Beam, a 501B Parameter Open Model\n\nHugging Face released Beam, a 501B parameter model from the Reflection lab. Designed for coding and agentic tasks, it supports a 1M token context window and is available under an Apache 2.0 license.\n\n18 October 2026 \u00b7 1 min read\n\n## The short version\n\n- Hugging Face relea"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-19",
+    "topic": "model_releases",
+    "title": "Nvidia releases open Nemotron 3.5 Super VL model, now also on Amazon SageMaker JumpStart \u00b7 ittechwire",
+    "url": "https://ittechwire.com/en/news/nvidia-nemotron-3-5-super-vl/",
+    "snippet": "Nvidia releases open Nemotron 3.5 Super VL model, now also on Amazon SageMaker JumpStart \u00b7 ittechwire\n\n# Nvidia releases open Nemotron 3.5 Super VL model, now also on Amazon SageMaker JumpStart\n\nThe 120-billion-parameter vision-language model ships with open weights, datasets and training recipes, alongside two smaller Bolt models for local hardware. Nvidia's speed and accuracy figures remain vend"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-19",
+    "topic": "product_releases",
+    "title": "World launches WorldID for banks, Zoom deepfake detection goes live",
+    "url": "https://www.digitaltoday.co.kr/en/view/116491/world-launches-worldid-for-banks-zoom-deepfake-detection-goes-live",
+    "snippet": "World ... World ... banks ... deep ... goes\n\n...\n\nUpdated 8:20 PM KST, Mon October 19, 2026 | Mobile Web \n\n# World launches WorldID for banks, Zoom deepfake detection goes live\n\n World, an identity verification project co-founded by OpenAI CEO Sam Altman, said on Oct. 19 it launched a WorldID product line aimed at banks and financial firms. It is the first time the company has introduced products "
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-19",
+    "topic": "product_releases",
+    "title": "Adobe unveils interactive editing tools for Adobe plugin in ChatGPT",
+    "url": "https://www.digitaltoday.co.kr/en/view/116233/adobe-unveils-interactive-editing-tools-for-adobe-plugin-in-chatgpt",
+    "snippet": "Adobe unveils interactive editing tools for Adobe plugin in ChatGPT\n\n Updated 8:25 PM KST, Mon October 19, 2026 | Mobile Web \n\n Generating... AI Summary\n\n Adobe on Oct. 19 introduced new interactive editing features for its Adobe plugin in ChatGPT. The company said the update aims to improve how intuitive yet precise editing and control features are provided, based on tools trusted by creative pro"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-19",
+    "topic": "product_releases",
+    "title": "ChatGPT can now take action inside open tabs in Google Chrome",
+    "url": "https://www.androidauthority.com/chatgpt-extension-google-chrome-integration-3724838/",
+    "snippet": "# ChatGPT can now take action inside open tabs in Google Chrome\n\nAuthor: Akshay Gangwar\nPublished: 2026-10-19T07:39:17Z\nSource: androidauthority.com\nLanguage: en\n\n## Story\n\nChatGPT can now take action inside open tabs in Google Chrome\n# ChatGPT can now do more in Google Chrome, including taking action inside open tabs\nIt could make filling long, boring forms easier.\nBy Akshay Gangwar\nOct 19, 2026 "
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-19",
+    "topic": "product_releases",
+    "title": "ChatGPT Slides has shipped, but on Windows 10 the desktop app gives you a PowerPoint file",
+    "url": "https://mixed-news.com/en/chatgpt-slides-launch-windows-10-powerpoint-mxc-component/",
+    "snippet": "ChatGPT Slides has shipped, but on Windows 10 the desktop app gives you a PowerPoint file\n# ChatGPT Slides has shipped, but on Windows 10 the desktop app gives you a PowerPoint file\nOct 19 2026 Shane S. Ellison\nChatGPT can build a presentation and let a team edit it in real time, and in the desktop app on Windows 10 it hands you a PowerPoint file instead. OpenAI says ChatGPT Slides is rolling out "
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-19",
+    "topic": "product_releases",
+    "title": "Meta\u2019s Muse hits Mac, letting the AI take actions on your computer",
+    "url": "https://justpaste.in/news/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer/",
+    "snippet": "Meta\u2019s Muse hits Mac, letting the AI take actions on your computer\n\n# Meta\u2019s Muse hits Mac, letting the AI take actions on your computer\n\n By Justpaste.in October 19, 2026 \n\nMeta\u2019s new AI assistant app, Muse, is now available on Mac.\n\nOn the Mac, Muse can interact with your files, messages, calendar, notes, and mail, all within their native applications.\n\nThe new app follows the launch of Muse on "
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-19",
+    "topic": "ai_agents",
+    "title": "Altimetrik Launches PharmaOS Agentic AI Platform for Life Sciences",
+    "url": "https://smestreet.in/technology/altimetrik-launches-pharmaos-agentic-ai-platform-for-life-sciences-12688549",
+    "snippet": "Altimetrik Launches PharmaOS Agentic AI Platform for Life Sciences\n\n# Altimetrik Launches PharmaOS Agentic AI Platform for Life Sciences \n\n## Altimetrik opens a Healthcare and Life Sciences CoE in Hyderabad and launches PharmaOS to help life sciences companies develop governed AI workflows in one week. \n\nSMEStreet Edit Desk\n\n 19 Oct 2026 10:16 IST\n\nAltimetrik, an AI engineering company, today open"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-19",
+    "topic": "ai_agents",
+    "title": "Pax8 Launches 8os, the First Agentic Workforce Operating",
+    "url": "https://www.globenewswire.com/news-release/2026/10/19/3383063/0/en/pax8-launches-8os-the-first-agentic-workforce-operating-system-for-partners-and-their-small-business-customers.html",
+    "snippet": "# Pax8 Launches 8os, the First Agentic Workforce Operating\n\nAuthor: Pax8\nPublished: 2026-10-19T09:05:00Z\nSource: globenewswire.com\nLanguage: en\n\n## Story\n\nPax8 Launches 8os, the First Agentic Workforce Operating\n## Pax8 also introduces 8bot, a managed AI coworker for end-customers\u2019 employees\nOctober 19, 2026 05:05 ET | Source: Pax8\n* Most SMBs using AI today have no policy governing it, and most h"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-19",
+    "topic": "ai_agents",
+    "title": "Notable introduces Flow Compass, giving healthcare operators control of their AI workforce",
+    "url": "https://www.prnewswire.com/news-releases/notable-introduces-flow-compass-giving-healthcare-operators-control-of-their-ai-workforce-302912251.html",
+    "snippet": "Notable introduces Flow Compass, giving healthcare operators control of their AI workforce\n\n Notable \n\nOct 19, 2026, 06:01 ET\n\nHealthcare operators can now conversationally ask what's working in their automations, what's at risk, and what to do next, and get answers grounded in their own live workflows.\n\nSAN MATEO, Calif., Oct. 19, 2026 /PRNewswire/ -- Notable, the leading healthcare AI platform f"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-19",
+    "topic": "ai_agents",
+    "title": "ElevenLabs releases alpha of ElevenAgents Architect to build agents through voice conversations",
+    "url": "https://www.digitaltoday.co.kr/en/view/116515/elevenlabs-releases-alpha-of-elevenagents-architect-to-build-agents-through-voice-conversations",
+    "snippet": "ElevenLabs releases alpha of ElevenAgents Architect to build agents through voice conversations\n\n Updated 8:35 PM KST, Mon October 19, 2026 | Mobile Web \n\n ElevenLabs, a global AI audio company, has released an alpha version of ElevenAgents Architect on its enterprise voice-chat agent platform, ElevenAgents. The company said the embedded expert function allows users to build and improve agents by "
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-19",
+    "topic": "ai_small_business",
+    "title": "MemoryLane Launches AI Process Discovery Tool That Shows Small Teams What to Automate",
+    "url": "https://aithority.com/robots/automation/memorylane-launches-ai-process-discovery-tool-that-shows-small-teams-what-to-automate/",
+    "snippet": "#### Runs in the background, maps how your team really works and ranks repetitive tasks by hours saved. Privacy-first.\n\nMemoryLane, an AI tool that shows small and mid-sized businesses what to automate, is now available for Mac and Windows. It is like Granola, but for your entire computer screen. Instead of taking notes on your meetings, it takes notes on your work, then turns them into process ma"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-19",
+    "topic": "ai_small_business",
+    "title": "Salesforce, Singapore\u2019s IMDA launch Slack AI Launchpad Programme to help SMEs\u00a0 - SME horizon",
+    "url": "https://www.smehorizon.com/salesforce-singapores-imda-launch-slack-ai-launchpad-programme-to-help-smes/",
+    "snippet": "Salesforce and the Infocomm Media Development Authority (IMDA) today announced the Slack AI Launchpad Programme, a joint initiative to help up to 1,000 SMEs move from artificial intelligence (AI) awareness to hands-on implementation of AI-enabled workflows for their business. \n\nThe programme aims to help SMEs put AI to work in their business workflows and put agentic AI into practice in their busi"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-19",
+    "topic": "ai_small_business",
+    "title": "AI for small business: what works, what fails and the path forward - Inside Small Business",
+    "url": "https://insidesmallbusiness.com.au/latest-news/ai-for-small-business-what-works-what-fails-and-the-path-forward",
+    "snippet": ", ... and\n\n...\n\nSometimes the answer isn't AI at all \u2013 sometimes you simply have a bad process, and automating a bad process just creates a faster bad process.\n\n...\n\nOctober 1 ... 2 ... 6\n\n...\n\nFounder, investor and partnerships strategist Irene Becker presents a balanced view on the pros and cons of AI for small businesses based on trial and error in her business 99aupairs\n\nFor small-business own"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-19",
+    "topic": "ai_small_business",
+    "title": "The 10 AI Tools Small Businesses Actually Use in 2026 - DEV Community",
+    "url": "https://dev.to/neuraitool/the-10-ai-tools-small-businesses-actually-use-in-2026-4cj9",
+    "snippet": "The 10 AI Tools Small Businesses Actually Use in 2026 - DEV Community\nNeurAITool\nPosted on Oct 18 \u2022 Originally published at neuraitool.com\n# The 10 AI Tools Small Businesses Actually Use in 2026\nMost small businesses do not need more software \u2014 they need the repetitive work to stop eating their mornings. I looked at the tools small businesses actually adopt, from free tiers to under $40 a month, w"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-19",
+    "topic": "ai_small_business",
+    "title": "Meta outlines Muse AI use cases for businesses | Social Media Today",
+    "url": "https://www.socialmediatoday.com/news/meta-outlines-muse-ai-use-cases-for-businesses/833308/",
+    "snippet": "Meta wants to get more businesses to use its Muse artificial intelligence agents, so it recently shared some example brand use cases that could provide guidance for companies considering the option.\n\nLate last month, Meta launched its Muse for SMBs package, which offers a range of connectors to third-party tools, along with Muse\u2019s own analysis capacity, to power automated business assistance.\n\nAt "
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-19",
+    "topic": "ai_labs",
+    "title": "Investing in the public benefit \\ Anthropic",
+    "url": "https://www.anthropic.com/news/public-benefit-fund",
+    "snippet": "# Investing in the public benefit \\ Anthropic\n\nPublished: 2026-10-18T16:49:35+00:00\nSource: anthropic.com (anthropic.com)\n\n## Story\n\nInvesting in the public benefit \\\\ Anthropic\n# Investing in the public benefit\nOct 18, 2026\nToday, we\u2019re committing a portion of Anthropic\u2019s shares to the Anthropic Public Benefit Fund, ** **a new entity with a structure that increases the stake as the company grows."
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-19",
+    "topic": "ai_labs",
+    "title": "Supporting the 2026 New Zealand General Election",
+    "url": "https://blog.google/intl/en-nz/company-news/supporting-the-2026-new-zealand-general-election/",
+    "snippet": "Supporting the 2026 New Zealand General Election\n\n# Supporting the 2026 New Zealand General Election\n\nCaroline Rainsford\n\nCountry Director, Google New Zealand\n\nOct 19, 2026\n\nAs New Zealanders prepare to vote in the upcoming general election, we\u2019re rolling out tools and safeguards to connect voters with trusted information and protect our platforms.\n\nAcross Search, YouTube, and the Gemini app, we\u2019r"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-19",
+    "topic": "ai_labs",
+    "title": "Deploy ChatGPT workspace agents to Slack - Admin Setup | OpenAI Help Center",
+    "url": "https://help.openai.com/en/articles/20001236-deploy-chatgpt-workspace-agents-to-slack-admin-setup",
+    "snippet": "Deploy ChatGPT workspace agents to Slack - Admin Setup | OpenAI Help Center\n\n# Deploy ChatGPT workspace agents to Slack - Admin Setup\n\nSet up Slack for ChatGPT workspace agents by configuring the required apps, permissions, and workspace settings.\n\nUpdated: 12 hours ago\n\nChatGPT workspace agents can be deployed to Slack, allowing users to interact with agents in Slack. As an admin, enabling Slack "
   }
 ]
