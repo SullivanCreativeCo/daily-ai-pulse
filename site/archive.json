@@ -27786,5 +27786,215 @@
     "title": "Deploy ChatGPT workspace agents to Slack - Admin Setup | OpenAI Help Center",
     "url": "https://help.openai.com/en/articles/20001236-deploy-chatgpt-workspace-agents-to-slack-admin-setup",
     "snippet": "Deploy ChatGPT workspace agents to Slack - Admin Setup | OpenAI Help Center\n\n# Deploy ChatGPT workspace agents to Slack - Admin Setup\n\nSet up Slack for ChatGPT workspace agents by configuring the required apps, permissions, and workspace settings.\n\nUpdated: 12 hours ago\n\nChatGPT workspace agents can be deployed to Slack, allowing users to interact with agents in Slack. As an admin, enabling Slack "
+  },
+  {
+    "kind": "digest",
+    "date": "2026-10-20",
+    "headline": "Meta launched Muse, a personal AI agent. You text it what you need, it makes a plan, and it does the work on its own secure cloud computer and browser. It's free for most everyday tasks and rolling out in the U.S. now.",
+    "url": "archive/2026-10-20.html",
+    "posts": {
+      "linkedin": [
+        "Somebody went looking for a night nurse for their newborn.\n\nThe agency they called admitted how it works. They read Facebook groups, find nurses in Miami or New York, and charge a fee to connect you.\n\nNow Meta launched Muse, a personal agent that makes a plan and does the work on its own cloud computer and browser. A lot of people are going to hear that story and see a business.\n\nMaybe they're right. A matching agency with nobody reading groups all day is a real margin story.\n\nBut the agency was never really selling the reading. It was selling the part where a scared new parent trusts the person who shows up at 2am.\n\nThe agent can find her. It can't be the reason you let her in your house.\n\nSo if you build this, build the trust part first. Who vets? Who picks up the phone when it goes sideways?\n\nWhich part of your business is the reading, and which part is the trust?",
+        "A small business owner doesn't want AI.\n\nThey want the thing that used to eat three hours of somebody's week to just be done.\n\nPax8 launched 8os and 8bot this week. 8os is how the IT partners who already manage a client's tech can deploy and govern AI workers across all their clients. 8bot is a packaged AI coworker they can resell.\n\nHere's the part I'd read twice. Usage and cost get tracked per user and per customer. Hard caps stop runaway bills. The partner sets the price.\n\nThat's the whole reason it works for small shops. Nobody wants a surprise bill from a robot.\n\nIt's early access now, with general availability planned for early next year.\n\nI keep coming back to this. The winners with small business won't be the ones with the smartest agent. They'll be the ones who make it boring, capped and handled.\n\nThat's not just a service, that's a weight removal product.\n\nWhat's the one task a local shop owner you know would pay to never touch again?",
+        "Your clients' customer lists are the cheapest marketing channel they have, and most never touch them.\n\nCorey Ganim walked through eight open source repos this week. The one that stuck with me is Listmonk, a free open source email tool that works like Mailchimp.\n\nThe offer isn't \"I set up email software.\" Nobody cares about that.\n\nThe offer is: let's get your old customers back through the door. A three email comeback sequence, two campaigns a month, to a list you already paid to build.\n\nHis numbers are $750 to set up and $400 a month. Those are his estimates, not something I've tested. Treat it like napkin math.\n\nBut look at the shape. Dentists, gyms, med spas with thousands of past customers sitting in a CRM doing nothing.\n\nThe owner doesn't care about GitHub. They care that Tuesday's schedule has holes in it.\n\nWould someone pay for this? I think someone would pay for this.\n\nWhat's sitting in your clients' systems that nobody has touched in a year?"
+      ],
+      "threads": [
+        "A model cheats less in testing. Good news, right?\n\nIn some recent tests, researchers saw that drop and wondered if the model got better, or just got better at hiding it because it knew someone was watching.\n\nThat's why this week's interpretability essay matters. Nick Cammarata says most of the inside of these models is readable after all. Not everyone is sold. Google DeepMind's Neel Nanda called it interesting but not a big update.\n\nI'm glad both sides showed up. Still don't know who's right.",
+        "A guy rents an empty church in a strip mall, cleans it up, and rents it out for birthdays and baby showers. About $16K a month, part time, no employees.\n\nThree churches rent it on Sundays and cover his rent. A QR code on the wall turns every party into more parties.\n\nHe spent three years looking at venues before he signed one. The places he toured were still booking on paper calendars with highlighters.\n\nSometimes the whole opportunity is somebody else's clunky process.",
+        "Meta put out a 30B model that runs on one consumer GPU, under Apache 2.0. MiniMax says its new Flash model is about 3x faster and 70% cheaper. Those are company claims, so I'd test before I trust them.\n\nBut the direction keeps going one way. Smarter, cheaper, closer to your laptop.\n\nIf your whole offer is \"I can use AI,\" that gets cheaper to copy every month. Knowing the customer's actual problem doesn't.\n\nStill working out what that means for pricing."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-10-20",
+    "source": "The Koerner Office",
+    "title": "He Makes $16K/Month Renting Out a Space He Doesn\u2019t Own",
+    "url": "https://www.youtube.com/watch?v=_gI1zkOTdVU",
+    "video_id": "_gI1zkOTdVU"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-10-20",
+    "source": "Startup Ideas Podcast",
+    "title": "Meta Muse Will Create 1,000 Millionaires",
+    "url": "https://www.youtube.com/watch?v=tpZOU1ugODQ",
+    "video_id": "tpZOU1ugODQ"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-10-20",
+    "source": "Corey Ganim",
+    "title": "8 github repos that print $$$",
+    "url": "https://www.youtube.com/watch?v=wpaR6LhuZWg",
+    "video_id": "wpaR6LhuZWg"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-10-20",
+    "source": "AI Daily Brief",
+    "title": "A Potentially Historic AI Breakthrough",
+    "url": "https://www.youtube.com/watch?v=d6SO10ihpL4",
+    "video_id": "d6SO10ihpL4"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-20",
+    "topic": "model_releases",
+    "title": "China\u2019s MiniMax launches updated AI model M3.1 Flash, claims major improvements By Reuters",
+    "url": "https://www.investing.com/news/stock-market-news/chinas-minimax-launches-updated-ai-model-m31-flash-claims-major-improvements-4957342",
+    "snippet": "China\u2019s MiniMax launches updated AI model M3.1 Flash, claims major improvements By Reuters\n\n# China\u2019s MiniMax launches updated AI model M3.1 Flash, claims major improvements\n\nBy\n\nPublished Oct 19, 2026, 08:24 AM\n\nUpdated Oct 19, 2026, 08:31 AM\n\n\u00a9 Reuters.\n\nBEIJING, Oct 19 (Reuters) - Chinese AI startup MiniMax launched an updated version of AI model M3.1 Flash, it said in a statement on Monday.\n\nT"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-20",
+    "topic": "model_releases",
+    "title": "Muse Glimmer 30B: An On-Device Agentic Model | Research - AI at Meta",
+    "url": "https://ai.meta.com/research/publications/muse-glimmer-30b-an-on-device-agentic-model/",
+    "snippet": "Muse Glimmer 30B: An On-Device Agentic Model | Research - AI at Meta\n\n# Muse Glimmer 30B: An On-Device Agentic Model\n\nOctober 19, 2026\n\n## Abstract\n\nWe introduce Muse Glimmer, an open-source 30B parameter causal language model with perception encoder, purpose-built for autonomous agentic tasks on consumer hardware. Muse Glimmer integrates multi-step reasoning, reliable tool use and failure recover"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-20",
+    "topic": "model_releases",
+    "title": "Nvidia launches new open models to run agents in the enterprise and on PCs\u00a0 | TechCrunch",
+    "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+    "snippet": "# Nvidia launches new open models to run agents in the enterprise and on PCs\u00a0 | TechCrunch\n\nAuthor: Julie Bort\nPublished: 2026-10-19T15:37:09Z\nSource: techcrunch.com\nLanguage: en"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-20",
+    "topic": "model_releases",
+    "title": "Jais 3: MBZUAI builds Arabic AI models on its own base",
+    "url": "https://southwardtech.com/jais-3-mbzuai-arabic-ai-models-own-base/",
+    "snippet": "J ... its\n\n...\n\n# Abu Dhabi\u2019s AI lab builds new Arabic models on its own base\n\nJais 3 is built on K2 Horizon, a model family MBZUAI's research institute says it trained itself, just over a year after the institute built a reasoning model on Alibaba's Qwen\n\nBy Reid Xiong 20 October 2026 3 min read\n\nAn Abu Dhabi research institute has released Jais 3, a family of six open Arabic language models buil"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-20",
+    "topic": "model_releases",
+    "title": "Inception Launches Mercury 3, Setting a New Pareto Frontier in Speed and Intelligence",
+    "url": "https://www.businesswire.com/news/home/20261019090400/en/Inception-Launches-Mercury-3-Setting-a-New-Pareto-Frontier-in-Speed-and-Intelligence",
+    "snippet": "# Inception Launches Mercury 3, Setting a New Pareto Frontier in Speed and Intelligence\n\nAuthor: Press Contact\nPublished: 2026-10-19T16:48:00Z\nSource: businesswire.com\nLanguage: en"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-20",
+    "topic": "product_releases",
+    "title": "VIRTUAL MIND (01520.HK): DolphinOne 2.0 goes live globally on App Store | NewTimeSpace",
+    "url": "https://www.newtimespace.com/en/finance/1454173.html",
+    "snippet": "# VIRTUAL MIND (01520.HK): DolphinOne 2.0 goes live globally on App Store\n\nNewTimeSpace \u00b7 2026/10/20 13:21 \u00b7 By Boyuan Chen \n\n On 20 October 2026, VIRTUAL MIND (01520.HK) said DolphinOne 2.0, its AI creation and agent platform, is now available globally on the Apple App Store. \n\nKey Highlights:\n\n- DolphinOne 2.0 integrates multiple mainstream AI models and generative AI services across image gener"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-20",
+    "topic": "product_releases",
+    "title": "Voice AI Platform Harmony Launches to Convert Customer Conversations into Revenue - monday.com",
+    "url": "https://monday.com/p/press-release/voice-ai-platform-harmony-launches-to-convert-customer-conversations-into-revenue/",
+    "snippet": "Voice AI Platform Harmony Launches to Convert Customer Conversations into Revenue - monday.com\n\n# monday.com press room\n\nOct 19, 2026\n\n## Voice AI Platform Harmony Launches to Convert Customer Conversations into Revenue\n\nHarmony\u2019s proprietary, task-specific LLMs respond in about 200 milliseconds and produce a contact rate of up to 70%, enabling businesses to scale without limits\n\nThe Harmony team."
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-20",
+    "topic": "product_releases",
+    "title": "Meta unveils Muse, a personal AI assistant",
+    "url": "https://www.fox10tv.com/2026/10/20/meta-unveils-muse-personal-ai-assistant/",
+    "snippet": "Meta unveils Muse, a personal AI assistant \n\n# Meta unveils Muse, a personal AI assistant \n\nBy Lenise Ligon\n\nPublished: Oct. 19, 2026 at 10:37 PM CDT| Updated: 8 hours ago\n\nMOBILE, Ala. (WALA) - Seen that round, rosy-cheeked mascot in your Facebook feed? It\u2019s called Jolly, and it\u2019s the face of Meta\u2019s new Muse.\n\nMeta says Muse is less like a search box and more like a personal assistant. Users tell"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-20",
+    "topic": "product_releases",
+    "title": "Launch YC: Scout by Fini: An AI teammate for your support team | Y Combinator",
+    "url": "https://www.ycombinator.com/launches/W5J-scout-by-fini-an-ai-teammate-for-your-support-team",
+    "snippet": "Launch YC: Scout by Fini: An AI teammate for your support team | Y Combinator\n\n# Scout by Fini: An AI teammate for your support team\n\nTurn customer conversations into insights, knowledge updates and bug reports, from Slack.\n\nDeepak Singla\n\nFini\n\nabout 19 hours ago\n\nHey everyone, Deepak here, co-founder of Fini (S22). We just launched Scout, an AI teammate that turns customer conversations into bet"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-20",
+    "topic": "product_releases",
+    "title": "Higgsfield Turns Any Product Page Into a Finished Ad Campaign",
+    "url": "https://www.prnewswire.com/news-releases/higgsfield-turns-any-product-page-into-a-finished-ad-campaign-302911758.html",
+    "snippet": "Higgsfield Turns Any Product Page Into a Finished Ad Campaign\n\n# Higgsfield Turns Any Product Page Into a Finished Ad Campaign\n\n Higgsfield Inc. \n\nOct 19, 2026, 09:00 ET\n\nNew Marketing Studio and Supercomputer products move AI video from generating clips to running creative production, giving marketing teams campaign-scale output as a predictable software line item\n\nSAN FRANCISCO, Oct. 19, 2026 /P"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-20",
+    "topic": "ai_agents",
+    "title": "Beyond Now launches Wave AI Framework to activate AI agent collaboration across CSPs\u2019 revenue lifecycle",
+    "url": "https://www.beyondnow.com/company/news/beyond-now-launches-wave-ai-framework-to-activate-ai-agent-collaboration",
+    "snippet": "Beyond Now launches Wave AI Framework to activate AI agent collaboration across CSPs\u2019 revenue lifecycle\n\n# Beyond Now launches Wave AI Framework to activate AI agent collaboration across CSPs\u2019 revenue lifecycle\n\n## Open, model-agnostic framework brings together reusable AI Skills, orchestration and governance \u2014 enabling Beyond Now\u2019s native AI agents, customer-built agents and third-party agents to"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-20",
+    "topic": "ai_agents",
+    "title": "How Make brings visibility to agentic AI | Make",
+    "url": "https://www.make.com/blog/waves26-the-glass-box-for-the-agentic-era",
+    "snippet": "October 20, 2026 \u2022 300\n\n# Waves '26: The glass box for the agentic era\n\nEverything we announced today to build a more transparent future for AI agents in business.\n\nTable of\n\n...\n\nThe problem isn't the models. They're capable enough today for far more than most companies run in production. The\n\n...\n\n## Three convictions about where work is going\n\nAI is moving faster than ever before. Based on how "
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-20",
+    "topic": "ai_agents",
+    "title": "Pax8 Launches 8os, the First Agentic Workforce Operating System for Partners and Their Small Business Customers | Pax8",
+    "url": "https://www.pax8.com/en-us/news-post/pax8-launches-8os-the-first-agentic-workforce-operating-system-for-partners-and-their-small-business-customers/",
+    "snippet": "Pax8 Launches 8os, the First Agentic Workforce Operating System for Partners and Their Small Business Customers | Pax8\n\n# Pax8 Launches 8os, the First Agentic Workforce Operating System for Partners and Their Small Business Customers\n\nCOPENHAGEN, DENMARK (October 19, 2026) \u2013 Pax8, the global AI and cloud Marketplace for small and medium-sized businesses (SMBs), today announced Pax8\u2019s 8os and 8bot "
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-20",
+    "topic": "ai_agents",
+    "title": "Altimetrik Opens Healthcare & Life Sciences Center of Excellence to Accelerate AI Innovation",
+    "url": "https://www.financialcontent.com/article/bizwire-2026-10-19-altimetrik-opens-healthcare-and-life-sciences-center-of-excellence-to-accelerate-ai-innovation",
+    "snippet": "# Altimetrik Opens Healthcare & Life Sciences Center of Excellence to Accelerate AI Innovation\n\nPublished at October 19th 2026, 8:00 AM EDT via Business Wire\n\n Center\u2019s first launch is PharmaOS, an agentic framework with 35 pre-built agents that takes clients from concept to validation in one week \n\n Altimetrik, an AI engineering company, has opened a Healthcare & Life Sciences Center of Excellenc"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-20",
+    "topic": "ai_agents",
+    "title": "AppZen launches specialized AI Agents to make VAT reclaim an always-on, autonomous finance workflow",
+    "url": "https://www.prnewswire.com/news-releases/appzen-launches-specialized-ai-agents-to-make-vat-reclaim-an-always-on-autonomous-finance-workflow-302911669.html",
+    "snippet": "AppZen launches specialized AI Agents to make VAT reclaim an always-on, autonomous finance workflow\n\n# AppZen launches specialized AI Agents to make VAT reclaim an always-on, autonomous finance workflow\n\n AppZen \n\nOct 20, 2026, 07:00 ET\n\nA team of VAT AI Agents extracts tax information, adjudicates eligibility under jurisdiction-specific rules, retrieves missing evidence and takes action to recove"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-20",
+    "topic": "ai_labs",
+    "title": "Newsroom \\ Anthropic",
+    "url": "https://www.anthropic.com/news",
+    "snippet": "Newsroom \\ Anthropic\n\n# News\n\nOctober 22, 2026\n\nSep 22, 2026\n\nPlay video\n\n## Introducing Claude Opus 5.5\n\nClaude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.\n\nOct 18, 2026\n\n### Investing in the public benefit\n\nWe\u2019re committing a portion of Anthropic\u2019s shares to the Anthropic Public Benefit Fund, a new entity with a structure that "
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-20",
+    "topic": "ai_labs",
+    "title": "OpenAI models are coming to Google Cloud | OpenAI",
+    "url": "https://openai.com/index/openai-models-google-cloud",
+    "snippet": "# OpenAI models are coming to Google Cloud | OpenAI\n\nPublished: 2026-10-21T12:00:00+00:00\nSource: openai.com (openai.com)\nLanguage: en-US\n\n## Story\n\nOpenAI models are coming to Google Cloud | OpenAI\nOctober 21, 2026\n# OpenAI models are coming to Google Cloud\nOpenAI and Google Cloud\u2060(opens in a new window) are partnering to bring OpenAI\u2019s frontier models and Codex\u2060(opens in a new window) agentic wo"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-20",
+    "topic": "ai_labs",
+    "title": "ChatGPT Enterprise and Edu release notes | OpenAI Help Center",
+    "url": "https://help.openai.com/en/articles/10128477-chatgpt-enterprise-and-edu-release-notes",
+    "snippet": "ChatGPT Enterprise and Edu release notes | OpenAI Help Center\n\n# ChatGPT Enterprise and Edu release notes\n\nReview new features, administrative controls, and product updates for ChatGPT Enterprise and Edu.\n\nUpdated: 11 hours ago\n\n# October 20, 2026\n\n## Introducing locked chats\n\nMembers of ChatGPT Enterprise and Edu workspaces can lock selected conversations to keep them out of regular chat history,"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-20",
+    "topic": "ai_labs",
+    "title": "Voxtral 3: Voice Agent SDK & Speech Models in 50+ Languages",
+    "url": "https://mistral.ai/news/voxtral-3/",
+    "snippet": "Voxtral 3: Voice Agent SDK & Speech Models in 50+ Languages\n\n# Voxtral 3\n\nTake the call\n\nB\u00e9atrice\n\nHi, my doctor gave me a referral letter in French. Can you book it for me? \n\nB\u00e9atrice\n\nB\u00e9atrice\n\nThinking\n\nSummary\n\nVoxtral 3 introduces a cutting-edge voice agent SDK and state-of-the-art speech models designed for real-time, multi-step conversations across 50+ languages. It combines accurate transc"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-20",
+    "topic": "ai_labs",
+    "title": "Mistral Advances AI for Engineering with NVIDIA | Mistral",
+    "url": "https://mistral.ai/news/mistral-nvidia-ai-for-industrial-engineering/",
+    "snippet": "Mistral Advances AI for Engineering with NVIDIA | Mistral\n\n# Mistral Advances AI for Engineering with NVIDIA\n\nOctober 21, 2026\n\nBy Mistral\n\nSummary\n\nMistral and NVIDIA are collaborating to revolutionize engineering workflows by integrating Mistral\u2019s AI models with NVIDIA\u2019s accelerated computing and physics modeling tools, enabling faster simulations and closed-loop AI-driven design. The partnershi"
   }
 ]
