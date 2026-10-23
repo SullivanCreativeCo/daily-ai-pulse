@@ -27996,5 +27996,263 @@
     "title": "Mistral Advances AI for Engineering with NVIDIA | Mistral",
     "url": "https://mistral.ai/news/mistral-nvidia-ai-for-industrial-engineering/",
     "snippet": "Mistral Advances AI for Engineering with NVIDIA | Mistral\n\n# Mistral Advances AI for Engineering with NVIDIA\n\nOctober 21, 2026\n\nBy Mistral\n\nSummary\n\nMistral and NVIDIA are collaborating to revolutionize engineering workflows by integrating Mistral\u2019s AI models with NVIDIA\u2019s accelerated computing and physics modeling tools, enabling faster simulations and closed-loop AI-driven design. The partnershi"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-10-23",
+    "headline": "Anthropic shipped Claude Duet, an agent for professionals and small businesses.",
+    "url": "archive/2026-10-23.html",
+    "posts": {
+      "linkedin": [
+        "Your website might have a new customer who can't see it.\n\nGreg Isenberg put it best this week. An agent is a customer with a credit card and no eyes.\n\nThink about what that means.\n\nThe hero video you paid for? Invisible. The animated banner? Invisible. The countdown timer on the sale? Same.\n\nWhat it does read is your prices, your shipping costs, your return policy, your product details. That's the whole shopping trip.\n\nAnd right now Amazon is blocking Meta's Muse agent. Delta says it works with zero outside agents. Yelp wants agents to pay to get in. Some stores let them through by accident, some on purpose.\n\nSo a small business has an odd little job coming. Make the boring facts easy to read.\n\nPrice on the page. Shipping stated plainly. Return policy someone can actually find.\n\nIt's the same work that helps a human skim. It just matters more now.\n\nWould a customer with no eyes know what you sell and what it costs?",
+        "Anthropic's new agent can't book you a flight.\n\nThat's on purpose.\n\nClaude Duet launched yesterday, and Anthropic was clear about what it's not. It's not for errands. It's not for tickets. It won't show you its browser as it works.\n\nWhat it does: builds a daily briefing, makes dashboards, suggests actions from your data, and runs tasks in the background on its own virtual machine. Then it comes back when it needs your okay.\n\nMuse is going broad. It hit 10 million US downloads in 40 days, and a lot of that was ad spend.\n\nDuet is going narrow. Professionals and small businesses.\n\nI think narrow wins for the owner of a five-person shop. Nobody running a landscaping crew needs help finding concert tickets. They need Monday's numbers waiting for them before the first truck rolls.\n\nThe boring agent is the one that stays open.\n\nWhat's the one task you'd happily hand off tomorrow, and why haven't you?",
+        "Somebody's API key just became money.\n\nOpenCode got hit this weekend. About 1.4% of console users had their stored keys used to burn through tokens. Bills ran from hundreds to thousands of dollars. The founder's own accounts got attacked too.\n\nHere's the part that stuck with me.\n\nThe attackers didn't steal data to sell. They used the keys directly. They stole a service and got paid in tokens.\n\nThat changes what a key is. It's not a password anymore. It's closer to a debit card with no PIN.\n\nSo anything that stores other people's keys is acting like a bank now. Whether it meant to or not.\n\nIf you build automations for small businesses, you probably touch keys all the time. Their email. Their CRM. Their AI accounts.\n\nWhere do those keys sit? Who can see them? Could you rotate every one tonight if you had to?\n\nNot a fun thing to find out at 2am."
+      ],
+      "threads": [
+        "Meta's Muse hit 10 million US downloads in 40 days. Faster than almost any app that isn't a game.\n\nBut look at the retention. 30% at seven days. Some of that is a ton of ad money.\n\nThe real test isn't the download. It's whether an agent gets opened a second time. Most of them fail once, and one failure is usually enough to make people quit.\n\nWhich apps are you actually still opening a month later?",
+        "Chris Koerner had four pool companies come out to his house over two weeks. Zero quotes.\n\nThen he had an agent email every builder in Dallas with the plans, the survey, and one ask. Just give me a ballpark.\n\nEight quotes showed up while he slept.\n\nThe agent was the easy part. The move was removing the friction for the person on the other end.\n\nWhat would you get back faster if you made it easier to say yes?",
+        "Agent Skills just became an open format.\n\nAnthropic handed it to the Linux Foundation this week, alongside Open Responses from OpenAI. So the little instruction packs you've been writing aren't tied to one tool anymore.\n\nThat's kind of a big deal and nobody's hyped about it.\n\nIf it's repeatable, it's a skill. Now the skill travels too.\n\nWhat's the one thing you've explained to an AI three times already?"
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-10-23",
+    "source": "The Koerner Office",
+    "title": "Their First AI Client Pays $15K/Month: Outreach, Pitch and Pricing [NO ADS + EARLY ACCESS]",
+    "url": "https://www.youtube.com/watch?v=ggL-4YhUwvU",
+    "video_id": "ggL-4YhUwvU"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-10-23",
+    "source": "The Koerner Office",
+    "title": "I Let AI Make and Save Me Money for 6 Weeks (Here\u2019s What Worked)",
+    "url": "https://www.youtube.com/watch?v=JhyVSrQPVSg",
+    "video_id": "JhyVSrQPVSg"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-10-23",
+    "source": "The Koerner Office",
+    "title": "6 Ways to Make Money With AI Starting From Zero [NO ADS + EARLY ACCESS]",
+    "url": "https://www.youtube.com/watch?v=ckH5sENc108",
+    "video_id": "ckH5sENc108"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-10-23",
+    "source": "Startup Ideas Podcast",
+    "title": "The 9 Stages of AI Agent Adoption, Explained",
+    "url": "https://www.youtube.com/watch?v=nRl-7Yhmbog",
+    "video_id": "nRl-7Yhmbog"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-10-23",
+    "source": "Corey Ganim",
+    "title": "9 grok bot templates that make $5,200 per month (they\u2019re free)",
+    "url": "https://www.youtube.com/watch?v=gi9KvtxdM-0",
+    "video_id": "gi9KvtxdM-0"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-10-23",
+    "source": "AI Daily Brief",
+    "title": "How AI is Changing What Work Means",
+    "url": "https://www.youtube.com/watch?v=65EUWUM-clM",
+    "video_id": "65EUWUM-clM"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-10-23",
+    "source": "AI Daily Brief",
+    "title": "Why AI Companies Are Betting Personality Beats Intelligence",
+    "url": "https://www.youtube.com/watch?v=FSX5JFJS9PQ",
+    "video_id": "FSX5JFJS9PQ"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-10-23",
+    "source": "AI Daily Brief",
+    "title": "The AI Wealth Problem",
+    "url": "https://www.youtube.com/watch?v=bw8nHS0_cl0",
+    "video_id": "bw8nHS0_cl0"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-23",
+    "topic": "model_releases",
+    "title": "Chinese tech company unveils new AI model based on fully domestic computing power - People's Daily Online",
+    "url": "https://en.people.cn/n3/2026/1023/c90000-20511624.html",
+    "snippet": "Chinese tech company unveils new AI model based on fully domestic computing power - People's Daily Online\n\n# Chinese tech company unveils new AI model based on fully domestic computing power\n\nBy Zhang Weilan (Global Times) 09:11, October 23, 2026\n\niFlytek 1024 Global Developer Festival 2026 is held in Beijing on October 22, 2026. Photo: Zhang Weilan/Global Times\n\nChinese tech company iFlytek relea"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-23",
+    "topic": "model_releases",
+    "title": "DeepSeek Launches Lower-Cost Flash AI Model With Strong Coding Performance - Beijing Post",
+    "url": "https://beijingpost.com/deepseek-launches-lower-cost-flash-ai-model-with-strong-coding-performance",
+    "snippet": "DeepSeek Launches Lower-Cost Flash AI Model With Strong Coding Performance - Beijing Post\n\nFriday, Oct 23, 2026 Beijing Post \n\n# DeepSeek Launches Lower-Cost Flash AI Model With Strong Coding Performance\n\nChinese artificial intelligence developer DeepSeek released a new Flash model designed to sharply reduce computing costs while delivering strong results on coding and software engineering benchma"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-23",
+    "topic": "model_releases",
+    "title": "Tencent officially open-sourced the Hunyuan Hy3 large model on 10-23, - Shanghai Metals Market (SMM)",
+    "url": "https://news.metal.com/newscontent/104174324-smm-flash-tencent-hunyuan-hy3-open-source-295b-moe-apache-20-free-for-commercial-use",
+    "snippet": "Tencent officially open-sourced the Hunyuan Hy3 large model on 10-23, - Shanghai Metals Market (SMM)\n\n# [SMM Flash] Tencent Hunyuan Hy3 Open Source: 295B MoE, Apache 2.0, Free for Commercial Use\n\nPublished: Oct 23, 2026 10:11 (GMT+8)\n\nTencent officially open-sourced the Hunyuan Hy3 large model on 10-23, adopting the Apache 2.0 license and fully opening free commercial use rights. The model is a 29"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-23",
+    "topic": "model_releases",
+    "title": "Agentic AI Foundation Announces Four New Projects: Agent Skills, Open Responses, OpenEnv, and OpenSandbox",
+    "url": "https://www.linuxfoundation.org/press/agentic-ai-foundation-announces-four-new-projects-agent-skills-open-responses-openenv-and-opensandbox",
+    "snippet": "Agentic AI Foundation Announces Four New Projects: Agent Skills, Open Responses, OpenEnv, and OpenSandbox\n\n# Agentic AI Foundation Announces Four New Projects: Agent Skills, Open Responses, OpenEnv, and OpenSandbox\n\n###### The Linux Foundation | 22 October 2026 \n\nAAIF reaches 10 projects in its first year, with new contributions from Alibaba, Anthropic, Hugging Face, and OpenAI\n\nSummary\n\n- AAIF an"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-23",
+    "topic": "model_releases",
+    "title": "Hugging Face releases Carbon-X open DNA model that chats with sequences at 1,800x lower cost",
+    "url": "https://aiintelreport.com/frontier-models/hugging-face-carbon-x-open-dna-model",
+    "snippet": "Hugging Face releases Carbon-X open DNA model that chats with sequences at 1,800x lower cost\n\n# Hugging Face releases Carbon-X open DNA model that chats with sequences at 1,800x lower cost\n\nThe Apache 2.0-licensed model matches GPT-6.1 Sol on five DNA benchmarks while cutting inference costs by roughly 1,800x, according to Hugging Face.\n\n By Diane Okafor October 22, 2026 10 MIN READ \n\nIllustration"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-23",
+    "topic": "product_releases",
+    "title": "Claude Duet app is Anthropic's bet on agents | TechCrunch",
+    "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+    "snippet": "# Claude Duet app is Anthropic\u2019s bet on agents\n\n Ivan Mehta \n\n6:53 AM PDT \u00b7 October 22, 2026\n\nThe AI world is flooded with personal and productivity-based assistants, with new ones launching every week. Now, Anthropic is entering this battle in the hopes of gaining user attention with a new app called Claude Duet, aimed at rivaling Meta Muse, OpenAI Dots, Hark, Instinct, Grok Bot, and Fo.\n\nAnthrop"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-23",
+    "topic": "product_releases",
+    "title": "Meta launches personal AI agent Muse in Japan",
+    "url": "https://english.kyodonews.net/articles/-/89228",
+    "snippet": "Meta launches personal AI agent Muse in Japan\n\n# Meta launches personal AI agent Muse in Japan \n\n KYODO NEWS \n\n - Oct 23, 2026 - 14:12 All, Japan \n\n Supplied photo shows a sample screen of Muse, Meta Platforms Inc.'s personal artificial intelligence agent. (Photo courtesy of Meta's Japanese unit)(Photo not for sale)(Kyodo)\n\nTOKYO - U.S. technology giant Meta Platforms Inc. said Friday it has launc"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-23",
+    "topic": "product_releases",
+    "title": "Binny Bansal-backed ShopOS Launches Sloosh, Opening Its AI Creative Engine to Every Creator",
+    "url": "https://www.business-standard.com/content/press-releases-ani/binny-bansal-backed-shopos-launches-sloosh-opening-its-ai-creative-engine-to-every-creator-126102300348_1.html",
+    "snippet": "Binny Bansal-backed ShopOS Launches Sloosh, Opening Its AI Creative Engine to Every Creator\n\n# Binny Bansal-backed ShopOS Launches Sloosh, Opening Its AI Creative Engine to Every Creator\n\n4 min read Last Updated : Oct 23 2026 | 5:05 PM IST\n\nBusinessWire India\n\nBengaluru (Karnataka) [India], October 23: ShopOS, the Bengaluru-based AI company that raised $20 million from Flipkart co-founder Binny Ba"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-23",
+    "topic": "product_releases",
+    "title": "OpenAI\u2019s GPT-6 Luna-Powered Decisions API Is Now Generally Available for Developers With Native GPT-Live Integration: Price, Capabilities | Technology News",
+    "url": "https://www.gadgets360.com/ai/news/openai-decisions-api-gpt-6-luna-model-public-release-price-capabilities-12225198",
+    "snippet": "OpenAI\u2019s GPT-6 Luna-Powered Decisions API Is Now Generally Available for Developers With Native GPT-Live Integration: Price, Capabilities | Technology News\n\n# OpenAI\u2019s GPT-6 Luna-Powered Decisions API Is Now Generally Available for Developers With Native GPT-Live Integration: Price, Capabilities\n\nOpenAI\u2019s Decisions API helps apps and AI agents make decisions from text, images, and structured input"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-23",
+    "topic": "product_releases",
+    "title": "Anthropic launches Claude Duet to automate cross-app tasks",
+    "url": "https://www.digitimes.com/news/a20261023PD202/claude-anthropic-meta-software-apps.html",
+    "snippet": "Anthropic launches Claude Duet to automate cross-app tasks\n\n# Anthropic launches Claude Duet to automate cross-app tasks\n\n \n\nOllie Chang\n\n, Taipei \n\n Oct 23, 2026, 11:51 0 \n\nCredit: Anthropic\n\n Anthropic has launched a research preview of Claude Duet, an AI agent that connects to email, calendars, and business software to prioritize work, track to-do items, and execute tasks in the background..."
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-23",
+    "topic": "ai_agents",
+    "title": "Introducing AgentSpot: From Chatbots to Multiplayer AI",
+    "url": "https://www.thoughtspot.com/press-releases/introducing-agentspot-from-chatbots-to-multiplayer-ai",
+    "snippet": "# Introducing AgentSpot: From Chatbots to Multiplayer AI \n\nThe first wave of AI gave every employee a chatbot. This next wave gives the whole company an AI workforce: grounded in your data, fluent in your business, working alongside your people.\n\nEnterprise-grade security and centralized governance are built in, so organizations can move fast without losing control.\n\nTrusted business context lets "
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-23",
+    "topic": "ai_agents",
+    "title": "Asuri.ai Launches Multi-Agent AI Platform for Persistent Business Workflows",
+    "url": "https://aithority.com/machine-learning/asuri-ai-launches-multi-agent-ai-platform-for-persistent-business-workflows/",
+    "snippet": "Asuri.ai Launches Multi-Agent AI Platform for Persistent Business Workflows\n\n# Asuri.ai Launches Multi-Agent AI Platform for Persistent Business Workflows\n\n By PRNewswire On Oct 22, 2026 \n\n#### The agentic platform helps nontechnical teams save time, eliminate redundant work and deploy specialized AI agents across more than 1,000 existing applications\n\nAsuri announced the launch of its multi-agent"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-23",
+    "topic": "ai_agents",
+    "title": "TanStack AI 1.0: Still Your AI, Still Your Way | TanStack Blog",
+    "url": "https://tanstack.com/blog/tanstack-ai-1-0",
+    "snippet": "Friday, October 23, 2026\n\n# TanStack AI 1.0: Still Your AI, Still Your Way\n\nPosted by\n\nAlem Tuzlak @AlemTuzlak\n\nJack Herrington @jherr\n\nTom Beckenham @tombeckenham\n\nTanner Linsley @tannerlinsley\n\nLess than a year ago, TanStack AI was a chat() function, four providers, and one promise: no lock-in, ever.\n\nToday we're shipping 1.0, with stable core APIs and a new experimental agent harness. Your prov"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-23",
+    "topic": "ai_agents",
+    "title": "Introducing Agent Compute Engine and expanding agent governance | Google Cloud Blog",
+    "url": "https://cloud.google.com/blog/topics/ai-infrastructure/introducing-agent-compute-engine-and-expanded-agent-governance",
+    "snippet": "October 22, 2026\n\n##### The Future of AI Infrastructure\n\nSee how co-designed, open systems scale AI on November 9\n\nBlog authors: Nirav Mehta, VP Product Management; Michael Bachman, VP/GM; Kevin Hutchins, VP Product Management\n\nScaling Gemini to planet scale taught us firsthand that securely running autonomous agents is fundamentally an infrastructure challenge. The shift from single-turn promptin"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-23",
+    "topic": "ai_agents",
+    "title": "Corti Advances Execution and Control Layer for Complex Agentic AI Systems in Healthcare | Corti",
+    "url": "https://corti.ai/newsroom/corti-advances-execution-and-control-layer-for-complex-agentic-ai-systems-in-healthcare",
+    "snippet": "# Corti Advances Execution and Control Layer for Complex Agentic AI Systems in Healthcare\n\nNew Agentic Framework capabilities enable healthcare developers to build, connect and govern AI agents at scale, as Dedalus transforms its ORBIS EHR into a system of action powered by Corti.\n\nCOPENHAGEN \u2013 22 October 2026 \u2013 Corti, the frontier AI lab for clinical-grade AI, today announced a major expansion of"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-23",
+    "topic": "ai_small_business",
+    "title": "JP Urban Digital Launches AI Workflow Automation Services to Help Businesses Streamline Operations",
+    "url": "https://www.streetinsider.com/Newsfile/JP+Urban+Digital+Launches+AI+Workflow+Automation+Services+to+Help+Businesses+Streamline+Operations/27197270.html",
+    "snippet": "Brooklyn, New York--(Newsfile Corp. - October 16, 2026) - JP Urban Digital, a Brooklyn-based Marketing & AI Agency, is introducing an expanded focus on AI workflow automation to help businesses connect their existing software, reduce repetitive manual tasks, and improve how information moves across marketing, sales, and internal operations.\n\n To view an enhanced version of this graphic, please vis"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-23",
+    "topic": "ai_small_business",
+    "title": "Santa Cruz Company Sannidhi Gives Small Businesses a Dedicated AI Team, Directed by a Leader With 30 Years of Enterprise Experience",
+    "url": "https://www.streetinsider.com/GetNews/Santa+Cruz+Company+Sannidhi+Gives+Small+Businesses+a+Dedicated+AI+Team%2C+Directed+by+a+Leader+With+30+Years+of+Enterprise+Experience/27217056.html",
+    "snippet": "\"Chris Cobb directs Sannidhi's AI team for small businesses from Santa Cruz, California.\"\n\nThe kind of team large companies paid $250 an hour for, directed by someone who led it for 30 years, is now available to a small business for $500 a month.\n\nSanta Cruz, California - October 21, 2026 - Sannidhi, a Santa Cruz company, gives small businesses a dedicated AI team directed by Chris Cobb, who has s"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-23",
+    "topic": "ai_small_business",
+    "title": "AI Automation for Small Businesses: 7 Practical Ways to Save Time Every Week - DEV Community",
+    "url": "https://dev.to/cloudlifttech/ai-automation-for-small-businesses-7-practical-ways-to-save-time-every-week-325m",
+    "snippet": "Oct\n\n...\n\n# AI Automation for Small Businesses: 7 Practical Ways to Save Time Every Week \n\n\"AI\" sounds like something reserved for giant tech companies with huge budgets. In reality, some of the most valuable uses of AI today are small, practical automations that save small businesses hours every single week.\n\nYou do not need a robot workforce. You need to stop doing the same repetitive tasks by h"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-23",
+    "topic": "ai_small_business",
+    "title": "GoDaddy's CEO: Dos and Don'ts of AI Use for Small Businesses - Business Insider",
+    "url": "https://www.businessinsider.com/godaddy-ceo-when-small-businesses-use-ai-2026-10",
+    "snippet": "GoDaddy's CEO said small businesses should use AI to automate work, but not lose sight of their brand. As head of the domain registrar and web-hosting company, Aman Bhutani has a bird's-eye view into what works for small businesses. The company said it has over 20 million customers, the majority of which are micro businesses, or those with fewer than 10 employees.\n\nThe entrepreneurs behind these c"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-23",
+    "topic": "ai_labs",
+    "title": "Build more responsive apps with the Decisions API | OpenAI",
+    "url": "https://openai.com/index/decisions-api/",
+    "snippet": "Build more responsive apps with the Decisions API | OpenAI\n\nOctober 22, 2026\n\n# Build more responsive apps with the Decisions API\n\nFast, focused, low-cost decisions for any application.\n\nApplications and agents make many small decisions throughout a workflow: how to classify an input, where to route a request, or which action to take next. Individually, they are simple. At scale, their latency and"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-23",
+    "topic": "ai_labs",
+    "title": "LLMs are making formal software verification feasible at a much larger scale \\ Anthropic",
+    "url": "https://www.anthropic.com/research/formal-verification",
+    "snippet": "LLMs are making formal software verification feasible at a much larger scale \\ Anthropic\n\n# LLMs are making formal software verification feasible at a much larger scale\n\n- Published\n\nOct 22, 2026\n- Team\n\nFrontier Red Team\n\nKeane Lucas, Aengus Lynch, Luna Tong, Luke Champine, Zygi Straznickas, Dino Distefano, Harshikaa Agrawal Evyatar Ben Asher, Ava Howell, Sami Jawhar, Chris Rohlf, Nickolai Zeldov"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-23",
+    "topic": "ai_labs",
+    "title": "Not All Forests Are Equal: Mapping the World\u2019s Forests \u2014 Google DeepMind",
+    "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+    "snippet": "Not All Forests Are Equal: Mapping the World\u2019s Forests \u2014 Google DeepMind\n\n October 22, 2026 Research\n\n# Beyond tree cover: mapping the world\u2019s forest types\n\nMaxim Neumann and Charlotte Stanton\n\nA new 10-meter resolution map shows which of the world's forests are natural, planted, or farmed, and how they are changing over time\n\nProtecting the planet's forests starts with a simple question: what typ"
   }
 ]
