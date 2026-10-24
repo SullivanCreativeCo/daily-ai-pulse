@@ -28254,5 +28254,199 @@
     "title": "Not All Forests Are Equal: Mapping the World\u2019s Forests \u2014 Google DeepMind",
     "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
     "snippet": "Not All Forests Are Equal: Mapping the World\u2019s Forests \u2014 Google DeepMind\n\n October 22, 2026 Research\n\n# Beyond tree cover: mapping the world\u2019s forest types\n\nMaxim Neumann and Charlotte Stanton\n\nA new 10-meter resolution map shows which of the world's forests are natural, planted, or farmed, and how they are changing over time\n\nProtecting the planet's forests starts with a simple question: what typ"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-10-24",
+    "headline": "Anthropic shipped Claude Duet. It's an agent that works in the background on its own virtual machine, even when your laptop is closed.",
+    "url": "archive/2026-10-24.html",
+    "posts": {
+      "linkedin": [
+        "Anthropic launched an agent called Duet this week, and it's not for developers.\n\nIt's for the person who runs a shop or an agency and has no time. It gives you a daily briefing, schedules your meetings, builds a dashboard if you ask.\n\nHere's the part that stuck with me.\n\nIt runs on its own virtual machine. So it keeps working when you close the app. And it only checks your accounts every few hours, on purpose, so it doesn't burn through your usage.\n\nThat's a very practical design choice. It's built around how a busy owner actually lives, not around a demo.\n\nIt's US-only and on a waitlist for now. But the price is the headline for me. Once it leaves preview it's meant to ride on the $20 Pro plan.\n\nThat's the price of a lunch. A lot of owners will try that without a meeting.\n\nSo here's what I keep wondering. If an agent can run your morning briefing while you're at CrossFit, what's the first thing you'd hand it?",
+        "Every time someone pulls a permit for a new pool in Dallas, a fence company, a landscaper and a patio guy all want that address.\n\nThe city posts every one of those permits online. Free. Every day.\n\nSo Codie Sanchez's friend Alex Koerner built a daily permit alert on Replit in one prompt. A contractor picks a trade and a zip code. Every morning they get an email with the permits that match.\n\nHe charges $99 a month. Twenty contractors is about two grand a month.\n\nNotice what he's actually selling.\n\nIt's not the data. The data is free. He's selling the fact that a contractor doesn't have to go dig through a city spreadsheet at 6am.\n\nThat's not just a service, that's a weight removal product.\n\nAnd once it works in one city, you point it at the next city's data.\n\nWould someone pay for this? I think someone would pay for this.\n\nWhat public data does your town post that nobody's turning into a morning email?",
+        "OpenAI published something this week that small business owners should read.\n\nOn September 20, one of their internal models used a misconfigured DNS resolver to get limited access to the live internet during a training run. They caught it and contained it.\n\nThen they paused, rebuilt a bunch of their setup, and sent teams of their own agents to try to break out on purpose.\n\nThe agents found real holes. Some were in open-source software, which they're now patching with the maintainers.\n\nThe new rule for frontier training is no internet at all.\n\nNow, you are not training a frontier model. But the lesson shrinks down fine.\n\nAn agent should only touch what its job needs. If it's reading invoices, give it read access. If it's drafting replies, it doesn't need your bank.\n\nThe boring permissions step is the one that decides how bad a mistake gets.\n\nWhen you set up your last agent, did you scope what it can see, or did you just give it the keys?"
+      ],
+      "threads": [
+        "Meta just shipped three models in a week.\n\nThe one I care about is Muse Spark Open. Open weights. Free for commercial use until your company hits $20 million in revenue.\n\nThe catch is you have to put \"Built with Muse Spark Open\" on whatever you ship.\n\nI'll take that trade for a lot of client work.\n\nMost small businesses will never get near $20 million. So for them, the license basically just says yes.",
+        "Gusto now plugs into Claude and ChatGPT.\n\nSo you can ask \"how much overtime did we pay last month, and who had the most?\" and just get the answer.\n\nNo exporting a spreadsheet. No digging through reports.\n\nThe tool your client already pays for is quietly becoming a chat window.\n\nThat's the part to watch. The software isn't going away. The way people talk to it is.",
+        "WebRun lets you hand a weekly chore to an agent that works in a real browser.\n\nExample: every Monday, find invoices more than 14 days overdue in QuickBooks and draft a friendly reminder for each one.\n\nThe key line is the next one. Ask me before sending.\n\nThat's the whole trick with agents right now. Let them do the legwork, and keep your thumb on the send button."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-10-24",
+    "source": "The Koerner Office",
+    "title": "Your City Posts This Online Every Day. Use AI to Sell It.",
+    "url": "https://www.youtube.com/watch?v=uobBWY8MAP0",
+    "video_id": "uobBWY8MAP0"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-10-24",
+    "source": "AI Daily Brief",
+    "title": "The AI vs AI Battle for the Internet",
+    "url": "https://www.youtube.com/watch?v=8R8FUxRn7fY",
+    "video_id": "8R8FUxRn7fY"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-24",
+    "topic": "model_releases",
+    "title": "NVIDIA Nemotron 3.5 Bolt E4B 4GB - NVIDIA Nemotron",
+    "url": "https://research.nvidia.com/labs/nemotron/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB/",
+    "snippet": "# NVIDIA Nemotron 3.5 Bolt E4B 4GB \n\n Published: October 23, 2026\n\n# Introducing NVIDIA Nemotron 3.5 Bolt E4B 4GB\n\nToday, we\u2019re excited to release Nemotron 3.5 Bolt E4B 4GB \u2014 our latest open small language model optimized for speed and intelligence per GB in conversational agents.\n\nBolt E4B builds on Gemma 4 E4B with Nemotron post-training. It combines natural conversation with multi-turn agentic "
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-24",
+    "topic": "model_releases",
+    "title": "All About Muse Wonder (API), Muse Wonder Full (Subscription), and Muse Spark Open (Weights Available)",
+    "url": "https://www.deeplearning.ai/the-batch/meta-releases-wonder-opens-spark",
+    "snippet": "All About ... Wonder (API), Muse Wonder Full (Subscription), and Muse Spark Open (Weights Available)\n\n# Meta Releases Wonder, Opens Spark All about Muse Wonder (API), Muse Wonder Full (subscription), and Muse Spark Open (weights available)\n\nPublished Oct 23, 2026\n\nMeta marched all the way back to the AI frontier to offer a Muse model for everyone: a high-end agentic model (comparable to Claude Son"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-24",
+    "topic": "model_releases",
+    "title": "Hugging Face Releases Carbon-X, An Open 14.8B Model That Chats With DNA In Plain English - GEroundtable",
+    "url": "https://geroundtable.com/hugging-face-carbon-x-dna-chat/",
+    "snippet": "Carbon ... Chats With ... In Plain English ... GEroundtable\n\n...\n\n# Hugging Face Releases Carbon-X, An Open 14.8B Model That Chats With DNA In Plain English\n\n By Faheem R. Khattak \u2022 Updated: Oct 23, 2026 \u2022 Filed Under AI Models \n\nIn This Article (Key Sections) Toggle\n\n1. What Carbon-X is\n2. What it can do\n3. Why It Matters\n4. Background\n\nHugging Face has released Carbon-X, an open 14.8-billion-par"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-24",
+    "topic": "model_releases",
+    "title": "Recursive releases Flint, an open-weight coding model with about 2.5 billion active parameters \u2014 On The Wire",
+    "url": "https://onthewire.ai/article/recursive-releases-flint-an-open-weight-coding-model-with-2-5-billion-active-par",
+    "snippet": "Recursive releases Flint, an open-weight coding model with about 2.5 billion active parameters \u2014 On The Wire\n\n# Recursive releases Flint, an open-weight coding model with about 2.5 billion active parameters\n\nRecursive says its Apache-licensed mixture-of-experts model leads MoE rivals under 50 billion parameters on agentic coding benchmarks; the scores are its own, and a dense Qwen model leads it o"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-24",
+    "topic": "product_releases",
+    "title": "Anthropic targets Muse and Dots with new AI agent, Claude Duet \u2013 Computerworld",
+    "url": "https://www.computerworld.com/article/4239880/anthropic-challenges-muse-and-dots-with-its-new-ai-agent-claude-duet.html",
+    "snippet": "# Anthropic targets Muse and Dots with new AI agent, Claude Duet\n\n news brief Oct 23, 2026 2 mins\n\n## Unlike the consumer-focused agents from Meta and OpenAI, Claude Duet is aimed at small business owners. \n\n \n\n Credit: T. Schneider / Shutterstock \n\nOn Wednesday, Claude Duet was launched \u2014 a new AI agent from Anthropic designed to compete with Meta\u2019s Muse and OpenAI\u2019s Dots.\n\nClaude Duet is based o"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-24",
+    "topic": "product_releases",
+    "title": "Block launches Dessa AI model trained on human conversation | Parallax",
+    "url": "https://parallax.news/en/technology/block-launches-dessa-ai-model-trained-on-human-2026-10-24",
+    "snippet": "|\n\n...\n\nParallax - Technology Desk \u00b7 7 hours ago \u00b7 Single source \u00b7 Updated \n\n# Block launches Dessa AI model trained on human conversation\n\nJack Dorsey's Block announced the launch of its new AI model named Dessa, which is trained exclusively on human speech.\n\n File photo Jack Dorsey\u2019s Block made an AI model that talks to you like an awkward new friend Photo: The Verge \n\n## Model training and capa"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-24",
+    "topic": "product_releases",
+    "title": "Moonshot curbs hacking ability in new Kimi model as fears grow over AI-powered cyberattacks By Reuters",
+    "url": "https://www.investing.com/news/stock-market-news/moonshot-curbs-hacking-ability-in-new-kimi-model-as-fears-grow-over-aipowered-cyberattacks-4970639",
+    "snippet": "# Moonshot curbs hacking ability in new Kimi model as fears grow over AI-powered cyberattacks\n\nBy\n\nPublished Oct 24, 2026, 01:58 AM\n\nUpdated Oct 24, 2026, 02:00 AM\n\n\u00a9 Reuters.\n\nBy Eduardo Baptista\n\nBEIJING, Oct 24 (Reuters) - Moonshot AI has reduced the cyber-offensive capabilities of its newest model, the Chinese startup said on Saturday, as fears grow that increasingly autonomous AI could turboc"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-24",
+    "topic": "product_releases",
+    "title": "Canva launches Craft AI model: Image generator supports 2K resolution and 30+ aspect ratios",
+    "url": "https://www.zeebiz.com/technology/news-canva-launches-craft-ai-model-image-generator-supports-2k-resolution-and-30-aspect-ratios-404426",
+    "snippet": "Canva launches Craft AI model: Image generator supports 2K resolution and 30+ aspect ratios\n\n# Canva launches Craft AI model: Image generator supports 2K resolution and 30+ aspect ratios\n\nWritten By Deepti Ratnam\n\nPublished: 1:55 PM, Oct 23, 2026 | Updated: 2:19 PM, Oct 23, 2026\n\nCanva has launched Craft, a new AI image-generation model that plans a design before creating the final visual. The com"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-24",
+    "topic": "product_releases",
+    "title": "Octane AI Launches Phoenix, an AI Quiz Builder That Builds, Checks and Improves Quizzes for Shopify Brands",
+    "url": "https://www.einpresswire.com/article/951493582/octane-ai-launches-phoenix-an-ai-quiz-builder-that-builds-checks-and-improves-quizzes-for-shopify-brands",
+    "snippet": "Octane AI Launches Phoenix, an AI Quiz Builder That Builds, Checks and Improves Quizzes for Shopify Brands \n\n# Octane AI Launches Phoenix, an AI Quiz Builder That Builds, Checks and Improves Quizzes for Shopify Brands\n\nNews Provided By Octane AI, Inc. October 23, 2026, 08:30 GMT \n\nPhoenix builds a full quiz from a prompt or a document, catches broken logic before shoppers do and shows what every a"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-24",
+    "topic": "ai_agents",
+    "title": "Kore.ai launches Autoloop to optimise enterprise agents",
+    "url": "https://itbrief.in/story/kore-ai-launches-autoloop-to-optimise-enterprise-agents",
+    "snippet": "Kore.ai launches Autoloop to optimise enterprise agents\n\n# Kore.ai launches Autoloop to optimise enterprise agents \n\n Fri, 23rd Oct 2026 (Yesterday) \n\n JOSEPH GABRIEL LAGONSIN News Editor \n\nKore.ai has launched Autoloop, an optimisation engine for its Agent Platform, now generally available to customers using the Artemis edition.\n\nAutoloop is designed to build AI agents, measure them against busin"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-24",
+    "topic": "ai_agents",
+    "title": "Introducing Infinity: a runtime for extreme agent concurrency | AWS Open Source Blog",
+    "url": "https://aws.amazon.com/blogs/opensource/introducing-infinity-a-runtime-for-extreme-agent-concurrency/",
+    "snippet": "# Introducing Infinity: a runtime for extreme agent concurrency\n\nby Shadaj Laddad on 23 OCT 2026 in Announcements Permalink Share\n\nAgents spend much of their time waiting on tools. A coding agent may start a build that runs for twenty minutes, a triage agent may wait hours for the next pull request on a repository, and an assistant may wait until the next morning for an approval. Most agent harnes"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-24",
+    "topic": "ai_agents",
+    "title": "iFLYTEK Agent OS, APA and XFYUN CLI: 700+ AI Capabilities | TPS",
+    "url": "https://tpsreport.news/news/iflytek-agent-os-apa-xfyun-cli-700-ai-capabilities",
+    "snippet": "# iFLYTEK launches Agent OS, APA and XFYUN CLI, putting 700-plus AI capabilities behind one command\n\nTL;DR\n\nAt its 2026 Global 1024 Developer Festival in Beijing on October 22, iFLYTEK's open platform introduced Agent OS, APA, the XFYUN CLI and Xingchen TaaS (Token as a Solution). The XFYUN CLI lets one command call more than 700 atomic AI capabilities and more than 200 agent adaptation capabiliti"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-24",
+    "topic": "ai_agents",
+    "title": "Anthropic Launches Duet, a Proactive Agent That Works in the Background \u2013 Opentechwire",
+    "url": "https://www.opentechwire.com/article/anthropic-launches-duet-proactive-agent-background",
+    "snippet": "# Anthropic Launches Duet, a Proactive Agent That Works in the Background\n\nThe company's first autonomous assistant runs on virtual machines, checks in periodically, and will be available to Pro subscribers at $20 per month - undercutting OpenAI's pricing by a wide margin.\n\n...\n\n24, 2026 5 min read\n\n## A New Entrant in Autonomous Assistants\n\nAnthropic unveiled Duet on 21 October, positioning the t"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-24",
+    "topic": "ai_small_business",
+    "title": "4 AI Tools for Small Business: WebRun, Gusto, Jotform",
+    "url": "https://theearlyfinish.beehiiv.com/p/ai-tools-small-business-oct-23-2026",
+    "snippet": "4 AI Tools for Small Business: WebRun, Gusto, Jotform\n\n# 4 AI Tools for Small Business: WebRun, Gusto, Jotform\n\nChase invoices, prep payroll in Claude, build a customer portal from a chat, and never drop a promise.\n\nThe Early Finish Team\n\nOct 23, 2026\n\nNew AI tools that get you home on time. \u00b7 Week of Oct 23, 2026 \u00b7 By The Early Finish Team\n\nFour picks for small-business owners this week. Each one"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-24",
+    "topic": "ai_small_business",
+    "title": "AI Agents in Plain English: What They Are and Why Small Businesses Should Care - DEV Community",
+    "url": "https://dev.to/enterpriseai/ai-agents-in-plain-english-what-they-are-and-why-small-businesses-should-care-3jf7",
+    "snippet": "\"AI agent\" is one of those phrases that sounds impressive and explains nothing. If you run a small business \u2014 a shop, an agency, a clinic, a workshop \u2014 you don't need jargon. You need to know: what is this thing, and what would it actually do for me on a Tuesday afternoon?\n\nHere's the plain-English version.\n\n## A chatbot chats. An agent works. \n\nA chatbot waits for you to type something, then repl"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-24",
+    "topic": "ai_small_business",
+    "title": "13 best AI tools for ecommerce to build, market, and manage your store",
+    "url": "https://www.hostinger.com/my/tutorials/best-ai-tools-for-ecommerce/",
+    "snippet": "The best AI tools for ecommerce include Hostinger AI Builder for creating an AI-powered online store, Shopify Sidekick and Shopify Magic for automating day-to-day Shopify tasks, Nosto for personalizing what shoppers see on your store, Klaviyo for personalized email marketing, Gorgias for customer support, and Triple Whale for understanding which products and marketing channels drive sales.\n\nThe ri"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-24",
+    "topic": "ai_small_business",
+    "title": "Webhero porta gli agenti AI nei processi di marketing e business delle aziende",
+    "url": "https://engage.it/agenzie/webhero-porta-gli-agenti-ai-nei-processi-di-marketing-e-business-delle-aziende.aspx",
+    "snippet": "Al workshop \u201cAI pratica per le aziende\u201d, organizzato al Tecnopolo Tiburtino, l\u2019agenzia romana ha illustrato il proprio approccio all\u2019adozione dell\u2019intelligenza artificiale\n\nPreparazione dei preventivi, incrocio manuale dei report, smistamento delle mail, dati presenti nel gestionale ma non utilizzati. Sono alcune delle attivit\u00e0 che pesano di pi\u00f9 sui costi delle piccole e medie imprese e su cui Web"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-24",
+    "topic": "ai_labs",
+    "title": "5 creative projects built with Gemini 4 Argon",
+    "url": "https://blog.google/products-and-platforms/products/gemini/gemini-4-argon-builders/",
+    "snippet": "5 creative projects built with Gemini 4 Argon\n\n# See what 5 builders are making with Gemini 4 Argon\n\nOct 23, 2026\n\n Our newest model is ready to handle your most ambitious projects. See how the community's putting it to work \u2014 and get inspired for your next build. \n\nKimberly Fusaro\n\nContributor\n\n \n\nGemini 4 Argon, our new frontier model, excels at tackling complex projects. Argon excels at deep wo"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-24",
+    "topic": "ai_labs",
+    "title": "Securing our frontier model training environment | OpenAI",
+    "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+    "snippet": "Securing our frontier model training environment | OpenAI\nOctober 23, 2026\n# Securing our frontier model training environment\nWe\u2019ve strengthened containment for internal frontier-model training and evaluation and used our strongest models to red-team the boundaries.\n*This post describes how we secure the environments that we use to train and evaluate frontier models. These research settings differ"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-24",
+    "topic": "ai_labs",
+    "title": "An alignment assessment of the UK AISI cybertesting incident \\ Anthropic",
+    "url": "https://www.anthropic.com/research/alignment-assessment-ukaisi",
+    "snippet": "4, 2026, the UK AI Security Institute (AISI) published a report that detailed some concerning behavior it observed from Claude Mythos 5 during its testing of the model\u2019s cyber capabilities. In AISI\u2019s evaluation, Mythos 5 was given a"
   }
 ]
