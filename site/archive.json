@@ -28448,5 +28448,167 @@
     "title": "An alignment assessment of the UK AISI cybertesting incident \\ Anthropic",
     "url": "https://www.anthropic.com/research/alignment-assessment-ukaisi",
     "snippet": "4, 2026, the UK AI Security Institute (AISI) published a report that detailed some concerning behavior it observed from Claude Mythos 5 during its testing of the model\u2019s cyber capabilities. In AISI\u2019s evaluation, Mythos 5 was given a"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-10-25",
+    "headline": "The AI bubble talk got loud again this week. Nasdaq dropped 3% Thursday, hedge funds sold tech at the fastest pace in a decade, and Gartner says 80% of neo clouds could go bankrupt by 2030.",
+    "url": "archive/2026-10-25.html",
+    "posts": {
+      "linkedin": [
+        "Ken Griffin says we're almost certainly in a bubble.\n\nHis reason is simple. Companies are opening their Anthropic and OpenAI bills and asking where the productivity is.\n\nI can't tell you if he's right about the market.\n\nBut I know that question already.\n\nEvery small business owner I've worked with has asked it since day one. Not in those words. More like, \"Is this going to save me an afternoon or not?\"\n\nBig companies are just now learning to ask it.\n\nThat's the good news for anyone building this stuff for small shops. The bar was never \"look how smart the model is.\" The bar was always \"what did it take off my plate this week?\"\n\nWould someone pay for that? I think someone would pay for that.\n\nSo here's my filter. If I can't point at the hours it gave back, I don't ship it.\n\nWhat's the one AI thing in your business you could point at and say it gave you time back?",
+        "Here's math nobody puts on the agent demo slide.\n\nSay an AI agent gets each step right 95% of the time. That sounds great.\n\nNow give it ten steps.\n\nIt finishes without a single mistake about 60% of the time.\n\nTwenty steps? Closer to a third.\n\nThat's why the flashy \"it does everything on its own\" demos fall apart on real work. Small errors stack.\n\nThe fix isn't a smarter agent. It's shorter jobs with a check in between.\n\nResearch 50 prospects, then a person looks at the list. Fix the image descriptions on 40 product pages, with a backup first. Draft the reply, then you hit send.\n\nIf you can write the steps down in advance, you don't need an agent at all. You need a workflow with one AI step in it. Cheaper, faster, easier to trust.\n\nBoring wins here.\n\nWhat's one job you've been trying to hand to an agent that would honestly work better as a plain workflow?",
+        "Three different companies shipped agent products this week.\n\nSakana. Oracle. A Swedish startup called Strawberry.\n\nDifferent buyers, different pitch, same design choice.\n\nThey all put a human approval step inside the process.\n\nSakana writes it right into the workflow. The agent reads the supplier reply, analyzes it, then waits for a person to approve before anything runs. Strawberry's agents pause before they send an email or change a record.\n\nThat's not a safety bolt-on. That's the product.\n\nAnd it's the part small business owners care about most. They don't want a robot with the keys to the bank account. They want something that does the grunt work and says, \"Hey, look at this before I send it.\"\n\nThe sales pitch used to be \"it runs by itself.\"\n\nThe pitch that actually closes is \"it does the work, you keep the say.\"\n\nWhere in your business would you want that pause button?"
+      ],
+      "threads": [
+        "Moonshot dropped a new Kimi model. Bigger, better at coding, and cheaper than the last one.\n\nSame week everyone's arguing about whether AI is a bubble.\n\nFunny how that works. The tools keep getting better and cheaper while the headlines say it's all about to pop.\n\nFor a small business owner, the price of the model was never the hard part.\n\nThe hard part is knowing what to point it at.",
+        "ChatGPT can now use tools a website hands it directly. No more clicking around a page like a confused intern.\n\nThe standard behind it is called WebMCP.\n\nIt asks permission first and checks with you before anything sensitive.\n\nWebsites are about to have two front doors. One for people, one for AI.\n\nIf you build sites for clients, that second door is a conversation worth having soon.",
+        "Microsoft's new Copilot Code lets someone at work describe a tracker or dashboard and just get it built.\n\nNo developer. No ticket.\n\nSo what's left for the person who actually understands the business?\n\nKnowing which tracker is worth building in the first place.\n\nThe tool got easy. The judgment didn't."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-10-25",
+    "source": "AI Daily Brief",
+    "title": "The Most Concerning AI Bubble Signals",
+    "url": "https://www.youtube.com/watch?v=3WYxicCws8k",
+    "video_id": "3WYxicCws8k"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-25",
+    "topic": "product_releases",
+    "title": "Swedish startup Strawberry launches AI browser for non-technical teams",
+    "url": "https://thenextweb.com/news/strawberry-ai-browser-1-0-launch",
+    "snippet": "Swedish startup Strawberry launches AI browser for non-technical teams\n\n# Swedish startup Strawberry launches AI browser for non-technical teams\n\nOctober 26, 2026 - 10:36 am\n\n \n\n Strawberry co-founders, from left: Arian Hanifi, Charles Maddock and Sebastian Thunman Credit: Strawberry \n\nMost AI assistants live in a chat window. Stockholm-based Strawberry wants them to work where people already do t"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-25",
+    "topic": "product_releases",
+    "title": "Moonshot AI Launches More Powerful Kimi Model - Caixin Global",
+    "url": "https://www.caixinglobal.com/2026-10-26/moonshot-ai-launches-more-powerful-kimi-model-102497310.html",
+    "snippet": "# Moonshot AI Launches More Powerful Kimi Model\n\nBy Yang Zirui Published: Oct. 26, 2026 11:44 a.m. GMT+8\n\nMoonshot AI launched Kimi K3.1 Pro, its most powerful model yet. Photo: VCG\n\nChinese AI startup Moonshot AI launched its most powerful model yet, cutting prices while boosting performance in coding and agent tasks as domestic developers try to keep pace with a rapid series of upgrades from U.S"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-25",
+    "topic": "product_releases",
+    "title": "ElevenLabs launches Instant Soundtracks to generate original music from uploaded videos",
+    "url": "https://www.digitaltoday.co.kr/en/view/119543/elevenlabs-launches-instant-soundtracks-to-generate-original-music-from-uploaded-videos",
+    "snippet": "ElevenLabs launches Instant Soundtracks to generate original music from uploaded videos\n\n Updated 9:28 PM KST, Mon October 26, 2026 | Mobile Web \n\n Generating... AI Summary\n\n ElevenLabs, a global AI audio company, said on Oct. 26 it has launched Instant Soundtracks, a feature that generates original music and sound effects tailored to uploaded videos. The company said the function is available on "
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-25",
+    "topic": "product_releases",
+    "title": "Microsoft has begun rolling out Copilot Code for building apps with natural language",
+    "url": "https://tech.yahoo.com/ai/copilot/articles/microsoft-begun-rolling-copilot-code-013906528.html",
+    "snippet": "Microsoft has begun rolling out Copilot Code for building apps with natural language\n# Microsoft has begun rolling out Copilot Code for building apps with natural language\nSudhanshu Kumar Mangalam\nMon, October 26, 2026 at 1:39 AM UTC\nMon, October 26, 2026 at 1:39 AM UTC\nMicrosoft introduced Code last month as one of the three core parts of its revamped Copilot app. The app was pitched as an easy-t"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-25",
+    "topic": "product_releases",
+    "title": "iAsk.ai Unveils Search-To-Video AI: Ask a Question, Watch the Answer |\n                                    Newswire",
+    "url": "https://www.newswire.com/news/iask-ai-unveils-search-to-video-ai-ask-a-question-watch-the-answer-22877230",
+    "snippet": "iAsk.ai Unveils Search-To-Video AI: Ask a Question, Watch the Answer | Newswire \n\n# iAsk.ai Unveils Search-To-Video AI: Ask a Question, Watch the Answer\n\n Press Release \u2022 Oct 26, 2026 11:00 UTC \n\nAvailable to everyone, the feature lets users request a generated tutorial video with their search. A new launch demo shows a question about black holes becoming a visual explanation.\n\n \n\n CHICAGO, IL, Oc"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-25",
+    "topic": "ai_agents",
+    "title": "Sakana AI launches Aquarium, a platform that runs company agents on an ontology | AiLookout.news",
+    "url": "https://ailookout.news/blog/sakana-ai-launches-aquarium-a-platform-that-runs-company-agents-on-an-ontology/",
+    "snippet": "# Sakana AI launches Aquarium, a platform that runs company agents on an ontology\n\nSakana AI's new Sakana Aquarium links company data, rules and knowledge in an ontology, runs agents as YAML workflows with human approval steps, and logs the basis for each decision. Pricing and a start date are not public.\n\nKristian Kostov Published 25 Oct 2026 Copy link\n\nSakana AI announced Sakana Aquarium on 23 O"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-25",
+    "topic": "ai_agents",
+    "title": "Oracle Introduces New AI-Powered Ways to Execute Work Across Oracle Fusion Applications",
+    "url": "https://www.oracle.com/news/announcement/ai-world-oracle-introduces-new-ai-powered-ways-to-execute-work-across-oracle-fusion-applications-2026-10-26/",
+    "snippet": "Oracle Introduces New AI-Powered Ways to Execute Work Across Oracle Fusion Applications\n\n# Oracle Introduces New AI-Powered Ways to Execute Work Across Oracle Fusion Applications\n\nFusion Companion and Fusion Agentic Home help organizations achieve business outcomes by enabling employees to execute work across different AI clients while maintaining enterprise security and control\n\n Oracle AI World,"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-25",
+    "topic": "ai_agents",
+    "title": "Oracle Advances Outcome-Driven AI Across Fusion Applications",
+    "url": "https://www.oracle.com/news/announcement/ai-world-oracle-advances-outcome-driven-ai-across-fusion-applications-2026-10-26/",
+    "snippet": "Oracle Advances Outcome-Driven AI Across Fusion Applications\n\n# Oracle Advances Outcome-Driven AI Across Fusion Applications\n\nNew agentic applications and AI experiences help organizations get work done and achieve measurable business outcomes across finance, HR, supply chain, sales, and service\n\n Oracle AI World, LAS VEGAS\u2014Oct 26, 2026 \n\nOracle today announced new AI innovations across Oracle Fus"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-25",
+    "topic": "ai_agents",
+    "title": "Google Cloud launches Agent Compute Engine to host agents with sandboxes and cost controls",
+    "url": "https://www.codeandchain.com/en/articles/2026-10-25/article-2676387261b6",
+    "snippet": "Google Cloud launches Agent Compute Engine to host agents with sandboxes and cost controls\n\n# Google Cloud launches Agent Compute Engine to host agents with sandboxes and cost controls\n\n2026-10-25 AI Product Last updated: 24 Oct 2026, 11:35 pm UTC\n\n## Summary\n\nGoogle Cloud released Agent Compute Engine to host AI agents in sandboxed environments. The service automatically shuts down idle sandboxes"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-25",
+    "topic": "ai_small_business",
+    "title": "AI Agents for Small Business: What They Actually Do in 2026 (and Where They Fail) - DEV Community",
+    "url": "https://dev.to/saurabh_bhayana/ai-agents-for-small-business-what-they-actually-do-in-2026-and-where-they-fail-42a7",
+    "snippet": "AI Agents for Small Business: What They Actually Do in 2026 (and Where They Fail) - DEV Community\nSaurabh Bhayana\nPosted on Oct 24 \u2022 Originally published at saurabhbhayana.com\n# AI Agents for Small Business: What They Actually Do in 2026 (and Where They Fail)\n*This guide was first published on saurabhbhayana.com.*\nEvery software tool you use now has an AI agent. Your CRM has one, your email has on"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-25",
+    "topic": "ai_small_business",
+    "title": "Business Automation in 2026: The Founder\u2019s AI & No-Code Toolkit",
+    "url": "https://deeemoz.beehiiv.com/p/business-automation-in-2026-the-founder-s-ai-no-code-toolkit",
+    "snippet": "## 2. Pick your automation stack\n\nThere\\u2019s no single \\u201cbest\\u201d automation tool \\u2014 there\\u2019s the right combination for your workflow. Below are the platforms we use and recommend, grouped by what they\\u2019re great at: AI agents, workflow orchestration, social publishing, sales calling, video generation, and enterprise RPA.\n\n#### Twin\n\nAutomate anything \u2014 the AI Company Builder.\n\n"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-25",
+    "topic": "ai_small_business",
+    "title": "Solo Businesses Are Multiplying. This Founder Is Putting Them On The Map",
+    "url": "https://www.forbes.com/sites/elainepofeldt/2026/10/24/solo-businesses-are-multiplying-this-founder-is-putting-them-on-the-map/",
+    "snippet": "Verbove believes that traditional employees are increasingly realizing that their existing employers may not be able to survive the disruption that AI will bring and are more confident in betting on themselves. \n\n\u201cFewer of the existing businesses are going to be able to transform an industry,\u201d he says. \n\nMeanwhile, AI is removing barriers to building a supply chain, distribution and spreading thei"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-25",
+    "topic": "ai_small_business",
+    "title": "NetSuite Introduces 45+ AI Skills for Finance and Operations",
+    "url": "https://smallbiztrends.com/netsuite-introduces-45-ai-skills-for-finance-and-operations/",
+    "snippet": "Small businesses using NetSuite are gaining new ways to put artificial intelligence to work across their operations, from identifying unpaid invoices and analyzing financial discrepancies to managing inventory and improving customer service.\n\nOracle NetSuite introduced SuiteSkills at SuiteWorld 2026 in Las Vegas on October 26, unveiling more than 45 prebuilt AI business skills designed to help org"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-25",
+    "topic": "ai_labs",
+    "title": "Watch It, Love It, Buy It: YouTube Shopping Arrives in the Middle East",
+    "url": "https://blog.google/intl/en-mena/product-updates/connect-communicate/youtube-shopping-saudi-uae-egypt-amazon/",
+    "snippet": "Watch It, Love It, Buy It: YouTube Shopping Arrives in the Middle East\n\n# Watch It, Love It, Buy It: YouTube Shopping Arrives in the Middle East\n\n26 Oct, 2026\n\nJavid Aslanov\n\nHead of YouTube, MENA\n\n \n\nEvery day, millions of people across the Middle East turn to YouTube not just for entertainment, but for trusted advice on what to buy next. From detailed tech reviews to everyday skincare routines, "
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-25",
+    "topic": "ai_labs",
+    "title": "Using site tools in the ChatGPT desktop app | OpenAI Help Center",
+    "url": "https://help.openai.com/en/articles/20001423-using-site-tools-in-the-chatgpt-desktop-app",
+    "snippet": "Using site tools in the ChatGPT desktop app | OpenAI Help Center\n\n# Using site tools in the ChatGPT desktop app\n\nSearch, edit, and complete tasks on supported websites without leaving ChatGPT.\n\nUpdated: 2 hours ago\n\nSite tools let ChatGPT work directly with websites open in the ChatGPT desktop app\u2019s built-in browser. Instead of relying only on clicks and typing, ChatGPT can use tools a website pro"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-25",
+    "topic": "ai_labs",
+    "title": "ChatGPT\u2019s Scaled Storage, Query Hugging Face Directly | TLDR Data",
+    "url": "https://tldr.tech/data/2026-10-26",
+    "snippet": "ChatGPT\u2019s Scaled Storage, Query Hugging Face Directly | TLDR Data\n\n## ChatGPT\u2019s Scaled Storage \ud83d\uddc4\ufe0f, Query Hugging Face Directly \ud83e\udd17, Can Agents Really Analyze? \ud83d\udd75\ufe0f\n\n- Why SHAP and LIME fall short on LLMs, and what evidence replaces them\n- The 4 sources of an LLM explanation and what each can and can't prove\n- How to test whether a model actually relied on a cited source\n\nNetflix is adding a single-ten"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-25",
+    "topic": "ai_labs",
+    "title": "Press Center",
+    "url": "https://blog.google/intl/en-my/press/",
+    "snippet": "Press Center\n\n# Press Center\n\n \n\n## Contact our Press Team\n\npress@google.com\n\nOnly members of the press will receive a response. For all other enquiries, please visit our Help Centre. You can also read more Google news from around the world on our global News from Google blog."
   }
 ]
