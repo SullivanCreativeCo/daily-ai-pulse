@@ -28610,5 +28610,239 @@
     "title": "Press Center",
     "url": "https://blog.google/intl/en-my/press/",
     "snippet": "Press Center\n\n# Press Center\n\n \n\n## Contact our Press Team\n\npress@google.com\n\nOnly members of the press will receive a response. For all other enquiries, please visit our Help Centre. You can also read more Google news from around the world on our global News from Google blog."
+  },
+  {
+    "kind": "digest",
+    "date": "2026-10-27",
+    "headline": "Anthropic filed to go public today. Nasdaq, ticker ANT.",
+    "url": "archive/2026-10-27.html",
+    "posts": {
+      "linkedin": [
+        "Four months ago a college kid was on a treadmill listening to a podcast.\n\nNow he and two friends have a $30 million construction company paying them $15,000 a month.\n\nNo office. No employees. No connections.\n\nHere's what they did. They texted everyone in their phones. Not a pitch. They asked for advice on the business model. Who do you know that owns a company this size and needs help with AI?\n\nHundreds of texts. That was their number one source of leads.\n\nThey'd tried walking into small businesses first. Problems everywhere, no budget. So they moved up to bigger fish and let their network do the finding.\n\nHere's what gets me. Everybody's hunting for a clever channel. The channel was the contacts app.\n\nIt's awkward, sure. Nobody wants to sell to their friends. But if you love the people you know, solving their problems isn't selling. It's just help with a price on it.\n\nWho in your phone owns a business that's drowning in busywork?",
+        "OpenAI shipped GPT-6.1 Terra today. The part I care about isn't the benchmark.\n\nIt's the price. Half of what the last Terra cost.\n\nTheir own example is reading incoming invoices and typing the details into accounting software.\n\nThat's the most boring job in the building. And it's exactly the kind of job a small business owner never automated, because the math never worked. Too much volume, too little margin, too many hours.\n\nA cheaper model changes the math.\n\nA bookkeeper working through a couple hundred invoices a month isn't getting replaced. She stops typing and starts checking. Different job. Better job.\n\nThat's the whole play for Main Street. Do more with the same, not the same with less.\n\nOne caveat. These are OpenAI's own numbers. I'd test it on one real stack of invoices before telling a client anything.\n\nWhat's the most boring task in your business that was never worth automating until now?",
+        "Most AI website builders have a bad habit.\n\nThey fill the blanks. No reviews yet? Here's a rating. No years in business? Here's a number. The owner finds out when a customer brings it up.\n\nA builder called TruLata launched today and it does the opposite. Every sentence has to trace back to something the owner said, their current site, or their Google Business Profile. Reviews show up word for word. Claims about guarantees or awards wait for a human reviewer.\n\nIf you ask for a rating you haven't shown, it asks where it came from.\n\nI haven't built a site with it. This is from the launch announcement, so take it as that.\n\nBut the idea is right. For a small business the website is basically the handshake. An invented handshake gets expensive.\n\nSimple rule. Don't write what you can't point to.\n\nWhere's your line on what AI is allowed to make up?"
+      ],
+      "threads": [
+        "A couple runs a cave-house rental in Spain. They started using ChatGPT to build a website. Then it was handling bookings and plant care schedules.\n\nThen an AI agent named Scout found a journalist, wrote the email, and sent talking points for the interview.\n\nForbes ran the story.\n\nScout is the publicist now. Small job first. Then it starts picking up the next one.",
+        "Koerner's math on a niche job board.\n\n$99 a post. 20 posts a month. About two grand.\n\nThe tool runs around ten bucks a month. And these sites sell for two to three times yearly profit.\n\nThe pitch is simple. A dental office would rather pay to be seen by dental people than get buried under warehouse jobs.\n\nI don't know if it's easy. I do know a boring list people trust beats a fancy tool nobody opens.",
+        "AI agents are getting name tags.\n\nIBM Agent Identity went generally available today. Every agent gets registered, gets an owner, and gets short-lived access for one task instead of the keys to everything.\n\nSounds dry. It's the same thing you do with a new hire. You don't hand them the master key on day one.\n\nWorth asking what keys your agent is holding right now."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-10-27",
+    "source": "The Koerner Office",
+    "title": "11 Proven Businesses My Listeners Started + How to Copy Them [NO ADS + EARLY ACCESS]",
+    "url": "https://www.youtube.com/watch?v=_5o9Ces03vg",
+    "video_id": "_5o9Ces03vg"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-10-27",
+    "source": "The Koerner Office",
+    "title": "Watch Me Build a $2K/Month Business in 20 Minutes",
+    "url": "https://www.youtube.com/watch?v=s3yW_4GikvQ",
+    "video_id": "s3yW_4GikvQ"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-10-27",
+    "source": "The Koerner Office",
+    "title": "Sounds Too Simple, But One Client Pays $15K/Month",
+    "url": "https://www.youtube.com/watch?v=cnHw3NnqpVw",
+    "video_id": "cnHw3NnqpVw"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-10-27",
+    "source": "Startup Ideas Podcast",
+    "title": "The $1,000/hour 1-person AI business",
+    "url": "https://www.youtube.com/watch?v=HKNpCwG3nlc",
+    "video_id": "HKNpCwG3nlc"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-10-27",
+    "source": "Corey Ganim",
+    "title": "10 ways grok bot can make you money (my exact setup)",
+    "url": "https://www.youtube.com/watch?v=qOcJcZ-if1I",
+    "video_id": "qOcJcZ-if1I"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-10-27",
+    "source": "AI Daily Brief",
+    "title": "4 Questions for AI This Week",
+    "url": "https://www.youtube.com/watch?v=uGvgPwcy9V0",
+    "video_id": "uGvgPwcy9V0"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-10-27",
+    "source": "AI Daily Brief",
+    "title": "Inside the AI Stack Behind the AI Daily Brief",
+    "url": "https://www.youtube.com/watch?v=HyEfRBW10Kk",
+    "video_id": "HyEfRBW10Kk"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-27",
+    "topic": "model_releases",
+    "title": "Introducing GPT-6.1 Terra | OpenAI",
+    "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+    "snippet": "Introducing GPT-6.1 Terra | OpenAI\n# GPT-6.1 Terra\n## Delivering fast and capable computer use at scale\nWe\u2019re introducing **GPT-6.1 Terra**, a fast, efficient model that combines detailed visual reasoning and precise computer use alongside clearer, more natural writing. A significant step up from GPT\u20115.6 Terra, it excels at the communication and computer-based tasks that fill the workday, from dra"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-27",
+    "topic": "model_releases",
+    "title": "MBZUAI Inception42 launch Jais 3 and Jais Speech | TechScoop",
+    "url": "https://techscoop.io/ai-platforms/mbzuai-and-inception42-launch-six-open-jais-3-models-and-jais-speech",
+    "snippet": "Speech ... op\n\n# MBZUAI and Inception42 launch six open Jais 3 models and Jais Speech\n\nBy Irfan Asif\n\nPublished: 2026-10-26T10:37:51.000Z\n\nMBZUAI and Inception42 launched Jais 3 and Jais Speech on 15 October. The open models cover Arabic dialects across 19 countries and are available on Hugging Face. Benchmark results are developer-reported.\n\nMBZUAI and Inception42 have launched Jais 3 and Jais Sp"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-27",
+    "topic": "model_releases",
+    "title": "Introducing Fern \u2014 Mirendil",
+    "url": "https://mirendil.com/news/introducing-fern/",
+    "snippet": "Introducing ... \u2014 Mirendil\n\n# Introducing Fern\n\n Published: October 26, 2026, 8:00 am PT \n\n Fern is Mirendil\u2019s first model. It is pretrained from scratch and supports a context window of up to 10M tokens. Its first version, Fern 0.1, was finished with a short round of post-training. New versions ship frequently. \n\nMore capable, for harder and longer-running work.\n\nBase model\n: Mirendil-Base-Large\n"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-27",
+    "topic": "model_releases",
+    "title": "vLLM Semantic Router Releases d3-ultra: A 27B Open Multimodal Decision Model - MarkTechPost",
+    "url": "https://www.marktechpost.com/2026/10/26/vllm-semantic-router-d3-ultra-27b-multimodal-decision-model/",
+    "snippet": "vLLM Semantic Router Releases d3-ultra: A 27B Open Multimodal Decision Model - MarkTechPost\n\n# vLLM Semantic Router Releases d3-ultra: A 27B Open Multimodal Decision Model\n\nBy\n\nAsif Razzaq\n\nOctober 26, 2026\n\nThe vLLM Semantic Router team has released d3-ultra, a 27B multimodal decision model under Apache-2.0. The d3-ultra decision model does not generate text. It reads an input once and returns a "
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-27",
+    "topic": "model_releases",
+    "title": "Moonshot AI launches upgraded Kimi model - Chinadaily.com.cn",
+    "url": "https://www.chinadaily.com.cn/a/202610/27/WS6adff3c1e4b06d4aa0564e78.html",
+    "snippet": "# Moonshot AI launches upgraded Kimi model\n\n By CHENG YU | China Daily | Updated: 2026-10-27 08:43 \n\n Kimi logo seen during an AI conference in Shanghai in July. CHINA DAILY \n\nChinese artificial intelligence startup Moonshot AI has launched an upgraded Kimi model, which boasts stronger coding, financial research and 3D design capabilities, while deliberately limiting its ability to carry out cyber"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-27",
+    "topic": "product_releases",
+    "title": "Riverside Launches Riverside Agents, the First AI Production Team Built for Video",
+    "url": "https://podnews.net/press-release/riverside-agents",
+    "snippet": "Riverside Launches Riverside Agents, the First AI Production Team Built for Video\n\n# Riverside Launches Riverside Agents, the First AI Production Team Built for Video\n\nPress Release \u00b7 Palo Alto CA, United States \u00b7 via Riverside \u00b7 October 27 2026\n\nRiverside, the AI-powered end-to-end content creation platform used by Spotify, NBC and the New York Times, today launched Riverside Agents: the first te"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-27",
+    "topic": "product_releases",
+    "title": "Tandems Launches Hamilton, New Assistant Built Directly Into Its AI-Native WealthOS",
+    "url": "https://www.businesswire.com/news/home/20261027803197/en/Tandems-Launches-Hamilton-New-Assistant-Built-Directly-Into-Its-AI-Native-WealthOS",
+    "snippet": "Tandems Launches Hamilton, New Assistant Built Directly Into Its AI-Native WealthOS\n\nTandems Launches Hamilton, New Assistant Built Directly Into Its AI-Native WealthOS\n\nHamilton builds on Tandems\u2019 decades of domain knowledge in wealth management, going beyond notetaking with the capability to support up to 80% of an advisor\u2019s daily tasks.\n\nSAN FRANCISCO--(BUSINESS WIRE)-- Tandems, an AI-native we"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-27",
+    "topic": "product_releases",
+    "title": "TruLata Launches an AI Website Builder That Writes Only From a Business Owner's Own Facts",
+    "url": "https://martechseries.com/predictive-ai/ai-platforms-machine-learning/trulata-launches-an-ai-website-builder-that-writes-only-from-a-business-owners-own-facts/",
+    "snippet": "TruLata Launches an AI Website Builder That Writes Only From a Business Owner's Own Facts\n\n# TruLata Launches an AI Website Builder That Writes Only From a Business Owner\u2019s Own Facts\n\nAuthor: MTS Staff Writer\n\nOctober 27, 2026\n\n#### It makes a small business website in minutes and holds every sentence to a source. Free to build, and on Product Hunt Tuesday, October 27.\n\nTruLata launched Website Bu"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-27",
+    "topic": "product_releases",
+    "title": "Ant Group Upgrades LingGuang to 2.0, Turning Its AI Assistant into a Proactive Personal Agent",
+    "url": "https://www.businesswire.com/news/home/20261026586960/en/Ant-Group-Upgrades-LingGuang-to-2.0-Turning-Its-AI-Assistant-into-a-Proactive-Personal-Agent",
+    "snippet": "Ant Group Upgrades LingGuang to 2.0, Turning Its AI Assistant into a Proactive Personal Agent\n\nAnt Group Upgrades LingGuang to 2.0, Turning Its AI Assistant into a Proactive Personal Agent\n\nHANGZHOU, China--(BUSINESS WIRE)-- Ant Group today announced the launch of LingGuang 2.0, an upgrade that transforms its multimodal AI assistant into a proactive personal agent capable of identifying user needs"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-27",
+    "topic": "product_releases",
+    "title": "AI Launches: Creativity, Decision Intelligence, IoT, Data Intelligence & OS",
+    "url": "https://thetechpanda.com/ai-launches-creativity-decision-intelligence-iot-data-intelligence-os/44892/",
+    "snippet": "AI Launches: Creativity, Decision Intelligence, IoT, Data Intelligence & OS\n\n# AI Launches: Creativity, Decision Intelligence, IoT, Data Intelligence & OS \n\n Navanwita Bora Sachdev - October 27, 2026 \n\nThe Tech Panda takes a look at recent launches in the superfast field of Artificial Intelligence (AI).\n\n### Binny Bansal-Backed ShopOS Launches Sloosh, Opening Its AI Creative Engine to Every Creato"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-27",
+    "topic": "ai_agents",
+    "title": "Introducing Oracle AI Database Agent Engine\u00a0 | database",
+    "url": "https://blogs.oracle.com/database/introducing-oracle-ai-database-agent-engine",
+    "snippet": "# Introducing Oracle AI Database Agent Engine \n\n October 26, 2026 3 minute read \n\nTirthankar Lahiri\n\nSenior Vice President, Mission-Critical Data and AI Engines\n\n## Governed AI agents powered by Oracle AI Database \n\nToday we are pleased to announce the general availability of Oracle AI Database Agent Engine in Oracle AI Database 26ai. Agent Engine is the framework for defining, executing, remember"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-27",
+    "topic": "ai_agents",
+    "title": "IBM watsonx Orchestrate advances enterprise AI agent management with new capabilities at TechXchange 2026",
+    "url": "https://www.ibm.com/new/announcements/ibm-watsonx-orchestrate-advances-enterprise-ai-agent-management-with-new-capabilities-at-techxchange-2026",
+    "snippet": "IBM watsonx Orchestrate advances enterprise AI agent management with new capabilities at TechXchange 2026\n\n# IBM watsonx Orchestrate advances enterprise AI agent management with new capabilities at TechXchange 2026 \n\nDiscover and manage agents across platforms, continuously improve performance and establish the security and controls needed to scale agentic AI across the enterprise.\n\n Published 27 "
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-27",
+    "topic": "ai_agents",
+    "title": "Oracle Introduces Claw-Powered Fusion Agentic Applications for Customer Experience",
+    "url": "https://www.oracle.com/news/announcement/ai-world-oracle-introduces-claw-powered-fusion-agentic-applications-for-customer-experience-2026-10-26/",
+    "snippet": "Oracle Introduces Claw-Powered Fusion Agentic Applications for Customer Experience\n\n# Oracle Introduces Claw-Powered Fusion Agentic Applications for Customer Experience\n\nNew Fusion Claw Applications help sales and service teams pursue profitable growth and deliver on customer commitments by continuously adapting and executing complex work with enterprise governance\n\n Oracle AI World, Las Vegas, Ne"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-27",
+    "topic": "ai_agents",
+    "title": "IBM Agent Identity is now generally available: Building trust for the agentic era",
+    "url": "https://www.ibm.com/new/announcements/ibm-agent-identity-is-now-generally-available-building-trust-for-the-agentic-era",
+    "snippet": "IBM Agent Identity is now generally available: Building trust for the agentic era\n\n# IBM Agent Identity is now generally available: Building trust for the agentic era \n\nAI agents are moving from assistance to execution. IBM Agent Identity helps enterprises give those agents the identity, access and accountability required to operate with confidence.\n\n Published 26 October 2026 \n\n## AI agents intro"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-27",
+    "topic": "ai_small_business",
+    "title": "10 Best AI Tools for Small Businesses in 2026 - SSBCrack News",
+    "url": "https://news.ssbcrack.com/best-ai-tools-small-business/",
+    "snippet": "# 10 Best AI Tools for Small Businesses in 2026\n\n By News Desk Last updated: October 26, 2026 22 Min Read \n\nSmall businesses rarely have a separate team for marketing, sales, support, and admin. Usually it is the same few people doing all of it. That is why AI tools have become one of the most practical investments a small company can make in 2026: the right assistant can draft a campaign, answer "
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-27",
+    "topic": "ai_small_business",
+    "title": "AIQ Labs Passes 200 Multi-Agent Systems Deployed, Offering Custom AI Solutions That Businesses Own Outright | ABNewswire",
+    "url": "https://www.abnewswire.com/pressreleases/aiq-labs-passes-200-multiagent-systems-deployed-offering-custom-ai-solutions-that-businesses-own-outright_844066.html",
+    "snippet": "The Halifax AI development company builds AI employees, workflow automation and full AI operating systems for growing businesses, and runs its own AI products on the same infrastructure.\n\nHALIFAX, Nova Scotia \u2014 October 26, 2026 \u2014 AIQ Labs, an AI development company that builds AI employees and custom AI systems for growing businesses, has deployed more than 200 multi-agent systems for clients and "
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-27",
+    "topic": "ai_small_business",
+    "title": "AI Business Sites Waives $1,497 Setup Fee, Giving Small Businesses a Custom Website, CRM, AI Employee and 20+ AI Tools for $497 a Month | ABNewswire",
+    "url": "https://www.abnewswire.com/pressreleases/ai-business-sites-waives-1497-setup-fee-giving-small-businesses-a-custom-website-crm-ai-employee-and-20-ai-tools-for-497-a-month_844068.html",
+    "snippet": "AIQ Labs)\n\nFor one month-to-month price with no contract, small businesses get a fully custom Next.js website and a complete AI back office, built in 7 days and run for them by the AIQ Labs team.\n\nHALIFAX, Nova Scotia \u2014 October 26, 2026 \u2014 AI Business Sites, a done-for-you AI website and automation company for small businesses, today announced a limited-time offer that waives its $1,497 setup fee f"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-27",
+    "topic": "ai_small_business",
+    "title": "What Happens When Founders Embrace A Full Time AI Publicist",
+    "url": "https://www.forbes.com/sites/christinedare-bryan/2026/10/26/what-happens-when-founders-embrace-a-full-time-ai-publicist/",
+    "snippet": "## Summary\n\nA journalist was contacted by an AI agent named Scout, which was organized by small business owners VJ Roworth and Adrian Beadell. The couple runs a cave-house holiday rental called Leonard\u2019s Lookout in Spain after relocating from England. They began using ChatGPT to help build a website and improve their Airbnb listings. Scout eventually took over tasks like cross-referencing calendar"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-27",
+    "topic": "ai_labs",
+    "title": "Anthropic files S-1 with the SEC for proposed initial public offering \\ Anthropic",
+    "url": "https://www.anthropic.com/news/s1-sec",
+    "snippet": "Anthropic files S-1 with the SEC for proposed initial public offering \\ Anthropic\n\n# Anthropic files S-1 with the SEC for proposed initial public offering\n\n- Published\n\nOct 26, 2026\n- Category\n\nAnnouncements\n\nToday, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock."
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-27",
+    "topic": "ai_labs",
+    "title": "Working with academic communities to build scientific understanding | OpenAI",
+    "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+    "snippet": "Working with academic communities to build scientific understanding | OpenAI\n\nOctober 26, 2026\n\n# Working with academic communities to build scientific understanding\n\nWe are announcing three new discoveries in mathematics, computer science, and physics about harmonic analysis, complexity theory, and quantum field theory.\n\nOur release process continues to evolve in response to feedback from the ass"
   }
 ]
