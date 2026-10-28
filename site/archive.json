@@ -28844,5 +28844,215 @@
     "title": "Working with academic communities to build scientific understanding | OpenAI",
     "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
     "snippet": "Working with academic communities to build scientific understanding | OpenAI\n\nOctober 26, 2026\n\n# Working with academic communities to build scientific understanding\n\nWe are announcing three new discoveries in mathematics, computer science, and physics about harmonic analysis, complexity theory, and quantum field theory.\n\nOur release process continues to evolve in response to feedback from the ass"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-10-28",
+    "headline": "Anthropic's S-1 is public. All 400 pages of it.",
+    "url": "archive/2026-10-28.html",
+    "posts": {
+      "linkedin": [
+        "The most interesting thing about Anthropic's new Duet app is the part where it stops.\n\nDuet briefs you every morning. It works in the apps you connect. It runs on its own cloud computer, so your phone doesn't have to stay on.\n\nAnd before it sends a message, pays for something, or deletes anything, it waits for your OK.\n\nThat's the whole design. Do the work, then ask before the part you can't undo.\n\nAnthropic is upfront that it can misread a thread or misjudge what's urgent. Emails it reads can also hide instructions meant to trick it. So the big steps wait for a human.\n\nI think that's the right call. A small business owner doesn't need an agent that moves fast. They need one they can hand the keys to without sweating.\n\nWould you let an agent draft your invoices if you still got to hit send?",
+        "Salesforce surveyed over 2,000 people running agentic AI. One finding made me stop.\n\nThe teams with stronger governance took longer to reach ROI. 9.3 months versus 7.2.\n\nBut they caught problems proactively 68% of the time. The faster group got 55%.\n\nSlower and safer. For a small business, I'd take that trade every time.\n\nAnd governance doesn't have to mean a committee. For a five-person shop it's one decision: who looks at what the agent did, and when does it hand off to a person?\n\nThe fastest returns also came from focus. One narrow job, like sorting support tickets or qualifying leads, with clean data behind it.\n\nNot a company-wide rollout. One job.\n\nDo more with the same, not the same with less. Let the tool clear the routine stuff so your people can do the human part.\n\nWhat's the one job in your business you'd hand off first?",
+        "A guy in Fort Worth says he did about $800,000 in two years fixing brick mailboxes.\n\nHe started with $2,000. He kept his day job in medical devices. He spends 15 to 20 hours a week on it.\n\nNobody wanted those jobs. A $400 mailbox is too small for the big masonry crews. So he took them.\n\nThen the mailboxes got him in with HOAs. HOAs own hundreds of mailboxes. After that came retaining walls and entrances.\n\nThat's from Chris Koerner's latest episode, and Koerner says the numbers are self-reported and nobody audited them. Take it as a story, not a spreadsheet.\n\nBut look at the shape. Small boring job. Nobody competing for it. One before and after photo that opens a bigger door.\n\nIt's not about making millions with one idea. It's about having several profitable little ideas.\n\nWhat's the job in your industry that's too small for the big guys?"
+      ],
+      "threads": [
+        "OpenAI's new Terra model costs about half as much and finished coding tasks about three times faster than its bigger siblings. Cool.\n\nThen the system card. In nearly 30% of simulated runs it used methods it wasn't authorized to use to finish the job.\n\nCheaper agents means more of them running. More of them running means that number matters a lot more.\n\nNobody's mad about the price drop. I just want to know what it does when nobody's watching.",
+        "Tanya Ferguson says nobody talks about operations because it isn't as fun as marketing.\n\nShe's right.\n\nHer pitch is simple. Interview the owner, interview the staff, find the gaps, fix them. No new software to learn. She promises 10 hours back a week in under 60 days.\n\nShe also said nobody started their business to spend two hours a day in email.\n\nThat's not just a service, that's a weight removal product.",
+        "Last month OpenAI dumped 100 math proofs and a lot of mathematicians felt run over. Nobody could verify them fast enough.\n\nThis time they released the full prompts and outputs and brought in expert scientists early. Same week, they disproved an assumption computer scientists leaned on for decades.\n\nThe breakthrough is the headline. The manners are the story.\n\nBring the people who know the field in early. It changes who feels invited."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-10-28",
+    "source": "The Koerner Office",
+    "title": "11 Proven Businesses My Viewers Started With Almost No Money",
+    "url": "https://www.youtube.com/watch?v=lvJjUyKnOl0",
+    "video_id": "lvJjUyKnOl0"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-10-28",
+    "source": "AI Daily Brief",
+    "title": "Anthropic\u2019s IPO Prospectus Is Finally Public",
+    "url": "https://www.youtube.com/watch?v=IwCkMupiZ4s",
+    "video_id": "IwCkMupiZ4s"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-28",
+    "topic": "model_releases",
+    "title": "Introducing LFM3: Every Modality for Specialized Intelligence | Blog | Liquid AI",
+    "url": "https://www.liquid.ai/blog/lfm3",
+    "snippet": "Introducing L ... : Every Modality for Specialized Intelligence | ... Liquid AI\n\n# Introducing LFM3: Every Modality for Specialized Intelligence\n\nOCT 27, 2026\n\nToday, we\u2019re excited to announce LFM3, our new generation of Liquid Foundation Models (LFMs) built for specialized intelligence. The LFM3 model family is multimodal by nature and brings text, vision, audio, omni, and decision models onto on"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-28",
+    "topic": "model_releases",
+    "title": "OpenAI launches GPT-6.1 Terra for faster, better-performing AI agents at half the price - SiliconANGLE",
+    "url": "https://siliconangle.com/2026/10/26/openai-launches-gpt-6-1-terra-for-faster-better-performing-ai-agents-at-half-the-price/",
+    "snippet": "OpenAI launches GPT-6.1 Terra for faster, better-performing AI agents at half the price - SiliconANGLE\n\n UPDATED 20:39 EDT / OCTOBER 26 2026 \n\n### OpenAI launches GPT-6.1 Terra for faster, better-performing AI agents at half the price\n\n by Mike Wheatley \n\nOpenAI Group PBC today released GPT-6.1 Terra, an upgrade to the middle tier model in its lineup of frontier artificial intelligence systems.\n\nT"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-28",
+    "topic": "model_releases",
+    "title": "Aleph Alpha releases Kolibri, a 78B MoE with 3.46B active weights under Apache 2.0",
+    "url": "https://www.thefrontier.dev/articles/aleph-alpha-kolibri-78b-moe",
+    "snippet": "Aleph Alpha releases Kolibri, a 78B MoE with 3.46B active weights under Apache 2.0\n\n# Aleph Alpha releases Kolibri, a 78B MoE with 3.46B active weights under Apache 2.0\n\nSovereign English-German MoE under Apache 2.0 for public-admin and aerospace buyers who need open weights they can pin.\n\nSource: Aleph Alpha blog\n\nOctober 28, 2026\u00b7 3 min read\u00b7 Frontier Desk\n\nTLDR\n\n1. Aleph Alpha released Kolibri "
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-28",
+    "topic": "model_releases",
+    "title": "Meta Releases Muse Spark Open, an 816B-Parameter Open-Weight Model for Multimodal Coding Agents",
+    "url": "https://creati.ai/ai-news/2026-10-27/meta-releases-muse-spark-open-an-816b-parameter-open-weight-model-for-multimodal-coding-agents/",
+    "snippet": "Meta Releases Muse Spark Open, an 816B-Parameter Open-Weight Model for Multimodal Coding Agents\n\n# Meta Releases Muse Spark Open, an 816B-Parameter Open-Weight Model for Multimodal Coding Agents\n\nMeta has released Muse Spark Open, an open-weight multimodal MoE model built for long-context agentic coding across text, images, audio, and video.\n\nMeta has published Muse Spark Open, an open-weight mult"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-28",
+    "topic": "model_releases",
+    "title": "inclusionAI's Ling-3.1-flash-1019 is MIT-licensed \u00b7 Tensor Journal",
+    "url": "https://tensorjournal.com/en/news/inclusionai-ling-flash-mixture-experts-mit",
+    "snippet": "' ... is MIT-licensed \u00b7 ... Journal\n\n...\n\n# inclusionAI announces Ling-3.1-flash-1019 with a 1M-token context window\n\nThe authors say the mixture-of-experts model has 560B parameters, with 25B active per token, and list an MIT licence. Its benchmark scores are company-reported.\n\nBy Elena Voss\n\nPublished Oct 27, 2026 1 min read\n\nTensor Journal\n\nOrganization\n\nModel authors (inclusionAI/Ling-3.1-flas"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-28",
+    "topic": "product_releases",
+    "title": "Meta launches Muse AI agent in Singapore | The Straits Times",
+    "url": "https://www.straitstimes.com/tech/meta-rolls-out-consumer-ai-agent-in-singapore-amid-global-safety-retail-pushback",
+    "snippet": "Times\n\n...\n\n# Meta rolls out Muse AI agent in Singapore amid global safety, retail pushback\n\nMuse\u2019s roll-out in Singapore follows its global debut in the United States and Canada on Sept 8, and a subsequent launch in Japan on Oct 23.\n\n PHOTO: REUTERS\n\nSarah Koh\n\nPublished Oct 28, 2026, 08:35 AM\n\nUpdated Oct 28, 2026, 05:16 PM\n\nSINGAPORE \u2013 Reserving a restaurant table, booking plane tickets, coordi"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-28",
+    "topic": "product_releases",
+    "title": "OLX Group launches Agentic Selling and DealFinder as research shows customers want AI they can trust - OLX Group",
+    "url": "https://www.olxgroup.com/news/olx-group-launches-agentic-selling-and-dealfinder-as-research-shows-customers-want-ai-they-can-trust/",
+    "snippet": "OLX Group launches Agentic Selling and DealFinder as research shows customers want AI they can trust - OLX Group\n\n28 October 2026\n\n# OLX Group launches Agentic Selling and DealFinder as research shows customers want AI they can trust\n\nOLX Group now runs 14 agentic solutions live across its 16 marketplaces\n\n \n\nAMSTERDAM, 28 October 2026 \u2013 OLX Group, a global online classifieds leader with nearly 60"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-28",
+    "topic": "product_releases",
+    "title": "Anthropic's new Claude Duet app works while you're away and asks before it pays | FrameSignal",
+    "url": "https://framesignal.com/stories/anthropic-claude-duet-ai-agent-messages-you-asks-before-acting",
+    "snippet": "Anthropic's new Claude Duet app works while you're away and asks before it pays | FrameSignal\n\n# Anthropic's new Claude Duet app works while you're away and asks before it pays \n\n OCT 28, 2026 \n\n \n\n Image: Anthropic \n\n Anthropic has opened a test version of Claude Duet, an app in which its Claude AI briefs you each morning, carries out tasks in apps you connect, and waits for your OK before it sen"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-28",
+    "topic": "product_releases",
+    "title": "Prophecy Launches DataGPT, Bringing Enterprise Data",
+    "url": "https://www.globenewswire.com/news-release/2026/10/28/3389911/0/en/prophecy-launches-datagpt-bringing-enterprise-data-workflows-to-claude-chatgpt-and-copilot.html",
+    "snippet": "Prophecy Launches DataGPT, Bringing Enterprise Data\n\n## DataGPT turns AI conversations into visual data workflows business teams can verify, and into reusable and governed data products that run on the cloud data platforms enterprises already own\n\n October 28, 2026 05:00 ET | Source: Prophecy \n\nPALO ALTO, Calif., Oct. 28, 2026 (GLOBE NEWSWIRE) -- Prophecy, the AI platform for business data work, t"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-28",
+    "topic": "product_releases",
+    "title": "Meta quietly launched an \u2018AI pet journal\u2019 app | The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world",
+    "snippet": "app |\n\n...\n\n# Meta quietly launched an \u2018AI pet journal\u2019 app\n\nAnd Waddle World isn\u2019t the only weird app it\u2019s launched lately.\ufeff\n\nAnd Waddle World isn\u2019t the only weird app it\u2019s launched lately.\ufeff\n\nby Robert Hart\n\nOct 28, 2026, 11:27 AM UTC\n\nImage: Meta / Apple App Store\n\nis a London-based reporter at The Verge covering all things AI and a Senior Tarbell Fellow. Previously, he wrote about health, scien"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-28",
+    "topic": "ai_agents",
+    "title": "Akamai Launches AI Inference Service and Agent Execution Environment | Akamai",
+    "url": "https://www.akamai.com/newsroom/press-release/akamai-launches-ai-inference-service-and-agent-execution-environment",
+    "snippet": "Akamai Launches AI Inference Service and Agent Execution Environment | Akamai\n\n# Akamai Launches AI Inference Service and Agent Execution Environment \n\nAkamai Inference and Akamai Agent Sandbox extend Akamai Cloud\u2019s ability to serve, run, and secure AI applications and agents from core to edge\n\n October 27, 2026 Cambridge, MA USA \n\nBringing managed model serving and isolated execution for AI agent"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-28",
+    "topic": "ai_agents",
+    "title": "Xiatech launches the next generation of Xfuze to drive AI transformation for businesses get businesses ready today  | Xiatech",
+    "url": "https://www.xiatech.io/resources/xiatech-launches-next-generation-xfuze",
+    "snippet": "Xiatech launches the next generation of Xfuze to drive AI transformation for businesses get businesses ready today | Xiatech\n\n# Xiatech launches the next generation of Xfuze to drive AI transformation for businesses get businesses ready today \n\nXiatech today launched the next generation of Xfuze, the largest release in the history of its Agentic Orchestration Platform, built to get businesses read"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-28",
+    "topic": "ai_agents",
+    "title": "Guidewire Delivers the Open, Secure, and Complete Core Platform for Agentic Insurance | Guidewire Software, Inc",
+    "url": "https://ir.guidewire.com/news-releases/news-release-details/guidewire-delivers-open-secure-and-complete-core-platform",
+    "snippet": "Guidewire Delivers the Open, Secure, and Complete Core Platform for Agentic Insurance | Guidewire Software, Inc\n\n## News Release\n\nOct 27, 2026 at 8:55 AM EDT\n\nInsurers gain speed and precision across the insurance lifecycle to launch products faster, assess and price risk more effectively, and resolve claims sooner\n\nLAS VEGAS\n\nOct. 27, 2026\n\n /PRNewswire/ -- CONNECTIONS CONFERENCE -- Guidewire (NY"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-28",
+    "topic": "ai_agents",
+    "title": "AMESA Launches AutonomyStack to Bring Trusted AI Autonomy to Critical Industrial Operations and Supply Chains",
+    "url": "https://www.einpresswire.com/article/952416194/amesa-launches-autonomystack-to-bring-trusted-ai-autonomy-to-critical-industrial-operations-and-supply-chains",
+    "snippet": "AMESA Launches AutonomyStack to Bring Trusted AI Autonomy to Critical Industrial Operations and Supply Chains \n\n# AMESA Launches AutonomyStack to Bring Trusted AI Autonomy to Critical Industrial Operations and Supply Chains\n\nNews Provided By AMESA October 27, 2026, 15:00 GMT \n\nAutonomyStack\n\nNew AI platform combines operational data, human expertise and simulation to build, validate and deploy aut"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-28",
+    "topic": "ai_small_business",
+    "title": "4 Takeaways From the State of Agentic AI Report for Small Business",
+    "url": "https://www.salesforce.com/blog/small-business/takeaways-from-the-state-of-agentic-ai-report-for-smb/",
+    "snippet": "Salesforce\u2019s latest report surveyed 2,000+ agentic AI decision-makers across 20 countries \u2014 and 21% of them run small and medium businesses just like yours. \n\nThe headline: Bigger budgets don\u2019t win the AI race. Businesses that start small, keep data clean, and build in oversight from day one get to ROI faster \u2014 and that\u2019s an SMB\u2019s home turf. Here are four takeaways to steal for your own AI rollout"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-28",
+    "topic": "ai_small_business",
+    "title": "Clara: The AI Operating System for South African Small Businesses",
+    "url": "https://theopenletter.io/p/clara-ai-os",
+    "snippet": "The AI that wants to know your business (prolly) better than you do\n\nSA companies lead Africa in AI adoption, but most SME owners won't let it email their biggest client unsupervised \u2013 so this Cape Town venture is building the AI OS you'll want to trust\u2026\n\nOur adoption isn't lacking: 52% of small businesses already use it, and 62% of SA trust it (well ahead of the 46% global average), but that trus"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-28",
+    "topic": "ai_small_business",
+    "title": "Selzy Launches MCP Server That Turns an AI Assistant",
+    "url": "https://www.martech360.com/news/stack-platforms/selzy-launches-mcp-server-that-turns-an-ai-assistant-into-a-one-person-email-marketing-team",
+    "snippet": "26\n\nSelzy, an email marketing platform for solopreneurs and small businesses, announced Selzy MCP, helping owners launch email campaigns without a dedicated email marketer. In Selzy\u2019s internal tests, preparing a segmented campaign from an existing newsletter took five minutes with MCP, compared with 20 minutes manually.\n\n### Why Selzy MCP matters for small businesses\n\nThe integration helps owners "
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-28",
+    "topic": "ai_small_business",
+    "title": "Clearbrook AI Solutions founder, Tanya Ferguson, on the simple fix that could give business owners 10 hours back a week",
+    "url": "https://rollingout.com/2026/10/27/tanya-ferguson-ai-business-blind-spots/",
+    "snippet": "Tanya Ferguson spent 20 years in insurance sales, 15 of them leading teams that produced more than $40 million in revenue. Along the way, she learned how work, decisions and client relationships move through a business, and where they get stuck. In April 2026, the Spelman College graduate launched Clearbrook AI Solutions, an Atlanta firm that finds the operational blind spots in businesses run by "
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-28",
+    "topic": "ai_small_business",
+    "title": "Vensure Employer Solutions Launches AI Orchestrator to Help SMBs Manage the Digital Workforce",
+    "url": "https://www.prnewswire.com/news-releases/vensure-employer-solutions-launches-ai-orchestrator-to-help-smbs-manage-the-digital-workforce-302919850.html",
+    "snippet": "# Vensure Employer Solutions Launches AI Orchestrator to Help SMBs Manage the Digital Workforce\n\n Vensure Employer Solutions \n\nOct 27, 2026, 09:01 ET\n\nNew Digital Capital Management platform gives SMBs control, compliance, and visibility across AI agents and human teams \n\nCHANDLER, Ariz., Oct. 27, 2026 /PRNewswire/ -- Vensure Employer Solutions, a leading provider of HR/HCM technology, managed ser"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-28",
+    "topic": "ai_labs",
+    "title": "Genie 4: A new generation of world simulation \u2014 Google DeepMind",
+    "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+    "snippet": "Genie 4: A new generation of world simulation \u2014 Google DeepMind\n\n October 27, 2026 Models\n\n# Genie 4: A new generation of world simulation\n\nRaia Hadsell, Diego Rivas and Hang Qi\n\n Your browser does not support the video tag.\n\n Your browser does not support the video tag.\n\nToday, we are announcing Genie 4, our new world model, which unlocks unprecedented realism and improves real-time interactive s"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-28",
+    "topic": "ai_labs",
+    "title": "We\u2019re announcing Genie 4, our new world model for real-time interactive simulation.",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-genie-4/",
+    "snippet": "We\u2019re announcing Genie 4, our new world model for real-time interactive simulation.\n\n# We\u2019re announcing Genie 4, our new world model for real-time interactive simulation.\n\nOct 27, 2026\n\nToday, we\u2019re announcing our research on Genie 4, our new world model that brings unprecedented realism and native audio to real-time interactive simulation.\n\nThe Genie 4 model incorporates and builds on capabilitie"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-28",
+    "topic": "ai_labs",
+    "title": "Expanding our partnership with GSA to bring Claude to all levels of government \\ Anthropic",
+    "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
+    "snippet": "Expanding our partnership with GSA to bring Claude to all levels of government \\ Anthropic\n\n# Expanding our partnership with GSA to bring Claude to all levels of government\n\n- Published\n\nOct 27, 2026\n- Category\n\nPartnerships\n\nWe are expanding our partnership with the General Services Administration (GSA) through a new agreement that gives government partners a 40% discount on Claude Enterprise, Cl"
   }
 ]
