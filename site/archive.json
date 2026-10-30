@@ -29064,5 +29064,263 @@
       "linkedin": [],
       "threads": []
     }
+  },
+  {
+    "kind": "digest",
+    "date": "2026-10-30",
+    "headline": "OpenAI shipped GPT-6.1 Terra, and the price is the story.",
+    "url": "archive/2026-10-30.html",
+    "posts": {
+      "linkedin": [
+        "A model that performs on par with the flagship at a tenth of the price per token just shipped.\n\nOpenAI's GPT-6.1 Terra is $1 per million input tokens and $5 per million output. They say it's about 3x faster than Astra, too.\n\nThose are OpenAI's numbers on OpenAI's own tests. They still recommend the bigger models for the hardest coding. I'd test it before I believe it.\n\nBut here's why I care. Most of what a small business wants automated isn't hard. It's follow-ups, intake, sorting, summaries. Boring, repeatable stuff that was never worth flagship pricing.\n\nWhen the mid-tier model gets this good, the question changes. It's not 'can AI do this?' anymore. It's 'what did I shelve because the bill didn't pencil out?'\n\nI've got a list like that. Probably you do too.\n\nWhat's the workflow you killed because the token math didn't work?",
+        "Somebody on a podcast said give away the CRM.\n\nGreg Isenberg's argument is that building the software got so easy that the tool itself isn't what people pay for anymore. So give the tool away, get people in, then charge for the intelligence on top. Agents doing the work. Or a human who does it for you.\n\nThink about a calorie app. Tracking is free. A personalized meal plan costs money. A weekly coach costs more.\n\nNow think about a local business. What's the thing they pay for just to feel organized? The scheduling tool, the follow-up tool, the review tool?\n\nThey don't actually want the tool. They want the weight gone.\n\nThat's not just a service, that's a weight removal product.\n\nSo what's the tool in your industry people pay for, that they'd happily never open again?",
+        "The best part of the AWS Step Functions news is a refund.\n\nThey just made existing workflows available as tools for AI agents. The agent decides when to run one and what to pass in. Then the workflow runs every step exactly the way you built it.\n\nTheir example is a support agent starting a refund. The eligibility check, the manager approval and the credit all happen in the same order, every time.\n\nThat's the split I keep coming back to. Let the agent make the judgment call. Don't let it improvise the steps that touch money.\n\nSame idea for a solo business. An agent that reads your inbox probably shouldn't also be the one paying your bills.\n\nWhich step in your business should never be improvised?"
+      ],
+      "threads": [
+        "Two weeks ago people were writing Google off.\n\nThen Gemini 4 Carbon dropped and it's sitting at the top of the Artificial Analysis index, ahead of Opus 5.5.\n\nThe funny part is almost nobody can use it yet. It's limited to a small group of cyber defenders for now.\n\nSo for the moment it's a scoreboard story. The real answer comes when the rest of us get our hands on it.",
+        "One guy, Claude, and some part-time consultants took a muscular dystrophy treatment to promising mouse results in under 18 months.\n\nAnthropic just bought his company.\n\nSome people read that as the future of one-person companies. Others pointed out he's an MBA and ex-banker, and called it a marketing move.\n\nHe did also have a biotech master's, and he ran experiments across 11 outside labs.\n\nI genuinely don't know which side I'm on yet.",
+        "A normal bookkeeper does around 40 monthly closes.\n\nCollective says they hit 300 this summer and are heading toward 600. AI does the work, people check it and handle the weird stuff.\n\nThat's their numbers, not mine. But the shape is what I keep thinking about.\n\nThe bookkeeper didn't disappear. The job just got a lot bigger.\n\nI wonder how many other jobs have a hidden 40 in them."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-10-30",
+    "source": "The Koerner Office",
+    "title": "Want to Make Money With AI? Stop Just Chatting With It",
+    "url": "https://www.youtube.com/watch?v=dkWP49W4iN8",
+    "video_id": "dkWP49W4iN8"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-10-30",
+    "source": "The Koerner Office",
+    "title": "The Most Passive Business You Can Start With $20 [NO ADS + EARLY ACCESS]",
+    "url": "https://www.youtube.com/watch?v=vtC8KnS6Jew",
+    "video_id": "vtC8KnS6Jew"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-10-30",
+    "source": "Startup Ideas Podcast",
+    "title": "SaaS is dead?",
+    "url": "https://www.youtube.com/watch?v=AqqjH_uv-_w",
+    "video_id": "AqqjH_uv-_w"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-10-30",
+    "source": "Startup Ideas Podcast",
+    "title": "$100M ARR Founder: The Next Big AI Opportunity",
+    "url": "https://www.youtube.com/watch?v=st61aKW8P5A",
+    "video_id": "st61aKW8P5A"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-10-30",
+    "source": "Corey Ganim",
+    "title": "8 free github repos that make f*ck you money",
+    "url": "https://www.youtube.com/watch?v=MGaM162-0H8",
+    "video_id": "MGaM162-0H8"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-10-30",
+    "source": "AI Daily Brief",
+    "title": "The AI Benchmark Everyone Uses Just Changed",
+    "url": "https://www.youtube.com/watch?v=Dz4_db_rRDE",
+    "video_id": "Dz4_db_rRDE"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-10-30",
+    "source": "AI Daily Brief",
+    "title": "AI Can Now Create Worlds You Can Change in Real Time",
+    "url": "https://www.youtube.com/watch?v=HOgj6cJ9oxQ",
+    "video_id": "HOgj6cJ9oxQ"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-30",
+    "topic": "model_releases",
+    "title": "Mistral Large 4 (Le Chonk) is now open weight | Mistral",
+    "url": "https://mistral.ai/news/mistral-large-4-oss/",
+    "snippet": "Mistral Large 4 (Le Chonk) is now open weight | Mistral\n\n# Built for Coders, Trusted by Defenders.\n\nSummary\n\nMistral released Mistral Large 4 (Le Chonk), a 1-trillion-parameter multimodal model, now available with improved coding, cybersecurity, and reasoning efficiency. It leads open-weight benchmarks in coding and defensive security while offering three reasoning modes for cost-performance balan"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-30",
+    "topic": "model_releases",
+    "title": "OpenAI launches GPT-6.1 Terra, a faster, cheaper medium-sized model",
+    "url": "https://featureddaily.com/news/openai-launches-gpt-6-1-terra-a-faster-cheaper-medium-sized-model",
+    "snippet": "OpenAI launches GPT-6.1 Terra, a faster, cheaper medium-sized model\n\nFriday 30 October 2026 \u00b7 Updated 09:29 GMT\n\n# OpenAI launches GPT-6.1 Terra, a faster, cheaper medium-sized model\n\nThe upgrade is available now in ChatGPT Work, Codex and the API, with OpenAI citing a 50% price cut.\n\nBy Bez, Editor-in-Chief \u00b7 FeaturedDaily\n\n30 October 2026 \u00b7 09:29 GMT 2 min read Checked 30 Oct\n\nThe answer\n\nOpenAI"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-30",
+    "topic": "model_releases",
+    "title": "Decisions for a penny: introducing joey-1, our fastest decision model",
+    "url": "https://www.baseten.co/blog/decisions-for-a-penny-introducing-joey-1/",
+    "snippet": "Decisions for a penny: introducing joey-1, our fastest decision model\n\n# Decisions for a penny: introducing joey-1, our fastest decision model\n\nA week ago we shipped mammoth-1 (27B) and elephant-1 (9B), the #1-ranked decision model of their sizes. Today we\u2019re adding joey-1, our fastest, cheapest model.\n\n### Authors\n\nMax Kirkby\n\nCharles O'Neill\n\n### Published\n\nOctober 29, 2026\n\n### Published\n\nOctob"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-30",
+    "topic": "model_releases",
+    "title": "Apex Intelligence Releases Apex-35B-V1.0, a General-Purpose Model Built With Automated AI Research",
+    "url": "https://www.prnewswire.com/news-releases/apex-intelligence-releases-apex-35b-v1-0--a-general-purpose-model-built-with-automated-ai-research-302923555.html",
+    "snippet": "Apex Intelligence Releases Apex-35B-V1.0, a General-Purpose Model Built With Automated AI Research\n\n Apex Intelligence \n\nOct 29, 2026, 09:05 ET\n\nA state-of-the-art general-purpose model in its class, built through automated AI research and designed to advance AI and scientific discovery.\n\nBEIJING, Oct. 29, 2026 /PRNewswire/ -- Apex Intelligence has released Apex-35B-V1.0, its first model. Built on"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-30",
+    "topic": "model_releases",
+    "title": "LFM3, a suite of small, high-performance AI models that run on smartphones, has been released, including next-generation models such as language models, visual language models, speech models, omnidirectional models, and decision-making models. - GIGAZINE",
+    "url": "https://gigazine.net/gsc_news/en/20261029-liquid-ai-lfm3/",
+    "snippet": "LFM3, a suite of small, high-performance AI models that run on smartphones, has been released, including next-generation models such as language models, visual language models, speech models, omnidirectional models, and decision-making models. - GIGAZINE\n\nOct 29, 2026 17:00:00\n\n# LFM3, a suite of small, high-performance AI models that run on smartphones, has been released, including next-generatio"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-30",
+    "topic": "product_releases",
+    "title": "Introducing Canva Brush, a vision-language model for design",
+    "url": "https://www.canva.com/newsroom/news/canva-brush/",
+    "snippet": "Introducing Canva Brush, a vision-language model for design \n\n# Introducing Canva Brush, a vision-language model for design \n\n> Starting today, Brush is powering supported design edits in Canva AI for Canva Pro subscribers, with expanded availability coming soon.\n\n### Starting today, Brush is powering supported design edits in Canva AI for Canva Pro subscribers, with expanded availability coming s"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-30",
+    "topic": "product_releases",
+    "title": "Meta launches Muse AI agent in Singapore",
+    "url": "https://technode.global/2026/10/30/meta-muse-ai-agent-singapore-connectors/",
+    "snippet": "Meta launches Muse AI agent in Singapore\n\n## Meta launches Muse AI agent in Singapore with local connectors\n\nOctober 30, 2026\u2022 AI, Asia, Digital Transformation, eCommerce, News, Singapore, Social Media\u2022 By TNGlobal\n\nMeta has launched its Muse personal artificial intelligence agent in Singapore, bringing the service\u2019s task-execution model to its first announced Asia-Pacific market with connections "
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-30",
+    "topic": "product_releases",
+    "title": "Xmind Launches AI Agent for Mind Maps and Opens Its Platform to ChatGPT and Claude",
+    "url": "https://www.digitalmarketreports.com/news/100702/xmind-launches-ai-agent-for-mind-maps-and-opens-its-platform-to-chatgpt-and-claude/",
+    "snippet": "Xmind Launches AI Agent for Mind Maps and Opens Its Platform to ChatGPT and Claude\n\n# Xmind Launches AI Agent for Mind Maps and Opens Its Platform to ChatGPT and Claude\n\n#### By Ethan Lin\n\n Oct 30, 2026\n\nXmind today launched Xmind Agent, an AI agent that works inside its mind maps and helps people develop ideas through conversation. The company also released Xmind MCP and a ChatGPT plugin, which a"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-30",
+    "topic": "product_releases",
+    "title": "Ant Group rolls out LingGuang 2.0 AI agent in China",
+    "url": "https://technode.global/2026/10/30/ant-group-lingguang-2-ai-agent-china/",
+    "snippet": "Ant Group rolls out LingGuang 2.0 AI agent in China\n\n## Ant Group rolls out LingGuang 2.0 AI agent in China\n\nOctober 30, 2026\u2022 AI, Asia, China, News\u2022 By TNGlobal\n\nAnt Group has started rolling out LingGuang 2.0 in China, upgrading its consumer artificial intelligence assistant with cross-session memory, long-running task management and connections to services including Alipay, email and smart-home"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-30",
+    "topic": "product_releases",
+    "title": "ChatGPT Dot Texts You Proactively: iMessage and RCS Land for US Pro Subscribers",
+    "url": "https://www.techtimes.com/articles/329739/20261030/chatgpt-dot-texts-you-proactively-imessage-rcs-land-us-pro-subscribers.htm",
+    "snippet": "# ChatGPT Dot Texts You Proactively: iMessage and RCS Land for US Pro Subscribers\n\n#### OpenAI routes Dot through messaging partner Linq; Claude Duet still lacks native texting\n\n By Devin Culbertson Published: Oct 30 2026, 2:11 AM EDT\n\n ChatGPT Unsplash \n\nOpenAI has extended ChatGPT Dot's reach into native mobile messaging, announcing iMessage and RCS access on October 28 so its always-on personal"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-30",
+    "topic": "ai_agents",
+    "title": "AWS Step Functions workflows now available as AI agent tools - AWS",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/step-functions-workflows-ai-agent-tools/",
+    "snippet": "# AWS Step Functions workflows now available as AI agent tools\n\n Posted on: Oct 29, 2026 \n\nYou can now use your AWS Step Functions workflows as tools for AI agents through Amazon Bedrock AgentCore Gateway. Your agent decides when to run a workflow and what input to pass, and Step Functions runs each step exactly as you defined it. Agents can use your existing Standard and Express workflows as tool"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-30",
+    "topic": "ai_agents",
+    "title": "Droid 1.0: Building a Frontier Harness | Factory",
+    "url": "https://factory.com/news/frontier-harness",
+    "snippet": "# Droid 1.0: Building a Frontier Harness\n\nA new engine powering Factory's enterprise agent, built for complex projects and everyday development.\n\nOver the past year, we have worked with hundreds of thousands of developers across some of the largest enterprises in the world. Working side by side with these teams, we've built and hardened a frontier agent harness that directly meets the demands of e"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-30",
+    "topic": "ai_agents",
+    "title": "GitHub Agentic Workflows is generally available | AI and Tech News",
+    "url": "https://www.aiandtech.news/article/github-agentic-workflows-is-generally-available",
+    "snippet": "# GitHub Agentic Workflows is generally available\n\nTechNews Editorial Oct 29, 2026 \u00b7 1 min read\n\n## Why it matters\n\nGitHub says teams can automate tasks such as issue triage and test writing within GitHub Actions while using their existing runner groups and policy constraints.\n\n### The facts\n\n- GitHub Agentic Workflows is generally available on github.com for Free, Team and Enterprise.\n- It runs c"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-30",
+    "topic": "ai_agents",
+    "title": "Microsoft\u2019s new Copilot harness makes agents easy \u2014 until you want to switch - The New Stack",
+    "url": "https://thenewstack.io/microsoft-copilot-harness-foundry/",
+    "snippet": "# Microsoft\u2019s new Copilot harness makes agents easy \u2014 until you want to switch \n\n Microsoft is opening the GitHub Copilot agent harness to developers through Foundry, a managed runtime for building and running AI agents \u2014 with limits. \n\n Oct 29th, 2026 4:54pm by Amanda Caswell \n\n \n\nMicrosoft is opening up the GitHub Copilot agent harness to outside developers through Microsoft Foundry, bringing th"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-30",
+    "topic": "ai_agents",
+    "title": "Sema4.ai 3.0: Enterprise AI Agents for Team-Based Work",
+    "url": "https://sema4.ai/newsroom/sema4ai-enterprise-ai-agent-platform-team-based-work-token-reduction/",
+    "snippet": "Sema4.ai 3.0: Enterprise AI Agents for Team-Based Work\n\n# Sema4.ai Unveils 3.0 Platform Enabling Team-Based Work and Dramatically Reduces Token Spend\n\nSema4.ai's latest platform release introduces verified queries and logic that cut LLM token usage by up to 80%, delivering faster, more consistent results at scale. New team-based capabilities enable shared workspaces, agents, skills, and memories w"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-30",
+    "topic": "ai_small_business",
+    "title": "How to use AI agents to handle marketing, meetings, invoices, and inventory | TechRadar",
+    "url": "https://www.techradar.com/pro/how-to-use-ai-agents-to-handle-marketing-meetings-invoices-and-inventory-for-your-solo-business",
+    "snippet": "When you\u2019re running a business alone, you're also singlehandedly pitching in for the entire marketing department, receptionist, bookkeeper, and stock clerk. None of those jobs pay you directly, yet they swallow the hours you'd rather spend on clients.\n\nA KfW Research survey of around 10,000 businesses found sole traders carry the heaviest admin load of any business size, losing over eight per cent"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-30",
+    "topic": "ai_small_business",
+    "title": "AI Workflow Service to Launch for Small Businesses | We are Main Street",
+    "url": "https://wearemainstreet.org/world/us/2026/10/29/hancom-nomadian-ai-service-launch",
+    "snippet": "Solo entrepreneurs will soon be able to delegate tasks to a suite of 12 specialized AI agents.\n\nUpdated on Oct. 29, 2026 in Remote Work\n\nHancom will launch its Nomadian AI platform in the United States this December, allowing small businesses to delegate operations to twelve specialized automated agents. AI Illustration. Upload story photo >\n\nLive Poll\n\nHancom will launch a beta version of its Nom"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-30",
+    "topic": "ai_small_business",
+    "title": "Jio Haptik Launches SOLO in the UAE to Support AI-Powered Entrepreneurship",
+    "url": "https://www.businesswire.com/news/home/20261029279763/en/Jio-Haptik-Launches-SOLO-in-the-UAE-to-Support-AI-Powered-Entrepreneurship",
+    "snippet": "The AI Business Team brings marketing, sales and customer support capabilities to solopreneurs and SMBs\n\nDUBAI, United Arab Emirates--(BUSINESS WIRE)-- Jio Haptik, a Reliance Jio company and global provider of Agentic AI-powered customer experience solutions, announced the UAE launch of SOLO at the Dubai AI Festival. SOLO is an AI Business Team designed to help solopreneurs and small and medium-si"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-30",
+    "topic": "ai_small_business",
+    "title": "PYMNTS | Collective\u2019s AI Back Office Gives Solo Business Owners Time Back",
+    "url": "https://www.pymnts.com/back-office/2026/collectives-ai-back-office-gives-solo-business-owners-time-back/",
+    "snippet": "Collective handles financial administration for owners who would otherwise coordinate separate software and professional services. \n\n AI is increasing Collective\u2019s bookkeeping capacity and changing how quickly it needs to add staff.\n\n...\n\nHooman Radfar is building Collective for business owners who are also the people doing the work. A consultant might be the company\u2019s only employee, responsible f"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-30",
+    "topic": "ai_small_business",
+    "title": "Why multi-agent orchestration is replacing single-prompt AI for small businesses | TechRadar",
+    "url": "https://www.techradar.com/pro/why-multi-agent-orchestration-is-replacing-single-prompt-ai-for-small-businesses",
+    "snippet": "For a small business, that shaves hours off your working day. In a Goldman Sachs 10,000 Small Businesses survey from early 2026, 76% of owners said they use AI. Yet only 14% had fully integrated it into core operations. Multi-agent orchestration is a new technology that a growing number of teams are trying to close that distance.\n\n## What is multi-agent AI orchestration?\n\nMulti-agent orchestration"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-30",
+    "topic": "ai_labs",
+    "title": "An updated Model Spec for more capable and beneficial AI | OpenAI",
+    "url": "https://openai.com/index/updated-model-spec/",
+    "snippet": "An updated Model Spec for more capable and beneficial AI | OpenAI\n\nOctober 29, 2026\n\n# An updated Model Spec for more capable and beneficial AI\n\nAs our models get smarter and take more consequential actions in the world, it becomes increasingly important that they go beyond just interpreting the specific instructions they receive. Models also need to understand human intentions and values, so they"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-30",
+    "topic": "ai_labs",
+    "title": "Edit and preview documents directly in Gemini",
+    "url": "https://blog.google/innovation-and-ai/products/gemini-app/edit-files-directly/",
+    "snippet": "Edit and preview documents directly in Gemini\n\n# You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.\n\nOct 29, 2026\n\nWe\u2019re introducing new ways to create and refine documents, PDFs, presentations, spreadsheets, code, and more in the Gemini app.\n\nYou can now generate, preview, and edit files right within your chat \u2014 expand to full screen"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-30",
+    "topic": "ai_labs",
+    "title": "Google opens new AI research hub in Singapore",
+    "url": "https://blog.google/innovation-and-ai/technology/health/google-for-health-summit-singapore/",
+    "snippet": "Google opens new AI research hub in Singapore\n\n# Partnering with Singapore to bring frontier AI to public health\n\nOct 29, 2026\n\n At the Google for Health Summit in Singapore, we announced a new Google Research hub and initiatives to support frontline clinicians, advance research, and help Singaporeans live healthier lives. \n\nBen King\n\nCountry Managing Director, Google Singapore\n\n \n\nWe're deepening"
   }
 ]
