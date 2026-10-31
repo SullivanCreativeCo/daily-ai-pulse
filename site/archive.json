@@ -29322,5 +29322,175 @@
     "title": "Google opens new AI research hub in Singapore",
     "url": "https://blog.google/innovation-and-ai/technology/health/google-for-health-summit-singapore/",
     "snippet": "Google opens new AI research hub in Singapore\n\n# Partnering with Singapore to bring frontier AI to public health\n\nOct 29, 2026\n\n At the Google for Health Summit in Singapore, we announced a new Google Research hub and initiatives to support frontline clinicians, advance research, and help Singaporeans live healthier lives. \n\nBen King\n\nCountry Managing Director, Google Singapore\n\n \n\nWe're deepening"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-10-31",
+    "headline": "The wrapper around the model is where the money is moving.",
+    "url": "archive/2026-10-31.html",
+    "posts": {
+      "linkedin": [
+        "Factory moved 151 Linear issues two ways.\n\nThe normal way took 36 model requests and 3.1 million input tokens.\n\nThe new way took two requests and 61,000 tokens.\n\nSame job. The only thing that changed was where the work happened.\n\nInstead of the model calling one tool, waiting, then calling the next, it writes a small script. The script runs all 312 tool calls inside a sandbox. The model only reads the final result.\n\nThose are Factory's own numbers, so take them with a grain of salt. But the idea is what stuck with me.\n\nWe keep arguing about which model is smartest. Meanwhile the stuff wrapped around the model is cutting the token bill by about 98 percent on tasks like this.\n\nIf you build agents for a business, that's the part your client actually feels. Not the benchmark. The invoice.\n\nWhich part of your agent is paying a model to do something a script could do?",
+        "Nvidia and Mistral both shipped open models in the same week.\n\nNvidia's is a 120 billion parameter model built for enterprise agents. Mistral's is a trillion parameter model with the weights now public.\n\nMost of my clients will never run either one.\n\nBut they'll feel it anyway.\n\nHere's why. A business owner doesn't ask what the parameter count is. They ask where their data goes. Open weights mean that answer can be \"nowhere, it stays on your machine.\"\n\nNvidia's Kari Briski said it plainly: organizations can post-train on their own data, deploy on their own infrastructure, and own what they build.\n\nThat's a very different pitch than \"rent our model and trust us.\"\n\nFor a long time the private option meant a worse option. That gap is getting smaller.\n\nWho's the first client you'd move to a local model if the quality was close enough?",
+        "Crewdle sells AI agents with one rule built in.\n\nThe drafts wait for a person to approve them before anything goes out.\n\nTheir sales agent researches prospects and writes outreach. It doesn't send a thing on its own. The owner reviews it first.\n\nThat's the whole reason a small business can actually say yes to this.\n\nThe pricing is interesting too. There's no per-seat fee. You add funds to a balance and pay for what runs. And if you want help, setup around one workflow is a flat CAD 2,500.\n\nSo the setup is the product. Not the model.\n\nThat's not just a service, that's a weight removal product. The owner doesn't want to learn how agents work. They want the coordination work gone.\n\nIf you're selling AI to small businesses, what's the one workflow you'd tell them to start with?"
+      ],
+      "threads": [
+        "Google got its first AI response from a TPU in orbit this week.\n\nThey asked it for a haiku about being in space. It wrote one and sent it down over Svalbard.\n\nHello World, but the computer is in orbit.\n\nIs it practical yet? Nope. Twin satellites are planned for 2027.\n\nBut I love that the very first thing anyone asked it to do was write a poem.",
+        "OpenAI is making GPT-6 in the free tier shorter and less flattering.\n\nThat tells you something. The model was too nice.\n\nYou know the feeling. You ask a normal question and it tells you how great the question is first.\n\nI'd take a blunt answer over a compliment any day.\n\nHow many of us have been quietly skipping the first two sentences?",
+        "There's a free, open-source AI assistant for Mac called Local Code. You download a model and it runs on your own computer.\n\nIt can work with Mail, Notes, and Calendar if you let it.\n\nSo the file you're nervous about sending to the cloud can just stay on your laptop.\n\nThe small models are decent now. The big ones need a lot of disk space.\n\nWhat's one thing you'd only hand to an AI that stays on your machine?"
+      ]
+    }
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-31",
+    "topic": "model_releases",
+    "title": "Nvidia launches new open models to run agents in the enterprise and on PCs\u00a0 - Jingletree",
+    "url": "https://www.jingletree.com/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs-291154.html",
+    "snippet": "Nvidia launches new open models to run agents in the enterprise and on PCs - Jingletree\n\n 1 week ago 282 \n\nNvidia on Thursday launched new open-weight models designed for always-on agents and edge computing.\n\nThe Nemotron 3.5 Super VL is a large, 120-billion-parameter model geared for agents used by the enterprise. While it uses fewer parameters than the Nemotron 3 Ultra model, Nvidia says it can "
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-31",
+    "topic": "model_releases",
+    "title": "Mistral releases ML4 open weights, coding score jumps to 41%",
+    "url": "https://ai123.com/newshub/16739",
+    "snippet": "Mistral releases ML4 open weights, coding score jumps to 41%\n\n# Mistral releases ML4 open weights, coding score jumps to 41%\n\nBy AI123\n\nPublished Oct 29, 2026 \u00b7 17:41 UTC Updated Oct 31, 2026 \u00b7 05:42 UTC\n\nMistral released the weights for Mistral Large 4 (ML4), nicknamed \"Le Chonk,\" on Oct. 30, 2026, as scheduled. The trillion-parameter model was first introduced in preview on Oct. 6 and tested wit"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-31",
+    "topic": "model_releases",
+    "title": "SB Intuitions Adds Reasoning and Tool Use to Sarashina | AI.info",
+    "url": "https://ai.info/news/sb-intuitions-sarashina-reasoning-tool-use",
+    "snippet": "# SB Intuitions Adds Reasoning and Tool Use to Sarashina\n\nSB Intuitions introduced Sarashina3.2 mini thinking on October 29, adding adjustable reasoning, web search and multi-step tool use to its Japanese-developed model series. The company reports strong agent-benchmark results but also acknowled\n\nAI.info Team \u00b7 Written with AI \u00b7 fact-checked \u00b7 2026-10-30\n\nSB Intuitions says its new Sarashina mod"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-31",
+    "topic": "product_releases",
+    "title": "Local Code Launches as Free, Private AI Assistant Tool for Mac - MacRumors",
+    "url": "https://www.macrumors.com/2026/10/30/local-code-free-private-ai-tool-for-mac/",
+    "snippet": "Local Code Launches as Free, Private AI Assistant Tool for Mac - MacRumors\n\n# Local Code Launches as Free, Private AI Assistant Tool for Mac\n\nFriday October 30, 2026 6:38 am PDT by Hartley Charlton\n\nThe developers of Draw Things have launched Local Code, an open-source AI assistant that lets Mac users download models and put them to work on their own computers.\n\n Local Code lets users download an "
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-31",
+    "topic": "product_releases",
+    "title": "Magnific's Move makes animated titles and charts from a typed description, then changes them when you ask | FrameSignal",
+    "url": "https://framesignal.com/research/magnific-move-describe-motion-graphics-ai-builds-them",
+    "snippet": "# Magnific's Move makes animated titles and charts from a typed description, then changes them when you ask \n\n OCT 31, 2026 \n\n Magnific has launched Move, which turns a written description into a short motion graphic, the animated titles, charts and logo reveals used in ads and launch videos. You change it by asking, and Magnific says each edit touches only what you asked for, unlike most AI video"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-31",
+    "topic": "product_releases",
+    "title": "Ramen Launches Aura Autopilot, its Open-Source Autonomous Game Tester for Unreal Engine, Unity and Godot",
+    "url": "https://www.businesswire.com/news/home/20261030731831/en/Ramen-Launches-Aura-Autopilot-its-Open-Source-Autonomous-Game-Tester-for-Unreal-Engine-Unity-and-Godot",
+    "snippet": "Ramen Launches Aura Autopilot, its Open-Source Autonomous Game Tester for Unreal Engine, Unity and Godot\n\nRamen Launches Aura Autopilot, its Open-Source Autonomous Game Tester for Unreal Engine, Unity and Godot\n\nFlagship Agentic AI Agent Aura 1.0 Gains 6x Subscribers and Triples Revenue; New Features Released\n\nSAN FRANCISCO--(BUSINESS WIRE)-- Ramen, developer of the best-in-class multi-agent AI as"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-31",
+    "topic": "product_releases",
+    "title": "Meta launches Style Sketch AI fashion app",
+    "url": "https://www.digitaltoday.co.kr/en/view/121896/meta-launches-style-sketch-ai-fashion-app",
+    "snippet": "Meta launches Style Sketch AI fashion app\n\n Updated 6:30 PM KST, Sat October 31, 2026 | Mobile Web \n\n Meta has launched Style Sketch, an AI fashion app that analyses users\u2019 wardrobes and recommends outfits, without a separate announcement. The app builds a virtual closet using photos posted on Instagram and can also add items from new photos, short videos or uploaded images. It suggests combinatio"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-31",
+    "topic": "ai_agents",
+    "title": "Hold your agents - The New Stack",
+    "url": "https://thenewstack.io/tns-daily/october-30-2026/",
+    "snippet": "| --- | --- |\n\n## Hold your agents\n\nMicrosoft is opening up the GitHub Copilot agent harness to outside developers through Microsoft Foundry, bringing the same orchestration infrastructure used across its Copilot products into a managed service for building and deploying autonomous agents.\n\nAnnounced Wednesday, the Microsoft Copilot harness is now available in public preview through Foundry Agent "
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-31",
+    "topic": "ai_agents",
+    "title": "Joule Studio empowers teams to build trusted, cust... - SAP Community",
+    "url": "https://community.sap.com/t5/technology-blog-posts-by-sap/joule-studio-empowers-teams-to-build-trusted-custom-agentic-solutions/ba-p/14493943",
+    "snippet": "## Joule Studio empowers teams to build trusted, custom agentic solutions \n\n yesterday \n\n michael_gall \n\n Associate \n\n- Joule Studio Software Product\n\nAt SAP Sapphire 2026, we introduced the new Joule Studio and shared our vision of a fully reimagined, AI-first development environment. This week at SAP TechEd, we put Joule Studio in the spotlight to show exactly what kind of agentic solutions you "
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-31",
+    "topic": "ai_agents",
+    "title": "Complexica Launches Complexica Automations, its Agentic AI Business Unit",
+    "url": "https://www.complexica.com/news/complexica-launches-complexica-automations-agentic-ai-business-unit",
+    "snippet": "Complexica Launches Complexica Automations, its Agentic AI Business Unit\n\n# Complexica Launches Complexica Automations, its Agentic AI Business Unit \n\n 30 October 2026 \n\nADELAIDE, AUSTRALIA, 30 October 2026 - Complexica Pty Ltd, a leading provider of Artificial Intelligence software for optimising sales, marketing and supply chain decisions, announced today the launch of Complexica Automations, a "
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-31",
+    "topic": "ai_agents",
+    "title": "Sema4.ai introduces its 3.0 platform to give AI agents better memory & team-based skills | The AI Journal",
+    "url": "https://aijourn.com/sema4-ai-introduces-its-3-0-platform-to-give-ai-agents-better-memory-team-based-skills/",
+    "snippet": "# Sema4.ai introduces its 3.0 platform to give AI agents better memory & team-based skills \n\n## With its 3.0 platform, the company is betting that reusable business logic and shared workspaces can make AI agents more predictable, and less expensive to operate.\n\n AIJ Writing Staff Send an email (support@theaijournal.co.uk) 30 October 2026\n\nFor companies putting AI agents into everyday operations, r"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-31",
+    "topic": "ai_agents",
+    "title": "Factory Launches Droid 1.0 With Script Mode to Cut AI Agent Token Use and Boost Speed",
+    "url": "https://techiexpert.com/factory-launches-droid-1-0-with-script-mode-to-cut-ai-agent-token-use-and-boost-speed/",
+    "snippet": "Factory Launches Droid 1.0 With Script Mode to Cut AI Agent Token Use and Boost Speed\n\n# Factory Launches Droid 1.0 With Script Mode to Cut AI Agent Token Use and Boost Speed\n\n By Lindy McKenzie\n\nOctober 31, 2026\n\nKey Takeaways:\n\n- Factory has released Droid 1.0, a huge update to AI agent harness that uses Script Mode to run hundreds of tool calls inside a JavaScript request.\n- In one test moving "
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-31",
+    "topic": "ai_small_business",
+    "title": "Crewdle sells AI agents by the task, with partners in the loop",
+    "url": "https://www.moneymakers.com/articles/news/crewdle-ai-agents-pay-per-task",
+    "snippet": "Businesses looking to use AI for recurring work face a practical question: who sets it up, and how much will it cost when it runs? Montr\u00e9al-based Crewdle offers software agents for business tasks, alongside spending controls and a way for service providers to sell the platform to their own clients.\n\n...\n\n## Selling work rather than seats\n\nCrewdle\u2019s agents are software assistants given roles, files"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-31",
+    "topic": "ai_small_business",
+    "title": "AI for Business Automation Guide for US Teams",
+    "url": "https://bitcoinfoundation.org/news/ai/ai-for-business-automation/",
+    "snippet": "US teams now use ai for business automation to connect routine work, judgment, and follow-up across existing systems. The goal is not automation for its own sake. It is faster service with clear ownership and measurable controls. Effective ai automation for business keeps people responsible for exceptions, approvals, and customer impact.\n\n...\n\nNo single platform leads every category. A small sales"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-31",
+    "topic": "ai_small_business",
+    "title": "OptimusDesk Integrates AI for Small Business Management | marketerintel",
+    "url": "https://www.marketerintel.com/article/optimusdesk-integrates-ai-for-small-business-management-mvutgigb",
+    "snippet": "What happened OptimusDesk has launched a new business management platform designed for small businesses, freelancers, and service teams. It consolidates customer relationships, projects, team collaboration, and an AI assistant named Pip into a single workspace, aiming to reduce tool switching and improve efficiency.\n\nWhy it matters for marketers The integration of an AI assistant directly into a s"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-31",
+    "topic": "ai_labs",
+    "title": "Model Release Notes | OpenAI Help Center",
+    "url": "https://help.openai.com/en/articles/9624314-model-release-notes",
+    "snippet": "# Model Release Notes\n\nReview OpenAI model releases, capability updates, retirements, and changes to the Model Spec.\n\nUpdated: 18 hours ago\n\n## GPT-6 Rosalind Research\n\nGPT-6 Rosalind Research brings GPT-6 reasoning capabilities to multistep life sciences research, with safeguards designed for biological work. It is rolling out to a limited set of approved Research customers in Work, Codex, and th"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-31",
+    "topic": "ai_labs",
+    "title": "Google receives response from Project Suncatcher prototype satellite in space",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/",
+    "snippet": "Google receives response from Project Suncatcher prototype satellite in space\n\n# We\u2019ve received our first response from the Project Suncatcher prototype satellite.\n\nTravis Beals\n\nSenior Director, Paradigms of Intelligence\n\nOct 30, 2026\n\nOn October 1, we launched our prototype satellite for Project Suncatcher. The launch marked the first step in our long-term research moonshot to explore powering A"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-31",
+    "topic": "ai_labs",
+    "title": "Making it easier for websites to express AI training preferences | OpenAI",
+    "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+    "snippet": "Making it easier for websites to express AI training preferences | OpenAI\nOctober 30, 2026\n# Making it easier for websites to express AI training preferences\nWhy we\u2019re supporting a common signal that lets website operators communicate their choices to multiple AI providers at once.\nToday, we\u2019re announcing that OpenAI will honor a common signal\u2060(opens in a new window) in robots.txt, the file that l"
+  },
+  {
+    "kind": "news",
+    "date": "2026-10-31",
+    "topic": "ai_labs",
+    "title": "Community safety report and new protections for teens | OpenAI",
+    "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens/",
+    "snippet": "Community safety report and new protections for teens | OpenAI\n\nOctober 30, 2026\n\n# Community safety report and new protections for teens\n\nChatGPT is one of the world\u2019s most widely used AI products, and we have invested in building some of the industry\u2019s most advanced systems for detecting potential harm, reviewing concerning activity, and escalating credible threats. We\u2019re making two announcement"
   }
 ]
