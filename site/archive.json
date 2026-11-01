@@ -29492,5 +29492,207 @@
     "title": "Community safety report and new protections for teens | OpenAI",
     "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens/",
     "snippet": "Community safety report and new protections for teens | OpenAI\n\nOctober 30, 2026\n\n# Community safety report and new protections for teens\n\nChatGPT is one of the world\u2019s most widely used AI products, and we have invested in building some of the industry\u2019s most advanced systems for detecting potential harm, reviewing concerning activity, and escalating credible threats. We\u2019re making two announcement"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-11-01",
+    "headline": "The bottleneck isn't the model anymore. It's you.",
+    "url": "archive/2026-11-01.html",
+    "posts": {
+      "linkedin": [
+        "DeepSeek's team said something this weekend that I can't stop thinking about.\n\nOne person can keep track of about three to five active AI sessions at a time.\n\nThat's the ceiling. Not the model. Not the price. You.\n\nI feel this one. I've had six tabs of Claude going and lost the plot on half of them. The agent was fine. I was the thing that broke.\n\nTheir fix is a router and a bunch of workers. You talk to one agent. It hands out the jobs, watches them, and only taps you when something needs a decision.\n\nThat's basically a good office manager.\n\nWhich means the skill that's gonna matter isn't prompting. It's knowing what deserves your attention and what doesn't.\n\nI'm not sure I'm good at that yet. Most of my day is deciding what I'm gonna ignore.\n\nHow many things are you actually tracking right now, and how many of those need you?",
+        "A guy named Frey built a list of thrift stores.\n\nThat's it. A list.\n\nFirst month with ads it made $1,200. At its best, $3,000 a month. He says he touches it about 30 minutes every few months.\n\nThe part I keep coming back to is the $50 link. He found a competing directory, paid the owner 50 bucks over PayPal, and swapped links. He says that one link got him onto page one, and that the site has made around $150k in four years.\n\nHe built it with YouTube and AI because he didn't know how to code.\n\nHere's why it works. He didn't try to be the yellow pages. He picked one narrow thing and saved one kind of person from 20 open tabs.\n\nEvery small business owner I know has a version of that. A thing they keep answering the same way, over and over.\n\nWhat are you already doing for yourself that someone else would find useful?",
+        "Meta launched an AI assistant for small business owners. Salesforce shipped a kill switch for agents around the same time.\n\nDifferent companies, same sentence in the fine print.\n\nMeta says the owner has to approve before Muse publishes, sends, or spends. Salesforce's whole pitch is catching an agent that's quietly giving wrong answers before a customer does.\n\nThat tells you where this is at.\n\nThe agents can do the work. Nobody fully trusts them to do it alone yet. And the builders know it.\n\nHonestly, I like that. If I'm handing an agent my inbox or my ad budget, I want three things. Let me see what it did. Let me stop it. Let me cap what it spends.\n\nEverything else is a demo.\n\nThe business owners I talk to aren't scared of AI. They're scared of waking up to something they didn't approve.\n\nSo what would you need to see before you let one run overnight?"
+      ],
+      "threads": [
+        "Spawn is a ten person company that spends about ten times more on compute and AI than on salaries. Their agents push roughly 77,000 changes a month.\n\nI read that and felt two things. Wow. And then, oh, that's just a different job description.\n\nThe humans set the direction. The fleet does the rest.\n\nNot sure that's every company's future. Pretty sure it's somebody's.",
+        "A 95 year old law firm collapsed and an AI startup wants to buy its files.\n\nNot the client records. The templates, the precedents, the playbooks. Stuff that would've been worth zero on the books last month.\n\nTurns out how your company does the work is an asset.\n\nMost small businesses have that written down nowhere. It's all in somebody's head.",
+        "Agents are quietly getting less visual.\n\nVercel Labs open sourced a tool that lets an agent drive desktop apps by reading the accessibility tree instead of taking screenshots. Same thing a screen reader uses. Fewer tokens, less guessing.\n\nKinda funny that the thing we built for people who can't see the screen is what helps the robots see it."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-11-01",
+    "source": "The Koerner Office",
+    "title": "The Most Passive Business You Can Start With $20",
+    "url": "https://www.youtube.com/watch?v=-u0JuVUdPQA",
+    "video_id": "-u0JuVUdPQA"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-11-01",
+    "source": "AI Daily Brief",
+    "title": "How the Most AI Pilled Company in the World Works",
+    "url": "https://www.youtube.com/watch?v=A2DeaJXO6Fg",
+    "video_id": "A2DeaJXO6Fg"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-01",
+    "topic": "model_releases",
+    "title": "Nace AI Open-Sources Drex Max v1: A 27B Decision Model That Runs Locally on Apple Silicon - MarkTechPost",
+    "url": "https://www.marktechpost.com/2026/11/01/nace-ai-open-sources-drex-max-v1-local-inference/",
+    "snippet": "# Nace AI Open-Sources Drex Max v1: A 27B Decision Model That Runs Locally on Apple Silicon\n\nBy\n\nAsif Razzaq\n\nNovember 1, 2026\n\nNace AI has released Drex Max v1 as open weights. Drex Max is its most capable decision model, and it now runs on your own hardware. The release ships bf16 weights, a Q8_0 GGUF, an affine Q4 checkpoint and forks of llama.cpp and Ollama. For developers, Drex Max open weigh"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-01",
+    "topic": "model_releases",
+    "title": "Mistral releases Le Chonk: an open model l... | Gaya One",
+    "url": "https://gaya.one/en/the-world-today/now/mistral-vypustila-le-chonk-otkrytaa-model-lidiruusaa-v-kodirovanii-i-kiberbezopasnosti",
+    "snippet": "# Mistral releases Le Chonk: an open model leading in coding and cybersecurity\n\n08:17, 01 November\n\nEdited by: Svitlana Velhush\n\nThe French company Mistral AI has presented its new flagship model Mistral Large 4, known by the unofficial nickname Le Chonk. It is an open model with a billion parameters that is already available for weight download.\n\nThe model belongs to the open-weight category and "
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-01",
+    "topic": "model_releases",
+    "title": "Gemini 4 Carbon: Google's New Frontier Model",
+    "url": "https://techmymoney.com/2026/11/01/gemini-4-carbon-google-frontier-model-cyber-defenders/",
+    "snippet": "# Gemini 4 Carbon Is Google\u2019s New Frontier Model, Starting With Cyber Defenders\n\nGoogle's cybersecurity benchmark scores arrive with a phased rollout that starts at a subset of cyber defenders\n\n...\n\nNov 1, 2026\n\nImage: Google\n\nGoogle announced Gemini 4 Carbon on October 28, 2026. The company calls it its strongest model for cybersecurity and long-horizon work. Access arrives in stages, however. Th"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-01",
+    "topic": "model_releases",
+    "title": "Why Is BABA Stock Rising Nearly 4% Premarket Today?",
+    "url": "https://stocktwits.com/news-articles/markets/equity/why-is-baba-stock-rising-nearly-4-premarket-today/cZZLwC9R7Mz",
+    "snippet": "In a post on X, Alibaba Group Holding announced the launch of a preview version of its flagship Large Language Model (LLM) Qwen3.8 Max. \n\nA person holds a smartphone displaying the logo of Alibaba Group. CEO Eddie Wu said the company will increase investment in AI. (Photo by Cheng Xin/Getty Images)\n\nAashika Suresh\u00b7 Stocktwits\n\nPublished Jul 20, 2026 | 4:02 AM EDT\n\n- The company said that it believ"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-01",
+    "topic": "model_releases",
+    "title": "GPT-4o\u8d85\u3048\u306e\u65e5\u672c\u8a9e\u6027\u80fd\uff01\u697d\u5929\u300cRakuten AI 3.0\u300d\u516c\u958b\u3001\u56fd\u5185\u6700\u5927\u7d1aLLM\u306e\u5b9f\u529b\u3068\u306f | StartHome",
+    "url": "https://home.kingsoft.jp/news/app/dx_app/2611mm02.html",
+    "snippet": "\u697d\u5929\u300cRakuten AI 3.0\u300d\u516c\u958b\u3001\u56fd\u5185\u6700\u5927\u7d1aLLM\u306e\u5b9f\u529b\u3068\u306f | StartHome\n\n# GPT-4o\u8d85\u3048\u306e\u65e5\u672c\u8a9e\u6027\u80fd\uff01\u697d\u5929\u300cRakuten AI 3.0\u300d\u516c\u958b\u3001\u56fd\u5185\u6700\u5927\u7d1aLLM\u306e\u5b9f\u529b\u3068\u306f\n\n- 2026\u5e7403\u670817\u65e5 18:00:00\n- \u30c6\u30af\u30ce\u30ed\u30b8\u30fc\n- DX\u30de\u30ac\u30b8\u30f3_\u30c6\u30af\u30ce\u30ed\u30b8\u30fc\n- \u30b3\u30e1\u30f3\u30c8 \n\n\u751f\u6210AI\u306f\u65e5\u672c\u8a9e\u3067\u3069\u3053\u307e\u3067\u9ad8\u7cbe\u5ea6\u306b\u306a\u3063\u305f\u306e\u304b\u3002\u697d\u5929\u30b0\u30eb\u30fc\u30d7\u682a\u5f0f\u4f1a\u793e\u304c\u56fd\u5185\u6700\u5927\u898f\u6a21\u3068\u3059\u308b\u300cRakuten AI 3.0\u300d\u3092\u516c\u958b\u3057\u307e\u3057\u305f\u3002\u65e5\u672c\u56fa\u6709\u306e\u77e5\u8b58\u3084\u5927\u5b66\u9662\u30ec\u30d9\u30eb\u306e\u63a8\u8ad6\u307e\u3067\u8907\u6570\u6307\u6a19\u3067\u512a\u4f4d\u3092\u793a\u3057\u3001Apache 2.0\u3067\u7121\u511f\u63d0\u4f9b\u3068\u3044\u3046\u958b\u653e\u6027\u3082\u6253\u3061\u51fa\u3057\u3066\u3044\u307e\u3059\u3002\u8a55\u4fa1\u30b9\u30b3\u30a2\u3068\u63d0\u4f9b\u65b9\u91dd\u304b\u3089\u3001\u305d\u306e\u5b9f\u50cf\u3092\u89e3\u304d\u660e\u304b\u3057\u307e\u3059\u3002\n\n## \u65e5\u672c\u8a9e\u30bf\u30b9\u30af\u3067\u306e\u512a\u4f4d\u6027\u3068\u30aa\u30fc\u30d7\u30f3\u63d0\u4f9b\u306e\u72d9\u3044\n\n\u697d\u5929\u30b0\u30eb\u30fc\u30d7\u682a\u5f0f\u4f1a\u793e\u306f\u3001\u7d4c\u6e08\u7523\u696d\u7701\u3068NEDO\u304c\u63a8\u9032\u3059\u308bGENIAC\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u306e\u4e00\u74b0\u3067\u958b\u767a\u3057\u305f\u300cRakuten AI 3"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-01",
+    "topic": "product_releases",
+    "title": "ElevenLabs introduces SFX v3 in ElevenCreative and ElevenAPI",
+    "url": "https://www.the-ai.news/en/elevenlabs-introduces-sfx-v3/",
+    "snippet": "ElevenLabs introduces SFX v3 in ElevenCreative and ElevenAPI\n\n# ElevenLabs introduces SFX v3 in ElevenCreative and ElevenAPI\n\nNovember 1, 2026\n\nAI / news\n\nElevenLabs announces SFX v3, the latest version of its sound effects generation model. Available now in ElevenCreative and via ElevenAPI, it is presented as more reliable for prompts describing multiple sounds at once, with more convincing music"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-01",
+    "topic": "product_releases",
+    "title": "Factory launches Droid 1.0 with programmatic tool calling",
+    "url": "https://streamsage.news/news/factory-launches-droid-1-0",
+    "snippet": "Factory launches Droid 1.0 with programmatic tool calling\n\n# Factory launches Droid 1.0 with programmatic tool calling as default\n\nThe update claims lower costs and higher scores than competing agent harnesses on benchmark tasks using multiple frontier models.\n\nYuna \u00b7 Nov 1, 2026 \u00b7 1 min\n\nFactory reported the launch of Droid 1.0, an update to its enterprise agent harness that sets programmatic too"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-01",
+    "topic": "product_releases",
+    "title": "Internet Computer Connector Is Now Available in Anthropic\u2019s Claude | TokenPost",
+    "url": "https://www.tokenpost.com/news/technology/45810",
+    "snippet": "Internet Computer Connector Is Now Available in Anthropic\u2019s Claude | TokenPost\n\n# Internet Computer Connector Is Now Available in Anthropic\u2019s Claude\n\nAfter a one-time setup, users can create cloud engines, launch customer portals and continue development in the same conversation.\n\nBy Simon Yoon\n\nPublished Nov 1, 2026, 5:42 AM EST\n\nA fiber cable links a small cloud model to an open laptop / TokenPo"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-01",
+    "topic": "product_releases",
+    "title": "Vercel Labs open-sources agent-desktop for \"agent computer use\"",
+    "url": "https://www.the-ai.news/en/vercel-labs-open-sources-agent-desktop/",
+    "snippet": "Vercel Labs open-sources agent-desktop for \"agent computer use\"\n\n# Vercel Labs open-sources agent-desktop for \u201cagent computer use\u201d\n\nNovember 1, 2026\n\nAI / news\n\nVercel Labs has released agent-desktop, an open-source command-line tool (CLI) that allows AI agents to control desktop applications on macOS, Windows, and Linux. In its version 1.0.2, released on October 30, 2026 under the Apache-2.0 lice"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-01",
+    "topic": "product_releases",
+    "title": "TestMu AI Unveils Autonomous Agent That Can Map An Entire Web App And Generate Tests From A Single URL",
+    "url": "https://smbtech.au/news/testmu-ai-unveils-autonomous-agent-that-can-map-an-entire-web-app-and-generate-tests-from-a-single-url/",
+    "snippet": "TestMu AI Unveils Autonomous Agent That Can Map An Entire Web App And Generate Tests From A Single URL \u2013 SMBtech\n\n# TestMu AI Unveils Autonomous Agent That Can Map An Entire Web App And Generate Tests From A Single URL\n\n Staff Writer November 1, 2026 News\n\n#### Surprisingly Useful AI Article Enhancements\n\nTestMu AI, the company formerly known as LambdaTest, has released a new capability called Kan"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-01",
+    "topic": "ai_agents",
+    "title": "DeepSeek unveils \u2018Super-agent\u2019 design to handle multiple tasks in parallel and improve efficiency - Global Times",
+    "url": "https://www.globaltimes.cn/page/202611/1373392.shtml",
+    "snippet": "DeepSeek unveils \u2018Super-agent\u2019 design to handle multiple tasks in parallel and improve efficiency - Global Times\n\nDeepSeek unveils \u2018Super-agent\u2019 design to handle multiple tasks in parallel and improve efficiency\n\nBy Ma Tong Published: Nov 01, 2026 12:37 PM \n\nThe DeepSeek logo is displayed on a smartphone screen, with the words \u201cAI Agent\u201d in the background. Photo: VCG\n\n Chinese artificial intellige"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-01",
+    "topic": "ai_agents",
+    "title": "Introducing AgentEnv: An Open-Source Framework for Building RL Environments | Scale Labs",
+    "url": "https://labs.scale.com/blog/introducing-agentenv",
+    "snippet": "Introducing AgentEnv: An Open-Source Framework for Building RL Environments | Scale Labs\n\n10/5/2026\n\n# Introducing AgentEnv: An Open-Source Framework for Building RL Environments\n\nBy Edgar Arakelyan, Tejas Polakam, Yzabelle Go\n\nAn agent is only as good as the world it operates in, and building worlds that are realistic, accurate, and scalable all at once is the hard part of scaling RL. Every RL en"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-01",
+    "topic": "ai_agents",
+    "title": "Salesforce Expands Agent Fabric to Catch Failures and Control Costs - Salesforce",
+    "url": "https://www.salesforce.com/in/news/stories/agent-fabric-catch-failures-control-ai-costs/",
+    "snippet": "Salesforce Expands Agent Fabric to Catch Failures and Control Costs - Salesforce\n\n# Salesforce Expands Agent Fabric to Automatically Stop Runaway Costs and AI Agent Failures Before They Impact Customers\n\nNew Agent Evals gives leaders the confidence to scale more agents into production by continuously evaluating agent performance and costs, no matter what platform the agent is built on.\n\n November "
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-01",
+    "topic": "ai_agents",
+    "title": "DeepSeek launches autonomous coding agent to challenge Anthropic\u2019s Claude Code By Investing.com",
+    "url": "https://www.investing.com/news/company-news/deepseek-launches-autonomous-coding-agent-to-challenge-anthropics-claude-code-4989391",
+    "snippet": "DeepSeek launches autonomous coding agent to challenge Anthropic\u2019s Claude Code By Investing.com\n\n# DeepSeek launches autonomous coding agent to challenge Anthropic\u2019s Claude Code\n\nAuthor Simon Mugo\n\nPublished Nov 01, 2026, 01:45 AM\n\n\u00a9 Reuters\n\nInvesting.com -- Chinese artificial intelligence startup DeepSeek has introduced an open-source coding agent designed to operate more independently of human "
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-01",
+    "topic": "ai_small_business",
+    "title": "Workmate builds AI agents around the way businesses already work",
+    "url": "https://www.moneymakers.com/articles/news/workmate-custom-ai-agents-business-workflows",
+    "snippet": "# Workmate builds AI agents around the way businesses already work\n\nWorkmate offers businesses custom AI agents and a team to build them around existing workflows. Its Workforce service combines software with hands-on engineering, rather than asking customers to build and maintain the agents themselves.\n\nAI-generated editorial illustration for Workmate. Not a photograph of a real person, product o"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-01",
+    "topic": "ai_small_business",
+    "title": "Meta\u2019s Muse for Small Business targets business tasks | Kju",
+    "url": "https://kju.ai/story/meta-s-muse-for-small-business-targets-business-tasks",
+    "snippet": "Meta unveiled Muse for Small Business, an AI assistant that owners can give broad goals such as running a business or finding new customers. Meta says it can connect to business accounts and tools, keep working after a conversation ends, and seek approval before taking certain actions.\n\nKey takeaways \u00b7 3\n\n- 01\n\nMeta says Muse can handle goals such as finding customers and running business operatio"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-01",
+    "topic": "ai_small_business",
+    "title": "How My 8-Person Company Uses AI Agents to Avoid Doubling Our Team - Business Insider",
+    "url": "https://www.businessinsider.com/8-person-company-uses-ai-agents-to-avoid-doubling-team-2026-11",
+    "snippet": "# I run an 8-person startup that uses AI agents. We don't let our agents run on vibes \u2014 here's the playbook system we created\n\n...\n\nI left Facebook in 2020 to start my own business in the wine industry, and after that company sold, I founded an AI company. I would need to double the number of people on my team if we didn't use AI playbooks.\n\nIf you're being thoughtful about setting up your AI oper"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-01",
+    "topic": "ai_small_business",
+    "title": "Jio Haptik Launches SOLO in the UAE to Support AI-Powered Entrepreneurship",
+    "url": "https://gulfreport.co/en/technology/jio-haptik-launches-solo-in-the-uae-to-support-ai-powered-entrepreneurship",
+    "snippet": "# Jio Haptik Launches SOLO in the UAE to Support AI-Powered Entrepreneurship \n\n The AI Business Team brings marketing, sales and customer support capabilities to solopreneurs and SMBs \n\nJio Haptik, a Reliance Jio company and global provider of Agentic AI-powered customer experience solutions, announced the UAE launch of SOLO at the Dubai AI Festival. SOLO is an AI Business Team designed to help so"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-01",
+    "topic": "ai_labs",
+    "title": "Speeding up planning decisions with AI \u2014 Google DeepMind",
+    "url": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
+    "snippet": "Speeding up planning decisions with AI \u2014 Google DeepMind\n\n October 31, 2026 Responsibility & Safety\n\n# Speeding up planning decisions with AI\n\nOwen Larter and David Thacker\n\nPlanAssist has shown it can cut the time planning officers spend assessing householder applications by up to 58%.\n\nPlanAssist - an AI planning tool that handles the heavy lifting of routine applications so officers can focus t"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-01",
+    "topic": "ai_labs",
+    "title": "Anthropic launches Claude Duet agent preview | TLDR",
+    "url": "https://tldr.tech/story/b6c048d2-3554-4509-a983-8219ad8c5379",
+    "snippet": "Anthropic launches Claude Duet agent preview | TLDR\n\n# Anthropic launches Claude Duet agent preview\n\nAnthropic has introduced Claude Duet, an always-on personal AI agent that runs on a virtual machine and can proactively complete tasks by accessing connected apps and the web. The agent is currently in preview for Claude Pro and Max subscribers in the US through a waitlist. Anthropic plans to inclu"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-01",
+    "topic": "ai_labs",
+    "title": "OpenAI Releases GPT-6 Rosalind for Biological Research | TLDR",
+    "url": "https://tldr.tech/story/7f501cad-dba6-4063-b7c0-9c8b67632d53",
+    "snippet": "OpenAI Releases GPT-6 Rosalind for Biological Research | TLDR\n\n# OpenAI Releases GPT-6 Rosalind for Biological Research\n\nOpenAI has released GPT-6 Rosalind, a specialized version of GPT-6 Astra tailored to handle dual-use biological research questions with fewer refusals. Although it uses the exact same model weights as Astra without additional training, it demonstrates significantly higher succes"
   }
 ]
