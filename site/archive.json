@@ -29694,5 +29694,159 @@
     "title": "OpenAI Releases GPT-6 Rosalind for Biological Research | TLDR",
     "url": "https://tldr.tech/story/7f501cad-dba6-4063-b7c0-9c8b67632d53",
     "snippet": "OpenAI Releases GPT-6 Rosalind for Biological Research | TLDR\n\n# OpenAI Releases GPT-6 Rosalind for Biological Research\n\nOpenAI has released GPT-6 Rosalind, a specialized version of GPT-6 Astra tailored to handle dual-use biological research questions with fewer refusals. Although it uses the exact same model weights as Astra without additional training, it demonstrates significantly higher succes"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-11-02",
+    "headline": "Real estate agents pay $30 to $50 for one photo of a room with furniture that isn't there.",
+    "url": "archive/2026-11-02.html",
+    "posts": {
+      "linkedin": [
+        "Somebody is paying $30 to $50 for a photo of a room with fake furniture in it.\n\nThat's virtual staging. A listing needs about six photos, so we're talking a couple hundred bucks a house.\n\nHere's the part I like. The customer isn't the agent.\n\nIt's the photographer who already shoots 50 listings a month. Already has the trust. Already sends the invoice.\n\nKoerner put it as sell the one to sell the many. That's the whole play.\n\nOne caveat. He says each picture costs about a penny. The console in his own demo quoted 37 cents for the placeholder image. Still a great margin. Just not a penny.\n\nWould a photographer pay for this? I think a photographer would pay for this.\n\nBut it's really not about staging. It's the pattern. Find the person who already holds the relationships, then hand them something new to bill for.\n\nWho's that person in your town?",
+        "The most interesting line in Sequel's agent launch is the boring one.\n\nTheir agents can read and draft on their own. They can't send an email, invite anyone, change an event, or push a lead to the CRM until a person approves.\n\nThat's the whole trust model.\n\nMost small business owners aren't scared of AI being dumb. They're scared of it hitting send on something they didn't read.\n\nSo the agent does the grunt work. Checks the landing page 72 hours out. Flags the broken CRM sync. Drafts a follow-up that opens with the question the attendee actually asked.\n\nThen a human says yes.\n\nThat's not a limitation. That's the feature. It's how you get a cautious owner to say \"okay, turn it on.\"\n\nDo more with the same, not the same with less.\n\nWhat's one thing in your week you'd let AI draft but never send?",
+        "There's a new course launching tomorrow that sells one idea: paste a local business's website, get its own AI team, a dollar estimate, and a pitch email already written.\n\nI'm not telling you to buy it. It's $47 up front with upsells, and nobody can promise you clients.\n\nBut the idea underneath is right.\n\nShow up with the finished thing.\n\nMost pitches die because the owner has to imagine what you mean. \"We help practices harness AI\" goes straight in the trash. A mock-up with their name, their numbers and their missed calls does not.\n\nYour ideas aren't bad ideas. They're just not finished ideas.\n\nThe demo finishes the idea for the other person. That's what moves them.\n\nYou don't need a course for that. You need an hour and their website.\n\nWhat's the last pitch you made before showing anything real?"
+      ],
+      "threads": [
+        "Three new models dropped in one news cycle. LongCat-2.5. Gemini 4 Carbon. DeepSeek's Super-Agent.\n\nAll of them are posting benchmark charts.\n\nNone of them will change what you ship on Tuesday.\n\nThe plumber down the road doesn't need a leaderboard. He needs his missed calls handled.\n\nI'll read the charts after somebody I trust has actually used the thing for a week.",
+        "Here's something I wish every AI tool did.\n\nHiggsfield's API shows you what a picture will cost before it makes the picture. A receipt before the purchase.\n\nIn Koerner's demo it quoted 37 cents for one image.\n\nNot a penny. Not \"it depends.\" Just a number.\n\nIf you're selling AI work to a small business, that's the move. Tell them the price first. They'll trust you for it.",
+        "Anthropic just opened a paid residency for professors, founders and staff engineers. Machine learning background not required.\n\nTheir own post says a lot of today's senior researchers started as physicists, neuroscientists and software engineers.\n\nNobody started as the expert. Somebody just decided to go learn the field while working in it.\n\nWe're all just figuring this out as we go."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-11-02",
+    "source": "The Koerner Office",
+    "title": "I Asked AI to Build Me a Money Making App. It Did.",
+    "url": "https://www.youtube.com/watch?v=6Ine_Rz-TnI",
+    "video_id": "6Ine_Rz-TnI"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-02",
+    "topic": "model_releases",
+    "title": "Introducing LongCat-2.5",
+    "url": "https://longcat.ai/blog/longcat-2.5/",
+    "snippet": "Introducing LongCat-2.5\n\n# LongCat- 2.5 Native Multimodality for Agentic Tasks\n\n2026-11-1\n\nWe introduce LongCat-2.5, a native multimodal model for long-horizon agentic tasks. With 1.6 trillion total parameters and approximately 48 billion activated per token, it builds on LongCat-2.0 with stronger native visual understanding and agentic coding.\n\nWe incorporate more long-horizon trajectories into l"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-02",
+    "topic": "model_releases",
+    "title": "\u7f8e\u56e2\u53d1\u5e03LongCat-2.5\u5927\u6a21\u578b\uff0c\u201c\u56fd\u82af\u56fd\u6a21\u201d\u5b9e\u73b0\u65b0\u7a81\u7834",
+    "url": "https://www.meituan.com/news/NN261102280001343",
+    "snippet": "\u7f8e\u56e2\u53d1\u5e03LongCat-2.5\u5927\u6a21\u578b\uff0c\u201c\u56fd\u6a21\u56fd\u82af\u201d\u5b9e\u73b0\u65b0\u7a81\u7834\n\n\u7f8e\u56e2\u53d1\u5e03LongCat-2.5\u5927\u6a21\u578b\uff0c\u201c\u56fd\u6a21\u56fd\u82af\u201d\u5b9e\u73b0\u65b0\u7a81\u7834\n\nhttps://img.meituan.net/smartvenus/3fbd39b4a272c11aa24455684cb78adc1719594.png@100w\n\n\u539f\u751f\u591a\u6a21\u6001\u6a21\u578b\uff0c\u4e3a\u667a\u80fd\u4f53\u4efb\u52a1\u800c\u751f\u3002\n\n \u7f8e\u56e2\u53d1\u5e03LongCat-2.5\u5927\u6a21\u578b\uff0c\u201c\u56fd\u6a21\u56fd\u82af\u201d\u5b9e\u73b0\u65b0\u7a81\u7834\n\n\u79d1\u6280\u521b\u65b0 2026-11-02\u6765\u6e90\uff1a\u7ecf\u6d4e\u89c2\u5bdf\u62a5\n\n11\u67082\u65e5\uff0c\u7f8e\u56e2\u53d1\u5e03\u65b0\u4e00\u4ee3\u5927\u6a21\u578bLongCat-2.5\uff0c\u8fd9\u662f\u4e00\u6b3e\u9762\u5411\u957f\u7a0b\u667a\u80fd\u4f53\u4efb\u52a1\u7684\u539f\u751f\u591a\u6a21\u6001\u6a21\u578b\uff0c\u603b\u53c2\u65701.6\u4e07\u4ebf\uff0c\u8bad\u7ec3\u5168\u7a0b\u7531\u56fd\u4ea7\u7b97\u529b\u5b8c\u6210\u3002\n\n\u4eca\u5e746\u6708\uff0c\u7f8e\u56e2\u53d1\u5e03LongCat-2.0\uff0c\u9996\u6b21\u5728\u56fd\u4ea7\u7b97\u529b\u4e0a\u5b8c\u6210\u4e07\u4ebf\u53c2\u6570\u6a21\u578b\u7684\u5168\u6d41\u7a0b\u8bad\u7ec3\u4e0e\u63a8\u7406\u3002\u5728LongCat-2.0\u57fa\u7840\u4e0a\uff0c\u65b0\u6a21\u578b\u8fdb\u4e00\u6b65\u5f3a\u5316\u539f\u751f\u89c6\u89c9\u7406\u89e3\u4e0e\u667a\u80fd\u4f53\u7f16\u7a0b\u80fd\u529b\uff0c\u5e76\u4f18\u5316\u56fd\u4ea7\u7b97\u529b\u4e0a\u7684\u957f\u4e0a\u4e0b\u6587\u8bad\u7ec3"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-02",
+    "topic": "model_releases",
+    "title": "Google Announces Its New Frontier Model 'Gemini 4 Carbon' Focused on Cybersecurity | AI in Education, Industry, and Government",
+    "url": "https://iblnews.org/story/google-announces-its-new-frontier-model-gemini-4-carbon-focused-on-cybersecurity",
+    "snippet": "# Google Announces Its New Frontier Model 'Gemini 4 Carbon' Focused on Cybersecurity\n\nNovember 2, 2026\n\nIBL News | New York\n\nGoogle announced last week its new frontier model, Gemini 4 Carbon, calling it \u201cour strongest model with state-of-the-art cybersecurity and long-horizon capabilities.\u201d\n\nGemini 4 Carbon will launch at the same introductory price as Argon at $2 per million input tokens and $10"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-02",
+    "topic": "product_releases",
+    "title": "Muse AI Agent Launches in Singapore with Connectors for Grab, Shopee, Singapore Airlines and More - Alvinology",
+    "url": "https://alvinology.com/2026/11/02/muse-ai-agent-launches-in-singapore-with-connectors-for-grab-shopee-singapore-airlines-and-more/",
+    "snippet": "# Muse AI Agent Launches in Singapore with Connectors for Grab, Shopee, Singapore Airlines and More\n\nby Irone Kim\n\nNovember 2, 2026\n\nMuse, a personal AI agent designed to help users manage everyday tasks, is now available in Singapore on iOS, Android and its website, muse.ai. The service connects with selected apps and platforms to assist with tasks such as managing emails, coordinating schedules,"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-02",
+    "topic": "product_releases",
+    "title": "Krafton launches Kiff AI chat app with Fifty Fifty character",
+    "url": "https://www.koreajoongangdaily.com/business/krafton-launches-kiff-ai-chat-app-with-fifty-fifty-character/12950808",
+    "snippet": "Krafton launches Kiff AI chat app with Fifty Fifty character\n\n# Krafton launches Kiff AI chat app with Fifty Fifty character \n\n Krafton has launched Kiff, an AI character chat service featuring Fifty Fifty's official character Wenny, with plans to add more artists and markets. \n\n \n\n CHO YONG-JUN CHO YONG-JUN NEWS REPORTER \n\n Published November 2, 2026 - 5:35 p.m. \n\nWenny, the AI character girl gro"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-02",
+    "topic": "product_releases",
+    "title": "DeepSeek launches Super-Agent AI to challenge Anthropic's Claude Code - India Today",
+    "url": "https://www.indiatoday.in/technology/news/story/deepseek-launches-super-agent-ai-to-challenge-anthropics-claude-code-3030283-2026-11-02",
+    "snippet": "DeepSeek launches Super-Agent AI to challenge Anthropic's Claude Code - India Today\n\n# DeepSeek launches Super-Agent AI to challenge Anthropic's Claude Code\n\n## Anthropic may have set the standard with Claude Code, but DeepSeek's proactive new agent shows the race to build the ultimate digital software engineer has only just begun.\n\nDeepSeek launched Super-Agent, a AI prototype that monitors devel"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-02",
+    "topic": "product_releases",
+    "title": "Glyphh AI Launches Ada, a Classifier That Reads Plain English Without a Transformer",
+    "url": "https://martechseries.com/predictive-ai/ai-platforms-machine-learning/glyphh-ai-launches-ada-a-classifier-that-reads-plain-english-without-a-transformer/",
+    "snippet": "Glyphh AI Launches Ada, a Classifier That Reads Plain English Without a Transformer\n\n# Glyphh AI Launches Ada, a Classifier That Reads Plain English Without a Transformer\n\nAuthor: MTS Staff Writer\n\nNovember 2, 2026\n\n#### Ada reads plain English through its own lexicon, learns from the decisions a business has already made, and shows its work, in milliseconds. Free in beta.\n\nGlyphh AI today release"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-02",
+    "topic": "product_releases",
+    "title": "Meituan launches LongCat-2.5 multimodal AI model for extended coding tasks \u00b7 TechNode",
+    "url": "https://technode.com/2026/11/02/meituan-launches-longcat-2-5-multimodal-ai-model-for-extended-coding-tasks/",
+    "snippet": "Meituan launches LongCat-2.5 multimodal AI model for extended coding tasks \u00b7 TechNode\n\n# Meituan launches LongCat-2.5 multimodal AI model for extended coding tasks \n\n by TechNode Feed Nov 2, 2026 \n\nMeituan released LongCat-2.5 on November 2, adding stronger visual understanding and coding capabilities to its AI model lineup. The model has 1.6 trillion total parameters, with approximately 48 billio"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-02",
+    "topic": "ai_agents",
+    "title": "Jedify launches Data Agents for autonomous AI analysts | Lazyfounder",
+    "url": "https://lazyfounder.in/news/jedify-launches-data-agents-plain-language-ai-analysis",
+    "snippet": "# Jedify launches Data Agents for autonomous AI analysts\n\nJedify Inc. has launched Data Agents, a product that enables business teams to create autonomous AI analysts using plain language. The tool leverages a context graph to integrate structured data and documents, aiming to simplify analytics workflows and reduce the token costs associated with AI queries.\n\n...\n\nPublished Nov 1, 2026\u00b7 3 min rea"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-02",
+    "topic": "ai_agents",
+    "title": "Introducing Sequel Agents: Put Your Webinars to Work | Sequel",
+    "url": "https://sequel.io/blog/introducing-sequel-agents",
+    "snippet": "Introducing Sequel Agents: Put Your Webinars to Work | Sequel\n\nIntroducing Sequel Agents: Put your webinars to work across go-to-market\n\nKathleen Booth\u2022 November 2, 2026\u2022 6 min read\n\nSequel Agents are now generally available.\n\nMost marketing teams run their video programs across four or more tools. One hosts the live event, another hosts the replay, another cuts the clips, and the CRM is supposed "
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-02",
+    "topic": "ai_small_business",
+    "title": "Ideanation\u2019s agentic AI to lend SMEs helping hand\u00a0 | The Star",
+    "url": "https://www.thestar.com.my/business/business-news/2026/11/02/ideanations-agentic-ai-to-lend-smes-helping-hand",
+    "snippet": "PETALING JAYA: Ideanation Technologies Sdn Bhd is betting on agentic artificial intelligence (AI) to help businesses lower operating costs and improve productivity, as companies increasingly look towards automation to manage routine tasks.\n\nThe company, which launched its Agent Engine AI platform last week, believes the technology could be particularly useful for small and medium enterprises (SMEs"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-02",
+    "topic": "ai_small_business",
+    "title": "ChatGPT\u30fbClaude\u30fbGemini \u3092\u3072\u3068\u3064\u306e\u753b\u9762\u3067\u3001\u67081,500\u5186\u304b\u3089\u3000\u4e2d\u5c0f\u4f01\u696d\u5411\u3051AI\u30ef\u30fc\u30af\u30b9\u30da\u30fc\u30b9\u300cAITUKAO\uff08\u30a8\u30fc\u30a2\u30a4\u30fb\u30c4\u30ab\u30aa\uff09\u300d\u3092\u63d0\u4f9b\u958b\u59cb | \u682a\u5f0f\u4f1a\u793eTUKURO\u306e\u30d7\u30ec\u30b9\u30ea\u30ea\u30fc\u30b9",
+    "url": "https://prtimes.jp/main/html/rd/p/000000010.000161584.html",
+    "snippet": "## \u4f9d\u983c\u306e\u5185\u5bb9\u306b\u5408\u308f\u305b\u3066 AI \u3092\u81ea\u52d5\u3067\u9078\u3076\u300c\u304a\u307e\u304b\u305b\u300d\u3001\u90e8\u7f72\u3054\u3068\u306e\u4ed5\u4e8b\u306e\u30a8\u30fc\u30b8\u30a7\u30f3\u30c8\u3001\u6bce\u671d\u306e\u696d\u754c\u30cb\u30e5\u30fc\u30b9\u307e\u3067\u3002\n\n...\n\n\u682a\u5f0f\u4f1a\u793eTUKURO\uff08\u672c\u793e\uff1a\u6771\u4eac\u90fd\u54c1\u5ddd\u533a\u3001\u4ee3\u8868\u53d6\u7de0\u5f79\uff1a\u85e4\u4e95\u4fca\u7950\uff09\u306f\u30012026\u5e7410\u670825\u65e5\u3001ChatGPT\u30fbClaude\u30fbGemini \u306e3\u793e\u306e AI \u3092\u3001\u3072\u3068\u3064\u306e\u753b\u9762\u3068\u3072\u3068\u3064\u306e\u6599\u91d1\u3067\u4f7f\u3048\u308b\u4e2d\u5c0f\u4f01\u696d\u5411\u3051\u306e AI \u30ef\u30fc\u30af\u30b9\u30da\u30fc\u30b9\u300cAITUKAO\uff08\u30a8\u30fc\u30a2\u30a4\u30fb\u30c4\u30ab\u30aa\uff09\u300d\u306e\u63d0\u4f9b\u3092\u958b\u59cb\u3057\u307e\u3057\u305f\u3002\u4f9d\u983c\u306e\u5185\u5bb9\u306b\u5408\u308f\u305b\u3066 AI \u3068\u30e2\u30fc\u30c9\u3092\u81ea\u52d5\u3067\u9078\u3076\u300c\u304a\u307e\u304b\u305b\u300d\u3092\u4e2d\u5fc3\u306b\u3001\u8b70\u4e8b\u9332\u30fb\u6c42\u4eba\u7968\u30fb\u5e83\u544a\u30ec\u30dd\u30fc\u30c8\u306e\u5206\u6790\u306a\u3069\u90e8\u7f72\u3054\u3068\u306e\u4ed5\u4e8b\u3092\u3059\u3050\u59cb\u3081\u3089\u308c\u308b\u5f62\u306b\u3057\u3066\u3044\u307e\u3059\u3002\u6599\u91d1\u306f\u30011\u540d\u3067\u4f7f\u3046\u300c\u30df\u30cb\u30de\u30e0\u300d\u304c\u67081,500\u5186\uff08\u7a0e\u8fbc\uff09\u3001\u30c1\u30fc\u30e0\u3067\u4f7f\u3046\u300cTeam\u300d\u304c1\u5e2d \u67082,980\u5186\uff08\u7a0e\u8fbc\uff09\u3067\u3001\u30ab\u30fc\u30c9\u306e\u767b\u9332\u306a\u3057\u3067\u8a66\u305b\u308b\u7121\u6599\u30d7\u30e9\u30f3\u3082\u3042\u308a\u307e\u3059\u3002\n\n...\n\nAITUKAO \u306f\u3001\u300c\u3069\u306e AI \u3092\u9078\u3076\u304b\u300d\u3068\u300c\u4f1a\u793e\u3068\u3057\u3066"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-02",
+    "topic": "ai_small_business",
+    "title": "AI Agency Engine Review: Is It Really Worth It in 2026?",
+    "url": "https://digitalpromoreviews.beehiiv.com/p/ai-agency-engine-review",
+    "snippet": "That is the idea behind AI Agency Engine by Sean Donahoe. You copy a local business\u2019s website address and paste it into a free app. Minutes later that business has its own AI team, an estimate of what it is worth in dollars, and a pitch email already written. You hit send.\n\nI went through the launch material, the demo flow,\n\n...\n\nQuick verdict: AI Agency Engine is a strong fit for beginners, freel"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-02",
+    "topic": "ai_labs",
+    "title": "XREAL AURA\u304c\u521d\u306eAndroid XR\u30e1\u30ac\u30cd\u3068\u3057\u3066\u767a\u58f2",
+    "url": "https://blog.google/intl/ja-jp/products/devices-services/xrealaura/",
+    "snippet": "XREAL AURA\u304c\u521d\u306eAndroid XR\u30e1\u30ac\u30cd\u3068\u3057\u3066\u767a\u58f2\n\n# XREAL AURA\uff1a\u52d5\u753b\u304b\u3089\u3001\u30b2\u30fc\u30e0\u3001\u4ed5\u4e8b\u307e\u3067\u3001\u3069\u3053\u3067\u3082\u697d\u3057\u3081\u308b\u6709\u7dda XR \u30b0\u30e9\u30b9\n\n2026\u5e74 11\u6708 2\u65e5\n\n Android XR \u3092\u642d\u8f09\u3057\u305f\u521d\u306e\u6709\u7dda XR \u30b0\u30e9\u30b9\u304c\u3001\u304a\u6c17\u306b\u5165\u308a\u306e\u30a2\u30d7\u30ea\u3084\u52d5\u753b\u30b3\u30f3\u30c6\u30f3\u30c4\u3001\u305d\u3057\u3066 Gemini \u306b\u3088\u308b\u30b5\u30dd\u30fc\u30c8\u3092\u3042\u3089\u3086\u308b\u5834\u6240\u3078\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002\u65e5\u672c\u3067\u306f\u672c\u65e5 11 \u6708 2 \u65e5\u3088\u308a\u4e88\u7d04\u6ce8\u6587\u306e\u53d7\u4ed8\u3092\u958b\u59cb\u3057\u307e\u3059\u3002 \n\nShahram Izadi\n\nVP & GM, XR\n\n \n\nGoogle \u306f XREAL \u3068\u5171\u540c\u3067\u3001Android XR \u3092\u642d\u8f09\u3057\u305f\u521d\u306e\u6709\u7dda XR \u30b0\u30e9\u30b9 XREAL AURA \u3092\u767a\u8868\u3057\u307e\u3057\u305f\u3002 1 \n\nAURA \u306f\u3001Android XR \u306e\u65b0\u3057\u3044\u697d\u3057\u307f\u65b9\u3092\u63d0\u6848\u3057\u307e\u3059\u3002\u900f\u660e\u306a\u30ec\u30f3\u30ba\u3092\u63a1\u7528\u3057\u3066\u3044\u308b\u305f\u3081\u3001\u3054\u81ea\u8eab\u306e\u76ee\u3067\u5b9f\u969b\u306e\u73fe\u5b9f\u4e16\u754c\u3092\u81ea\u7136\u306b\u898b\u6e21\u3057\u306a\u304c\u3089\u3001\u8996\u754c\u306e\u4e2d\u306b\u7a7a\u9593\u30b3\u30f3\u30c6\u30f3\u30c4\u3092\u91cd\u306d\u3066"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-02",
+    "topic": "ai_labs",
+    "title": "Anthropic Residency: applications open for established ...",
+    "url": "https://alignment.anthropic.com/2026/anthropic-residency/",
+    "snippet": "Anthropic Residency: applications open for established technical leaders\n\n# Anthropic Residency: applications open for established technical leaders\n\nToday we are opening applications for the Anthropic Residency, our paid, fixed-term research program with placements lasting between six weeks and six months.\n\nWe are looking for people who have led ambitious work in a variety of technical fields and"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-02",
+    "topic": "ai_labs",
+    "title": "Google AI agent FlowAgent fixes failing tests across the\u2026 | TLDR",
+    "url": "https://tldr.tech/story/0324bf55-3ffd-4a22-ae23-4617e7ee0094",
+    "snippet": "Google AI agent FlowAgent fixes failing tests across the\u2026 | TLDR\n\n# Google AI agent FlowAgent fixes failing tests across the company\n\nGoogle researchers developed FlowAgent, an AI agent designed to automatically catch and fix failing tests across the company's continuous integration pipelines. Experts judged 67.18 percent of its fixes correct on real failures, and developers successfully applied o"
   }
 ]
