@@ -29848,5 +29848,231 @@
     "title": "Google AI agent FlowAgent fixes failing tests across the\u2026 | TLDR",
     "url": "https://tldr.tech/story/0324bf55-3ffd-4a22-ae23-4617e7ee0094",
     "snippet": "Google AI agent FlowAgent fixes failing tests across the\u2026 | TLDR\n\n# Google AI agent FlowAgent fixes failing tests across the company\n\nGoogle researchers developed FlowAgent, an AI agent designed to automatically catch and fix failing tests across the company's continuous integration pipelines. Experts judged 67.18 percent of its fixes correct on real failures, and developers successfully applied o"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-11-03",
+    "headline": "Google's Gemini 4 Carbon is now the top model on Artificial Analysis's Intelligence Index V5. It beats Claude Opus 5.5 by one point and GPT-6 Astra by two.",
+    "url": "archive/2026-11-03.html",
+    "posts": {
+      "linkedin": [
+        "A 23-year-old college student is beating most agencies on one thing. Speed.\n\nJames Larson walks into a CPA firm and asks for 15 minutes. He records the conversation. An automation hands the transcript to an AI, which drops it into a report template.\n\nBy the time he's done talking, the report is in the owner's inbox.\n\nThat matters because of what usually happens next. You go away, you do the research, you schedule a second call, and the deal cools off in the gap.\n\nHe deleted the gap.\n\nThe owner sees the dollar amount next to each opportunity while he's still standing there. No follow-up needed to prove it.\n\nIt's a free offer, but it's also a weight removal product. Nobody has to wait for anything.\n\nWould someone pay for that? I think someone would.\n\nWhere's the slowest gap in your own process between \"yes\" and \"here it is\"?",
+        "Google's new model is number one on the leaderboard and you can't use it.\n\nGemini 4 Carbon beats Claude Opus 5.5 by a single point. It's also in pre-release testing with the U.S. government and a small group of cyber defenders. The rest of us wait.\n\nMeanwhile, a grocery store owner in Iowa photographs his wholesaler's catalog pages and sends them to an AI agent. His weekly ad used to take a couple of hours. Now it takes about 15 minutes.\n\nHe's not using the number one model. He's using whatever shipped to him.\n\nThat's the thing about this whole race. The benchmark moves one point and the headlines light up. The owner's Thursday gets easier either way.\n\nI'm not saying skip the leaderboard. I'm saying notice which one of these two changed someone's week.\n\nWould you rather have the best model in a locked room, or a good one that already handles your ad?",
+        "Greg Isenberg said something on his podcast that stuck with me. The price of software is trending toward zero. You give the software away and upsell agents and human intelligence on top.\n\nThe guest, Nick from Orgo, described what that looks like. Take a personal agent platform. Niche it down to one industry, like insurance or dental offices. Pre-build the agents. Sell it for $25,000 upfront and around $3,000 a month to keep it running. Those are his numbers, so take them as his.\n\nThe interesting part isn't the price. It's what the business is actually paying for.\n\nNot the app. A generic app is easy to copy.\n\nThey're paying for something built around their taste and how their place actually runs, with a person who picks up when it breaks.\n\nDo more with the same, not the same with less.\n\nIf the app is free, what's the thing a business still pays you to be around for?"
+      ],
+      "threads": [
+        "Meta's small business agent promises that nothing publishes, sends, or spends without your approval.\n\nBoth owners in the story say they still review and adjust its work.\n\nThat's it. That's the whole trust model.\n\nThe agent drafts. You decide. The hours come back because you stopped doing the typing, not because you stopped being the owner.\n\nWould someone pay $20 a month for that? Apparently a lot of people would.",
+        "People keep treating intelligence like gold in a vault. A scarce thing you hoard and guard.\n\nThere's a piece going around that says this is the same mistake as old mercantilism, when everyone thought wealth was a fixed pile and the poor couldn't be trusted with freedom.\n\nThen somebody figured out wealth could be created, and ordinary people turned out to be the demand.\n\nI don't know if it maps perfectly. But I keep wondering what we'll find out about everyone else's brains.",
+        "DeepSeek's agent app lets you ask for a tool and it builds the plugin right there.\n\nNo waiting for someone to ship the feature. You describe the thing you wish existed, and it shows up inside the app.\n\nThat's a strange shift. We used to adapt ourselves to the software.\n\nBe what you need. Now the software can be, too."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-11-03",
+    "source": "The Koerner Office",
+    "title": "He\u2019s 60, Not a Tech Guy, and Makes $30K/Month With AI [NO ADS + EARLY ACCESS]",
+    "url": "https://www.youtube.com/watch?v=IVXrdt1Cho0",
+    "video_id": "IVXrdt1Cho0"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-11-03",
+    "source": "Startup Ideas Podcast",
+    "title": "The $1M+ Solo Grok Bot Business (Full Course)",
+    "url": "https://www.youtube.com/watch?v=67BmkptgTms",
+    "video_id": "67BmkptgTms"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-11-03",
+    "source": "Corey Ganim",
+    "title": "Making $15k/month from AI consulting as a college student (full breakdown)",
+    "url": "https://www.youtube.com/watch?v=JhUDD9i1X3o",
+    "video_id": "JhUDD9i1X3o"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-11-03",
+    "source": "AI Daily Brief",
+    "title": "AI Won\u2019t Make Our Minds Useless According to 400 Years of History",
+    "url": "https://www.youtube.com/watch?v=9VHxHcU0uVY",
+    "video_id": "9VHxHcU0uVY"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-03",
+    "topic": "model_releases",
+    "title": "Introducing Endeavor 1.1",
+    "url": "https://flower.ai/blog/2026-11-03-introducing-endeavor-1.1",
+    "snippet": "Introducing Endeavor 1.1\n\nPublished 3 November 2026\n\n# Introducing Endeavor 1.1\n\nBy Lorenzo Sani, Chong Shen Ng, Mohammad Naseri, Dimitris Stripelis, Daniel J. Beutel, Nicholas Lane\n\nLorenzo Sani Research Scientist at Flower Labs\n\nChong Shen Ng Principal Engineer at Flower Labs\n\nMohammad Naseri Research Scientist at Flower Labs\n\nDimitris Stripelis Machine Learning Engineer at Flower Labs\n\nDaniel J"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-03",
+    "topic": "model_releases",
+    "title": "Google reveals new Gemini 4 Carbon AI model, narrowly beating Claude Opus 5.5 \u2014 frontier AI model is also the least likely to hallucinate, benchmarks claim | Tom's Hardware",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-reveals-new-gemini-4-carbon-ai-model-narrowly-beating-claude-opus-5-5-frontier-ai-model-is-also-the-least-likely-to-hallucinate-benchmarks-claim",
+    "snippet": "Google reveals new Gemini 4 Carbon AI model, narrowly beating Claude Opus 5.5 \u2014 frontier AI model is also the least likely to hallucinate, benchmarks claim | Tom's Hardware\n\n# Google reveals new Gemini 4 Carbon AI model, narrowly beating Claude Opus 5.5 \u2014 frontier AI model is also the least likely to hallucinate, benchmarks claim\n\n By Jon Martindale \n\n Published 3 November 2026 \n\nTests now push mo"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-03",
+    "topic": "model_releases",
+    "title": "Zhipu AI Launches New Foundation Model for Cybersecurity and Autonomous Agents - Beijing Post",
+    "url": "https://beijingpost.com/zhipu-ai-launches-new-foundation-model-for-cybersecurity-and-autonomous-agents",
+    "snippet": "Zhipu AI Launches New Foundation Model for Cybersecurity and Autonomous Agents - Beijing Post\n\nTuesday, Nov 03, 2026 Beijing Post \n\n# Zhipu AI Launches New Foundation Model for Cybersecurity and Autonomous Agents\n\nChinese artificial intelligence developer Zhipu has introduced a new foundation model designed for cybersecurity applications and autonomous digital agents, as Beijing pushes for more st"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-03",
+    "topic": "model_releases",
+    "title": "Deep Principle Releases Hydrogen-1.0: A 753B Open-Weight Model for Scientific Discovery - MarkTechPost",
+    "url": "https://www.marktechpost.com/2026/11/02/deep-principle-hydrogen-1-0-open-weight-scientific-model/",
+    "snippet": "Deep Principle Releases Hydrogen-1.0: A 753B Open-Weight Model for Scientific Discovery - MarkTechPost\n\n# Deep Principle Releases Hydrogen-1.0: A 753B Open-Weight Model for Scientific Discovery\n\nBy\n\nAsif Razzaq\n\nNovember 2, 2026\n\nDeep Principle has released Hydrogen-1.0, an open-weight scientific model for chemistry, materials science and life sciences. It is built by post-training Z.ai\u2019s GLM-5.3 "
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-03",
+    "topic": "product_releases",
+    "title": "Sycamore Launches Platform to Build Self-Improving Enterprise-Grade Agentic Software",
+    "url": "https://www.businesswire.com/news/home/20261103578845/en/Sycamore-Launches-Platform-to-Build-Self-Improving-Enterprise-Grade-Agentic-Software",
+    "snippet": "Sycamore Launches Platform to Build Self-Improving Enterprise-Grade Agentic Software\n\n Sycamore Launches Platform to Build Self-Improving Enterprise-Grade Agentic Software \n\nNew platform enables employees to turn their domain expertise into production-ready self-improving AI agents and applications, transforming how enterprises build, run, and evolve software.\n\nPALO ALTO, Calif.--(BUSINESS WIRE)--"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-03",
+    "topic": "product_releases",
+    "title": "Deckard: Open Source Scanner for Rogue AI Agents | Arthur",
+    "url": "https://www.arthur.ai/blog/arthur-deckard-open-source-rogue-ai-agent-scanner",
+    "snippet": "Deckard: Open Source Scanner for Rogue AI Agents | Arthur\n\n# Deckard: Open Source Scanner for Rogue AI Agents\n\nNovember 3, 2026\n\nArthur Launches Deckard, the open source scanner that hunts rogue AI agents\n\nToday Arthur is releasing Deckard, the industry\u2019s first open source scanner to detect rogue AI agents. Deckard runs routine scans across your endpoints, cloud providers, and managed agent platfo"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-03",
+    "topic": "product_releases",
+    "title": "Google Dreambeans App Launched in India With AI-Powered Personalised Daily Stories | Technology News",
+    "url": "https://www.gadgets360.com/apps/news/google-dreambeans-app-india-launch-ai-powered-personalised-stories-features-12274407",
+    "snippet": "Google Dreambeans App Launched in India With AI-Powered Personalised Daily Stories | Technology News\n\n# Google Dreambeans App Launched in India With AI-Powered Personalised Daily Stories\n\nIndia has become the first international market to receive access to Dreambeans, according to Google.\n\n Written by Shaurya Tomer, Edited by Ketan Pratap | Updated: 3 November 2026 09:08 IST \n\n \n\nPhoto Credit: Goo"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-03",
+    "topic": "product_releases",
+    "title": "DeepSeek Adds Chat-Based Plugin Creation to Harness With Creator Mode",
+    "url": "https://www.tao.media/deepseek-adds-chat-based-plugin-creation-to-harness-with-creator-mode/",
+    "snippet": "DeepSeek Adds Chat-Based Plugin Creation to Harness With Creator Mode\n\n# DeepSeek Adds Chat-Based Plugin Creation to Harness With Creator Mode\n\nUsers can build custom tools and interfaces inside the open-source agent app by describing what they want.\n\n , and Bart Hillerich \n\n November 2, 2026 . 7:34 PM \n\n \n\n## Table of Contents\n\nDeepSeek has introduced Creator Mode for DeepSeek Harness, letting us"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-03",
+    "topic": "product_releases",
+    "title": "Phrasly Launches a Free AI Image Detector as Fake Profile",
+    "url": "https://www.globenewswire.com/news-release/2026/11/03/3393935/0/en/phrasly-launches-a-free-ai-image-detector-as-fake-profile-photos-listings-and-news-images-become-the-norm.html",
+    "snippet": "Phrasly Launches a Free AI Image Detector as Fake Profile\n\n## Check any photo for AI and see exactly which part was generated. Free, no account, and it works long after the watermark is gone.\n\n November 03, 2026 03:18 ET | Source: Phrasly AI \n\nDOVER, Del., Nov. 03, 2026 (GLOBE NEWSWIRE) -- Phrasly, an AI writing platform used by more than 5 million people, has released a free AI image detector tha"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-03",
+    "topic": "ai_agents",
+    "title": "Factory releases Droid 1.0 with programmatic tool calling",
+    "url": "https://lapaasvoice.com/factory-releases-droid-1-0-a-model-independent-ai-coding-agent-built-for-complex-development-tasks/",
+    "snippet": "Factory releases Droid 1.0 with programmatic tool calling\n\n# Factory Releases Droid 1.0, a Model-Independent AI Coding Agent Built for Complex Development Tasks\n\nFactory has released Droid 1.0, a major upgrade to its AI coding-agent platform designed to make autonomous software development faster, more efficient and less dependent on\u2026\n\n By Rohan Rawat \u2022 November 3, 2026 \u2022 8 min read \n\nFactory has "
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-03",
+    "topic": "ai_agents",
+    "title": "Abacum Launches Abra, a Unified AI Agent for Business Planning Across the Enterprise",
+    "url": "https://www.prnewswire.com/news-releases/abacum-launches-abra-a-unified-ai-agent-for-business-planning-across-the-enterprise-302925906.html",
+    "snippet": "Abacum Launches Abra, a Unified AI Agent for Business Planning Across the Enterprise\n\n# Abacum Launches Abra, a Unified AI Agent for Business Planning Across the Enterprise\n\n Abacum \n\nNov 02, 2026, 08:30 ET\n\nAbra brings specialized AI agents into one experience, orchestrating experts across governed data, models, and context to turn every question into results. \n\nNEW YORK and BARCELONA, Spain, Nov"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-03",
+    "topic": "ai_agents",
+    "title": "Tripo AI Unveils Agentic Canvas to Make AI 3D More Accessible and Scalable",
+    "url": "https://www.prnewswire.com/news-releases/tripo-ai-unveils-agentic-canvas-to-make-ai-3d-more-accessible-and-scalable-302926715.html",
+    "snippet": "Tripo AI Unveils Agentic Canvas to Make AI 3D More Accessible and Scalable\n\n# Tripo AI Unveils Agentic Canvas to Make AI 3D More Accessible and Scalable\n\n Tripo AI \n\nNov 02, 2026, 12:08 ET\n\nThe AI agent generates visual, node-based workflows that users can inspect, edit, and reuse, making generative 3D more accessible and scalable.\n\nSAN FRANCISCO, Nov. 2, 2026 /PRNewswire/ -- Tripo AI has launched"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-03",
+    "topic": "ai_agents",
+    "title": "DeepSeek Wants Coding Agents to Stop Waiting for Instructions",
+    "url": "https://devops.com/deepseek-wants-coding-agents-to-stop-waiting-for-instructions",
+    "snippet": "# DeepSeek Wants Coding Agents to Stop Waiting for Instructions\n\nTom Smith November 2, 20264 min read\n\n...\n\nDeepSeek Wants Coding Agents to Stop Waiting for Instructions\n\n- X\n- LinkedIn\n- Facebook\n- Mastodon\n- Email\n- Reddit\n- WhatsApp\n- Telegram\n- Bluesky\n- Threads\n- Pinterest\n- Tumblr\n- Hacker News\n- Flipboard\n- Gmail\n- Print\n\nCopy link\n\n## Key Takeaways\n\n- Coding agents no longer need to wait f"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-03",
+    "topic": "ai_small_business",
+    "title": "Famulor wants to turn business calls into completed work",
+    "url": "https://www.moneymakers.com/articles/news/famulor-ai-phone-assistant-bek-service",
+    "snippet": "A business call can create more work than the conversation itself: someone may need to book an appointment, update a customer record or arrange a follow-up. Famulor, operated by Germany\u2019s BEK Service GmbH, offers AI agents designed to connect those steps.\n\n...\n\n## From answering to action\n\nFamulor provides agents for calls and messages, with tools for booking meetings and connecting conversations "
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-03",
+    "topic": "ai_small_business",
+    "title": "While the Public Fears AI, These Ohio and Iowa Business Owners Are Finding Relief, by Salena Zito | Creators Syndicate",
+    "url": "https://www.creators.com/read/salena-zito/11/26/while-the-public-fears-ai-these-ohio-and-iowa-business-owners-are-finding-relief",
+    "snippet": "The assistant is named Chase. Chase is not a person. It is Polk's version of Muse, the artificial intelligence agent that Meta, the parent company of Facebook and Instagram, released to consumers on Sept. 8 and expanded for small businesses on Sept. 29. Each owner gives the agent a name at setup. Polk chose \"Chase.\"\n\n...\n\nPolk and Mulholland are not arguing with those numbers. What they describe i"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-03",
+    "topic": "ai_small_business",
+    "title": "The Marketing Department Small Businesses Can Afford \u2014 Tech Square ATL",
+    "url": "https://www.techsquareatl.com/tech-square-news/2026/11/2/the-marketing-department-small-businesses-can-afford",
+    "snippet": "Most small business owners don\u2019t have a marketing team or a budget for one. What they do have is a phone.\n\nView fullsize\n\n \n\n Osmoti founders Rahul Mehta (L) and Om Patel (R) \n\nOm Patel and Rahul Mehta are betting that\u2019s enough. Their Atlanta-based startup, Osmoti, lets owners talk to an AI agent named OSMO the way they\u2019d talk to an employee: \u201claunch an ad for our new promo, post this video on all"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-03",
+    "topic": "ai_small_business",
+    "title": "Adobe: Multimodal AI Agents Move Beyond Chat to Take Action",
+    "url": "https://smallbiztrends.com/adobe-multimodal-ai-agents-move-beyond-chat-to-take-action/",
+    "snippet": "A customer\u2019s support request rarely arrives as a neat text prompt. It may include a phone recording, a screenshot of an error message, account records and a product manual. Adobe says a new generation of AI agents can combine those formats to understand a problem and take action\u2014an approach that could give small businesses more capable automation tools, but also introduce new data, security and ov"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-03",
+    "topic": "ai_small_business",
+    "title": "Jio Haptik Launches SOLO AI Platform for UAE Small Businesses \u2014 Business Bearings",
+    "url": "https://businessbearings.com/articles/jio-haptik-targets-two-million-uae-small-businesses-with-solo-launch",
+    "snippet": "Jio Haptik launched SOLO in the UAE at the Dubai AI Festival, aiming to reach two million solopreneurs and SMBs within two years with AI marketing and sales teammates.\n\n...\n\n- Jio Haptik launched SOLO in the UAE on 31 October 2026 at the Dubai AI Festival\n- Target: empower more than two million solopreneurs and small businesses within two years\n- SMEs account for approximately 95% of businesses in"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-03",
+    "topic": "ai_labs",
+    "title": "Google AI news: October 2026 updates",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+    "snippet": "Google AI news: October 2026 updates\n\n# The latest AI news we announced in October 2026\n\nNov 02, 2026\n\n Here\u2019s a recap of some of our biggest AI updates from October, led by Gemini 4 Argon and Carbon, alongside our new world model Genie 4. \n\nBlog Team\n\nFor more than 20 years, we\u2019ve invested in machine learning and AI research, tools, and infrastructure to build products that make everyday life bet"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-03",
+    "topic": "ai_labs",
+    "title": "Training activation classifiers for safety and alignment",
+    "url": "https://alignment.openai.com/training-activation-classifiers/",
+    "snippet": "Training activation classifiers for safety and alignment\n\n# Training activation classifiers for safety and alignment\n\nNov 2, 2026 \u00b7 Alex Makelov, Xiaojun Xu, Sundaram Ananthanarayanan, Ethan Mcdonald, Tom Dupre la Tour\n\nTL;DR\n\nWe train and deploy activation classifiers (aka probes) as an additional safety layer in our most capable models. Probes are efficient real-time monitors that use a model\u2019s "
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-03",
+    "topic": "ai_labs",
+    "title": "LifeVal | OpenAI",
+    "url": "https://openai.com/index/lifeval",
+    "snippet": "LifeVal | OpenAI\nNovember 2, 2026\n# LifeVal\nMeasuring AI progress on the tasks that matter in everyday life.\nOpenAI\u2019s mission is to ensure that artificial general intelligence benefits all of humanity. For the more than one billion people who currently use ChatGPT every week, we want to build AI that can help with the practical challenges of everyday life, like finding childcare, accessing governm"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-03",
+    "topic": "ai_labs",
+    "title": "Progress on provable inference for large language models \\ Anthropic",
+    "url": "https://www.anthropic.com/research/provable-inference",
+    "snippet": "Progress on provable inference for large language models \\ Anthropic\n\n# Progress on provable inference for large language models\n\n- Published\n\nNov 2, 2026\n- Team\n\nFrontier Red Team\n\nRoy Rinberg (Anthropic), Alex Allain (Anthropic); Alessandro Chiesa (EPFL, StarkWare), Miranda Christ (MIT, RESI), Rahul Dalal (Anthropic STEM Fellows Program, Succinct), Giacomo Fenzi (EPFL), Ben Mayer (Anthropic Fell"
   }
 ]
