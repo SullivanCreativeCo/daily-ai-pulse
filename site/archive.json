@@ -30094,5 +30094,247 @@
       "linkedin": [],
       "threads": []
     }
+  },
+  {
+    "kind": "digest",
+    "date": "2026-11-06",
+    "headline": "OpenAI shipped GPT-6 Cyber, and they rated it \"Critical\" on their own cybersecurity scale. Last version was \"High.\"",
+    "url": "archive/2026-11-06.html",
+    "posts": {
+      "linkedin": [
+        "A 60-year-old who calls himself \"not a tech guy\" says he's making $25 to 30K a month putting an AI helper on small business websites.\n\nThat's his claim on a Koerner Office episode, so take the number with a grain of salt.\n\nBut look at where it started. His phone repair shop.\n\nSame questions, all day. \"I have this model of phone, my screen's cracked. What's it cost, how fast, am I gonna lose my data?\"\n\nHe wrote those answers into an AI on his own site. A few hundred visits a month turned into about 130 AI conversations. Around 60 of those booked or left a number.\n\nHe wasn't hunting for a clever idea. He was tired of answering the same three questions.\n\nWhat are you already answering for yourself that someone else would find useful?\n\nYour ideas aren't bad ideas. They're just not finished ideas. Sometimes the unfinished part is just writing down what you say out loud every day.",
+        "Here's a number that stuck with me this week.\n\nA small business directory counted 159 AI tools. 52 of them, about a third, show no price at all.\n\nBook a demo. Get a quote. You know the drill.\n\nAnd the ones that do show a price have their own tricks. The middle monthly price was $38, but plenty of it is per user, and some of those numbers only apply if you pay a year up front.\n\nA $15 tool for a team of six is $90 a month. Nobody puts that on the big pricing banner.\n\nThis is a vendor counting their own listings, so it's a snapshot, not gospel.\n\nBut the move is simple. Before the demo ends, ask for the monthly cost for your team size, in writing.\n\nThe no hurts less when you're not emotionally invested. Ask the price before you fall in love with the demo.",
+        "Two launches this week looked totally different. Same lesson underneath.\n\nAnthropic shipped Personal Finance in Claude. It connects to your bank and answers money questions. Then they led with what it can't do. Read-only. Can't move your money. No ads.\n\nOpenAI shipped GPT-6 Cyber, a model that found 948 Linux exploits. And the number they pushed hardest was staying in scope. It avoided out-of-scope targets 99.93% of the time without a safety prompt.\n\nBoth companies treated the limits as part of the product.\n\nIf you're setting up an AI for a small business, that's the template. Start it read-only. Let it draft before it sends. Make it show a card and wait for a yes.\n\nTrust gets built by what the thing won't do.\n\nSo what's the one action you'd never want your AI to take without asking?"
+      ],
+      "threads": [
+        "Google's new video model makes clips up to 15 seconds for $0.07 a second at 720p.\n\nDo the math. That's about a dollar for a full ad spot.\n\nA year ago a local business needed a shoot day, an editor, and a few grand to get one decent video. Now the expensive part is knowing what to say in it.\n\nThe tool got cheap. The idea didn't.",
+        "Somebody just shipped a speech model that's 32MB and runs in your browser. No internet. No cloud.\n\nThey made a little typewriter game to show it off. You type, it talks.\n\nIt won't replace the big models. But think about a front desk assistant that never sends a customer's voice anywhere.\n\nSome small business owners will pay just for that.",
+        "61% of voters said they dislike candidates who support local data centers. Pew, October.\n\nNobody's voting against AI. They're voting against the building down the road and the power bill that comes with it.\n\nIf you talk to small town business owners about AI, start with what it does for their Tuesday. The big picture is somebody else's backyard."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-11-06",
+    "source": "The Koerner Office",
+    "title": "This Feels Like Getting In Early on Facebook Ads",
+    "url": "https://www.youtube.com/watch?v=63wuYegsz9o",
+    "video_id": "63wuYegsz9o"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-11-06",
+    "source": "The Koerner Office",
+    "title": "$18K/Month Making Local Contractors Look Legit Online [NO ADS + EARLY ACCESS]",
+    "url": "https://www.youtube.com/watch?v=yPQXnSfDI0c",
+    "video_id": "yPQXnSfDI0c"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-11-06",
+    "source": "The Koerner Office",
+    "title": "Forget Building Websites. Local Businesses Pay $4K/Month for This",
+    "url": "https://www.youtube.com/watch?v=a39d9a4CEGQ",
+    "video_id": "a39d9a4CEGQ"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-11-06",
+    "source": "Startup Ideas Podcast",
+    "title": "8 Businesses for the AI Age",
+    "url": "https://www.youtube.com/watch?v=b3tMAOFB71o",
+    "video_id": "b3tMAOFB71o"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-11-06",
+    "source": "Corey Ganim",
+    "title": "I investigated 8 GitHub repos that print money",
+    "url": "https://www.youtube.com/watch?v=eHljw6IG0sE",
+    "video_id": "eHljw6IG0sE"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-11-06",
+    "source": "AI Daily Brief",
+    "title": "How a Data Center Slowdown Benefits Big Tech",
+    "url": "https://www.youtube.com/watch?v=ssEWGHjKHTM",
+    "video_id": "ssEWGHjKHTM"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-11-06",
+    "source": "AI Daily Brief",
+    "title": "How the Midterm Results Change AI",
+    "url": "https://www.youtube.com/watch?v=rSzMJZEgYeU",
+    "video_id": "rSzMJZEgYeU"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-11-06",
+    "source": "AI Daily Brief",
+    "title": "AI Lurches Towards RSI",
+    "url": "https://www.youtube.com/watch?v=Es59icF3nZg",
+    "video_id": "Es59icF3nZg"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-06",
+    "topic": "model_releases",
+    "title": "Introducing Inkling 2 Small - Thinking Machines Lab",
+    "url": "https://thinkingmachines.ai/news/inkling-2-small/",
+    "snippet": "Introducing Inkling 2 Small - Thinking Machines Lab\n\n# Introducing Inkling 2 Small\n\nNov 5, 2026\n\nToday we are introducing our second model generation with Inkling 2 Small. It is a Mixture-of-Experts model with 594B total parameters, 17B active, and supports image inputs and variable effort.\n\nInkling 2 Small far surpasses our previous models\u2019 scores on the Artificial Analysis Intelligence Index wit"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-06",
+    "topic": "model_releases",
+    "title": "Baidu releases ERNIE 5.5 Flash Base with 280 billion parameters as an open-source foundation model",
+    "url": "https://the-decoder.com/baidu-releases-ernie-5-5-flash-base-with-280-billion-parameters-as-an-open-source-foundation-model/",
+    "snippet": "Baidu releases ERNIE 5.5 Flash Base with 280 billion parameters as an open-source foundation model\n\n# Baidu releases ERNIE 5.5 Flash Base with 280 billion parameters as an open-source foundation model\n\n \n\n Nov 5, 2026 \n\nBaidu's AI development is still alive, but most of the work is on you. The Chinese company has released ERNIE-5.5-Flash-Base, an open foundation model that ships deliberately witho"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-06",
+    "topic": "model_releases",
+    "title": "Tencent says its Hy4 joins \"top tier\" of open-source AI models",
+    "url": "https://kr-asia.com/tencent-says-its-hy4-joins-top-tier-of-open-source-ai-models",
+    "snippet": "# Tencent says its Hy4 joins \u201ctop tier\u201d of open-source AI models\n\nWritten by Nikkei Asia Published on 5 Nov 2026 3 mins read\n\nPhoto source: Shutterstock.\n\nThe Chinese tech giant said its latest model is competitive with releases from Anthropic and OpenAI. \n\nTencent announced its latest artificial intelligence large language model (LLM), Hy4, on November 4, claiming the LLM would \u201cbreak into the to"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-06",
+    "topic": "model_releases",
+    "title": "Chinese company Baidu unveils high-performance AI model 'ERNIE 5.5 Flash Base,' a foundational model with future enhancements in mind. - GIGAZINE",
+    "url": "https://gigazine.net/gsc_news/en/20261106-ernie-5-5-flash-base/",
+    "snippet": "Chinese company Baidu unveils high-performance AI model 'ERNIE 5.5 Flash Base,' a foundational model with future enhancements in mind. - GIGAZINE\n\nNov 06, 2026 17:12:00\n\n# Chinese company Baidu unveils high-performance AI model 'ERNIE 5.5 Flash Base,' a foundational model with future enhancements in mind.\n\n Baidu, a major Chinese technology company, has released its AI model ' ERNIE 5.5 Flash Base"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-06",
+    "topic": "model_releases",
+    "title": "Ant Ling Ling-3.2-Flash: 560B Multimodal MoE Explained",
+    "url": "https://i10x.ai/news/ant-ling-ling-3-2-flash-visual-reasoning",
+    "snippet": "# Ant Ling Ships Ling-3.2-Flash: 560B MoE for Visual Reasoning\n\nAnt Ling released Ling-3.2-flash on November 5: a native multimodal MoE with 560B total parameters, 25B active, 1M context, and demos aimed at visual reasoning, long-horizon multimodal agents and 3D interaction. Ant reports beating Claude Opus 5 (max) on three vendor evaluations and is offering free API access for two weeks. Here is w"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-06",
+    "topic": "product_releases",
+    "title": "Anthropic Introduces Claude Personal Finance as an Integrated AI Financial Management Tool | Technology News",
+    "url": "https://www.gadgets360.com/ai/news/claude-personal-finance-launch-anthropic-ai-financial-management-beta-release-12291842",
+    "snippet": "# Anthropic Introduces Claude Personal Finance as an Integrated AI Financial Management Tool\n\nClaude Personal Finance is currently rolling out in beta to Pro, Max, and Ultra subscribers.\n\n Written by Dhruv Raghav, Edited by Rohan Pal | Updated: 6 November 2026 13:29 IST \n\nPhoto Credit: Anthropic\n\nClaude Personal Finance can generate monthly spending charts\n\nHighlights\n\n- Claude Personal Finance is"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-06",
+    "topic": "product_releases",
+    "title": "GPT\u20116 Cyber: Advancing the frontier of aligned cybersecurity agents | OpenAI",
+    "url": "https://openai.com/index/introducing-gpt-6-cyber/",
+    "snippet": "GPT\u20116 Cyber: Advancing the frontier of aligned cybersecurity agents | OpenAI\n\nNovember 5, 2026\n\n# GPT\u20116 Cyber: Advancing the frontier of aligned cybersecurity agents\n\nA cybersecurity model trained to find and validate exploitable vulnerabilities, while staying within the scope that researchers set.\n\nWe\u2019re introducing GPT\u20116 Cyber, a major leap in security research: more capable at finding and fixin"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-06",
+    "topic": "product_releases",
+    "title": "AI Updates: Muse Gets Voice Mode, Claude Adds Personal Finance, Gemini Upgrades Video Generation Model",
+    "url": "https://www.etvbharat.com/en/technology/muse-voice-mode-muse-avatar-claude-personal-finance-gemini-omni-1-dot-2-flash-google-anthropic-meta-enn26110604197",
+    "snippet": "AI Updates: Muse Gets Voice Mode, Claude Adds Personal Finance, Gemini Upgrades Video Generation Model\n\n# AI Updates: Muse Gets Voice Mode, Claude Adds Personal Finance, Gemini Upgrades Video Generation Model\n\n## Meta's Muse adds voice and an avatar, Anthropic's Claude can help users analyse their personal finances, and Google's Gemini Omni makes longer videos.\n\nRepresentational Image (Image Credi"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-06",
+    "topic": "product_releases",
+    "title": "Underdog shows off a 32MB speech model in new demo | TechCrunch",
+    "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+    "snippet": "Underdog shows off a 32MB speech model in new demo | TechCrunch\n\nImage Credits: Underdog\n\n# Underdog shows off a 32MB speech model in new demo\n\n Ivan Mehta \n\n5:02 AM PST \u00b7 November 6, 2026\n\nAI companies across the world are racing to make bigger and better models, but the problem is all of them need massive amounts of processing power. On the other end, some researchers and startups are creating s"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-06",
+    "topic": "product_releases",
+    "title": "Nothing Plans December Shipments for Its First AI-Native Product",
+    "url": "https://www.tokenpost.com/news/technology/49619",
+    "snippet": "# Nothing Plans December Shipments for Its First AI-Native Product\n\nCEO Carl Pei called it a productivity tool but did not identify its form or give a specific shipping day.\n\nBy Simon Yoon\n\nPublished Nov 5, 2026, 6:07 PM EST\n\nA pendant, lapel pin and glasses surround an open blank notebook / TokenPost.ai\n\nNothing CEO Carl Pei said Nov. 4 the company plans December shipments for its first AI-native"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-06",
+    "topic": "ai_small_business",
+    "title": "What 159 AI tools for small business actually cost (we counted) - DEV Community",
+    "url": "https://dev.to/busyworkbots/what-159-ai-tools-for-small-business-actually-cost-we-counted-206j",
+    "snippet": "What 159 AI tools for small business actually cost (we counted) - DEV Community\nBusyWorkBots\nPosted on Nov 5 \u2022 Originally published at busyworkbots.com\n# What 159 AI tools for small business actually cost (we counted)\n\"How much does it cost?\" is the first thing most owners ask about an AI tool. It is also the hardest thing to find out.\nWe run a directory of AI tools and DIY bots for small business"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-06",
+    "topic": "ai_small_business",
+    "title": "Adobe Brings CX Enterprise Coworker to ChatGPT, Gemini and Copilot",
+    "url": "https://smallbiztrends.com/adobe-brings-cx-enterprise-coworker-to-chatgpt-gemini-and-copilot/",
+    "snippet": "Adobe is putting its customer-experience automation tools inside the AI platforms businesses already use\u2014a move that could help marketing teams reduce manual work, but may also raise new questions about cost, data access and oversight.\n\nThe company announced that Adobe CX Enterprise Coworker is now available through ChatGPT as a plugin, Claude, Databricks Genie, Gemini for business and Microsoft C"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-06",
+    "topic": "ai_small_business",
+    "title": "Smartsheet vsActual Shows Where AI Agents for Business Go Next | BotB2B News",
+    "url": "https://botb2b.ai/news/smartsheet-vsactual-ai-agents-for-business",
+    "snippet": "Smartsheet has launched vsActual, a standalone AI-powered platform announced at its Engage conference. It reads strategy documents and budgets, then tracks work across systems such as Jira, Workday, and Slack to flag when execution starts drifting away from the plan.\n\nThat matters even if you run a much smaller company. This is one of the clearest signs that ai agents for business are moving beyon"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-06",
+    "topic": "ai_small_business",
+    "title": "Filipino businesses deserve better systems\u2014Salig AI is making automation work for them |  BMPlus",
+    "url": "https://businessmirror.com.ph/2025/03/03/filipino-businesses-deserve-better-systems-salig-ai-is-making-automation-work-for-them/",
+    "snippet": "AI automation is transforming industries worldwide, making businesses more efficient, scalable, and competitive. While global businesses leverage technology to streamline\n\n...\n\nFrom invoicing to payments, scheduling, and client management, most business owners juggle multiple platforms just to keep operations running. Instead of focusing on growth, they get stuck handling repetitive administrative"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-06",
+    "topic": "ai_small_business",
+    "title": "What Is an AI Employee? The 2026 Guide for Small Businesses",
+    "url": "https://dev.to/autor_tech/what-is-an-ai-employee-the-2026-guide-for-small-businesses-2ba2",
+    "snippet": "An \"AI employee\" is an AI you hire by role \u2014 the way you would hire a sales coordinator or a customer-care rep \u2014 instead of a bot you have to configure. It is a newer way of packaging the same technology behind AI agents, aimed squarely at small businesses that do not have time to build or wire anything. We build in this space ourselves: our product Loquent (getloquent.com), built by Autor Technol"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-06",
+    "topic": "ai_labs",
+    "title": "GPT\u20116 Cyber: Advancing the frontier of aligned cybersecurity agents | OpenAI",
+    "url": "https://openai.com/index/introducing-gpt-6-cyber",
+    "snippet": "GPT\u20116 Cyber: Advancing the frontier of aligned cybersecurity agents | OpenAI\nNovember 5, 2026\n# GPT\u20116 Cyber: Advancing the frontier of aligned cybersecurity agents\nA cybersecurity model trained to find and validate exploitable vulnerabilities, while staying within the scope that researchers set.\nWe\u2019re introducing GPT\u20116 Cyber, a major leap in security research: more capable at finding and fixing vu"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-06",
+    "topic": "ai_labs",
+    "title": "Build Enterprise Agents, Workflows & Apps in Mistral Studio",
+    "url": "https://mistral.ai/news/build-with-studio/",
+    "snippet": "# Le Chonk brings the brains. Studio puts it to work.\n\nSummary\n\nMistral Large 4 (Le Chonk) enhances enterprise AI with advanced coding, cybersecurity, and document reasoning, while Mistral Studio provides a flexible platform for deploying agents, workflows, and apps across cloud, VPC, or on-premises environments. New features like managed agents, workflows, and enterprise context streamline busine"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-06",
+    "topic": "ai_labs",
+    "title": "Gemini Omni 1.2 Flash: 15-second video and lower pricing",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+    "snippet": "# Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips\n\nNov 05, 2026\n\n Gemini Omni 1.2 Flash brings 15-second clips, stronger consistency, and faster, more cost-effective generation. \n\nAnish Nangia\n\nProduct Manager, Google DeepMind\n\n \n\n- We are launching Gemini Omni 1.2 Flash with support for fifteen-second videos and improved reference adherence.\n- You can now edit clips through multi"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-06",
+    "topic": "ai_labs",
+    "title": "Create longer AI videos with Omni 1.2 in Google Vids",
+    "url": "https://blog.google/products-and-platforms/products/workspace/omni-1-2-flash-google-vids/",
+    "snippet": "# Generate longer AI videos with Omni 1.2 Flash in Google Vids at no cost.\n\nNov 05, 2026\n\nGoogle Vids, our video creation and editing tool, now runs on Google's newest video generation model: Omni 1.2 Flash. Starting today, anyone with a Google account or Google Workspace subscription can generate up to three 15-second videos per month in Vids at no cost.\n\nWith Omni 1.2 in Google Vids, you can now"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-06",
+    "topic": "ai_labs",
+    "title": "How scientists use Claude \\ Anthropic",
+    "url": "https://www.anthropic.com/research/how-researchers-use-claude",
+    "snippet": "# AI for scientific discovery: How researchers use Claude\n\n- Published\n\nNov 5, 2026\n- Team\n\nEconomics\n- Topics\n\n- Discovery\n- How people use AI\n- Economic Index\n- Productivity\n- Claude Code\n\n...\n\n## Summary\n\n- What we measure. AI could speed up scientific discovery, but by how much depends on what AI can do and how scientists use it. Using privacy-preserving methods, we study 207,000 Claude and Cl"
   }
 ]
