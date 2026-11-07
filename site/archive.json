@@ -30336,5 +30336,239 @@
     "title": "How scientists use Claude \\ Anthropic",
     "url": "https://www.anthropic.com/research/how-researchers-use-claude",
     "snippet": "# AI for scientific discovery: How researchers use Claude\n\n- Published\n\nNov 5, 2026\n- Team\n\nEconomics\n- Topics\n\n- Discovery\n- How people use AI\n- Economic Index\n- Productivity\n- Claude Code\n\n...\n\n## Summary\n\n- What we measure. AI could speed up scientific discovery, but by how much depends on what AI can do and how scientists use it. Using privacy-preserving methods, we study 207,000 Claude and Cl"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-11-07",
+    "headline": "Four different companies shipped \"describe it, get an app\" this week. ChatGPT, Meta's Muse, Cursor and Gemini's Canvas all did it.",
+    "url": "archive/2026-11-07.html",
+    "posts": {
+      "linkedin": [
+        "Four companies shipped the same feature this week.\n\nChatGPT, Meta's Muse, Cursor, and Gemini's Canvas all let you describe an app in plain words and get something working.\n\nSo the building part is getting cheap. Fast.\n\nThe TechRadar writer who tried six of these in ChatGPT said the good results came when she guided it carefully, not when she treated it like magic. She also pointed out that a slick interface isn't the same as a trustworthy answer.\n\nThat's the part that stays human.\n\nA tool can draw you a scheduling dashboard. It can't know that your HVAC client's real problem is that the office manager is retyping the same job notes three times a day.\n\nThat knowledge comes from sitting across from someone and asking what their week actually looks like.\n\nI think the next stretch belongs to the people who know the business, not the people who know the tool.\n\nWhat do you know about your customers' week that no app builder can guess?",
+        "A guy named James quit his nonprofit job with zero clients and zero revenue.\n\nHis first client came from chasing down a landscaping truck on his bike.\n\nHe thought he was in trouble. James just wanted to talk. He asked what the business needed, and offered to register the LLC, redo the truck branding, and build a website for $300.\n\nThat's it. That was the start.\n\nSixteen months later he has around 60 clients and told Koerner he made $18,000 last month.\n\nWhat gets me is how small the first yes was. Not a big launch. Not a clever offer. One guy, a real problem, and a price that felt fair.\n\nThat's not just a service, that's a weight removal product. Somebody had a suspended Google profile and no website, and James took that off his plate.\n\nWhat are you already doing for yourself that someone else would find useful?",
+        "Here's a definition of AI slop I can't shake.\n\nIt's work where the person who should have done the thinking skipped it, and the cost moved to whoever receives it.\n\nNot \"bad writing.\" Not \"sounds like a robot.\" It's about who ended up doing the work.\n\nOne study the AI Daily Brief guest cited says about 40% of US desk workers got something like that in the past month, and it cost close to two hours on the receiving end.\n\nI like this definition because it gives you a test you can run on your own stuff.\n\nBefore you send it, ask whether you'd actually read this if it came to you.\n\nIf the answer is no, you didn't save time. You borrowed it from the person on the other side.\n\nThe tool isn't the problem. Skipping the thinking is.\n\nWhat's one thing you sent this week that you'd skim if someone sent it to you?"
+      ],
+      "threads": [
+        "A grocery store owner in Ohio gets a catalog from his wholesaler every week. He used to highlight the items he wanted, then spend a couple hours typing them into an ad.\n\nNow he takes a photo of the pages and Muse writes it. About 15 minutes.\n\nNot a revolution. Just two hours of his Tuesday back.\n\nI think that's what this looks like for most small businesses. Quiet, boring, and a little bit life changing.",
+        "Menlo's survey says enterprise AI spend is almost $177 billion this year.\n\nIt also says 35% of enterprises still aren't using AI at all.\n\nBoth things are true at the same time. Everyone online acts like it's already everywhere, and a third of the business world hasn't touched it.\n\nThat gap is where a lot of the real work is. Somebody has to sit with them and show them one small thing that works.",
+        "Anthropic wrote about agent memory this week. The idea is that agents reread their own logs when they're idle and clean up their notes for next time.\n\nBasically sleep. Your brain replays the day and keeps what matters.\n\nI don't think that's only an AI idea. If you never write down what you learned, you relearn it. Same with people.\n\nThe notes you keep are the ones that compound."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-11-07",
+    "source": "The Koerner Office",
+    "title": "The Most Profitable Solo Business Anyone Can Start",
+    "url": "https://www.youtube.com/watch?v=DimX9OZyhPw",
+    "video_id": "DimX9OZyhPw"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-11-07",
+    "source": "AI Daily Brief",
+    "title": "Companies Are Spending 5x More on AI Now",
+    "url": "https://www.youtube.com/watch?v=INC89yHLexM",
+    "video_id": "INC89yHLexM"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-11-07",
+    "source": "AI Daily Brief",
+    "title": "How to Deslopify Your AI",
+    "url": "https://www.youtube.com/watch?v=QSZKZHeGZr4",
+    "video_id": "QSZKZHeGZr4"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-07",
+    "topic": "model_releases",
+    "title": "Thinking Machines Releases Inkling 2 Small, a 594B MoE With 17B Active - MarkTechPost",
+    "url": "https://www.marktechpost.com/2026/11/05/thinking-machines-inkling-2-small-release/",
+    "snippet": "Thinking Machines Releases Inkling 2 Small, a 594B MoE With 17B Active - MarkTechPost\n\n# Thinking Machines Releases Inkling 2 Small, a 594B MoE With 17B Active\n\nBy\n\nAsif Razzaq\n\nNovember 5, 2026\n\nThinking Machines Lab has released Inkling 2 Small, the first model of its second Inkling generation. The Inkling 2 Small model is a sparse Mixture-of-Experts (MoE) with 594B total and 17B active paramete"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-07",
+    "topic": "model_releases",
+    "title": "Ant Ling Launches Ling-3.2-flash, a Native Multimodal 560B MoE with 1M Context | Neural Brew",
+    "url": "https://neuralbrew.ai/en/articles/2026/11/ant-ling-launches-ling-3-2-flash/",
+    "snippet": "Ant Ling Launches Ling-3.2-flash, a Native Multimodal 560B MoE with 1M Context | Neural Brew\n\n# Ant Ling Launches Ling-3.2-flash, a Native Multimodal 560B MoE with 1M Context\n\nAnt Group has launched Ling-3.2-flash, a 560B/25B active MoE with a 1M token context, native multimodality (image, text, video), OpenAI- and Anthropic-compatible APIs, and free access for the first two weeks.\n\nBy Lior and Ir"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-07",
+    "topic": "model_releases",
+    "title": "Ricursive's Ripple-65B tops bigger US open-weight models | AI Weekly",
+    "url": "https://aiweekly.co/alerts/ricursives-ripple-65b-tops-bigger-us-open-weight-models",
+    "snippet": "# Ricursive's Ripple-65B tops bigger US open-weight models \n\n By Alexis Dufresne \u00b7 Published November 7, 2026 at 03:12 UTC \u00b7 Updated November 7, 2026 at 03:30 UTC \n\n## TL;DR\n\n- Ricursive Intelligence released Ripple-65B Preview, a 65-billion-parameter dense Transformer, under Apache 2.0 on Hugging Face.\n- The model card reports 80.52 on Terminal-Bench 2.1, above Reflection Beam 501B, Muse Spark Op"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-07",
+    "topic": "model_releases",
+    "title": "NousResearch Releases Arete-27B Open Source Language Model :: Neural Wire",
+    "url": "https://neuralwire.co/articles/nousresearch-releases-arete-27b-open-source-language-model/",
+    "snippet": "# NousResearch Releases Arete-27B Open Source Language Model\n\n Eliza Hartmann\n\n 07/11/2026, 07:02 2 minutes to read\n\n## Turn Social Sentiment Into Alpha\n\n### NousResearch Announces Arete-27B, a Value-Aligned Fine-tune of Alibaba\u2019s Qwen Model\n\nNousResearch has announced the release of Arete-27B, a new large language model developed through the supervised fine-tuning (SFT) of Alibaba\u2019s Qwen3.8-27B. "
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-07",
+    "topic": "product_releases",
+    "title": "ChatGPT can now build custom apps for you in seconds, without any coding \u2014 I tried making 6 of my own, and the results surprised me | TechRadar",
+    "url": "https://www.techradar.com/ai-platforms-assistants/chatgpt/chatgpt-can-now-build-custom-apps-for-you-in-seconds-without-any-coding-i-tried-making-6-of-my-own-and-the-results-surprised-me",
+    "snippet": "ChatGPT can now build custom apps for you in seconds, without any coding \u2014 I tried making 6 of my own, and the results surprised me | TechRadar\n\n# ChatGPT can now build custom apps for you in seconds, without any coding \u2014 I tried making 6 of my own, and the results surprised me\n\n By Becca Caddy \n\n Published 7 November 2026 \n\nFrom holiday planners to moral dilemmas, I wanted to see what GPT-6 could"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-07",
+    "topic": "product_releases",
+    "title": "Meta\u2019s Muse AI Turns Ideas Into Custom In-App Tools with Spaces",
+    "url": "https://www.analyticsinsight.net/news/metas-muse-ai-turns-ideas-into-custom-in-app-tools-with-spaces",
+    "snippet": "Meta\u2019s Muse AI Turns Ideas Into Custom In-App Tools with Spaces \n\nMeta\u2019s Muse AI Turns Ideas Into Custom In-App Tools with Spaces \n\nMeta has launched Spaces in its Muse AI app, letting users create custom planners, trackers, games and dashboards that update automatically through connected third-party services. \n\nWritten By:\n\nPoulami Saha\n\nVijay Laxmi\n\nPublished on: \n\n07 Nov 2026, 6:27 am\n\nUpdated "
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-07",
+    "topic": "product_releases",
+    "title": "Cursor Apps: Cursor\u2019s Cloud Agents Can Now Build, Host, and Deploy Web Applications | Neural Brew",
+    "url": "https://neuralbrew.ai/en/articles/2026/11/cursor-apps-cloud-agents-deploy-web-apps/",
+    "snippet": "Cursor Apps: Cursor\u2019s Cloud Agents Can Now Build, Host, and Deploy Web Applications | Neural Brew\n\n# Cursor Apps: Cursor\u2019s Cloud Agents Can Now Build, Host, and Deploy Web Applications\n\nSince November 5, a Cursor cloud agent can generate a web application, set up a Postgres database and authentication for it, and then deploy it to a chosen URL after passing security checks. The feature is availabl"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-07",
+    "topic": "product_releases",
+    "title": "Google Adds Sketch-Based App Building to Gemini\u2019s Canvas Tool | TokenPost",
+    "url": "https://www.tokenpost.com/news/technology/50614",
+    "snippet": "Google Adds Sketch-Based App Building to Gemini\u2019s Canvas Tool | TokenPost\n\n# Google Adds Sketch-Based App Building to Gemini\u2019s Canvas Tool\n\nUsers can turn a photo of a hand-drawn interface into code, then test and revise the app in Canvas.\n\nBy Simon Yoon\n\nPublished Nov 7, 2026, 12:45 AM EST\n\nA pencil app sketch rests beside a tablet interface preview / TokenPost.ai\n\nGoogle added sketch input to Ge"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-07",
+    "topic": "product_releases",
+    "title": "AI Daily Digest November 7, 2026: AI Cracks Legacy RSA, Gemini Omni Gets Longer Clips, First Humanoid IPO - DEV Community",
+    "url": "https://dev.to/hiroki-ii-ai/ai-daily-digest-november-7-2026-ai-cracks-legacy-rsa-gemini-omni-gets-longer-clips-first-3f6p",
+    "snippet": "AI Daily Digest November 7, 2026: AI Cracks Legacy RSA, Gemini Omni Gets Longer Clips, First Humanoid IPO - DEV Community\n\nHIROKI II\n\n Posted on Nov 6 \n\n# AI Daily Digest November 7, 2026: AI Cracks Legacy RSA, Gemini Omni Gets Longer Clips, First Humanoid IPO \n\nFriday delivered a rare combination: a cryptographic bombshell from DeepMind, a consumer-friendly video model upgrade, a fintech-flavored"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-07",
+    "topic": "ai_agents",
+    "title": "Mistral Studio adds managed agents, workflow builder and apps in public preview",
+    "url": "https://www.datastudios.org/post/mistral-studio-managed-agents-workflows-apps-public-preview",
+    "snippet": "# Mistral Studio adds managed agents and apps in public preview\n\n20 hours ago 8 min read\n\nExpand image\n\nMistral AI has expanded Mistral Studio, its platform for building and running enterprise AI systems, with managed agents, a natural-language workflow builder, a command-line tool for deploying apps and a new set of evaluation and tracing features. The update is dated November 5, 2026 in the Mist"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-07",
+    "topic": "ai_agents",
+    "title": "Microsoft releases stable Agent Framework Python harness | TLDR",
+    "url": "https://tldr.tech/story/a9f32271-82f0-4446-96e7-8d65d2d51bca",
+    "snippet": "# Microsoft releases stable Agent Framework Python harness\n\nMicrosoft has released a stable agent harness for Python and .NET within its Agent Framework, providing built-in capabilities such as tool execution, state management, approvals, compaction, and telemetry. An implementation of an overnight operations agent for simulated energy sites demonstrates how the harness uses state persistence and "
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-07",
+    "topic": "ai_agents",
+    "title": "Introducing MAIA: AI That Makes Teams Better Together | Zyphra",
+    "url": "https://www.zyphra.com/our-work/introducingmaia",
+    "snippet": "Research November 6, 2026 San Francisco, California\n\n# Introducing MAIA: AI That Makes Teams Better Together\n\nBy Simon Deng, Rakesh Puthalath, Min Ren, Manthan Gupta, Luca Pinchetti, Linyun Fu, Ian Sears, Deepak Agarwal, Dane Howard, Jim Palmer, Ilya Brown\n\nOur mission at Zyphra is to make open superintelligence accessible to everyone through a full stack spanning frontier models, multisilicon inf"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-07",
+    "topic": "ai_agents",
+    "title": "Introducing IBM watsonx Assistant for Z 4.0: From Q&A to operational action",
+    "url": "https://www.ibm.com/new/announcements/introducing-ibm-watsonx-assistant-for-z-4-0-from-q-a-to-operational-action",
+    "snippet": "Introducing IBM watsonx Assistant for Z 4.0: From Q&A to operational action\n\n# Introducing IBM watsonx Assistant for Z 4.0: From Q&A to operational action \n\nIBM\u00ae watsonx Assistant\u00ae for Z 4.0 combines advanced AI analysis, reusable skills and enterprise knowledge to help operations teams accomplish complex operational objectives and take action with user approval.\n\n Published 06 November 2026 \n\nIBM"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-07",
+    "topic": "ai_agents",
+    "title": "Salesforce Launches Agentforce 2dx with New Capabilities to Embed Proactive Agentic AI into Any Workflow, Create Multimodal Experiences, and Extend Digital Labor Throughout the Enterprise",
+    "url": "https://www.contenttechseries.com/news/salesforce-launches-agentforce-2dx-with-new-capabilities-to-embed-proactive-agentic-ai-into-any-workflow-create-multimodal-experiences-and-extend-digital-labor-throughout-the-enterprise",
+    "snippet": "Salesforce Launches Agentforce 2dx with New Capabilities to Embed Proactive Agentic AI into Any Workflow, Create Multimodal Experiences, and Extend Digital Labor Throughout the Enterprise\n\n November 06,2026 \n\n## Salesforce Launches Agentforce 2dx with New Capabilities to Embed Proactive Agentic AI into Any Workflow, Create Multimodal Experiences, and Extend Digital Labor Throughout the Enterprise\n"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-07",
+    "topic": "ai_small_business",
+    "title": "SayDoo Launches AI Company for the Skilled Trades | Plumbing & Mechanical",
+    "url": "https://www.pmmag.com/articles/107849-saydoo-launches-ai-company-for-the-skilled-trades",
+    "snippet": "SayDoo today announced its launch as an AI company built for roofing, HVAC, plumbing, electrical, landscaping and other trade businesses. SayDoo builds each company an AI console from the way it already works: one login where the owner and team say what they need, and the work gets done across leads, scheduling, estimates, crews, invoices and follow-up.\n\n...\n\nWhat makes SayDoo different\n\n- Useful,"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-07",
+    "topic": "ai_small_business",
+    "title": "AI Agent: What It Is and How SMEs Use It - DEV Community",
+    "url": "https://dev.to/sian-agency/ai-agent-what-it-is-and-how-smes-use-it-82d",
+    "snippet": "AI Agent: What It Is and How SMEs Use It - DEV Community\nSI\u00c1N Agency\nPosted on Nov 6 \u2022 Originally published at sian-agency.online\n# AI Agent: What It Is and How SMEs Use It\nAn AI agent is software that can take in information, make decisions, and perform multi-step tasks toward a goal with limited guidance. For small and midsize businesses, this often means turning tedious, repetitive work into mo"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-07",
+    "topic": "ai_small_business",
+    "title": "AI rises as godsend for Ohio business - Tribune Chronicle",
+    "url": "https://www.tribtoday.com/opinion/guest-columnists/2026/11/ai-rises-as-godsend-for-ohio-business-2/",
+    "snippet": "The assistant is named Chase. Chase is not a person. It is Polk's version of Muse, the artificial intelligence agent that Meta, the parent company of Facebook and Instagram, released to consumers on Sept. 8 and expanded for small businesses on Sept. ... Polk chose \"Chase.\"\n\n...\n\nIn Meta's launch materials, Polk said that before the holiday rush, Muse audited her email automations, shut down duplic"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-07",
+    "topic": "ai_small_business",
+    "title": "Two weeks in one page: an AI adoption checklist for a small business",
+    "url": "https://dev.to/slava_kotenev_159/two-weeks-in-one-page-an-ai-adoption-checklist-for-a-small-business-5d8m",
+    "snippet": "Over the last two weeks I published a series on practical AI adoption: pilots, thresholds, documents, review queues, acceptance sets, data, costs. This is the whole thing on one page, in the order you would use it. It is written for a small business or a small team with no data science department.\n\nBefore you build anything\n\u2022 Pick one process, named in one sentence, with one owner who can say \"acc"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-07",
+    "topic": "ai_small_business",
+    "title": "How SMBs Are Comparing AI Agent Platforms for Operational Work | TMC Insight",
+    "url": "https://insight.tmcnet.com/insight/how-smbs-are-comparing-ai-agent-platforms-for-operational-work-mw4j5gcy",
+    "snippet": "### Key Takeaways\n\n- Unified Office, Inc.: Platform choice should follow the workflow, data environment, and risk profile rather than the broadest feature list.\n- Communications-focused solutions warrant consideration for voice-intensive operations, while Microsoft Copilot Studio, Salesforce Agentforce, and Google Vertex AI Agent Builder address different technology environments.\n- Buyers should m"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-07",
+    "topic": "ai_labs",
+    "title": "Measuring how AI agents handle everyday wet-lab science | OpenAI",
+    "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science/",
+    "snippet": "Measuring how AI agents handle everyday wet-lab science | OpenAI\n\nNovember 6, 2026\n\n# Measuring how AI agents handle everyday wet-lab science\n\nIntroducing BioBasicsBench, a benchmark measuring how well AI agents interpret raw experimental data across 100 routine wet-lab tasks.\n\nOur mission is to ensure that artificial general intelligence benefits all of humanity. As part of that mission, we want "
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-07",
+    "topic": "ai_labs",
+    "title": "Google announces Gemini Agent and Gemini 4 Argon | TLDR",
+    "url": "https://tldr.tech/story/3a13759d-6c61-4791-b471-fb447ed154c0",
+    "snippet": "Google announces Gemini Agent and Gemini 4 Argon | TLDR\n\n# Google announces Gemini Agent and Gemini 4 Argon\n\nGoogle announced the Gemini Agent, a universal and always-on AI assistant designed to integrate across workflows, along with Gemini 4 Argon, a new model featuring a one-million-token output window and specialized cybersecurity defense capabilities. The cloud-based architecture runs persiste"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-07",
+    "topic": "ai_labs",
+    "title": "The components of agent memory \\ Anthropic",
+    "url": "https://www.anthropic.com/research/components-of-agent-memory",
+    "snippet": "The components of agent memory \\ Anthropic\n\n# The components of agent memory\n\n- Published\n\nNov 6, 2026\n- Team\n\nEngineering\n- Topics\n\n- Agents\n- Context engineering\n- Agent memory\n\nSee more...\n\nS\u00f8ren Kierkegaard wrote that life can only be understood backward, but it must be lived forward. We\u2019ve encountered a similar bind when designing memory for AI agents.\n\nAs humans, we encode memory constantly "
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-07",
+    "topic": "ai_labs",
+    "title": "Project EVE: Claude plays MMORPGs \\ Anthropic",
+    "url": "https://www.anthropic.com/research/project-eve-claude-plays-mmorpgs",
+    "snippet": "Project EVE: Claude plays MMORPGs \\ Anthropic\n\n# Project EVE: Claude plays MMORPGs\n\n- Published\n\nNov 6, 2026\n- Team\n\nFrontier Red Team\n- Topics\n\n- Agents\n- Economic Futures\n- Research programs\n- Safety evaluations\n- Claude Opus\n- Coding\n\nSee more...\n\nThis post shares research done as part of the Anthropic Fellows Program, April\u2013July 2026.\n\nAI models may one day participate in real companies and ma"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-07",
+    "topic": "ai_labs",
+    "title": "Teaching AI to build scientific models \\ Anthropic",
+    "url": "https://www.anthropic.com/research/teaching-ai-to-build-scientific-models",
+    "snippet": "Teaching AI to build scientific models \\ Anthropic\n\n# Teaching AI to build scientific models\n\n- Published\n\nNov 6, 2026\n- Team\n\nScience\n- Topics\n\n- Discovery\n- Research programs\n- Life sciences\n\nSee more...\n\n> AI for Science grantees Jakob Macke, Daniel Gedon, and Stefan Wahl are researchers at the ELLIS Institute T\u00fcbingen and the University of T\u00fcbingen, where they build AI tools for developing sci"
   }
 ]
