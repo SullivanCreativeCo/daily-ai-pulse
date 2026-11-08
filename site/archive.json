@@ -30570,5 +30570,207 @@
     "title": "Teaching AI to build scientific models \\ Anthropic",
     "url": "https://www.anthropic.com/research/teaching-ai-to-build-scientific-models",
     "snippet": "Teaching AI to build scientific models \\ Anthropic\n\n# Teaching AI to build scientific models\n\n- Published\n\nNov 6, 2026\n- Team\n\nScience\n- Topics\n\n- Discovery\n- Research programs\n- Life sciences\n\nSee more...\n\n> AI for Science grantees Jakob Macke, Daniel Gedon, and Stefan Wahl are researchers at the ELLIS Institute T\u00fcbingen and the University of T\u00fcbingen, where they build AI tools for developing sci"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-11-08",
+    "headline": "Open-weight models got seriously good this week, and two of the biggest dropped within days of each other.",
+    "url": "archive/2026-11-08.html",
+    "posts": {
+      "linkedin": [
+        "78% of small business owners say AI saves them time every week.\n\n43% of those same owners say their revenue hasn't moved.\n\nThat's from a Bluehost study of 350 U.S. owners, passed along in a Fortune piece this week. Small sample, so don't tattoo it on anything. But it matches what I keep seeing.\n\nSaving an hour isn't the win. The hour is just sitting there afterward.\n\nMost folks pour it back into volume. More emails. More posts. One owner's automation sent about 400,000 emails in three days. His line: \"I don't have 400,000 customers.\"\n\nThe better move is boring. Take the hour and put it on the calendar against the ten people most likely to send you work.\n\nDo more with the same, not the same with less.\n\nWhere does your saved hour actually go on a Tuesday?",
+        "Most bad builds don't fail at the code.\n\nThey fail at the first assumption nobody questioned.\n\nGoogle open-sourced a plugin this week called Elephant-Goldfish. The idea is simple. One long session holds all the context and writes a spec. No code yet. Then fresh agents with zero history read that spec and try to tear it apart.\n\nZero history is the whole trick. The one who wrote it can't see the hole. The one who just walked in can.\n\nTheir pitch is catching wrong assumptions in a Markdown file instead of in a pull request. Cheap place to be wrong.\n\nSame move works on business ideas. Your ideas aren't bad ideas. They're just not finished ideas. Somebody who wasn't inside your head for three weeks will find the unfinished part in ten minutes.\n\nWho's your goldfish?",
+        "Moonshot put out the weights for Kimi K3.1 Pro this week. 2.8 trillion parameters. On one agentic coding test, their own numbers have it within a point of Claude Opus 5.5.\n\nTheir own numbers, so grain of salt. Artificial Analysis has it three points back on its index, which is still the closest an open model has gotten.\n\nThe download is about 1.56 terabytes. Nobody's running that on a laptop.\n\nSo who cares? The providers who can serve it. Any of them with the hardware can host it now, and prices follow. Meta put out Muse Spark Open too, with hosted options live on day one.\n\nHere's what I take from that. Near-frontier smart is getting cheap to rent. The model stops being the product.\n\nWhat's left is knowing which annoying, repeatable job a business owner would happily hand off.\n\nWould someone pay for that? I think someone would pay for that."
+      ],
+      "threads": [
+        "Cursor, Mistral and Meta all shipped the same idea in one week. Describe the tool you want. It builds it, hosts it, puts a login on it.\n\nCursor's version runs a security check before anything goes live. Meta's is for gift lists and wedding planners.\n\nThe internal tool used to be a project. Now it's a text message.\n\nWhich means the annoying spreadsheet your client has run their whole business on is about to become the easy part.",
+        "Perplexity launched Teammates. Agents that remember the project, notice changes, and keep working without a new prompt. Slack, Gmail, GitHub.\n\nNo accuracy numbers. No time-saved numbers. Hacker News was skeptical.\n\nI'm not saying don't try it. I'm saying ask one question first. What's the worst thing it could do with email access?\n\nIf you can live with that answer, give it one recurring job and watch it for a week.",
+        "A guy in La Crosse launched an AI setup business this week. He installs a lead assistant plus a few specialist workers on a small business's own computer.\n\nThe pitch that stuck with me wasn't the tech. It was \"I build your team, I run it, and I answer for it.\"\n\nNo account managers. No tickets.\n\nEverybody's selling the agents. What owners seem to want is someone to call when the agent does something weird."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-11-08",
+    "source": "The Koerner Office",
+    "title": "The Simplest $15K Sale You\u2019ll Ever Make ($9 to Start) [NO ADS + EARLY ACCESS]",
+    "url": "https://www.youtube.com/watch?v=eSDRRPWBCV8",
+    "video_id": "eSDRRPWBCV8"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-08",
+    "topic": "model_releases",
+    "title": "Baidu open-sources ERNIE 5.5 Flash Base, a 280-billion-parameter model \u2014 AI In Context",
+    "url": "https://aiincontext.com/articles/baidu-open-sources-ernie-5-5-flash-base-a-280-billion-parameter-model",
+    "snippet": "# Baidu open-sources ERNIE 5.5 Flash Base, a 280-billion-parameter model\n\nBaidu open-sources ERNIE 5.5 Flash Base: 280B parameters, 14B active per input, 33.5T training tokens, and no post-training \u2014 developers shape it themselves. Weights are on Hugging Face in FP8 and BF16.\n\nBaidu releases ERNIE 5.5 Flash Base with 280 billion parameters as an open-source foundation model Elchinator / pixabay\n\nB"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-08",
+    "topic": "model_releases",
+    "title": "Ant Ling-3.2-flash: 560B MoE, 1M context, multimodal | Neural Daily",
+    "url": "https://www.neuraldaily.news/en/a/ant-ling-3-2-flash-multimodal-moe-1m",
+    "snippet": "# Ant Ling-3.2-flash: 560B MoE, 1M context, multimodal\n\n\ud83c\udded\ud83c\uddfa Olvasd el magyarul \u2192\n\nAnt Group released Ling-3.2-flash, a native multimodal MoE with 560B total / 25B active parameters, a 1M-token window and text, image and video input. Chat plus OpenAI/Anthropic-compatible APIs are live, free for two weeks. Weights stay closed.\n\n7 November 2026 at 09:31 \u00b7 1 min read\n\nImage: Pexels / Tara Winstead \u00b7 Pe"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-08",
+    "topic": "model_releases",
+    "title": "Muse Spark Open: Meta's 816B Open-Weight Agent Model",
+    "url": "https://9to6ai.com/muse-spark-open/",
+    "snippet": "# Meta Releases Muse Spark Open Weights for Coding and Agentic Work\n\n Leave a Comment / News and Advancements / By Muhammad Ijaz \n\nMeta has released the weights for Muse Spark Open, an 816-billion-parameter multimodal mixture-of-experts model with about 42 billion parameters active per token and a one-million-token context window. Meta Superintelligence Labs positions it as the most capable US ope"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-08",
+    "topic": "model_releases",
+    "title": "Moonshot publishes Kimi K3.1 Pro\u2019s weights: a 2.8T open model that nearly matches Claude Opus 5.5 on coding \u2014 AI Frontier Post",
+    "url": "https://aifrontierpost.com/articles/kimi-k3-1-pro-open-weights-release/",
+    "snippet": "# Moonshot publishes Kimi K3.1 Pro\u2019s weights: a 2.8T open model that nearly matches Claude Opus 5.5 on coding\n\nMoonshot AI has published the full weights of Kimi K3.1 Pro on Hugging Face, keeping its promise from the model\u2019s October launch. The 2.8-trillion-parameter model scores within a point of Claude Opus 5.5 on agentic coding in Moonshot\u2019s own tests \u2014 and anyone can now download it, under a l"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-08",
+    "topic": "model_releases",
+    "title": "Nous Research Releases Arete-27B that Cuts Qwen3.8-27B Propaganda From 22% to 0.9% - MarkTechPost",
+    "url": "https://www.marktechpost.com/2026/11/07/nous-research-arete-27b-qwen3-8-27b-propaganda-fine-tune/",
+    "snippet": "Nous Research Releases Arete-27B that Cuts Qwen3.8-27B Propaganda From 22% to 0.9% - MarkTechPost\n\n# Nous Research Releases Arete-27B that Cuts Qwen3.8-27B Propaganda From 22% to 0.9%\n\nBy\n\nAsif Razzaq\n\nNovember 7, 2026\n\nNous Research has released Arete-27B, a supervised fine-tune of Alibaba\u2019s Qwen3.8-27B. Arete-27B is a 27B open-weight model that strips Chinese state framing from Qwen\u2019s answers. O"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-08",
+    "topic": "product_releases",
+    "title": "Perplexity puts Teammates in charge of 5 workflows without a new prompt \u2014 Hamidun News",
+    "url": "https://news.hamidun.com/en/news/15351/perplexity-puts-teammates-in-charge-of-5-workflows-without-a",
+    "snippet": "# Perplexity puts Teammates in charge of 5 workflows without a new prompt\n\nPerplexity has introduced Teammates, persistent agents for marketing, sales, support, operations, and finance. Unlike a conventional chat, such an agent remembers project goals and history, detects changes on its own, and continues working without a new request. It can connect to Slack, Gmail, and GitHub, delegate tasks to "
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-08",
+    "topic": "product_releases",
+    "title": "Meta launches Spaces in Muse, allowing users to build personalised AI experiences<!-- --> - Storyboard18",
+    "url": "https://www.storyboard18.com/digital/meta-launches-spaces-in-muse-allowing-users-to-build-personalised-ai-experiences-114310.htm",
+    "snippet": "Meta launches Spaces in Muse, allowing users to build personalised AI experiences - Storyboard18\n\n# Meta launches Spaces in Muse, allowing users to build personalised AI experiences\n\n## Meta's latest Muse update comes as the company expands its AI agents with voice interactions and specialised models, following their reported reach of 10 million users in the US and Canada. \n\nBy Deepthi Rao\n\n| Nove"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-08",
+    "topic": "product_releases",
+    "title": "Google launches Gemini Omni Flash 1.2: videos up to 15 seconds and a 30% lower price \u2014 Hamidun News",
+    "url": "https://news.hamidun.com/en/news/15310/google-launches-gemini-omni-flash-1-2-videos-up-to-15-second",
+    "snippet": "- 05 What to do\n\n# Google launches Gemini Omni Flash 1.2: videos up to 15 seconds and a 30% lower price\n\nLogan Kilpatrick announced Gemini Omni Flash 1.2. The model generates videos up to 15 seconds long, maintains visual consistency with fewer details that suddenly \"drift,\" and lets users edit clips through a multi-step dialogue. The new version is also 30% cheaper than its predecessor, Omni Flas"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-08",
+    "topic": "product_releases",
+    "title": "Cursor Launches Live Apps With Agent-Built Hosting, Databases, and Team Sharing",
+    "url": "https://www.tao.media/cursor-launches-live-apps-with-agent-built-hosting-databases-and-team-sharing/",
+    "snippet": "Cursor Launches Live Apps With Agent-Built Hosting, Databases, and Team Sharing\n\n# Cursor Launches Live Apps With Agent-Built Hosting, Databases, and Team Sharing\n\nCloud agents can now turn internal-tool requests into hosted web apps with built-in authentication and a security review before publication.\n\n , and Bart Hillerich \n\n November 7, 2026 . 9:54 PM \n\n \n\n## Table of Contents\n\nCursor has laun"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-08",
+    "topic": "product_releases",
+    "title": "Google AI Releases Elephant-Goldfish Model Plugin for Spec-First Coding - MarkTechPost",
+    "url": "https://www.marktechpost.com/2026/11/08/google-elephant-goldfish-model-plugin-spec-review-coding-agents/",
+    "snippet": "Google AI Releases Elephant-Goldfish Model Plugin for Spec-First Coding - MarkTechPost\n\n# Google AI Releases Elephant-Goldfish Model Plugin for Spec-First Coding\n\nBy\n\nAsif Razzaq\n\nNovember 8, 2026\n\nGoogle has open-sourced the Elephant-Goldfish Model (EGM) plugin, a design-and-review layer for AI coding agents. The Elephant-Goldfish Model plugin makes an agent write a specification before it writes"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-08",
+    "topic": "ai_agents",
+    "title": "Kimi Launches Hosted Agents: Agent Runtime Framework Moves to the Cloud, Enterprise Workflows Become an Application Focus \u00b7 UnHideA",
+    "url": "https://unhidea.com/en/articles/research-01036bf199b04b81b67b88df320adae0-en",
+    "snippet": "# Kimi Launches Hosted Agents: Agent Runtime Framework Moves to the Cloud, Enterprise Workflows Become an Application Focus\n\nOriginal source\uff1a\u8d22\u8054\u793e First published on UnHideA\uff1a 2026.11.08 09:53 (UTC+08:00) Original source date\uff1a 2026-11-05\n\nKey takeaway\n\nThe hosted service reduces the burden on enterprises of maintaining an agent runtime framework themselves, while industry expertise and customer resou"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-08",
+    "topic": "ai_agents",
+    "title": "Google ADK 2.14.0 Graduates Core Modules, Adds Teams Runner | AI Weekly",
+    "url": "https://aiweekly.co/alerts/google-adk-2140-graduates-core-modules-adds-teams-runner",
+    "snippet": "# Google ADK 2.14.0 Graduates Core Modules, Adds Teams Runner \n\n By Alexis Dufresne \u00b7 Published November 8, 2026 at 03:29 UTC \n\n## TL;DR\n\n- ADK 2.14.0 ships November 7 with execution environments, A2A, evaluation and core runtime modules graduating out of experimental, plus 16 toolset features.\n- A new TeamsRunner puts ADK agents inside Microsoft Teams, MultiRunConfig runs eval cases concurrently,"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-08",
+    "topic": "ai_agents",
+    "title": "Mistral Studio launches managed agents and apps",
+    "url": "https://techailatest.news/ai-agents/mistral-studio-managed-agents-public-preview",
+    "snippet": "# Mistral launches managed agents and apps in Studio, with on-premises deployment due in November\n\nMistral AI put managed agents and apps for Mistral Studio into public preview on 5 November 2026 and made workflows generally available, with on-premises coming.\n\nBy G\u00fcrkan E. Published 7 Nov 2026, 16:12 UTC\n\nTech AI Latest\n\nImage published by Mistral AI with the announcement. Image: Mistral AI\n\nMist"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-08",
+    "topic": "ai_agents",
+    "title": "Harness 2: executing agent code as it streams | Tech Bytes",
+    "url": "https://techbytes.app/posts/harness-2-executing-agent-code-as-it-streams/",
+    "snippet": "# Harness 2: executing agent code as it streams\n\nFramer rebuilt its agent harness to execute streaming JavaScript in cells, speeding up canvas edits by 20 percent while cutting task costs by up to 33 percent.\n\nBy Dillip Chowdary \u2022 Nov 07, 2026 \u2022 Source: framer.com\n\nFramer launched Harness 2, an overhaul of its AI agent runtime that executes streamed JavaScript code while an underlying language mod"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-08",
+    "topic": "ai_small_business",
+    "title": "Big Tech\u2019s AI race will save small business owners time. It won\u2019t find them customers | Fortune",
+    "url": "https://fortune.com/2026/11/07/alignable-ai-assistants-small-business-referrals-eric-groves/",
+    "snippet": "Eric Groves is the CEO and co-founder of Alignable, a networking platform for small business owners, and was a founding executive at Constant Contact. Alignable\u2019s AI assistant, Allie, is named in this piece.\n\n...\n\nMeta, Google, OpenAI and Anthropic are racing to become the small business owner\u2019s AI assistant. Meta brought its Muse agent to small businesses in September. Anthropic and OpenAI now pa"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-08",
+    "topic": "ai_small_business",
+    "title": "Rich AI Systems: AI Teams Installed for Small Businesses \u2014 The Hoosier Wire",
+    "url": "https://thehoosierwire.com/stories/rich-ai-systems-launch/",
+    "snippet": "# Rich AI Systems: AI Teams Installed for Small Businesses\n\nRich is launching Rich AI Systems, which installs AI teams for small businesses \u2014 a lead assistant plus specialist AI workers, set up on the business's own computer.\n\nThe Hoosier Wire \u00b7 November 7, 2026 \u00b7 La Crosse, WI\n\nPhoto: Rich AI Systems\n\nI'm launching something new: Rich AI Systems.\n\nI install AI teams for small businesses. Not a ch"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-08",
+    "topic": "ai_small_business",
+    "title": "Magai Gives AI Access to Multiple Accounts in Connected Tools",
+    "url": "https://www.einpresswire.com/article/954923035/magai-gives-ai-access-to-multiple-accounts-in-connected-tools",
+    "snippet": "A freelancer asks one AI assistant about several email accounts in a single conversation, with no switching between logins.\n\nMagai now lets one AI assistant work across a person's work, personal and client accounts at the same time.\n\nMagai connects an unlimited number of accounts per integration, and Scheduled Tasks can run against any of them automatically.\n\nMagai's unlimited multi-account connec"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-08",
+    "topic": "ai_small_business",
+    "title": "Pricing AI Automation for Clients: A Reseller's Packaging Guide for Your AI Automation Agency - DEV Community",
+    "url": "https://dev.to/botsailorofficial/pricing-ai-automation-for-clients-a-resellers-packaging-guide-for-your-ai-automation-agency-3kc1",
+    "snippet": "# Pricing AI Automation for Clients: A Reseller's Packaging Guide for Your AI Automation Agency \n\nMost resellers don't lose deals because the automation is bad. They lose them because the pricing is confusing.\n\n\"How much for a chatbot?\" has no good answer. The real cost depends on channels, integrations, volume, and how much human oversight the client wants. If you quote a different number every t"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-08",
+    "topic": "ai_labs",
+    "title": "OpenAI deploys Pando Git backend for monorepo scaling | TLDR",
+    "url": "https://tldr.tech/story/19a8d5a6-cb89-437c-b194-53e748517073",
+    "snippet": "OpenAI deploys Pando Git backend for monorepo scaling | TLDR\n\n# OpenAI deploys Pando Git backend for monorepo scaling\n\nOpenAI built its own Git backend internally to keep up with the scale of parallel work its agents are doing. OpenAI\u2019s CTO of Applications: \u201cGit was originally built for an offline use case\u2026 whereas now when we\u2019re thinking about agents and stuff, all of those are online all the tim"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-08",
+    "topic": "ai_labs",
+    "title": "Google Research Harness\u00b2 refines AI agent harnesses | TLDR",
+    "url": "https://tldr.tech/story/3bb507e1-3311-463e-991f-12135003cf9f",
+    "snippet": "Google Research Harness\u00b2 refines AI agent harnesses | TLDR\n\n# Google Research Harness\u00b2 refines AI agent harnesses\n\nGoogle Cloud AI Research published a method in October 2026 called Harness\u00b2 that enables an autonomous agent to recursively improve its own harness without human intervention. The author explains how this method operates using a general editor for procedure and a specific editor for d"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-08",
+    "topic": "ai_labs",
+    "title": "Claude Won't Clone Games Anymore. I Spent a Weekend\u2026 | TLDR",
+    "url": "https://tldr.tech/story/8bfe6b6f-a34d-4e50-a674-e006f68de651",
+    "snippet": "Claude Won't Clone Games Anymore. I Spent a Weekend\u2026 | TLDR\n\n# Claude Won't Clone Games Anymore. I Spent a Weekend Finding Out What It Will Do\n\nFollowing Anthropic's update to its Claude model to prevent it from recreating specific existing video games, an author tested the updated restrictions to see what remains possible. The investigation found that while direct game clones are blocked, tools l"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-08",
+    "topic": "ai_labs",
+    "title": "OpenAI GPT-6 Intelligent UI builds interactive tools | TLDR",
+    "url": "https://tldr.tech/story/487f5a4d-6f99-4d4d-920d-5536e9b2a41c",
+    "snippet": "OpenAI GPT-6 Intelligent UI builds interactive tools | TLDR\n\n# OpenAI GPT-6 Intelligent UI builds interactive tools\n\nThe author tests OpenAI's upgraded ChatGPT model with its new Intelligent UI feature by asking it to build six different interactive tools, ranging from a room design app to a life decision simulator. The author finds that while the interactive interfaces are engaging and customizab"
   }
 ]
