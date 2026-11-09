@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Daily AI Pulse - 2026-11-08</title>
+  <title>Daily AI Pulse - 2026-11-09</title>
   <link rel="icon" type="image/svg+xml" href="assets/favicon.svg" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -19,84 +19,90 @@
     </nav>
   </header>
   <main class="reading-column">
-    <p class="dateline">2026-11-08</p>
-    <p class="last-updated">Last updated 2026-11-08 08:00 UTC</p>
+    <p class="dateline">2026-11-09</p>
+    <p class="last-updated">Last updated 2026-11-09 08:00 UTC</p>
     <article class="digest">
-<h1 id="daily-ai-pulse-2026-11-08">Daily AI Pulse - 2026-11-08</h1>
+<h1 id="daily-ai-pulse-2026-11-09">Daily AI Pulse - 2026-11-09</h1>
 
 <h2 id="todays-headline">Today's headline</h2>
 
-<p>Open-weight models got seriously good this week, and two of the biggest dropped within days of each other.</p>
+<p>Claude Code has a leak problem, and it's probably sitting in your repo right now.</p>
 
-<p>Moonshot released the full weights for Kimi K3.1 Pro. Meta released Muse Spark Open. Near-frontier smart is getting cheap to rent, and that changes what's worth building on top of it.</p>
+<p>Per one writeup going around, it saves the shell commands you approve into a local settings file. That file doesn't get added to your project's gitignore on its own, and credentials have ended up on public GitHub that way.</p>
+
+<p>Go read your own settings file today. If a key is in there, rotate it. Deleting the file won't unpublish a commit.</p>
 
 <section class="todays-posts">
 <h2 class="todays-posts-title">Today&rsquo;s posts</h2>
 <p class="todays-posts-sub">Three for LinkedIn, three for Threads / IG. One click to copy.</p>
 <h3 class="post-group-label">LINKEDIN DRAFTS</h3>
-<div class="post-card" data-post><div class="post-card-head"><span class="post-num">LI . NO. 01</span><button type="button" class="post-copy" aria-label="Copy post">COPY</button></div><pre class="post-body">78% of small business owners say AI saves them time every week.
+<div class="post-card" data-post><div class="post-card-head"><span class="post-num">LI . NO. 01</span><button type="button" class="post-copy" aria-label="Copy post">COPY</button></div><pre class="post-body">Check your repo before you read anything else today.
 
-43% of those same owners say their revenue hasn't moved.
+Claude Code saves the shell commands you approve into a local settings file. Per one writeup going around, that file doesn't get added to your project gitignore on its own. Credentials have ended up on public GitHub that way.
 
-That's from a Bluehost study of 350 U.S. owners, passed along in a Fortune piece this week. Small sample, so don't tattoo it on anything. But it matches what I keep seeing.
+Think about why. You approve a command once, it has a key inline, and Claude remembers it so it stops asking. Super convenient. It's also a quiet copy of your secret sitting in a file you never opened.
 
-Saving an hour isn't the win. The hour is just sitting there afterward.
+I'm not saying panic. I'm saying open the folder.
 
-Most folks pour it back into volume. More emails. More posts. One owner's automation sent about 400,000 emails in three days. His line: "I don't have 400,000 customers."
+Look in your .claude directory for the local settings file. Read what's in it. Make sure it's ignored. If a key is in there, rotate it, because deleting the file doesn't unpublish a commit.
 
-The better move is boring. Take the hour and put it on the calendar against the ten people most likely to send you work.
+What gets me is that the legal side of AI safety gets all the headlines. The "did I just leak my own key" side gets almost none.
+
+Boring habit that fixes most of it: keys live in a .env, never in a command line.
+
+When's the last time you actually read your own settings files?</pre></div>
+<div class="post-card" data-post><div class="post-card-head"><span class="post-num">LI . NO. 02</span><button type="button" class="post-copy" aria-label="Copy post">COPY</button></div><pre class="post-body">Three unrelated products shipped this week and they all made the same call.
+
+A digital workforce tool for construction and law firms. A contract platform. A little proposal pipeline a small agency in Sydney open sourced.
+
+Same design in all three. The agent does the work. A person signs off before anything goes out.
+
+WorkTelli hands you the evidence first, then makes the deliverable once you approve the evidence. Docgility won't turn a suggestion into a redline until a human has looked at it. The Sydney one lets code compute the price and run the checks, and the model only gets to say what it noticed.
+
+That last rule is my favorite. The model decides what to look at. The code decides what happens.
+
+If you're building AI for small business owners, this is the pattern. Owners don't want a robot holding the keys. They want a fast assistant who brings the stuff and waits for the nod.
+
+Would someone pay for that? I think someone would pay for that.
+
+Where in your workflow does the nod actually belong?</pre></div>
+<div class="post-card" data-post><div class="post-card-head"><span class="post-num">LI . NO. 03</span><button type="button" class="post-copy" aria-label="Copy post">COPY</button></div><pre class="post-body">Five Chinese labs shipped models in about a week. Nobody on my feed is talking about the price tags.
+
+Ant's Ling-3.2-flash runs $0.30 in and $0.90 out per million tokens, reads images and video, and claims to beat Claude Opus 5 on three vision tests. LG put out a model with a free API. Tencent's Hy4 does computer use. Baidu dropped a 280B base model. Moonshot's Kimi K3.1 Pro is open weights.
+
+Big caveat. Almost every score is self-reported. Ant says itself there's no independent index yet. Treat the benchmarks like a restaurant reviewing itself.
+
+But here's what I care about. For a small business tool, the question isn't which model is smartest. It's which one is good enough at a price where the client's bill doesn't flinch.
+
+Read the Kimi license before using it commercially. Ling has no open weights yet.
+
+Test one on a real task from a real client. Not a leaderboard. Their actual invoices, their actual inbox.
 
 Do more with the same, not the same with less.
 
-Where does your saved hour actually go on a Tuesday?</pre></div>
-<div class="post-card" data-post><div class="post-card-head"><span class="post-num">LI . NO. 02</span><button type="button" class="post-copy" aria-label="Copy post">COPY</button></div><pre class="post-body">Most bad builds don't fail at the code.
-
-They fail at the first assumption nobody questioned.
-
-Google open-sourced a plugin this week called Elephant-Goldfish. The idea is simple. One long session holds all the context and writes a spec. No code yet. Then fresh agents with zero history read that spec and try to tear it apart.
-
-Zero history is the whole trick. The one who wrote it can't see the hole. The one who just walked in can.
-
-Their pitch is catching wrong assumptions in a Markdown file instead of in a pull request. Cheap place to be wrong.
-
-Same move works on business ideas. Your ideas aren't bad ideas. They're just not finished ideas. Somebody who wasn't inside your head for three weeks will find the unfinished part in ten minutes.
-
-Who's your goldfish?</pre></div>
-<div class="post-card" data-post><div class="post-card-head"><span class="post-num">LI . NO. 03</span><button type="button" class="post-copy" aria-label="Copy post">COPY</button></div><pre class="post-body">Moonshot put out the weights for Kimi K3.1 Pro this week. 2.8 trillion parameters. On one agentic coding test, their own numbers have it within a point of Claude Opus 5.5.
-
-Their own numbers, so grain of salt. Artificial Analysis has it three points back on its index, which is still the closest an open model has gotten.
-
-The download is about 1.56 terabytes. Nobody's running that on a laptop.
-
-So who cares? The providers who can serve it. Any of them with the hardware can host it now, and prices follow. Meta put out Muse Spark Open too, with hosted options live on day one.
-
-Here's what I take from that. Near-frontier smart is getting cheap to rent. The model stops being the product.
-
-What's left is knowing which annoying, repeatable job a business owner would happily hand off.
-
-Would someone pay for that? I think someone would pay for that.</pre></div>
+What would you test first?</pre></div>
 <h3 class="post-group-label">THREADS / IG CAPTIONS</h3>
-<div class="post-card" data-post><div class="post-card-head"><span class="post-num">TH . NO. 01</span><button type="button" class="post-copy" aria-label="Copy post">COPY</button></div><pre class="post-body">Cursor, Mistral and Meta all shipped the same idea in one week. Describe the tool you want. It builds it, hosts it, puts a login on it.
+<div class="post-card" data-post><div class="post-card-head"><span class="post-num">TH . NO. 01</span><button type="button" class="post-copy" aria-label="Copy post">COPY</button></div><pre class="post-body">Seedream 5.5 generates images with a real alpha channel. Transparent backgrounds, partial transparency, no background removal step after.
 
-Cursor's version runs a security check before anything goes live. Meta's is for gift lists and wedding planners.
+ByteDance also says it holds up across 100 rounds of edits. That's their claim and their evals.
 
-The internal tool used to be a project. Now it's a text message.
+But if you've ever spent an hour cleaning hair edges on a cutout, you know why this one made me sit up.
 
-Which means the annoying spreadsheet your client has run their whole business on is about to become the easy part.</pre></div>
-<div class="post-card" data-post><div class="post-card-head"><span class="post-num">TH . NO. 02</span><button type="button" class="post-copy" aria-label="Copy post">COPY</button></div><pre class="post-body">Perplexity launched Teammates. Agents that remember the project, notice changes, and keep working without a new prompt. Slack, Gmail, GitHub.
+I'm going to test it before I believe it.</pre></div>
+<div class="post-card" data-post><div class="post-card-head"><span class="post-num">TH . NO. 02</span><button type="button" class="post-copy" aria-label="Copy post">COPY</button></div><pre class="post-body">Magai now lets one assistant see unlimited accounts per app. Work Gmail, personal Gmail, a few client inboxes, all at once.
 
-No accuracy numbers. No time-saved numbers. Hacker News was skeptical.
+Ask which inbox you sent an invoice from and it checks them all. If it's unclear which account to use, it asks instead of guessing.
 
-I'm not saying don't try it. I'm saying ask one question first. What's the worst thing it could do with email access?
+If you've ever sent a client email from the wrong address, you already get why this exists.
 
-If you can live with that answer, give it one recurring job and watch it for a week.</pre></div>
-<div class="post-card" data-post><div class="post-card-head"><span class="post-num">TH . NO. 03</span><button type="button" class="post-copy" aria-label="Copy post">COPY</button></div><pre class="post-body">A guy in La Crosse launched an AI setup business this week. He installs a lead assistant plus a few specialist workers on a small business's own computer.
+That's the right instinct for an assistant.</pre></div>
+<div class="post-card" data-post><div class="post-card-head"><span class="post-num">TH . NO. 03</span><button type="button" class="post-copy" aria-label="Copy post">COPY</button></div><pre class="post-body">Mistral shipped managed agents and a workflow builder. Read the labels though.
 
-The pitch that stuck with me wasn't the tech. It was "I build your team, I run it, and I answer for it."
+Public preview. Private preview. Generally available. Three different things in one announcement. Evals need an Enterprise org. Apps need an eligible plan.
 
-No account managers. No tickets.
+Everyone says launched. Almost nobody says which kind.
 
-Everybody's selling the agents. What owners seem to want is someone to call when the agent does something weird.</pre></div>
+Before you promise a client anything, find out which label you're standing on.</pre></div>
 </section>
 <script>
 document.addEventListener('click', (e) => {
@@ -117,98 +123,100 @@ document.addEventListener('click', (e) => {
 <h2 id="ai-launches-news">AI launches &amp; news</h2>
 
 <ul>
-<li><p><strong>Kimi K3.1 Pro weights are public</strong> - AI Frontier Post
-Moonshot published the weights on Nov 4. It's 2.8T parameters, and Moonshot's own tests put it within a point of Claude Opus 5.5 on agentic coding (65.7 vs 66.4).
-Artificial Analysis scores it 55, three points behind Opus 5.5, which is the closest an open model has gotten there.
-The download is about 1.56 TB, so nobody's running it at home. The point is that any provider with the hardware can now serve it.
-<a rel="noopener" target="_blank" href="https://aifrontierpost.com/articles/kimi-k3-1-pro-open-weights-release/">https://aifrontierpost.com/articles/kimi-k3-1-pro-open-weights-release/</a></p></li>
-<li><p><strong>Meta drops Muse Spark Open</strong> - 9to6AI
-816B parameters, about 42B active, 1M context. Weights are on Hugging Face and hosted APIs were live on day one (Together, Fireworks, Groq, OpenRouter, and others).
-The license wants "Built with Muse Spark Open" attribution. Big hosting providers over $20M revenue need a separate deal.
-Meta calls it the most capable US open-weight model, and 9to6AI hasn't tested it hands-on yet.
-<a rel="noopener" target="_blank" href="https://9to6ai.com/muse-spark-open/">https://9to6ai.com/muse-spark-open/</a></p></li>
-<li><p><strong>Baidu ships ERNIE 5.5 Flash Base, with no post-training</strong> - AI In Context
-280B total and 14B active, open on Hugging Face. It's raw on purpose, so you shape it yourself. A tuned version is supposed to follow.
-Nous Research also put out Arete-27B, a Qwen fine-tune. There's a community quant sized for a 24 GB GPU, which is the one a normal person could run.
-<a rel="noopener" target="_blank" href="https://aiincontext.com/articles/baidu-open-sources-ernie-5-5-flash-base-a-280-billion-parameter-model">https://aiincontext.com/articles/baidu-open-sources-ernie-5-5-flash-base-a-280-billion-parameter-model</a></p></li>
-<li><p><strong>Gemini Omni Flash 1.2</strong> - Hamidun News
-Clips up to 15 seconds, editing through back-and-forth chat, less visual drift, and 30% cheaper than 1.1.
-It's a practical release, not a wow one. No independent tests yet, and it's unclear whether each chat edit bills as a new generation.
-<a rel="noopener" target="_blank" href="https://news.hamidun.com/en/news/15310/google-launches-gemini-omni-flash-1-2-videos-up-to-15-second">https://news.hamidun.com/en/news/15310/google-launches-gemini-omni-flash-1-2-videos-up-to-15-second</a></p></li>
-<li><p><strong>Big Tech's AI race saves owners time, not customers</strong> - Fortune
-Eric Groves, CEO of Alignable, cites a Bluehost study of 350 U.S. owners. 78% say AI saves them time weekly, but 43% have seen no revenue change.
-He runs a company that sells the alternative, so read it with that in mind. The stat is still the useful part.
-That's one owner's reaction after his automation sent about 400,000 emails in three days.
-<a rel="noopener" target="_blank" href="https://fortune.com/2026/11/07/alignable-ai-assistants-small-business-referrals-eric-groves/">https://fortune.com/2026/11/07/alignable-ai-assistants-small-business-referrals-eric-groves/</a></p></li>
-</ul>
+<li><p><strong>Claude Code approved-command leak, plus Claude blocks game recreation</strong> - TLDR
+Claude Code stores approved commands in a local settings file that isn't auto-ignored. If a key was inline in one of those commands, it gets saved too. The same writeup says Anthropic also updated Claude to stop recreating existing video games, to cut copyright risk. The author's point: legal safety gets the headlines, and protecting your own credentials gets almost none.
+<a rel="noopener" target="_blank" href="https://tldr.tech/story/04175cbd-2d6b-42a8-9a17-b4df62c01acd">https://tldr.tech/story/04175cbd-2d6b-42a8-9a17-b4df62c01acd</a></p></li>
+<li><p><strong>Claude Opus 5.5 system card</strong> - Anthropic via TLDR
+The card covers the usual pre-deployment testing, and the summary calls it a broad step up from Opus 5. Agentic coding, visual reasoning, computer use and long professional tasks all improved. Anthropic reports low catastrophic risk. I only have the summary, so read the card before quoting anything from it.
+<a rel="noopener" target="_blank" href="https://tldr.tech/story/21929429-7745-476d-b0ce-8d921f3da7a9">https://tldr.tech/story/21929429-7745-476d-b0ce-8d921f3da7a9</a></p></li>
+<li><p><strong>Anthropic OSS Scanner</strong> - dugganusa.com via TLDR
+Free, opt-in. It sends open-source maintainers AI-written vulnerability reports with no human review, and Anthropic expects a true-positive rate above 90 percent. The author's advice: treat every report as untrusted input and check severity yourself. Maintainers may also get buried in fixes as models find bugs faster.
+<a rel="noopener" target="_blank" href="https://tldr.tech/story/80206ee9-86c8-4c6f-8543-2b3dac9eafb9">https://tldr.tech/story/80206ee9-86c8-4c6f-8543-2b3dac9eafb9</a></p></li>
+<li><p><strong>Five Chinese labs shipped in about a week</strong> - various</p>
 
-<blockquote>
-  <p>"I don't have 400,000 customers."</p>
-</blockquote>
+<ul>
+<li>Ant's Ling-3.2-flash is a 560B mixture-of-experts model that reads text, images and video. It costs $0.30 in and $0.90 out per million tokens. Ant says it beats Claude Opus 5 on three vision benchmarks. Those are Ant's own tests, and the weights aren't open yet.</li>
+<li>LG's K-EXAONE 2.5 has a free API and is aimed at agentic work.</li>
+<li>Tencent's Hy4 added computer use and image understanding. Weights come later.</li>
+<li>Baidu released ERNIE 5.5 Flash Base, a 280B base model with no fine-tuning.</li>
+<li>Moonshot's Kimi K3.1 Pro is open weights, but under its own license. Read it before commercial use.
+Almost every score here is self-reported. Cheap is real. "Beats Opus" is a claim.
+<a rel="noopener" target="_blank" href="https://paktechstan.com/article/ant-group-launches-ling-3-2-flash-a-560b-multimodal-model-that-claims-to-beat-claude-opus-5">https://paktechstan.com/article/ant-group-launches-ling-3-2-flash-a-560b-multimodal-model-that-claims-to-beat-claude-opus-5</a>
+<a rel="noopener" target="_blank" href="https://www.asiae.co.kr/en/article/2026110908593029581">https://www.asiae.co.kr/en/article/2026110908593029581</a>
+<a rel="noopener" target="_blank" href="https://technode.global/2026/11/09/tencent-hy4-visual-computer-use/">https://technode.global/2026/11/09/tencent-hy4-visual-computer-use/</a>
+<a rel="noopener" target="_blank" href="https://ainews.met-ai.tech/en/n/9SFxsBrif9UA">https://ainews.met-ai.tech/en/n/9SFxsBrif9UA</a>
+<a rel="noopener" target="_blank" href="https://aiholics.com/new-ai-models-this-week-2026-11-08/">https://aiholics.com/new-ai-models-this-week-2026-11-08/</a></li>
+</ul></li>
+<li><p><strong>Gemini Omni 1.2 Flash</strong> - Google via Aiholics
+Video clips now run up to 15 seconds, and 720p is $0.07 per second, which Google says is 30% cheaper than the last version. That's about $1.05 for a full clip. It takes reference images and audio cues, and you can edit by chatting, like swapping a product or the lighting. The quality claims are Google's examples, not independent tests.
+<a rel="noopener" target="_blank" href="https://aiholics.com/new-ai-models-this-week-2026-11-08/">https://aiholics.com/new-ai-models-this-week-2026-11-08/</a></p></li>
+<li><p><strong>Seedream 5.5</strong> - ByteDance Seed
+It generates images with a real alpha channel, so you get transparent backgrounds with no cleanup step. ByteDance also claims it holds up across 100 rounds of edits and renders text better. The evals are theirs. A Pro version is coming.
+<a rel="noopener" target="_blank" href="https://seed.bytedance.com/en/blog/more-realistic-images-more-stable-editing-across-100-rounds-introducing-seedream-5-5">https://seed.bytedance.com/en/blog/more-realistic-images-more-stable-editing-across-100-rounds-introducing-seedream-5-5</a></p></li>
+</ul>
 
 <h2 id="enterprise-ai-moves">Enterprise AI moves</h2>
 
 <ul>
-<li><p><strong>Mistral Studio adds managed agents and apps</strong> - Tech AI Latest
-Agents and apps are in public preview, and workflows are generally available. Agents get sandboxes, subagents, and human approval steps. Apps come with hosting and access controls.
-Private cloud and on-prem are promised for the end of November. No pricing yet.
-If you sell to anyone regulated, the on-prem date is the part to watch.
-<a rel="noopener" target="_blank" href="https://techailatest.news/ai-agents/mistral-studio-managed-agents-public-preview">https://techailatest.news/ai-agents/mistral-studio-managed-agents-public-preview</a></p></li>
-<li><p><strong>Cursor Live Apps</strong> - TAO Media
-A cloud agent builds a web app, spins up a Postgres database, sets up login, and hosts it at a shareable URL. Security checks run before every publish.
-It's on all paid plans with cloud agents. Cursor's own sales, ops, and finance teams are already building internal tools this way.
-Meta also shipped Spaces in Muse this week, which is the same idea for regular people. The internal tool is turning into a text message.
-<a rel="noopener" target="_blank" href="https://www.tao.media/cursor-launches-live-apps-with-agent-built-hosting-databases-and-team-sharing/">https://www.tao.media/cursor-launches-live-apps-with-agent-built-hosting-databases-and-team-sharing/</a></p></li>
-<li><p><strong>Perplexity Teammates</strong> - Hamidun News
-Persistent agents for marketing, sales, support, ops, and finance. They remember the project, notice changes, and keep going without a new prompt. It's web only and Max subscribers only for now.
-There are no accuracy or time-saved numbers, and Hacker News was skeptical.
-If you pilot one, give it a single recurring job and only the permissions it needs.
-<a rel="noopener" target="_blank" href="https://news.hamidun.com/en/news/15351/perplexity-puts-teammates-in-charge-of-5-workflows-without-a">https://news.hamidun.com/en/news/15351/perplexity-puts-teammates-in-charge-of-5-workflows-without-a</a></p></li>
+<li><p><strong>Mistral Studio adds Managed Agents</strong> - Autonomy Crew
+Managed Agents and the workflow builder are in public preview. HTTP API connectors are in private preview. Studio apps inside Vibe Code Web are generally available. Offline evals need an Enterprise-tier org, and creating apps needs an eligible paid plan. That's three availability labels in one announcement. Check which one applies before you promise a client anything. Developers choose which tool calls need approval, and runs can resume after a crash.
+<a rel="noopener" target="_blank" href="https://autonomycrew.com/ai/mistral-studio-managed-agents/">https://autonomycrew.com/ai/mistral-studio-managed-agents/</a></p></li>
+<li><p><strong>WorkTelli puts a human approver on every deliverable</strong> - Business Bearings
+It targets small and mid-size shops in construction, law and healthcare. The agent brings back evidence first, and the deliverable only gets made after a person approves the evidence.
+That's founder David A. Craig. It's the same pattern selling to small business keeps landing on: the owner makes the call, the software does the legwork.
+<a rel="noopener" target="_blank" href="https://businessbearings.com/articles/prodigyiq-readies-worktelli-a-digital-workforce-with-humans-signing-off">https://businessbearings.com/articles/prodigyiq-readies-worktelli-a-digital-workforce-with-humans-signing-off</a></p></li>
+</ul>
+
+<blockquote>
+  <p>"You never want to take the human out of the loop because AI isn't always accurate."</p>
+</blockquote>
+
+<ul>
+<li><strong>Docgility's agentic framework for contracts</strong> - Docgility
+It pulls in company playbooks and live systems through MCP, and shows reviewers the exact prompts behind every suggestion. A human reviews everything before it becomes a redline. The 80% cycle-time cut is the company's own number, from a press release. The "human always reviews" design is the part worth copying.
+<a rel="noopener" target="_blank" href="https://www.docgility.com/post/docgility-announces-the-release-of-its-groundbreaking-agentic-ai-llm-integration-framework-for-ent">https://www.docgility.com/post/docgility-announces-the-release-of-its-groundbreaking-agentic-ai-llm-integration-framework-for-ent</a></li>
 </ul>
 
 <h2 id="new-harnesses-tools">New harnesses &amp; tools</h2>
 
 <ul>
-<li><p><strong>Elephant-Goldfish Model plugin</strong> - MarkTechPost
-Google open-sourced it. One long session drafts a spec and writes no code. Then fresh subagents with zero history try to tear the spec apart before any code gets written.
-It works with Claude Code 2.1.271+, Codex, and Antigravity. There's no accuracy benchmark, and one open issue shows instruction files leaking into reviewers on Codex.
-A builder would care because it catches wrong assumptions in a Markdown file instead of in a pull request.
-<a rel="noopener" target="_blank" href="https://www.marktechpost.com/2026/11/08/google-elephant-goldfish-model-plugin-spec-review-coding-agents/">https://www.marktechpost.com/2026/11/08/google-elephant-goldfish-model-plugin-spec-review-coding-agents/</a></p></li>
-<li><p><strong>Framer Harness 2</strong> - Tech Bytes
-The agent now writes JavaScript that executes while it streams, instead of emitting one command at a time. Framer reports up to 33% cheaper, 20% faster, and half the tool steps.
-If an early check fails, it cancels the stream and stops paying for tokens. That "check first, bail early" move is worth stealing for your own agents.
-<a rel="noopener" target="_blank" href="https://techbytes.app/posts/harness-2-executing-agent-code-as-it-streams/">https://techbytes.app/posts/harness-2-executing-agent-code-as-it-streams/</a></p></li>
-<li><p><strong>Google ADK 2.14.0</strong> - AI Weekly
-A/A2A and execution environments graduate from experimental, and there's a new TeamsRunner for Microsoft Teams. There are three breaking changes, including <code>RunSkillScriptTool</code> no longer taking a free-form command.
-If you build on ADK, read the upgrade notes first. It's worth it mainly if your clients live in Teams.
-<a rel="noopener" target="_blank" href="https://aiweekly.co/alerts/google-adk-2140-graduates-core-modules-adds-teams-runner">https://aiweekly.co/alerts/google-adk-2140-graduates-core-modules-adds-teams-runner</a></p></li>
-</ul>
-
-<h2 id="podcast-watch-list">Podcast watch list</h2>
-
-<ul>
-<li><strong>The Simplest $15K Sale You'll Ever Make ($9 to Start)</strong> - The Koerner Office
-I only have the title, with no transcript pulled today. The "$9 to start, $15K sale" setup sounds like a Koerner ladder, so it's probably worth a listen on the sales angle.
-<a rel="noopener" target="_blank" href="https://www.youtube.com/watch?v=eSDRRPWBCV8">https://www.youtube.com/watch?v=eSDRRPWBCV8</a></li>
+<li><p><strong>bigpickle-brain: three agents and one memory</strong> - Josefina Tersoli, DEV Community
+A small Sydney agency open-sourced a research, proposal and review pipeline, MIT licensed. The rule I'd steal: the model decides what to look at, and the code decides what happens. Code computes the totals and checks prices before the reviewer agent sees anything. Memory is plain Markdown notes a person can open in Obsidian and fix. It's a good blueprint for anyone building agency tooling.
+<a rel="noopener" target="_blank" href="https://dev.to/jtersoli/three-agents-and-one-memory-a-proposal-pipeline-for-a-small-agency-66j">https://dev.to/jtersoli/three-agents-and-one-memory-a-proposal-pipeline-for-a-small-agency-66j</a></p></li>
+<li><p><strong>Magai multi-account connectors</strong> - Latest With AI
+Link unlimited accounts per app, like work Gmail, personal Gmail and several client inboxes, and one assistant sees them all. If it's unclear which account to act on, it asks instead of guessing. It's on the Pro plan, from $40 a month. Freelancers and agencies juggling client logins are the obvious fit.
+<a rel="noopener" target="_blank" href="https://latestwithai.com/ai-business/magai-lets-ai-see-across-work-personal-and-client-accounts-at-once/">https://latestwithai.com/ai-business/magai-lets-ai-see-across-work-personal-and-client-accounts-at-once/</a></p></li>
+<li><p><strong>Zyphra MAIA</strong> - GIGAZINE
+An agent built so several teammates can use it at the same time, with Slack and GitHub hooks. It's a macOS beta and free during beta. The pitch is "multiplayer", where most agents are single-player.
+<a rel="noopener" target="_blank" href="https://gigazine.net/gsc_news/en/20261109-maia-zyphra-multiplayer-ai-agent">https://gigazine.net/gsc_news/en/20261109-maia-zyphra-multiplayer-ai-agent</a></p></li>
+<li><p><strong>Coderick AI Import Design</strong> - SiteGround
+Upload a ZIP or HTML export from Claude Design or Google Stitch and it builds the frontend, backend and database, hosted on SiteGround. It's one more sign that design-to-working-app is turning into a checkbox.
+<a rel="noopener" target="_blank" href="https://www.streetinsider.com/Newsfile/Coderick+AI+by+SiteGround+Lets+Users+Turn+Claude+and+Stitch+Designs+Into+Working+Web+Apps/27311391.html">https://www.streetinsider.com/Newsfile/Coderick+AI+by+SiteGround+Lets+Users+Turn+Claude+and+Stitch+Designs+Into+Working+Web+Apps/27311391.html</a></p></li>
+<li><p><strong>Meta Spaces in the Muse app</strong> - Gadgets 360
+Spaces are custom AI-built feeds and dashboards pulling from sources you choose. Meta's examples include a school calendar, a shopping hub and an order tracker for small businesses. The app is US and Canada only for now, and sharing is still in the works.
+<a rel="noopener" target="_blank" href="https://www.gadgets360.com/ai/news/meta-launches-spaces-feature-custom-muse-ai-app-experiences-12302566">https://www.gadgets360.com/ai/news/meta-launches-spaces-feature-custom-muse-ai-app-experiences-12302566</a></p></li>
+<li><p><strong>Kollus MCP</strong> - Digital Today
+A Korean video platform is now in the Claude and ChatGPT directories. You can ask for viewing stats in chat, or ask it to generate player embed code. It's small, but MCP-in-the-directory is becoming how products show up.
+<a rel="noopener" target="_blank" href="https://www.digitaltoday.co.kr/en/view/123072/katenoid-launches-kollus-mcp-manage-video-services-through-ai-chat">https://www.digitaltoday.co.kr/en/view/123072/katenoid-launches-kollus-mcp-manage-video-services-through-ai-chat</a></p></li>
 </ul>
 
 <h2 id="content-angles-for-you">Content angles for you</h2>
 
 <ol>
-<li>The 78% vs 43% stat. AI saves the time, but revenue didn't move. Where does the saved hour actually go?</li>
-<li>The goldfish idea from Google's plugin. A reviewer with no context finds the hole the author can't see. Same thing works on a business idea.</li>
-<li>Near-frontier models are now downloadable. When "smart" gets cheap to rent, the model stops being the product, and the product is knowing the annoying job to hand off.</li>
-<li>Perplexity Teammates has no accuracy numbers. Ask "what's the worst thing it could do with email access?" before you hand over the keys.</li>
-<li>Cursor, Mistral, and Meta all shipped "describe a tool, get it hosted" in one week. What that does to the spreadsheet every small business runs on.</li>
+<li>"Go open your Claude Code settings file." Walk through what it saves, why a key can end up in it, and the fix: rotate it, and keep keys in a .env, never inline. It's practical, it's timely, and nobody else is saying it plainly.</li>
+<li>Three products shipped this week (WorkTelli, Docgility, the Sydney pipeline) and all of them put a human sign-off before anything goes out. Make the case that this is the pattern small business owners will actually buy.</li>
+<li>"The model decides what to look at, the code decides what happens." Take the bigpickle-brain rule and show what it looks like in a Handled build.</li>
+<li>Five Chinese models in a week, with the benchmark caveat. The real question for client work is price per task, not rank on a leaderboard.</li>
+<li>Seedream 5.5's real alpha channel, and what it would mean for the photoreal-base-plus-words workflow. Test it first, then post the result.</li>
 </ol>
 
 <h2 id="people-to-engage-with">People to engage with</h2>
 
 <ul>
-<li><strong>Eric Groves</strong> (no handle found in the content) - CEO of Alignable, wrote the Fortune piece on AI saving time but not finding customers. He has a stake, but the referral angle overlaps with what you teach.</li>
-<li><strong>Logan Kilpatrick</strong> (@OfficialLoganK) - announced Gemini Omni Flash 1.2.</li>
-<li><strong>Dave Rensin</strong> (no handle found in the content) - his elephants-and-goldfish essay is the idea behind Google's plugin.</li>
-<li><strong>Rich</strong> (Rich AI Systems, La Crosse, WI, no handle found) - just launched installing AI teams on small businesses' own computers, with himself as the person who answers for it. Same customer as yours, so worth a look.</li>
+<li><strong>Josefina Tersoli</strong> - published the bigpickle-brain write-up and repo. A co-founder of a small Sydney agency building what you're building, and a natural peer to talk shop with.</li>
+<li><strong>David A. Craig</strong> - founder of ProdigyIQ and builder of WorkTelli. His line about never taking the human out of the loop is worth a reply.</li>
+<li><strong>Guru Vishwa</strong> - co-founder of DigiTechzo in Madurai, who talks about AI that answers leads at midnight and updates the CRM. It's the same small-business lane Handled is in.</li>
+<li><strong>Tulsee Doshi</strong> - head of product for Gemini. Her interview on how frontier models actually get built is worth a listen if you want a view from the inside.</li>
 </ul>
 
     </article>

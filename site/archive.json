@@ -30772,5 +30772,191 @@
     "title": "OpenAI GPT-6 Intelligent UI builds interactive tools | TLDR",
     "url": "https://tldr.tech/story/487f5a4d-6f99-4d4d-920d-5536e9b2a41c",
     "snippet": "OpenAI GPT-6 Intelligent UI builds interactive tools | TLDR\n\n# OpenAI GPT-6 Intelligent UI builds interactive tools\n\nThe author tests OpenAI's upgraded ChatGPT model with its new Intelligent UI feature by asking it to build six different interactive tools, ranging from a room design app to a life decision simulator. The author finds that while the interactive interfaces are engaging and customizab"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-11-09",
+    "headline": "Claude Code has a leak problem, and it's probably sitting in your repo right now.",
+    "url": "archive/2026-11-09.html",
+    "posts": {
+      "linkedin": [
+        "Check your repo before you read anything else today.\n\nClaude Code saves the shell commands you approve into a local settings file. Per one writeup going around, that file doesn't get added to your project gitignore on its own. Credentials have ended up on public GitHub that way.\n\nThink about why. You approve a command once, it has a key inline, and Claude remembers it so it stops asking. Super convenient. It's also a quiet copy of your secret sitting in a file you never opened.\n\nI'm not saying panic. I'm saying open the folder.\n\nLook in your .claude directory for the local settings file. Read what's in it. Make sure it's ignored. If a key is in there, rotate it, because deleting the file doesn't unpublish a commit.\n\nWhat gets me is that the legal side of AI safety gets all the headlines. The \"did I just leak my own key\" side gets almost none.\n\nBoring habit that fixes most of it: keys live in a .env, never in a command line.\n\nWhen's the last time you actually read your own settings files?",
+        "Three unrelated products shipped this week and they all made the same call.\n\nA digital workforce tool for construction and law firms. A contract platform. A little proposal pipeline a small agency in Sydney open sourced.\n\nSame design in all three. The agent does the work. A person signs off before anything goes out.\n\nWorkTelli hands you the evidence first, then makes the deliverable once you approve the evidence. Docgility won't turn a suggestion into a redline until a human has looked at it. The Sydney one lets code compute the price and run the checks, and the model only gets to say what it noticed.\n\nThat last rule is my favorite. The model decides what to look at. The code decides what happens.\n\nIf you're building AI for small business owners, this is the pattern. Owners don't want a robot holding the keys. They want a fast assistant who brings the stuff and waits for the nod.\n\nWould someone pay for that? I think someone would pay for that.\n\nWhere in your workflow does the nod actually belong?",
+        "Five Chinese labs shipped models in about a week. Nobody on my feed is talking about the price tags.\n\nAnt's Ling-3.2-flash runs $0.30 in and $0.90 out per million tokens, reads images and video, and claims to beat Claude Opus 5 on three vision tests. LG put out a model with a free API. Tencent's Hy4 does computer use. Baidu dropped a 280B base model. Moonshot's Kimi K3.1 Pro is open weights.\n\nBig caveat. Almost every score is self-reported. Ant says itself there's no independent index yet. Treat the benchmarks like a restaurant reviewing itself.\n\nBut here's what I care about. For a small business tool, the question isn't which model is smartest. It's which one is good enough at a price where the client's bill doesn't flinch.\n\nRead the Kimi license before using it commercially. Ling has no open weights yet.\n\nTest one on a real task from a real client. Not a leaderboard. Their actual invoices, their actual inbox.\n\nDo more with the same, not the same with less.\n\nWhat would you test first?"
+      ],
+      "threads": [
+        "Seedream 5.5 generates images with a real alpha channel. Transparent backgrounds, partial transparency, no background removal step after.\n\nByteDance also says it holds up across 100 rounds of edits. That's their claim and their evals.\n\nBut if you've ever spent an hour cleaning hair edges on a cutout, you know why this one made me sit up.\n\nI'm going to test it before I believe it.",
+        "Magai now lets one assistant see unlimited accounts per app. Work Gmail, personal Gmail, a few client inboxes, all at once.\n\nAsk which inbox you sent an invoice from and it checks them all. If it's unclear which account to use, it asks instead of guessing.\n\nIf you've ever sent a client email from the wrong address, you already get why this exists.\n\nThat's the right instinct for an assistant.",
+        "Mistral shipped managed agents and a workflow builder. Read the labels though.\n\nPublic preview. Private preview. Generally available. Three different things in one announcement. Evals need an Enterprise org. Apps need an eligible plan.\n\nEveryone says launched. Almost nobody says which kind.\n\nBefore you promise a client anything, find out which label you're standing on."
+      ]
+    }
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-09",
+    "topic": "model_releases",
+    "title": "LG Unveils K-EXAONE 2.5, Boosts Agentic AI Performance by 70% - The Asia Business Daily",
+    "url": "https://www.asiae.co.kr/en/article/2026110908593029581",
+    "snippet": "LG Unveils K-EXAONE 2.5, Boosts Agentic AI Performance by 70% - The Asia Business Daily\n\n# LG Unveils K-EXAONE 2.5, Boosts Agentic AI Performance by 70%\n\nby Park Joonyi\n\nPublished 09 Nov.2026 10:00(KST) \n\nUpdated 09 Nov.2026 14:58(KST) \n\n## Further training of the second-round model boosts performance Competes with global models across four metrics Fully free access; frontier-level model targeted "
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-09",
+    "topic": "model_releases",
+    "title": "Baidu releases 280 billion parameter open-source model ERNIE 5.5 Flash Base \u2014 AI\u901a\u4fe1",
+    "url": "https://ainews.met-ai.tech/en/n/9SFxsBrif9UA",
+    "snippet": "Baidu releases 280 billion parameter open-source model ERNIE 5.5 Flash Base \u2014 AI\u901a\u4fe1\n\n# Baidu releases 280 billion parameter open-source model ERNIE 5.5 Flash Base\n\nModels\u270d Text Published: 9 November 2026 at 00:52 (JST) Source: The Decoder\n\nKey point\n\nBaidu has released ERNIE 5.5 Flash Base, a 280-billion-parameter MoE open-source foundation model pre-trained on 33.5 trillion tokens.\n\nBaidu has rele"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-09",
+    "topic": "model_releases",
+    "title": "Tencent releases Hy4 with computer-use capabilities",
+    "url": "https://technode.global/2026/11/09/tencent-hy4-visual-computer-use/",
+    "snippet": "Tencent releases Hy4 with computer-use capabilities\n\n## Tencent releases Hy4 with visual and computer-use capabilities\n\nNovember 9, 2026\u2022 AI, Asia, China, Cybersecurity, Deep Tech, Enterprise, News\u2022 By TNGlobal\n\nChina\u2019s Tencent has released the full version of its Hy4 large language model, adding visual understanding and computer-use functions as Chinese developers compete to expand open-model cap"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-09",
+    "topic": "model_releases",
+    "title": "New AI models this week: Omni 1.2 Flash, Kimi K3.1",
+    "url": "https://aiholics.com/new-ai-models-this-week-2026-11-08/",
+    "snippet": "New AI models this week: Omni 1.2 Flash, Kimi K3.1\n\n# New AI models this week: Gemini Omni 1.2 Flash and Kimi K3.1 Pro lead the roundup\n\nGoogle's Gemini Omni 1.2 Flash stretches AI video to 15 seconds at a 30% lower price, while Moonshot's open Kimi K3.1 Pro and a Z.ai GLM variant round out the week.\n\nAlex Carter - AI News & Big Tech Correspondent\n\nPublished: November 8, 2026 5 Min Read\n\nGraphic: "
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-09",
+    "topic": "model_releases",
+    "title": "Ant Group Launches Ling-3.2-flash, a 560B Multimodal Model That Claims to Beat Claude Opus 5 \u2014 Paktechstan",
+    "url": "https://paktechstan.com/article/ant-group-launches-ling-3-2-flash-a-560b-multimodal-model-that-claims-to-beat-claude-opus-5",
+    "snippet": "Ant Group Launches Ling-3.2-flash, a 560B Multimodal Model That Claims to Beat Claude Opus 5 \u2014 Paktechstan\n\n# Ant Group Launches Ling-3.2-flash, a 560B Multimodal Model That Claims to Beat Claude Opus 5\n\nAnt Group's Ling team has released Ling-3.2-flash, a native multimodal model that reads text, images and video \u2014 and, on Ant's own benchmarks, outscores Anthropic's Claude Opus 5 on vision tasks.\n"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-09",
+    "topic": "product_releases",
+    "title": "'MAIA,' an AI agent designed for simultaneous use by multiple people in a team, has been released. - GIGAZINE",
+    "url": "https://gigazine.net/gsc_news/en/20261109-maia-zyphra-multiplayer-ai-agent",
+    "snippet": "'MAIA,' an AI agent designed for simultaneous use by multiple people in a team, has been released. - GIGAZINE\n\nNov 09, 2026 19:52:00\n\n# 'MAIA,' an AI agent designed for simultaneous use by multiple people in a team, has been released.\n\n AI development company Zyphra has released a beta version of its AI agent tool, ' MAIA '. MAIA by Zyphra \n\nhttps://zyphra.com/maia \n\n> Our mission at Zyphra is to "
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-09",
+    "topic": "product_releases",
+    "title": "Seed News - ByteDance Seed Team",
+    "url": "https://seed.bytedance.com/en/blog/more-realistic-images-more-stable-editing-across-100-rounds-introducing-seedream-5-5",
+    "snippet": "# More Realistic Images, More Stable Editing Across 100 Rounds | Introducing Seedream 5.5\n\nDate\n\n2026-11-09\n\nToday, we are introducing Seedream 5.5, our next-generation image creation model.\n\nImage creation models are becoming part of professional visual production workflows. What matters is whether they can consistently deliver usable results that meet quality standards and deadlines while stayin"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-09",
+    "topic": "product_releases",
+    "title": "Coderick AI by SiteGround Lets Users Turn Claude and Stitch Designs Into Working Web Apps",
+    "url": "https://www.streetinsider.com/Newsfile/Coderick+AI+by+SiteGround+Lets+Users+Turn+Claude+and+Stitch+Designs+Into+Working+Web+Apps/27311391.html",
+    "snippet": "Coderick AI by SiteGround Lets Users Turn Claude and Stitch Designs Into Working Web Apps\n\n# Coderick AI by SiteGround Lets Users Turn Claude and Stitch Designs Into Working Web Apps\n\n StreetInsider.com Top Tickers, 11/9/2026\n\n 1. NVDA 2. DKNG 3. GFR 4. JNJ 5. NRG \n\nNovember 9, 2026 7:45 AM EST\n\nUsers can turn designs from Claude Design and Google Stitch into functional websites and web applicatio"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-09",
+    "topic": "product_releases",
+    "title": "Katenoid launches Kollus MCP to manage video services through AI chat",
+    "url": "https://www.digitaltoday.co.kr/en/view/123072/katenoid-launches-kollus-mcp-manage-video-services-through-ai-chat",
+    "snippet": "Katenoid launches Kollus MCP to manage video services through AI chat\n\n Updated 9:10 PM KST, Mon November 9, 2026 | Mobile Web \n\n# Katenoid launches Kollus MCP to manage video services through AI chat\n\n Generating... AI Summary\n\n Korea-based video technology as a service company Katenoid said on Nov. 9 it launched Kollus MCP, an AI-linked service that lets users manage and develop video services t"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-09",
+    "topic": "product_releases",
+    "title": "Meta Introduces Spaces for Designing Custom Experiences Inside Muse AI App | Technology News",
+    "url": "https://www.gadgets360.com/ai/news/meta-launches-spaces-feature-custom-muse-ai-app-experiences-12302566",
+    "snippet": "Meta Introduces Spaces for Designing Custom Experiences Inside Muse AI App | Technology News\n\n# Meta Introduces Spaces for Designing Custom Experiences Inside Muse AI App\n\nMeta wants users to convert their ideas into Spaces, which work like custom-made, AI-generated feeds\n\n Written by Sheldon Pinto, Edited by Rohan Pal | Updated: 9 November 2026 13:37 IST \n\nSpaces can be moved with the Muse app\u2019s "
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-09",
+    "topic": "ai_agents",
+    "title": "Docgility Announces the Release of its Groundbreaking Agentic AI & LLM Integration Framework for Enterprise Contract Acceleration",
+    "url": "https://www.docgility.com/post/docgility-announces-the-release-of-its-groundbreaking-agentic-ai-llm-integration-framework-for-ent",
+    "snippet": "Docgility Announces the Release of its Groundbreaking Agentic AI & LLM Integration Framework for Enterprise Contract Acceleration\n\n# Docgility Announces the Release of its Groundbreaking Agentic AI & LLM Integration Framework for Enterprise Contract Acceleration\n\nNov 9\n\nExpand image\n\nNew framework bridges the gap between frontier AI, secure enterprise context, and complete human oversight to revol"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-09",
+    "topic": "ai_agents",
+    "title": "Mistral Studio adds managed agents, with preview limits | Autonomy Crew",
+    "url": "https://autonomycrew.com/ai/mistral-studio-managed-agents/",
+    "snippet": "# Mistral Studio adds managed agents, with preview limits\n\nMistral's November 5 Studio expansion adds managed agents and workflow tools, but availability and data controls need careful review.\n\nAutonomy Crew Newsroom\n\nPublished November 8, 2026 / Updated November 8, 2026 / 4 min read\n\n...\n\n## Key facts\n\n- As of November 8, 2026, Managed Agents and the workflow builder are in public preview. [2]\n- "
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-09",
+    "topic": "ai_small_business",
+    "title": "From Madurai to the World: DigiTechzo Brings Production-R... | National Biz News",
+    "url": "https://nationalbiznews.com/business/from-madurai-to-the-world-digitechzo-brings-production-ready-ai-agents-to-growing-businesses",
+    "snippet": "Madurai-based technology company focuses on AI agents that automate lead management, appointment booking, recruitment and marketing for SMEs and startups\n\nMADURAI, Tamil Nadu, Nov 08: DigiTechzo, a Madurai-headquartered AI and technology solutions company, is sharpening its focus on production-ready AI agents and workflow automation for small and mid-sized businesses, startups and service companie"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-09",
+    "topic": "ai_small_business",
+    "title": "Magai lets AI see across work, personal and client accounts at once",
+    "url": "https://latestwithai.com/ai-business/magai-lets-ai-see-across-work-personal-and-client-accounts-at-once/",
+    "snippet": "Magai now lets one AI assistant work across a person\u2019s work, personal and client accounts at the same time. The platform connects an unlimited number of accounts per integration, and its Scheduled Tasks can run automatically against any of them.\n\n...\n\nWith Magai, there is no cap on how many accounts a user can link to the same application. Someone can connect a work Gmail, a personal Gmail, and se"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-09",
+    "topic": "ai_small_business",
+    "title": "WorkTelli: AI Digital Workers With Human Oversight \u2014 Business Bearings",
+    "url": "https://businessbearings.com/articles/prodigyiq-readies-worktelli-a-digital-workforce-with-humans-signing-off",
+    "snippet": "ProdigyIQ Technologies founder David A. Craig has spent up to 18 hours a day since March building WorkTelli, a workforce infrastructure product that deploys digital workers across a company's systems while keeping a human approver on every deliverable.\n\n...\n\nWorkTelli targets small-to-mid-sized businesses in task-heavy industries \u2014 construction, law and healthcare. The software creates agents that"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-09",
+    "topic": "ai_small_business",
+    "title": "Three agents and one memory: a proposal pipeline for a small agency - DEV Community",
+    "url": "https://dev.to/jtersoli/three-agents-and-one-memory-a-proposal-pipeline-for-a-small-agency-66j",
+    "snippet": "Three agents and one memory: a proposal pipeline for a small agency - DEV Community\nJosefina Tersoli\nPosted on Nov 8 \u2022 Originally published at github.com \u2022 AI-assisted\n# Three agents and one memory: a proposal pipeline for a small agency\n*Josefina Tersoli, October 2026. The code is at github.com/JTersoli/bigpickle-brain, MIT.*\nEvery proposal my agency writes starts the same way: an hour of re-disc"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-09",
+    "topic": "ai_labs",
+    "title": "Stanford and Google DeepMind Introduce TURTLE for Evolving\u2026 | TLDR",
+    "url": "https://tldr.tech/story/959ee609-4a63-4a30-a136-6e3a065df62d",
+    "snippet": "Turning Tool-Use Benchmarks Harder via Evolution | TLDR\n\n# Turning Tool-Use Benchmarks Harder via Evolution\n\nResearchers from Stanford and Google DeepMind introduced TURTLE, a method that uses AlphaEvolve to mutate static tool-use benchmarks into harder, still-solvable tasks. By evolving tasks toward a 50 percent model success rate, the approach addresses the problem of models quickly mastering st"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-09",
+    "topic": "ai_labs",
+    "title": "Anthropic launches OSS Scanner without human review | TLDR",
+    "url": "https://tldr.tech/story/80206ee9-86c8-4c6f-8543-2b3dac9eafb9",
+    "snippet": "Anthropic launches OSS Scanner without human review | TLDR\n\n# Anthropic launches OSS Scanner without human review\n\ndugganusa.com 4 min read\n\nAnthropic has announced OSS Scanner, a free, opt-in service that sends open-source maintainers AI-generated vulnerability reports without human review, expecting a true-positive rate above 90 percent. The author advises maintainers to establish a triage capac"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-09",
+    "topic": "ai_labs",
+    "title": "Anthropic updates Claude to block game recreation and\u2026 | TLDR",
+    "url": "https://tldr.tech/story/04175cbd-2d6b-42a8-9a17-b4df62c01acd",
+    "snippet": "Anthropic updates Claude to block game recreation and\u2026 | TLDR\n\n# Anthropic updates Claude to block game recreation and patch Claude Code credential leak\n\nAnthropic has updated Claude to prevent the recreation of existing video games in order to mitigate potential copyright litigation and protect media intellectual property. Meanwhile, a feature in Claude Code saves approved shell commands in a loc"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-09",
+    "topic": "ai_labs",
+    "title": "System Card: Claude Opus 5.5 | TLDR",
+    "url": "https://tldr.tech/story/21929429-7745-476d-b0ce-8d921f3da7a9",
+    "snippet": "Anthropic publishes Claude Opus 5.5 system card | TLDR\n\n# Anthropic publishes Claude Opus 5.5 system card\n\nAnthropic has released its system card for Claude Opus 5.5, detailing pre-deployment evaluations across chemical and biological risks, cybersecurity, safeguards, agentic safety, alignment, model welfare, and core capabilities. The model represents a broad capability upgrade over Claude Opus 5"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-09",
+    "topic": "ai_labs",
+    "title": "What it actually takes to build frontier models | Tulsee\u2026 | TLDR",
+    "url": "https://tldr.tech/story/ef01f1cd-6f27-47eb-bb44-32cb350ad30d",
+    "snippet": "What it actually takes to build frontier models | Tulsee\u2026 | TLDR\n\n# What it actually takes to build frontier models | Tulsee Doshi (Head of Product for Gemini)\n\nIn an interview discussing Google's frontier model development, Tulsee Doshi explains that model training resembles an unpredictable potions class rather than traditional engineering. Doshi outlines Google's full-stack strategy spanning ha"
   }
 ]

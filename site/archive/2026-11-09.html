@@ -1,0 +1,228 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Daily AI Pulse - 2026-11-09</title>
+  <link rel="icon" type="image/svg+xml" href="../assets/favicon.svg" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,700&family=Inter:wght@400;500;600&display=swap" />
+  <link rel="stylesheet" href="../assets/styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <a class="logo" href="../index.html">Daily AI Pulse</a>
+    <nav>
+      <a href="../index.html">Today</a>
+      <a href="../archive.html">Archive</a>
+    </nav>
+  </header>
+  <main class="reading-column">
+    <p class="dateline">2026-11-09</p>
+    <p class="last-updated">Last updated 2026-11-09 08:00 UTC</p>
+    <article class="digest">
+<h1 id="daily-ai-pulse-2026-11-09">Daily AI Pulse - 2026-11-09</h1>
+
+<h2 id="todays-headline">Today's headline</h2>
+
+<p>Claude Code has a leak problem, and it's probably sitting in your repo right now.</p>
+
+<p>Per one writeup going around, it saves the shell commands you approve into a local settings file. That file doesn't get added to your project's gitignore on its own, and credentials have ended up on public GitHub that way.</p>
+
+<p>Go read your own settings file today. If a key is in there, rotate it. Deleting the file won't unpublish a commit.</p>
+
+<section class="todays-posts">
+<h2 class="todays-posts-title">Today&rsquo;s posts</h2>
+<p class="todays-posts-sub">Three for LinkedIn, three for Threads / IG. One click to copy.</p>
+<h3 class="post-group-label">LINKEDIN DRAFTS</h3>
+<div class="post-card" data-post><div class="post-card-head"><span class="post-num">LI . NO. 01</span><button type="button" class="post-copy" aria-label="Copy post">COPY</button></div><pre class="post-body">Check your repo before you read anything else today.
+
+Claude Code saves the shell commands you approve into a local settings file. Per one writeup going around, that file doesn't get added to your project gitignore on its own. Credentials have ended up on public GitHub that way.
+
+Think about why. You approve a command once, it has a key inline, and Claude remembers it so it stops asking. Super convenient. It's also a quiet copy of your secret sitting in a file you never opened.
+
+I'm not saying panic. I'm saying open the folder.
+
+Look in your .claude directory for the local settings file. Read what's in it. Make sure it's ignored. If a key is in there, rotate it, because deleting the file doesn't unpublish a commit.
+
+What gets me is that the legal side of AI safety gets all the headlines. The "did I just leak my own key" side gets almost none.
+
+Boring habit that fixes most of it: keys live in a .env, never in a command line.
+
+When's the last time you actually read your own settings files?</pre></div>
+<div class="post-card" data-post><div class="post-card-head"><span class="post-num">LI . NO. 02</span><button type="button" class="post-copy" aria-label="Copy post">COPY</button></div><pre class="post-body">Three unrelated products shipped this week and they all made the same call.
+
+A digital workforce tool for construction and law firms. A contract platform. A little proposal pipeline a small agency in Sydney open sourced.
+
+Same design in all three. The agent does the work. A person signs off before anything goes out.
+
+WorkTelli hands you the evidence first, then makes the deliverable once you approve the evidence. Docgility won't turn a suggestion into a redline until a human has looked at it. The Sydney one lets code compute the price and run the checks, and the model only gets to say what it noticed.
+
+That last rule is my favorite. The model decides what to look at. The code decides what happens.
+
+If you're building AI for small business owners, this is the pattern. Owners don't want a robot holding the keys. They want a fast assistant who brings the stuff and waits for the nod.
+
+Would someone pay for that? I think someone would pay for that.
+
+Where in your workflow does the nod actually belong?</pre></div>
+<div class="post-card" data-post><div class="post-card-head"><span class="post-num">LI . NO. 03</span><button type="button" class="post-copy" aria-label="Copy post">COPY</button></div><pre class="post-body">Five Chinese labs shipped models in about a week. Nobody on my feed is talking about the price tags.
+
+Ant's Ling-3.2-flash runs $0.30 in and $0.90 out per million tokens, reads images and video, and claims to beat Claude Opus 5 on three vision tests. LG put out a model with a free API. Tencent's Hy4 does computer use. Baidu dropped a 280B base model. Moonshot's Kimi K3.1 Pro is open weights.
+
+Big caveat. Almost every score is self-reported. Ant says itself there's no independent index yet. Treat the benchmarks like a restaurant reviewing itself.
+
+But here's what I care about. For a small business tool, the question isn't which model is smartest. It's which one is good enough at a price where the client's bill doesn't flinch.
+
+Read the Kimi license before using it commercially. Ling has no open weights yet.
+
+Test one on a real task from a real client. Not a leaderboard. Their actual invoices, their actual inbox.
+
+Do more with the same, not the same with less.
+
+What would you test first?</pre></div>
+<h3 class="post-group-label">THREADS / IG CAPTIONS</h3>
+<div class="post-card" data-post><div class="post-card-head"><span class="post-num">TH . NO. 01</span><button type="button" class="post-copy" aria-label="Copy post">COPY</button></div><pre class="post-body">Seedream 5.5 generates images with a real alpha channel. Transparent backgrounds, partial transparency, no background removal step after.
+
+ByteDance also says it holds up across 100 rounds of edits. That's their claim and their evals.
+
+But if you've ever spent an hour cleaning hair edges on a cutout, you know why this one made me sit up.
+
+I'm going to test it before I believe it.</pre></div>
+<div class="post-card" data-post><div class="post-card-head"><span class="post-num">TH . NO. 02</span><button type="button" class="post-copy" aria-label="Copy post">COPY</button></div><pre class="post-body">Magai now lets one assistant see unlimited accounts per app. Work Gmail, personal Gmail, a few client inboxes, all at once.
+
+Ask which inbox you sent an invoice from and it checks them all. If it's unclear which account to use, it asks instead of guessing.
+
+If you've ever sent a client email from the wrong address, you already get why this exists.
+
+That's the right instinct for an assistant.</pre></div>
+<div class="post-card" data-post><div class="post-card-head"><span class="post-num">TH . NO. 03</span><button type="button" class="post-copy" aria-label="Copy post">COPY</button></div><pre class="post-body">Mistral shipped managed agents and a workflow builder. Read the labels though.
+
+Public preview. Private preview. Generally available. Three different things in one announcement. Evals need an Enterprise org. Apps need an eligible plan.
+
+Everyone says launched. Almost nobody says which kind.
+
+Before you promise a client anything, find out which label you're standing on.</pre></div>
+</section>
+<script>
+document.addEventListener('click', (e) => {
+  const btn = e.target.closest('.post-copy');
+  if (!btn) return;
+  const card = btn.closest('[data-post]');
+  if (!card) return;
+  const body = card.querySelector('.post-body');
+  if (!body) return;
+  navigator.clipboard.writeText(body.innerText).then(() => {
+    const orig = btn.textContent;
+    btn.textContent = 'COPIED';
+    btn.classList.add('copied');
+    setTimeout(() => { btn.textContent = orig; btn.classList.remove('copied'); }, 1500);
+  }).catch(() => {});
+});
+</script>
+<h2 id="ai-launches-news">AI launches &amp; news</h2>
+
+<ul>
+<li><p><strong>Claude Code approved-command leak, plus Claude blocks game recreation</strong> - TLDR
+Claude Code stores approved commands in a local settings file that isn't auto-ignored. If a key was inline in one of those commands, it gets saved too. The same writeup says Anthropic also updated Claude to stop recreating existing video games, to cut copyright risk. The author's point: legal safety gets the headlines, and protecting your own credentials gets almost none.
+<a rel="noopener" target="_blank" href="https://tldr.tech/story/04175cbd-2d6b-42a8-9a17-b4df62c01acd">https://tldr.tech/story/04175cbd-2d6b-42a8-9a17-b4df62c01acd</a></p></li>
+<li><p><strong>Claude Opus 5.5 system card</strong> - Anthropic via TLDR
+The card covers the usual pre-deployment testing, and the summary calls it a broad step up from Opus 5. Agentic coding, visual reasoning, computer use and long professional tasks all improved. Anthropic reports low catastrophic risk. I only have the summary, so read the card before quoting anything from it.
+<a rel="noopener" target="_blank" href="https://tldr.tech/story/21929429-7745-476d-b0ce-8d921f3da7a9">https://tldr.tech/story/21929429-7745-476d-b0ce-8d921f3da7a9</a></p></li>
+<li><p><strong>Anthropic OSS Scanner</strong> - dugganusa.com via TLDR
+Free, opt-in. It sends open-source maintainers AI-written vulnerability reports with no human review, and Anthropic expects a true-positive rate above 90 percent. The author's advice: treat every report as untrusted input and check severity yourself. Maintainers may also get buried in fixes as models find bugs faster.
+<a rel="noopener" target="_blank" href="https://tldr.tech/story/80206ee9-86c8-4c6f-8543-2b3dac9eafb9">https://tldr.tech/story/80206ee9-86c8-4c6f-8543-2b3dac9eafb9</a></p></li>
+<li><p><strong>Five Chinese labs shipped in about a week</strong> - various</p>
+
+<ul>
+<li>Ant's Ling-3.2-flash is a 560B mixture-of-experts model that reads text, images and video. It costs $0.30 in and $0.90 out per million tokens. Ant says it beats Claude Opus 5 on three vision benchmarks. Those are Ant's own tests, and the weights aren't open yet.</li>
+<li>LG's K-EXAONE 2.5 has a free API and is aimed at agentic work.</li>
+<li>Tencent's Hy4 added computer use and image understanding. Weights come later.</li>
+<li>Baidu released ERNIE 5.5 Flash Base, a 280B base model with no fine-tuning.</li>
+<li>Moonshot's Kimi K3.1 Pro is open weights, but under its own license. Read it before commercial use.
+Almost every score here is self-reported. Cheap is real. "Beats Opus" is a claim.
+<a rel="noopener" target="_blank" href="https://paktechstan.com/article/ant-group-launches-ling-3-2-flash-a-560b-multimodal-model-that-claims-to-beat-claude-opus-5">https://paktechstan.com/article/ant-group-launches-ling-3-2-flash-a-560b-multimodal-model-that-claims-to-beat-claude-opus-5</a>
+<a rel="noopener" target="_blank" href="https://www.asiae.co.kr/en/article/2026110908593029581">https://www.asiae.co.kr/en/article/2026110908593029581</a>
+<a rel="noopener" target="_blank" href="https://technode.global/2026/11/09/tencent-hy4-visual-computer-use/">https://technode.global/2026/11/09/tencent-hy4-visual-computer-use/</a>
+<a rel="noopener" target="_blank" href="https://ainews.met-ai.tech/en/n/9SFxsBrif9UA">https://ainews.met-ai.tech/en/n/9SFxsBrif9UA</a>
+<a rel="noopener" target="_blank" href="https://aiholics.com/new-ai-models-this-week-2026-11-08/">https://aiholics.com/new-ai-models-this-week-2026-11-08/</a></li>
+</ul></li>
+<li><p><strong>Gemini Omni 1.2 Flash</strong> - Google via Aiholics
+Video clips now run up to 15 seconds, and 720p is $0.07 per second, which Google says is 30% cheaper than the last version. That's about $1.05 for a full clip. It takes reference images and audio cues, and you can edit by chatting, like swapping a product or the lighting. The quality claims are Google's examples, not independent tests.
+<a rel="noopener" target="_blank" href="https://aiholics.com/new-ai-models-this-week-2026-11-08/">https://aiholics.com/new-ai-models-this-week-2026-11-08/</a></p></li>
+<li><p><strong>Seedream 5.5</strong> - ByteDance Seed
+It generates images with a real alpha channel, so you get transparent backgrounds with no cleanup step. ByteDance also claims it holds up across 100 rounds of edits and renders text better. The evals are theirs. A Pro version is coming.
+<a rel="noopener" target="_blank" href="https://seed.bytedance.com/en/blog/more-realistic-images-more-stable-editing-across-100-rounds-introducing-seedream-5-5">https://seed.bytedance.com/en/blog/more-realistic-images-more-stable-editing-across-100-rounds-introducing-seedream-5-5</a></p></li>
+</ul>
+
+<h2 id="enterprise-ai-moves">Enterprise AI moves</h2>
+
+<ul>
+<li><p><strong>Mistral Studio adds Managed Agents</strong> - Autonomy Crew
+Managed Agents and the workflow builder are in public preview. HTTP API connectors are in private preview. Studio apps inside Vibe Code Web are generally available. Offline evals need an Enterprise-tier org, and creating apps needs an eligible paid plan. That's three availability labels in one announcement. Check which one applies before you promise a client anything. Developers choose which tool calls need approval, and runs can resume after a crash.
+<a rel="noopener" target="_blank" href="https://autonomycrew.com/ai/mistral-studio-managed-agents/">https://autonomycrew.com/ai/mistral-studio-managed-agents/</a></p></li>
+<li><p><strong>WorkTelli puts a human approver on every deliverable</strong> - Business Bearings
+It targets small and mid-size shops in construction, law and healthcare. The agent brings back evidence first, and the deliverable only gets made after a person approves the evidence.
+That's founder David A. Craig. It's the same pattern selling to small business keeps landing on: the owner makes the call, the software does the legwork.
+<a rel="noopener" target="_blank" href="https://businessbearings.com/articles/prodigyiq-readies-worktelli-a-digital-workforce-with-humans-signing-off">https://businessbearings.com/articles/prodigyiq-readies-worktelli-a-digital-workforce-with-humans-signing-off</a></p></li>
+</ul>
+
+<blockquote>
+  <p>"You never want to take the human out of the loop because AI isn't always accurate."</p>
+</blockquote>
+
+<ul>
+<li><strong>Docgility's agentic framework for contracts</strong> - Docgility
+It pulls in company playbooks and live systems through MCP, and shows reviewers the exact prompts behind every suggestion. A human reviews everything before it becomes a redline. The 80% cycle-time cut is the company's own number, from a press release. The "human always reviews" design is the part worth copying.
+<a rel="noopener" target="_blank" href="https://www.docgility.com/post/docgility-announces-the-release-of-its-groundbreaking-agentic-ai-llm-integration-framework-for-ent">https://www.docgility.com/post/docgility-announces-the-release-of-its-groundbreaking-agentic-ai-llm-integration-framework-for-ent</a></li>
+</ul>
+
+<h2 id="new-harnesses-tools">New harnesses &amp; tools</h2>
+
+<ul>
+<li><p><strong>bigpickle-brain: three agents and one memory</strong> - Josefina Tersoli, DEV Community
+A small Sydney agency open-sourced a research, proposal and review pipeline, MIT licensed. The rule I'd steal: the model decides what to look at, and the code decides what happens. Code computes the totals and checks prices before the reviewer agent sees anything. Memory is plain Markdown notes a person can open in Obsidian and fix. It's a good blueprint for anyone building agency tooling.
+<a rel="noopener" target="_blank" href="https://dev.to/jtersoli/three-agents-and-one-memory-a-proposal-pipeline-for-a-small-agency-66j">https://dev.to/jtersoli/three-agents-and-one-memory-a-proposal-pipeline-for-a-small-agency-66j</a></p></li>
+<li><p><strong>Magai multi-account connectors</strong> - Latest With AI
+Link unlimited accounts per app, like work Gmail, personal Gmail and several client inboxes, and one assistant sees them all. If it's unclear which account to act on, it asks instead of guessing. It's on the Pro plan, from $40 a month. Freelancers and agencies juggling client logins are the obvious fit.
+<a rel="noopener" target="_blank" href="https://latestwithai.com/ai-business/magai-lets-ai-see-across-work-personal-and-client-accounts-at-once/">https://latestwithai.com/ai-business/magai-lets-ai-see-across-work-personal-and-client-accounts-at-once/</a></p></li>
+<li><p><strong>Zyphra MAIA</strong> - GIGAZINE
+An agent built so several teammates can use it at the same time, with Slack and GitHub hooks. It's a macOS beta and free during beta. The pitch is "multiplayer", where most agents are single-player.
+<a rel="noopener" target="_blank" href="https://gigazine.net/gsc_news/en/20261109-maia-zyphra-multiplayer-ai-agent">https://gigazine.net/gsc_news/en/20261109-maia-zyphra-multiplayer-ai-agent</a></p></li>
+<li><p><strong>Coderick AI Import Design</strong> - SiteGround
+Upload a ZIP or HTML export from Claude Design or Google Stitch and it builds the frontend, backend and database, hosted on SiteGround. It's one more sign that design-to-working-app is turning into a checkbox.
+<a rel="noopener" target="_blank" href="https://www.streetinsider.com/Newsfile/Coderick+AI+by+SiteGround+Lets+Users+Turn+Claude+and+Stitch+Designs+Into+Working+Web+Apps/27311391.html">https://www.streetinsider.com/Newsfile/Coderick+AI+by+SiteGround+Lets+Users+Turn+Claude+and+Stitch+Designs+Into+Working+Web+Apps/27311391.html</a></p></li>
+<li><p><strong>Meta Spaces in the Muse app</strong> - Gadgets 360
+Spaces are custom AI-built feeds and dashboards pulling from sources you choose. Meta's examples include a school calendar, a shopping hub and an order tracker for small businesses. The app is US and Canada only for now, and sharing is still in the works.
+<a rel="noopener" target="_blank" href="https://www.gadgets360.com/ai/news/meta-launches-spaces-feature-custom-muse-ai-app-experiences-12302566">https://www.gadgets360.com/ai/news/meta-launches-spaces-feature-custom-muse-ai-app-experiences-12302566</a></p></li>
+<li><p><strong>Kollus MCP</strong> - Digital Today
+A Korean video platform is now in the Claude and ChatGPT directories. You can ask for viewing stats in chat, or ask it to generate player embed code. It's small, but MCP-in-the-directory is becoming how products show up.
+<a rel="noopener" target="_blank" href="https://www.digitaltoday.co.kr/en/view/123072/katenoid-launches-kollus-mcp-manage-video-services-through-ai-chat">https://www.digitaltoday.co.kr/en/view/123072/katenoid-launches-kollus-mcp-manage-video-services-through-ai-chat</a></p></li>
+</ul>
+
+<h2 id="content-angles-for-you">Content angles for you</h2>
+
+<ol>
+<li>"Go open your Claude Code settings file." Walk through what it saves, why a key can end up in it, and the fix: rotate it, and keep keys in a .env, never inline. It's practical, it's timely, and nobody else is saying it plainly.</li>
+<li>Three products shipped this week (WorkTelli, Docgility, the Sydney pipeline) and all of them put a human sign-off before anything goes out. Make the case that this is the pattern small business owners will actually buy.</li>
+<li>"The model decides what to look at, the code decides what happens." Take the bigpickle-brain rule and show what it looks like in a Handled build.</li>
+<li>Five Chinese models in a week, with the benchmark caveat. The real question for client work is price per task, not rank on a leaderboard.</li>
+<li>Seedream 5.5's real alpha channel, and what it would mean for the photoreal-base-plus-words workflow. Test it first, then post the result.</li>
+</ol>
+
+<h2 id="people-to-engage-with">People to engage with</h2>
+
+<ul>
+<li><strong>Josefina Tersoli</strong> - published the bigpickle-brain write-up and repo. A co-founder of a small Sydney agency building what you're building, and a natural peer to talk shop with.</li>
+<li><strong>David A. Craig</strong> - founder of ProdigyIQ and builder of WorkTelli. His line about never taking the human out of the loop is worth a reply.</li>
+<li><strong>Guru Vishwa</strong> - co-founder of DigiTechzo in Madurai, who talks about AI that answers leads at midnight and updates the CRM. It's the same small-business lane Handled is in.</li>
+<li><strong>Tulsee Doshi</strong> - head of product for Gemini. Her interview on how frontier models actually get built is worth a listen if you want a view from the inside.</li>
+</ul>
+
+    </article>
+  </main>
+  <footer class="site-footer">
+    <p>Harvested daily. Synthesized by Claude. Built for builders.</p>
+  </footer>
+</body>
+</html>
