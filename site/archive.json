@@ -30958,5 +30958,255 @@
     "title": "What it actually takes to build frontier models | Tulsee\u2026 | TLDR",
     "url": "https://tldr.tech/story/ef01f1cd-6f27-47eb-bb44-32cb350ad30d",
     "snippet": "What it actually takes to build frontier models | Tulsee\u2026 | TLDR\n\n# What it actually takes to build frontier models | Tulsee Doshi (Head of Product for Gemini)\n\nIn an interview discussing Google's frontier model development, Tulsee Doshi explains that model training resembles an unpredictable potions class rather than traditional engineering. Doshi outlines Google's full-stack strategy spanning ha"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-11-10",
+    "headline": "Anthropic shipped Claude Fable 5.2 and Mythos 5.2. They're cheaper and faster than the last versions.",
+    "url": "archive/2026-11-10.html",
+    "posts": {
+      "linkedin": [
+        "Anthropic just launched its most powerful models and then told everyone to start with a different one.\n\nFable 5.2 and Mythos 5.2 dropped Monday. Cheaper than the last version, faster too. One engineer pointed Fable at an empty folder and it ran more than 1,000 subagents for eight days. What came out was a working operating system prototype.\n\nWild.\n\nBut read the part right under the launch. For most coding and knowledge work, Anthropic says start with Opus 5.5. Go up to Fable for the really hard stuff. Go down to Sonnet or Haiku for the light stuff.\n\nThat's the lesson. The biggest model isn't the right model. The right model is the one that fits the job.\n\nMost of what a small business needs from AI is not an eight-day operating system build. It's an email answered. An invoice chased. A follow-up that actually goes out.\n\nMatch the tool to the weight of the task. Save the heavy hitter for the heavy lift.\n\nWhat's the hardest job you've handed an AI so far, and did it actually need the biggest model?",
+        "Your AI assistant can probably read your inbox.\n\nDid you decide that, or did it just kind of happen?\n\nDark Reading talked to Martin Zugec at Bitdefender about NIST's new small business security guide. His point stuck with me. Solopreneurs are using AI assistants to read their mailboxes, run commands, write code, and act under their own accounts. One person doing the work of a small team.\n\nAnd the guide says nothing about what those agents should be allowed to reach.\n\nThat's the gap. Not a new kind of attack. Just a person moving faster than their security does.\n\nThe practical list is boring in the best way. Phishing-resistant MFA. A password manager. A standard account for daily work. Automatic updates. Backups with one copy offline. An afternoon of work.\n\nI'd add one more for the agent era. Write down what your AI can touch. Then ask if you'd be fine with a stranger having the same access.\n\nWhat can your agent reach right now that you'd be nervous to say out loud?",
+        "A hunter couldn't get his elk calls right. So he built an app to grade them.\n\nRyan Matthews has hunted elk for five years. His calling never got where he wanted it. He'd send videos to a friend who's a world champion caller, get feedback, then feel bad sending another one.\n\nThen he remembered a bird ID app that tells you what you sound like. Somebody should make that for hunters. Not just a yes or no. Real feedback on what you're doing wrong.\n\nHe's not a developer. He says he never read a line of code. By his own numbers, about 3,000 customers in roughly 110 days.\n\nI keep coming back to where the idea came from. Not a market report. A guy brushing his teeth, annoyed at his own problem.\n\nThat's the whole origin story. He had a problem, he knew other people had it too, and he built the fix he wanted for himself.\n\nWhat are you already doing for yourself that someone else would find useful?"
+      ],
+      "threads": [
+        "Where does the thing your AI built actually live?\n\nThat's the question nobody asks until the app is done. Automattic just opened Spacefast to everyone. Your AI builds it, Spacefast hosts it, you get a private link back in the chat. Free tier gets you 20 Spaces. Go is $5 a month.\n\nOne tester found the setup link doubles as an admin credential. So I'd treat that link like a password.\n\nStill, a weekend project with a real address is a nice thing to have.",
+        "Claude designed three electronic devices. A speakerphone, a voice hub, and a little virtual pet.\n\nEngineers at Diode built the prototypes from its designs and the circuits worked without any fixes. The speakerphone still runs after weeks of use.\n\nIt's not certified. Nobody's tested it for heat or antenna tuning. Prototypes, not products.\n\nBut a year ago these models couldn't reliably lay out a circuit board. A year. I keep doing that math.",
+        "Opus 5.5 is doing for video editing what Opus 4.5 did for coding. That's the argument on the AI Daily Brief today.\n\nEditing became a conversation. Find the good takes. Trim the filler. Lay a first cut. And the model can now watch footage, or close to it, so you can ask it for the three moments customers complained about across twenty hours of calls.\n\nThe photographer in me is paying attention. The slowest part was always the watching.\n\nWhat would you shoot if editing wasn't the wall?"
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-11-10",
+    "source": "The Koerner Office",
+    "title": "$98K in 2 Months From a Business That Costs $9 to Start",
+    "url": "https://www.youtube.com/watch?v=sQN3xA6euLI",
+    "video_id": "sQN3xA6euLI"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-11-10",
+    "source": "Startup Ideas Podcast",
+    "title": "AI Agents are too good at marketing now",
+    "url": "https://www.youtube.com/watch?v=uJuxenfe-NU",
+    "video_id": "uJuxenfe-NU"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-11-10",
+    "source": "Corey Ganim",
+    "title": "His vibe coded app hit $55K MRR in 109 days (full breakdown)",
+    "url": "https://www.youtube.com/watch?v=I0fRBMEYp-A",
+    "video_id": "I0fRBMEYp-A"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-11-10",
+    "source": "AI Daily Brief",
+    "title": "Agentic Video is Real and Here's What You Should Try",
+    "url": "https://www.youtube.com/watch?v=M-o7viCDaBw",
+    "video_id": "M-o7viCDaBw"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-10",
+    "topic": "model_releases",
+    "title": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
+    "url": "https://research.meta.ai/blog/muse-ember",
+    "snippet": "Introducing Our Smallest, Most Efficient Model: Muse Ember\n\n# Introducing Our Smallest, Most Efficient Model: Muse Ember\n\nNovember 9, 2026\u00b7 4 minute read\n\nToday, we're introducing Muse Ember, our smallest and most efficient model designed for complex reasoning execution and the work agents repeat all day: tool calls, coding subtasks, routing, extraction, and long document parsing.\n\nMuse Ember deli"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-10",
+    "topic": "model_releases",
+    "title": "Anthropic launches new Fable and Mythos AI models amid fears of AI building itself - India Today",
+    "url": "https://www.indiatoday.in/technology/news/story/anthropic-launches-new-fable-and-mythos-ai-models-amid-fears-of-ai-building-itself-3035751-2026-11-10",
+    "snippet": "Anthropic launches new Fable and Mythos AI models amid fears of AI building itself - India Today\n\n# Anthropic launches new Fable and Mythos AI models amid fears of AI building itself\n\n## Anthropic launched its powerful new Mythos and Fable models amid growing concerns of AI upgrading itself and acting in secret.\n\nAnthropic launches new Mythos and Fable models amid growing fears of AI training itse"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-10",
+    "topic": "model_releases",
+    "title": "Anthropic launches two AI models powerful enough to worry their own developers",
+    "url": "https://www.ynetnews.com/tech-and-digital/article/bjuz2wgagg",
+    "snippet": "Anthropic launches two AI models powerful enough to worry their own developers\n\n# Anthropic launches two AI models powerful enough to worry their own developers\n\n## Claude Fable 5.2 and Mythos 5.2 can coordinate armies of AI agents, design electronic devices and tackle complex scientific problems, but Anthropic acknowledges that increasingly capable models are creating new safety challenges\n\nOn on"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-10",
+    "topic": "model_releases",
+    "title": "\u7f8e\u56e2 LongCat-2.5 \u6b63\u5f0f\u5f00\u6e90\uff1a\u4ece\u770b\u89c1\uff0c\u5230\u62b5\u8fbe | \u7f8e\u56e2 \u00b7 \u6280\u672f\u56e2\u961f",
+    "url": "https://tech.meituan.com/2026/11/10/Meituan-LongCat-2.5-Open-Source.html",
+    "snippet": "\u7f8e\u56e2 LongCat-2.5 \u6b63\u5f0f\u5f00\u6e90\uff1a\u4ece\u770b\u89c1\uff0c\u5230\u62b5\u8fbe | \u7f8e\u56e2 \u00b7 \u6280\u672f\u56e2\u961f\n\n# \u7f8e\u56e2 LongCat-2.5 \u6b63\u5f0f\u5f00\u6e90\uff1a\u4ece\u770b\u89c1\uff0c\u5230\u62b5\u8fbe\n\n \u7f8e\u56e2LongCat 2026-11-10 LongCat\u5927\u6a21\u578b\u5f00\u6e90\n\n\u7f8e\u56e2\u6b63\u5f0f\u5f00\u6e90 LongCat-2.5\uff0c\u91c7\u7528 MIT \u534f\u8bae\uff0c\u652f\u6301\u5546\u7528\u63a8\u7406\u90e8\u7f72\u4e0e\u4e8c\u6b21\u8bad\u7ec3\uff0c\u65e0\u9700\u989d\u5916\u6388\u6743\u3002\n\nLongCat-2.5\u662f\u9762\u5411\u957f\u7a0b\u667a\u80fd\u4f53\u4efb\u52a1\u7684\u539f\u751f\u591a\u6a21\u6001\u6a21\u578b\uff0c\u5728\u590d\u6742\u4ee3\u7801\u5e93\u5f00\u53d1\u3001\u5b8c\u6574\u9879\u76ee\u6784\u5efa\u3001Visual Coding \u4e0e\u4e13\u4e1a\u529e\u516c\u573a\u666f\u4e2d\uff0c\u7aef\u5230\u7aef\u4ea4\u4ed8\u80fd\u529b\u5747\u6709\u660e\u663e\u63d0\u5347\u3002\u6a21\u578b\u603b\u53c2\u6570 1.6 \u4e07\u4ebf\uff0c\u6bcf\u4e2a token \u6fc0\u6d3b\u7ea6 480 \u4ebf\u53c2\u6570\uff0c\u652f\u6301\u4e00\u767e\u4e07\u4e0a\u4e0b\u6587\u3002\u9488\u5bf9\u663e\u5b58\u4e0e\u5e26\u5bbd\u53d7\u9650\u7684\u56fd\u4ea7\u7b97\u529b\u82af\u7247\uff0c\u6211\u4eec\u5728\u6a21\u578b\u67b6\u6784\u3001\u82af\u7247\u9002\u914d\u4e0e\u90e8\u7f72\u7b56\u7565\u4e0a\u4e5f\u8fdb\u884c\u4e86\u6df1\u5ea6\u534f\u540c\u4f18\u5316\u3002\n\n## 01 \u4ee3\u7801\u4e0e\u957f\u7a0b\u667a\u80fd\u4f53\n\nLongCat-2.5 \u7684\u957f\u7a0b\u80fd\u529b\u63d0\u5347\uff0c\u6765\u81ea\u4e00\u6574\u6761\u8bad\u7ec3\u94fe\u8def\u7684\u6269\u5c55\uff0c\u800c\u975e\u5355\u70b9\u6539\u52a8\u3002\u8fd9\u4e9b\u8bbe\u8ba1\u4e0d\u6539\u53d8\u6a21\u578b\u80fd"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-10",
+    "topic": "model_releases",
+    "title": "OpenAI says its new cyber-focused AI model found thousands of Linux kernel vulnerabilities",
+    "url": "https://www.itpro.com/security/openai-says-its-new-cyber-focused-ai-model-found-thousands-of-linux-kernel-vulnerabilities",
+    "snippet": "OpenAI says its new cyber-focused AI model found thousands of Linux kernel vulnerabilities | IT Pro\n\n# OpenAI says its new cyber-focused AI model found thousands of Linux kernel vulnerabilities\n\nThe new cyber-focused AI model boasts improved bug hunting capabilities compared to its predecessor\n\n By Ross Kelly \n\n Published 9 November 2026 In News 2 min read \n\n (Image credit: Getty Images) \n\nOpenAI\u2019"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-10",
+    "topic": "product_releases",
+    "title": "AI App Hosting: Automattic Launches Spacefast So Claude and ChatGPT Can Publish Apps",
+    "url": "https://www.techtimes.com/articles/330352/20261110/ai-app-hosting-automattic-launches-spacefast-so-claude-chatgpt-can-publish-apps.htm",
+    "snippet": "AI App Hosting: Automattic Launches Spacefast So Claude and ChatGPT Can Publish Apps\n\n# AI App Hosting: Automattic Launches Spacefast So Claude and ChatGPT Can Publish Apps\n\n#### Spacefast hosts AI-built apps with private links; tester found setup link doubling as admin credential\n\n By Devin Culbertson Published: Nov 10 2026, 5:58 AM EST\n\n Zach M/Unsplash \n\nAutomattic opened Spacefast to everyone "
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-10",
+    "topic": "product_releases",
+    "title": "boost.ai Launches Presis, A Self-Hosted AI Model Built for Speed & Accuracy in Regulated Industries",
+    "url": "https://www.prnewswire.com/news-releases/boostai-launches-presis-a-self-hosted-ai-model-built-for-speed--accuracy-in-regulated-industries-302930311.html",
+    "snippet": "boost.ai Launches Presis, A Self-Hosted AI Model Built for Speed & Accuracy in Regulated Industries\n\n# boost.ai Launches Presis, A Self-Hosted AI Model Built for Speed & Accuracy in Regulated Industries\n\nNov 10, 2026, 06:05 ET\n\nThe fine-tuned classification model now powers agent routing, scope, and safeguard decisions across the boost.ai platform, holding steady even during peak-demand hours.\n\nSA"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-10",
+    "topic": "product_releases",
+    "title": "From Wearable Agent To Heavy Coding: Top AI Releases From Meta, Google, OpenAI, And Anthropic",
+    "url": "https://www.etvbharat.com/en/technology/major-ai-upgrades-meta-muse-openai-dot-multi-device-support-google-maps-platform-in-ai-studio-and-claude-fable-mythos-enn26111002884",
+    "snippet": "From Wearable Agent To Heavy Coding: Top AI Releases From Meta, Google, OpenAI, And Anthropic\n\n# From Wearable Agent To Heavy Coding: Top AI Releases From Meta, Google, OpenAI, And Anthropic\n\n## Tech giants Meta, OpenAI, Google, and Anthropic have announced updates including new lightweight models, smartwatch integration, multi-computer agents, and developer API integrations.\n\nBy ETV Bharat Tech T"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-10",
+    "topic": "product_releases",
+    "title": "Meta Launches Muse Ember AI Model for Coding and Automated Tasks | Technology News",
+    "url": "https://www.gadgets360.com/ai/news/meta-muse-ember-launch-availability-features-12307593",
+    "snippet": "Meta Launches Muse Ember AI Model for Coding and Automated Tasks | Technology News\n\n# Meta Launches Muse Ember AI Model for Coding and Automated Tasks\n\nMuse Ember is the first model Meta says it has trained using Muse Wonder Full.\n\n Written by Sucharita Ganguly, Edited by Rohan Pal | Updated: 10 November 2026 16:02 IST \n\n \n\nMeta has revealed pricing for input and output tokens\n\nHighlights\n\n- Muse "
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-10",
+    "topic": "product_releases",
+    "title": "Anthropic Launches Claude Fable 5.2 and Mythos 5.2 AI Models With Improved Coding and Reasoning Capabilities | Technology News",
+    "url": "https://www.gadgets360.com/ai/news/claude-fable-mythos-5-2-launch-price-availability-capabilities-12306699",
+    "snippet": "Anthropic Launches Claude Fable 5.2 and Mythos 5.2 AI Models With Improved Coding and Reasoning Capabilities | Technology News\n\n# Anthropic Launches Claude Fable 5.2 and Mythos 5.2 AI Models With Improved Coding and Reasoning Capabilities\n\nClaude Fable 5.2 AI model is currently available on Amazon Web Services, Google Cloud, Microsoft Azure, and other platforms.\n\n Written by Dhruv Raghav, Edited b"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-10",
+    "topic": "ai_agents",
+    "title": "Launching Dome Managed Agents | Dome Systems",
+    "url": "https://www.domesystems.ai/blog/managed-agents",
+    "snippet": "Launching Dome Managed Agents | Dome Systems\n\nNovember 9, 2026 4 min read\n\n# Launching Dome Managed Agents\n\nGive Dome a system prompt, a model and a Gateway, and it runs the agent on a schedule, from a webhook or on demand, under the same rules as every other agent.\n\nDome Systems\n\nThis morning, we launched Dome Managed Agents into preview. Dome now runs those agents for you, and governs them the s"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-10",
+    "topic": "ai_agents",
+    "title": "Kolmena Launches AI Platform That Turns Individual Agents Into Coordinated Workforces",
+    "url": "https://www.prnewswire.com/news-releases/kolmena-launches-ai-platform-that-turns-individual-agents-into-coordinated-workforces-302932841.html",
+    "snippet": "Kolmena Launches AI Platform That Turns Individual Agents Into Coordinated Workforces\n\n# Kolmena Launches AI Platform That Turns Individual Agents Into Coordinated Workforces\n\n Kolmena Ai Inc \n\nNov 09, 2026, 08:00 ET\n\nOne Brain. Many Agents.\n\nSTAMFORD, Conn., Nov. 9, 2026 /PRNewswire/ -- Kolmena today announced the launch of its agentic AI platform, designed to bring AI agents, models, knowledge, "
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-10",
+    "topic": "ai_agents",
+    "title": "Microsoft Agent Framework adds generally available durable execution | AI Provider Index",
+    "url": "https://aiproviderindex.com/news/microsoft-agent-framework-durable-task-extension-ga",
+    "snippet": "Microsoft Agent Framework adds generally available durable execution | AI Provider Index\n\nRonald \u00b7 10 Nov 2026\n\n# Microsoft Agent Framework adds generally available durable execution\n\nMicrosoft has made the Durable Task extension for Agent Framework generally available, enabling Python and .NET agents to recover from failures, resume long-running workflows and persist human-approval waits. It supp"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-10",
+    "topic": "ai_agents",
+    "title": "Ceipal Launches Ceipal Ora, Its Agentic AI for Staffing and Recruiting | ATS & WFM | Ceipal",
+    "url": "https://www.ceipal.com/resources/ceipal-launches-ceipal-ora-its-agentic-ai-for-staffing-and-recruiting",
+    "snippet": "Ceipal Launches Ceipal Ora, Its Agentic AI for Staffing and Recruiting | ATS & WFM | Ceipal\n\n# Ceipal Launches Ceipal Ora, Its Agentic AI for Staffing and Recruiting\n\nNovember 10, 2026\n\nSteve Vittorioso\n\nCeipal Ora Executes Decisions Across ATS, VMS and Workforce Management, Within Recruiter Approved Guardrails, So Recruiters Can Focus on What Only a Person Can Do\n\nROCHESTER, N.Y. \u2014 NOV. 10, 2026 "
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-10",
+    "topic": "ai_agents",
+    "title": "Mistral Releases Agent and Workflow Platform on Cloud | Automatica Press",
+    "url": "https://www.automaticapress.com/articles/mistral-releases-agent-and-workflow-platform-on-cloud-mw9ifl40",
+    "snippet": "# Mistral Releases Agent and Workflow Platform on Cloud\n\nThe release expands Mistral Studio\u2019s capabilities to include structured automation alongside autonomous agent execution. Workflows are generally available today, allowing users to combine fixed rules with agent reasoning and human approvals.\n\nBy Nadia Vale\n\nNovember 9, 2026 at 12:03 PM EST\u00b7 2 min read Share article\n\n...\n\n1. 1. Workflows are "
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-10",
+    "topic": "ai_small_business",
+    "title": "The Small Business AI Tool Stack for Under $50/Month - DEV Community",
+    "url": "https://dev.to/tamim_hasan_b88f7252bcea1/the-small-business-ai-tool-stack-for-under-50month-3h5b",
+    "snippet": "# The Small Business AI Tool Stack for Under $50/Month \n\nOne assistant, one automation tool, one design tool and a free layer. Real prices, three sample setups and the subscriptions you can safely skip.\n\n...\n\nYou can do much better. A small business can cover writing, research, design and automation for under $50 a month, as long as every tool has its own job and nothing overlaps. Below is the sta"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-10",
+    "topic": "ai_small_business",
+    "title": "7 AI Automations SMEs Can Launch in a Week (No Full Engineering Team Required)",
+    "url": "https://dev.to/nextctl_6e2ba591efb06fa90/7-ai-automations-smes-can-launch-in-a-week-no-full-engineering-team-required-n3e",
+    "snippet": "Small businesses don't need complicated AI systems to automate useful work. They need one recurring problem, a clear workflow, and a way to catch mistakes before customers notice them.\n\nWhen evaluating AI agents for small business, I recommend starting with a measurable problem rather than an ambitious autonomous system.\n\nHere are seven automations SMEs can test in a five-day sprint using existing"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-10",
+    "topic": "ai_small_business",
+    "title": "This Dubai Company Has Launched An AI Employee You Can Manage Through WhatsApp",
+    "url": "https://lovin.co/dubai/en/sponsored/this-dubai-company-has-launched-an-ai-employee-you-can-manage-through-whatsapp/",
+    "snippet": "What if your next employee didn\u2019t need an office desk, annual leave or even a salary? A Dubai company is introducing an AI employee that you can manage through WhatsApp, sending instructions by text or voice note and letting it handle the work while you sleep.\n\nMeet HUNDREDHANDS, a Dubai-based company creating AI employees for small and medium-sized businesses across the UAE.\n\nThe idea is simple: "
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-10",
+    "topic": "ai_small_business",
+    "title": "NIST: Solo Shouldn't Mean Less Secure",
+    "url": "https://www.darkreading.com/cybersecurity-operations/nist-solo-shouldnt-mean-less-secure",
+    "snippet": "Most of the practical core is within reach for solopreneurs, says Martin Zugec, technical solutions director at Bitdefender. People just need to scroll to the short list on Page Two which calls for phishing-resistant multifactor authentication (MFA), a password manager, a standard (non-admin) account for daily work, automatic updates, and tested backups with one copy kept offline.\n\n\"None of that n"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-10",
+    "topic": "ai_small_business",
+    "title": "Vietnam's Easy AI, AI Leaders Vietnam to jointly deploy AI agents for businesses - TNGlobal",
+    "url": "https://technode.global/2026/11/10/vietnamseasy-ai-ai-leaders-vietnam-to-jointly-deploy-ai-agents-for-businesses/",
+    "snippet": "Two AI companies in Vietnam, Easy AI and AI Leaders Vietnam, will collaborate to combine Easy AI\u2019s technology with AI Leaders\u2019 consulting and training services, helping companies move AI from single-task tools into their core operations.\n\nIn a statement on Monday, AI Leaders Vietnam said the two have reached an agreement for the move. The partners say the aim is to move AI from isolated tools into"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-10",
+    "topic": "ai_labs",
+    "title": "Introducing Claude Fable 5.2 and Claude Mythos 5.2 \\ Anthropic",
+    "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+    "snippet": "Introducing Claude Fable 5.2 and Claude Mythos 5.2 \\ Anthropic\n\nNovember 9, 2026\n\n# Claude Fable 5.2 and Mythos 5.2\n\nWe\u2019ve upgraded Claude Fable and Claude Mythos\u2014models that are designed to tackle the most daunting technical challenges.\n\nClaude Fable 5.2 and Claude Mythos 5.2 show improvements in areas like coding, reasoning, and vision. During prerelease testing they\u2019ve helped our engineers comp"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-10",
+    "topic": "ai_labs",
+    "title": "Introducing Control Room: Human control over AI workloads",
+    "url": "https://openai.com/index/introducing-control-room",
+    "snippet": "Learn how OpenAI\u2019s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise."
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-10",
+    "topic": "ai_labs",
+    "title": "Formal Verification of Signal\u2019s Protocol with Gemini \u2014 Google DeepMind",
+    "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+    "snippet": "Formal Verification of Signal\u2019s Protocol with Gemini \u2014 Google DeepMind\n\n November 10, 2026 Research\n\n# Introducing AlphaProof Code: a breakthrough in verifying complex software at depth\n\nPushmeet Kohli and Swarat Chaudhuri\n\nHow Google DeepMind researchers built a new agentic framework that formally verified the code of Signal\u2019s cryptographic protocol \u2014 long considered to be a grand security challe"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-10",
+    "topic": "ai_labs",
+    "title": "Introducing TPU 8tx and TPU 8i Max",
+    "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
+    "snippet": "Introducing TPU 8tx and TPU 8i Max\n\n# Our newest TPUs: 8tx and 8i Max, built for the agentic era\n\nNov 09, 2026\n\n We\u2019ve expanded our eighth generation TPU portfolio with TPU 8tx and TPU 8i Max, marking four new TPU systems in a single year. \n\nAmin Vahdat\n\nSVP and Chief Technologist, AI and Infrastructure\n\n \n\n- We are expanding our eighth-generation TPU portfolio with the new TPU 8tx and TPU 8i Max "
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-10",
+    "topic": "ai_labs",
+    "title": "Claude can design electronic prototypes from start to finish \\ Anthropic",
+    "url": "https://www.anthropic.com/research/claude-electronics-design",
+    "snippet": "Claude can design electronic prototypes from start to finish \\ Anthropic\n\n# Testing Claude on real-world electronics design\n\nPublished\n\nNov 9, 2026\n\nA little over a year ago, we began testing how well Claude could design basic electronic circuits. We collaborated with Diode Computers, 1 a company that designs and manufactures circuit boards, to train Claude on simple tasks\u2014for example, on reading "
   }
 ]

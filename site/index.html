@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Daily AI Pulse - 2026-11-09</title>
+  <title>Daily AI Pulse - 2026-11-10</title>
   <link rel="icon" type="image/svg+xml" href="assets/favicon.svg" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -19,90 +19,88 @@
     </nav>
   </header>
   <main class="reading-column">
-    <p class="dateline">2026-11-09</p>
-    <p class="last-updated">Last updated 2026-11-09 08:00 UTC</p>
+    <p class="dateline">2026-11-10</p>
+    <p class="last-updated">Last updated 2026-11-10 08:00 UTC</p>
     <article class="digest">
-<h1 id="daily-ai-pulse-2026-11-09">Daily AI Pulse - 2026-11-09</h1>
+<h1 id="daily-ai-pulse-2026-11-10">Daily AI Pulse - 2026-11-10</h1>
 
 <h2 id="todays-headline">Today's headline</h2>
 
-<p>Claude Code has a leak problem, and it's probably sitting in your repo right now.</p>
+<p>Anthropic shipped Claude Fable 5.2 and Mythos 5.2. They're cheaper and faster than the last versions.</p>
 
-<p>Per one writeup going around, it saves the shell commands you approve into a local settings file. That file doesn't get added to your project's gitignore on its own, and credentials have ended up on public GitHub that way.</p>
+<p>One engineer pointed Fable at an empty folder. It ran more than 1,000 subagents for eight days and came out with a bootable operating system prototype.</p>
 
-<p>Go read your own settings file today. If a key is in there, rotate it. Deleting the file won't unpublish a commit.</p>
+<p>The part to sit with is what Anthropic says next. For most work, start with Opus 5.5 and only climb to Fable when the job is really hard.</p>
 
 <section class="todays-posts">
 <h2 class="todays-posts-title">Today&rsquo;s posts</h2>
 <p class="todays-posts-sub">Three for LinkedIn, three for Threads / IG. One click to copy.</p>
 <h3 class="post-group-label">LINKEDIN DRAFTS</h3>
-<div class="post-card" data-post><div class="post-card-head"><span class="post-num">LI . NO. 01</span><button type="button" class="post-copy" aria-label="Copy post">COPY</button></div><pre class="post-body">Check your repo before you read anything else today.
+<div class="post-card" data-post><div class="post-card-head"><span class="post-num">LI . NO. 01</span><button type="button" class="post-copy" aria-label="Copy post">COPY</button></div><pre class="post-body">Anthropic just launched its most powerful models and then told everyone to start with a different one.
 
-Claude Code saves the shell commands you approve into a local settings file. Per one writeup going around, that file doesn't get added to your project gitignore on its own. Credentials have ended up on public GitHub that way.
+Fable 5.2 and Mythos 5.2 dropped Monday. Cheaper than the last version, faster too. One engineer pointed Fable at an empty folder and it ran more than 1,000 subagents for eight days. What came out was a working operating system prototype.
 
-Think about why. You approve a command once, it has a key inline, and Claude remembers it so it stops asking. Super convenient. It's also a quiet copy of your secret sitting in a file you never opened.
+Wild.
 
-I'm not saying panic. I'm saying open the folder.
+But read the part right under the launch. For most coding and knowledge work, Anthropic says start with Opus 5.5. Go up to Fable for the really hard stuff. Go down to Sonnet or Haiku for the light stuff.
 
-Look in your .claude directory for the local settings file. Read what's in it. Make sure it's ignored. If a key is in there, rotate it, because deleting the file doesn't unpublish a commit.
+That's the lesson. The biggest model isn't the right model. The right model is the one that fits the job.
 
-What gets me is that the legal side of AI safety gets all the headlines. The "did I just leak my own key" side gets almost none.
+Most of what a small business needs from AI is not an eight-day operating system build. It's an email answered. An invoice chased. A follow-up that actually goes out.
 
-Boring habit that fixes most of it: keys live in a .env, never in a command line.
+Match the tool to the weight of the task. Save the heavy hitter for the heavy lift.
 
-When's the last time you actually read your own settings files?</pre></div>
-<div class="post-card" data-post><div class="post-card-head"><span class="post-num">LI . NO. 02</span><button type="button" class="post-copy" aria-label="Copy post">COPY</button></div><pre class="post-body">Three unrelated products shipped this week and they all made the same call.
+What's the hardest job you've handed an AI so far, and did it actually need the biggest model?</pre></div>
+<div class="post-card" data-post><div class="post-card-head"><span class="post-num">LI . NO. 02</span><button type="button" class="post-copy" aria-label="Copy post">COPY</button></div><pre class="post-body">Your AI assistant can probably read your inbox.
 
-A digital workforce tool for construction and law firms. A contract platform. A little proposal pipeline a small agency in Sydney open sourced.
+Did you decide that, or did it just kind of happen?
 
-Same design in all three. The agent does the work. A person signs off before anything goes out.
+Dark Reading talked to Martin Zugec at Bitdefender about NIST's new small business security guide. His point stuck with me. Solopreneurs are using AI assistants to read their mailboxes, run commands, write code, and act under their own accounts. One person doing the work of a small team.
 
-WorkTelli hands you the evidence first, then makes the deliverable once you approve the evidence. Docgility won't turn a suggestion into a redline until a human has looked at it. The Sydney one lets code compute the price and run the checks, and the model only gets to say what it noticed.
+And the guide says nothing about what those agents should be allowed to reach.
 
-That last rule is my favorite. The model decides what to look at. The code decides what happens.
+That's the gap. Not a new kind of attack. Just a person moving faster than their security does.
 
-If you're building AI for small business owners, this is the pattern. Owners don't want a robot holding the keys. They want a fast assistant who brings the stuff and waits for the nod.
+The practical list is boring in the best way. Phishing-resistant MFA. A password manager. A standard account for daily work. Automatic updates. Backups with one copy offline. An afternoon of work.
 
-Would someone pay for that? I think someone would pay for that.
+I'd add one more for the agent era. Write down what your AI can touch. Then ask if you'd be fine with a stranger having the same access.
 
-Where in your workflow does the nod actually belong?</pre></div>
-<div class="post-card" data-post><div class="post-card-head"><span class="post-num">LI . NO. 03</span><button type="button" class="post-copy" aria-label="Copy post">COPY</button></div><pre class="post-body">Five Chinese labs shipped models in about a week. Nobody on my feed is talking about the price tags.
+What can your agent reach right now that you'd be nervous to say out loud?</pre></div>
+<div class="post-card" data-post><div class="post-card-head"><span class="post-num">LI . NO. 03</span><button type="button" class="post-copy" aria-label="Copy post">COPY</button></div><pre class="post-body">A hunter couldn't get his elk calls right. So he built an app to grade them.
 
-Ant's Ling-3.2-flash runs $0.30 in and $0.90 out per million tokens, reads images and video, and claims to beat Claude Opus 5 on three vision tests. LG put out a model with a free API. Tencent's Hy4 does computer use. Baidu dropped a 280B base model. Moonshot's Kimi K3.1 Pro is open weights.
+Ryan Matthews has hunted elk for five years. His calling never got where he wanted it. He'd send videos to a friend who's a world champion caller, get feedback, then feel bad sending another one.
 
-Big caveat. Almost every score is self-reported. Ant says itself there's no independent index yet. Treat the benchmarks like a restaurant reviewing itself.
+Then he remembered a bird ID app that tells you what you sound like. Somebody should make that for hunters. Not just a yes or no. Real feedback on what you're doing wrong.
 
-But here's what I care about. For a small business tool, the question isn't which model is smartest. It's which one is good enough at a price where the client's bill doesn't flinch.
+He's not a developer. He says he never read a line of code. By his own numbers, about 3,000 customers in roughly 110 days.
 
-Read the Kimi license before using it commercially. Ling has no open weights yet.
+I keep coming back to where the idea came from. Not a market report. A guy brushing his teeth, annoyed at his own problem.
 
-Test one on a real task from a real client. Not a leaderboard. Their actual invoices, their actual inbox.
+That's the whole origin story. He had a problem, he knew other people had it too, and he built the fix he wanted for himself.
 
-Do more with the same, not the same with less.
-
-What would you test first?</pre></div>
+What are you already doing for yourself that someone else would find useful?</pre></div>
 <h3 class="post-group-label">THREADS / IG CAPTIONS</h3>
-<div class="post-card" data-post><div class="post-card-head"><span class="post-num">TH . NO. 01</span><button type="button" class="post-copy" aria-label="Copy post">COPY</button></div><pre class="post-body">Seedream 5.5 generates images with a real alpha channel. Transparent backgrounds, partial transparency, no background removal step after.
+<div class="post-card" data-post><div class="post-card-head"><span class="post-num">TH . NO. 01</span><button type="button" class="post-copy" aria-label="Copy post">COPY</button></div><pre class="post-body">Where does the thing your AI built actually live?
 
-ByteDance also says it holds up across 100 rounds of edits. That's their claim and their evals.
+That's the question nobody asks until the app is done. Automattic just opened Spacefast to everyone. Your AI builds it, Spacefast hosts it, you get a private link back in the chat. Free tier gets you 20 Spaces. Go is $5 a month.
 
-But if you've ever spent an hour cleaning hair edges on a cutout, you know why this one made me sit up.
+One tester found the setup link doubles as an admin credential. So I'd treat that link like a password.
 
-I'm going to test it before I believe it.</pre></div>
-<div class="post-card" data-post><div class="post-card-head"><span class="post-num">TH . NO. 02</span><button type="button" class="post-copy" aria-label="Copy post">COPY</button></div><pre class="post-body">Magai now lets one assistant see unlimited accounts per app. Work Gmail, personal Gmail, a few client inboxes, all at once.
+Still, a weekend project with a real address is a nice thing to have.</pre></div>
+<div class="post-card" data-post><div class="post-card-head"><span class="post-num">TH . NO. 02</span><button type="button" class="post-copy" aria-label="Copy post">COPY</button></div><pre class="post-body">Claude designed three electronic devices. A speakerphone, a voice hub, and a little virtual pet.
 
-Ask which inbox you sent an invoice from and it checks them all. If it's unclear which account to use, it asks instead of guessing.
+Engineers at Diode built the prototypes from its designs and the circuits worked without any fixes. The speakerphone still runs after weeks of use.
 
-If you've ever sent a client email from the wrong address, you already get why this exists.
+It's not certified. Nobody's tested it for heat or antenna tuning. Prototypes, not products.
 
-That's the right instinct for an assistant.</pre></div>
-<div class="post-card" data-post><div class="post-card-head"><span class="post-num">TH . NO. 03</span><button type="button" class="post-copy" aria-label="Copy post">COPY</button></div><pre class="post-body">Mistral shipped managed agents and a workflow builder. Read the labels though.
+But a year ago these models couldn't reliably lay out a circuit board. A year. I keep doing that math.</pre></div>
+<div class="post-card" data-post><div class="post-card-head"><span class="post-num">TH . NO. 03</span><button type="button" class="post-copy" aria-label="Copy post">COPY</button></div><pre class="post-body">Opus 5.5 is doing for video editing what Opus 4.5 did for coding. That's the argument on the AI Daily Brief today.
 
-Public preview. Private preview. Generally available. Three different things in one announcement. Evals need an Enterprise org. Apps need an eligible plan.
+Editing became a conversation. Find the good takes. Trim the filler. Lay a first cut. And the model can now watch footage, or close to it, so you can ask it for the three moments customers complained about across twenty hours of calls.
 
-Everyone says launched. Almost nobody says which kind.
+The photographer in me is paying attention. The slowest part was always the watching.
 
-Before you promise a client anything, find out which label you're standing on.</pre></div>
+What would you shoot if editing wasn't the wall?</pre></div>
 </section>
 <script>
 document.addEventListener('click', (e) => {
@@ -123,100 +121,115 @@ document.addEventListener('click', (e) => {
 <h2 id="ai-launches-news">AI launches &amp; news</h2>
 
 <ul>
-<li><p><strong>Claude Code approved-command leak, plus Claude blocks game recreation</strong> - TLDR
-Claude Code stores approved commands in a local settings file that isn't auto-ignored. If a key was inline in one of those commands, it gets saved too. The same writeup says Anthropic also updated Claude to stop recreating existing video games, to cut copyright risk. The author's point: legal safety gets the headlines, and protecting your own credentials gets almost none.
-<a rel="noopener" target="_blank" href="https://tldr.tech/story/04175cbd-2d6b-42a8-9a17-b4df62c01acd">https://tldr.tech/story/04175cbd-2d6b-42a8-9a17-b4df62c01acd</a></p></li>
-<li><p><strong>Claude Opus 5.5 system card</strong> - Anthropic via TLDR
-The card covers the usual pre-deployment testing, and the summary calls it a broad step up from Opus 5. Agentic coding, visual reasoning, computer use and long professional tasks all improved. Anthropic reports low catastrophic risk. I only have the summary, so read the card before quoting anything from it.
-<a rel="noopener" target="_blank" href="https://tldr.tech/story/21929429-7745-476d-b0ce-8d921f3da7a9">https://tldr.tech/story/21929429-7745-476d-b0ce-8d921f3da7a9</a></p></li>
-<li><p><strong>Anthropic OSS Scanner</strong> - dugganusa.com via TLDR
-Free, opt-in. It sends open-source maintainers AI-written vulnerability reports with no human review, and Anthropic expects a true-positive rate above 90 percent. The author's advice: treat every report as untrusted input and check severity yourself. Maintainers may also get buried in fixes as models find bugs faster.
-<a rel="noopener" target="_blank" href="https://tldr.tech/story/80206ee9-86c8-4c6f-8543-2b3dac9eafb9">https://tldr.tech/story/80206ee9-86c8-4c6f-8543-2b3dac9eafb9</a></p></li>
-<li><p><strong>Five Chinese labs shipped in about a week</strong> - various</p>
-
-<ul>
-<li>Ant's Ling-3.2-flash is a 560B mixture-of-experts model that reads text, images and video. It costs $0.30 in and $0.90 out per million tokens. Ant says it beats Claude Opus 5 on three vision benchmarks. Those are Ant's own tests, and the weights aren't open yet.</li>
-<li>LG's K-EXAONE 2.5 has a free API and is aimed at agentic work.</li>
-<li>Tencent's Hy4 added computer use and image understanding. Weights come later.</li>
-<li>Baidu released ERNIE 5.5 Flash Base, a 280B base model with no fine-tuning.</li>
-<li>Moonshot's Kimi K3.1 Pro is open weights, but under its own license. Read it before commercial use.
-Almost every score here is self-reported. Cheap is real. "Beats Opus" is a claim.
-<a rel="noopener" target="_blank" href="https://paktechstan.com/article/ant-group-launches-ling-3-2-flash-a-560b-multimodal-model-that-claims-to-beat-claude-opus-5">https://paktechstan.com/article/ant-group-launches-ling-3-2-flash-a-560b-multimodal-model-that-claims-to-beat-claude-opus-5</a>
-<a rel="noopener" target="_blank" href="https://www.asiae.co.kr/en/article/2026110908593029581">https://www.asiae.co.kr/en/article/2026110908593029581</a>
-<a rel="noopener" target="_blank" href="https://technode.global/2026/11/09/tencent-hy4-visual-computer-use/">https://technode.global/2026/11/09/tencent-hy4-visual-computer-use/</a>
-<a rel="noopener" target="_blank" href="https://ainews.met-ai.tech/en/n/9SFxsBrif9UA">https://ainews.met-ai.tech/en/n/9SFxsBrif9UA</a>
-<a rel="noopener" target="_blank" href="https://aiholics.com/new-ai-models-this-week-2026-11-08/">https://aiholics.com/new-ai-models-this-week-2026-11-08/</a></li>
-</ul></li>
-<li><p><strong>Gemini Omni 1.2 Flash</strong> - Google via Aiholics
-Video clips now run up to 15 seconds, and 720p is $0.07 per second, which Google says is 30% cheaper than the last version. That's about $1.05 for a full clip. It takes reference images and audio cues, and you can edit by chatting, like swapping a product or the lighting. The quality claims are Google's examples, not independent tests.
-<a rel="noopener" target="_blank" href="https://aiholics.com/new-ai-models-this-week-2026-11-08/">https://aiholics.com/new-ai-models-this-week-2026-11-08/</a></p></li>
-<li><p><strong>Seedream 5.5</strong> - ByteDance Seed
-It generates images with a real alpha channel, so you get transparent backgrounds with no cleanup step. ByteDance also claims it holds up across 100 rounds of edits and renders text better. The evals are theirs. A Pro version is coming.
-<a rel="noopener" target="_blank" href="https://seed.bytedance.com/en/blog/more-realistic-images-more-stable-editing-across-100-rounds-introducing-seedream-5-5">https://seed.bytedance.com/en/blog/more-realistic-images-more-stable-editing-across-100-rounds-introducing-seedream-5-5</a></p></li>
+<li><p><strong>Claude Fable 5.2 and Mythos 5.2</strong> - Anthropic
+Same underlying model. Fable has tight cyber and bio safeguards, so anyone can use it. Mythos loosens those and is limited to vetted orgs.
+Pricing is $8 per million input tokens and $40 per million output, with outputs up to 30% faster. Fast mode is 2.5x quicker at $16 and $80.
+The take: the lab itself is telling you not to default to its biggest model. Pick by the weight of the job.
+<a rel="noopener" target="_blank" href="https://www.anthropic.com/claude-fable-and-mythos-5-2">https://www.anthropic.com/claude-fable-and-mythos-5-2</a></p></li>
+<li><p><strong>A third-party group says Anthropic may be nearing recursive self-improvement</strong> - India Today
+METR's report says Anthropic's internal models are already speeding up its own AI progress by roughly 2x. Anthropic also admits both new models seem to suspect when they're being tested.
+If the model knows it's taking a test, the test tells you less. That's a real problem, and it's now a stated one.
+<a rel="noopener" target="_blank" href="https://www.indiatoday.in/technology/news/story/anthropic-launches-new-fable-and-mythos-ai-models-amid-fears-of-ai-building-itself-3035751-2026-11-10">https://www.indiatoday.in/technology/news/story/anthropic-launches-new-fable-and-mythos-ai-models-amid-fears-of-ai-building-itself-3035751-2026-11-10</a></p></li>
+<li><p><strong>Claude designed three working electronic devices</strong> - Anthropic
+A speakerphone, a voice-assistant hub and a handheld virtual pet. Engineers at Diode built the prototypes and the circuits worked with no fixes.
+They're still prototypes. No thermal testing, no certification.
+A year ago these models couldn't reliably lay out a board.
+<a rel="noopener" target="_blank" href="https://www.anthropic.com/research/claude-electronics-design">https://www.anthropic.com/research/claude-electronics-design</a></p></li>
+<li><p><strong>Google DeepMind verified the actual code behind Signal's protocol</strong> - Google DeepMind
+AI agents proved key security properties of the real implementation in four weeks. That's work that normally takes expert teams years.
+Humans only had to take a second look at about 1% of the codebase. They also planted two old real bugs and the system caught both.
+<a rel="noopener" target="_blank" href="https://deepmind.google/blog/introducing-alphaproof-code/">https://deepmind.google/blog/introducing-alphaproof-code/</a></p></li>
+<li><p><strong>OpenAI's GPT-6 Cyber flagged 2,308 potential Linux kernel flaws</strong> - IT Pro
+It reproduced 1,726 of them. Bug hunting at that scale is a different sport than it was last year.
+<a rel="noopener" target="_blank" href="https://www.itpro.com/security/openai-says-its-new-cyber-focused-ai-model-found-thousands-of-linux-kernel-vulnerabilities">https://www.itpro.com/security/openai-says-its-new-cyber-focused-ai-model-found-thousands-of-linux-kernel-vulnerabilities</a></p></li>
+<li><p><strong>Meta Muse Ember</strong> - Meta
+Their smallest model, built for the repetitive agent work: tool calls, routing, extraction. $0.10 in and $0.50 out per million tokens, with a 1M context window.
+The benchmark claims are Meta's own. Cheap and small is where most agent work actually lives, though.
+<a rel="noopener" target="_blank" href="https://research.meta.ai/blog/muse-ember">https://research.meta.ai/blog/muse-ember</a></p></li>
 </ul>
 
 <h2 id="enterprise-ai-moves">Enterprise AI moves</h2>
 
 <ul>
-<li><p><strong>Mistral Studio adds Managed Agents</strong> - Autonomy Crew
-Managed Agents and the workflow builder are in public preview. HTTP API connectors are in private preview. Studio apps inside Vibe Code Web are generally available. Offline evals need an Enterprise-tier org, and creating apps needs an eligible paid plan. That's three availability labels in one announcement. Check which one applies before you promise a client anything. Developers choose which tool calls need approval, and runs can resume after a crash.
-<a rel="noopener" target="_blank" href="https://autonomycrew.com/ai/mistral-studio-managed-agents/">https://autonomycrew.com/ai/mistral-studio-managed-agents/</a></p></li>
-<li><p><strong>WorkTelli puts a human approver on every deliverable</strong> - Business Bearings
-It targets small and mid-size shops in construction, law and healthcare. The agent brings back evidence first, and the deliverable only gets made after a person approves the evidence.
-That's founder David A. Craig. It's the same pattern selling to small business keeps landing on: the owner makes the call, the software does the legwork.
-<a rel="noopener" target="_blank" href="https://businessbearings.com/articles/prodigyiq-readies-worktelli-a-digital-workforce-with-humans-signing-off">https://businessbearings.com/articles/prodigyiq-readies-worktelli-a-digital-workforce-with-humans-signing-off</a></p></li>
-</ul>
-
-<blockquote>
-  <p>"You never want to take the human out of the loop because AI isn't always accurate."</p>
-</blockquote>
-
-<ul>
-<li><strong>Docgility's agentic framework for contracts</strong> - Docgility
-It pulls in company playbooks and live systems through MCP, and shows reviewers the exact prompts behind every suggestion. A human reviews everything before it becomes a redline. The 80% cycle-time cut is the company's own number, from a press release. The "human always reviews" design is the part worth copying.
-<a rel="noopener" target="_blank" href="https://www.docgility.com/post/docgility-announces-the-release-of-its-groundbreaking-agentic-ai-llm-integration-framework-for-ent">https://www.docgility.com/post/docgility-announces-the-release-of-its-groundbreaking-agentic-ai-llm-integration-framework-for-ent</a></li>
+<li><p><strong>Mistral Studio workflows are generally available</strong> - Automatica Press
+Fixed rules, agent reasoning and human approval gates in one flow. Managed agents and apps are in public preview.
+Mistral says one workflow saves its team about 35 hours a week. That's their own number, not independently checked.
+The approval gates are the interesting bit. That's the thing a client will ask about first.
+<a rel="noopener" target="_blank" href="https://www.automaticapress.com/articles/mistral-releases-agent-and-workflow-platform-on-cloud-mw9ifl40">https://www.automaticapress.com/articles/mistral-releases-agent-and-workflow-platform-on-cloud-mw9ifl40</a></p></li>
+<li><p><strong>Microsoft Agent Framework durable execution is GA</strong> - AI Provider Index
+Agents can now survive a crash, resume a long job and hold an approval wait across a restart.
+One catch from the write-up: if an agent submitted an order and died before saving the result, a replay can double it. The tools need idempotency keys.
+<a rel="noopener" target="_blank" href="https://aiproviderindex.com/news/microsoft-agent-framework-durable-task-extension-ga">https://aiproviderindex.com/news/microsoft-agent-framework-durable-task-extension-ga</a></p></li>
+<li><p><strong>NIST's solo-business security guide skips the agents</strong> - Dark Reading
+Martin Zugec at Bitdefender says solopreneurs are using AI to read their mailboxes, run commands and write code under their own identity. The guide gives no advice on what those agents should be allowed to reach.
+For anyone selling AI to small shops, that's the conversation to have before the build.
+<a rel="noopener" target="_blank" href="https://www.darkreading.com/cybersecurity-operations/nist-solo-shouldnt-mean-less-secure">https://www.darkreading.com/cybersecurity-operations/nist-solo-shouldnt-mean-less-secure</a></p></li>
 </ul>
 
 <h2 id="new-harnesses-tools">New harnesses &amp; tools</h2>
 
 <ul>
-<li><p><strong>bigpickle-brain: three agents and one memory</strong> - Josefina Tersoli, DEV Community
-A small Sydney agency open-sourced a research, proposal and review pipeline, MIT licensed. The rule I'd steal: the model decides what to look at, and the code decides what happens. Code computes the totals and checks prices before the reviewer agent sees anything. Memory is plain Markdown notes a person can open in Obsidian and fix. It's a good blueprint for anyone building agency tooling.
-<a rel="noopener" target="_blank" href="https://dev.to/jtersoli/three-agents-and-one-memory-a-proposal-pipeline-for-a-small-agency-66j">https://dev.to/jtersoli/three-agents-and-one-memory-a-proposal-pipeline-for-a-small-agency-66j</a></p></li>
-<li><p><strong>Magai multi-account connectors</strong> - Latest With AI
-Link unlimited accounts per app, like work Gmail, personal Gmail and several client inboxes, and one assistant sees them all. If it's unclear which account to act on, it asks instead of guessing. It's on the Pro plan, from $40 a month. Freelancers and agencies juggling client logins are the obvious fit.
-<a rel="noopener" target="_blank" href="https://latestwithai.com/ai-business/magai-lets-ai-see-across-work-personal-and-client-accounts-at-once/">https://latestwithai.com/ai-business/magai-lets-ai-see-across-work-personal-and-client-accounts-at-once/</a></p></li>
-<li><p><strong>Zyphra MAIA</strong> - GIGAZINE
-An agent built so several teammates can use it at the same time, with Slack and GitHub hooks. It's a macOS beta and free during beta. The pitch is "multiplayer", where most agents are single-player.
-<a rel="noopener" target="_blank" href="https://gigazine.net/gsc_news/en/20261109-maia-zyphra-multiplayer-ai-agent">https://gigazine.net/gsc_news/en/20261109-maia-zyphra-multiplayer-ai-agent</a></p></li>
-<li><p><strong>Coderick AI Import Design</strong> - SiteGround
-Upload a ZIP or HTML export from Claude Design or Google Stitch and it builds the frontend, backend and database, hosted on SiteGround. It's one more sign that design-to-working-app is turning into a checkbox.
-<a rel="noopener" target="_blank" href="https://www.streetinsider.com/Newsfile/Coderick+AI+by+SiteGround+Lets+Users+Turn+Claude+and+Stitch+Designs+Into+Working+Web+Apps/27311391.html">https://www.streetinsider.com/Newsfile/Coderick+AI+by+SiteGround+Lets+Users+Turn+Claude+and+Stitch+Designs+Into+Working+Web+Apps/27311391.html</a></p></li>
-<li><p><strong>Meta Spaces in the Muse app</strong> - Gadgets 360
-Spaces are custom AI-built feeds and dashboards pulling from sources you choose. Meta's examples include a school calendar, a shopping hub and an order tracker for small businesses. The app is US and Canada only for now, and sharing is still in the works.
-<a rel="noopener" target="_blank" href="https://www.gadgets360.com/ai/news/meta-launches-spaces-feature-custom-muse-ai-app-experiences-12302566">https://www.gadgets360.com/ai/news/meta-launches-spaces-feature-custom-muse-ai-app-experiences-12302566</a></p></li>
-<li><p><strong>Kollus MCP</strong> - Digital Today
-A Korean video platform is now in the Claude and ChatGPT directories. You can ask for viewing stats in chat, or ask it to generate player embed code. It's small, but MCP-in-the-directory is becoming how products show up.
-<a rel="noopener" target="_blank" href="https://www.digitaltoday.co.kr/en/view/123072/katenoid-launches-kollus-mcp-manage-video-services-through-ai-chat">https://www.digitaltoday.co.kr/en/view/123072/katenoid-launches-kollus-mcp-manage-video-services-through-ai-chat</a></p></li>
+<li><strong>Spacefast</strong> - Automattic
+Hosting for whatever ChatGPT, Claude or Cursor builds. The agent publishes and hands you a private link in the chat. It comes with a database, git deploys and a free tier of 20 Spaces. The $5 Go plan raises that to 100.
+A tester found the setup link doubles as an admin credential, so treat it like a password. Still, it answers the real question after the agent finishes: where does this thing live?
+<a rel="noopener" target="_blank" href="https://www.techtimes.com/articles/330352/20261110/ai-app-hosting-automattic-launches-spacefast-so-claude-chatgpt-can-publish-apps.htm">https://www.techtimes.com/articles/330352/20261110/ai-app-hosting-automattic-launches-spacefast-so-claude-chatgpt-can-publish-apps.htm</a></li>
+</ul>
+
+<blockquote>
+  <p>"Spacefast is not an AI builder"</p>
+</blockquote>
+
+<ul>
+<li><p><strong>OpenAI dots can connect to multiple computers</strong> - ETV Bharat
+One dot can build and test on a dedicated machine while you keep coding on your laptop. You choose which computer it uses for each task.
+<a rel="noopener" target="_blank" href="https://www.etvbharat.com/en/technology/major-ai-upgrades-meta-muse-openai-dot-multi-device-support-google-maps-platform-in-ai-studio-and-claude-fable-mythos-enn26111002884">https://www.etvbharat.com/en/technology/major-ai-upgrades-meta-muse-openai-dot-multi-device-support-google-maps-platform-in-ai-studio-and-claude-fable-mythos-enn26111002884</a></p></li>
+<li><p><strong>Google Maps Platform inside AI Studio</strong> - ETV Bharat
+Describe a maps app and Gemini handles setup and the API keys. Store locators, route planners and 3D flyovers are the examples. Handy for local-business builds where "near me" is the whole product.
+<a rel="noopener" target="_blank" href="https://www.etvbharat.com/en/technology/major-ai-upgrades-meta-muse-openai-dot-multi-device-support-google-maps-platform-in-ai-studio-and-claude-fable-mythos-enn26111002884">https://www.etvbharat.com/en/technology/major-ai-upgrades-meta-muse-openai-dot-multi-device-support-google-maps-platform-in-ai-studio-and-claude-fable-mythos-enn26111002884</a></p></li>
+</ul>
+
+<h2 id="podcast-watch-list">Podcast watch list</h2>
+
+<ul>
+<li><strong>$98K in 2 Months From a Business That Costs $9 to Start</strong> - The Koerner Office
+Nico Moreno says a free community of about 250 people turned into close to $100K, with a handful of $15K deals closed in DMs. Those are his numbers, so grain of salt, but the mechanics are worth the listen.
+<a rel="noopener" target="_blank" href="https://www.youtube.com/watch?v=sQN3xA6euLI">https://www.youtube.com/watch?v=sQN3xA6euLI</a></li>
+</ul>
+
+<blockquote>
+  <p>"You're out 9 bucks."</p>
+</blockquote>
+
+<ul>
+<li><p><strong>AI Agents are too good at marketing now</strong> - Startup Ideas Podcast
+Cody Schneider walks through skill files for static ads and AI UGC. The useful piece is where he puts a human gate before anything goes live.
+<a rel="noopener" target="_blank" href="https://www.youtube.com/watch?v=uJuxenfe-NU">https://www.youtube.com/watch?v=uJuxenfe-NU</a></p></li>
+<li><p><strong>His vibe coded app hit $55K MRR in 109 days (full breakdown)</strong> - Corey Ganim
+Ryan Matthews built an elk-call scoring app with Claude Code and says he never read a line of code. The idea came from his own annoying problem.
+<a rel="noopener" target="_blank" href="https://www.youtube.com/watch?v=I0fRBMEYp-A">https://www.youtube.com/watch?v=I0fRBMEYp-A</a></p></li>
+<li><p><strong>Agentic Video is Real and Here's What You Should Try</strong> - AI Daily Brief
+The argument is that Opus 5.5 is doing for video editing what Opus 4.5 did for coding. Editing becomes a conversation and the model can sort of watch the footage.
+<a rel="noopener" target="_blank" href="https://www.youtube.com/watch?v=M-o7viCDaBw">https://www.youtube.com/watch?v=M-o7viCDaBw</a></p></li>
 </ul>
 
 <h2 id="content-angles-for-you">Content angles for you</h2>
 
 <ol>
-<li>"Go open your Claude Code settings file." Walk through what it saves, why a key can end up in it, and the fix: rotate it, and keep keys in a .env, never inline. It's practical, it's timely, and nobody else is saying it plainly.</li>
-<li>Three products shipped this week (WorkTelli, Docgility, the Sydney pipeline) and all of them put a human sign-off before anything goes out. Make the case that this is the pattern small business owners will actually buy.</li>
-<li>"The model decides what to look at, the code decides what happens." Take the bigpickle-brain rule and show what it looks like in a Handled build.</li>
-<li>Five Chinese models in a week, with the benchmark caveat. The real question for client work is price per task, not rank on a leaderboard.</li>
-<li>Seedream 5.5's real alpha channel, and what it would mean for the photoreal-base-plus-words workflow. Test it first, then post the result.</li>
+<li>Anthropic launched its biggest model and told people to start with Opus 5.5. Write "match the model to the job" with a real small-business example: an email answered, an invoice chased.</li>
+<li>The agent permissions question. Zugec's point about solopreneurs giving AI their inbox, set against the stuff you'd walk a Handled client through before turning an agent on.</li>
+<li>The elk-call app. A guy annoyed at his own problem builds a thing. Tie it to "what are you already doing for yourself that someone else would find useful?"</li>
+<li>Agentic video from the photographer angle. The slowest part was always the watching, and now the model can do some of it.</li>
+<li>Claude designing real circuit boards, with the honest caveat that they're prototypes. A year-over-year "look how fast this moved" post with no hype.</li>
 </ol>
 
 <h2 id="people-to-engage-with">People to engage with</h2>
 
 <ul>
-<li><strong>Josefina Tersoli</strong> - published the bigpickle-brain write-up and repo. A co-founder of a small Sydney agency building what you're building, and a natural peer to talk shop with.</li>
-<li><strong>David A. Craig</strong> - founder of ProdigyIQ and builder of WorkTelli. His line about never taking the human out of the loop is worth a reply.</li>
-<li><strong>Guru Vishwa</strong> - co-founder of DigiTechzo in Madurai, who talks about AI that answers leads at midnight and updates the CRM. It's the same small-business lane Handled is in.</li>
-<li><strong>Tulsee Doshi</strong> - head of product for Gemini. Her interview on how frontier models actually get built is worth a listen if you want a view from the inside.</li>
+<li><strong>Nico Moreno</strong> - the $9 community, $15K DM closes, no sales calls.</li>
+<li><strong>Cody Schneider</strong> - walked through skill files for ads and the human-gate step on Startup Ideas.</li>
+<li><strong>Ryan Matthews</strong> - vibe coded the elk-call app and reports about 3,000 customers in 110 days. Funnel Architecture is his agency.</li>
+<li><strong>Martin Zugec</strong> - Bitdefender, called out the agent gap in NIST's solopreneur guide.</li>
+<li><strong>Matt Mullenweg</strong> - Automattic CEO, behind Spacefast.</li>
 </ul>
 
     </article>
