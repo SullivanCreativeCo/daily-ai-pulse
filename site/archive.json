@@ -31208,5 +31208,207 @@
     "title": "Claude can design electronic prototypes from start to finish \\ Anthropic",
     "url": "https://www.anthropic.com/research/claude-electronics-design",
     "snippet": "Claude can design electronic prototypes from start to finish \\ Anthropic\n\n# Testing Claude on real-world electronics design\n\nPublished\n\nNov 9, 2026\n\nA little over a year ago, we began testing how well Claude could design basic electronic circuits. We collaborated with Diode Computers, 1 a company that designs and manufactures circuit boards, to train Claude on simple tasks\u2014for example, on reading "
+  },
+  {
+    "kind": "digest",
+    "date": "2026-11-11",
+    "headline": "Google, Anthropic and OpenAI all shipped on the same day. Carbon from Google. Sheets, Whiteboards and Data from Anthropic. Businesses in ChatGPT from OpenAI.",
+    "url": "archive/2026-11-11.html",
+    "posts": {
+      "linkedin": [
+        "ChatGPT just built itself a Google Business Profile.\n\nOpenAI launched Businesses in ChatGPT in beta. You claim your business, get verified, and keep your info current. You can upload a product feed with pricing and availability.\n\nThen there's the Business Agent. A shopper clicks your profile and talks to an agent that only answers from what you gave it. It's labeled, and it's separate from ChatGPT's own answer.\n\nRight now that's US ecommerce and online service businesses only. Local shops aren't in yet.\n\nMy guess is they're next. Nobody said that. It's just how this usually goes.\n\nThe dashboard is the part I like. You see mentions and website clicks. That's it. No chats. But you can finally see whether ChatGPT is sending anybody your way.\n\nGoogle Business Profile took years to matter. This one probably won't get that long.\n\nWhen somebody asks ChatGPT who to call, what does it actually know about your business?",
+        "86% of solopreneurs say they'd try AI before they'd hire anyone.\n\nThat's a Freshbooks survey, reported by Fast Company. And it tracks. AI is great at the early stuff. Scheduling. First-draft posts. A website. A rough business plan.\n\nThe number I keep thinking about is 65%. That's how many say they're feeling AI burnout.\n\nThe tool doesn't run itself. Somebody has to keep feeding it, checking it, fixing what it got wrong. That somebody is the owner. The same person we were trying to give time back to.\n\nSo the work didn't go away. It changed shape.\n\nI don't think that's bad. It's just not free, and nobody puts it on the pricing page.\n\nDo more with the same, not the same with less. But the more needs somebody holding the wheel.\n\nIf you set this up for a small business, who's holding the wheel in month three?",
+        "Stop selling hours.\n\nThe Startup Ideas Podcast episode on Fable 5.2 had one idea worth stealing. The host says Anthropic's own post has the real freelance score going from 21% to 41%. I haven't checked that myself, so take it as his number.\n\nThe idea holds either way. If a model can do most of a freelance job, the hour isn't what you're selling anymore. The finished job is.\n\nHis example is a client with a 12 year old spreadsheet running the whole business. Figure out what it does. Rebuild it as a simple web app. Move the data over. Write a one page guide for the staff. Fixed price.\n\nWould someone pay for that? I think someone would pay for that.\n\nWhat makes it a real service is the honest line. What you're confident in, and what a human still has to check. Say that out loud and you're not overselling.\n\nWhat's the spreadsheet a business owner you know has been scared to touch for ten years?"
+      ],
+      "threads": [
+        "Gemini 4 Carbon is $2 in and $10 out per million tokens. On November 30 it goes to $4 and $20. That's double.\n\nIf you've been saving your hardest coding or research task for a model like this, run it this month while it's on sale.\n\nThe #1 rankings are Google's and its partners' own benchmarks, so test it on your actual work. Your project is the only benchmark that counts.",
+        "n8n Labs put out a personal agent called Nod. It runs on your computer with its own browser. Cancel a subscription, ask for the refund, file the invoices.\n\nWhat I liked is it checks again before it sends, pays, posts or deletes anything you didn't ask for. And the model never sees your passwords.\n\nFeels like the first agent built by somebody who's been burned. It does stop when your laptop sleeps, though.",
+        "There's a new app called Arca that pays you for your old AI sessions. It finds your Claude Code and Cursor history on your machine, scrubs it on your device, and you pick what to submit.\n\nCool idea. But think about what's actually in those sessions. Client names. Half-finished contracts. API calls.\n\nWould you want a client reading your last one?"
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-11-11",
+    "source": "Startup Ideas Podcast",
+    "title": "Claude Fable 5.2: How I\u2019d Make Money With It",
+    "url": "https://www.youtube.com/watch?v=G3i2k6DdI0o",
+    "video_id": "G3i2k6DdI0o"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-11-11",
+    "source": "AI Daily Brief",
+    "title": "Nvidia CEO Admits Cheating with Suspected Chinese Spy",
+    "url": "https://www.youtube.com/watch?v=TGDVsntuFd0",
+    "video_id": "TGDVsntuFd0"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-11",
+    "topic": "model_releases",
+    "title": "Gemini 4 Carbon is now available",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
+    "snippet": "Gemini 4 Carbon is now available\n\n# Gemini 4 Carbon is now available\n\nNov 10, 2026\n\n Developers, enterprises, scientists, and consumers can now try our latest frontier model. \n\nKoray Kavukcuoglu\n\nSVP, Google DeepMind and Chief AI Architect, Google\n\nToday, we\u2019re making Gemini 4 Carbon available to developers, enterprises, scientists, and consumers. Carbon is our strongest model with frontier perfor"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-11",
+    "topic": "model_releases",
+    "title": "Introducing ERNIE 5.5 Flash Preview \u00b7 ERNIE",
+    "url": "https://ernie.baidu.com/release/ernie-5-5-flash-preview/",
+    "snippet": "Introducing ERNIE 5.5 Flash Preview \u00b7 ERNIE\n\nProduct updates / November 11, 2026\n\n# ERNIE 5.5 Flash Preview\n\nStill driven by the same dream.\n\nTable of Contents\n\nToday we are releasing ERNIE 5.5 Flash Preview, the first post-trained model built on the ERNIE 5.5 Flash Base we released earlier. It has 280B total parameters with 14B active and a 1M-token context, and it is strong at coding, 3D modelin"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-11",
+    "topic": "model_releases",
+    "title": "PAN 2 Press Release | Institute of Foundation Models",
+    "url": "https://ifm.ai/pan2/press-release/",
+    "snippet": "PAN 2 Press Release | Institute of Foundation Models\n\n# The Institute of Foundation Models Unveils PAN 2, an Open World Model for Physical Intelligence\n\nNovember 10, 2026 \u00b7 Institute of Foundation Models\n\nSunnyvale, California, November 10, 2026 \u2014 The Institute of Foundation Models (IFM), established by Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), today released PAN 2, an open"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-11",
+    "topic": "model_releases",
+    "title": "Launching Bielik 11B v3.1, DFlash and the Bielik-One family | Bielik.ai",
+    "url": "https://www.bielik.ai/en/blog/launching-bielik-11b-v31-dflash-and-the-bielik-one-family",
+    "snippet": "Launching Bielik 11B v3.1, DFlash and the Bielik-One family | Bielik.ai\n\n# Launching Bielik 11B v3.1, DFlash and the Bielik-One family\n\nEditorial Team Bielik AI\n\n Date 10 November 2026 Reading time 4 min \n\n \n\nThis week belongs to Bielik. Together with ACK Cyfronet AGH, we are releasing Bielik 11B v3.1: it speaks 56 languages (including languages from outside Europe), can call external tools and ha"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-11",
+    "topic": "model_releases",
+    "title": "Moonshot AI releases Kimi K3 multimodal reasoning model | TLDR",
+    "url": "https://tldr.tech/story/1bc4bdd1-7756-4c8a-b81e-a5469e71caff",
+    "snippet": "Moonshot AI releases Kimi K3 multimodal reasoning model | TLDR\n\n# Moonshot AI releases Kimi K3 multimodal reasoning model\n\nMoonshot AI has released Kimi K3, a 2.8 trillion parameter open-weight multimodal reasoning model designed for complex coding, knowledge work, and long-horizon agentic workflows. The model excels at repository navigation, tool usage, debugging, and iterative processing using i"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-11",
+    "topic": "product_releases",
+    "title": "Arca Opens to Everyone, Paying People for the AI Sessions",
+    "url": "https://www.globenewswire.com/news-release/2026/11/11/3400565/0/en/arca-opens-to-everyone-paying-people-for-the-ai-sessions-they-d-otherwise-throw-away.html",
+    "snippet": "# Arca Opens to Everyone, Paying People for the AI Sessions They'd Otherwise Throw Away\n\n November 11, 2026 07:00 ET | Source: Arca \n\n \n\nAfter invite-only early access, the desktop app from the team behind Brevis is now open to anyone on Mac and Windows.\n\nHONG KONG, Nov. 11, 2026 (GLOBE NEWSWIRE) -- Arca, a new desktop app from the team behind Brevis, opened to the public today. Arca pays people f"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-11",
+    "topic": "product_releases",
+    "title": "Anthropic launches Claude Whiteboards, Sheets and Data to expand AI-powered workplace tools - The Economic Times",
+    "url": "https://economictimes.indiatimes.com/ai/ai-insights/anthropic-launches-claude-whiteboards-sheets-and-data-to-expand-ai-powered-workplace-tools-microsoft/articleshow/135723111.cms",
+    "snippet": "Anthropic launches Claude Whiteboards, Sheets and Data to expand AI-powered workplace tools - The Economic Times\n# Anthropic launches Claude Whiteboards, Sheets and Data to expand AI-powered workplace tools\nAnthropic launches Claude Whiteboards, Sheets and Data to expand AI-powered workplace tools\nET Online Last Updated: Nov 11, 2026, 08:35:00 AM IST\nSynopsis\nAnthropic has introduced Claude Whiteb"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-11",
+    "topic": "product_releases",
+    "title": "Gemini 4 Carbon: Gemini 4 Carbon opens to developers, enterprises with advanced AI capabilities for complex tasks - The Economic Times",
+    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/gemini-4-carbon-opens-to-developers-enterprises-with-advanced-ai-capabilities-for-complex-tasks/articleshow/135724889.cms",
+    "snippet": "Gemini 4 Carbon: Gemini 4 Carbon opens to developers, enterprises with advanced AI capabilities for complex tasks - The Economic Times\n# Gemini 4 Carbon opens to developers, enterprises with advanced AI capabilities for complex tasks\nANI Last Updated: Nov 11, 2026, 09:19:40 AM IST\n### Synopsis\nGoogle has expanded access to its Gemini 4 Carbon artificial intelligence (AI) model to developers, busin"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-11",
+    "topic": "product_releases",
+    "title": "New AI Tools: What Changes for Users and Work | The Neuron",
+    "url": "https://www.theneuron.ai/news/google-anthropic-openai-ai-assistants-workspaces/",
+    "snippet": "On November 10, Google expanded Gemini 4 Carbon access, Anthropic added shared work tools to Claude, and OpenAI introduced business profiles and customer-facing agents in ChatGPT. They address different activities: executing tasks, collaborating on work, and talking to customers. Together, they illustrate AI products taking on more of the work surrounding a conversation.\n\n...\n\n## What the three re"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-11",
+    "topic": "product_releases",
+    "title": "\ud83d\ude38 3 AI labs shipped for you",
+    "url": "https://www.theneurondaily.com/p/3-ai-labs-shipped-for-you",
+    "snippet": "Eric Gerard Ruiz & Corey\n\n...\n\nHere\u2019s what happened in AI today:\n\n- \ud83d\ude38 Google, Anthropic, and OpenAI each shipped big new tools. \n- \ud83d\udcf0 Anthropic filed a corrected IPO range of $70 to $78. \n- \ud83d\udcf0 DeepMind used AI agents to verify key parts of Signal's code. \n- \ud83c\udf6a Adobe's Creative Agent edits across Illustrator, Premiere, and InDesign. \n- \ud83c\udf93 STE80 Humanizer fixes AI-sounding drafts in two passes. \n\n# \ud83d\ude38 Go"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-11",
+    "topic": "ai_agents",
+    "title": "Solo.io Brings Agent Substrate to Enterprise Production | Solo.io",
+    "url": "https://www.solo.io/press-releases/announcing-kagent-1-0-ga",
+    "snippet": "# Solo.io Brings Agent Substrate to Enterprise Production\n\nNovember 10, 2026\n\nSolo\u2019s enterprise releases of Agent Substrate and kagent combine serverless scale and sandbox isolation with a developer experience for agents, tools, and skills to power production deployments across financial services and cloud service providers.\n\nCAMBRIDGE, Mass., November 10th, 2026 \u2013 Solo.io, the leading provider of"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-11",
+    "topic": "ai_agents",
+    "title": "Mistral Studio: Managed Agents Go Public Preview | Dirty Static",
+    "url": "https://dirtystatic.com/articles/mistral-studio-managed-agents-go-public-preview/",
+    "snippet": "# Mistral Studio: Managed Agents Go Public Preview\n\nMistral Studio expanded on November 5, 2026 with managed agents in public preview. This piece covers the Agents SDK in Python, the three ways one agent can run, the durable sessions and approval waits in the docs, the workflow builder and apps that arrived in the same release, what the traces and evaluations gate takes away, and why the missing r"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-11",
+    "topic": "ai_agents",
+    "title": "IndyKite open sources the Intent Agent to set a standard for how AI agents express intent",
+    "url": "https://www.indykite.ai/news/indykite-open-sources-the-intent-agent-to-set-a-standard-for-how-ai-agents-express-intent",
+    "snippet": "IndyKite open sources the Intent Agent to set a standard for how AI agents express intent\n\nNovember 10, 2026\n\n# IndyKite open sources the Intent Agent to set a standard for how AI agents express intent\n\nThe open-source Intent Agent turns natural-language requests into structured, standards-based authorization intents, grounded in the enterprise's own data.\n\nLONDON \u2013 November 10, 2026 \u2013 IndyKite to"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-11",
+    "topic": "ai_agents",
+    "title": "The first AI agent governance and orchestration platform for complex CX",
+    "url": "https://www.zingtree.com/blog/introducing-zingtree-ai-agent-governance-orchestration",
+    "snippet": "The first AI agent governance and orchestration platform for complex CX\n\n# The first AI agent governance and orchestration platform for complex CX\n\nToday, we launched Zingtree's new platform, built for contact centers and customer operations in complex, regulated industries.\n\n### Table of Contents\n\nh2\n\nExample H2\n\nh3\n\nExample H3\n\nh4\n\nExample H4\n\nExample H5\n\nExample H6\n\nToday, we launched Zingtree'"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-11",
+    "topic": "ai_agents",
+    "title": "Meet Nod: a standalone personal agent from n8n Labs that runs on your computer \u2013 n8n Blog",
+    "url": "https://blog.n8n.io/meet-nod/",
+    "snippet": "# Meet Nod: a standalone personal agent from n8n Labs that runs on your computer\n\nNod gets stuff done for you. It works in your apps and on any website, asks before it acts, and uses the AI provider you choose.\n\n Ophir Prusak November 10, 2026 \u2219 5-minute read \n\n \n\nToday we're releasing Nod as a research preview from n8n Labs, a new team within n8n that experiments with ideas outside our core produ"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-11",
+    "topic": "ai_small_business",
+    "title": "Most solopreneurs turn to AI before hiring others, data suggests. Here's why - Fast Company",
+    "url": "https://www.fastcompany.com/91638967/most-solopreneurs-turn-to-ai-before-hiring-others-data-suggests-heres-why",
+    "snippet": "Years ago, there was one clear solution: hire more people. Bring on team members to take on the work. But today, solopreneurs are taking a different course of action. Now, according to our research at cloud-based accounting software company Freshbooks, 86% of solopreneurs and micro-business owners will turn to AI before hiring outside help. And it makes sense: it can save time and energy and allow"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-11",
+    "topic": "ai_small_business",
+    "title": "Handle Introduces AI Agent Designed to Lighten the Load for Local Service Business Owners",
+    "url": "https://www.businesswire.com/news/home/20261110041634/en/Handle-Introduces-AI-Agent-Designed-to-Lighten-the-Load-for-Local-Service-Business-Owners",
+    "snippet": "Handle Introduces AI Agent Designed to Lighten the Load for Local Service Business Owners\n\nCombining local-business expertise with an understanding of each business, Handle takes on everyday work while keeping owners in control\n\nAUSTIN, Texas--(BUSINESS WIRE)-- Handle today opened the waitlist for its AI agent for local service businesses, including home services and health and wellness. Handle le"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-11",
+    "topic": "ai_small_business",
+    "title": "How Hostinger is helping solo founders in Southeast Asia go from idea to paying customers How Hostinger is helping solo founders in Southeast Asia go from idea to paying customers with AI agents | e27",
+    "url": "https://e27.co/how-hostinger-is-helping-solo-founders-in-southeast-asia-go-from-idea-to-paying-customers-20261111/",
+    "snippet": "You have an idea for a service or a small product. You have a free weekend and no developer. By Sunday night you also have a list: a domain, hosting, a site builder, a way to take payment, a mailing list, somewhere to keep customer data, and a plan for answering the same three questions every day.\n\nNone of it is hard on its own. Together, it is why many good ideas stay in a notes app.\n\nFounders in"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-11",
+    "topic": "ai_labs",
+    "title": "Introducing Businesses in ChatGPT | OpenAI",
+    "url": "https://openai.com/index/introducing-businesses-chatgpt",
+    "snippet": "Introducing Businesses in ChatGPT | OpenAI\nNovember 10, 2026\n# Introducing Businesses in ChatGPT\nClaim your business, keep your information current, and understand how people engage with you in ChatGPT\nWe\u2019re introducing Businesses in ChatGPT in beta, giving businesses a new way to connect with the 1.2 billion people who use ChatGPT each week. Through Business Hub\u2060(opens in a new window), businesse"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-11",
+    "topic": "ai_labs",
+    "title": "Gemini Robotics 2.5: Accelerating Physical Intelligence \u2014 Google DeepMind",
+    "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+    "snippet": "Gemini Robotics 2.5: Accelerating Physical Intelligence \u2014 Google DeepMind\n\n November 10, 2026 Models\n\n# Gemini Robotics 2.5 accelerates real-world general dexterity\n\nCarolina Parada\n\n Your browser does not support the video tag.\n\n Your browser does not support the video tag.\n\nWe\u2019re enabling robots to learn faster for the real world - from everyday skills to the factory floor\n\nToday, we are introdu"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-11",
+    "topic": "ai_labs",
+    "title": "Diluting Poisoned Fine-Tuning Data Can Strengthen Its Effect",
+    "url": "https://alignment.anthropic.com/2026/homeopathic-learning/",
+    "snippet": "Diluting Poisoned Fine-Tuning Data Can Strengthen Its Effect\n\n# Diluting Poisoned Fine-Tuning Data Can Strengthen Its Effect\n\nMatt Clarke*\u00b9, Jan Dubi\u0144ski*\u00b2 \u00b3 \u2074, James Chua\u00b9\u2020\n\nNovember 10, 2026\n\nSimon Schrodi\u2075 \u2076\u2020, Owain Evans\u00b2 \u2077, Alex Cloud\u00b9\n\n\u00b9 Anthropic; \u00b2 Truthful AI; \u00b3 NASK National Research Institute; \u2074 Warsaw University of Technology; \u2075 MATS; \u2076 University of Freiburg; \u2077 UC Berkeley\n\n* Core con"
   }
 ]
