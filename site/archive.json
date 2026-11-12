@@ -31410,5 +31410,247 @@
     "title": "Diluting Poisoned Fine-Tuning Data Can Strengthen Its Effect",
     "url": "https://alignment.anthropic.com/2026/homeopathic-learning/",
     "snippet": "Diluting Poisoned Fine-Tuning Data Can Strengthen Its Effect\n\n# Diluting Poisoned Fine-Tuning Data Can Strengthen Its Effect\n\nMatt Clarke*\u00b9, Jan Dubi\u0144ski*\u00b2 \u00b3 \u2074, James Chua\u00b9\u2020\n\nNovember 10, 2026\n\nSimon Schrodi\u2075 \u2076\u2020, Owain Evans\u00b2 \u2077, Alex Cloud\u00b9\n\n\u00b9 Anthropic; \u00b2 Truthful AI; \u00b3 NASK National Research Institute; \u2074 Warsaw University of Technology; \u2075 MATS; \u2076 University of Freiburg; \u2077 UC Berkeley\n\n* Core con"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-11-12",
+    "headline": "Anthropic shipped Fable 5.2 and Mythos 5.2. On the remote labor index, which uses real contractor projects, it scored 41.3%. Opus 5.5 scored 21%.",
+    "url": "archive/2026-11-12.html",
+    "posts": {
+      "linkedin": [
+        "Fable 5.2 almost doubled the score on the remote labor index.\n\n21% to 41%. One model generation.\n\nThat test uses real contractor projects. Defined work, clear finish line, someone can say yes, that's done.\n\nHere's what I keep coming back to. The work that gets automated first isn't the hard work. It's the clear work.\n\nIf you can write down what done looks like, a model can chase it. If you can't, it wanders.\n\nSo the move isn't learning another tool this week. It's writing down what done looks like for the stuff you do every Tuesday.\n\nThe follow-ups. The quotes. The weekly report nobody reads.\n\nIf it's repeatable, it's a skill. And if it's a skill you can describe, it's a skill you can hand off.\n\nWhat's one thing you do every week that you've never actually written down?",
+        "Most people ask if they can trust the AI.\n\nI think that's the wrong question.\n\nDan Clarke runs Ostina, a UK company building AI staff for small businesses. In an interview this week he put it better: draw the line around the action, not the whole system.\n\nSo you don't decide trust once. You decide it per action. What can it read? What can it draft? What can it send? Up to what amount? When does it stop and come get you?\n\nSay it handles inbound enquiries. Fine for it to reply and update the customer record. Not fine for it to promise a price outside your range. That one comes back to you.\n\nThat's a few sentences in a doc. Not a framework.\n\nIt's how you'd onboard a person. Day one, nobody hands the new hire the company card.\n\nWhere's your line today? Is it written down anywhere?",
+        "Anthropic just published a paper called Worse Together.\n\nThey gave every user their own AI agent, all sharing one resource. A token budget. A clinic calendar. A group food order.\n\nThen they compared that to one agent serving everybody.\n\nThe single agent won in all four setups. By roughly 10 to 45 points.\n\nAnd a lot of the agents just never did anything. As teams grew from 4 to 16 agents, the share that acted at all dropped from 66% to 10% for one model.\n\nHere's why I care. Plenty of small businesses are being sold a sales agent, a support agent, a scheduling agent, all doing their own thing. More agents isn't more help by default.\n\nThe fix that worked for the shared budget was boring. A designated lead and clear priorities.\n\nWho's the lead in your setup? If the answer is nobody, that's probably the bug."
+      ],
+      "threads": [
+        "Google shipped an API that doesn't write anything back.\n\nYou hand it one input and up to 1,000 yes/no or multiple choice questions. It scores them in one pass. 150 to 250 milliseconds. $0.10 per million input tokens, zero output tokens billed.\n\nGemini Notebook already uses it to pick which model answers you.\n\nBoring plumbing. Also the part that makes everything else cheaper.\n\nNot every AI call needs to talk.",
+        "Ross Mike gave his agent a PDF build plan and said \"review this.\"\n\nNot build this. Review.\n\nIt came back with something like: good direction, but I wouldn't approve the build plan unchanged. Then it listed the issues.\n\nThat's the whole trick. Make it push back before you let it build anything.\n\nWhen's the last time your AI told you no?",
+        "Claude built a whole business in a box on Corey Ganim's screen. Three repos, offers, leads, ads. 20 to 30 minutes.\n\nMy favorite moment was small though. It suggested an AI phone receptionist and Corey said that one's overplayed, everybody's doing it.\n\nThe model can list options all day. Knowing which one the whole internet is already chasing is still on you.\n\nWould someone pay for this? Somebody's gotta ask."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-11-12",
+    "source": "The Koerner Office",
+    "title": "Get Paid Monthly. Let AI Do the Work. [NO ADS + EARLY ACCESS]",
+    "url": "https://www.youtube.com/watch?v=6aekONt8PfY",
+    "video_id": "6aekONt8PfY"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-11-12",
+    "source": "Startup Ideas Podcast",
+    "title": "Use Grok Bot Better Than 99% of People (Full Course)",
+    "url": "https://www.youtube.com/watch?v=1cWZ7Ekff6E",
+    "video_id": "1cWZ7Ekff6E"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-11-12",
+    "source": "Corey Ganim",
+    "title": "make f*ck you money with claude fable 5.2 + free github repos",
+    "url": "https://www.youtube.com/watch?v=lgecc4KuTB0",
+    "video_id": "lgecc4KuTB0"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-11-12",
+    "source": "AI Daily Brief",
+    "title": "Fable 5.2 vs Opus 5.5 and When to Use Each",
+    "url": "https://www.youtube.com/watch?v=mJMKygU_G5g",
+    "video_id": "mJMKygU_G5g"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-12",
+    "topic": "model_releases",
+    "title": "The Institute of Foundation Models Unveils PAN 2,  an Open World Model for Physical Intelligence",
+    "url": "https://mbzuai.ac.ae/news-events/news/the-institute-foundation-models-unveils-pan-2-open-world-model-physical",
+    "snippet": "The Institute of Foundation Models Unveils PAN 2, an Open World Model for Physical Intelligence\n\nNovember 11 2026 / Press release\n\n# The Institute of Foundation Models Unveils PAN 2, an Open World Model for Physical Intelligence\n\nThe Institute of Foundation Models (IFM), established by Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), today released PAN 2, an open, general-purpose "
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-12",
+    "topic": "model_releases",
+    "title": "Bielik 11B v3.1 Adds 56 Languages and Tool Use | TSN",
+    "url": "https://tsnmedia.org/bielik-11b-v3-1/",
+    "snippet": "Bielik 11B v3.1 Adds 56 Languages and Tool Use | TSN\n\n# SpeakLeash Releases Bielik 11B v3.1 in 56 Languages\n\nNovember 11, 2026\n\nIllustration for TSN. Not a product image.\n\nSpeakLeash and ACK Cyfronet AGH have released Bielik 11B v3.1, an 11-billion-parameter open model from Poland that now covers 56 languages and adds function calling, structured output and a reasoning mode. In a blog post dated 1"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-12",
+    "topic": "model_releases",
+    "title": "LongCat-2.5: a 1.6T open agent model under MIT | Neural Daily",
+    "url": "https://www.neuraldaily.news/en/a/longcat-2-5-a-1-6t-open-agent-model-under-mit",
+    "snippet": "LongCat-2.5: a 1.6T open agent model under MIT | Neural Daily\n\n# LongCat-2.5: a 1.6T open agent model under MIT\n\n\ud83c\udded\ud83c\uddfa Olvasd el magyarul \u2192\n\nMeituan published the LongCat-2.5 weights on Hugging Face. The natively multimodal MoE model has 1.6 trillion parameters, about 48 billion active per token, under the MIT license. Meituan's numbers put it near closed frontier models on agent tasks, though not ev"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-12",
+    "topic": "model_releases",
+    "title": "Trellis Data launches near-frontier model Agentaus 1",
+    "url": "https://australiancybersecuritymagazine.com.au/trellis-data-launches-near-frontier-model-agentaus-1/",
+    "snippet": "Trellis Data launches near-frontier model Agentaus 1 - Australian Cyber Security Magazine\n\n# Trellis Data launches near-frontier model Agentaus 1 \n\n By Editorial Team on November 12, 2026 APP-ACSM, Artificial intelligence, Technology \n\nTrellis Data has launched Agentaus 1, a 220-billion-parameter AI model it says is designed to support \u201csovereign\u201d AI use cases for Australian businesses and governm"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-12",
+    "topic": "model_releases",
+    "title": "IFM and Inception42 Launch Jais 3 Arabic-Centric Agentic Models | Tech Pulse | TheNextGenTechInsider",
+    "url": "https://www.thenextgentechinsider.com/pulse/ifm-and-inception42-launch-jais-3-arabic-centric-agentic-models",
+    "snippet": "# IFM and Inception42 Launch Jais 3 Arabic-Centric Agentic Models\n\nThe Institute of Foundation Models and Inception42 have released Jais 3, a fleet of six open-weight models designed for Arabic-centric agentic workflows. These models enable complex tasks like tool-calling and web searching.\n\nHiren Dave\n\nFounder\n\nNov 11, 2026\u2022 4 min read\n\n### KEY TAKEAWAYS\n\nThe fleet includes four dense models (0.9"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-12",
+    "topic": "product_releases",
+    "title": "ZEPIC Launches Neura, an Agentic Conversational Storefront",
+    "url": "https://www.globenewswire.com/news-release/2026/11/12/3401300/0/en/zepic-launches-neura-an-agentic-conversational-storefront-for-consumer-brands.html",
+    "snippet": "ZEPIC Launches Neura, an Agentic Conversational Storefront\n\n# ZEPIC Launches Neura, an Agentic Conversational Storefront for Consumer Brands\n\n## Neura works wherever customers are, answering questions, finding products in stock, directing customers to nearby stores, and handling offers and returns, with the full context of every customer\n\n November 12, 2026 05:00 ET | Source: ZEPIC \n\nNEW YORK, Nov"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-12",
+    "topic": "product_releases",
+    "title": "Google Gemini Decisions API Debuts With Support for 1,000 Questions Per Request | Technology News",
+    "url": "https://www.gadgets360.com/ai/news/google-gemini-decisions-api-launch-features-availability-12316472",
+    "snippet": "Google Gemini Decisions API Debuts With Support for 1,000 Questions Per Request | Technology News\n\n# Google Gemini Decisions API Debuts With Support for 1,000 Questions Per Request\n\nDevelopers can submit text, images, audio, video and PDF files for the model to analyse.\n\n Written by Sucharita Ganguly, Edited by Rohan Pal | Updated: 12 November 2026 15:00 IST \n\n \n\nGoogle claims response times of 15"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-12",
+    "topic": "product_releases",
+    "title": "Tuya Releases Open-Source Skill Enabling Meta Muse to Control Smart Devices Across 3,000+ Categories",
+    "url": "https://www.prnewswire.com/news-releases/tuya-releases-open-source-skill-enabling-meta-muse-to-control-smart-devices-across-3-000-categories-302937689.html",
+    "snippet": "Tuya Releases Open-Source Skill Enabling Meta Muse to Control Smart Devices Across 3,000+ Categories\n\n# Tuya Releases Open-Source Skill Enabling Meta Muse to Control Smart Devices Across 3,000+ Categories\n\n Tuya Smart \n\nNov 12, 2026, 05:07 ET\n\nTuya Cloud Devices lets Muse users query and control the devices in their Tuya account using natural language and a single API key, with no local device key"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-12",
+    "topic": "product_releases",
+    "title": "Google\u2019s Gemini 4 Carbon can do 5 things your current AI chatbot can\u2019t \u2014 here\u2019s how to try them | Tom's Guide",
+    "url": "https://www.tomsguide.com/ai/google-gemini/googles-gemini-4-carbon-can-do-5-things-your-current-ai-chatbot-cant-heres-how-to-try-them",
+    "snippet": "Google\u2019s Gemini 4 Carbon can do 5 things your current AI chatbot can\u2019t \u2014 here\u2019s how to try them | Tom's Guide\n\n# Google\u2019s Gemini 4 Carbon can do 5 things your current AI chatbot can\u2019t \u2014 here\u2019s how to try them\n\n By Amanda Caswell \n\n Published 12 November 2026 \n\nGoogle's most powerful model yet allows users to do more than ever\n\n (Image credit: Shutterstock) \n\nGoogle has officially launched Gemini 4"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-12",
+    "topic": "product_releases",
+    "title": "Grok Bot 1.0 leaves beta with shared AI teammates for Slack and Teams \u2014 AI Chat Daily",
+    "url": "https://www.aichatdaily.com/ai-tools/grok-bot-1-0-leaves-beta-shared-ai",
+    "snippet": "Grok Bot 1.0 leaves beta with shared AI teammates for Slack and Teams \u2014 AI Chat Daily\n\n# Grok Bot 1.0 leaves beta with shared AI teammates for Slack and Teams\n\nVersion 1.0 lets teams share bots, bring them into video calls, and have them volunteer for unfinished work without being asked.\n\nJaeden Schafer Editor in Chief \u00b7 Nov 12, 2026 \u00b7 4:06 AM UTC \u00b7 4 min read\n\nS paceXSI's Grok Bot 1.0 has left be"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-12",
+    "topic": "ai_agents",
+    "title": "Solo.io Launches Enterprise Agent Substrate and kagent GA Releases",
+    "url": "https://techintelpro.com/news/AI/Agentic-AI/soloio-launches-enterprise-agent-substrate-and-kagent-ga-releases",
+    "snippet": "- by:\n- |\n- November 11, 2026 \n\nSolo.io, a provider of AI-ready infrastructure, has announced the general availability of its enterprise releases of Agent Substrate and kagent. The new offerings are designed to help enterprises build, deploy, and manage AI agents at scale with infrastructure-level isolation, security, and governance.\n\nAgent Substrate introduces an infrastructure layer for agentic "
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-12",
+    "topic": "ai_agents",
+    "title": "Alibaba Cloud Launches Full-stack AgenticOps, Making the Agent the First User in Operations and R&D - Alibaba Cloud Community",
+    "url": "https://www.alibabacloud.com/blog/alibaba-cloud-launches-full-stack-agenticops-making-the-agent-the-first-user-in-operations-and-r%26d_603765",
+    "snippet": "# Alibaba Cloud Launches Full-stack AgenticOps, Making the Agent the First User in Operations and R&D \n\n Alibaba Cloud Native Community November 12, 2026 234 0 \n\n This article introduces Alibaba Cloud's full-stack AgenticOps platform, enabling autonomous, closed-loop AI operations and R&D through unified observability, evaluation, and controlled execution.\n\n...\n\nThe root of the change is a changin"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-12",
+    "topic": "ai_agents",
+    "title": "Agent Loop is here: Better voice agents, every call - Vapi AI Blog",
+    "url": "https://vapi.ai/blog/agent-loop-launch",
+    "snippet": "Onboarding an AI agent should be as simple as onboarding a new employee. Give it the goal, some instructions, and the knowledge and tools to climb toward it. Let it come to you when it needs approval or help. Then let it get better at the job on its own, from the calls it's already taking.\n\nBuilding that takes a platform that exposes every stage of the agent lifecycle and makes it configurable, an"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-12",
+    "topic": "ai_agents",
+    "title": "Databricks Launches New Always-on Genie: Autonomous AI for Complex Enterprise Work - Databricks",
+    "url": "https://www.databricks.com/company/newsroom/press-releases/databricks-launches-new-always-genie-autonomous-ai-complex",
+    "snippet": "# Databricks Launches New Always-on Genie: Autonomous AI for Complex Enterprise Work\n\nNovember 11, 2026\n\n## Proactive, Always-on Assistant Brings Enterprise-grade Security and Context\n\n- New second-generation Genie is an always-on enterprise agent that works autonomously, manages long-running work, and proactively brings decisions to people through a new priority inbox and email\n- Genie Ontology, "
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-12",
+    "topic": "ai_small_business",
+    "title": "SME Leaders: Dan Clarke on what the saved hour is for",
+    "url": "https://smartsme.co.uk/sme-leaders-dan-clarke-on-what-the-saved-hour-is-for/",
+    "snippet": "## Who is Ostina?\n\nA UK company building connected \u201cAI staff\u201d, workflow modules and managed support for small and medium-sized businesses, sole traders and startups, aimed at the calls, emails, quotes, bookings, invoices and follow-ups that keep a business moving. Ostina Ltd is registered in England and Wales.\n\nCompany\n\nOstina Ltd\n\nWebsite\n\nostina.ai\n\nSector\n\nAI and business automation\n\nDan Clarke"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-12",
+    "topic": "ai_small_business",
+    "title": "Small business ops AI platform Worker.AI launches in Raleigh",
+    "url": "https://technical.ly/entrepreneurship/why-raleigh-startup-worker-ai-is-making-small-business-ops-free/",
+    "snippet": "# Raleigh startup launches free ops platform to prevent small business burnout \n\n Worker.AI is a new software company tracking to-do lists and company goals. It just acquired Techstars alum DeltaGen.\n\n...\n\nThe Worker platform helps small businesses handle tedious operations (Kaela Roeder/Technical.ly)\n\n...\n\n## Startup profile: Worker.AI\n\n- Founded by: John Roberts and Ratmir Timashev\n- Year founde"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-12",
+    "topic": "ai_small_business",
+    "title": "Beyond the Chatbot: What Agent as a Service Actually Means for Small Business - DEV Community",
+    "url": "https://dev.to/ringbot_ai_official/beyond-the-chatbot-what-agent-as-a-service-actually-means-for-small-business-4naf",
+    "snippet": "For a chatbot builder, the honest answer is: you build that. You write the escalation rules, wire the calendar API, decide what counts as \"urgent\", handle the case where\n\n...\n\nRingBot takes the opposite approach.\n\n## Agents, not tools\n\nA tool gives you capabilities. You assemble them into an agent, and you own the assembly, the tuning, the edge cases and the maintenance.\n\nAn agent is a finished, p"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-12",
+    "topic": "ai_small_business",
+    "title": "Building an AI marketing department for solo founders: what we automated, and what we kept under human control - DEV Community",
+    "url": "https://dev.to/maqronhq/building-an-ai-marketing-department-for-solo-founders-what-we-automated-and-what-we-kept-under-3k2l",
+    "snippet": "# Building an AI marketing department for solo founders: what we automated, and what we kept under human control \n\nPublished autonomously by Maqron's AI marketing assistant; no human editorial review is claimed.\n\nMost solo founders and small product teams don't have a marketing problem. They have a time problem. The work itself is known: research the market, decide on positioning, write the posts,"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-12",
+    "topic": "ai_small_business",
+    "title": "Custom Software: Powerful Solutions For SMEs \u2013 RM19,900",
+    "url": "https://subahtimes.com/custom-software-nexawork-ai-smes/",
+    "snippet": "Fully customised business software and AI solutions, built by engineers and backed by a full refund if the agreed delivery date is missed. Starting in Malaysia and rolling out across Asia, made possible by more than 100 partners.\n\n...\n\nNexawork AI is an Asia focused technology company building the AI Business Operating System. It was co-founded by Allen Tan Chee Hoe, its Chief Executive Officer, a"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-12",
+    "topic": "ai_labs",
+    "title": "AlphaGenome 2: Predicting how DNA shapes cells and disease \u2014 Google DeepMind",
+    "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+    "snippet": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease \u2014 Google DeepMind\n\n November 11, 2026 Science\n\n# AlphaGenome 2: Deciphering how cells read DNA to better understand disease\n\nAdam Gayoso, Natasha Latysheva, Pushmeet Kohli and \u017diga Avsec\n\nOur next-generation DNA sequence model bridges single-cell biology and human genetics, predicting how genetic variants affect hundreds of"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-12",
+    "topic": "ai_labs",
+    "title": "Worse Together: How Performance Breaks Down in Multi-User Multi-Agent Teams",
+    "url": "https://alignment.anthropic.com/2026/worse-together/",
+    "snippet": "Worse Together: How Performance Breaks Down in Multi-User Multi-Agent Teams\n\n# Worse Together: How Performance Breaks Down in Multi-User Multi-Agent Teams\n\nSahan Paliskara 1 Nattaput Namchittai 1, Jacqueline Tay 2, and Avery Griffin 3 Andrew Lampinen 3 \n\nNovember 11, 2026\n\n 1 Anthropic Fellows Program; 2 Independent; 3 Anthropic\n\ntl;dr\n\nAs AI agents become more capable and widely used, they are in"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-12",
+    "topic": "ai_labs",
+    "title": "Gemini Decisions API: Fast multimodal decisions",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+    "snippet": "Gemini Decisions API: Fast multimodal decisions\n\n# Gemini Decisions API: Fast, calibrated multimodal decisions\n\nNov 11, 2026\n\n Introducing the Gemini Decisions API, powered by our new Gemini Decision 1 model. Evaluate up to 1,000 yes/no, choice, and rubric-scoring questions in a fast, single pass across text, images, audio, video, and PDFs. \n\nMin Choi\n\nProduct Manager, Google DeepMind\n\nFelix Yu\n\nP"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-12",
+    "topic": "ai_labs",
+    "title": "Gemini 4 Carbon \u306e\u63d0\u4f9b\u3092\u958b\u59cb",
+    "url": "https://blog.google/intl/ja-jp/company-news/technology/gemini-4-carbon/",
+    "snippet": "Gemini 4 Carbon \u306e\u63d0\u4f9b\u3092\u958b\u59cb\n\n# Gemini 4 Carbon \u306e\u63d0\u4f9b\u3092\u958b\u59cb\n\n2026\u5e74 11\u6708 11\u65e5\n\nKoray Kavukcuoglu\n\nSVP, Google DeepMind and Chief AI Architect, Google\n\n \n\n\u672c\u65e5\u3088\u308a\u3001\u958b\u767a\u8005\u3001\u4f01\u696d\u3001\u79d1\u5b66\u8005\u3001\u305d\u3057\u3066\u4e00\u822c\u30e6\u30fc\u30b6\u30fc\u306e\u7686\u3055\u307e\u306b\u5411\u3051\u3066 Gemini 4 Carbon \u306e\u63d0\u4f9b\u3092\u958b\u59cb\u3057\u307e\u3059\u3002Carbon \u306f\u3001\u30b5\u30a4\u30d0\u30fc\u30bb\u30ad\u30e5\u30ea\u30c6\u30a3\u3084\u3001\u8907\u96d1\u306a\u30ca\u30ec\u30c3\u30b8\u30ef\u30fc\u30af\u3001\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2 \u30a8\u30f3\u30b8\u30cb\u30a2\u30ea\u30f3\u30b0\u3001\u79d1\u5b66\u7684\u63a8\u8ad6\u306b\u308f\u305f\u308b\u9577\u671f\u7684\u306a\u30a8\u30fc\u30b8\u30a7\u30f3\u30c8\u578b\u30ef\u30fc\u30af\u30d5\u30ed\u30fc\u306b\u304a\u3044\u3066\u3001\u6700\u5148\u7aef\u306e\u30d1\u30d5\u30a9\u30fc\u30de\u30f3\u30b9\u3092\u767a\u63ee\u3059\u308b\u6700\u3082\u5f37\u529b\u306a\u30e2\u30c7\u30eb\u3067\u3059\u3002\n\n2 \u9031\u9593\u524d\u3001\u79c1\u305f\u3061\u306f Fairwind Program \u3092\u901a\u3058\u3066\u3001\u4e00\u90e8\u306e\u30b5\u30a4\u30d0\u30fc\u30bb\u30ad\u30e5\u30ea\u30c6\u30a3\u62c5\u5f53\u8005\u5411\u3051\u306b Carbon \u3092\u5148\u884c\u516c\u958b\u3057\u307e\u3057\u305f\u3002\u307e\u305f\u3001\u5148\u65e5\u306e Gemini 4 Argon "
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-12",
+    "topic": "ai_labs",
+    "title": "Talk it through with Gemini, now on Apple CarPlay",
+    "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/",
+    "snippet": "Gemini is now available on Apple CarPlay\n\n# Talk it through with Gemini, now on Apple CarPlay\n\nNov 11, 2026\n\n Get more done on your daily drive with hands-free conversations, daily briefings, inbox catch-ups, and on-the-go brainstorming. \n\nKaran Daryanani\n\nSr. Product Manager\n\n- We are bringing the Gemini app to Apple CarPlay for natural conversations while you drive safely.\n- You can now use Gemi"
   }
 ]
