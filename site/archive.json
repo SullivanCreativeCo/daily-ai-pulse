@@ -31652,5 +31652,223 @@
     "title": "Talk it through with Gemini, now on Apple CarPlay",
     "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/",
     "snippet": "Gemini is now available on Apple CarPlay\n\n# Talk it through with Gemini, now on Apple CarPlay\n\nNov 11, 2026\n\n Get more done on your daily drive with hands-free conversations, daily briefings, inbox catch-ups, and on-the-go brainstorming. \n\nKaran Daryanani\n\nSr. Product Manager\n\n- We are bringing the Gemini app to Apple CarPlay for natural conversations while you drive safely.\n- You can now use Gemi"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-11-13",
+    "headline": "Jensen Huang is out as CEO of Nvidia.",
+    "url": "archive/2026-11-13.html",
+    "posts": {
+      "linkedin": [
+        "Meta's AI agent fixed a tracking problem that a human and a support team couldn't fix in months.\n\nChris Koerner told this story. His newsletter ads on Facebook said one thing. Beehive said another. Nobody could tell which ad brought which subscriber.\n\nSo he handed the whole mess to an agent.\n\nHere's the part I keep thinking about. It didn't just find the problem. It subscribed to his newsletter through the ad link, like a fake customer, and watched the data land on the other side.\n\nIt tested its own fix.\n\nThat's the whole difference. Most of us use AI to write a thing and then hope the thing works. This one checked.\n\nWhenever I hand something to an agent now, I ask one question first. How will you know it worked?\n\nIf it can't answer that, I don't trust the output yet.\n\nWhat's one task you handed off where you never actually checked the result?",
+        "Google shipped Gemini 4 Hydrogen yesterday. The model is fine. The pairing is the story.\n\nCarbon and Argon are the big thinkers. Hydrogen is the fast one that writes the code, runs the tests, checks the work.\n\nInside Antigravity there's now an Orchestrator that swaps between them in the same session. Google says it got near-Carbon results while using 24% less quota and finishing 19% faster.\n\nThe price tells the same story. Hydrogen is $1.50 per million input tokens, flat across a million-token window. One tester ran Carbon through a bug hunt for $31. Another frontier model cost almost $140 on the same run.\n\nHere's why that matters if you run a small business. You don't need the smartest model for every step.\n\nYou need a smart one to plan and a cheap one to do the reps.\n\nDo more with the same, not the same with less.\n\nWhich step in your workflow is a Carbon doing Hydrogen's job?",
+        "A new open-source project called AgentRun has a simple idea I like a lot.\n\nA smart model does the job the first time. Tools, instructions, the works. At the end it writes a little retro. What I did, what I'd do better.\n\nWhile it works, it also writes a workflow for the parts it knows it can do the same way every time.\n\nThe team says that after about 100 cases, the agent mostly just runs the workflow start to finish instead of thinking its way through. Workflows are cheap. So the job gets cheaper the more you repeat it.\n\nIf it's repeatable, it's a skill.\n\nThat's true for people too. The first invoice follow-up takes thought. The fiftieth shouldn't.\n\nMost small businesses have a dozen of those. Quotes. Intake. Chasing a late payment. Nobody wrote them down, so nobody could hand them off.\n\nWould someone pay for a version of that that just runs? I think someone would.\n\nWhat's the thing you do every week that you could write the steps for tonight?"
+      ],
+      "threads": [
+        "Claude can join your Google Meet now. It answers questions, builds a doc while you talk, and leaves notes and action items on a meeting page afterward.\n\nThe part I like is the default. If someone outside your team joins, Claude leaves. Admins can change that.\n\nThat's a tool built by someone who thought about a client walking into the call.\n\nBeta for now, Team and Enterprise only. Quietly leaving the room when a stranger shows up is a very human feature.",
+        "Edge0 says its 145B model runs on a laptop in 29 GB of memory. Open weights, free to try.\n\nCool claim. Here's the catch: every number in the announcement is theirs. Their benchmarks, their laptop, their demos.\n\nThey say a technical report and repro steps are coming.\n\nI'm not mad about it. I'm just waiting for somebody random to run it on a normal laptop and tell me what happened. That's the post I'll believe.",
+        "Hatz AI just raised $24M to sell AI agents to small businesses through their IT providers.\n\nMakes sense. A shop owner isn't going to read a pricing page and wire up an agent. They're going to ask the person who already fixes their printer.\n\nThe trusted person in the room wins this one. Not the best model.\n\nWhoever they already call is the distribution."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-11-13",
+    "source": "The Koerner Office",
+    "title": "Get Paid Monthly. Let AI Do the Work.",
+    "url": "https://www.youtube.com/watch?v=8nXqm0kAfZg",
+    "video_id": "8nXqm0kAfZg"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-11-13",
+    "source": "AI Daily Brief",
+    "title": "Jensen Huang Is Out. Everything in AI Is Now Up for Grabs.",
+    "url": "https://www.youtube.com/watch?v=Dt7Q_VQxGHc",
+    "video_id": "Dt7Q_VQxGHc"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-11-13",
+    "source": "AI Daily Brief",
+    "title": "Wall Street Has No Idea What Anthropic is Worth",
+    "url": "https://www.youtube.com/watch?v=gCOMQPMhIL0",
+    "video_id": "gCOMQPMhIL0"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-13",
+    "topic": "model_releases",
+    "title": "Introducing Gemini 4 Hydrogen for Agentic Workflows",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+    "snippet": "Introducing Gemini 4 Hydrogen for Agentic Workflows\n\n# Introducing Gemini 4 Hydrogen\n\nNov 12, 2026\n\n Hydrogen brings cutting-edge intelligence to everyone. \n\nKoray Kavukcuoglu\n\nSVP, Google DeepMind and Chief AI Architect, Google\n\nToday, we\u2019re introducing Gemini 4 Hydrogen, bringing cutting-edge intelligence to everyone \u2014 with speed and efficiency for everyday coding and agentic workflows.\n\nWhile o"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-13",
+    "topic": "model_releases",
+    "title": "GMT EIGHT - Latest - Baidu: ERNIE 5.5 Flash Base officially open-sourced",
+    "url": "https://gmteight.com/flash/detail/1594611",
+    "snippet": "GMT EIGHT - Latest - Baidu: ERNIE 5.5 Flash Base officially open-sourced\n\n# Baidu: ERNIE 5.5 Flash Base officially open-sourced\n\n13/11/2026\n\nToday, Baidu officially open-sourced its latest foundation model, ERNIE 5.5 Flash Base. ERNIE 5.5 Flash Base adopts a MoE architecture, with 280 billion total parameters and 14 billion parameters activated per token. It was pre-trained on 33.5 trillion tokens"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-13",
+    "topic": "model_releases",
+    "title": "Trellis Data launches near-foundation AI model",
+    "url": "https://www.technologydecisions.com.au/content/it-management/news/trellis-data-launches-near-foundation-ai-model-1386428784",
+    "snippet": "Trellis Data launches near-foundation AI model\n\n# Trellis Data launches near-foundation AI model \n\n By Dylan Bushell-Embling Friday, 13 November, 2026 \n\nAustralian AI company Trellis Data has launched one of the most advanced AI models developed in the nation to date, a near-frontier 220 billion-parameter model named Agentaus 1. The model is around 50% larger than Trellis Data\u2019s previous model and"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-13",
+    "topic": "model_releases",
+    "title": "Edge0 releases open-source 145-billion-parameter model for local inference on laptops | LavX News",
+    "url": "https://news.lavx.hu/article/edge0-releases-open-source-145-billion-parameter-model-for-local-inference-on-laptops",
+    "snippet": "Edge0 releases open-source 145-billion-parameter model for local inference on laptops | LavX News\n\n# Edge0 releases open-source 145-billion-parameter model for local inference on laptops\n\nNov 13, 2026, 12:49 AM UTC\u2022\n\nElena Varga\n\nEdge0 published weights for Edge0-145B and Edge0-120B, an inference framework, and deployment tools, claiming laptop-scale local performance on coding and agent tasks. Th"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-13",
+    "topic": "model_releases",
+    "title": "GMT EIGHT - Latest - Ali Qwen3.5-Plus/Qwen3.5-397B-A17B new model launched",
+    "url": "https://gmteight.com/flash/detail/1210404",
+    "snippet": "GMT EIGHT - Latest - Ali Qwen3.5-Plus/Qwen3.5-397B-A17B new model launched\n\n# Ali Qwen3.5-Plus/Qwen3.5-397B-A17B new model launched\n\n13/11/2026\n\nThis afternoon, Ali quietly launched two new models, Qwen3.5-Plus and Qwen3.5-397B-A17B, on the chat.qwen.ai page. Qwen3.5-Plus is positioned as the latest large language model in the Qwen3.5 series, while Qwen3.5-397B-A17B is positioned as the flagship l"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-13",
+    "topic": "product_releases",
+    "title": "Alibaba launches HappyShrimp AI music creation app on iOS and Android",
+    "url": "https://ai123.com/newshub/18119",
+    "snippet": "Alibaba launches HappyShrimp AI music creation app on iOS and Android\n\n# Alibaba launches HappyShrimp AI music creation app on iOS and Android\n\nBy AI123\n\nPublished Nov 13, 2026 \u00b7 03:55 UTC Updated Nov 13, 2026 \u00b7 11:44 UTC\n\nAlibaba launched HappyShrimp, its AI music creation platform, on iOS and Android on Nov. 13, 2026, with the App Store version at 0.2.14. The app was previously available as a PC"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-13",
+    "topic": "product_releases",
+    "title": "DomoAI Launches InkoAI Agent - One Sentence to Ready-to-Post Video",
+    "url": "https://www.prnewswire.com/news-releases/domoai-launches-inkoai-agent---one-sentence-to-ready-to-post-video-302938705.html",
+    "snippet": "DomoAI Launches InkoAI Agent - One Sentence to Ready-to-Post Video\n\n# DomoAI Launches InkoAI Agent - One Sentence to Ready-to-Post Video\n\n DOMOAI PTE. LTD. \n\nNov 13, 2026, 00:00 ET\n\nSINGAPORE, Nov. 13, 2026 /PRNewswire/ -- DomoAI, the AI video platform used by more than 5 million creators, today announced InkoAI Agent, a creative assistant that runs the entire image and video workflow in one conve"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-13",
+    "topic": "product_releases",
+    "title": "Anthropic introduces Claude Meetings in beta: AI assistant can join video calls, create documents and take notes",
+    "url": "https://www.moneycontrol.com/technology/anthropic-introduces-claude-meetings-in-beta-ai-assistant-can-join-video-calls-create-documents-and-take-notes-article-14078949.html",
+    "snippet": "Anthropic introduces Claude Meetings in beta: AI assistant can join video calls, create documents and take notes\n\n# Anthropic introduces Claude Meetings in beta: AI assistant can join video calls, create documents and take notes\n\nClaude can participate in Google Meet calls, answer questions, prepare meeting summaries and build documents and whiteboards in real time. The feature is rolling out to T"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-13",
+    "topic": "product_releases",
+    "title": "Anthropic Launches Claude Whiteboards, Sheets & Data \u2014 Interface Wire",
+    "url": "https://interfacewire.com/articles/anthropic-ships-whiteboards-sheets-and-data-to-claude-in-beta",
+    "snippet": "Anthropic Launches Claude Whiteboards, Sheets & Data \u2014 Interface Wire\n\n# Anthropic Ships Whiteboards, Sheets and Data to Claude in Beta\n\nAnthropic's beta Whiteboard, Sheets and Data artifacts turn CSVs into dashboards, automate spreadsheet imports and connect external apps for paid Claude plans.\n\n- Author James Calloway\n- Channel AI & Emerging Interfaces\n- Filed November 13, 2026\n- Read 3 min\n\nAnt"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-13",
+    "topic": "product_releases",
+    "title": "Tencent Hunyuan launches Hy Realtime voice model with tool calls and singing",
+    "url": "https://ai123.com/newshub/18135",
+    "snippet": "Tencent Hunyuan launches Hy Realtime voice model with tool calls and singing\n\n# Tencent Hunyuan launches Hy Realtime voice model with tool calls and singing\n\nBy AI123\n\nPublished Nov 13, 2026 \u00b7 09:15 UTC Updated Nov 13, 2026 \u00b7 10:37 UTC\n\nTencent Hunyuan released Hy Realtime, a real-time voice model that adds agentic tool calling and singing to its speech understanding, instruction-following and hum"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-13",
+    "topic": "ai_agents",
+    "title": "DispatchTrack Launches Autopilot, Putting AI Agent-Building in Customers' Hands",
+    "url": "https://www.dispatchtrack.com/blog/dispatchtrack-launches-autopilot/",
+    "snippet": "DispatchTrack Launches Autopilot, Putting AI Agent-Building in Customers' Hands \n\n# DispatchTrack Launches Autopilot, Putting AI Agent-Building in Customers\u2019 Hands \n\nThe new AI feature lets operations teams build their own AI agents inside DispatchTrack simply by describing them in plain language, turning DispatchTrack into a platform its customers can automate for themselves.\n\nCAMPBELL, Calif., N"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-13",
+    "topic": "ai_agents",
+    "title": "Introducing Autoloop: AI Agent Optimization at Production Scale",
+    "url": "https://www.kore.ai/blog/autoloop-continuous-ai-agent-optimization-for-production",
+    "snippet": "Introducing Autoloop: AI Agent Optimization at Production Scale\n\n# Introducing Autoloop: the agent optimization engine that keeps agents performing at production scale\n\nLast Updated\n\nNovember 13, 2026\n\nPrasanna Arikala\n\nRead Time\n\nSummary\n\nAutoloop turns AI agent improvement into a continuous, verifiable loop. It evaluates agents against business goals, traces failures to their root cause, applies"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-13",
+    "topic": "ai_agents",
+    "title": "NiCE Launches Next-Generation NiCE Cognigy to Accelerate Enterprise AI Agent Deployment and Orchestration",
+    "url": "https://www.businesswire.com/news/home/20261112890751/en/NiCE-Launches-Next-Generation-NiCE-Cognigy-to-Accelerate-Enterprise-AI-Agent-Deployment-and-Orchestration",
+    "snippet": "NiCE Launches Next-Generation NiCE Cognigy to Accelerate Enterprise AI Agent Deployment and Orchestration\n\nNiCE Launches Next-Generation NiCE Cognigy to Accelerate Enterprise AI Agent Deployment and Orchestration\n\nFaster builds with AI Assist, reusable skills and full visibility into every decision\n\nHOBOKEN, N.J.--(BUSINESS WIRE)-- NiCE (Nasdaq: NICE) today launched the next generation of NiCE Cog"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-13",
+    "topic": "ai_agents",
+    "title": "Serial Founders Launch AgentTeams, an AI Agent Platform | AgentTeams",
+    "url": "https://agentteams.com/blog/agentteams-launches-ai-agent-platform",
+    "snippet": "Serial Founders Launch AgentTeams, an AI Agent Platform | AgentTeams\n\n# Two Founders, Six AI Agents: Serial Founder Duo Launches AI Platform AgentTeams\n\n- After successful exits and time together at the unicorn Brevo, Susanne Klepsch and Steffen Schebesta found AgentTeams\n- The platform lets companies bring AI agents into their existing workflows as easily as their own employees\n- The self-funded "
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-13",
+    "topic": "ai_agents",
+    "title": "Show HN: AgentRun \u2013 open-source, Self-improving Managed Agents | Hacker News",
+    "url": "https://news.ycombinator.com/item?id=50471650",
+    "snippet": "Show HN: AgentRun \u2013 open-source, Self-improving Managed Agents | Hacker News\n\nShow HN: AgentRun \u2013 open-source, Self-improving Managed Agents (github.com/parcha-ai)\n\n118 points by miguelrios 18 hours ago | hide | past | favorite | 29 comments\n\nWe (GREP.AI, YC F26) are open-sourcing AgentRun and turning it into a full managed agents platform. Read more about it in this post: https://agentrun.ai/blog"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-13",
+    "topic": "ai_small_business",
+    "title": "Best AI Tools for Small Businesses: 12 Picks for 2026",
+    "url": "https://www.nextiva.com/blog/best-ai-tools-for-small-business.html",
+    "snippet": "Missed calls and slow responses can mean lost sales. An AI receptionist or **AI customer service tool** can answer calls, handle common questions, and respond to messages when your team is unavailable. Many tools work with existing business systems, so you don\u2019t need to change your entire workflow.\n### Content and design tools save creative time\nAI content and design tools can create first drafts,"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-13",
+    "topic": "ai_small_business",
+    "title": "Hatz AI raises $24M to help small businesses go AI-native through their MSPs - SiliconANGLE",
+    "url": "https://siliconangle.com/2026/11/12/hatz-ai-raises-24m-to-help-small-businesses-go-ai-native-through-their-msps/",
+    "snippet": "Instead of offering piecemeal AI tools, Hatz AI provides MSPs with access to a centralized team of customizable AI agents and workflows that are tailored to real-world business functions. For instance, there are purpose-built agents for automating internal ticket triage and technical operations, operational process automation, marketing content generation, sales lead qualification, financial bookk"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-13",
+    "topic": "ai_small_business",
+    "title": "10 Practical Ways To Put AI To Work In Your Small Business | The AI Journal",
+    "url": "https://aijourn.com/10-practical-ways-to-put-ai-to-work-in-your-small-business/",
+    "snippet": "this week, this month, and waiting on someone else, each with an owner and a date. ... dashboard layouts to organize tasks, track projects, and manage workflows without building every interface from scratch."
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-13",
+    "topic": "ai_labs",
+    "title": "PARDIG & SatWeave: Foundational Datasets for Earth Science \u2014 Google DeepMind",
+    "url": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
+    "snippet": "PARDIG & SatWeave: Foundational Datasets for Earth Science \u2014 Google DeepMind\n\n November 13, 2026 Science\n\n# Opening the datasets behind our AI weather models\n\nWeatherNext team\n\nWe are releasing PARDIG and SatWeave to help researchers and developers build new weather, hydrology, and climate applications.\n\nUnderstanding and predicting the planet\u2019s weather and water cycle starts with how well we can "
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-13",
+    "topic": "ai_labs",
+    "title": "Strengthening our safeguards with frontier automated red-teaming",
+    "url": "https://safeguards.anthropic.com/2026/automated-red-teaming/",
+    "snippet": "Strengthening our safeguards with frontier automated red-teaming\n\n# Strengthening our safeguards with frontier automated red-teaming\n\nNate Rahn*, Chawin Sitawarin*, David Huang*, Richard Zhuang, Yousef Nassar, Sunny Duan, Erik Jones, Milad Nasr, Nicholas Carlini, Andreas Terzis, Javier Rando\n\nNovember 12, 2026\n\nAs Claude grows more capable, adversaries will have greater incentive to defeat our saf"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-13",
+    "topic": "ai_labs",
+    "title": "Improving Fuzzy Robustness in LLM Safety with Automated Red Teaming",
+    "url": "https://alignment.openai.com/fuzzy-robustness/",
+    "snippet": "Improving Fuzzy Robustness in LLM Safety with Automated Red Teaming\n\n# Improving Fuzzy Robustness in LLM Safety with Automated Red Teaming\n\nNov 12, 2026 \u00b7 Kaiwen Wang, Oliver Cheng, Zheng Wen, Mehmet Yatbaz, Saachi Jain, Chuan Guo, Alec Helyar\n\nTL;DR. We study how to improve model robustness in high-stakes domains such as cyber and biology, where many tasks are dual-use and misuse can cause signif"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-13",
+    "topic": "ai_labs",
+    "title": "Google Search upgrade: Gemini 4 Hydrogen features",
+    "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+    "snippet": "Google Search upgrade: Gemini 4 Hydrogen features\n\n# Google Search gets a major upgrade with Gemini 4 Hydrogen\n\nNov 12, 2026\n\nRobby Stein\n\nVP of Product, Google Search\n\nToday, Google Search is bringing cutting-edge intelligence to everyone with Gemini 4 Hydrogen. This is the biggest model upgrade to Search yet.\n\nHydrogen is now available globally in Google Search for all users, delivering more hel"
   }
 ]
