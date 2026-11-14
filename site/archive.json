@@ -31870,5 +31870,199 @@
     "title": "Google Search upgrade: Gemini 4 Hydrogen features",
     "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
     "snippet": "Google Search upgrade: Gemini 4 Hydrogen features\n\n# Google Search gets a major upgrade with Gemini 4 Hydrogen\n\nNov 12, 2026\n\nRobby Stein\n\nVP of Product, Google Search\n\nToday, Google Search is bringing cutting-edge intelligence to everyone with Gemini 4 Hydrogen. This is the biggest model upgrade to Search yet.\n\nHydrogen is now available globally in Google Search for all users, delivering more hel"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-11-14",
+    "headline": "ChatGPT can now spend your money.",
+    "url": "archive/2026-11-14.html",
+    "posts": {
+      "linkedin": [
+        "ChatGPT can pay for things now.\n\nOpenAI launched Wallet. Your agent finds the item, you check the total, tap Face ID, and it's done. The merchant never sees your real card number.\n\nIt's Pro users in the US only for now. But the part I keep chewing on is the playbook they published for businesses.\n\nMost of it is boring. Make sure your product info is readable. Make sure agents aren't getting blocked at the door. Make sure your payment system doesn't flag a legit agent purchase as fraud.\n\nThat's a small business to-do list hiding inside a launch post.\n\nA lot of owners have a site built for a human squinting at a phone. Not for an agent trying to compare three options and buy one.\n\nSo here's the question I'd sit with. If an agent showed up to buy from you today, could it?",
+        "Every agent launch this week had the same feature.\n\nA human clicks approve.\n\nChatGPT Wallet needs Face ID on every purchase. Claude for Manufacturing drafts the quote, then stops before anything reaches a customer. GitHub's agentic workflows are read-only by default and can require a reviewer before any write.\n\nThree different companies. Same design choice.\n\nI don't think that's caution. I think that's the product.\n\nThe agent does the prep. You keep the decision. That's the whole split.\n\nAnd it's good news for anybody building this for small businesses. Owners don't need an AI that runs the company. They need one that does the tedious part and hands them a card that says yes or no.\n\nThink about your own week. How much of it is prep work before a ten-second decision?\n\nThat prep is the part worth handing off.",
+        "Small businesses probably won't buy AI from an AI company.\n\nThey'll get it from the IT guy they already trust.\n\nThat's the bet behind Hatz AI, which just raised $24M. They don't sell to owners. They sell to MSPs, the managed IT shops, who package it under their own name.\n\nI get it. Most owners don't want to compare a dozen chatbots. They don't know which employee pasted client data into which tool. They want one person to call.\n\nBut it also means AI is about to show up as a line item on an IT invoice, and a lot of owners won't know what to ask.\n\nWhere does our data go? Who can see what? What's actually automated, and who catches the mistakes?\n\nIf your provider can't answer those in plain English, that tells you something.\n\nWho's the person your business already trusts with the keys?"
+      ],
+      "threads": [
+        "Google shipped an API this week that only answers yes, no, or a score. No paragraph. Just the verdict. Input is $0.10 per million tokens and output is free.\n\nI love this. Most of what a small business needs from AI isn't an essay. It's \"is this lead worth a call\" or \"does this invoice look right.\"\n\nA one-word answer is a feature. Would someone pay for that? I think someone would.",
+        "A 145 billion parameter model on a laptop.\n\nEdge0 says it runs on 29GB of memory at over 80 tokens a second, with only about 10 billion parameters active per token.\n\nBig caveat. Every number is their own testing, and the technical report isn't out yet.\n\nBut if it holds up, the \"we can't put client data in the cloud\" conversation gets a whole lot shorter. Keeping an eye on this one.",
+        "Google's Antigravity can now write a Python script for a multi-agent job, show it to you, and wait for your approval before running it.\n\nThen you save it and run it again next month.\n\nThat's what I like. The workflow is a file. You can read it, edit it, hand it to somebody. Not a long chat you can never reproduce.\n\nIf it's repeatable, it's a skill."
+      ]
+    }
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-14",
+    "topic": "model_releases",
+    "title": "LongCat-2.5: 1.6T MoE, 48B Active, Native Multimodal | TPS",
+    "url": "https://tpsreport.news/news/longcat-2-5-1-6t-moe-multimodal-agentic",
+    "snippet": "LongCat-2.5: 1.6T MoE, 48B Active, Native Multimodal | TPS\n\n# Meituan releases LongCat-2.5: 1.6T-parameter multimodal MoE with 48B active per token\n\nMeituan's LongCat team has published LongCat-2.5, a native multimodal mixture-of-experts model with 1.6 trillion total parameters and approximately 48 billion activated per token. It targets long-horizon agentic tasks such as codebase development and "
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-14",
+    "topic": "model_releases",
+    "title": "Nex-AGI releases Nex-N2.6, 321B agentic model on GLM-5.3-Flash | AI Weekly",
+    "url": "https://aiweekly.co/alerts/nex-agi-releases-nex-n26-321b-agentic-model-on-glm-53-flash",
+    "snippet": "Nex-AGI releases Nex-N2.6, 321B agentic model on GLM-5.3-Flash | AI Weekly\n\n# Nex-AGI releases Nex-N2.6, 321B agentic model on GLM-5.3-Flash \n\n By Alexis Dufresne \u00b7 Published November 14, 2026 at 06:12 UTC \u00b7 Updated November 14, 2026 at 06:45 UTC \n\n## TL;DR\n\n- Nex-AGI has published Nex-N2.6, a roughly 321B-parameter multimodal agentic model built on GLM-5.3-Flash under an Apache 2.0 license.\n- The"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-14",
+    "topic": "model_releases",
+    "title": "Edge0 releases 145B-parameter model for laptops",
+    "url": "https://aivionews.com/models/edge0-open-sources-145-billion-parameter-ai-model-built-to-run-on-a/",
+    "snippet": "Edge0 releases 145B-parameter model for laptops\n\n# Edge0 open-sources 145-billion-parameter AI model built to run on a laptop\n\nEdge0 says the open-weight model decodes above 80 tokens per second while using about 29GB of memory on a laptop, with benchmark scores the company reports as rivaling Claude and DeepSeek models.\n\n AIVIO News Desk \u00b7 Nov 13, 2026, 4:22 AM EST \u00b7 2 min read Share \n\n## In shor"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-14",
+    "topic": "model_releases",
+    "title": "Translated Releases Lara Mini, a 45-Language Research Model",
+    "url": "https://www.unite.ai/translated-releases-lara-mini-a-45-language-research-model/",
+    "snippet": "Translated Releases Lara Mini, a 45-Language Research Model \u2013 Unite.AI\n\n# Translated Releases Lara Mini, a 45-Language Research Model\n\n Published November 13, 2026 \n\nBy\n\n Jonas Reeve, Cognitive AI & AGI AI Research Agent \n\nKey Points Lara Mini shares experts across languages rather than dedicating separate expert groups\u2026 View more\n\n- Lara Mini shares experts across languages rather than dedicating"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-14",
+    "topic": "product_releases",
+    "title": "Alibaba HappyShrimp AI Music App Launches on iOS, Android",
+    "url": "https://emergent.sh/news/alibaba-happyshrimp-ai-music-app-launches-ios",
+    "snippet": "Alibaba HappyShrimp AI Music App Launches on iOS, Android\n\n# Alibaba HappyShrimp AI Music App Launches on iOS, Android\n\nShyam\n\nNov 14, 2026 9:38 AM\n\n#### \ud83d\udca1 TL;DR\n\n- Alibaba officially released HappyShrimp on iOS and Android November 14, 2026, enabling single-prompt song generation across seven musical genres.\n- The platform generates complete songs with lyrics, composition, arrangement, and vocals"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-14",
+    "topic": "product_releases",
+    "title": "GMT EIGHT - Latest - Moonshot AI releases Kimi K3.1 Pro and K3.1 Pro Highspeed models",
+    "url": "https://gmteight.com/flash/detail/1572324",
+    "snippet": "GMT EIGHT - Latest - Moonshot AI releases Kimi K3.1 Pro and K3.1 Pro Highspeed models\n\n# Moonshot AI releases Kimi K3.1 Pro and K3.1 Pro Highspeed models\n\n14/11/2026\n\nToday, we are officially launching Kimi K3.1 Pro, the first model in the K3.1 series and our most capable 3-trillion-parameter model to date, supporting a 1-million-token context. Kimi K3.1 Pro shows particularly significant improvem"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-14",
+    "topic": "product_releases",
+    "title": "Sundar Pichai reveals eight big AI updates Google rollouts in five days, spanning chips, Gemini 4 and smart glasses",
+    "url": "https://www.moneycontrol.com/technology/sundar-pichai-reveals-eight-big-ai-updates-google-rollouts-in-five-days-spanning-chips-gemini-4-and-smart-glasses-article-14080121.html",
+    "snippet": "Sundar Pichai shares eight major AI announcements from Google in five days, including Gemini 4 and smart glasses\n\n# Sundar Pichai shares eight major AI announcements from Google in five days, including Gemini 4 and smart glasses\n\nSundar Pichai used an X post to tally Google\u2019s week: two TPU systems, two Gemini 4 models, three DeepMind projects, a developer API and pre-orders for Android XR audio gl"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-14",
+    "topic": "product_releases",
+    "title": "Anthropic Launches Claude for Manufacturing With 17 Factory Skills | OpenTools",
+    "url": "https://opentools.ai/news/anthropic-claude-for-manufacturing-17-factory-skills",
+    "snippet": "Anthropic Launches Claude for Manufacturing With 17 Factory Skills | OpenTools\n\n# Anthropic Launches Claude for Manufacturing With 17 Factory Skills\n\nBy OpenTools Team \u00b7 November 14, 2026\n\nAnthropic launched Claude for Manufacturing, a plugin packing 17 skills and 4 connectors to Autodesk Fusion, Infor, Microsoft 365, and Oracle NetSuite. The AI drafts quotes from live inventory, diagnoses breakdo"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-14",
+    "topic": "product_releases",
+    "title": "ChatGPT\u2019s new Wallet lets AI agents shop and check out for you",
+    "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+    "snippet": "ChatGPT's new Wallet lets AI agents shop and check out for you | TechCrunch\n\nImage Credits: OpenAI\n\n# ChatGPT\u2019s new Wallet lets AI agents shop and check out for you\n\n Sarah Perez \n\n8:00 AM PST \u00b7 November 13, 2026\n\nChatGPT can now shop for you. On Friday, OpenAI launched a new wallet feature that lets its agents, called dots, help you decide what to buy and then complete the purchase on your behalf"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-14",
+    "topic": "ai_agents",
+    "title": "GitHub Agentic Workflows open source tool reaches general availability",
+    "url": "https://gcn.com/github-agentic-workflows-open-source-tool/23243/",
+    "snippet": "GitHub has made its open source Agentic Workflows project generally available, letting developers run AI coding agents directly inside GitHub Actions to automate tasks like issue triage, test writing and documentation updates.\n\nThe company announced the milestone in a changelog post on October 28, moving the tool out of public preview and onto GitHub Free, Team and Enterprise plans for every repos"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-14",
+    "topic": "ai_agents",
+    "title": "NiCE Launches Next-Generation NiCE Cognigy to Accelerate Enterprise AI Agent Deployment and Orchestration",
+    "url": "https://www.cognigy.com/news/nice-launches-next-generation-nice-cognigy-to-accelerate-enterprise-ai-agent-deployment-and-orchestration",
+    "snippet": "NiCE Launches Next-Generation NiCE Cognigy to Accelerate Enterprise AI Agent Deployment and Orchestration\n\n# NiCE Launches Next-Generation NiCE Cognigy to Accelerate Enterprise AI Agent Deployment and Orchestration\n\nMedia contact: NiCE Cognigy November 13, 2026\n\nFaster builds with AI Assist, reusable skills and full visibility into every decision\n\nHoboken, N.J., November 12, 2026 \u2014 NiCE (Nasdaq: N"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-14",
+    "topic": "ai_agents",
+    "title": "Antigravity Turns Agent Teams Into Reusable Python Scripts - GEroundtable",
+    "url": "https://geroundtable.com/antigravity-dynamic-workflows/",
+    "snippet": "Google has rolled out Dynamic Workflows in Antigravity, a new way to run multi-agent coding jobs as reviewable Python scripts instead of long, improvised conversations. Typing /run-workflow with a task makes the agent write a short script that coordinates parallel and sequential subagents, shows the script for approval, and then runs it in the background. The feature is live now in the Antigravity"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-14",
+    "topic": "ai_agents",
+    "title": "Your agents are about to become a distributed systems problem. Meet Synadia Agent Fabric.",
+    "url": "https://www.synadia.com/blog/synadia-agent-fabric-preview",
+    "snippet": "Synadia Agent Fabric is in public preview today. It connects your company's agents to each other over NATS, regardless of model, harness, or even physical location.\nIn the hosted preview you can:\n* Let agents on any model or harness, anywhere, find and call each other\n* Verify who sent every request, from signed prompts\n* Give each agent its own model key, track its tokens, and revoke it alone\n* T"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-14",
+    "topic": "ai_small_business",
+    "title": "AI Agent Vs. Chatbot: What's The Best For Small Biz?",
+    "url": "https://www.salesforce.com/blog/small-business/ai-agent-vs-chatbot-for-growing-teams/",
+    "snippet": "An AI agent is software powered by artificial intelligence (AI) that can understand a request, decide what to do, and take action on its own. It works from your business data, so it can look up an order, update a record, or follow up with a lead without a person stepping in.\n\n...\n\nA chatbot is a first-level responder. It handles FAQs and simple questions with pre-scripted answers, using keyword re"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-14",
+    "topic": "ai_small_business",
+    "title": "AI Agent Examples for Small and Mid-Size Businesses (and Which of Ours Are Really Agents) - DEV Community",
+    "url": "https://dev.to/autor_tech/ai-agent-examples-for-small-and-mid-size-businesses-and-which-of-ours-are-really-agents-11a7",
+    "snippet": "AI Agent Examples for Small and Mid-Size Businesses (and Which of Ours Are Really Agents) - DEV Community\nAutor Technologies Inc.\nPosted on Nov 13 \u2022 Originally published at autor.ca\n# AI Agent Examples for Small and Mid-Size Businesses (and Which of Ours Are Really Agents)\n\"What are some examples of AI agents?\" is one of the fastest-growing questions we see in search data this autumn, together wit"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-14",
+    "topic": "ai_small_business",
+    "title": "MakeAndUpdate launches GPT Business to help small businesses claim their business in ChatGPT\u2019s new Business Hub | ABNewswire",
+    "url": "https://www.abnewswire.com/pressreleases/makeandupdate-launches-gpt-business-to-help-small-businesses-claim-their-business-in-chatgpts-new-business-hub_847845.html",
+    "snippet": "MakeAndUpdate, a West Chester, Pennsylvania web design studio, now helps small businesses claim their business in ChatGPT through OpenAI\u2019s new Business Hub, and sets up and manages ChatGPT Business workspaces for their teams.\n\nWest Chester, Pennsylvania \u2013 November 13, 2026 \u2013 MakeAndUpdate, a one-person web design studio based in West Chester, Pennsylvania, just rolled out GPT Business, a service t"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-14",
+    "topic": "ai_small_business",
+    "title": "Worker.ai Acquires DeltaGen, Launches Free AI Operating System \u2014 HR Briefing",
+    "url": "https://hrbriefing.com/articles/worker-ai-acquires-deltagen-launches-free-ai-operating-system-for-small-firms",
+    "snippet": "Worker.ai announced on November 12, 2026 that it had acquired Techstars-backed DeltaGen and launched a company operating system staffed by AI workers, with backing from Veeam founder Ratmir Timashev. The pitch to small-business owners is blunt: recurring preparation work goes to AI, while humans keep the decisions that matter.\n\nThe company targets manufacturers, service companies, family businesse"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-14",
+    "topic": "ai_small_business",
+    "title": "Hatz AI Raises $24M on a Simple Idea: Small Businesses Will Get AI From the IT Company They Already Trust | Entrepreneurs Of New York",
+    "url": "https://entrepreneursofnewyork.com/tech/hatz-ai-24-million-series-a-msps-small-business-ai-flatiron",
+    "snippet": "Hatz doesn\u2019t sell to small businesses directly. It sells to MSPs, giving them what it calls an AI \u201ccontrol plane\u201d: one system where the IT provider can set rules for each client, track spending, build custom workflows and route requests automatically across leading AI models. The MSP then packages the service under its own brand.\n\nSiliconANGLE reported that the platform includes ready-made agents "
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-14",
+    "topic": "ai_labs",
+    "title": "Introducing ChatGPT Wallet | OpenAI",
+    "url": "https://openai.com/index/introducing-chatgpt-wallet/",
+    "snippet": "Introducing ChatGPT Wallet | OpenAI\n\nNovember 13, 2026\n\n# Introducing ChatGPT Wallet\n\nBuilding trusted agentic payments with networks, banks, and businesses.\n\nWe\u2019re introducing ChatGPT Wallet, setting a new bar for secure payments by agents. It\u2019s the first wallet that lets agents pay without access to users\u2019 actual card details and that requires a security check for every purchase, while also pres"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-14",
+    "topic": "ai_labs",
+    "title": "Building strong safety evaluations \\ Anthropic",
+    "url": "https://www.anthropic.com/research/building-strong-safety-evaluations",
+    "snippet": "Building strong safety evaluations \\ Anthropic\n\n# Building strong safety evaluations\n\nPublished\n\nNov 13, 2026\n\nSafety evaluations inform some of the most consequential decisions we make about an AI model, including whether it\u2019s ready to deploy, which safeguards ship alongside it, and what our next round of safety training and research should focus on. When we say a model is \u201csafer than its predece"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-14",
+    "topic": "ai_labs",
+    "title": "Product News and Updates | OpenAI",
+    "url": "https://openai.com/news/product-releases/",
+    "snippet": "Product News and Updates | OpenAI\n\n## Product\n\nIntroducing ChatGPT Wallet\n\nProduct Nov 13, 2026\n\nIntroducing Businesses in ChatGPT\n\nProduct Nov 10, 2026\n\nChatGPT Enterprise now available in AWS Marketplace\n\nProduct Nov 9, 2026\n\nGPT\u20116 Cyber: Advancing the frontier of aligned cybersecurity agents\n\nProduct Nov 5, 2026\n\nDaybreak Red is now available in AWS GovCloud (US-East)\n\nProduct Nov 4, 2026\n\nIntr"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-14",
+    "topic": "ai_labs",
+    "title": "Claim your Google Cloud Credits in Google AI Studio",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-cloud-credits-gdp-ai-studio/",
+    "snippet": "Google Developer Program Cloud credits within AI Studio\n\n# Claim your Google Cloud Credits in Google AI Studio\n\nNov 13, 2026\n\n Google Developer Program Cloud credits are now built into Google AI Studio. Google AI Pro and Ultra subscribers can set up billing, claim monthly credits, and start building with the Gemini API without leaving their workspace. \n\nBala Muthukrishnan\n\nSenior Product Manager\n\n"
   }
 ]
