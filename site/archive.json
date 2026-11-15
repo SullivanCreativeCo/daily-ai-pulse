@@ -32064,5 +32064,199 @@
     "title": "Claim your Google Cloud Credits in Google AI Studio",
     "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-cloud-credits-gdp-ai-studio/",
     "snippet": "Google Developer Program Cloud credits within AI Studio\n\n# Claim your Google Cloud Credits in Google AI Studio\n\nNov 13, 2026\n\n Google Developer Program Cloud credits are now built into Google AI Studio. Google AI Pro and Ultra subscribers can set up billing, claim monthly credits, and start building with the Gemini API without leaving their workspace. \n\nBala Muthukrishnan\n\nSenior Product Manager\n\n"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-11-15",
+    "headline": "Washington is getting ready to tighten chip export controls. Meanwhile a Chinese delivery company just open-sourced a 1.6 trillion parameter agent model trained entirely on Chinese chips.",
+    "url": "archive/2026-11-15.html",
+    "posts": {
+      "linkedin": [
+        "A 1.6 trillion parameter model just shipped and it never touched an Nvidia chip.\n\nMeituan, the Chinese food delivery company, open-sourced LongCat-2.5 this week. MIT license. Built for agents that work through long coding tasks. The sample deployment guide runs on 194 Huawei Ascend chips and doesn't mention Nvidia once.\n\nMeanwhile Washington is getting ready to tighten chip export controls.\n\nHere's the part I keep chewing on. The whole bet behind export controls is that limiting the chips limits the capability. But if a lab can train something close to the frontier on its own hardware, the controls might be teaching them to build a different path instead.\n\nI'm not saying that settles the policy argument. I don't know enough to call it.\n\nBut the model cost about 27 cents per million input tokens at launch, it plugs into Claude Code and Codex, and anybody can download the weights.\n\nSo if you build on top of these tools, the question changes. It isn't \"which lab wins.\" It's \"what do I do when the cheap option is this good?\"\n\nWhat would you switch if a model like this matched what you're paying for today?",
+        "OpenAI shipped ChatGPT Wallet this week. Your agent can buy things for you.\n\nHere's the part I actually care about. You approve every single purchase. Face ID or a fingerprint. The agent never sees your real card number.\n\nThat's the feature. Not the buying. The asking.\n\nConstant Contact did the same thing with its new marketing tool. It builds and runs the campaign, and the owner keeps final approval.\n\nTwo different companies landed on the same design in the same week. That isn't an accident.\n\nI've been helping small business owners think about this for a while. The ones who get nervous about agents aren't scared of the tech. They're scared of waking up to something they didn't sign off on.\n\nSo the agents that win trust are the ones that make the approval step easy, not the ones that skip it.\n\nFast to answer. Slow to spend. Quick to hand off.\n\nThat's what a good new hire does too.\n\nWhere in your business would you want an agent that asks first?",
+        "Most people pick the wrong first job for an AI agent.\n\nThey go for the big, impressive thing. The thing that sounds good in a meeting.\n\nA better way to pick it: write down four or five tasks your team does every week. Then ask four questions.\n\nDoes it come up a lot? Does it follow clear rules? Is the answer easy to check in a few seconds? Is a mistake cheap to fix?\n\nA wrong delivery estimate is an apology. A wrong refund is money. That's why refunds stay with a person.\n\nThere's a number from NiCE's briefing this week that backs this up. They say AI can now run about 16 hours on its own at a 50% success rate.\n\nRead that again. Half the time, after 16 hours, a human still has to step in.\n\nSo the agent isn't the whole job. The setup around it is.\n\nStart with the boring, frequent, checkable one. Prove it works. Then add the next.\n\nWhat's the one task on your list that gets all four yeses?"
+      ],
+      "threads": [
+        "Devin can now build your team's internal tools and host them privately.\n\nYou describe a dashboard or an approval queue. It builds it, puts it online, and only people who sign in can open it. No public access.\n\nThe catch is one machine per app, so it's for small internal stuff, not big traffic.\n\nBut honestly, that's most of what a small business needs. A simple tool only your team can see.\n\nWhat's the tool you've been putting off building?",
+        "Starting November 19, connected health data in ChatGPT can be used for training under the general \"Improve the model for everyone\" setting.\n\nBefore, health chats were left out no matter what you picked.\n\nIf you'd rather it didn't: Settings, Data Controls, turn it off. About ten seconds.\n\nMost people will never look.\n\nI wonder how many folks who connected their health data know the rule just changed.",
+        "Gemini 4 Hydrogen lets you pick how hard the model thinks. Low, medium, high, or xhigh.\n\nSo you pay for the depth a task needs and nothing more.\n\nThat's a small thing that feels big to me. Not every question needs the full brain.\n\nA lot of what I do all day is simple. Rename this. Summarize that. Check this one thing.\n\nWhat would you save if you only paid for the thinking you actually used?"
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-11-15",
+    "source": "The Koerner Office",
+    "title": "He Copied My Episode With $70. Now He Does $15K/Month [NO ADS + EARLY ACCESS]",
+    "url": "https://www.youtube.com/watch?v=HYtGJXNUo8o",
+    "video_id": "HYtGJXNUo8o"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-11-15",
+    "source": "AI Daily Brief",
+    "title": "Washington Fired Jensen Huang",
+    "url": "https://www.youtube.com/watch?v=1kf1QWG_YKQ",
+    "video_id": "1kf1QWG_YKQ"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-15",
+    "topic": "model_releases",
+    "title": "Google launches Gemini 4 Hydrogen, a faster model for coding and agent tasks, presented as an update to Gemini 3.8 Flash",
+    "url": "https://www.the-ai.news/en/google-launches-gemini-4-hydrogen-faster-model-coding-agent-tasks/",
+    "snippet": "Google launches Gemini 4 Hydrogen, a faster model for coding and agent tasks, presented as an update to Gemini 3.8 Flash\n\n# Google launches Gemini 4 Hydrogen, a faster model for coding and agent tasks, presented as an update to Gemini 3.8 Flash\n\nNovember 14, 2026\n\nAI / news\n\nOn November 12, Google announced the global rollout of Gemini 4 Hydrogen across its products for developers, businesses, and"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-15",
+    "topic": "model_releases",
+    "title": "Meituan releases a 1.6-trillion-parameter agent model that never touched an Nvidia GPU",
+    "url": "https://the-decoder.com/meituan-releases-a-1-6-trillion-parameter-agent-model-that-never-touched-an-nvidia-gpu/",
+    "snippet": "Meituan releases a 1.6-trillion-parameter agent model that never touched an Nvidia GPU\n\n# Meituan releases a 1.6-trillion-parameter agent model that never touched an Nvidia GPU\n\n \n\n Nov 15, 2026 \n\nMeituan releases the weights for LongCat-2.5, a 1.6-trillion-parameter model built for AI agents. It was trained entirely on Chinese hardware and performs at the level US models like Claude Opus 5 reache"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-15",
+    "topic": "product_releases",
+    "title": "OpenAI launches ChatGPT Wallet so dots can complete purchases for you",
+    "url": "https://www.techcityauthority.com/2026/11/openai-chatgpt-wallet-dots-complete-purchases.html",
+    "snippet": "OpenAI launches ChatGPT Wallet so dots can complete purchases for you\n\n# OpenAI launches ChatGPT Wallet so dots can complete purchases for you\n\n TCA Staff November 15, 2026 \n\nImage: OpenAI\n\nOpenAI is launching ChatGPT Wallet, a way for a user's dot to complete purchases after the user reviews and approves each one. The company announced the feature on its official ChatGPT account and in a product "
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-15",
+    "topic": "product_releases",
+    "title": "A2E AI Launches AI Video Generator With All-in-One Video",
+    "url": "https://www.globenewswire.com/news-release/2026/11/15/3403090/0/en/a2e-ai-launches-ai-video-generator-with-all-in-one-video-and-image-models.html",
+    "snippet": "A2E AI Launches AI Video Generator With All-in-One Video\n\n# A2E AI Launches AI Video Generator With All-in-One Video and Image Models\n\n November 15, 2026 05:18 ET | Source: A2E AI \n\nNew York, USA, Nov. 15, 2026 (GLOBE NEWSWIRE) -- A2E AI today launched its AI Video Generator at a2e.art. The browser-based platform gives creators, marketers and small production teams access to 225 generative video a"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-15",
+    "topic": "product_releases",
+    "title": "Bland Launches Tofu-1, a Full-Duplex Speech-to-Speech Model for Calls - MarkTechPost",
+    "url": "https://www.marktechpost.com/2026/11/15/bland-tofu-1-full-duplex-speech-to-speech-model/",
+    "snippet": "Bland Launches Tofu-1, a Full-Duplex Speech-to-Speech Model for Calls - MarkTechPost\n\n# Bland Launches Tofu-1, a Full-Duplex Speech-to-Speech Model for Calls\n\nBy\n\nMichal Sutter\n\nNovember 15, 2026\n\nBland, the San Francisco voice-AI company, has released Tofu-1, a full-duplex speech-to-speech model in research preview. The Tofu-1 speech-to-speech model targets calls from moving cars, hospital rooms "
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-15",
+    "topic": "product_releases",
+    "title": "Meta Muse AI Launches for Apple Watch and Wear OS \u2014 Reach Brief",
+    "url": "https://reachbrief.com/articles/meta-puts-muse-ai-on-apple-watch-and-wear-os-chasing-wrist",
+    "snippet": "Meta Muse AI Launches for Apple Watch and Wear OS \u2014 Reach Brief\n\n# Meta Puts Muse AI on Apple Watch and Wear OS, Chasing Wrist\n\nMeta\u2019s AI agent Muse lands on Apple Watch and Android Wear OS fancycrave1 / pixabay\n\nMeta's Muse AI agent now runs on Apple Watch and Wear OS via voice, text, and dictation, weeks after hitting 10 million U.S. downloads in 40 days.\n\nBy Grace Kim\n\nNovember 15, 2026 3 min r"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-15",
+    "topic": "product_releases",
+    "title": "Devin Now Builds and Hosts Your Team\u2019s Private Apps - GEroundtable",
+    "url": "https://geroundtable.com/devin-apps-private-web-apps-teams/",
+    "snippet": "# Devin Now Builds and Hosts Your Team\u2019s Private Apps\n\n By Faheem R. Khattak \u2022 Updated: November 15, 2026 \u2022 Filed Under AI Coding \n\nIn This Article (Key Sections) Toggle\n\n1. How an App gets built\n2. Private by design\n3. How Apps run\n4. Our Read\n5. Why It Matters\n6. Background\n\nCognition has launched Devin Apps, a new way to turn the company\u2019s AI coding agent into an internal-tools builder. Teams d"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-15",
+    "topic": "ai_agents",
+    "title": "Anthropic opens private beta for self-hosted Claude Managed Agents \u2014 On The Wire",
+    "url": "https://onthewire.ai/article/anthropic-opens-private-beta-for-self-hosted-claude-managed-agents",
+    "snippet": "Anthropic opens private beta for self-hosted Claude Managed Agents \u2014 On The Wire\n\n# Anthropic opens private beta for self-hosted Claude Managed Agents\n\nAnthropic says organisations can now run the whole Managed Agents service, including session history, on their own infrastructure and choose where model calls go. Access is by request.\n\n14 November 2026 Share\n\nAnthropic said on 12 November 2026 tha"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-15",
+    "topic": "ai_agents",
+    "title": "NiCE Launches Next-Generation Cognigy Platform Built for Running AI Agents at Scale | The SaaS Sentinel",
+    "url": "https://saassentinel.com/news/nice-launches-next-generation-cognigy-platform-built-for-running-ai-agents-at-scale",
+    "snippet": "# NiCE Launches Next-Generation Cognigy Platform Built for Running AI Agents at Scale\n\nNiCE says building AI agents is no longer the hard part. Its updated Cognigy platform focuses on operating, tracing, and governing agents in production.\n\nBy Cora Spondent \u00b7 November 15, 2026 \u00b7 3 min read Share: LinkedIn X Email\n\n## Quick Facts\n\n- NiCE launched next-generation NiCE Cognigy on Nov. 12, 2026, with "
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-15",
+    "topic": "ai_agents",
+    "title": "Microsoft Foundry Agent Service: Copilot harness enters public preview \u00b7 dev-ex.com",
+    "url": "https://dev-ex.com/article/microsoft-foundry-agent-service-copilot-harness-enters-public-preview/",
+    "snippet": "# Microsoft Foundry Agent Service: Copilot harness enters public preview\n\nMicrosoft's Copilot harness for Foundry Agent Service is now in public preview, delivering a managed agent runtime and raising operational/security boundaries now.\n\nNovember 14, 2026\u00b7 3 min read\u00b7 AI researched \u00b7 AI written \u00b7 AI reviewed\n\nMicrosoft just handed platform teams a managed agent runtime and a fresh attack surface "
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-15",
+    "topic": "ai_small_business",
+    "title": "AI Agents for Small Business | Salesforce",
+    "url": "https://www.salesforce.com/agentforce/small-business/",
+    "snippet": "AI Agents for Small Business | Salesforce\n# Small Business AI Agents\nEmpower lean teams to do more with agents that automate your pipeline, grow your audience, and win fans \u2014 allowing your small business to scale efficiently without extra headcount.\n## Find the AI-powered Suite that\u2019s right for you\n### Starter Suite\nLean businesses that need a turnkey CRM to get started quickly.\n$ 25\nUSD/User/Mont"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-15",
+    "topic": "ai_small_business",
+    "title": "Operational intelligence: The next level",
+    "url": "https://www.shropshirebiz.com/features-and-analysis/operational-intelligence-the-next-level",
+    "snippet": "At its core, Autm is an AI platform that sits on top of the tools a business already uses \u2013 email, CRM, Stripe, PayPal, Google Drive, Slack and many more. It pulls all the relevant information into one central, intelligent hub. On top of that sits an AI agent you can speak to or type into, and beneath it runs a suite of automated workflows that carry out tasks on your behalf."
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-15",
+    "topic": "ai_small_business",
+    "title": "Small Business AI Platforms: Worker.AI Launches a Free Workspace With Built-In Sales\u2026 | Trend Hunter",
+    "url": "https://www.trendhunter.com/trends/small-business-ai-platforms",
+    "snippet": "Worker.AI introduced \u2018Worker\u2019 for small businesses, folding DeltaGen\u2019s real-time AI sales-call coaching into the product through ... and tracks customer onboarding in a shared workspace, so staff beyond leadership can follow what needs to happen next."
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-15",
+    "topic": "ai_small_business",
+    "title": "Owner-Controlled Marketing Assistants: Constant Contact\u2019s New AI Tool Plans And Runs\u2026 | Trend Hunter",
+    "url": "https://www.trendhunter.com/trends/owner-controlled-marketing-assistants",
+    "snippet": "Contact is expanding AI marketing with Constant Contact Catalyst, a system for small business owners that builds and runs campaigns while leaving final approval with the owner. Instead of asking them ... 's online presence and prepares a plan in the"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-15",
+    "topic": "ai_small_business",
+    "title": "What an AI agent can do in a small business, and what it should never do alone - DEV Community",
+    "url": "https://dev.to/firelifeventures_team/what-an-ai-agent-can-do-in-a-small-business-and-what-it-should-never-do-alone-47dk",
+    "snippet": "What an AI agent can do in a small business, and what it should never do alone - DEV Community\nFIRELIFE Ventures\nPosted on Nov 14 \u2022 Originally published at firelife.ventures\n# What an AI agent can do in a small business, and what it should never do alone\n*First published on firelife.ventures.*\nAn AI agent can answer customers, read documents, update your software and chase follow-ups on its own, a"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-15",
+    "topic": "ai_labs",
+    "title": "Google Cloud Live: Inside the Gemini at Work 2026 keynote | TLDR",
+    "url": "https://tldr.tech/story/e73b80c1-efdc-46c7-be20-0dbd9388ba7b",
+    "snippet": "Google Cloud Live: Inside the Gemini at Work 2026 keynote | TLDR\n\n# Google Cloud Live: Inside the Gemini at Work 2026 keynote\n\nGoogle has announced the Gemini Agent, a universal always-on assistant integrated across business products, along with Gemini 4 Argon, a new model featuring a one-million-token output window. The system is designed to provide a single centralized execution history across p"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-15",
+    "topic": "ai_labs",
+    "title": "Anthropic describes multi-layer code review for Claude Code | TLDR",
+    "url": "https://tldr.tech/story/db8f5c7d-ec46-432e-a405-4b0ff56eac67",
+    "snippet": "Anthropic describes multi-layer code review for Claude Code | TLDR\n\n# Anthropic describes multi-layer code review for Claude Code\n\nAnthropic has outlined its automated code review process for Claude Code, which relies on multi-layered verification, AI-powered reviewers, and risk-based human approvals. The approach aims to reduce manual review time without increasing regressions. According to the c"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-15",
+    "topic": "ai_labs",
+    "title": "OpenAI to train ChatGPT on health data | TLDR",
+    "url": "https://tldr.tech/story/61dde3bb-8471-41db-ba48-7e3e47edf902",
+    "snippet": "OpenAI to train ChatGPT on health data | TLDR\n\n# OpenAI to train ChatGPT on health data\n\nOpenAI announced that beginning November 19, connected health data in ChatGPT will be included in model training under the general 'Improve the model for everyone' setting. Previously, health-related chats were excluded from training regardless of user settings. Users who wish to opt out can do so by navigatin"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-15",
+    "topic": "ai_labs",
+    "title": "Anthropic launches Claude Fable 5.2, higher costs than\u2026 | TLDR",
+    "url": "https://tldr.tech/story/9d3788a6-30d2-48de-9c08-ae17205139c5",
+    "snippet": "Anthropic launches Claude Fable 5.2, higher costs than\u2026 | TLDR\n\n# Anthropic launches Claude Fable 5.2, higher costs than GPT-6 Astra\n\nAn author tested Anthropic's Claude Fable 5.2 against OpenAI's GPT-6 Astra on three developer tasks to compare costs and performance. While Fable 5.2 scored slightly higher on code review, it consumed significantly more tokens and reasoning overhead, resulting in hi"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-15",
+    "topic": "ai_labs",
+    "title": "Google launches PaperOrchestra AI research-paper team | TLDR",
+    "url": "https://tldr.tech/story/8ff4102e-cf7e-47b1-9210-3236c3596c6e",
+    "snippet": "Google launches PaperOrchestra AI research-paper team | TLDR\n\n# Google launches PaperOrchestra AI research-paper team\n\nGoogle has developed PaperOrchestra, a team of five AI agents capable of writing a complete research paper based on a scientist's rough notes and raw experiment results. Tested on 200 papers from top AI conferences, the system produced manuscripts in about 40 minutes that achieved"
   }
 ]
