@@ -32258,5 +32258,199 @@
     "title": "Google launches PaperOrchestra AI research-paper team | TLDR",
     "url": "https://tldr.tech/story/8ff4102e-cf7e-47b1-9210-3236c3596c6e",
     "snippet": "Google launches PaperOrchestra AI research-paper team | TLDR\n\n# Google launches PaperOrchestra AI research-paper team\n\nGoogle has developed PaperOrchestra, a team of five AI agents capable of writing a complete research paper based on a scientist's rough notes and raw experiment results. Tested on 200 papers from top AI conferences, the system produced manuscripts in about 40 minutes that achieved"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-11-16",
+    "headline": "Anthropic put Claude in your meeting. Claude Meetings is in beta on Google Meet for Team and Enterprise plans. You can ask it for a doc, a timeline, or a number from a connected app while the call is still happening.",
+    "url": "archive/2026-11-16.html",
+    "posts": {
+      "linkedin": [
+        "Claude can now sit in your meeting and start the work before the call ends.\n\nAnthropic put Claude Meetings in beta. It joins Google Meet on Team and Enterprise plans. You ask it for a doc, a timeline, or a number from a connected app, and it drafts while everyone's still talking.\n\nNotice what changed. It's not a note taker. A note taker hands you a summary and you do the work later.\n\nThis one makes the first draft in the room.\n\nI haven't tried it yet, so take this as the pitch, not a review. Anthropic's own demo is an event plan, and it's still beta.\n\nBut think about a normal client call. The follow-up email, the scope, the rough numbers all happen after you hang up. That's where the real hours go.\n\nIf those exist before the call ends, the follow-up gets weird.\n\nIf the first draft exists before you hang up, what's the follow-up even for?",
+        "The cheap model is the interesting one today.\n\nAlibaba dropped Qwen4-Max. 2.4 trillion parameters, 1M context, and by their own numbers a 62% cut in average cost per task versus the last version. Those are Alibaba's benchmarks, not independent ones.\n\nThen Tencent launched Hy4 flash. $0.07 per million input tokens. It only activates 12 billion parameters at a time, and Tencent says users rated it close to Claude Haiku 5.5 on everyday work like slides and spreadsheets.\n\nBig model gets the headline. Small model changes the math.\n\nFor a small business, the question was never which model is smartest. It's what a task costs when you run it 500 times a week.\n\nDo more with the same, not the same with less.\n\nThat cost line keeps dropping. When's the last time you looked at what your own automations cost to run?",
+        "Your next customer might not have a face.\n\nA company called New Gen just launched Opal. You paste in your website URL, and it turns what your site already does into something an AI assistant can use. Check availability. Ask a follow-up question. Start a booking.\n\nThe idea is simple. Getting found by an assistant is step one. Being able to serve the customer it sends is the actual channel.\n\nIt's early access, so I'm not calling it yet.\n\nBut the question underneath it is real. Most small business websites are built for a person who scrolls. An assistant needs hours, pricing, what's open this week, and how to actually book.\n\nThat's usually buried in a PDF or a contact form.\n\nIf an AI assistant landed on your site right now, could it book anything?"
+      ],
+      "threads": [
+        "A 26 year old restaurant manager bid $70 on seven pallets of books as a joke.\n\nHe won. He was weeks from starting law school.\n\nTen months later it's $15K a month out of his parents' garage and a $140 storage unit.\n\nHis line on the Koerner Office was \"Worst case you lose $70. Who cares?\"\n\nThat's the whole thing. When the loss is small, you stop being precious about it. Risk it for the biscuit.",
+        "Everybody's building the AI employee now. Today it was York AI, a social media one that writes in your voice and posts for you.\n\nCool idea. It only works if you actually know what your voice sounds like.\n\nMost people don't, until they read a draft and say \"that's not me.\"\n\nThe tool doesn't fix that. It just shows you the gap faster.",
+        "Google's Antigravity now lets agent teams run as Python scripts.\n\nYou type a task, the main agent writes the script, and it shows you before anything runs.\n\nI like that more than it sounds like I should.\n\nMost agent stuff is a black box you hope worked. This one is a file you can read, change, and hand to somebody.\n\nI'd rather read the script than trust the vibe."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-11-16",
+    "source": "The Koerner Office",
+    "title": "He Watched This Channel and Turned $70 Into a $15K/Month Business",
+    "url": "https://www.youtube.com/watch?v=XDCnpgTcQMo",
+    "video_id": "XDCnpgTcQMo"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-16",
+    "topic": "model_releases",
+    "title": "Alibaba Unveils Qwen4-Max: New AI Teammate for Work, Creativity, and Discovery - Alibaba Cloud Community",
+    "url": "https://www.alibabacloud.com/blog/alibaba-unveils-qwen4-max-new-ai-teammate-for-work-creativity-and-discovery_603783",
+    "snippet": "Alibaba Unveils Qwen4-Max: New AI Teammate for Work, Creativity, and Discovery - Alibaba Cloud Community\n\n# Alibaba Unveils Qwen4-Max: New AI Teammate for Work, Creativity, and Discovery \n\n Alibaba Cloud Community November 16, 2026 4,374 0 \n\n Alibaba has released Qwen4-Max, the most capable model in the Qwen family to date. \n\nHangzhou, China, November 16, 2026 - Alibaba has released Qwen4-Max, the"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-16",
+    "topic": "model_releases",
+    "title": "Tencent Unveils Hy4 flash: The Ultimate Cost-Effective Model for Everyday Work | The AI Journal",
+    "url": "https://aijourn.com/tencent-unveils-hy4-flash-the-ultimate-cost-effective-model-for-everyday-work/",
+    "snippet": "Tencent Unveils Hy4 flash: The Ultimate Cost-Effective Model for Everyday Work | The AI Journal\n\n# Tencent Unveils Hy4 flash: The Ultimate Cost-Effective Model for Everyday Work \n\n AIJ Writing Staff Send an email (support@theaijournal.co.uk) 16 November 2026\n\nTencent on Monday launched Hy4 flash, its latest language model and the most cost-effective Hy model to date. Priced at $0.07 per million in"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-16",
+    "topic": "model_releases",
+    "title": "Alibaba Releases Qwen4-Max: 2.4T MoE, 71B Active, 1M Context - MarkTechPost",
+    "url": "https://www.marktechpost.com/2026/11/16/alibaba-qwen4-max-release/",
+    "snippet": "Alibaba Releases Qwen4-Max: 2.4T MoE, 71B Active, 1M Context - MarkTechPost\n\n# Alibaba Releases Qwen4-Max: 2.4T MoE, 71B Active, 1M Context\n\nBy\n\nAsif Razzaq\n\nNovember 16, 2026\n\nAlibaba\u2019s Qwen team has released Qwen4-Max, the first model of its Qwen4 generation. Qwen4-Max is a proprietary sparse MoE model with a 2.4T-parameter backbone and 71B parameters active per token. It accepts text, images an"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-16",
+    "topic": "model_releases",
+    "title": "Alibaba launches Qwen4-Max AI model, claims it beats GPT-6.1-Sol and Claude Opus 5.5 in coding | Mint",
+    "url": "https://www.livemint.com/ai/alibaba-launches-qwen4-max-ai-model-claims-it-beats-gpt-6-1-sol-and-claude-opus-5-5-in-coding-11794814364870.html",
+    "snippet": "Alibaba launches Qwen4-Max AI model, claims it beats GPT-6.1-Sol and Claude Opus 5.5 in coding | Mint\n\n# Alibaba launches Qwen4-Max AI model, claims it beats GPT-6.1-Sol and Claude Opus 5.5 in coding\n\n## Alibaba has launched Qwen4-Max, its latest flagship AI model, claiming it outperforms OpenAI's GPT-6.1-Sol and Anthropic's Opus 5.5 in coding benchmarks. The model features 2.4 trillion parameters"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-16",
+    "topic": "product_releases",
+    "title": "Cloudways Launches AI Website Builder, Enabling Businesses To Create And Launch WordPress Websites In Minutes",
+    "url": "https://www.businesswire.com/news/home/20261116047734/en/Cloudways-Launches-AI-Website-Builder-Enabling-Businesses-To-Create-And-Launch-WordPress-Websites-In-Minutes",
+    "snippet": "Cloudways Launches AI Website Builder, Enabling Businesses To Create And Launch WordPress Websites In Minutes\n\nCloudways Launches AI Website Builder, Enabling Businesses To Create And Launch WordPress Websites In Minutes\n\nNew AI-powered solution allows businesses to build, customize and launch complete WordPress and WooCommerce websites without technical expertise or proprietary platform lock-in\n\n"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-16",
+    "topic": "product_releases",
+    "title": "Tencent launches Hy4 flash, cutting AI task costs by 95% in internal tests \u00b7 TechNode",
+    "url": "https://technode.com/2026/11/16/tencent-launches-hy4-flash-cutting-ai-task-costs-by-95-in-internal-tests/",
+    "snippet": "Tencent launches Hy4 flash, cutting AI task costs by 95% in internal tests \u00b7 TechNode\n\n# Tencent launches Hy4 flash, cutting AI task costs by 95% in internal tests \n\n by TechNode Feed Nov 16, 2026 \n\nTencent on Monday launched Hy4 flash, a lower-cost AI model for everyday work such as research, slide creation and spreadsheet editing. On Tencent\u2019s internal WorkIndex benchmark, Hy4 flash cost one-twe"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-16",
+    "topic": "product_releases",
+    "title": "Pollo AI Launched York AI, an AI Social Media Employee to Put Audience Growth on Autopilot",
+    "url": "https://www.prnewswire.com/news-releases/pollo-ai-launched-york-ai-an-ai-social-media-employee-to-put-audience-growth-on-autopilot-302940232.html",
+    "snippet": "Pollo AI Launched York AI, an AI Social Media Employee to Put Audience Growth on Autopilot\n\n# Pollo AI Launched York AI, an AI Social Media Employee to Put Audience Growth on Autopilot\n\n Pollo AI \n\nNov 16, 2026, 05:00 ET\n\nSINGAPORE, Nov. 16, 2026 /PRNewswire/ -- Pollo AI just launched York AI, an AI social media employee built to help solopreneurs, creators, agencies, and growth teams automate pos"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-16",
+    "topic": "product_releases",
+    "title": "Anthropic introduces Claude Sheets and Claude Whiteboards to expand interactive artifact workspace \u00b7 SoBasically",
+    "url": "https://sobasically.ai/stories/anthropic-introduces-claude-sheets-and-claude-whiteboards-to-expand-interactive-/",
+    "snippet": "Anthropic introduces Claude Sheets and Claude Whiteboards to expand interactive artifact workspace \u00b7 SoBasically\n\n# Anthropic introduces Claude Sheets and Claude Whiteboards to expand interactive artifact workspace\n\nAbhishek Gawade in SoBasically\n\nNov 16, 2026\u00b7 1 min read\u00b7 Edition: 2026-11-16-ai-technology\n\nVISUAL ARTWORK: Original editorial artwork. Third-party brand marks used under nominative f"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-16",
+    "topic": "product_releases",
+    "title": "Anthropic Launches Claude Meetings to Start Work Before Calls End",
+    "url": "https://www.remio.ai/post/anthropic-launches-claude-meetings-to-start-work-before-calls-end",
+    "snippet": "Anthropic Launches Claude Meetings to Start Work Before Calls End\n\n# Anthropic Launches Claude Meetings to Start Work Before Calls End\n\nEthan Carter\n\n49 minutes ago\n\nAnthropic has launched Claude Meetings in beta, moving its assistant from answering individual prompts into workplace discussions where plans are still taking shape. The pitch goes beyond capturing what everyone said: Claude can help "
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-16",
+    "topic": "ai_agents",
+    "title": "Google Antigravity launches Dynamic Workflows, turning agent teams into reviewable Python scripts",
+    "url": "https://www.codeandchain.com/en/articles/2026-11-15/article-967ae0ef1a25",
+    "snippet": "Google Antigravity launches Dynamic Workflows, turning agent teams into reviewable Python scripts\n\n# Google Antigravity launches Dynamic Workflows, turning agent teams into reviewable Python scripts\n\n2026-11-15 AI Tooling Last updated: 14 Nov 2026, 11:06 pm UTC\n\n## Summary\n\nGoogle's Antigravity added Dynamic Workflows, allowing multi-agent coding tasks to run as reviewable Python scripts rather th"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-16",
+    "topic": "ai_agents",
+    "title": "Opal: The Agent Interface for Every Business",
+    "url": "https://www.new-gen.ai/blog/opal-the-agent-interface-for-every-business",
+    "snippet": "Opal: The Agent Interface for Every Business\n\nNovember 16, 2026\n\nby Jonathan Arena\n\n# Opal: The Agent Interface for Every Business\n\nToday we\u2019re introducing Opal, the agent interface for every business. Opal brings together a business\u2019s knowledge and capabilities in an interface designed for customers and their AI assistants, making the information and services already available through its website"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-16",
+    "topic": "ai_agents",
+    "title": "Introducing Agentic Tooling: AI agent security testing - Blog Detectify",
+    "url": "https://blog.detectify.com/product-updates/introducing-agentic-tooling/",
+    "snippet": "# Introducing Agentic Tooling: Build your automated security verification factory with AI agent security testing\n\nSanjidah Ahmed Nov 16, 2026\n\n- Automated security verification: Turn your security operations into an automated verification factory that keeps pace with your high-speed software delivery pipelines.\n- Loop engineering: Automated, iterative workflows that prove exploitability without a "
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-16",
+    "topic": "ai_agents",
+    "title": "Tipalti Launches AP Agent with MCP Links to Enterprise AI Tools | The Fintech Times",
+    "url": "https://thefintechtimes.com/tipalti-launches-ap-agent-with-mcp-links-to-enterprise-ai-tools/",
+    "snippet": "# Tipalti Launches AP Agent with MCP Links to Enterprise AI Tools\n\n by The Fintech Times November 15, 2026 November 12, 2026 \n\n#### Tipalti has announced AP Agent, a next-generation agentic AI product designed to manage the complete accounts payable lifecycle, from invoice capture and coding through to approvals, payments and reconciliation. The Foster City-based company, which processes more than"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-16",
+    "topic": "ai_small_business",
+    "title": "Onyx AI Labs Launches Software Bundle for Small Businesses: 12 AI and Business Tools, One Payment, No Subscriptions - PR.com",
+    "url": "https://www.pr.com/press-release/982589",
+    "snippet": "# Onyx AI Labs Launches Software Bundle for Small Businesses: 12 AI and Business Tools, One Payment, No Subscriptions\n\nThe Complete Bundle packs twelve tools for small businesses \u2014 every tool owned outright, with no subscriptions \u2014 as the studio takes aim at subscription fatigue\n\nMuzaffargarh, Pakistan, November 15, 2026 --(PR.com)-- Onyx AI Labs today opened a limited launch of its Complete Bundl"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-16",
+    "topic": "ai_small_business",
+    "title": "Worker.ai acquires DeltaGen and launches AI operating system for small businesses",
+    "url": "https://aistartupsnews.com/news/worker-ai-acquires-deltagen-and-launches-ai-operating-system-for-small-businesses/",
+    "snippet": "Worker.ai acquired DeltaGen on 12 November 2026 and launched an AI operating system that converts spoken commitments into assigned tasks for small-business teams. The platform handles onboarding in small groups and limits model training to customer-supplied materials.\n\n...\n\nWorker.ai announced the acquisition of DeltaGen on 12 November 2026 and simultaneously launched an AI-powered operating syste"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-16",
+    "topic": "ai_small_business",
+    "title": "Tulvo, an AI workspace built largely by a Bangladesh-based team, launches on Product Hunt \u2013 IT Bangla Media",
+    "url": "https://itbangla.media/en/tech/ai-innovation/1x8rntonsi/",
+    "snippet": "Tulvo, an AI workspace that says it brings documents, tasks, customer data and websites into one place, launched on Product Hunt on 15 November. Much of its team works from Bangladesh.\n\n...\n\nTulvo, an AI workspace that says it brings a small business\u2019s documents, tasks, customer data and website into one place, launched on Product Hunt on Sunday (15 November). Much of the team behind the product w"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-16",
+    "topic": "ai_labs",
+    "title": "Anthropic releases Fable 5.2 and Mythos 5.2 | TLDR",
+    "url": "https://tldr.tech/story/703e0f38-eee0-4e9f-bd89-80abc0c7bfaa",
+    "snippet": "Anthropic releases Fable 5.2 and Mythos 5.2 | TLDR\n\n# Anthropic releases Fable 5.2 and Mythos 5.2\n\nAnthropic has introduced Claude Mythos 5.2 for advanced cybersecurity engineering and Claude Fable 5.2 for regular users. According to the company, Mythos 5.2 outperforms previous models in vulnerability detection, while Fable 5.2 features additional safeguards and has reduced unnecessary blocks on c"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-16",
+    "topic": "ai_labs",
+    "title": "Our new blog for science | OpenAI",
+    "url": "https://openai.com/index/our-new-blog-for-science/",
+    "snippet": "Our new blog for science | OpenAI\n\nNovember 15, 2026\n\n# Our new blog for science\n\nWe\u2019re starting the OpenAI science blog to give scientists and academic researchers a place to share what they\u2019re discovering with AI and how they\u2019re doing the work. Our mission is to ensure that AGI benefits all of humanity, and accelerating scientific discovery is one of the most impactful ways we can work toward th"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-16",
+    "topic": "ai_labs",
+    "title": "LVMH\u2019s Media Division announces strategic partnership with OpenAI | OpenAI",
+    "url": "https://openai.com/index/lvmh-media-division-partnership",
+    "snippet": "LVMH\u2019s Media Division announces strategic partnership with OpenAI | OpenAI\nNovember 16, 2026\n# LVMH\u2019s Media Division announces strategic partnership with OpenAI\n*This news was originally shared by LVMH\u2019s Media Division and can be read **here*\u2060(opens in a new window) *.*\n**Paris, 16 November 2026**\u2014LVMH Group\u2019s Media Division and OpenAI announce the signing of a strategic agreement to support new u"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-16",
+    "topic": "ai_labs",
+    "title": "Google launches MKA multimodal knowledge agent benchmark | TLDR",
+    "url": "https://tldr.tech/story/df4120c7-ca94-487a-a4c8-ca0f9681d876",
+    "snippet": "Google launches MKA multimodal knowledge agent benchmark | TLDR\n\n# Google launches MKA multimodal knowledge agent benchmark\n\nGoogle DeepMind has unveiled the Multimodal Knowledge Agent benchmark, developed jointly with Artificial Analysis, to evaluate AI agents on complex professional tasks such as reading blueprints and clinical images. The benchmark includes 200 tasks across 10 fields and assess"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-16",
+    "topic": "ai_labs",
+    "title": "OpenAI adds animated GIF output to ChatGPT | TLDR",
+    "url": "https://tldr.tech/story/e2b8b52f-37e2-4ddb-a07c-f5feb11a58c3",
+    "snippet": "OpenAI adds animated GIF output to ChatGPT | TLDR\n\n# OpenAI adds animated GIF output to ChatGPT\n\nOpenAI has rolled out Images 2.6 for ChatGPT, Codex, and its API, introducing the ability to generate and edit GIFs using a prompt or uploaded photo. The update allows users to modify GIF playback speeds, edit images through text prompts, and view individual frames for markups. According to OpenAI's bl"
   }
 ]
