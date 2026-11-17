@@ -32452,5 +32452,207 @@
     "title": "OpenAI adds animated GIF output to ChatGPT | TLDR",
     "url": "https://tldr.tech/story/e2b8b52f-37e2-4ddb-a07c-f5feb11a58c3",
     "snippet": "OpenAI adds animated GIF output to ChatGPT | TLDR\n\n# OpenAI adds animated GIF output to ChatGPT\n\nOpenAI has rolled out Images 2.6 for ChatGPT, Codex, and its API, introducing the ability to generate and edit GIFs using a prompt or uploaded photo. The update allows users to modify GIF playback speeds, edit images through text prompts, and view individual frames for markups. According to OpenAI's bl"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-11-17",
+    "headline": "GoDaddy launched Airo AI Builder. You describe a site or app, it builds it, and plans start at $9.99 a month.",
+    "url": "archive/2026-11-17.html",
+    "posts": {
+      "linkedin": [
+        "GoDaddy just launched an AI builder that makes a full website from a conversation.\n\nPlans start at $9.99 a month.\n\nSo here's the thing about that. Building the site is no longer the hard part. It's barely a part at all.\n\nThink about a plumber or a salon owner. They get a site in an afternoon. Great. Then a lead fills out the form at 9pm and nobody answers until Thursday.\n\nThe site was never the problem. The gap between \"someone showed up\" and \"someone got back to them\" was the problem.\n\nGoDaddy's own data shows service businesses are a big share of what's getting built. Health, home, business services. People with no tech team and no time.\n\nThey're about to have a lot of sites and the same old gaps.\n\nWould someone pay to have the gap handled? I think someone would pay for that.\n\nWhat's the first thing that falls through the cracks in your business once the website exists?",
+        "Everybody wants AI agents to be teammates.\n\nGive them a name. Give them a role. Org chart them.\n\nThe AI Daily Brief made a good case today that this is the wrong mental model. The companies actually doing this well, Stripe, Shopify, Ramp, Uber, don't treat agents like coworkers.\n\nThey treat them more like consultants you bring in for a job.\n\nAnd the thing they all obsess over is context. Ramp pulls Slack, Notion, Linear and Calendar into memory every day so an agent never starts cold. Odyssey wrote a clean doc for every decision, so the agent knows what was decided and why.\n\nThat's the unlock. Not a better name for the agent. A better briefing.\n\nSame as a human consultant. If you hand them nothing, you get a generic answer. If you hand them the whole story, you get something useful.\n\nSo what would your agent need to know to actually do your job for a day?",
+        "Zapier showed an example today that I think every small business owner should see.\n\nA new Google review comes in. An AI drafts a reply. It emails the draft to you.\n\nNothing posts until you post it.\n\nThat's it. That's the whole pattern.\n\nMost owners I talk to aren't scared of AI doing the work. They're scared of AI saying something dumb to a customer under their name.\n\nDraft, don't send.\n\nThe one- and two-star reviews even text you right away, because those are the ones that need a real person.\n\nThe agent handles the blank page. You handle the judgment.\n\nCVS is doing the same thing at a huge scale. Agents handle the clicking through systems. People handle the calls that need an actual brain.\n\nI think that's the right split for most small businesses right now.\n\nWhat's one task you'd hand off if you knew you could still approve it first?"
+      ],
+      "threads": [
+        "Tencent's new model costs about $0.07 per million input tokens.\n\nThat's not a typo.\n\nA year ago price was the excuse. Too expensive to run, too expensive to test, too expensive to try on your actual business.\n\nThat excuse is quietly disappearing.\n\nSo now the question isn't \"can I afford AI?\" It's \"what would I even point it at?\"\n\nHonestly, that's a harder question. And a better one.",
+        "OpenAI just launched a way for businesses to claim their profile inside ChatGPT.\n\nAnd already, somebody's selling setup for it.\n\nThat's how it always goes. A new box shows up, owners don't have time to figure it out, and someone helps them fill it in.\n\nClaiming it doesn't make you more visible, by the way. OpenAI said so. It just means your info is right when someone asks.\n\nBoring work. Probably worth doing anyway.",
+        "Here's a weird one from the AI Daily Brief.\n\nSome employees are hoarding what they know so the AI can't have it. Job security.\n\nI get it. If your value is what's in your head, why hand it over?\n\nBut then the agent stays dumb, the team stays slow, and nobody wins.\n\nThat's not really an AI problem. That's a trust problem wearing an AI costume.\n\nHow do you make it safe to share what you know?"
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-11-17",
+    "source": "AI Daily Brief",
+    "title": "Why Agents as Teammates Is the Wrong Mental Model",
+    "url": "https://www.youtube.com/watch?v=zXrty-ZAIUo",
+    "video_id": "zXrty-ZAIUo"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-17",
+    "topic": "model_releases",
+    "title": "Alibaba Unveils Qwen4-Max: New AI Teammate for Work, Creativity, and Discovery - Alibaba Cloud",
+    "url": "https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen4-max?_p_lc=1",
+    "snippet": "# Alibaba Unveils Qwen4-Max: New AI Teammate for Work, Creativity, and Discovery\n\n Alibaba Cloud November 16, 2026 \n\nHangzhou, China, November 16, 2026 - Alibaba has released Qwen4-Max, the most capable model in the Qwen family to date. Featuring 2.4 trillion total parameters, native vision capabilities, and a one-million-token context window, Qwen4-Max excels at complex tasks across work, creativ"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-17",
+    "topic": "model_releases",
+    "title": "Tencent Launches Hy4 flash to Power High-Speed, Cost-Efficient AI Deployment for Everyday Workflows",
+    "url": "https://www.prnewswire.com/news-releases/tencent-launches-hy4-flash-to-power-high-speed-cost-efficient-ai-deployment-for-everyday-workflows-302941875.html",
+    "snippet": "# Tencent Launches Hy4 flash to Power High-Speed, Cost-Efficient AI Deployment for Everyday Workflows\n\n Tencent \n\nNov 17, 2026, 04:11 ET\n\nSHENZHEN, China, Nov. 17, 2026 /PRNewswire/ -- Tencent today announced the release of Hy4 flash, the latest addition to its Hy model family. Hy4 flash has 224 billion total parameters (including 64 billion Engram parameters) with only 12 billion active parameter"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-17",
+    "topic": "model_releases",
+    "title": "OVH announces Olala mini 7A1B",
+    "url": "https://corporate.ovhcloud.com/en/newsroom/news/ovh-olala-mini/",
+    "snippet": "# OVH announces Olala mini 7A1B\n\n Tue, 11/17/2026 - 12:00 \n\nRoubaix \u2013 17 november 2026 \u2013 OVH [EURONEXT:OVH] today announces Olala, its first family of LLMs. The first member of this family, Olala mini 7A1B, is a compact model built on a novel architecture. It demonstrates that European companies can innovate and train agentic LLMs from scratch. Its official launch will take place at the OVHcloud A"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-17",
+    "topic": "model_releases",
+    "title": "Gemini 4 Hydrogen: Google DeepMind\u2019s Model for Agentic Work | AI Magazine",
+    "url": "https://aimagazine.com/news/gemini-4-hydrogen-google-deepminds-model-for-agentic-work",
+    "snippet": "# Gemini 4 Hydrogen: Google DeepMind\u2019s Model for Agentic Work\n\nBy Adam Pond\n\nNovember 17, 2026\n\nWhen tasked to create a WebGL2 water and glass visualiser, Hydrogen built it from pure math and SDF textures \u2014 simulating real-time light refraction, reflection, dispersion and absorption. Credit: Google\n\nKoray Kavukcuoglu, Google\u2019s Chief AI Architect, details how Gemini 4 Hydrogen beats Gemini 3.8 Flas"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-17",
+    "topic": "product_releases",
+    "title": "GoDaddy's new AI builder app lets SMBs turn an idea into a website faster than ever | TechRadar",
+    "url": "https://www.techradar.com/pro/godaddys-new-ai-builder-app-lets-smbs-turn-an-idea-into-a-website-faster-than-ever",
+    "snippet": "# GoDaddy's new AI builder app lets SMBs turn an idea into a website faster than ever\n\n By Craig Hale \n\n Published 17 November 2026 \n\nGoDaddy's comprehensive AI site builder is now available\n\n (Image credit: GoDaddy) \n\n- GoDaddy's AI website builder already supports 90+ third-party integrations\n- You can build and operate an ecommerce site with payment platform support\n- Early usage data shows it "
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-17",
+    "topic": "product_releases",
+    "title": "SalesCloser Launches Live AI Video Sales Agent for Shopify",
+    "url": "https://www.globenewswire.com/news-release/2026/11/17/3404471/0/en/salescloser-launches-live-ai-video-sales-agent-for-shopify-stores.html",
+    "snippet": "# SalesCloser Launches Live AI Video Sales Agent for Shopify Stores\n\n November 17, 2026 07:25 ET | Source: SalesCloser Technologies Ltd \n\nApp puts a lifelike AI avatar on a merchant\u2019s online storefront that shoppers can see, talk to or chat with to find products, add them to the cart and check out\n\nExtends SalesCloser\u2019s live AI sales conversations from sales calls into e-commerce, a new market rea"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-17",
+    "topic": "product_releases",
+    "title": "DomoAI Launches InkoAI Agent for One-Sentence Video Creation",
+    "url": "https://techintelpro.com/news/ai/agentic-ai/domoai-launches-inkoai-agent-for-one-sentence-video-creation",
+    "snippet": "# DomoAI Launches InkoAI Agent for One-Sentence Video Creation\n\n \n\n- by:\n- |\n- November 17, 2026 \n\nDomoAI, the AI video platform used by more than 5 million creators, has announced InkoAI Agent, a creative assistant that runs the entire image and video workflow in one conversation, from a single sentence to ready-to-post content, with creators in control of every step.\n\n### Quick Intel\n\n- DomoAI a"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-17",
+    "topic": "ai_agents",
+    "title": "Coral launches self-hosted gateway for reusable AI-agent tools \u2014 NeoTechNews",
+    "url": "https://www.neotechnews.com/article/show-hn-coral-open-source-gateway-where-agents-write-their-own-tools-50517803",
+    "snippet": "The open-source project lets agents write TypeScript workflows, save successful routines and run provider calls under workspace policies and approvals.\n\nBy NeoTechNews Desk 16 November 2026 2 min read\n\nCoral, an open-source gateway for connecting AI agents to business systems, is offering a code-based approach to tool use with policy checks at every provider call. The self-hosted software sits bet"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-17",
+    "topic": "ai_agents",
+    "title": "Introducing Nasiko, the Open Runtime for agents \u00b7 Nasiko",
+    "url": "https://www.nasiko.com/blogs/introducing-nasiko-openruntime-for-agents",
+    "snippet": "NOV 16, 2026 Rahul Todkar, CEO and founder\n\nOne runtime to see your agents, control how they run, and cut what they spend. Available today.\n\nToday we\u2019re launching Nasiko, the Open Runtime for agents. We built it because the enterprises we talk to are adopting agents faster than they can manage them. Every company and leader is eager to get more done with AI agents and unlock massive ROI, but witho"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-17",
+    "topic": "ai_agents",
+    "title": "Genpact Launches Genpact Onyx, the Agentic Operations Platform for Building, Running, and Governing AI Agents in Enterprise Operations - Nov 16, 2026",
+    "url": "https://media.genpact.com/2026-11-16-Genpact-Launches-Genpact-Onyx,-the-Agentic-Operations-Platform-for-Building,-Running,-and-Governing-AI-Agents-in-Enterprise-Operations",
+    "snippet": "NEW YORK, Nov. 16, 2026 / PRNewswire/ -- Genpact (NYSE: G), the Agentic Operations company, today announced the availability of Genpact Onyx, the Agentic Operations platform for building, running, and governing AI agents in enterprise operations. Genpact Onyx is powered by the Process Intelligence Core, the operating knowledge Genpact has codified from decades of running mission-critical work for "
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-17",
+    "topic": "ai_agents",
+    "title": "Set up, connect, and govern AI agents faster with Amazon WorkSpaces - AWS",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-workspaces-AI-agents-connect-govern/",
+    "snippet": "Posted on: Nov 16, 2026 \n\nBuilding AI agents has become essential. Across your organization, teams want agents to handle ERP transactions, work through a claims queue, and operate the same applications your people use every day. But how do you move from experiments to production? Before an agent touches real systems and real data, you need to verify who it acted on behalf of, what it did, and whet"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-17",
+    "topic": "ai_agents",
+    "title": "Microsoft Opens Copilot Harness in Foundry Agent Service for AI Agents",
+    "url": "https://glacom.news/en/Microsoft-Opens-Copilot-Harness-in-Foundry-Agent-Service-for-AI-Agents-802248",
+    "snippet": "11/17/2026, 07.52\n\n...\n\n# Microsoft Opens Copilot Harness in Foundry Agent Service for AI Agents\n\nMicrosoft launches the Copilot harness in Foundry Agent Service, providing a managed orchestration layer to build complex, multi-model AI agents for enterprises.\n\nKey points\n\n- Microsoft introduces the Copilot harness in Foundry Agent Service (public preview), offering a managed execution layer for AI"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-17",
+    "topic": "ai_small_business",
+    "title": "Finally, an AI Workspace Built for India's Small Businesses: Orvis AI",
+    "url": "https://www.business-standard.com/content/specials/finally-an-ai-workspace-built-for-india-s-small-businesses-orvis-ai-126111400480_1.html",
+    "snippet": "From deploying websites to\n\n...\n\n3 min read Last Updated : Nov 17 2026 | 4:31 PM IST\n\nFor years, small business owners have been told that AI will change how they work. Then they opened the tools and found chatbots that write a paragraph and hand everything else back to them. What most owners need is not another assistant that makes suggestions. They need an AI workspace that takes a job from idea"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-17",
+    "topic": "ai_small_business",
+    "title": "GoDaddy Inc. - New GoDaddy Airo AI Builder Lets Small Businesses Turn Ideas into Websites and Apps",
+    "url": "https://aboutus.godaddy.net/newsroom/news-releases/press-release-details/2026/New-GoDaddy-Airo-AI-Builder-Lets-Small-Businesses-Turn-Ideas-into-Websites-and-Apps/default.aspx",
+    "snippet": "November 16, 2026 \n\n### New GoDaddy Airo AI Builder Lets Small Businesses Turn Ideas into Websites and Apps\n\n An early look at more than 100,000 websites and web apps shows how entrepreneurs are using AI to build their businesses online\n\nTEMPE, Ariz., Nov. 16, 2026 /PRNewswire/ -- GoDaddy (NYSE: GDDY), the world's largest domain registrar, is bringing advanced innovation to entrepreneurs with Airo"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-17",
+    "topic": "ai_small_business",
+    "title": "MakeAndUpdate launches service to manage ChatGPT Business workspaces",
+    "url": "https://siagentnews.com/articles/makeandupdate-launches-service-to-manage-chatgpt-business-workspaces-73a046.html",
+    "snippet": "## The short version\n\n- MakeAndUpdate helps small firms claim and manage their business profiles in ChatGPT via the new Business Hub tool.\n- The service is designed for small teams that lack a dedicated IT department to manage complex AI workspace settings.\n- Clients retain full ownership of their accounts and pay OpenAI directly for all subscription fees.\n- Small business AI adoption in the U.S. "
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-17",
+    "topic": "ai_small_business",
+    "title": "How Zapier's One-Prompt Automations Work for Everyday Business\u2026",
+    "url": "https://aiworldhq.com/article/how-zapier-s-one-prompt-automations-work-for-everyday-business-tasks",
+    "snippet": "Zapier says an AI assistant can now build a workflow from one pasted prompt, so routine tasks keep running after the chat ends.\n\n 3 min read \u00b7 November 17, 2026 \n\nAI This article was written by AI. It passed automated fact and quality checks, and our editor spot-checks published articles every day.\n\nIn short: Zapier says you can describe a task to an AI assistant such as Claude, ChatGPT or Cursor,"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-17",
+    "topic": "ai_small_business",
+    "title": "Serial Entrepreneur Joe Frausto Brings a Business Owner's Perspective to AI Advisory",
+    "url": "https://www.einpresswire.com/article/957015421/serial-entrepreneur-joe-frausto-brings-a-business-owner-s-perspective-to-ai-advisory",
+    "snippet": "News Provided By GWH GLOBAL GROUP LLC November 17, 2026, 08:59 GMT \n\nJoe Frausto. CEO & Founder of AI Improvement Agency\n\nAI advice from someone who has run the business, not just the technology.\n\n SAN DIEGO, CA, UNITED STATES, November 17, 2026 / EINPresswire.com/ -- Joe Frausto, a certified AI engineer and serial entrepreneur, has developed a new approach to AI advisory that addresses a persiste"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-17",
+    "topic": "ai_labs",
+    "title": "Turn Gemini Notebook sources into interactive sites",
+    "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/interactive-sites/",
+    "snippet": "# Transform notes, research, and sources into interactive sites with Gemini Notebook.\n\nMaria Ines Aranguren\n\nSoftware Engineer, Google Labs\n\nNov 16, 2026\n\nStarting today, Gemini Notebook can turn your sources into interactive sites to help you quickly make sense of complex information.\n\nTo get started, simply type \u201cmake me a site\u201d in your Gemini Notebook chat along with a description of what you w"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-17",
+    "topic": "ai_labs",
+    "title": "Advancing computer-use agents for healthcare teams | OpenAI",
+    "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams/",
+    "snippet": "November 16, 2026\n\n# Advancing computer-use agents for healthcare teams\n\nHealthcare is fragmented, and teams often need to move information between systems manually before a patient can get care. When a clinician recommends an MRI, for example, the information an insurer needs may be in a patient\u2019s medical record, but a team member still needs to retrieve it and enter it into a separate portal to "
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-17",
+    "topic": "ai_labs",
+    "title": "Gemini app updates: New chat history and training controls",
+    "url": "https://blog.google/innovation-and-ai/products/gemini-app/updated-controls/",
+    "snippet": "# We\u2019re updating controls in the Gemini app.\n\nNov 16, 2026\n\nWe\u2019re giving you more control over when your Gemini chat history is used to train generative AI models. New settings let you keep your Gemini chat history, while opting out of generative AI model training. With this update, you\u2019ll still be able to change how long history is saved and review or delete history manually at any time.\n\nWe\u2019re a"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-17",
+    "topic": "ai_labs",
+    "title": "Broadening access to AI for scientists | OpenAI",
+    "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers/",
+    "snippet": "November 16, 2026 \u00b7 Research \u00b7 Science\n\n# Broadening access to AI for scientists\n\nWe\u2019re expanding the ChatGPT for Academic Researchers program to give up to 200,000 researchers worldwide free access to ChatGPT.\n\nThe program began as a pilot in July. Applications for the next round open Monday, November 23. We\u2019ll award 50,000 new grants to eligible researchers on a first-come, first-served basis. E"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-17",
+    "topic": "ai_labs",
+    "title": "Science at the Frontier: How scientists use ChatGPT | OpenAI",
+    "url": "https://openai.com/index/science-at-the-frontier/",
+    "snippet": "November 16, 2026\n\n# Science at the frontier\n\nHow more than 1,800 scientists used ChatGPT\u2014and what they expect AI to mean for scientific discovery. Explore the findings in our new report.\n\nScientific progress depends on researchers asking new questions and finding ways to answer them. AI is becoming part of that work, but we\u2019re still learning where it helps and what it could mean for discovery.\n\nO"
   }
 ]
