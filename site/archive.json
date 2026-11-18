@@ -32654,5 +32654,215 @@
     "title": "Science at the Frontier: How scientists use ChatGPT | OpenAI",
     "url": "https://openai.com/index/science-at-the-frontier/",
     "snippet": "November 16, 2026\n\n# Science at the frontier\n\nHow more than 1,800 scientists used ChatGPT\u2014and what they expect AI to mean for scientific discovery. Explore the findings in our new report.\n\nScientific progress depends on researchers asking new questions and finding ways to answer them. AI is becoming part of that work, but we\u2019re still learning where it helps and what it could mean for discovery.\n\nO"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-11-18",
+    "headline": "Google made Gemini's task agent free for hundreds of millions of people.",
+    "url": "archive/2026-11-18.html",
+    "posts": {
+      "linkedin": [
+        "Google just made its task-doing Gemini agent free for hundreds of millions of people.\n\nNot a demo. Not a waitlist. US, Japan, Korea, Canada, Australia, India.\n\nIt can call local businesses, pay through Google Pay, take forwarded emails, and work in the background while you're stuck in a meeting. You flip a toggle from Chat to Task.\n\nThat used to sit behind a paid tier. Now it's just there.\n\nThe calling part is US only for now. But think about what it means. A customer's assistant can phone a business before the customer ever does.\n\nMost small shops built their whole front door around a human picking up. Or a voicemail nobody checks.\n\nI don't think that's scary. I think it's kinda the opening.\n\nIf an assistant called your shop tomorrow, would it get a real answer?",
+        "Nobody wakes up wanting a GitHub repo.\n\nCorey Ganim walked through three open source repos this week, and the interesting part isn't the repos. It's what he does with them.\n\nOne watches how an owner spends their week and ranks the top five time sinks. One checks what ChatGPT and Claude say when someone asks for a business like theirs.\n\nNeither one builds anything. The report is the product. The fix comes after, if they want it.\n\nThat's the whole model. The owner doesn't want a tool. They want to know where the week is leaking.\n\nAnd \"find out\" is a way easier yes than \"install this.\"\n\nWould someone pay for this? I think someone would pay for this.\n\nWhat's the thing in your business you'd pay $999 just to see clearly?",
+        "Every enterprise software company shipped an agent builder this week.\n\nMicrosoft IQ. Salesforce's Coworker, free inside Starter and Pro. Vercel's eve 1.0. Fountain opened up Orchestra. Genesys launched standalone agents.\n\nDifferent logos, same pitch. Describe the job, wire the tools, approve the result.\n\nMicrosoft said it almost straight out: every company has access to the same frontier models. What's different is everything around the model. How your team works. What you've already decided. Where the answers live.\n\nWhich means the agent isn't the edge anymore. The agent is getting cheap.\n\nThe edge is whether anything useful is written down for it to read.\n\nMost small businesses keep that stuff in one person's head.\n\nIf your best person took a week off, could an agent cover Monday?"
+      ],
+      "threads": [
+        "Anthropic starts trading Thursday. Reports say the share sale was around seven times oversubscribed heading into the weekend, and Scott Galloway's read is it can't be a broken IPO, so expect a pop.\n\nWhatever you think of that, it's weird. The company behind the tool I build with all day is about to have a ticker.\n\nA year ago that sentence would've sounded like a joke.",
+        "OpenAI launched a way for businesses to claim their listing inside ChatGPT. It's called Business Hub, it's in beta, and it's US only for now.\n\nOpenAI's help center says claiming it doesn't change your visibility. But once you're verified you can see mentions and website clicks.\n\nMost owners have no idea it exists.\n\nWorth a look at what ChatGPT already says about your shop.",
+        "Microsoft says its new MAI Code 2 gets 98% of GPT-6.1 Sol's coding quality at about 40% of the price. Their benchmarks, so grain of salt.\n\nBut look where everybody's pointing. Not smarter. Cheaper per task. OpenAI says GPT-6.2 Astra does one of its tests for under a third of the cost of the last one.\n\nWhen the price per task drops that fast, a lot of \"too expensive to automate\" lists need a second look."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-11-18",
+    "source": "The Koerner Office",
+    "title": "She Writes Strangers\u2019 Books With AI. They Pay Her $20K Each. [NO ADS + EARLY ACCESS]",
+    "url": "https://www.youtube.com/watch?v=UhHNpIjK0pM",
+    "video_id": "UhHNpIjK0pM"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-11-18",
+    "source": "Corey Ganim",
+    "title": "3 github repos that print $$$ before 2027",
+    "url": "https://www.youtube.com/watch?v=tkTu5kBspVY",
+    "video_id": "tkTu5kBspVY"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-11-18",
+    "source": "AI Daily Brief",
+    "title": "5 Questions Shaping AI This Week",
+    "url": "https://www.youtube.com/watch?v=X8Nfe1smEYI",
+    "video_id": "X8Nfe1smEYI"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-18",
+    "topic": "model_releases",
+    "title": "Introducing GPT-6.2 Astra and Sol | OpenAI",
+    "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+    "snippet": "# Introducing GPT-6.2 Astra and Sol\n\n## A new standard for professional work\n\nWe\u2019re introducing GPT\u20116.2 Astra, our new frontier model for your hardest projects, and GPT\u20116.2 Sol, our efficient, versatile model for everyday work. Both models deliver better results on demanding tasks with fewer output tokens, so you can get more done within your usage limits. For businesses and developers, that means"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-18",
+    "topic": "model_releases",
+    "title": "Alibaba Cloud Brings Qwen4-Max to the Enterprise: An AI Colleague That Plans, Builds and Delivers Finished Work - Alibaba Cloud Community",
+    "url": "https://www.alibabacloud.com/blog/alibaba-cloud-brings-qwen4-max-to-the-enterprise-an-ai-colleague-that-plans-builds-and-delivers-finished-work_603786",
+    "snippet": "Built on the new Qwen4 architecture with 2.4 trillion parameters, native vision and a 1M-token context window, Qwen4-Max takes on long, tool-heavy professional work at 58% lower average cost per task than Qwen3.8-Max on the Work360 evaluation.\n\nSAN FRANCISCO, November 17, 2026: Alibaba Cloud today announced Qwen4-Max for enterprise teams. Qwen4-Max is the flagship model of the Qwen4 series: an alw"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-18",
+    "topic": "model_releases",
+    "title": "Seven new world class models at scalable price-performance | Microsoft AI",
+    "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
+    "snippet": "Nov 17, 2026 \u00b7 Announcements \u00b7 Ignite \n\nAt MAI, our mission is to build you the very best models in the world and keep every developer and every enterprise at the frontier of capability. \n\n But as token spend skyrockets, we know that customers also want models at a price point that lets you run agents 24-7 doing real engineering work. \n\n That\u2019s why today we\u2019re releasing a family of seven new world"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-18",
+    "topic": "model_releases",
+    "title": "SenseNova Loop-9B Official Release: Deeper Computation with",
+    "url": "https://www.sensetime.com/en/news/sensenova-loop-9b-release-20261118-1435",
+    "snippet": "# SenseNova Loop-9B Official Release: Deeper Computation with Fewer Parameters\n\n2026/11/17 47 Share\n\nSenseTime has officially released SenseNova Loop-9B. Building on the Preview version\u2019s exploration of parameter efficiency, the model reuses layer parameters through a Loop structure and incorporates manifold-constrained hyper-connections (mHC) to extend computational depth with approximately 9B pa"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-18",
+    "topic": "product_releases",
+    "title": "Mermaid Flow: the visual builder for agentic workflows",
+    "url": "https://mermaid.ai/blog/posts/mermaid-flow-the-visual-builder-for-agentic-workflows",
+    "snippet": "# Mermaid Flow: the visual builder for agentic workflows \n\n 18 November 2026 \u2022 4 mins \n\nMermaid Flow lets you build agentic workflows as diagrams and run them the same way every time. Why we made it, and four workflows to start with.\n\nToday we\u2019re launching Mermaid Flow, which lets you build agentic workflows as diagrams and then run them. We made it for the AI work that happens more than once, so "
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-18",
+    "topic": "product_releases",
+    "title": "InMobi Launches InMobi Accelerate, an Agentic AI Advertising Platform for Growing Businesses and Agencies",
+    "url": "https://www.businesswire.com/news/home/20261118726828/en/InMobi-Launches-InMobi-Accelerate-an-Agentic-AI-Advertising-Platform-for-Growing-Businesses-and-Agencies",
+    "snippet": "InMobi Launches InMobi Accelerate, an Agentic AI Advertising Platform for Growing Businesses and Agencies\n\nSeven specialized AI agents plan, build, launch and optimize omnichannel campaigns across major ad platforms including Google Ads, Meta Ads, Microsoft Advertising, TikTok Ads and ChatGPT Ads\n\nSAN MATEO, Calif.--(BUSINESS WIRE)-- InMobi, a global technology company shaping the future of agenti"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-18",
+    "topic": "product_releases",
+    "title": "Croissant Launches Remy, an AI Personal Shopper That Draws Inspiration From the Best of What You Own, and the People Whose Taste You Trust",
+    "url": "https://www.businesswire.com/news/home/20261118307435/en/Croissant-Launches-Remy-an-AI-Personal-Shopper-That-Draws-Inspiration-From-the-Best-of-What-You-Own-and-the-People-Whose-Taste-You-Trust",
+    "snippet": "Croissant Launches Remy, an AI Personal Shopper That Draws Inspiration From the Best of What You Own, and the People Whose Taste You Trust\n\nFree for Croissant members, Remy is built on purchase data from 7 million shoppers to find new pieces that work with what they already own.\n\nCroissant launches Remy, a free personal shopping agent for its members.\n\nNEW YORK & NASHVILLE, Tenn.--(BUSINESS WIRE)-"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-18",
+    "topic": "product_releases",
+    "title": "Google just made its best Gemini agent free \u2014 here's where you can get it | Android Central",
+    "url": "https://www.androidcentral.com/apps-software/ai/google-just-made-its-best-gemini-agent-free-heres-where-you-can-get-it",
+    "snippet": "# Google just made its best Gemini agent free \u2014 here's where you can get it\n\n By Jay Bonggolto \n\n Published 18 November 2026 2 min read \n\nGemini can now shop, call businesses, and manage your day for free.\n\n (Image credit: Android Central) \n\n## TL;DR\n\n- Gemini Tasks is now free for millions of users, bringing Google's AI agent to free-tier Gemini users in six countries.\n- Tasks can handle multi-st"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-18",
+    "topic": "product_releases",
+    "title": "Stitch Launches Stitch AI, Bringing Agentic AI Directly Into Banking Operations",
+    "url": "https://www.prnewswire.com/news-releases/stitch-launches-stitch-ai-bringing-agentic-ai-directly-into-banking-operations-302943494.html",
+    "snippet": "# Stitch Launches Stitch AI, Bringing Agentic AI Directly Into Banking Operations\n\nNov 18, 2026, 02:14 ET\n\nAgentic AI for banks launches with 'Anyone can be a hero' campaign\n\nDUBAI, UAE and RIYADH, Saudi Arabia, Nov. 18, 2026 /PRNewswire/ -- Stitch today announced the launch of Stitch AI,bringing agentic AI directly into the operating system for banks and financial institutions. Natively, built in"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-18",
+    "topic": "ai_agents",
+    "title": "Introducing eve 1.0",
+    "url": "https://vercel.com/blog/eve-is-now-generally-available",
+    "snippet": "Published: November 17, 2026 | Authors: Andrew Barba, Shar Dara, Casey Gowrie, Colton Padden, Rui Conti, Ben Pankow, Owen Kephart, Murat Sutunc, Chad Hietala | Category: Company News\n\n---\n\nToday we're announcing eve 1.0, the open-source framework for building production-ready agents.\n\nSince the public preview in June, we've worked with early adopters to prepare eve for 1.0, shipping 230+ releases "
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-18",
+    "topic": "ai_agents",
+    "title": "Introducing the new Microsoft IQ: Putting your organization's intelligence to work in every agent | Microsoft Azure Blog",
+    "url": "https://azure.microsoft.com/en-us/blog/introducing-the-new-microsoft-iq-putting-your-organizations-intelligence-to-work-in-every-agent/",
+    "snippet": "Microsoft believes that AI should enhance your advantage, not erode it. Every organization has access to the same frontier models, and those models improve every few weeks. Today, we are announcing Microsoft IQ, the enterprise context management platform that helps organizations create their own IQ. What sets an organization apart is everything around the model: its own intelligence. That includes"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-18",
+    "topic": "ai_agents",
+    "title": "Introducing Orchestra - Fountain",
+    "url": "https://www.fountain.com/posts/introducing-orchestra",
+    "snippet": "# Introducing Orchestra\n\nSalim Jernite\u00b7 November 17, 2026\u00b7 4 min read\n\n## The technology we built to build Cue, opened to the world.\n\nFor ten years, Fountain has done one thing. You describe a job, and we deliver someone who does it. Today we are extending that promise. You still describe the job. Now we can also deliver an agent.\n\nOrchestra is where that happens: where agents are created, where t"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-18",
+    "topic": "ai_agents",
+    "title": "Genesys Launches Standalone AI Agents and Genesys Arena for Faster Agentic AI Deployment | Genesys",
+    "url": "https://www.genesys.com/company/newsroom/announcements/genesys-launches-standalone-ai-agents-and-genesys-arena-for-faster-agentic-ai-deployment",
+    "snippet": "11/17/2026\n\n# Genesys Launches Standalone AI Agents and Genesys Arena for Faster Agentic AI Deployment\n\nNe w effort-based pricing lets customers pay based on the work require d to complete each task, with consumption measured in Experience Units\n\nSAN FRANCISCO, November 17, 2026 \u2013\u2013 Genesys \u00ae, a global leader in agentic orchestration for customer experience (CX), today announced Genesys Standalone "
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-18",
+    "topic": "ai_small_business",
+    "title": "ECI Ally: AI That Knows Your Business",
+    "url": "https://www.ecisolutions.com/blog/introducing-eci-ally-ai-for-small-business/",
+    "snippet": "## Summary\n\nECI Ally is the brand for everything AI at ECI: AI inside the business management software customers already run, tools to build and manage AI agents, connections to other systems a business depends on, and a single partner to call for help. Introduced in November 2026 for small and medium-sized businesses, it puts AI agents to work on the information and processes already in your soft"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-18",
+    "topic": "ai_small_business",
+    "title": "Agentforce Coworker for Small Business Demo | Salesforce",
+    "url": "https://www.salesforce.com/agentforce/small-business/coworker-demo/",
+    "snippet": "0:00: Let\u2019s take a look at Agentforce Coworker and Starter and Pro Suites.\n\n0:11: Coworker is on by default, so once you import your data, it\u2019s ready to work within the context of your business.\n\n0:16: Let\u2019s see it in action.\n\n0:18: I\u2019m going to ask for an overview of my Acme account, and I\u2019d like to see all the related activity associated with that account.\n\n0:29: It\u2019s checking everything that\u2019s "
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-18",
+    "topic": "ai_small_business",
+    "title": "MakeAndUpdate launches GPT Business to help small businesses claim their business in ChatGPT",
+    "url": "https://cbherald.com/makeandupdate-launches-gpt-business-to-help-small-businesses-claim-their-business-in-chatgpt/",
+    "snippet": "MakeAndUpdate, a West Chester, Pennsylvania web design studio, now helps small businesses claim their business in ChatGPT through OpenAI\u2019s new Business Hub and manages ChatGPT Business workspaces for their teams.\n\nHow GPT Business works: MakeAndUpdate manages a business\u2019s Business Hub profile and its ChatGPT Business workspace, and both stay in the business\u2019s name.\n\nWest Chester, Pennsylvania \u2013 No"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-18",
+    "topic": "ai_small_business",
+    "title": "AI Fever Creates Cottage Industry For Small Agencies, Firms 11/17/2026",
+    "url": "https://www.mediapost.com/publications/article/419396/ai-fever-creates-cottage-industry-for-small-agenci.html",
+    "snippet": "OpenAI and Anthropic are newcomers supporting smaller brands -- similar to the way Amazon, Google, Microsoft, and Meta Platforms grew vast advertising businesses by giving small companies the ability to build and run their own ad campaigns.\n\nGenerative AI now hands those same businesses the creative power and optimization tools of a full-service Madison Avenue agency.\n\nThere is a shift underway in"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-18",
+    "topic": "ai_labs",
+    "title": "EmbeddingGemma 2 technical report and model overview",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2-technical-report/",
+    "snippet": "# Read the EmbeddingGemma 2 technical report.\n\nThe EmbeddingGemma 2 team\n\nNov 17, 2026\n\nWe released EmbeddingGemma 2, which expands our text-only open embedding model with native multimodal understanding. It maps text, images, audio, and video, or any combination of them, into a single embedding space, all while compressing the model backbone into a more compact profile.\n\nYou can now get in-depth "
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-18",
+    "topic": "ai_labs",
+    "title": "Astra for Law leads in legal intelligence | OpenAI",
+    "url": "https://openai.com/index/astra-law-6-2/",
+    "snippet": "November 17, 2026\n\n# Astra for Law leads in legal intelligence\n\nOur latest model configuration earned leading marks on multiple benchmarks. Every ChatGPT Enterprise customer can now request access.\n\nToday, we're releasing an updated Astra for Law that is state-of-the-art on Harvey LAB-AA and a top performer on Vals AI\u2019s Legal Research Bench. We are also enabling all ChatGPT Enterprise customers to"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-18",
+    "topic": "ai_labs",
+    "title": "How to use Tasks in Gemini for personal assistance",
+    "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+    "snippet": "# Put Gemini to work for you\n\nNov 17, 2026\n\n Gemini can now make the calls, pay the bills, and finish your tasks. \n\nJosh Woodward\n\nVice President, Labs, Gemini app, and AI Studio\n\n \n\nThe best assistant knows you and helps you get things done. Today, you can now hand off even more tasks to Gemini and move on with your day. We\u2019ve built it for anyone who has tasks piling up during all the classes, me"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-18",
+    "topic": "ai_labs",
+    "title": "How Google\u2019s AlphaGenome and AlphaGenome Atlas work",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-disease-research/",
+    "snippet": "# How genome mapping can help researchers better understand disease\n\nNov 17, 2026\n\n In our latest installment of the Ask a Scientist series, a Google DeepMind research scientist explains the potential behind our AlphaGenome and AlphaGenome Atlas tools. \n\nLindsey Lanquist\n\nContributor\n\nIllustrative\n\nYour genome is your body\u2019s instruction manual: the blueprint that informs how your body functions. I"
   }
 ]
