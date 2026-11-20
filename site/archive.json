@@ -32874,5 +32874,255 @@
       "linkedin": [],
       "threads": []
     }
+  },
+  {
+    "kind": "digest",
+    "date": "2026-11-20",
+    "headline": "Anthropic is public.",
+    "url": "archive/2026-11-20.html",
+    "posts": {
+      "linkedin": [
+        "Anthropic went public yesterday.\n\nBiggest IPO ever. About $119 billion once you count the private placement.\n\nHere's the part I keep chewing on. Nvidia, Google, Microsoft, AMD, Broadcom, TSMC all bought shares. The companies that sell the chips and the cloud are now owners of the thing that buys the chips and the cloud.\n\nThat's not a vote for one lab. That's the whole supply chain saying the same thing at the same time.\n\nFor anyone building AI for small businesses, the takeaway is pretty plain. The money has stopped arguing about whether this is real.\n\nSo the question left for the rest of us isn't \"is AI going to stick?\" It's \"what's the boring, useful thing I can set up for one business this month?\"\n\nWhat's yours?",
+        "OpenAI shipped Astra and Soul this week and the internet hated it.\n\nOne guy called them unusable. Mood on X was rough.\n\nThen Corey Ganim ran them on real business work. An ROI calculator, a messy task, some writing. Astra actually beat Fable 5.2 on the writing.\n\nSo who's right?\n\nProbably both. They tested different things.\n\nA model that feels bad for a coding benchmark might be fine for writing a client email. A model everybody loves might fall apart on your weird spreadsheet.\n\nTwenty minutes. Your own task. Your own data. That's the only review that counts.\n\nWhat's the last model you judged on someone else's vibes?",
+        "A roofing software company just shipped custom agents.\n\nHere's what an owner can set up in plain English:\n\nFollow up on invoices at 30, 60 and 90 days.\n\nFlag every signed job that still has no date on the calendar.\n\nEmail the owner every Monday with the jobs that slipped.\n\nThat's it. No chatbot. No \"AI transformation.\"\n\nJust the follow-up work that falls apart in storm season because everybody's on a roof.\n\nThis is the shape of AI that small businesses actually pay for. A weight removal product.\n\nWhat's the task in your business that only gets done when someone remembers?"
+      ],
+      "threads": [
+        "Anthropic IPO'd. Nvidia, Google and Microsoft bought in too.\n\nThe people selling the shovels now own part of the mine.\n\nThat's the signal for me. Not the price. The fact that everybody picked the same side at once.\n\nSo what are you building on top of it?",
+        "Gemini can now run on your Mac in a background window and do the clicking for you.\n\nFilling out forms. Pulling data from PDFs. Building slides.\n\nIt used to take dozens of clicks. Now it's a sentence.\n\nWhich means the tool isn't the product anymore. Knowing which repetitive job is worth handing off is.\n\nWhat would you hand off first?",
+        "Corey tested Astra against Fable on real work and Astra won the writing.\n\nThe whole internet said it was bad.\n\nI keep thinking about that. How many tools have I skipped because somebody on X had a mood?\n\nTwenty minutes on your own task beats a thousand hot takes."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-11-20",
+    "source": "The Koerner Office",
+    "title": "Writers Hate AI. She Uses It to Make $20K a Book.",
+    "url": "https://www.youtube.com/watch?v=22cc7OB2mxI",
+    "video_id": "22cc7OB2mxI"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-11-20",
+    "source": "The Koerner Office",
+    "title": "I Asked AI for a Business Idea. It Did Way More",
+    "url": "https://www.youtube.com/watch?v=x63MPDClozk",
+    "video_id": "x63MPDClozk"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-11-20",
+    "source": "Startup Ideas Podcast",
+    "title": "Build a 1 Person Media Machine With Grok Bot",
+    "url": "https://www.youtube.com/watch?v=vKobP6DkC1E",
+    "video_id": "vKobP6DkC1E"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-11-20",
+    "source": "Corey Ganim",
+    "title": "is astra 6.2 better than fable 5.2? (the raw reality)",
+    "url": "https://www.youtube.com/watch?v=n9JL_LYY13M",
+    "video_id": "n9JL_LYY13M"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-11-20",
+    "source": "AI Daily Brief",
+    "title": "The 10 Biggest Days in AI History",
+    "url": "https://www.youtube.com/watch?v=xskAzAc_0ws",
+    "video_id": "xskAzAc_0ws"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-11-20",
+    "source": "AI Daily Brief",
+    "title": "OpenAI Dropped a Model and Nobody Is Happy",
+    "url": "https://www.youtube.com/watch?v=uSzew8QPRX0",
+    "video_id": "uSzew8QPRX0"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-11-20",
+    "source": "AI Daily Brief",
+    "title": "How Business AI Use is Changing",
+    "url": "https://www.youtube.com/watch?v=YN4fId6Jn8k",
+    "video_id": "YN4fId6Jn8k"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-20",
+    "topic": "model_releases",
+    "title": "AI model roundup: Fast open models, falling prices and new math | heise online",
+    "url": "https://www.heise.de/en/background/AI-model-roundup-Fast-open-models-falling-prices-and-new-math-11530644.html",
+    "snippet": "# AI model roundup: Fast open models, falling prices and new math \n\n Alongside new open models, more software is emerging to run them efficiently. LLMs are also shaking up mathematics with new findings.\n\n...\n\nNov 19, 2026 at 1:53 pm CET \n\n- Dr. Christian Winkler\n\n Contents \n\nWhile Alibaba initially released Qwen4 as the large, (still) closed Qwen4-Max, exciting developments are also unfolding else"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-20",
+    "topic": "model_releases",
+    "title": "OVHcloud Unveils In-House LLMs and AI OS in Bid to Move Beyond Hosting",
+    "url": "https://www.journaldunet.com/en/1558277-ovhcloud-unveils-in-house-llms-and-ai-os-in-bid-to-move-beyond-hosting/",
+    "snippet": "# OVHcloud Unveils In-House LLMs and AI OS in Bid to Move Beyond Hosting \n\n Benjamin Polge \n\n November 19, 2026, 5:27 PM \n\n OVHcloud is launching its own family of large language models, an AI operating system tailored for agent-based AI, and a suite of AI products. The move comes without Mistral AI, a choice openly acknowledged by Octave Klaba.\n\nOVHcloud has a lot going for it in the AI space\u2014and"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-20",
+    "topic": "model_releases",
+    "title": "NVIDIA launches Nemotron for scientific discovery agents - Engineering.com",
+    "url": "https://www.engineering.com/nvidia-launches-nemotron-for-scientific-discovery-agents/",
+    "snippet": "Nov 20, 2026 \n\n# NVIDIA launches Nemotron for scientific discovery agents\n\nThe release includes a chemistry dataset with nearly 50,000 questions and post-training recipes for specialized research applications.\n\nNVIDIA introduced NVIDIA Nemotron for Science, bringing together scientific applications of its NVIDIA Nemotron 3.5 Super VL open model, a new open chemistry dataset and post-training recip"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-20",
+    "topic": "model_releases",
+    "title": "Google Unveils New Gemini 4 Neon AI Model | TV10 Global",
+    "url": "https://tv10.news/news/tech/ai/127512/google-unveils-gemini-4-neon-ai-model/",
+    "snippet": "# Google Unveils New Gemini 4 Neon AI Model\n\nThe new Google DeepMind model ranks third on the Artificial Analysis Intelligence Index and first on certain coding and automation benchmarks \u2022 Google says it delivers quality similar to Gemini 4 Carbon, but at three times the speed and 40% lower cost\n\nBy TV10 Desk Nov 20, 2026, 08:30 IL\n\nGoogle\u2019s Gemini | Photo: Shutterstock\n\nGoogle has announced Gemin"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-20",
+    "topic": "model_releases",
+    "title": "Tencent Introduces WeMM-Video Models in Four Sizes | TokenPost",
+    "url": "https://www.tokenpost.com/news/technology/61911",
+    "snippet": "# Tencent Introduces WeMM-Video Models in Four Sizes\n\nThe Chinese-English family handles text, images, audio and video, with versions ranging from 2 billion to 35 billion parameters.\n\nBy Simon Yoon\n\nPublished Nov 20, 2026, 4:20 AM EST\n\nA camera lens rests beside a glass research building at dawn / TokenPost.ai\n\nTencent introduced WeMM-Video, a Chinese-English model family for understanding video a"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-20",
+    "topic": "product_releases",
+    "title": "OpenAI Is Testing Dots Personal Agents On Its $20 Per Month Plus Tier",
+    "url": "https://www.engadget.com/2322656/openai-is-testing-dots-personal-agents-on-its-20-per-month-plus-tier/",
+    "snippet": "# OpenAI is testing Dots personal agents on its $20 per month Plus tier\n\nDots are also coming to all ChatGPT Business Standard users starting today.\n\n By Steve Dent Nov. 20, 2026 2:31 am EST \n\nEvolf/Shutterstock\n\nOpenAI is expanding access to Dots, the proactive, always-on AI agents that can toil at tasks for you without any supervision or assistance. After launching the feature for higher-tier pl"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-20",
+    "topic": "product_releases",
+    "title": "Automate Mac tasks with Gemini computer use",
+    "url": "https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/",
+    "snippet": "Automate Mac tasks with Gemini computer use\n\n# Let Gemini tackle repetitive chores on your Mac\n\nNov 19, 2026\n\n Gemini can now navigate Mac apps and websites in the background to finish complex tasks. \n\nMichael Friedman\n\nGroup Product Manager, Gemini App\n\n \n\n- We are introducing computer use in the Gemini app for Mac to automate your repetitive daily tasks.\n- You can describe complex workflows acro"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-20",
+    "topic": "product_releases",
+    "title": "Mindlogic Launches 'Vibe Coding' for Building Apps With Words - First-Class Business Newspaper Financial News",
+    "url": "https://en.fnnews.com/news/202611201504008321",
+    "snippet": "# Mindlogic Launches 'Vibe Coding' for Building Apps With Words\n\nInput\n: 2026-11-20 15:26:57\n\nUpdated\n: 2026-11-20 15:26:57\n\nProvided by Mindlogic\n\n [Financial News] Mindlogic has introduced an AI development feature that lets users create and deploy applications (apps) through natural-language conversations alone. It helps users build the apps they need themselves, without professional programmin"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-20",
+    "topic": "product_releases",
+    "title": "Fountain - Product updates | Meet Orchestra: Build Agents That Own the",
+    "url": "https://new.fountain.com/announcements/meet-orchestra-build-agents-that-own-the-work",
+    "snippet": "November 19, 2026\n\nAUTHOR:\n\nThe Fountain team\n\n# Meet Orchestra: Build Agents That Own the Work\n\n DATE: November 19, 2026 \n\n AUTHOR: The Fountain team \n\nDescribe a piece of work in plain words, and Orchestra turns it into an agent that owns that work.\n\nCue answers questions and carries out tasks with you one conversation at a time, and Cue scheduled tasks repeat a single prompt on a set cadence. W"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-20",
+    "topic": "ai_agents",
+    "title": "Introducing Volcano, a self-healing agent cloud by Kong",
+    "url": "https://volcano.dev/blog/introducing-volcano-agent-cloud",
+    "snippet": "# Introducing Volcano, a self-healing agent cloud by Kong\n\nProduct By Marco Palladino November 19, 2026\n\nOne place to build, host, and run agents and applications, with a platform that finds and fixes bugs on its own.\n\nBuilding agents and applications in the AI era requires new primitives that we simply didn't need a few years ago. And even then, the pace of building has increased exponentially be"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-20",
+    "topic": "ai_agents",
+    "title": "Amazon Connect launches Resolutions, an agentic solution for high-volume operational work  - AWS",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-resolutions/",
+    "snippet": "# Amazon Connect launches Resolutions, an agentic solution for high-volume operational work\n\n Posted on: Nov 19, 2026 \n\nAmazon Connect Customer announces the general availability of Resolutions, an agentic operations solution that resolves high-volume work end-to-end, including refund requests, transaction disputes, fraud investigations, and insurance claims. Resolutions helps businesses reduce re"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-20",
+    "topic": "ai_agents",
+    "title": "LangSmith Tool Gateway: Secure, governed tool use for agents",
+    "url": "https://www.langchain.com/blog/langsmith-tool-gateway",
+    "snippet": "Karthic Subramanian\n\nNovember 19, 2026\n\nAgents are moving beyond the chat window to take on more proactive and ambient work. Instead of waiting for a prompt, they run on a schedule or are triggered by events, and they\u2019re handling longer tasks without someone checking every step. That makes them much more useful, but it also means teams need to control which tools each agent can call and whose iden"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-20",
+    "topic": "ai_agents",
+    "title": "Amazon Bedrock AgentCore harness adds Strands harness defaults, built-in tools, and lifecycle hooks | Artificial Intelligence",
+    "url": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-harness-adds-strands-harness-defaults-built-in-tools-and-lifecycle-hooks/",
+    "snippet": "by Evandro Franco, Amir Hegazy, Diego Brasil, and Eshan Kumar on 19 NOV 2026 in Advanced (300), Amazon Bedrock AgentCore, Announcements Permalink Share\n\nWhen building an AI agent, selecting a model is only the first step. The agent still needs tools, instructions for finishing the job, a way to manage context growth in long sessions, and guardrails before it executes any consequential actions, lik"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-20",
+    "topic": "ai_small_business",
+    "title": "ECI launches Ally AI platform to automate workflows for SMB software customers | MSP Channel Insights",
+    "url": "https://msp-channel.com/news/24921-eci-launches-ally-ai-platform-to-automate-workflows-for-smb-software-customers",
+    "snippet": "Vendor November 20, 2026 By\n\n...\n\nECI Software Solutions has launched Ally, an AI system embedded across its business software that automates routine tasks like quoting and inventory tracking while letting human teams retain oversight and approval control.\n\nECI Software Solutions, Inc. (\"ECI\"), a provider of AI-powered, cloud-based business management software and services, has introduced ECI Ally"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-20",
+    "topic": "ai_small_business",
+    "title": "5 AI Tools Every Small Business Should Try in 2026 - DEV Community",
+    "url": "https://dev.to/rizwan_ali_4594ef59d4011e/5-ai-tools-every-small-business-should-try-in-2026-1nhh",
+    "snippet": "Running a small business means doing many jobs at once. One person answers customers, another writes social media posts, and someone still has to send invoices and keep the website updated. When the team is small, there is never enough time.\n\nAI tools can help with that. They do not replace people, and they do not run a business on their own. But they can take away slow, repeated work \u2014 the first "
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-20",
+    "topic": "ai_small_business",
+    "title": "Zuper Expands Agent Studio Beyond Pre-Built AI Agents, Letting Customers Create Their Own",
+    "url": "https://www.businesswire.com/news/home/20261118125703/en/Zuper-Expands-Agent-Studio-Beyond-Pre-Built-AI-Agents-Letting-Customers-Create-Their-Own",
+    "snippet": "SEATTLE--(BUSINESS WIRE)-- Zuper, the AI operating system for services businesses, today announced custom agents in its Agent Studio. Roofing companies can now create their own AI agents for the work that is specific to how they run. An admin writes the instructions in plain English, sets when the agent runs, and hands it the SOPs and lists the office already uses. The agent works on the company's"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-20",
+    "topic": "ai_small_business",
+    "title": "InMobi lets seven AI agents run small firms' Google, Meta and ChatGPT ads",
+    "url": "https://ppc.land/inmobi-lets-seven-ai-agents-run-small-firms-google-meta-and-chatgpt-ads/",
+    "snippet": "On November 18, 2026, InMobi launched InMobi Accelerate, a platform that uses seven AI agents to plan, build, launch and measure advertising campaigns for small and medium-sized businesses and the agencies that serve them, across Google Ads, Meta Ads, Microsoft Advertising, TikTok Ads and ChatGPT Ads from a single dashboard. It is available at accelerate.inmobi.com and, according to InMobi, is fre"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-20",
+    "topic": "ai_labs",
+    "title": "Gemini API tool retrieval for efficient agent scaling",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+    "snippet": "# Introducing Tool Retrieval in the Gemini API\n\nNov 19, 2026\n\n Tool Retrieval is now in preview in the Gemini Interactions API. Load tool parameter schemas on demand instead of sending your full tool library in every prompt,designed to reduce input tokens and keep tool selection accurate as your agent scales. \n\nLucia Loher\n\nProduct Manager, Gemini API\n\nNora Kassner\n\nResearch Scientist, Google Deep"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-20",
+    "topic": "ai_labs",
+    "title": "Genie 4 now available through the Gemini API",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/",
+    "snippet": "# Genie 4 is now available on the Gemini API.\n\nNov 19, 2026\n\nFollowing yesterday's Genie 4 launch, Genie 4 is now available for developers through the Gemini API (via the Interactions API) and Google AI Studio.\n\nStarting from a text prompt, a reference image, or both, developers can experiment with generating continuous 720p worlds at 24fps with synchronized native audio \u2014 from ambient soundscapes"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-20",
+    "topic": "ai_labs",
+    "title": "Anthropic announces closing of initial public offering, including full exercise of underwriters\u2019 option to purchase additional shares, and closing of concurrent private placement  \\ Anthropic",
+    "url": "https://www.anthropic.com/news/ipo-close",
+    "snippet": "# Anthropic announces closing of initial public offering, including full exercise of underwriters\u2019 option to purchase additional shares, and closing of concurrent private placement \n\nNov 20, 2026\n\nToday Anthropic, PBC announced the closing of its initial public offering of an aggregate of 1,127,000,000 shares of its Class A common stock at a public offering price of $83.00 per share, including the"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-20",
+    "topic": "ai_labs",
+    "title": "How OpenAI\u2019s Performance Factory keeps ChatGPT fast | OpenAI",
+    "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast/",
+    "snippet": "November 19, 2026\n\n# How OpenAI\u2019s Performance Factory keeps ChatGPT fast\n\nOur Codex-powered system automates finding and fixing performance issues.\n\nBy Okay Zed and Cyrus Forbes, Members of Technical Staff\n\nThe staggering pace of agentic development has made traditional approaches to performance engineering unsustainable. To keep up, we built the Performance Factory, an autonomous system that uses"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-20",
+    "topic": "ai_labs",
+    "title": "Testing quantum contextuality at scale on Google processors",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/putting-one-of-quantum-mechanics-deepest-features-to-test-at-scale/",
+    "snippet": "Testing quantum contextuality at scale on Google processors\n\n# How we\u2019re putting one of quantum mechanics\u2019 deepest features to the test at scale.\n\nNov 19, 2026\n\nToday, in new research published on the cover of Science, Google Quantum AI demonstrated that contextuality \u2014 a quantum property scientists believe powers certain quantum algorithms \u2014 survives at scale on our quantum processor.\n\nWhat gives"
   }
 ]
