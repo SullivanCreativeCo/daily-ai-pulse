@@ -33124,5 +33124,199 @@
     "title": "Testing quantum contextuality at scale on Google processors",
     "url": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/putting-one-of-quantum-mechanics-deepest-features-to-test-at-scale/",
     "snippet": "Testing quantum contextuality at scale on Google processors\n\n# How we\u2019re putting one of quantum mechanics\u2019 deepest features to the test at scale.\n\nNov 19, 2026\n\nToday, in new research published on the cover of Science, Google Quantum AI demonstrated that contextuality \u2014 a quantum property scientists believe powers certain quantum algorithms \u2014 survives at scale on our quantum processor.\n\nWhat gives"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-11-21",
+    "headline": "Google shipped Gemini 4 Neon. It's priced at $3 per million input tokens and $15 per million output, with a million-token context window.",
+    "url": "archive/2026-11-21.html",
+    "posts": {
+      "linkedin": [
+        "Google shipped Gemini 4 Neon yesterday. $3 per million input tokens. $15 per million output. A million-token context window.\n\nThe benchmark claims are Google's own, so hold those loosely.\n\nThe price is the part I keep thinking about.\n\nWhen a model gets cheap, the question changes. It stops being \"can I afford to run this?\" and becomes \"how many of these can I run at once?\"\n\nOne agent researching. One building. One opening the browser and checking the work.\n\nThat's a small team.\n\nOne breakdown I watched said the same few things. Set thinking to high. Build somewhere with real tooling instead of a bare wrapper. Always give it a verification loop so it tests its own work.\n\nI don't know yet if Neon is as good as the chart says. I do know cheap and fast changes what people try.\n\nWhat would you run in parallel if the bill stopped being the thing you watched?",
+        "Corey Ganim laid out a three-step ladder for AI consulting. Worth a look.\n\nStep one is a free 15-minute call. You find one problem AI could fix. That's all. You build nothing.\n\nStep two is a $999 paid assessment. Same idea, but an hour long, and three to seven opportunities instead of one.\n\nStep three is a monthly retainer. He says his five clients averaged $1,561 a month, for about an hour and a half of his time each.\n\nThose numbers come from his own Stripe screenshots, so treat them as one person's results.\n\nWhat I like is the first step. The free part just answers one question: what's slowing you down?\n\nTrust gets built before money ever comes up.\n\nWould someone pay for that? I think someone would pay for that.\n\nWho in your world has a problem you could name in 15 minutes?",
+        "Elizabeth Field DiGiovanni runs a travel activity box company by herself. Two kids under five. Factories in Asia that are awake while she's asleep.\n\nA supplier quote used to take her three weeks. Every question cost a day.\n\nNow she writes up what she needs before bed. Product, target cost, certifications, quantity. Agents work the suppliers overnight. She reads what came back before the kids are up and makes the call.\n\nIn her words: \"You don't need a bigger team. You need the night shift covered.\"\n\nLook at what she kept. She sets the target cost. She picks the supplier. She decides which certification claim needs a document behind it.\n\nThe agent does the waiting. She does the deciding.\n\nSame pattern showing up all over the news this week. Agents prep and check. Humans approve the orders, the payments, the merge.\n\nWhich part of your week is just waiting, and which part actually needs you?"
+      ],
+      "threads": [
+        "Thinking Machines put out Inkling 2 Mini. 26.4B parameters, about 20GB, open weights, runs on a laptop.\n\nTheir team took it on a flight, offline on a MacBook Pro, and had it build a playable flight simulator in a few minutes.\n\nA year ago that sentence sounded fake. Now it's a Friday release note.\n\nWhat do you build when the model lives on your own machine and the meter isn't running?",
+        "Tencent released the full Hy4 weights. 770B parameters, 1M context, open.\n\nRead the license before you get excited.\n\nThe August preview was Apache 2.0. This one needs a separate deal if you run a model service above $50M a year or ship to 100M users. Fine-tunes carry it too.\n\nOpen weights and an open license aren't always the same thing. Also, every benchmark in the system card is Tencent grading Tencent.",
+        "ChatGPT Space is now on the $20 Plus plan. The part I like is documents that update themselves from connected apps like Gmail and Slack.\n\nA Monday morning dashboard with your commitments, open tasks and the emails that matter. Set it up once.\n\nPlenty of weekly docs are just somebody copying the same info over by hand. A page that refreshes itself kills that.\n\nWhat's the one you rebuild every Monday?"
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-11-21",
+    "source": "The Koerner Office",
+    "title": "Overlooked Cleaning Business, Leaving ChatGPT & Free Marketing",
+    "url": "https://www.youtube.com/watch?v=t8-Y1EDdhfU",
+    "video_id": "t8-Y1EDdhfU"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-11-21",
+    "source": "Startup Ideas Podcast",
+    "title": "Gemini 4 Neon: the most underrated model of the year",
+    "url": "https://www.youtube.com/watch?v=tCY7zMknCJQ",
+    "video_id": "tCY7zMknCJQ"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-11-21",
+    "source": "Corey Ganim",
+    "title": "if you see this stop doing AI automation",
+    "url": "https://www.youtube.com/watch?v=aK8Rs6Jc6x4",
+    "video_id": "aK8Rs6Jc6x4"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-21",
+    "topic": "model_releases",
+    "title": "Introducing Inkling 2 Mini - Thinking Machines Lab",
+    "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
+    "snippet": "# Introducing Inkling 2 Mini\n\nNov 20, 2026\n\nToday we are releasing Inkling 2 Mini, a fast, powerful model that\u2019s small enough to run on your laptop.\n\nInkling 2 Mini is a looped transformer, running the middle layers of the model three times for every token. This allows the model to apply more reasoning and reach the right answer with fewer tokens, especially on tasks such as agentic coding that de"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-21",
+    "topic": "model_releases",
+    "title": "Google launches Gemini 4 Neon taking on Claude Opus 5.5 and GPT-6.2 Sol\u00a0 - The Hindu",
+    "url": "https://www.thehindu.com/sci-tech/technology/google-launches-gemini-4-neon-taking-on-claude-opus-55-and-gpt-62-sol/article71727599.ece",
+    "snippet": "# Google launches Gemini 4 Neon taking on Claude Opus 5.5 and GPT-6.2 Sol \n\n## Google said the new model was built for complex coding, analytical reasoning, and enterprise workflows\n\n Published - November 21, 2026 02:03 pm IST \n\n The Hindu Bureau\n\n According to the company, Neon ranked ahead of comparable models. File | Photo Credit: Reuters \n\nGoogle has launched a new AI model, Gemini 4 Neon, tha"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-21",
+    "topic": "model_releases",
+    "title": "Yandex launches a new generation of YandexGPT 4 language models: they have learned to reason and process four times as much text | AKM EN",
+    "url": "https://www.akm.ru/eng/press/yandex-launches-a-new-generation-of-yandexgpt-4-language-models-they-have-learned-to-reason-and-proc/",
+    "snippet": "# Yandex launches a new generation of YandexGPT 4 language models: they have learned to reason and process four times as much text\n\n Yandex 21 November 2026 15:13\n\n Yandex has released a new generation of generative neural networks \u2014 YandexGPT 4. The new line includes a powerful Pro language model and a lightweight Lite version. They are superior in response quality to previous versions, are able "
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-21",
+    "topic": "model_releases",
+    "title": "Tencent ships full Hy4 770B open weights plus 82-page system card",
+    "url": "https://www.deai.org/news/tencent-hy4-full-open-weights-system-card",
+    "snippet": "# Tencent ships full Hy4 770B open weights plus 82-page system card\n\nTencent published full Hy4 open weights: 770B-total/49B-active multimodal MoE, 1M context, FP8 and base variants, under a Hy License with MaaS terms.\n\nBy DeAI Newsroom 21 November 2026 4 min read 4 sources\n\nDeAI is powered by Morpheus (mor.org). We cover competing providers on the same terms \u2014 see our methodology.\n\n...\n\nThe short"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-21",
+    "topic": "product_releases",
+    "title": "New in AWS Quick: More capable flows, an updated web experience, and agents that work together | Artificial Intelligence",
+    "url": "https://aws.amazon.com/blogs/machine-learning/new-in-aws-quick-more-capable-flows-an-updated-web-experience-and-agents-that-work-together/",
+    "snippet": "by Hillary Lovric on 20 NOV 2026 in Announcements, AWS Quick, Foundational (100) Permalink Share\n\n- https://aws.amazon.com/blogs/machine-learning/new-in-aws-quick-more-capable-flows-an-updated-web-experience-and-agents-that-work-together/\n\nTurn one person\u2019s process into your team\u2019s process, get more done in the Quick web app, and get more complete answers from agents working together.\n\nAWS Quick i"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-21",
+    "topic": "product_releases",
+    "title": "ChatGPT just got a massive upgrade \u2014 it can now create documents that update themselves | Tom's Guide",
+    "url": "https://www.tomsguide.com/ai/chatgpt/chatgpt-just-got-a-massive-upgrade-it-can-now-create-documents-that-update-themselves",
+    "snippet": "Published 21 November 2026 \n\nChatGPT Space is now available to Plus subscribers, with self-updating documents, editable PowerPoint presentations and a dedicated AI workspace.\n\n (Image credit: Shutterstock) \n\nBy now, OpenAI has made it clear that ChatGPT is so much more than a chatbot. This week, OpenAI announced ChatGPT Space: a dedicated workspace for presenations, documents, spreadsheets and web"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-21",
+    "topic": "product_releases",
+    "title": "Yandex has launched an AI assistant for medical institutions | AKM EN",
+    "url": "https://www.akm.ru/eng/press/yandex-has-launched-an-ai-assistant-for-medical-institutions/",
+    "snippet": "Yandex 21 November 2026 08:08\n\n Yandex has launched a pilot version of a specialized AI assistant for clinics that automates the routine work of doctors during appointments. The solution allows doctors to spend up to 40% less time working with documents, and clinics to increase their throughput. At the same time, the AI assistant helps to create more complete records in the electronic medical reco"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-21",
+    "topic": "ai_agents",
+    "title": "Alice AI has received a platform for creating AI agents | AKM EN",
+    "url": "https://www.akm.ru/eng/press/alice-ai-has-received-a-platform-for-creating-ai-agents/",
+    "snippet": "Yandex 21 November 2026 14:00\n\n Yandex has introduced a platform that allows you to create AI agents for Alice AI. It is already being tested by Yandex services, and in the future it will be available to third-party companies. The launch of the platform will take user interaction with Alice AI to a new level. The neural network will not only provide information, but also help with everyday tasks \u2014"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-21",
+    "topic": "ai_agents",
+    "title": "Agent Workflows v300 Just Turned AI Agents Into an End-to-End Software Delivery Team + Video - UNDERCODE NEWS",
+    "url": "https://undercodenews.com/agent-workflows-v300-just-turned-ai-agents-into-an-end-to-end-software-delivery-team-video/",
+    "snippet": "By Humanoid Deep Analyser / 4 hours ago \n\nA Major Upgrade Moves Agent Workflows Beyond Coding Assistance\n\nAgent Workflows v3.0.0 introduces a significant evolution in AI-assisted software development, transforming the project from a collection of specialized agent skills into a coordinated delivery system capable of managing much of the software development lifecycle.\n\nThe new release allows Kestr"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-21",
+    "topic": "ai_agents",
+    "title": "Making Go the most proactive AI assistant for work",
+    "url": "https://blog.superhuman.com/proactive-ai-assistant-for-work/",
+    "snippet": "Nov 20, 2026\n\n...\n\nYesterday, at our inaugural Superhuman Assembly, we introduced the next chapter of Go: the most proactive AI assistant for work. We\u2019d like to share our vision and what\u2019s coming over the next few months.\n\nThis evolution of Go will build on what makes Go great, combining it with the latest in proactive AI. Go will remain the AI assistant that works alongside you, but it will also "
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-21",
+    "topic": "ai_agents",
+    "title": "Introducing Hermes Enterprise on Microsoft Foundry: AI coworkers that are easy to use and easy to govern | Nous Research",
+    "url": "https://nousresearch.com/hermes-enterprise-on-microsoft-foundry",
+    "snippet": "November 2026\n\nHermes Agent is getting a new capability powered by Microsoft Foundry: it can now work as an AI coworker with its own work account, managed like any other member of staff.\n\nHermes Enterprise is the most secure and governed way to bring the world's most popular open agent to work. That agent is Hermes Agent. It is currently the number one agent for both productivity and coding on Ope"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-21",
+    "topic": "ai_small_business",
+    "title": "AI Orchestrators: What the New Generation Needs to Know for Business-led AI Agents",
+    "url": "https://www.salesforce.com/blog/small-business/ai-orchestrator-basics/",
+    "snippet": "## What is an AI orchestrator?\n\nAn AI orchestrator is the person who trains, manages, and decides how AI tools work to do business. AI orchestration is the work itself: Coordinating multiple AI agents so each step goes to whichever one is best suited for it. Anthropic describes a similar setup in its guide to building effective AI agents, where a central model breaks a task into parts and hands ea"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-21",
+    "topic": "ai_small_business",
+    "title": "JP Urban Digital Launches AI Workflow Automation Services to Help Businesses Streamline Operations",
+    "url": "https://cbherald.com/jp-urban-digital-launches-ai-workflow-automation-services-to-help-businesses-streamline-operations/",
+    "snippet": "BROOKLYN, N.Y. \u2014 JP Urban Digital, a Brooklyn-based Boutique Marketing & AI Agency, is introducing an expanded focus on AI workflow automation to help businesses connect their existing software, reduce repetitive manual tasks, and improve how information moves across marketing, sales, and internal operations.\n\nThe service focuses on identifying business processes that may benefit from artificial i"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-21",
+    "topic": "ai_small_business",
+    "title": "Meet the New Magnetic: PSA Software with an AI Colleague",
+    "url": "https://www.magnetic.app/us/blog/meet-the-new-magnetic",
+    "snippet": "- The new Magnetic is a complete rebuild: with a new interface, a new engine and a new standard for what project-based firms can expect from their software.\n- One platform from first conversation to month-end: CRM, estimates, planning, resourcing, time, expenses, purchasing, invoicing, revenue, forecasting and reporting.\n- An AI colleague built in: Maggie drafts projects from a brief and carries o"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-21",
+    "topic": "ai_small_business",
+    "title": "Affordable AI takes more than a lower price - Fast Company",
+    "url": "https://www.fastcompany.com/91645911/affordable-ai-takes-more-than-a-lower-price",
+    "snippet": "November 20, 2026\n\n...\n\nBY Kuo Zhang\n\nElizabeth Field DiGiovanni runs Parcel Air, which makes travel activity boxes designed to keep young children occupied on flights. Everything that goes into the Los Angeles solopreneur\u2019s boxes has to come from somewhere: the toys, the crayons, the packaging. Most of the factories she works with are in Asia, where the workday begins around the time Elizabeth is"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-21",
+    "topic": "ai_labs",
+    "title": "Combatting adversarial distillation | OpenAI",
+    "url": "https://openai.com/index/combatting-adversarial-distillation/",
+    "snippet": "November 20, 2026\n\n# Combatting adversarial distillation\n\nHow we\u2019re addressing safety risks of distillation and lessons we\u2019ve learned for strengthening safeguards across the industry.\n\nAs frontier AI models become more capable, safeguards play an increasingly important role in how they can be used responsibly. Adversarial distillation creates a path for bad actors to reproduce these capabilities w"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-21",
+    "topic": "ai_labs",
+    "title": "How I stay in the flow with Ultrafast",
+    "url": "https://developers.openai.com/blog/how-i-stay-in-the-flow-with-ultrafast",
+    "snippet": "These days I fire off a lot of tasks to Codex and walk away from my computer. But especially when building a new UI, I often want to iterate towards a solution instead. Ultrafast has given me a lot of that DevTools feeling back.\n\nEarlier this week, we launched GPT-6.2 Astra and Sol with Ultrafast, offering up to 4.5\u00d7 faster token generation in Codex. Sol Ultrafast is now available on the $200 Pro "
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-21",
+    "topic": "ai_labs",
+    "title": "Can AI help scientists identify promising drug candidates? | OpenAI",
+    "url": "https://openai.com/index/introducing-medchembench/",
+    "snippet": "November 20, 2026\n\n# Can AI help scientists identify promising drug candidates?\n\nIntroducing MedChemBench, a benchmark that tests how well AI models read molecular structures, interpret experimental results, and choose which compounds to test next.\n\nPlay video\n\nWe\u2019re introducing MedChemBench, a benchmark that evaluates AI models on reasoning tasks drawn from medicinal chemistry research. It tests "
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-21",
+    "topic": "ai_labs",
+    "title": "Get your year-end tasks done with new Connected Apps.",
+    "url": "https://blog.google/products-and-platforms/products/search/connected-apps-holiday-errands/",
+    "snippet": "# Get your year-end tasks done with new Connected Apps.\n\nNov 20, 2026\n\nTackling your to-do list just got a little easier. In the U.S., we\u2019re rolling out new Connected Apps through Search and the Gemini app to help with your grocery runs, including Albertsons, Safeway, Shaw\u2019s, and Target.\n\nWhether you\u2019re preparing appetizers for your holiday party or need groceries for Thanksgiving, these new Conne"
   }
 ]
