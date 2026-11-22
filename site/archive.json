@@ -33318,5 +33318,175 @@
     "title": "Get your year-end tasks done with new Connected Apps.",
     "url": "https://blog.google/products-and-platforms/products/search/connected-apps-holiday-errands/",
     "snippet": "# Get your year-end tasks done with new Connected Apps.\n\nNov 20, 2026\n\nTackling your to-do list just got a little easier. In the U.S., we\u2019re rolling out new Connected Apps through Search and the Gemini app to help with your grocery runs, including Albertsons, Safeway, Shaw\u2019s, and Target.\n\nWhether you\u2019re preparing appetizers for your holiday party or need groceries for Thanksgiving, these new Conne"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-11-22",
+    "headline": "One in eight small businesses uses AI now. In 2023 it was one in 34.",
+    "url": "archive/2026-11-22.html",
+    "posts": {
+      "linkedin": [
+        "One in eight small businesses is using AI now.\n\nIn 2023 it was one in 34.\n\nThat's from the CEO of Novo, who works with over 250,000 small businesses. So it's his customer base, not the whole country. Worth knowing before you quote it.\n\nThe direction is the point.\n\nLook at where he says it's landing. Trucking. Restaurants. Not the flashy stuff. The back office. Invoices, scheduling, payroll.\n\nAI can't drive the truck. It can rewire everything behind the truck.\n\nAnd seven in eight haven't started.\n\nThat's not a tools gap. The tools are there. It's a gap in somebody sitting down with a business owner and asking what eats their Tuesday.\n\nWould someone pay to get that Tuesday back? I think someone would.\n\nWhat's the dullest task in your business that you'd hand off first?",
+        "Microsoft says its new coding model gets 96% of Claude Opus 5.5's performance at 5% of the price.\n\nTheir benchmarks. Their promo pricing. Take it with salt.\n\nBut even if it's half true, look at what's happening.\n\nGood enough is getting cheap. Fast.\n\nA year ago the question was whether the model could do it. Now the question is what you build when the model costs almost nothing.\n\nThat changes who wins. When the model is the expensive part, the big shops win. When the model is the cheap part, the person who understands the customer's actual problem wins.\n\nThe plumber's scheduling headache. The dentist's no-show problem. Those don't need the best model on earth. They need somebody who gets the mess.\n\nDo more with the same, not the same with less.\n\nWhat would you build if the model cost basically nothing?",
+        "Google's new agent sandbox does one thing I really like.\n\nThe agent never holds the keys.\n\nIt runs in an isolated box. When it needs to call something, a gateway outside the box adds the credentials. The agent asks. The gateway opens the door. The key stays on the other side.\n\nIt's not shipped yet. Preview is \"the coming months,\" and there's no pricing. So this is a design, not a product.\n\nBut the design is the lesson.\n\nMost of us hand an agent a key and hope. API key in an env file, agent can read it, fingers crossed.\n\nAn agent will make mistakes. That's the job description. The real question is what it can reach when it does.\n\nIf your whole setup depends on the agent behaving, you don't have a setup. You have a hope.\n\nWho's holding the keys in your agent workflows?"
+      ],
+      "threads": [
+        "Google shipped an API that doesn't write anything.\n\nYou ask it a yes or no, pick one, or score this. It hands back an answer and how sure it is. No paragraph to parse.\n\nHonestly that's most small business AI work. Is this email a quote request? Is this lead worth a call?\n\nNobody needs an essay for that. Most of the useful stuff is just a yes or a no.",
+        "Gemini can now hold a huge pile of tools and only load the one it needs.\n\nBefore, every tool description rode along on every single request. A few dozen functions can eat tens of thousands of tokens. Like carrying your whole garage to the grocery store.\n\nBut Google's own docs say if you have under 20 tools, just load them all.\n\nSo don't overbuild it.",
+        "Abu Dhabi's IFM put out six open models, up to 375B.\n\nThey also shared the training data, checkpoints, logs and code. Not just the weights. The whole kitchen.\n\nThe benchmarks are their own and nobody's verified them yet. But a recipe is worth more than a finished plate.\n\nSomebody's gonna cook with it."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-11-22",
+    "source": "The Koerner Office",
+    "title": "He Listened to This Podcast and Built an $8K/Month App for $20 [NO ADS + EARLY ACCESS]",
+    "url": "https://www.youtube.com/watch?v=gXZaUPCFrwc",
+    "video_id": "gXZaUPCFrwc"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-22",
+    "topic": "model_releases",
+    "title": "Abu Dhabi\u2019s IFM Opens a 375B Model Fleet to Everyone - GEroundtable",
+    "url": "https://geroundtable.com/ifm-k2-horizon-375b-open-models/",
+    "snippet": "# Abu Dhabi\u2019s IFM Opens a 375B Model Fleet to Everyone\n\n By Faheem R. Khattak \u2022 Updated: November 21, 2026 \u2022 Filed Under AI Models \n\nIn This Article (Key Sections) Toggle\n\nAbu Dhabi\u2019s Institute of Foundation Models has released K2-Horizon, a fleet of six fully open language models ranging from a 0.9B dense model to a 375B mixture-of-experts flagship. The models target reasoning and agentic work, f"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-22",
+    "topic": "model_releases",
+    "title": "ByteDance releases open Axion 1.0 agent model trained in three stages",
+    "url": "https://letsdatascience.com/news/bytedance-releases-open-axion-10-agent-model-trained-in-thre-b20d9438",
+    "snippet": "# ByteDance releases open Axion 1.0 agent model trained in three stages\n\n| November 21, 2026| By LDS Team\n\nPhoto: opengraph.githubassets.com \u00b7 rights & takedowns\n\nByteDance and researchers at Duke University, the University of Maryland, College Park and the University at Buffalo released Axion 1.0, an open agent foundation model trained with two supervised fine-tuning stages and reinforcement lear"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-22",
+    "topic": "product_releases",
+    "title": "Microsoft\u2019s new AI coder is gunning for Claude and ChatGPT. It\u2019s coming with a price advantage",
+    "url": "https://tech.yahoo.com/ai/copilot/articles/microsoft-ai-coder-gunning-claude-094507756.html",
+    "snippet": "Vikhyaat Vivek\nSun, November 22, 2026 at 9:45 AM UTC\nSun, November 22, 2026 at 9:45 AM UTC\nMicrosoft is getting serious about developing its own AI models, and the latest announcement shows that OpenAI and Anthropic have some new competition. At Ignite 2026, the company unveiled two new AI coding models that promise performance comparable to some of the industry's most powerful offerings, but at c"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-22",
+    "topic": "product_releases",
+    "title": "Google releases Gemini 4 Neon AI model, rivals Claude Opus 5.5 and GPT-6.2 Sol",
+    "url": "https://tech.yahoo.com/ai/gemini/articles/google-releases-gemini-4-neon-051643298.html",
+    "snippet": "Dwayne Cubbins\nSun, November 22, 2026 at 5:16 AM UTC\nSun, November 22, 2026 at 5:16 AM UTC\nGoogle has launched Gemini 4 Neon, a model they say brings frontier-level intelligence to the realms of complex coding, knowledge work, and science work without the long wait. If you're paying for Google AI Pro or Ultra, you can now select Neon from the model menu in the Gemini app too. When I went into the "
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-22",
+    "topic": "product_releases",
+    "title": "Google AI Previews Tool Retrieval in the Gemini API for Large Tool Libraries - MarkTechPost",
+    "url": "https://www.marktechpost.com/2026/11/22/google-gemini-api-tool-retrieval/",
+    "snippet": "By\n\nMichal Sutter\n\nNovember 22, 2026\n\nGoogle has launched Tool Retrieval in the Gemini API, now in preview in the Interactions API. Gemini API Tool Retrieval lets an agent keep a large tool library available. It does not send every parameter schema in every prompt. The model loads a schema only when a task needs that tool. For agents wired to dozens of functions or MCP servers, it targets a real c"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-22",
+    "topic": "product_releases",
+    "title": "Microsoft\u2019s Aion Instruct Takes Over On-Device AI in Edge - GEroundtable",
+    "url": "https://geroundtable.com/microsoft-aion-instruct-edge-on-device-ai/",
+    "snippet": "By Faheem R. Khattak \u2022 Updated: November 22, 2026 \u2022 Filed Under Microsoft\n\n...\n\nMicrosoft has made Aion Instruct generally available as the built-in small language model in Edge, replacing Phi-4-mini, the company announced on Thursday. The 2.3-billion-parameter model also arrives as open weights, and developers can now test on-device AI on live websites.\n\n## What changes inside Edge\n\nAion Instruct"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-22",
+    "topic": "ai_agents",
+    "title": "AWS Quick now supports plugins to bundle agents, skills, connectors and flows - AWS",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-plugins-bundle-agents-skills-connectors-flows/",
+    "snippet": "# AWS Quick now supports plugins to bundle agents, skills, connectors and flows\n\n Posted on: Nov 21, 2026 \n\nAWS Quick now supports plugins, agents, skills, connectors, and flows built for a specific task, role, or use case. Most work draws on several of these at once: connectors to reach your systems, skills for how your team works, agents to reason through tasks, and flows to orchestrate each pro"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-22",
+    "topic": "ai_agents",
+    "title": "Google Announces Agent Compute Engine for Secure AI Agent Execution - InfoQ",
+    "url": "https://www.infoq.com/news/2026/11/google-agent-compute-engine/",
+    "snippet": "# Google Announces Agent Compute Engine for Secure AI Agent Execution \n\nNov 22, 2026 2 min read \n\nby\n\n- Renato Losio \n\nGoogle recently announced Agent Compute Engine, a managed service that runs AI agents in isolated microVMs, with checkpointing capabilities to suspend and resume execution environments. The design keeps credentials, API keys, and OAuth refresh tokens outside the agent sandbox, usi"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-22",
+    "topic": "ai_agents",
+    "title": "Cognition Launches Devin Bots for Parallel AI Agent Orchestration | Tech Pulse | TheNextGenTechInsider",
+    "url": "https://www.thenextgentechinsider.com/pulse/cognition-launches-devin-bots-for-parallel-ai-agent-orchestration",
+    "snippet": "Cognition has launched Devin Bots, an orchestration layer that dispatches multiple AI agents in parallel to execute software engineering tasks. Beta testers reported a 4.5x increase in merged pull requests compared to single-agent workflows.\n\nHiren Dave\n\nFounder\n\nNov 21, 2026\u2022 3 min read\n\n...\n\n## Cognition Launches Devin Bots: Parallel AI Agent Orchestration for Software Engineering\n\nCognition has"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-22",
+    "topic": "ai_small_business",
+    "title": "AI Automation: What It Actually Is \u2014 and 7 Real Small-Business Examples By \u201cAYZUB\u201d",
+    "url": "https://ayzub.medium.com/ai-automation-what-it-actually-is-and-7-real-small-business-examples-by-ayzub-7f5913727780",
+    "snippet": "Quick answer: AI automation is classic workflow automation \u2014 when X happens, do Y \u2014 with a language or vision model inserted at the steps that used to require judgment: reading unstructured text, drafting, classifying, extracting, summarizing. Old automation moved data between apps. AI automation understands the data in transit. For a small business, that means workflows like this one: an invoice "
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-22",
+    "topic": "ai_small_business",
+    "title": "Anthropic IPO sparks small business AI gold rush, says Novo CEO Rangel | Fox Business",
+    "url": "https://www.foxbusiness.com/economy/anthropic-ipo-signals-beginning-gold-rush-small-businesses-says-biz-tech-ceo",
+    "snippet": "\"The solopreneur, so no employees: I think that is going to be a rocket ship. And I think that is actually one of the biggest things this country has been sleeping on is I truly believe we're going to be at the beginning of a gold rush here for the solopreneur,\" he told Fox News Digital in an exclusive interview.\n\n...\n\nOf Novo\u2019s more than 250,000 small business clients, only one in 34 were using A"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-22",
+    "topic": "ai_small_business",
+    "title": "Bhavik Sarkhedi Launches Solo Not Small to Help One Person Businesses Learn AI, But Also Live",
+    "url": "https://www.24-7pressrelease.com/press-release/540673/bhavik-sarkhedi-launches-solo-not-small-to-help-one-person-businesses-learn-ai-but-also-live",
+    "snippet": "Press Release November 21, 2026 \n\n Solo Not Small helps solopreneurs run a one person business with AI and person engine optimization, under the line \"Learn AI. But also live.\" \n\nAHMEDABAD, INDIA, November 21, 2026 /24-7PressRelease/ -- Serial entrepreneur Bhavik Sarkhedi today introduced Solo Not Small, an AI initiative that helps solopreneurs and small business owners run a one person business w"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-22",
+    "topic": "ai_small_business",
+    "title": "InMobi launches seven-agent advertising platform for small\u2026",
+    "url": "https://theagenticreview.com/articles/2026-11-21-inmobi-launches-seven-agent-ad-platform-aimed-at-small-businesses/",
+    "snippet": "Enterprise \u2014 NOVEMBER 21, 2026\n\n# InMobi launches seven-agent advertising platform for small businesses\n\nAccelerate brings campaign planning, creative and optimization into one dashboard, while advertisers retain approval over plans and spending.\n\nBy Rachel Tannenbaum \u00b7 Enterprise deployments desk\n\nNovember 21, 2026\n\nInMobi launched Accelerate on November 18, describing it as a self-serve advertis"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-22",
+    "topic": "ai_labs",
+    "title": "Supporting AI research and talent development with IIT Kharagpur",
+    "url": "https://blog.google/intl/en-in/company-news/supporting-ai-research-and-talent-development-with-iit-kharagpur/",
+    "snippet": "Supporting AI research and talent development with IIT Kharagpur\n\n# Supporting AI research and talent development with IIT Kharagpur\n\nGoogle India Team\n\n21 Nov, 2026\n\nGoogle is providing the Indian Institute of Technology Kharagpur (IIT Kharagpur) with $5 million (USD) in funding to help develop and accelerate advanced AI research, while cultivating India's next generation of scientific and techni"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-22",
+    "topic": "ai_labs",
+    "title": "Google launches Agent Compute Engine preview | TLDR",
+    "url": "https://tldr.tech/story/88d06e49-ea32-4434-91de-1776996b9870",
+    "snippet": "Google launches Agent Compute Engine preview | TLDR\n\n# Google launches Agent Compute Engine preview\n\nGoogle has announced Agent Compute Engine, a managed service designed to run AI agents in isolated microVMs with checkpointing capabilities to suspend and resume execution. The architecture keeps sensitive credentials, API keys, and OAuth tokens outside the agent sandbox, utilizing an external Gate"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-22",
+    "topic": "ai_labs",
+    "title": "Google releases Gemini Decisions API with Gemini Decision 1 | TLDR",
+    "url": "https://tldr.tech/story/ca6f03ec-7377-4929-9c72-a336291300fb",
+    "snippet": "Google releases Gemini Decisions API with Gemini Decision 1 | TLDR\n\n# Google releases Gemini Decisions API with Gemini Decision 1\n\nGoogle has introduced the Gemini Decisions API, powered by the gemini-decision-1 model, which is designed to evaluate predefined yes/no, choice, and score questions rather than generating open-ended text. The author explains that this approach avoids wasting tokens and"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-22",
+    "topic": "ai_labs",
+    "title": "Google Labs launches Stitch Loop product agent | TLDR",
+    "url": "https://tldr.tech/story/d818c667-1d0d-4d32-8253-665c73388aa1",
+    "snippet": "Google Labs launches Stitch Loop product agent | TLDR\n\n# Google Labs launches Stitch Loop product agent\n\nGoogle has announced Stitch Loop, a waitlist-only self-improving product agent designed to monitor production data and autonomously pursue goals. Users create workspaces for GitHub projects, pick predefined loops or create custom ones, and integrate with numerous developer and productivity tool"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-22",
+    "topic": "ai_labs",
+    "title": "OpenAI launches ChatGPT Wallet for agent purchases | TLDR",
+    "url": "https://tldr.tech/story/dd38f442-fbd1-458d-a57c-2c45d5595a5b",
+    "snippet": "OpenAI launches ChatGPT Wallet for agent purchases | TLDR\n\n# OpenAI launches ChatGPT Wallet for agent purchases\n\nThe author argues that as AI agents gain wallets to make autonomous purchases, the payments industry must solve how agents interpret instructions and who bears the liability when things go wrong. Existing infrastructure verifies authorization to spend, but the agentic economy requires v"
   }
 ]
