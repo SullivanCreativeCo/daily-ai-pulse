@@ -33488,5 +33488,183 @@
     "title": "OpenAI launches ChatGPT Wallet for agent purchases | TLDR",
     "url": "https://tldr.tech/story/dd38f442-fbd1-458d-a57c-2c45d5595a5b",
     "snippet": "OpenAI launches ChatGPT Wallet for agent purchases | TLDR\n\n# OpenAI launches ChatGPT Wallet for agent purchases\n\nThe author argues that as AI agents gain wallets to make autonomous purchases, the payments industry must solve how agents interpret instructions and who bears the liability when things go wrong. Existing infrastructure verifies authorization to spend, but the agentic economy requires v"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-11-23",
+    "headline": "OpenAI's chief scientist published their pretraining loss numbers and asked every lab to agree on shared limits.",
+    "url": "archive/2026-11-23.html",
+    "posts": {
+      "linkedin": [
+        "Everybody picks the cool category. That's why the cool category is full.\n\nChris Koerner dropped a video today where he hands an AI agent six rules and tells it to go find a boring corner of the internet with a mess in it.\n\nThe rules are plain. The buyer just had something happen to them. The product stops a loss bigger than its price. Nobody has organized the category. The same item has a wild price spread. Demand shows up on a calendar. And it's boring.\n\nHis example was fruit trees. Same tree, $30 on one site, $180 on another. Nobody competing, so the prices never squeezed together.\n\nHere's what stuck with me. Boring is the filter. If it sounds like a gadget, somebody already made a video about it.\n\nSmall businesses are full of boring. Scheduling. Paperwork. Follow-ups nobody sends.\n\nWhat are you already doing for yourself that someone else would find useful?",
+        "Zoho just put a vibe coding builder inside its CRM.\n\nDescribe a dashboard in plain words. It builds it from your live CRM data. No export, no third-party tool, no deploy.\n\nThat last part is the whole story.\n\nThe scary thing about vibe coding for a business owner was never the coding. It was shipping customer data to some other platform so a tool could read it.\n\nZoho's pitch is that you don't move the data. The app lives where the data already lives. There's even a security review step before you publish.\n\nI haven't used it, so I can't tell you how good the output is.\n\nBut the direction is right. The tool shows up where the work already is, not the other way around.\n\nDo more with the same, not the same with less.\n\nThink about the little tracker that never made it onto anyone's roadmap. That's usually where this kind of thing earns its keep.\n\nWhich one would you build first?",
+        "Overcut ran fifteen tickets through parallel AI agents and published the numbers.\n\n18.2 hours of workflow time fit into 9.7 active hours. Sounds like the headline.\n\nIt's not. Here's the line I kept re-reading.\n\nThe full run took 22.5 hours. For 12.8 of those, nothing was running. And 12.4 of those hours were the system waiting on a person to answer a gate. One stretch was nine hours overnight.\n\nSo once the agents run side by side, the slowest part of the whole project is somebody replying.\n\nThey kept the gates, by the way. Plan approval and high-risk landings still get a human. Good call.\n\nBut the question gets sharper now. Which decisions really need a person, and which ones are sitting there because that's how we always did it?\n\nI think most of us have never sorted those two piles.\n\nWhere would you start?"
+      ],
+      "threads": [
+        "OpenAI's chief scientist published their pretraining loss numbers today.\n\nGPT-3.5 sat around 0.99. GPT-4 around 0.91. The newer ones are under 0.8, and that's where he says the cyber and math breakthroughs started showing up.\n\nThe wild part is nobody knew which number would unlock what. They only found out after crossing it.\n\nThen he asked every lab to agree on shared limits. Curious who else publishes theirs.",
+        "Z.ai got a bigger-feeling model without adding parameters.\n\nThey took 28 layers of their base model and just ran them twice. Loop transformer. They say it lands around 2 to 3 trillion parameter territory.\n\nNo benchmark scores yet though, so I'm holding that claim loosely.\n\nBut the trend is clear. Same weights, more thinking per token. Smarter without getting heavier.",
+        "A new LA company is staffing AI employees for HVAC shops and dental offices.\n\nLead catcher. Ad manager. Review manager. The owner approves everything before it goes out.\n\nThe founder said small businesses don't need more software, they need more hands.\n\nThat's how an owner actually says it. Nobody wakes up wanting another dashboard.\n\nThe test is month three. Does it still work when the novelty's gone?"
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-11-23",
+    "source": "The Koerner Office",
+    "title": "I Let AI Start an Online Business for Me With Just $2",
+    "url": "https://www.youtube.com/watch?v=ZtMR0pku5L0",
+    "video_id": "ZtMR0pku5L0"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-23",
+    "topic": "model_releases",
+    "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+    "url": "https://z.ai/blog/glm-5.4",
+    "snippet": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer\n\n2026-11-23 \u00b7 Research\n\nGLM-5.4: Toward Generalized Coding with Our First Loop Transformer\n\nOver the past three months, we have aggressively scaled both loop depth and model size in parallel. The first surprise came from the Loop Transformer architecture itself. By executing a shared block of layers across multiple iterations, the "
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-23",
+    "topic": "model_releases",
+    "title": "X Square Robot Introduces WALL-OSS-1.0: Understand More,",
+    "url": "https://www.globenewswire.com/news-release/2026/11/23/3408046/0/en/x-square-robot-introduces-wall-oss-1-0-understand-more-act-better-a-native-foundation-model-for-the-physical-world.html",
+    "snippet": "# X Square Robot Introduces WALL-OSS-1.0: Understand More, Act Better \u2014 A Native Foundation Model for the Physical World\n\n## The new vision-language-action model achieves a 55.1% zero-shot success rate across 312 real-robot tasks without task-specific fine-tuning, while XR Harness and WALL-API-1.0 extend its capabilities to complex task execution and developer applications\n\n November 23, 2026 02:4"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-23",
+    "topic": "model_releases",
+    "title": "GMT EIGHT - Latest - Baidu: ERNIE 5.5 Flash Base officially open-sourced",
+    "url": "https://www.gmt8press.com/flash/detail/1594611",
+    "snippet": "# Baidu: ERNIE 5.5 Flash Base officially open-sourced\n\n23/11/2026\n\nToday, Baidu officially open-sourced its latest foundation model, ERNIE 5.5 Flash Base. ERNIE 5.5 Flash Base adopts a MoE architecture, with 280 billion total parameters and 14 billion parameters activated per token. It was pre-trained on 33.5 trillion tokens, with a pre-training context length of up to 128K, and supports a context"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-23",
+    "topic": "model_releases",
+    "title": "Sarvam AI Releases Sarvam-105B-1711 Open-Weight Model",
+    "url": "https://www.incbusiness.in/news/sarvam-ai-releases-an-upgraded-open-weight-105b-model",
+    "snippet": "# Sarvam AI Releases an Upgraded Open-Weight 105B Model\n\nSarvam-105B-1711 adds training for tool calling, agentic tasks and Indian languages, and comes in a 4-bit version for one GPU.\n\n Jhanvi Shah Nov 23, 2026, 7:44 AM IST 4 min read\n\n...\n\n- Sarvam AI released Sarvam-105B-1711 on November 22, 2026.\n\n...\n\nSarvam AI has released Sarvam-105B-1711, a new open-weight version of its Sarvam 105B model, "
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-23",
+    "topic": "product_releases",
+    "title": "Introducing Vibe: A prompt-to-app AI builder in Zoho CRM - Zoho Blog",
+    "url": "https://www.zoho.com/blog/crm/introducing-vibe-ai-app-builder-within-zohocrm.html",
+    "snippet": "# Introducing Vibe: A prompt-to-app AI builder in Zoho CRM\n\nLathishya Sivakumar\n\nPublished on: Nov 23, 2026 Last Updated on: Nov 23, 2026\n\nEverywhere you look, someone is building an app or tool using AI, and the scale is bigger than you might think. Lovable, an AI platform, is seeing 100,000+ new projects being launched every day (Sacra).\n\n### So, what is Vibe coding?\n\nVibe coding is the process "
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-23",
+    "topic": "product_releases",
+    "title": "Ant Group\u2019s AI Health App Afu Upgrades with AI Video Consultations and Enhanced Health Management Features to Make Everyday Care More Accessible and Convenient",
+    "url": "https://www.businesswire.com/news/home/20261122320607/en/Ant-Groups-AI-Health-App-Afu-Upgrades-with-AI-Video-Consultations-and-Enhanced-Health-Management-Features-to-Make-Everyday-Care-More-Accessible-and-Convenient",
+    "snippet": "A user is having an AI video consultation with Afu, Ant Group\u2019s AI health app, about an everyday health concern.\n\nHANGZHOU, China--(BUSINESS WIRE)-- Ant Group\u2019s AI health app Afu (also known as AQ) has launched a major upgrade, introducing real-time video consultations that allow users to discuss everyday health concerns with AI through video calls, alongside enhanced AI health management services"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-23",
+    "topic": "product_releases",
+    "title": "Kling AI Launches Kling Image 4.0 with Photographic Realism",
+    "url": "https://www.globenewswire.com/news-release/2026/11/23/3408138/0/en/kling-ai-launches-kling-image-4-0-with-photographic-realism-and-native-8k-generation.html",
+    "snippet": "# Kling AI Launches Kling Image 4.0 with Photographic Realism and Native 8K Generation\n\n November 23, 2026 05:44 ET | Source: Kling AI \n\nBeijing,China, Nov. 23, 2026 (GLOBE NEWSWIRE) -- Kling AI, the AI-powered creative platform, today announced the launch of Kling Image 4.0, its latest image generation model that combines photographic realism, native 8K output, advanced text generation, and the a"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-23",
+    "topic": "product_releases",
+    "title": "Z.ai\u2019s GLM-5.4 runs its layers twice to rival 2T-parameter models",
+    "url": "https://thenextweb.com/news/zai-glm-5-4-loop-transformer-coding-model",
+    "snippet": "# Z.ai\u2019s GLM-5.4 runs its layers twice to rival 2T-parameter models\n\nThe Chinese lab runs 28 layers of its base model twice instead of adding parameters. Coding Plan subscribers get it first, with API access and open weights promised after safety checks.\n\nNovember 23, 2026 - 11:28 am GMT\n\n \n\n Credit: Z.ai \n\nZ.ai has released GLM-5.4, its first flagship model built on a Loop Transformer. The design"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-23",
+    "topic": "product_releases",
+    "title": "L&T Technology Services Launches SDVault.ai\u2122 to Bring Engineering Intelligence to the Software-Defined Vehicle V-Cycle - Press Release",
+    "url": "https://www.ltts.com/press-release/launches-sdvault-ai",
+    "snippet": "# L&T Technology Services Launches SDVault.ai\u2122 to Bring Engineering Intelligence to the Software-Defined Vehicle V-Cycle\n\nHighlights: \n\n- 250+ domain-aware AI agents, paired with deterministic automation and safety, cybersecurity and compliance guardrails \n- 12 interconnected engineering domains across the SDV V-cycle, from requirements to release \n- Early pilots indicate 30\u201340% additional enginee"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-23",
+    "topic": "ai_agents",
+    "title": "Parallel AI Agents: Introducing Parallel Orchestrations | Overcut",
+    "url": "https://overcut.ai/blog/parallel-orchestrations/",
+    "snippet": "Yuval Hazaz\u00b7 Nov 22, 2026\u00b7 8 min read Share\n\nA real project moves on several fronts at once, and someone keeps those fronts on one plan. They decide what can start next, notice when one part stalls, and make sure the pieces still fit together at the end. Our orchestrations carried one process at a time. Give one a ticket and it plans, implements, reviews and verifies, with a supervisor deciding ea"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-23",
+    "topic": "ai_small_business",
+    "title": "AI Automation for Small Business: A Practical Guide to Getting Started - DEV Community",
+    "url": "https://dev.to/manadgertech/ai-automation-for-small-business-a-practical-guide-to-getting-started-53ag",
+    "snippet": "Manadger Tech\nPosted on Nov 22 \u2022 Originally published at manadgertech-ai.blogspot.com \u2022 Fully Autonomous\n# AI Automation for Small Business: A Practical Guide to Getting Started\nArtificial intelligence is no longer a technology reserved for large enterprises with big budgets. Cloud platforms, open APIs, and no-code tools have brought **AI automation for small business** within reach of almost any "
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-23",
+    "topic": "ai_small_business",
+    "title": "Toronto engineer opens Leonyx AI to help local firms get found",
+    "url": "https://www.openpr.com/news/4695785/toronto-engineer-opens-leonyx-ai-to-help-local-firms-get-found",
+    "snippet": "# Toronto engineer opens Leonyx AI to help local firms get found and pick up every call\n11-23-2026 11:03 AM CET | Advertising, Media Consulting, Marketing Research\n## Press release from: Leonyx AI\nLeonyx AI logo. Leonyx AI is a Toronto-area SEO and AI receptionist agency founded by Laith Nasrallah.\nMississauga, Ontario, November 20, 2026.\nKey takeaway: small firms in the GTA now have a new option "
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-23",
+    "topic": "ai_small_business",
+    "title": "Endless Staff Launches as the AI Employee Staffing Agency for Small Businesses -- Endless Staff | PRLog",
+    "url": "https://www.prlog.org/13185021-endless-staff-launches-as-the-ai-employee-staffing-agency-for-small-businesses.html",
+    "snippet": "# Endless Staff Launches as the AI Employee Staffing Agency for Small Businesses\n\nLos Angeles company trains and onboards AI employees for sales, marketing, recruiting, operations, finance and admin, starting in 48 hours\n\nBy: Endless Staff\n\nLaunch\n\nLOS ANGELES - Nov. 23, 2026 - PRLog -- Endless Staff (EndlessStaff.com)\n\n today launched as an AI Employee Staffing Agency. Instead of placing people, "
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-23",
+    "topic": "ai_small_business",
+    "title": "Zakham.ai Launches Bilingual AI Workspace for Small Businesses and Solopreneurs in the Middle East - EIN Presswire",
+    "url": "https://www.einnews.com/pr_news/958352823/zakham-ai-launches-bilingual-ai-workspace-for-small-businesses-and-solopreneurs-in-the-middle-east",
+    "snippet": "# Zakham.ai Launches Bilingual AI Workspace for Small Businesses and Solopreneurs in the Middle East\n\nNews Provided By SpinTheory L.L.C-FZ November 23, 2026, 04:30 GMT \n\nYour business in motion. zakham.ai works with Gmail, Outlook, Teams, Zoho and more, so nothing slips.\n\nDubai-based SpinTheory L.L.C-FZ introduces a platform that integrates communications, leads, clients, operations and invoices i"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-23",
+    "topic": "ai_labs",
+    "title": "Perplexity and Intelligence | OpenAI",
+    "url": "https://openai.com/index/perplexity-and-intelligence/",
+    "snippet": "November 22, 2026\n\n# Perplexity and Intelligence\n\nBy Jakub Pachocki, Chief Scientist at OpenAI\n\nFrom afar, it might seem like modern AI is built similarly to how software has been built in previous decades: with a diverse set of techniques targeting specific capabilities. There are indeed a variety of methods, but rather than designing something from scratch, they are mostly harnessing the intelli"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-23",
+    "topic": "ai_labs",
+    "title": "Momentum: Deepening Google\u2019s commitment to India\u2019s startups",
+    "url": "https://blog.google/intl/en-in/company-news/momentum-deepening-googles-commitment-to-indias-startups/",
+    "snippet": "# Momentum: Deepening Google\u2019s commitment to India\u2019s startups\n\n23 Nov, 2026\n\n As India\u2019s startup ecosystem enters its next phase, Google is bringing more of its technology, expertise, platforms and global reach together to help founders build stronger products, find customers and scale. \n\nGoogle India Team\n\n \n\nDeepening Google\u2019s commitment to startups\n\nIndia\u2019s startup ecosystem is entering a new p"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-23",
+    "topic": "ai_labs",
+    "title": "GPT\u20116 Cyber: \u0909\u0926\u094d\u0926\u0947\u0936\u093e\u0902\u0936\u0940 \u0938\u0941\u0938\u0902\u0917\u0924 \u0938\u093e\u092f\u092c\u0930\u0938\u0941\u0930\u0915\u094d\u0937\u093e \u090f\u091c\u0902\u091f\u091a\u0940 \u0928\u0935\u0940 \u091d\u0947\u092a | OpenAI",
+    "url": "https://openai.com/mr-IN/index/introducing-gpt-6-cyber/",
+    "snippet": "\u096b \u0928\u094b\u0935\u094d\u0939\u0947\u0902\u092c\u0930, \u0968\u0966\u0968\u096c\n\n# GPT\u20116 Cyber: \u0909\u0926\u094d\u0926\u0947\u0936\u093e\u0902\u0936\u0940 \u0938\u0941\u0938\u0902\u0917\u0924 \u0938\u093e\u092f\u092c\u0930\u0938\u0941\u0930\u0915\u094d\u0937\u093e \u090f\u091c\u0902\u091f\u091a\u0940 \u0928\u0935\u0940 \u091d\u0947\u092a\n\n\u0938\u0902\u0936\u094b\u0927\u0915\u093e\u0902\u0928\u0940 \u0920\u0930\u0935\u0932\u0947\u0932\u094d\u092f\u093e \u0915\u093e\u0930\u094d\u092f\u0915\u0915\u094d\u0937\u0947\u0924 \u0930\u093e\u0939\u0942\u0928 \u0939\u0932\u094d\u0932\u094d\u092f\u093e\u0938\u093e\u0920\u0940 \u0935\u093e\u092a\u0930\u0924\u093e \u092f\u0947\u0923\u093e\u0931\u094d\u092f\u093e \u0905\u0938\u0941\u0930\u0915\u094d\u0937\u093f\u0924\u0924\u093e \u0936\u094b\u0927\u0923\u094d\u092f\u093e\u0938 \u0906\u0923\u093f \u092a\u0921\u0924\u093e\u0933\u0923\u094d\u092f\u093e\u0938 \u092a\u094d\u0930\u0936\u093f\u0915\u094d\u0937\u093f\u0924 \u0938\u093e\u092f\u092c\u0930\u0938\u0941\u0930\u0915\u094d\u0937\u093e \u092e\u0949\u0921\u0947\u0932.\n\n\u0906\u092e\u094d\u0939\u0940 GPT\u20116 Cyber \u0938\u093e\u0926\u0930 \u0915\u0930\u0924 \u0906\u0939\u094b\u0924. \u0938\u0941\u0930\u0915\u094d\u0937\u093e \u0938\u0902\u0936\u094b\u0927\u0928\u093e\u0924\u0940\u0932 \u0939\u0940 \u092e\u094b\u0920\u0940 \u091d\u0947\u092a \u0906\u0939\u0947: \u0905\u0938\u0941\u0930\u0915\u094d\u0937\u093f\u0924\u0924\u093e \u0936\u094b\u0927\u0923\u094d\u092f\u093e\u0924 \u0906\u0923\u093f \u0926\u0941\u0930\u0941\u0938\u094d\u0924 \u0915\u0930\u0923\u094d\u092f\u093e\u0924 \u0905\u0927\u093f\u0915 \u0938\u0915\u094d\u0937\u092e, \u0924\u0938\u0947\u091a \u0938\u0902\u0936\u094b\u0927\u0915\u093e\u0902\u0928\u0940 \u0920\u0930\u0935\u0932\u0947\u0932\u094d\u092f\u093e \u092e\u0930\u094d\u092f\u093e\u0926\u093e\u0902\u091a\u0947 \u092a\u093e\u0932\u0928 \u0915\u0930\u0923\u094d\u092f\u093e\u0924 \u0916\u0942\u092a\u091a \u0905\u0927\u093f\u0915 \u0935\u093f"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-23",
+    "topic": "ai_labs",
+    "title": "Anthropic Claude Opus 5.5 swarm scales better than GPT-6.2\u2026 | TLDR",
+    "url": "https://tldr.tech/story/f9e407ac-9c50-48fd-a295-a5be5717ff7f",
+    "snippet": "# Anthropic Claude Opus 5.5 swarm scales better than GPT-6.2 Astra\n\nEarly research found multi-agent systems often trailed a single agent once coordination costs were accounted for. On NumPy, one Claude Opus 5.5 agent made the workloads 3.7\u00d7 faster in two hours, while a swarm of 32 Opus agents reached 18.9\u00d7. Read in full here: Replit Engineering \u2013 19 Nov 26 Throwing Headcount at the Problem Early "
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-23",
+    "topic": "ai_labs",
+    "title": "OpenAI \u0928\u094d\u092f\u0942\u091c | OpenAI",
+    "url": "https://openai.com/mr-IN/news/",
+    "snippet": "## \u0938\u0930\u094d\u0935\n\n\u092e\u0940\u0921\u093f\u092f\u093e \u0932\u092a\u0935\u093f\u0923\u094d\u092f\u093e\u0938\u093e\u0920\u0940 \u0915\u093e\u0930\u094d\u0921\u0947 \u0938\u094d\u0935\u093f\u091a \u0915\u0930\u093e\n\n\u0930\u093f\u0938\u0930\u094d\u091a\u0968\u0968 \u0928\u094b\u0935\u094d\u0939\u0947\u0902\u092c\u0930, \u0968\u0966\u0968\u096c\n\nMedChemBench: \u0914\u0937\u0927\u0940\u092f \u0930\u0938\u093e\u092f\u0928\u0936\u093e\u0938\u094d\u0924\u094d\u0930\u093e\u0938\u093e\u0920\u0940 AI \u092e\u0942\u0932\u094d\u092f\u092e\u093e\u092a\u0928\n\n\u0930\u093f\u0938\u0930\u094d\u091a\u0968\u0966 \u0928\u094b\u0935\u094d\u0939\u0947\u0902\u092c\u0930, \u0968\u0966\u0968\u096c\n\n\u0907\u0902\u091c\u093f\u0928\u093f\u0905\u0930\u093f\u0902\u0917\u0967\u096f \u0928\u094b\u0935\u094d\u0939\u0947\u0902\u092c\u0930, \u0968\u0966\u0968\u096c\n\nResearch acceleration: The jagged frontier\n\n\u0930\u093f\u0938\u0930\u094d\u091a\u0967\u096e \u0928\u094b\u0935\u094d\u0939\u0947\u0902\u092c\u0930, \u0968\u0966\u0968\u096c\n\n\u0907\u0902\u091c\u093f\u0928\u093f\u0905\u0930\u093f\u0902\u0917\u0967\u096e \u0928\u094b\u0935\u094d\u0939\u0947\u0902\u092c\u0930, \u0968\u0966\u0968\u096c\n\n\u0905\u0924\u094d\u092f\u093e\u0927\u0941\u0928\u093f\u0915 AI \u091c\u094b\u0916\u0940\u092e \u0935\u094d\u092f\u0935\u0938\u094d\u0925\u093e\u092a\u0928: \u092a\u094d\u0930\u0936\u093f\u0915\u094d\u0937\u0923\u093e\u092a\u093e\u0938\u0942\u0928 \u0921\u093f\u092a\u094d\u0932\u0949\u092f\u092e\u0947\u0902\u091f\u092a\u0930\u094d\u092f\u0902\u0924\n\n\u0938\u0941\u0930\u0915\u094d\u0937\u093f\u0924\u0924\u093e\u0967\u096e \u0928\u094b\u0935\u094d\u0939\u0947\u0902\u092c\u0930, \u0968\u0966\u0968\u096c"
   }
 ]
