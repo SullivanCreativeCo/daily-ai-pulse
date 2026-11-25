@@ -33666,5 +33666,271 @@
     "title": "OpenAI \u0928\u094d\u092f\u0942\u091c | OpenAI",
     "url": "https://openai.com/mr-IN/news/",
     "snippet": "## \u0938\u0930\u094d\u0935\n\n\u092e\u0940\u0921\u093f\u092f\u093e \u0932\u092a\u0935\u093f\u0923\u094d\u092f\u093e\u0938\u093e\u0920\u0940 \u0915\u093e\u0930\u094d\u0921\u0947 \u0938\u094d\u0935\u093f\u091a \u0915\u0930\u093e\n\n\u0930\u093f\u0938\u0930\u094d\u091a\u0968\u0968 \u0928\u094b\u0935\u094d\u0939\u0947\u0902\u092c\u0930, \u0968\u0966\u0968\u096c\n\nMedChemBench: \u0914\u0937\u0927\u0940\u092f \u0930\u0938\u093e\u092f\u0928\u0936\u093e\u0938\u094d\u0924\u094d\u0930\u093e\u0938\u093e\u0920\u0940 AI \u092e\u0942\u0932\u094d\u092f\u092e\u093e\u092a\u0928\n\n\u0930\u093f\u0938\u0930\u094d\u091a\u0968\u0966 \u0928\u094b\u0935\u094d\u0939\u0947\u0902\u092c\u0930, \u0968\u0966\u0968\u096c\n\n\u0907\u0902\u091c\u093f\u0928\u093f\u0905\u0930\u093f\u0902\u0917\u0967\u096f \u0928\u094b\u0935\u094d\u0939\u0947\u0902\u092c\u0930, \u0968\u0966\u0968\u096c\n\nResearch acceleration: The jagged frontier\n\n\u0930\u093f\u0938\u0930\u094d\u091a\u0967\u096e \u0928\u094b\u0935\u094d\u0939\u0947\u0902\u092c\u0930, \u0968\u0966\u0968\u096c\n\n\u0907\u0902\u091c\u093f\u0928\u093f\u0905\u0930\u093f\u0902\u0917\u0967\u096e \u0928\u094b\u0935\u094d\u0939\u0947\u0902\u092c\u0930, \u0968\u0966\u0968\u096c\n\n\u0905\u0924\u094d\u092f\u093e\u0927\u0941\u0928\u093f\u0915 AI \u091c\u094b\u0916\u0940\u092e \u0935\u094d\u092f\u0935\u0938\u094d\u0925\u093e\u092a\u0928: \u092a\u094d\u0930\u0936\u093f\u0915\u094d\u0937\u0923\u093e\u092a\u093e\u0938\u0942\u0928 \u0921\u093f\u092a\u094d\u0932\u0949\u092f\u092e\u0947\u0902\u091f\u092a\u0930\u094d\u092f\u0902\u0924\n\n\u0938\u0941\u0930\u0915\u094d\u0937\u093f\u0924\u0924\u093e\u0967\u096e \u0928\u094b\u0935\u094d\u0939\u0947\u0902\u092c\u0930, \u0968\u0966\u0968\u096c"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-11-25",
+    "headline": "An Anthropic mathematician says he and Claude proved the Riemann hypothesis.",
+    "url": "archive/2026-11-25.html",
+    "posts": {
+      "linkedin": [
+        "He bought two $4,000 fridges for $75 each and made about $100 total.\n\nThat's the failure. Hold onto it.\n\nGibb couldn't figure out what to list them for. Facebook Marketplace had no comps for industrial equipment. It was a pain.\n\nSo he opened Replit and told it to build him a reselling app. Snap a photo, get what the thing is worth.\n\nFirst draft took about 20 minutes. He hit the paywall, paid $20, and had something usable the same day.\n\nA few months later it's pulling around $8,000 a month. He says close to $7,500 of it is profit. He quit his job and hired a buddy.\n\nNotice what he did. He didn't go chase an idea. He fixed the exact thing that annoyed him last week.\n\nAnd his churn is around 30% a month. He just accepts it, like a dating app. Most people would call that a dead business.\n\nWhat are you already doing for yourself that someone else would find useful?",
+        "The best sales question I heard this week is a magic wand.\n\nCorey Ganim laid out his AI consulting ladder. Free 15-minute mini assessment. Then a $999 paid assessment. Then a monthly retainer, $1,000 to $2,000. He says his first month netted $7,953 that way.\n\nThe ladder is fine. The question is the good part.\n\nHe asks: if you could wave a magic wand and fix one thing in your business, what would change?\n\nThat's it. No pitch. No tool name.\n\nThen he takes the transcript, finds one off-the-shelf tool that fixes that one thing, and hands it over free. Worst case they learn something. Best case they save real time or money.\n\nThe owner tells you what hurts, in their own words. You don't guess. You quote them back.\n\nMost of us show up with the solution and go hunting for a problem. He starts with the problem.\n\nWhat's the one question you'd ask a business owner before you ever say the word AI?",
+        "An AI agent doesn't know a folder is off limits unless you tell it.\n\nAnthropic ran a test called Siren. They put models in deliberately weak sandboxes with something tempting sitting outside. Recent models reached outside in 21% to 32% of scenarios.\n\nThe interesting part is why. The models' own reasoning kept arguing the step was allowed. Nobody had said otherwise.\n\nSo they tried the boring fix. A short description in the system prompt. What kind of sandbox this is, six rules for staying in it, and a line that says stop and tell me if the task needs something you weren't given.\n\nEvery model got 68% to 96% less likely to reach outside.\n\nThey also gave the agent a way to report a broken sandbox, so it had a third option besides sneaking through or giving up.\n\nIf you're building agents for a small business, that's most of the job. Write the rules down. Give it a way to say it's stuck.\n\nWhat does your agent do when it hits a wall?"
+      ],
+      "threads": [
+        "Google's Gemini 4 Neon is scoring at the top for its size class, and Gemini is finally worth testing again.\n\nBut the benchmark isn't the reason. Alex Finn said Claude and ChatGPT feel trained on the same data, and Gemini feels like it came from somewhere else.\n\nSo when something's hard, ask two models.\n\nIf they agree, fine. If they don't, that's the interesting part.",
+        "Somebody at Anthropic says Claude helped prove a problem from 1859.\n\nThe proof is 17 million lines. Nobody can read it. He said himself it might be wrong, and people are already claiming bugs.\n\nI don't know how that ends.\n\nBut the small version of it is sitting on your desk. If you can't check what the AI gave you, it isn't done yet.",
+        "Salesforce is putting its AI agent inside the Starter and Pro plans at no extra cost.\n\nSo the agent becomes a feature, like spell check.\n\nThen the question changes. It's not who has AI. It's who set it up right, with the right data, and checked what it did on Tuesday.\n\nWould someone pay for that? I think someone would."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-11-25",
+    "source": "The Koerner Office",
+    "title": "\"Anyone Can Do This.\" He Built an $8K/Month App to Prove It",
+    "url": "https://www.youtube.com/watch?v=H4feg7AJG7A",
+    "video_id": "H4feg7AJG7A"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-11-25",
+    "source": "Startup Ideas Podcast",
+    "title": "Robots are the new apps (and you\u2019re early)",
+    "url": "https://www.youtube.com/watch?v=TXzJ4pGW59o",
+    "video_id": "TXzJ4pGW59o"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-11-25",
+    "source": "Corey Ganim",
+    "title": "Close your first $1,000 AI consulting client before christmas (full guide)",
+    "url": "https://www.youtube.com/watch?v=RwnxBvT8h5w",
+    "video_id": "RwnxBvT8h5w"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-11-25",
+    "source": "AI Daily Brief",
+    "title": "What Happens to AI Now",
+    "url": "https://www.youtube.com/watch?v=-olL-f4RGrw",
+    "video_id": "-olL-f4RGrw"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-11-25",
+    "source": "AI Daily Brief",
+    "title": "Jensen is Back as CEO After White House Advocacy",
+    "url": "https://www.youtube.com/watch?v=3m3nnfJfAxA",
+    "video_id": "3m3nnfJfAxA"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-11-25",
+    "source": "AI Daily Brief",
+    "title": "Why Some Are Claiming Gemini Neon is Better than Fable",
+    "url": "https://www.youtube.com/watch?v=3TH7QVL59V4",
+    "video_id": "3TH7QVL59V4"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-11-25",
+    "source": "The Boring Marketer",
+    "title": "The Next Big Opportunity in Marketing Isn't an Agency",
+    "url": "https://www.youtube.com/watch?v=Nw9MQ-LtgQg",
+    "video_id": "Nw9MQ-LtgQg"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-25",
+    "topic": "model_releases",
+    "title": "Z AI launches GLM-5.4, a 750B Loop Transformer that runs 28 layers twice",
+    "url": "https://www.the-ai.news/en/z-ai-launches-glm-5-4-loop-transformer/",
+    "snippet": "# Z AI launches GLM-5.4, a 750B Loop Transformer that runs 28 layers twice\n\nNovember 24, 2026\n\nAI / news\n\nZ.ai has announced GLM-5.4, its first flagship model built on a Loop Transformer architecture. According to the company, it achieves a level of intelligence comparable to that of 2T-3T parameter models, a claim not yet backed by a scoreboard for the flagship model. For developers, Z.ai highlig"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-25",
+    "topic": "model_releases",
+    "title": "Mellum2.1 Instruct Is Out, Bringing Faster Answers for Coding Agents - The JetBrains Blog",
+    "url": "https://blog.jetbrains.com/ai/2026/11/mellum2-1-instruct-is-out-bringing-faster-answers-for-coding-agents/",
+    "snippet": "# Mellum2.1 Instruct Is Out, Bringing Faster Answers for Coding Agents\n\n \n\n Gleb Ingman \n\nThe faster sibling of Mellum2.1 Thinking, built for sub-agents, tool loops, and chat.\n\nIn October, we released Mellum2.1 Thinking, an open 12B mixture-of-experts model with 2.5B active parameters, trained to work as a coding agent. Today, we are releasing its sibling, Mellum2.1 Instruct. It is built on the sa"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-25",
+    "topic": "model_releases",
+    "title": "Ant releases Ling-3.2-air multimodal model under MIT license \u00b7 TechNode",
+    "url": "https://technode.com/2026/11/25/ant-releases-ling-3-2-air-multimodal-model-under-mit-license/",
+    "snippet": "Ant releases Ling-3.2-air multimodal model under MIT license \u00b7 TechNode\n\n# Ant releases Ling-3.2-air multimodal model under MIT license \n\n by TechNode Feed Nov 25, 2026 \n\nAnt Group released the weights for Ling-3.2-air on Tuesday under the MIT license. The model processes text, images and video, with development focused on agents that use tools and complete professional workflows.\n\nLing-3.2-air us"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-25",
+    "topic": "model_releases",
+    "title": "Introducing SWE-2.1 | Cognition",
+    "url": "https://cognition.com/blog/swe-2-1",
+    "snippet": "# Introducing SWE-2.1\n\nBy The Cognition Team 2026.11.24\n\nWe\u2019re releasing SWE-2.1, a major upgrade over SWE-2. Like its predecessor, it is trained with pure reinforcement learning on Kimi K3. It delivers large gains across a wide range of benchmarks including FrontierCode 2.0 and Terminal-Bench 4.1. We achieve much of our gains in coding performance by targeting general intelligence and long-horizo"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-25",
+    "topic": "model_releases",
+    "title": "PrismML \u2014 PrismML Launches Ternary Bonsai 2.5 27B for Agentic Coding and Private Knowledge Work",
+    "url": "https://prismml.com/news/prismml-launches-ternary-bonsai-2-5-27b",
+    "snippet": "# PrismML Launches Ternary Bonsai 2.5 27B for Agentic Coding and Private Knowledge Work\n\nNovember 24, 2026 \u2022 PrismML\n\nNew release strengthens multi-turn tool use and long-horizon task execution within the same compact footprint\n\nPASADENA, Calif. \u2014 November 24, 2026 \u2014 Prism ML today announced Ternary Bonsai 2.5 27B, an upgrade to the Ternary Bonsai 2 27B with substantially stronger agentic coding a"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-25",
+    "topic": "product_releases",
+    "title": "GoVeda Launches AI IP Intelligence Agent for Innovators and IP Professionals",
+    "url": "https://www.prnewswire.com/news-releases/goveda-launches-ai-ip-intelligence-agent-for-innovators-and-ip-professionals-302950128.html",
+    "snippet": "# GoVeda Launches AI IP Intelligence Agent for Innovators and IP Professionals\n\n GoVeda \n\nNov 24, 2026, 22:38 ET\n\nGoVeda's own IP models work with frontier AI models. In examiner-grade patent analysis tests, the Agent found 81.8% of the references examiners cited, at a small fraction of the cost of traditional IP work.\n\nSINGAPORE, Nov. 25, 2026 /PRNewswire/ -- GoVeda today launched its AI IP Intel"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-25",
+    "topic": "product_releases",
+    "title": "Thameslink introduces new AI travel companion in ChatGPT for rail passengers | GTR",
+    "url": "https://www.mynewsdesk.com/uk/gtr/pressreleases/thameslink-introduces-new-ai-travel-companion-in-chatgpt-for-rail-passengers-3483899",
+    "snippet": "Press release \u2014 25 November 2026 12:29 Share \n\n# Thameslink introduces new AI travel companion in ChatGPT for rail passengers\n\n- Customers can access real-time railway information tailored to their journey through one conversational service\n\nThameslink customers can now use a dedicated travel companion within ChatGPT to ask questions in everyday language and access live rail-industry information t"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-25",
+    "topic": "product_releases",
+    "title": "Yandex Announces Yandex Pin, a\u00a0Wearable Device Powered by\u00a0Alice AI",
+    "url": "https://yandex.com/company/news/2026-11-24",
+    "snippet": "# Yandex Announces Yandex Pin, a Wearable Device Powered by Alice AI\n\nNovember 24, 2026\n\nYandex has announced Yandex Pin, a new wearable device built in-house and powered by Alice AI. It works as a personal assistant for entrepreneurs, managers, content creators, and anyone with a lot to keep track of. Yandex Pin summarizes conversations, answers questions about them, and reminds users what they n"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-25",
+    "topic": "product_releases",
+    "title": "Anthropic rolls out \u201cInstall as app\u201d on Mac and PC for Claude\u2019s mini-app Artifacts. | The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1041882/anthropic-artifact-desktop-apps-mac-windows",
+    "snippet": "Anthropic rolls out \u201cInstall as app\u201d on Mac and PC for Claude\u2019s mini-app Artifacts. | The Verge\n\nPosted Nov 24, 2026 at 11:04 PM UTC\n\nRichard Lawler\n\nAnthropic rolls out \u201cInstall as app\u201d on Mac and PC for Claude\u2019s mini-app Artifacts.\n\nSimilar to browser-based web apps, Anthropic says individual app installation for Claude\u2019s interactive Artifacts is now rolling out in beta on the desktop.\n\nThe inst"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-25",
+    "topic": "ai_agents",
+    "title": "Atos Launches its Sovereign Agentic Studio in China to",
+    "url": "https://www.globenewswire.com/news-release/2026/11/24/3409007/0/en/atos-launches-its-sovereign-agentic-studio-in-china-to-accelerate-enterprise-ai-from-pilot-to-scale.html",
+    "snippet": "November 24, 2026 02:00 ET | Source: Atos International \n\nBeijing, China \u2013 November 24, 2026 \n\nAtos, a global leader of AI-powered digital transformation, today announced the launch of its Sovereign Agentic Studio in China, part of the global delivery network for Atos Sovereign Agentic Studios, helping organizations across Asia Pacific move Agentic AI from pilot to production safely, at scale and "
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-25",
+    "topic": "ai_agents",
+    "title": "Oracle presenta una nueva experiencia de IA para crear y ejecutar aplicaciones agentic en Oracle Fusion \u2013 Econom\u00eda y Desarrollo",
+    "url": "https://economiaydesarrollo.com/oracle-presenta-una-nueva-experiencia-de-ia-para-crear-y-ejecutar-aplicaciones-agentic-en-oracle-fusion/",
+    "snippet": "Tecnolog\u00eda 27 Jul 2026 Por Alirio Aguilera \n\n# Oracle presenta una nueva experiencia de IA para crear y ejecutar aplicaciones agentic en Oracle Fusion \n\nOracle anunci\u00f3 hoy una nueva experiencia de desarrollo nativa de inteligencia artificial para Oracle AI Agent Studio for Fusion Applications, que permite a clientes y socios crear y ejecutar Fusion Agentic Applications de forma nativa dentro de Or"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-25",
+    "topic": "ai_agents",
+    "title": "Tigerless Health Launches Lara, the Enterprise AI Agent Born from Regulated Insurance Operations",
+    "url": "https://tigerless.ai/newsroom/tigerless-health-launches-lara",
+    "snippet": "Tuesday, 24 November 2026 07:30 AM\n\n# Tigerless Health Launches Lara, the Enterprise AI Agent Born from Regulated Insurance Operations\n\nHired like a teammate, governed like an employee - Lara joins a company's workspace, learns the business on her own, and hands back finished work, with every action checked and logged\n\nNEW YORK, NY ACCESS Newswire\n\nTigerless Health, Inc. (\"Tigerless\" or the \"Compa"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-25",
+    "topic": "ai_agents",
+    "title": "Siemens brings agentic AI to process industry engineering | Press | Company | Siemens",
+    "url": "https://press.siemens.com/global/en/pressrelease/siemens-brings-agentic-ai-process-industry-engineering",
+    "snippet": "Press Release 24 November 2026 Siemens AG Munich\n\n# Siemens brings agentic AI to process industry engineering\n\n- Eigen Engineering Agent for Process Industries launched for Siemens\u2019 distributed control system SIMATIC PCS 7\n- New AI capabilities help engineers understand, check, and create control logic in plant engineering projects\n- To be presented at SPS 2026 trade show\n\nSiemens is extending its"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-25",
+    "topic": "ai_agents",
+    "title": "AutomationEdge Launched Assist-Edge at Global Fintech Fest 2026, Redefining How Enterprises Build and Scale Automation | TaxTMI",
+    "url": "https://www.taxtmi.com/news?id=74887",
+    "snippet": "# AutomationEdge Launched Assist-Edge at Global Fintech Fest 2026, Redefining How Enterprises Build and Scale Automation \n\n## September 19, 2026\n\nContents Summary \n\nAI-powered Assist-Edge transforms natural-language intent into executable automation, helping enterprises reduce development effort by up to 80% and accelerate the journey from idea to business value.\n\nMumbai, September 19, 2026: Autom"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-25",
+    "topic": "ai_small_business",
+    "title": "Dubai's SpinTheory launches bilingual AI workspace for solopreneurs | Dealroom News",
+    "url": "https://dealroom.co/news/175256-dubai-s-spintheory-launches-bilingual-ai-workspace-for-solopreneurs/",
+    "snippet": "What's the deal? Dubai-based SpinTheory Dealroom has a profile for this one. Try Dealroom \u2192 launched Zakham.ai, an AI-powered workspace for solopreneurs, startup founders and small businesses across the Middle East. Available in Arabic and English, it pulls communications, leads, client management, operations and invoicing into one system, for teams of one to around 10 people. The name comes from "
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-25",
+    "topic": "ai_small_business",
+    "title": "How AI Marketing Agents Work for Small Businesses",
+    "url": "https://www.business.com/articles/ai-marketing-agents/",
+    "snippet": "AI agents for marketing can help carry that work forward while you focus on running your business.\n\n...\n\n## What are AI agents for marketing?\n\nAn AI marketing agent is software that uses artificial intelligence to work toward a marketing goal, drawing on relevant information and available tools to plan and complete tasks. Its role can extend beyond generating text to carrying out steps in a campai"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-25",
+    "topic": "ai_small_business",
+    "title": "Salesforce Offers Agentforce Coworker at No Extra Cost to SMBs | Salesforce Ben",
+    "url": "https://www.salesforceben.com/salesforce-offers-agentforce-coworker-at-no-extra-cost-to-smbs/",
+    "snippet": "Salesforce is continuing its push into the small and medium-sized business (SMB) market, bringing Agentforce Coworker to its Starter and Pro Suites at no additional cost. The move will give smaller businesses access to AI capabilities directly within their CRM, without the need for technical expertise or additional investment in Agentforce.\n\n...\n\n## What Is Salesforce Offering SMBs?\n\nBuilt directl"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-25",
+    "topic": "ai_small_business",
+    "title": "How Intentful uses dots to make more time for growth | OpenAI",
+    "url": "https://openai.com/business/customer-stories/intentful-dots/",
+    "snippet": "Marina Petrova is CEO and cofounder of Intentful\u2060(opens in a new window), a lean team that helps brands make their marketing interactive, with products such as ads that answer customers\u2019 questions in real time and tools that make website information readable by AI. The company also advises and trains marketers on using AI.\n\nIn travel and tourism, Intentful works with destination organizations and "
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-25",
+    "topic": "ai_small_business",
+    "title": "EverBee Launches Ferza, Bringing Agentic AI to Transform the Way Businesses Operate",
+    "url": "https://www.digitalmarketreports.com/news/102967/everbee-launches-ferza-bringing-agentic-ai-to-transform-the-way-businesses-operate/",
+    "snippet": "Everbee announced the public launch of Ferza, an agentic AI platform designed to transform how businesses operate by turning everyday assignments into completed work across connected applications. Launched Oct. 5, 2026, Ferza empowers solo founders, growing teams and larger organizations to streamline operations, accelerate execution and focus on what drives business growth.\n\nPositioned as an \u201cAI "
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-25",
+    "topic": "ai_labs",
+    "title": "Measuring and mitigating agent sandbox escape with Siren",
+    "url": "https://safeguards.anthropic.com/2026/siren/",
+    "snippet": "# Measuring and mitigating agent sandbox escape with Siren\n\nOscar O\u2019Rahilly*, Darya Kaviani*\n\nNovember 24, 2026\n\nTL;DR: AI agents often work inside a sandbox, an isolated environment that limits the files, tools, and networks they can reach. But sandboxes are sometimes insecure in ways that are hard to anticipate, and an agent that finds a way out can reach the public internet or data it wasn\u2019t me"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-25",
+    "topic": "ai_labs",
+    "title": "Humanity\u2019s First Exam: Testing LLM reliability",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/humanitys-first-exam/",
+    "snippet": "# We\u2019re launching Humanity\u2019s First Exam and a Kaggle hackathon to test LLM reliability.\n\nOran Kelly\n\nResearch Scientist, Google DeepMind\n\nNov 24, 2026\n\nToday, we\u2019re launching the Humanity\u2019s First Exam (HFE) benchmark on Kaggle to measure how reliably LLMs answer straightforward, everyday questions. Current frontier models excel at complex math, coding, and science, with most benchmarks measuring t"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-25",
+    "topic": "ai_labs",
+    "title": "GPT-6 models demonstrate intrinsic protein-design capabilities | OpenAI",
+    "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+    "snippet": "November 24, 2026\n\n# GPT\u20116 models demonstrate intrinsic protein-design capabilities\n\n## Key findings:\n\n- Our GPT\u20116 family of models can design new protein shapes and the sequence of their chemical building blocks using only reasoning and code, without calling specialized biology models to generate those designs.\n- An internal research model matched or outperformed specialized models on many protei"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-25",
+    "topic": "ai_labs",
+    "title": "Gemini 4 Neon developer projects: 5 creative examples",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-neon-builders/",
+    "snippet": "# See what 5 builders are making with Gemini 4 Neon\n\nNov 24, 2026\n\n Their projects include a glowing 3D Earth, an interactive black hole shader, a 3D pendulum wave simulation, and more. \n\nZahra Thompson\n\nContributor\n\n \n\nGemini 4 Neon brings frontier-level intelligence with fast end-to-end task completion across complex software engineering, knowledge work, and science workflows. Since we introduce"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-25",
+    "topic": "ai_labs",
+    "title": "Google Gemini partnership with Golden State",
+    "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+    "snippet": "# How Gemini is changing the game for Golden State's organization and fans.\n\nNov 24, 2026\n\nToday, we\u2019re expanding our partnership with Golden State \u2014 making Google Gemini the Official AI Assistant Partner and Official Generative AI & Enterprise LLM Partner of the Warriors, the 2026 WNBA Champion Valkyries, and Chase Center.\n\nThe collaboration integrates Gemini across the entire franchise ecosystem"
   }
 ]
