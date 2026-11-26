@@ -33932,5 +33932,207 @@
     "title": "Google Gemini partnership with Golden State",
     "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
     "snippet": "# How Gemini is changing the game for Golden State's organization and fans.\n\nNov 24, 2026\n\nToday, we\u2019re expanding our partnership with Golden State \u2014 making Google Gemini the Official AI Assistant Partner and Official Generative AI & Enterprise LLM Partner of the Warriors, the 2026 WNBA Champion Valkyries, and Chase Center.\n\nThe collaboration integrates Gemini across the entire franchise ecosystem"
+  },
+  {
+    "kind": "digest",
+    "date": "2026-11-26",
+    "headline": "The how-to is starting to matter as much as the model.",
+    "url": "archive/2026-11-26.html",
+    "posts": {
+      "linkedin": [
+        "The way you do your job is worth writing down.\n\nTwo things happened this week that point the same direction. Anthropic is letting tool connections hand Claude the instructions along with the tools. And Google DeepMind gave a lightweight model a good set of chemistry skills, and it kept up with the big models on their test.\n\nSame idea both times. Good instructions carry a lot of weight.\n\nThink about the thing you keep re-explaining. How you quote a job. How you answer the \"do you have availability\" email. How you follow up after somebody goes quiet.\n\nRight now that lives in your head. So every time you want help, from a person or a model, you start from zero.\n\nWrite it down once. Plain words. The steps, the exceptions, the stuff you'd tell a new hire on day one.\n\nIf it's repeatable, it's a skill.\n\nAnd you don't need to be technical to write one. You just gotta know your own work, which you already do.\n\nWhat's the thing you've explained a dozen times and never typed out?",
+        "98% sounds like done. It wasn't even close.\n\nAnthropic just shared how they rebuilt their main API in a new programming language, with Claude doing a lot of the building. The first version of the core piece took about a week.\n\nIn April it was passing about 98% of its tests. Then they checked it against real traffic. Only about a quarter of inputs matched.\n\nWhy? Real people do weird stuff. One example was as small as how an emoji got written down. No big dramatic bug. Just a few bytes that were different.\n\nThey got there in the end. But the work was in the checking.\n\nThis matters even if you never touch code. Say you set up an AI to answer customer questions. You try five clean questions and it nails all five.\n\nThen a real customer sends three questions in one sentence, a typo, and a photo of their receipt.\n\nBuilding got fast. Knowing it works is still on you.\n\nWhat would your messiest customer message do to it?",
+        "Somebody at the table is gonna ask if AI is taking their job today.\n\nAnd if you're the \"AI person\" in the family, all eyes swing to you somewhere between the turkey and the pie.\n\nThe AI Daily Brief did a whole episode on this, and one idea stuck with me. Invite people in, even if they don't like it one bit.\n\nI like that a lot. Because the temptation is to win. Pull up a stat, talk fast, make Uncle whoever feel silly for being nervous.\n\nBut being nervous makes sense. Some jobs are gonna change. Some of that is gonna hurt. Pretending otherwise just tells people you aren't listening.\n\nSo maybe ask a question first. \"What part of your week do you wish you didn't have to do?\"\n\nNow you're talking about their life instead of a headline. You might even show them something on your phone that helps with it.\n\nWe're all just figuring this out as we go. That includes the person holding the gravy.\n\nWhat's the one AI question your family keeps asking you?"
+      ],
+      "threads": [
+        "Happy Thanksgiving to everybody about to explain AI to their family with a mouth full of rolls. You don't gotta have all the answers. \"I'm not sure, but here's what I've seen\" is a great answer. Way better than acting like you know where this whole thing lands. Nobody does. Let people be skeptical. Pass them the potatoes and keep talking.",
+        "Chris Koerner titled an episode \"I Hate QuickBooks So Much I Built My Own\" and I felt that in my spirit. Everybody has one of those. The app you grumble at every single week. That grumble is useful. Ask yourself, how would I fix this? Then ask if somebody else is grumbling about the same thing. Y'all, they probably are.",
+        "Google's Guided Vision just came to iPhone. Point your camera at something and Gemini describes it out loud. Small print on a package. The setting on your oven. What color that shirt is. It can make mistakes, so it's no stand-in for a cane or a guide dog. But for somebody who can't read that label? It's not about changing the whole world. It's about changing someone's world."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-11-26",
+    "source": "The Koerner Office",
+    "title": "I Hate QuickBooks So Much I Built My Own. Week One Results [NO ADS + EARLY ACCESS]",
+    "url": "https://www.youtube.com/watch?v=yWociLoUhkY",
+    "video_id": "yWociLoUhkY"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-11-26",
+    "source": "AI Daily Brief",
+    "title": "How to Talk About AI at Thanksgiving",
+    "url": "https://www.youtube.com/watch?v=9DrvWVeBZEM",
+    "video_id": "9DrvWVeBZEM"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-26",
+    "topic": "model_releases",
+    "title": "Harrison.ai Launches Harrison.Rad 2: A Unified Radiology Foundation Model - Harrison.ai",
+    "url": "https://harrison.ai/news/harrison-ai-launches-harrison-rad-2-a-unified-radiology-foundation-model/",
+    "snippet": "# Harrison.ai Launches Harrison.Rad 2: A Unified Radiology Foundation Model\n\nSYDNEY & BOSTON \u2014 25 November 2026: Global radiology AI leader Harrison.ai today announced a major step forward in its clinical AI ecosystem, introducing Harrison.Rad 2, a unified radiology foundation model that can draft clinical reports for 2D x-ray and 3D CT studies. It launches alongside FrontierOS, an agentic dictati"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-26",
+    "topic": "model_releases",
+    "title": "Microsoft previews Aion 1.0 Instruct, the next Windows SLM | AI Weekly",
+    "url": "https://aiweekly.co/alerts/microsoft-previews-aion-10-instruct-the-next-windows-slm",
+    "snippet": "# Microsoft previews Aion 1.0 Instruct, the next Windows SLM \n\n By Alexis Dufresne \u00b7 Published November 26, 2026 at 06:12 UTC \u00b7 Updated November 26, 2026 at 06:15 UTC \n\n## TL;DR\n\n- Microsoft is positioning Aion 1.0 Instruct as the successor to Phi Silica, slated to become the Windows OS SLM by the end of January 2027.\n- The 2.29B-parameter model ships MIT-licensed in bfloat16 with a 32,768-token c"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-26",
+    "topic": "model_releases",
+    "title": "Sakana AI Releases Namazu Small, a 30-Billion-Parameter Japanese Model Built to Run on Companies\u2019 Own Machines | AI4Japan",
+    "url": "https://ai4japan.com/en/news/sakana-ai-releases-namazu-small-a-30-billion-parameter-model-companies-can-run-on-their-own-machines/",
+    "snippet": "# Sakana AI Releases Namazu Small, a 30-Billion-Parameter Japanese Model Built to Run on Companies\u2019 Own Machines\n\nNovember 25, 2026 \u00b7 6 min read \u00b7 Models\n\nTokyo-based Sakana AI on November 25 released Sakana Namazu Small, a 30-billion-parameter large language model that the company says is small enough for businesses to run in their own environments. The model is built on the pretrained base of Nv"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-26",
+    "topic": "model_releases",
+    "title": "Press Release: Press Information Bureau",
+    "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2341725&lang=1&reg=3",
+    "snippet": "Press Release: Press Information Bureau \n\n## India AI Mission-supported Chariot-1 Foundation Models Launched, Strengthening India's Indigenous AI Capabilities \n\n### Developed in India through Indigenous Research, Chariot-1 Advances Multilingual Language Processing and Speech Generation with Innovations Tailored to India's Linguistic Diversity \n\n Posted On: 26 NOV 2026 11:23AM by PIB Delhi \n\nIn a s"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-26",
+    "topic": "product_releases",
+    "title": "DeepL introduces Aure v2, its fastest Voice AI translation model",
+    "url": "https://www.deepl.com/en/press-release/aure-v2",
+    "snippet": "# DeepL introduces Aure v2, its fastest Voice AI translation model\n\n2026-11-26\n\n- New model cuts translation delays in DeepL Voice by 50%, while improving accuracy and expressiveness \u2013 achieving higher translation quality than six competing systems evaluated in internal benchmarks\n- Breakthrough builds on strong global momentum for DeepL Voice, with total usage up 8x+ YOY and translated meeting mi"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-26",
+    "topic": "product_releases",
+    "title": "Google Gemini Live Guided Vision Rolls Out to iPhone Users | Technology News",
+    "url": "https://www.gadgets360.com/ai/news/google-gemini-live-guided-vision-ios-roll-out-12379552",
+    "snippet": "# Google Gemini Live Guided Vision Rolls Out to iPhone Users\n\nGoogle has not specified the iOS requirements or countries where Guided Vision is available.\n\n Written by Sucharita Ganguly, Edited by Rohan Pal | Updated: 26 November 2026 13:28 IST \n\n \n\nPhoto Credit: Google\n\nGuided Vision was first introduced on Android in October\n\nHighlights\n\n- Gemini Live can describe objects and surroundings throug"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-26",
+    "topic": "product_releases",
+    "title": "SurveySparrow Launches MCP Server for Claude and ChatGPT",
+    "url": "https://www.accessnewswire.com/newsroom/en/computers-technology-and-internet/surveysparrow-launches-mcp-to-bring-survey-building-distribution-1302209",
+    "snippet": "SurveySparrow Launches MCP Server for Claude and ChatGPT\n\n# SurveySparrow Launches MCP to Bring Survey Building, Distribution, And Insights Into Claude And ChatGPT\n\nThursday, 26 November 2026 03:00 AM\n\n#### Product Announcements\n\nTeams can now create, send, and manage surveys, including long and complex ones, without leaving the AI assistant they already work in.\n\nPALO ALTO, CA / ACCESS Newswire /"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-26",
+    "topic": "product_releases",
+    "title": "Concierto AI Is Now Live: Sovereign AI for Every Employee, Inside the Enterprise's Own Cloud or Data Center",
+    "url": "https://www.prnewswire.com/news-releases/concierto-ai-is-now-live-sovereign-ai-for-every-employee-inside-the-enterprises-own-cloud-or-data-center-302951168.html",
+    "snippet": "# Concierto AI Is Now Live: Sovereign AI for Every Employee, Inside the Enterprise's Own Cloud or Data Center\n\nNov 26, 2026, 05:14 ET\n\nTrianz expands Concierto, its proven enterprise transformation platform, into sovereign AI delivering sharper, safer, sustainable, and affordable AI deployed inside the customer's own network, with unlimited usage and no token-based pricing.\n\nLONDON, Nov. 26, 2026 "
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-26",
+    "topic": "product_releases",
+    "title": "Field IQ: We Don\u2019t Build Robots, We Unleash Superhumans",
+    "url": "https://eonreality.com/field-iq-launch/",
+    "snippet": "## EON AI Ventures launches Field IQ: point the phone you already carry at any machine, and Field IQ guides you, assists you and verifies that you are doing the right thing.\n\nIRVINE, CA \u2013 November 25, 2026 \u2014 EON AI Ventures, together with EON Reality, today launched Field IQ, an app that turns an ordinary phone into an expert at your side. Point the phone at a machine and hold still. Within second"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-26",
+    "topic": "ai_agents",
+    "title": "MCP servers can now deliver AI agent skills, changing what companies approve when they connect one | VentureBeat",
+    "url": "https://venturebeat.com/technology/mcp-servers-can-now-deliver-ai-agent-skills-changing-what-companies-approve-when-they-connect-one",
+    "snippet": "Anthropic is adding support for Skills over MCP in Claude and Claude Code in public beta, two years after introducing the Model Context Protocol (MCP).\n\nMCP servers give AI agents access to external tools and data. With the Skills over MCP extension, a server can also supply standardized, reusable workflow instructions with those tools. Developers can update the tools and guidance together, and us"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-26",
+    "topic": "ai_agents",
+    "title": "Pine Labs extends Agentic Org platform with Guide and Marketer Agent for India's SMBs",
+    "url": "https://www.pinelabs.com/media-analyst/pine-labs-extends-agentic-org-platform-with-guide-and-marketer-agent-for-indias-smbs",
+    "snippet": "November 25, 2026\n\nAI agents for business intelligence and marketing across digital and AI-powered platforms\n\nBengaluru, November 25, 2026 \u2013 Pine Labs today announced Guide and Marketer Agent, the first of a series of AI agents from its Agentic Org platform\u2014Pine Labs\u2019 AI infrastructure with built-in governance and human oversight at critical points. Integrated into Pine Labs One, the merchant oper"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-26",
+    "topic": "ai_agents",
+    "title": "EverBee Launches Ferza, Bringing Agentic AI to Transform the Way Businesses Operate | Markets Insider",
+    "url": "https://markets.businessinsider.com/news/stocks/everbee-launches-ferza-bringing-agentic-ai-to-transform-the-way-businesses-operate-1036797955",
+    "snippet": "Nov. 24, 2026, 09:54 PM\n\nFerza introduces a new era of intelligent business execution,\n\n...\n\nNew York, United States, November 25, 2026 -- Everbee announced the public launch of Ferza, an agentic AI platform designed to transform how businesses operate by turning everyday assignments into completed work across connected applications. Launched Oct. 5, 2026, Ferza empowers solo founders, growing tea"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-26",
+    "topic": "ai_small_business",
+    "title": "Best AI Tools for Startups: 5 Platforms Worth Considering",
+    "url": "https://cybernews.com/website-building/ai-tools-for-startups/",
+    "snippet": "## What to look for in the best AI tools for startups\n\nBefore I get into my top 5 tools, it\u2019s worth explaining how I judged them. During my initial research, I assessed the top-rated AI tools in 2026. Here are the key factors I considered when picking the best AI tools for small businesses and startups:\n\n1. Startup-friendly pricing (20%). This doesn\u2019t just mean cheap, but the overall value for mon"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-26",
+    "topic": "ai_small_business",
+    "title": "Best AI Agent Development Services for Small Business: What to Look For - DEV Community",
+    "url": "https://dev.to/sohel_ahmed_43118ea146970/best-ai-agent-development-services-for-small-business-what-to-look-for-398h",
+    "snippet": "The best AI agent development services build you an AI agent that actually does useful work \u2014 answering customers, booking appointments, following up leads, and updating your records \u2014 without a big team or a complicated setup. Choose the right service and you get a working agent in weeks, not months.\n\nAn AI agent is software that works for your business on its own: it reads a message, decides wha"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-26",
+    "topic": "ai_small_business",
+    "title": "How Small Businesses Can Use AI Agents To Compete With Big Budgets",
+    "url": "https://www.forbes.com/councils/forbesbusinesscouncil/2026/11/25/how-small-businesses-can-use-ai-agents-to-compete-with-big-budgets/",
+    "snippet": "## The Small Business Problem\n\nTo build a growth system like this the traditional way, you need a team: a marketing manager, a paid ads specialist, a sales manager, a funnel builder, an email and CRM specialist, a product manager, a copywriter, a designer and a partnerships manager.\n\nThat can cost tens of thousands of dollars a month, and that\u2019s before you\u2019ve spent a single dollar on marketing to "
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-26",
+    "topic": "ai_small_business",
+    "title": "Frontal Is Making the Case for a New Generation of AI-Native Agencies",
+    "url": "https://www.techtimes.com/articles/331500/20261125/frontal-making-case-new-generation-ai-native-agencies.htm",
+    "snippet": "Businesses have spent years investing in highly sophisticated sales and marketing technology, yet many still struggle to translate those investments into meaningful revenue. Their technology stacks have expanded, their access to data has improved, and automation has become far more accessible. The challenge now lies in making these systems work together. Frontal, an AI-native go-to-market agency f"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-26",
+    "topic": "ai_labs",
+    "title": "Identifying Molecules with Mass Spec Skills for Antigravity \u2014 Google DeepMind",
+    "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
+    "snippet": "November 25, 2026 Science\n\n# From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity\n\nRobert Brunck, Stefan Ganscha, Swaroop Guntupalli, Dariusz Lasecki, Gabriella Marfani, Jack Mason, Hussain Masoom, Rose Mirshafian, Eliseo Papa and Zoi Tsangalidou\n\nBuilt in collaboration with analytical chemists and using community-developed tools, Mass Spec Skills empowers"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-26",
+    "topic": "ai_labs",
+    "title": "Migrating our Messages API to Rust \\ Anthropic",
+    "url": "https://www.anthropic.com/research/migrating-api-to-rust",
+    "snippet": "# Migrating our Messages API to Rust\n\nNov 25, 2026\n\nMany problems have a generator\u2013verifier gap: it\u2019s often far easier to verify that a solution is correct than to come up with one. Sudoku is a classic example. It\u2019s simple to check the solution (just count the numbers in each row, column, and box), but finding that solution can take a long time. Many ambitious Claude projects have relied on this g"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-26",
+    "topic": "ai_labs",
+    "title": "Understanding ChatGPT and Codex usage limits | OpenAI Help Center",
+    "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits?silentLogin=done",
+    "snippet": "# Understanding ChatGPT and Codex usage limits\n\nLearn how ChatGPT and Codex share a usage allowance on Plus, Pro, and Business plans ,and what to do if you reach your limit.\n\nUpdated: 2 days ago\n\nStarting in December, Plus, Pro, and Business plans\u2019 usage allowance will be shared across ChatGPT and Codex as we bring the agentic capabilities of Work into the main ChatGPT experience.\n\nYour usage for "
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-26",
+    "topic": "ai_labs",
+    "title": "Google Research uses Gemini 4 Cogentic to prove integer\u2026 | TLDR",
+    "url": "https://tldr.tech/story/30a65f0b-bb54-437c-8be8-2462d67203e5",
+    "snippet": "# Google Research uses Gemini 4 Cogentic to prove integer factorization gap\n\nGoogle Research posted a paper claiming its multi-agent system Cogentic, built on Gemini 4, produced an automated proof closing a 34-year-old theoretical gap in integer factorization. According to Google, the randomized algorithm checks every prime factor deterministically to completely factor any integer N in expected ti"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-26",
+    "topic": "ai_labs",
+    "title": "Google releases Gemini 4 Hydrogen, Neon, Carbon compared | TLDR",
+    "url": "https://tldr.tech/story/9d2f058b-13df-47f4-a506-3ff8f8068dcf",
+    "snippet": "# Google releases Gemini 4 Hydrogen, Neon, Carbon compared\n\nPlotly tested Google's three new Gemini 4 models\u2014Carbon, Hydrogen, and Neon\u2014on a private data analysis benchmark, comparing them against each other and against tiers from Anthropic and OpenAI. The authors found that the everyday model, Gemini 4 Hydrogen, tied the middle tier (Neon) with a perfect accuracy score while running at roughly a "
   }
 ]
