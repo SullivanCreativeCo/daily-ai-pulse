@@ -34134,5 +34134,207 @@
     "title": "Google releases Gemini 4 Hydrogen, Neon, Carbon compared | TLDR",
     "url": "https://tldr.tech/story/9d2f058b-13df-47f4-a506-3ff8f8068dcf",
     "snippet": "# Google releases Gemini 4 Hydrogen, Neon, Carbon compared\n\nPlotly tested Google's three new Gemini 4 models\u2014Carbon, Hydrogen, and Neon\u2014on a private data analysis benchmark, comparing them against each other and against tiers from Anthropic and OpenAI. The authors found that the everyday model, Gemini 4 Hydrogen, tied the middle tier (Neon) with a perfect accuracy score while running at roughly a "
+  },
+  {
+    "kind": "digest",
+    "date": "2026-11-27",
+    "headline": "The companies that make your tools can now teach Claude how to use them.",
+    "url": "archive/2026-11-27.html",
+    "posts": {
+      "linkedin": [
+        "The best AI instructions are probably already in your head.\n\nThis week Anthropic made it so software companies can ship playbooks right alongside their tools. So Claude doesn't just get access. It gets the \"here's how we do this\" part too.\n\nThat's the part most of us skip.\n\nWe hand AI a task with zero context, get something bland back, and figure the tool isn't that smart. But you wouldn't hand a new hire your inbox and walk off.\n\nThink about how you quote a job. What you ask first. What you never promise. When you follow up, and how you say it without sounding desperate.\n\nYou do that every week. You've just never written it down.\n\nStart with one. Talk it out loud on your drive, clean it up, and give it to whatever AI you use.\n\nIf it's repeatable, it's a skill.\n\nWhat's the thing you keep re-explaining?",
+        "Your next idea might be sitting in somebody else's bad reviews.\n\nChris Koerner is taking a swing at QuickBooks with a product called Lazybooks. Before building, he had AI tools read through hundreds of reviews and tell him what people hated.\n\nTwo things kept coming up. Bank connections breaking, and a bill that kept climbing.\n\nThen he asked real business owners which features they couldn't live without. Reports came out on top. People wanted to know if they made money.\n\n663 signups in the first eight days. Revenue so far is zero, because the first 60 days are free. He said that part out loud, which I appreciate. And he had an audience to launch to, so keep that in mind.\n\nThe research move still works at any size. Pick the tool your industry complains about. Read the complaints. Find the one that shows up over and over.\n\nWould someone pay for a simpler version of that? I think someone would pay for that.",
+        "Give AI the paperwork before you give it your first impression.\n\nI was reading about Makena Finger Zannini, who runs a company called The Boutique COO. Her team built AI tools for the stuff around selling. Outreach, proposals, follow-ups, scheduling.\n\nShe says the admin time dropped to nearly zero, so the sales team spends that time on actual people.\n\nThen they tried AI for decks and flyers. Underwhelming. People could tell, and it didn't sound like them.\n\nI love that she said both.\n\nBecause the reason to use this stuff isn't to crank out more stuff. It's to get your hours back for the part only you can do. The coffee. The phone call. Remembering their kid had a game on Friday.\n\nDo more with the same, not the same with less.\n\nIf you got five hours back this week, who would you spend them on?"
+      ],
+      "threads": [
+        "AI can now stop and ask before it does something you can't take back.\n\nAnthropic opened that up for the tools Claude connects to. Spending money, deleting stuff, that kind of thing.\n\nNot the flashiest news. But it's the part that lets a normal business owner relax a little. I don't need a robot that's fearless. I need one that says \"hey, you sure?\" before the database disappears.",
+        "People can put up with expensive.\n\nWhat gets under their skin is the bill that keeps creeping up.\n\nThat's what Chris Koerner found digging through QuickBooks complaints, and he built a whole product around it.\n\nEvery industry has one of these. The software everybody pays for and grumbles about at lunch. Next time somebody starts grumbling, I'd lean in and ask what exactly bugs them. That answer is worth writing down.",
+        "A teacher in Australia noticed his students learning English were getting stuck on dense textbook pages.\n\nSo he built a little Gemini add-on that turns that text into an illustrated picture book, worksheets included.\n\nThat's my favorite kind of AI story. No giant launch. Just somebody who cares about the people in front of him asking, \"how would I fix this?\"\n\nIt's not about changing the whole world. It's about changing someone's world."
+      ]
+    }
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-11-27",
+    "source": "The Koerner Office",
+    "title": "Find a Hated Giant, Simplify It. Steal Their Customers (I'm Doing It)",
+    "url": "https://www.youtube.com/watch?v=DLW3QCzqq_Y",
+    "video_id": "DLW3QCzqq_Y"
+  },
+  {
+    "kind": "youtube",
+    "date": "2026-11-27",
+    "source": "AI Daily Brief",
+    "title": "When AI Labs Rival Nations",
+    "url": "https://www.youtube.com/watch?v=_KDnFZ3uuC8",
+    "video_id": "_KDnFZ3uuC8"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-27",
+    "topic": "model_releases",
+    "title": "Sakana AI launches Namazu Small, a 30B model built on Nemotron 3 Nano",
+    "url": "https://www.the-ai.news/en/sakana-ai-launches-namazu-small-30b-model-nemotron-3-nano/",
+    "snippet": "November 27, 2026\n\nAI / news\n\nJapanese lab Sakana AI has announced Sakana Namazu Small, a 30-billion-parameter reasoning model built on NVIDIA Nemotron 3 Nano. According to the company, it outperforms the 120-billion-parameter Nemotron 3 Super on the average of 25 benchmark tests.\n\nSakana Namazu Small belongs to a family of models that Sakana builds from open models, before finishing them with its"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-27",
+    "topic": "model_releases",
+    "title": "Press Release: Press Information Bureau",
+    "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2341725&lang=1&reg=1",
+    "snippet": "## India AI Mission-supported Chariot-1 Foundation Models Launched, Strengthening India's Indigenous AI Capabilities \n\n### Developed in India through Indigenous Research, Chariot-1 Advances Multilingual Language Processing and Speech Generation with Innovations Tailored to India's Linguistic Diversity \n\n Posted On: 26 NOV 2026 11:23AM by PIB Delhi \n\nIn a significant milestone towards strengthening"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-27",
+    "topic": "model_releases",
+    "title": "PrismML launches 1-bit large language model family \u2013 DailySynapse",
+    "url": "https://dailysynapse.com/news/prismml-launches-1-bit-large-language-model-family/",
+    "snippet": "5 April 2026, 07:29\u00b7 2 min read\n\nPrismML has emerged from stealth with a $16.25 million seed round and an open source release of what it describes as a \u201c1-bit\u201d large language model family. Founded by Caltech researchers, the company is targeting one of the central pressures in Artificial Intelligence infrastructure: rising memory constraints and energy costs. Its pitch is to compress the model its"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-27",
+    "topic": "model_releases",
+    "title": "Krafton, Aleph Alpha and Ant's inclusionAI post open-weight MoE models | MLQ.ai",
+    "url": "https://mlq.ai/news/krafton-aleph-alpha-and-ants-inclusionai-post-open-weight-moe-models/",
+    "snippet": "Nov 27, 2026 \u00b7 10:33 AM \u00b7 By MLQ.ai Newsroom \u00b7 Edited by Peter Foy \u00b7 10 min read \n\nKey points\n\n- Krafton's Raon-1 mini (28.8B total, 4.3B active, Apache 2.0) follows an October preview; Krafton reports 96.7 on AIME 2026 and 86.0 on GPQA Diamond [1] [4].\n- Aleph Alpha's Kolibri 1.1 (75B total, 3.44B active) scores 73.2 overall on its developer's post-training table, up from 66.6 for Kolibri 1.0, wh"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-27",
+    "topic": "model_releases",
+    "title": "Sber's GigaChat 4 Goes Open: a 708B Model Under the MIT Licence, With a Million-Token Context",
+    "url": "https://chainaiwire.com/sber-gigachat-4-open-weights-mit-licence/",
+    "snippet": "By David November 27, 2026 7 min read\n\n...\n\nSber has released GigaChat 4, its largest model yet, as open weights: a 708-billion-parameter flagship under the MIT licence, alongside a compact 37-billion-parameter sibling, both with a one-million-token context window. The release, unveiled on 26 November at Sber\u2019s AI Journey conference in Moscow, puts Russia\u2019s largest bank squarely in the open-weight"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-27",
+    "topic": "product_releases",
+    "title": "SwitchFill: Generative Fill for Video",
+    "url": "https://beeble.ai/research/switchfill",
+    "snippet": "SwitchFill: Generative Fill for Video\n\n# SwitchFill: Generative Fill for Video\n\nNOV 27, 2026\n\n### Introducing SwitchFill\n\nSwitchFill is Beeble's own video inpainting model, developed and trained specifically to replace or edit a selected area of existing footage while leaving everything outside it untouched.\n\nToday we're launching SwitchFill. Generative Fill for video.\n\n## Select and edit anything"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-27",
+    "topic": "product_releases",
+    "title": "Meta launches Muse AI agent in UK to streamline fashion shopping",
+    "url": "https://www.just-style.com/news/meta-muse-ai-agent/",
+    "snippet": "# Meta launches AI shopping agent Muse in UK\n\nMeta has launched its Muse personal AI agent in the UK, offering fashion shoppers a new way to search for products, organise tasks, and manage selected purchases. \n\n Jangoulun Singsit November 27, 2026 \n\n Meta launches Muse AI agent in the UK. Credit: \u00a9 Meta.\n\nMeta\u2019s Muse is now available on iOS, Android, muse.ai and WhatsApp.\n\nAt launch, Meta partnere"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-27",
+    "topic": "product_releases",
+    "title": "'Infrastructure now has to make sense to agents, not just to people': Hostinger launches Headless to tie websites to the backend in this new AI age | TechRadar",
+    "url": "https://www.techradar.com/pro/website-building/infrastructure-now-has-to-make-sense-to-agents-not-just-to-people-hostinger-launches-headless-to-tie-websites-to-the-backend-in-this-new-ai-age",
+    "snippet": "# 'Infrastructure now has to make sense to agents, not just to people': Hostinger launches Headless to tie websites to the backend in this new AI age\n\n By Sead Fadilpa\u0161i\u0107 \n\n Published 27 November 2026 \n\nWhat happens after you generate a website with AI?\n\n (Image credit: Hostinger/Edited with Gemini) \n\n- Hostinger launches Headless, an AI-driven platform that automates backend setup, deployment, an"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-27",
+    "topic": "product_releases",
+    "title": "Meshy 7.5: Automated Low-Poly, Low-Distortion UVs, Readable Text - Meshy",
+    "url": "https://www.meshy.ai/blog/meshy-7-5-launch",
+    "snippet": "# Meshy 7.5: High Detail, Built for Real-Time\n\nMeshy 7.5 outputs a full-detail high-poly mesh and a game-ready low-poly mesh in one generation, with clean UVs and a normal map baked from the high-poly surface.\n\nAndrew\n\nPosted: November 27, 2026\n\n- Game-Friendly Assets in One Pass\n- Clean and Efficient UV Unwrapping\n- Accurate Text Modeling\n- Interactive 3D Scenes with Coding Agents\n- Availability\n"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-27",
+    "topic": "product_releases",
+    "title": "\ub798\ube14\uc5c5, \ub85c\uceec AI \uc571 'AI:GO 2.0' \ucd9c\uc2dc\u2026PC\uc11c \uc5d0\uc774\uc804\ud2b8 \uc2e4\ud589 - \uc804\uc790\uc2e0\ubb38",
+    "url": "https://www.etnews.com/20261127000331",
+    "snippet": "## \ub798\ube14\uc5c5, \ub85c\uceec AI \uc571 'AI:GO 2.0' \ucd9c\uc2dc\u2026PC\uc11c \uc5d0\uc774\uc804\ud2b8 \uc2e4\ud589\n\n \ubc1c\ud589\uc77c : 2026-11-27 17:11 \n\n\ub85c\uceec AI \ubaa8\ub378\u00b7\uc5d0\uc774\uc804\ud2b8 \uc571 '\uc5d0\uc774\uc544\uc774\uace0(AI:GO)'. \ub798\ube14\uc5c5\n\n\ub798\ube14\uc5c5\uc740 \uc678\ubd80 \ud074\ub77c\uc6b0\ub4dc \uc5c6\uc774 \uac1c\uc778\uc6a9 \ucef4\ud4e8\ud130\uc5d0\uc11c \uc778\uacf5\uc9c0\ub2a5(AI) \ubaa8\ub378\uacfc \uc5d0\uc774\uc804\ud2b8\ub97c \uc2e4\ud589\ud560 \uc218 \uc788\ub294 \uc571 '\uc5d0\uc774\uc544\uc774\uace0(AI:GO)' 2.0 \ubc84\uc804\uc744 \ucd9c\uc2dc\ud588\ub2e4\uace0 27\uc77c \ubc1d\ud614\ub2e4. \uc5d0\uc774\uc544\uc774\uace0\ub294 \uc5b8\uc5b4\u00b7\ube44\uc804\u00b7\uc74c\uc131 AI \ubaa8\ub378\uc744 \uc2e4\ud589\ud558\ub294 \ub85c\uceec AI \uc571\uc774\ub2e4. \uc678\ubd80 \uc11c\ubc84\ub85c \ub370\uc774\ud130\ub97c \uc804\uc1a1\ud558\uc9c0 \uc54a\uace0 PC\uc5d0\uc11c AI \ubaa8\ub378\uc744 \uc2e4\ud589\ud574 \ud074\ub77c\uc6b0\ub4dc \uc774\uc6a9 \ube44\uc6a9\uacfc \ub370\uc774\ud130 \uc720\ucd9c \ubd80\ub2f4\uc744 \ub0ae\ucdc4\ub2e4. \ub300\ud654\ucc3d\uc5d0\uc11c \ud14d\uc2a4\ud2b8 \uae30\ubc18 \ub300\ud654, \uc774\ubbf8\uc9c0 \uc0dd\uc131, \uc74c\uc131 \ubc1b\uc544\uc4f0\uae30, \uc2e4\uc2dc\uac04 \ubb38\uc11c \ubc88\uc5ed \ub4f1\uc744 \uc9c0\uc6d0\ud55c\ub2e4. \ubca4\uce58\ub9c8\ud06c \uae30\ubc18\uc73c\ub85c AI \ubaa8\ub378\ubcc4 PC \uad6c\ub3d9 \uc18d\ub3c4\ub97c \uce21\uc815\ud574 PC \ud658\uacbd\uc5d0 \uc801\ud569\ud55c \ubaa8"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-27",
+    "topic": "ai_agents",
+    "title": "MCP Servers Now Carry Their Own Playbooks, and That Changes How Agents Use Tools",
+    "url": "https://devops.com/mcp-servers-now-carry-their-own-playbooks-and-that-changes-how-agents-use-tools",
+    "snippet": "Giving an AI agent access to a tool is the easy part. Getting it to use that tool well is harder. An agent connected to a project management system or a cloud database can call every endpoint it finds. But it doesn\u2019t know the order of operations your team follows, which actions are risky, or what a good result looks like. Somebody has to teach it, and until now that somebody was usually the user, "
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-27",
+    "topic": "ai_agents",
+    "title": "PRIME BPM Unveils AI Agents 2.0 to Accelerate Business Process Management and Transformation",
+    "url": "https://www.businesswire.com/news/home/20261120311180/en/PRIME-BPM-Unveils-AI-Agents-2.0-to-Accelerate-Business-Process-Management-and-Transformation",
+    "snippet": "HOUSTON--(BUSINESS WIRE)-- PRIME BPM, a leading provider of end-to-end AI-powered Business Process Management software, has announced AI Agents 2.0, the next evolution of its four AI agents launched in January 2026. Building on strong adoption across industries, the latest advancements enhance AI-powered process mapping and documentation to help organizations accelerate BPM and operational excelle"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-27",
+    "topic": "ai_agents",
+    "title": "Anthropic Launches MCP Skills Beta on 2-Year Anniversary",
+    "url": "https://nexchron.com/news/anthropic-mcp-skills-tasks-ga-anniversary-2026",
+    "snippet": "\u2014 called Skills \u2014 that Claude retrieves on demand. Instead of an operator hardcoding\n...\ndepend on.\n\nComing next: File Uploads via MCP is slated for staged rollout, which would let agents read, process, and act on files passed through the protocol layer."
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-27",
+    "topic": "ai_small_business",
+    "title": "GoDaddy Airo AI Builder Simplifies Getting Online for Beauty Professionals",
+    "url": "https://www.prnewswire.com/news-releases/godaddy-airo-ai-builder-simplifies-getting-online-for-beauty-professionals-302951264.html",
+    "snippet": "GoDaddy Inc. \n\nNov 26, 2026, 09:12 ET\n\nChat- and voice-driven AI tools help build a professional online presence, connect booking platforms and promote services\n\nTEMPE, Ariz., Nov. 26, 2026 /PRNewswire/ -- GoDaddy, the world's largest domain registrar, recently introduced GoDaddy Airo AI Builder, an agentic operating system for small businesses.\n\nProfessionals in the beauty industry, including sal"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-27",
+    "topic": "ai_small_business",
+    "title": "Small Businesses Are Moving to All-in-One Business Software. Here's What That Means - The Tribune",
+    "url": "https://www.tribuneindia.com/news/business/small-businesses-are-moving-to-all-in-one-business-software-heres-what-that-means/",
+    "snippet": "##### ANI\n\nUpdated At : 04:07 PM Nov 27, 2026 IST\n\nPNN\n\nKochi (Kerala) [India], November 27: Ask a small business owner in India how many apps they use to run the company and many will need a moment to count. There is usually one for billing, one for accounts, a spreadsheet for leads, WhatsApp for customers, a tool for social media and a separate system for attendance and salaries.\n\nA growing numb"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-27",
+    "topic": "ai_small_business",
+    "title": "What is an AI operating system? New company Hatched Stacks builds them on a Mac mini the business owns - EMWNews.com | The Business Visibility Company\u2122",
+    "url": "https://emwnews.com/what-is-an-ai-operating-system-new-company-hatched-stacks-builds-them-on-a-mac-mini-the-business-owns/",
+    "snippet": "Jordan Taylor 1 day ago\n\nMost businesses now run a separate AI inside every app, and none of them can see the others. Hatched Stacks puts one AI system on a Mac mini the business owns. It connects to the team\u2019s tools, keeps what it learns and runs around the clock.\n\nOxnard, California Nov 24, 2026 (EMWNews.com) \u2013 Hatched Stacks is a new company that builds AI operating systems for solo entrepreneu"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-27",
+    "topic": "ai_small_business",
+    "title": "Makena Finger Zannini on AI at The Boutique COO",
+    "url": "https://leadersperception.com/how-the-boutique-coo-uses-ai-to-reduce-sales-admin/",
+    "snippet": "November 27, 2026\n\nBy Eric Zavala\n\nMFZ\n\n# How The Boutique COO uses AI to reduce sales admin\n\nMakena Finger Zannini, founder and CEO of The Boutique COO, explains how the company provides fractional operations and marketing leadership to growing businesses. The conversation looks at AI-supported sales administration, the limits of AI-generated creative work, and the emerging role of AI search in l"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-27",
+    "topic": "ai_labs",
+    "title": "DeepMind releases Gemini 4 verified quantum circuits | TLDR",
+    "url": "https://tldr.tech/story/4d489dae-af7f-41f4-b2ad-c9bc9371e1ce",
+    "snippet": "DeepMind releases Gemini 4 verified quantum circuits | TLDR\n\n# DeepMind releases Gemini 4 verified quantum circuits\n\nDeepMind announced that its Gemini system cut the estimated resource cost of a quantum circuit by about 290-fold. Google released proofs that enable researchers to check what the arcsine circuit computes and its resource usage without running it on quantum hardware. Open article \u2192"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-27",
+    "topic": "ai_labs",
+    "title": "Australian teachers lead the way: launching the Google AI Educator Series",
+    "url": "https://blog.google/intl/en-au/company-news/outreach-initiatives/google-ai-educator-series/",
+    "snippet": "# Australian teachers lead the way: launching the Google AI Educator Series\n\nNov 26, 2026\n\nChris Harte\n\nGovernment and Strategic Engagement, Global Lead\n\n \n\nAlison Byrnes MP opening the launch event.\n\nAustralian teachers are balancing more in the classroom than ever before \u2014 from meeting the diverse needs of every child to navigating rapid technological change. At Google for Education, we\u2019re focus"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-27",
+    "topic": "ai_labs",
+    "title": "Google in Colombia: 15 years of investment and AI growth",
+    "url": "https://blog.google/company-news/outreach-and-initiatives/google-org/15-years-investing-colombia-talent-future/",
+    "snippet": "# 15 years of investing in Colombia\u2019s talent and future\n\nNov 26, 2026\n\n Google celebrates 15 years in Colombia with $1 million in Google.org funding for AI education, small businesses, rural youth, and disaster relief. \n\nEdgardo Frias\n\nCountry Director, Andean Region\n\n \n\nFifteen years ago, Google\u2019s story in Colombia began with five people and a clear belief: technology is most meaningful when it s"
+  },
+  {
+    "kind": "news",
+    "date": "2026-11-27",
+    "topic": "ai_labs",
+    "title": "Mistral releases Large 4 open-weight model | TLDR",
+    "url": "https://tldr.tech/story/1c7ef7ca-5368-4c24-a96a-5190f3a792b6",
+    "snippet": "Mistral releases Large 4 open-weight model | TLDR\n\n# Mistral releases Large 4 open-weight model\n\nThe author argues that Europe's pursuit of AI sovereignty should not rely on open-weight models alone, noting that downloadable weights fail to guarantee transparency regarding training data or control over downstream security risks. While open-weight releases like Mistral Large 4 offer valuable decent"
   }
 ]
